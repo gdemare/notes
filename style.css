@@ -79,7 +79,7 @@ a, i {
 }
 
 a:last-child:hover, i:hover {
-	color: red;
+	color: rgb(0,122,255);
 }
 
 @media only screen and (max-device-width:480px) {
@@ -92,4 +92,31 @@ a:last-child:hover, i:hover {
 	margin-bottom: 5%;
 	font-size: 1.5em;
 	}
+}
+
+.special {
+	align-items: flex-start;
+	flex-direction: column;
+	text-align: left;
+	height: auto;
+  border-radius: 0.5em;
+  padding: 1em;
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+	background-color: rgb(44,44,46);
+}
+
+.special ul {
+	margin:  0px;
+	padding: 0px;
+	width: 100%;
+}
+
+.special a {
+
+}
+
+.special li {
+	display: flex;
+	flex-direction: row;
 }
