@@ -112,11 +112,36 @@ a:last-child:hover, i:hover {
 	width: 100%;
 }
 
-.special a {
-
-}
-
 .special li {
 	display: flex;
 	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+
+.special p {
+	display: flex;
+	width: 100%;
+	margin: 0px;
+	padding-top: 0.5em;
+}
+
+.special div {
+	margin-top: 0px;
+	width: 48%;
+}
+
+.special div a:first-child {
+	flex: none;
+	padding-right: 2em;
+}
+
+.special div a:last-child {
+	padding: 0cm;
+  font-size: 0.9em;
+}
+
+.special div a:last-child:hover {
+	border-radius: 1.2em;
+	background-color: rgb(0,122,255);
 }
