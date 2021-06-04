@@ -38,8 +38,6 @@ h2 {
 div	{
 	display: flex;
 	flex-direction: row;
-	align-items: center;
-	height: 2em;
 	margin-top: 0.4em;
 	vertical-align:middle;
 }
@@ -48,13 +46,14 @@ a {
 	display: flex;
 	align-items: center;
 	background-color: rgb(44,44,46);
-	height: 100%;
+	padding-top: 0.2em;
+	padding-bottom: 0.2em;
 }
 
 a:first-child {
 	flex: 1;
-  border-top-left-radius: 0.5em;
-  border-bottom-left-radius: 0.5em;
+  border-top-left-radius: 0.3em;
+  border-bottom-left-radius: 0.3em;
 	padding-left: 1em;
 	text-decoration: none;
 }
@@ -67,9 +66,8 @@ a:first-child:hover {
 a:last-child {
 	display: flex;
 	justify-content: center;
-	text-align: center;
-  border-top-right-radius: 0.5em;
-  border-bottom-right-radius: 0.5em;
+  border-top-right-radius: 0.3em;
+  border-bottom-right-radius: 0.3em;
   width: 2em;
 	margin-left: 0.1em;
 }
@@ -83,6 +81,9 @@ a:hover {
 }
 
 @media only screen and (max-device-width:480px) {
+	body {
+		font-size: 2em;
+	}
   content {
 	width: 90%;
 	margin-left: 5%;
@@ -91,6 +92,9 @@ a:hover {
 	flex-direction: column;
 	margin-bottom: 5%;
 	font-size: 1.5em;
+	}
+	h2 {
+	font-size: 0.5em;
 	}
 }
 
