@@ -110,9 +110,14 @@ a:hover {
 		flex-direction: column;
 		flex: wrap;
 	}
-	h2 {		
-		margin-top: 0px;
+	h2 {	
+		margin-top: 0.8em;
+		margin-bottom: 0.3em;
 		font-size: 0.8em;
+		flex: 1;
+	}
+	h1 {
+		margin-bottom: 0.67em;
 	}
 	.special div a i, content a i {
 		padding: 0.5em;
@@ -191,12 +196,12 @@ a:hover {
   font-size: 0.9em;
   background-color: rgb(55,54,63);
   min-width: 2em;
+  	border-top-right-radius: 0.3em;
+  	border-bottom-right-radius: 0.3em;
 }
 
 .special div a:last-child:hover {
 	background-color: rgb(33 32 42);
-  	border-top-right-radius: 0.3em;
-  	border-bottom-right-radius: 0.3em;
 }
 .special div i:hover {
 	color: rgb(209,209,214);
