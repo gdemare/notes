@@ -29,7 +29,8 @@ h1 {
 }
  
 h2 {
-	font-size: 0.9em;
+	display: flex;
+	font-size: 1em;
 	padding: 0px;
 	margin-bottom: 0px;
 	margin-top: 2em;
@@ -68,8 +69,8 @@ a:last-child {
 	justify-content: center;
   border-top-right-radius: 0.3em;
   border-bottom-right-radius: 0.3em;
-  width: 2em;
 	margin-left: 0.1em;
+	min-width: 2em;
 }
 
 a, i {
@@ -85,16 +86,46 @@ a:hover {
 		font-size: 2em;
 	}
   content {
-	width: 90%;
-	margin-left: 5%;
-	margin-right: 5%;
+	width: 100%;
 	display: flex;
 	flex-direction: column;
 	margin-bottom: 5%;
 	font-size: 1.5em;
 	}
-	h2, h1 {
-	font-size: 0.35em;
+	div {
+		margin-top: 0.1em;
+	}
+	content a:first-child, content a:last-child {
+		border-radius: 0;
+	}
+	div.special {
+		flex-direction: column;
+		border-radius: 0;
+	}
+	div a {
+		background-color: rgb(13,12,22);
+	}
+	.special div ul {
+		display: flex;
+		flex-direction: column;
+		flex: wrap;
+	}
+	h2 {		
+		margin-top: 0px;
+		font-size: 0.8em;
+	}
+	.special div a i, content a i {
+		padding: 0.5em;
+	}
+	content div a {
+		padding-top:  0.5em;
+		padding-bottom: 0.5em;
+		font-size: 0.8em;
+	  	padding-left: 0.5em;
+	  	padding-right: 0.5em;
+	}
+	div.special {
+		background-color: rgb(13,12,22);
 	}
 }
 
@@ -103,23 +134,26 @@ a:hover {
 	flex-direction: column;
 	text-align: left;
 	height: auto;
-  border-radius: 0.5em;
-  padding: 1em;
-  padding-top: 0.4em;
-  padding-bottom: 0.4em;
+	border-radius: 0.5em;
+	padding: 1em;
+	padding-top: 0.4em;
+	padding-bottom: 0.4em;
 	background-color: rgb(44,44,46);
 }
 
 .special ul {
 	margin:  0px;
 	padding: 0px;
-	width: 100%;
+	display: flex;
+	flex-direction: column;
+	flex: 1;
 }
 
 .special li {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+	flex: 1;
 }
 
 
@@ -132,6 +166,7 @@ a:hover {
 
 .special li a {
 	text-align: left;
+	display: flex;
 }
 
 .special div {
@@ -141,7 +176,9 @@ a:hover {
 .special div a:first-child {
 	flex: none;
 	padding-right: 2em;
-  background-color: rgb(55,54,63);
+  	background-color: rgb(55,54,63);
+  	border-top-left-radius: 0.3em;
+  	border-bottom-left-radius: 0.3em;
 }
 
 .special div a:hover {
@@ -153,10 +190,13 @@ a:hover {
 	padding: 0cm;
   font-size: 0.9em;
   background-color: rgb(55,54,63);
+  min-width: 2em;
 }
 
 .special div a:last-child:hover {
 	background-color: rgb(33 32 42);
+  	border-top-right-radius: 0.3em;
+  	border-bottom-right-radius: 0.3em;
 }
 .special div i:hover {
 	color: rgb(209,209,214);
