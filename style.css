@@ -34,6 +34,7 @@ h2 {
 	padding: 0px;
 	margin-bottom: 0px;
 	margin-top: 2em;
+	width: 100%;
 }
 
 div	{
@@ -81,7 +82,7 @@ a:hover {
 	background-color: rgb(29,27,38);
 }
 
-@media only screen and (max-device-width:480px) {
+@media only screen and (max-device-width:734px) {
 	body {
 		font-size: 2em;
 	}
