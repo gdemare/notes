@@ -20,6 +20,16 @@ content {
 	margin-bottom: 5%;
 }
 
+article {
+	display: none;
+	flex-direction: column;
+}
+
+h1:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
 h1 {
 	font-weight: normal;
 	text-transform: uppercase;
