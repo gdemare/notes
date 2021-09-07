@@ -1,6 +1,6 @@
 $(document).ready(function() {
 // animation menu déroulant
-var menu = ["s4", "s3", "s2", "s1"];
+var menu = ["s4", "s3", "s2", "s1", "campbell"];
 for (var i = 0; i <= menu.length - 1; i++) {
   console.log(menu[i])
   $("#" + menu[i]).click(function() {
