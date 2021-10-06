@@ -92,6 +92,7 @@ a:last-child {
 	border-radius: 0.3em;
 	background: linear-gradient(to bottom, rgb(57,57,57), rgb(40,40,40) );
 	padding: 0.3em;
+	border:  solid rgba(57,57,57,0);
 }
 
 .bouton:hover, .bouton:first-child:hover {
