@@ -90,13 +90,14 @@ a:last-child {
 	padding-top: 0.2em;
 	padding-left: 0.2em;
 	border-radius: 0.3em;
-	background-color: rgb(57,57,57);
-	border:  solid rgb(57,57,57);
+	background: linear-gradient(to bottom, rgb(57,57,57), rgb(40,40,40) );
 	padding: 0.3em;
+	border:  solid rgba(57,57,57,0);
 }
 
 .bouton:hover, .bouton:first-child:hover {
-	background-color: transparent;
+	background: transparent;
+	border:  solid rgb(57,57,57);
 	text-decoration: none;
 }
 
