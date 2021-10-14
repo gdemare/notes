@@ -1,15 +1,17 @@
-function registerServiceWorker() {
-  // enregistre le script sw avec les navigateurs qui le gèrent
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('sw.js', { scope: '/' }).then(() => {
-      console.log('Service Worker enregistré correctement.');
-    }).catch(error => {
-      console.log('Erreur lors de l''enregistrement du Service Worker : ', error);
-    });
-  }
-}
-
 $(document).ready(function() {
+// PWA
+function registerServiceWorker() {
+// enregistre le script sw avec les navigateurs qui le gèrent
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js', { scope: '/' }).then(() => {
+    console.log('Service Worker enregistré correctement.');
+  }).catch(error => {
+    console.log('Erreur lors de l''enregistrement du Service Worker : ', error);
+  });
+}
+};
+  
+  
 // animation menu déroulant
 var menu = ["s4", "s3", "s2", "s1", "campbell"];
 for (var i = 0; i <= menu.length - 1; i++) {
