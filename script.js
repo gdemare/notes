@@ -8,7 +8,7 @@ function registerServiceWorker() {
       console.log('Erreur lors de l''enregistrement du Service Worker : ', error);
     });
   }
-}
+};
 
 $(document).ready(function() {
   
