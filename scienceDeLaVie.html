@@ -9,6 +9,7 @@
 		<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 		<script type="text/javascript" src="script.js"></script>
+		<script type="text/javascript" src="service-worker.js"></script>
 		<link rel="manifest" href="manifest.json">
 		<title>Science de la Vie</title>
 	</head>
@@ -281,31 +282,3 @@
 <button id=btnInstall>Installer</button>
 </body>
 </html>
-
-<script type="text/javascript">
-	let deferredPrompt;
-
-	window.addEventListener('beforeinstallprompt', (e) => {
-		e.preventDefault();
-		//On récupère l’évènement pour l'utiliser plus tard
-		deferredPrompt = e;
-
-		//On affiche le bouton d'installation
-		document.getElementById("btnInstall").style.display = "block";
-	});
-
-	document.getElementById("btnInstall").addEventListener('click', (e) => {
-		document.getElementById("btnInstall").style.display = 'none';
-		// Affiche la demande d’installation 
-		deferredPrompt.prompt();
-
-		deferredPrompt.userChoice.then((choiceResult) => {
-			if (choiceResult.outcome === 'accepted') {
-				console.log('Installation réussie');
-			} else {
-				console.log('Installation refusée');
-			}
-			deferredPrompt = null;
-		});
-	});
-</script>
