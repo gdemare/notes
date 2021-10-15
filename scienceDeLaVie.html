@@ -278,6 +278,7 @@
 </div>
 </article>
 </content>
+<button id=btnInstall>Installer</button>
 </body>
 </html>
 
@@ -290,11 +291,11 @@
 		deferredPrompt = e;
 
 		//On affiche le bouton d'installation
-		document.getElementByAdd("btnInstall").style.display = "block";
+		document.getElementById("btnInstall").style.display = "block";
 	});
 
-	document.getElementByAdd("btnInstall").addEventListener('click', (e) => {
-		document.getElementByAdd("btnInstall").style.display = 'none';
+	document.getElementById("btnInstall").addEventListener('click', (e) => {
+		document.getElementById("btnInstall").style.display = 'none';
 		// Affiche la demande d’installation 
 		deferredPrompt.prompt();
 
