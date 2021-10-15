@@ -1,11 +1,17 @@
 {
- "lang" : "fr",
- "dir" : "ltr",
- "name" : "Cours SV",
- "short_name" : "Cours",
- "theme_color" : "#1a1a1a",
- "background_color" : "#1a1a1a",
- "start_url" : "/",
- "display" : "standalone",
- "orientation" : "natural"
-}
+  "short_name": "Les Dieux Du Code",
+  "name": "Les Dieux Du Code",
+  "icons": [
+    {
+      "src": "image.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#44b6c6",
+  "background_color": "#f1f1f1",
+  "scope": "/"
+} 
