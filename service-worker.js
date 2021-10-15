@@ -6,8 +6,8 @@ self.addEventListener("install", function(event) {
       // On met en cache une liste d'URLs qui sont la fondation de notre app.
       return cache.addAll([
           "/",
-          "/styles/main.css", 
-          "/script/core.js"
+          "/style.css", 
+          "/script.js"
       ]);
     })
   );
@@ -29,6 +29,7 @@ self.addEventListener('fetch', function(event) {
     )
   );
 });
+
 // on vérifie que le navigateur est compatible avec service worker.
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", function() {

@@ -86,18 +86,18 @@ a:last-child {
 
 .bouton, .bouton:first-child {
 	margin-top: 1em;
+	margin-left: 1em;
 	width: fit-content;
 	padding-top: 0.2em;
 	padding-left: 0.2em;
 	border-radius: 0.3em;
-	background: linear-gradient(to bottom, rgb(57,57,57), rgb(40,40,40) );
+	background: rgb(57,57,57);
 	padding: 0.3em;
-	border:  solid rgba(57,57,57,0);
+	border: 2px solid rgba(57,57,57,0);
 }
 
 .bouton:hover, .bouton:first-child:hover {
-	background: transparent;
-	border:  solid rgb(57,57,57);
+	border: 2px solid rgb(120,120,120);
 	text-decoration: none;
 }
 
