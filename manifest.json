@@ -3,7 +3,7 @@
   "short_name":"Cours SV",
   "start_url":"scienceDeLaVie.html",
   "display":"standalone",
-  "background_color":"#5900b3",
+  "background_color":"#1d1b26",
   "theme_color":"black",
   "scope": ".",
   "description":"Mes cours de biologie",
