@@ -1,17 +1,16 @@
 {
-  "name":"Cours de Science de la Vie",
-  "short_name":"Cours SV",
-  "start_url":"scienceDeLaVie.html",
+  "name":"Starter",
+  "short_name":"Starter",
+  "start_url":"index.html",
   "display":"standalone",
   "background_color":"#1d1b26",
   "theme_color":"black",
   "scope": ".",
-  "description":"Mes cours de biologie",
+  "description":"",
   "icons":[
-  {
-  "src":"images/icon-512x512.png",          
-  "sizes":"512x512",
-  "type":"image/png"
-  }
-]
+{
+    "src": "icons/icon-line.png",
+    "sizes": "512x512",
+    "type": "image/png"
+}]
 }
