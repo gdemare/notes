@@ -10,7 +10,7 @@ from glob import glob
 
 chemin = os.getcwd()
 
-dossiers = ['biologie','communication','L1 et L2 SV', 'mathématique', 'méthodes scientifiques', 'physique'] #, "/L1/", "/L2/", "/communication/", "/méthodologie/", "/non classé/")
+dossiers = ['biologie','L1 et L2 SV', 'mathématique', 'physique'] #, "/L1/", "/L2/", "/communication/", "/méthodologie/", "/non classé/")
 
 for i in dossiers:
     dossier = chemin +  "/" + i  + "/"

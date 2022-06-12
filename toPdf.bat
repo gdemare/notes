@@ -1,3 +1,3 @@
 ECHO OFF
-python prog.py
+python toPdf.py
 PAUSE
