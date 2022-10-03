@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
+# In[12]:
 
 
 import os
@@ -10,7 +10,7 @@ from glob import glob
 
 chemin = os.getcwd()
 
-dossiers = ['biologie','L1 et L2 SV', 'mathématique', 'physique'] #, "/L1/", "/L2/", "/communication/", "/méthodologie/", "/non classé/")
+dossiers = ['biologie','L1 et L2 SV', 'LP', 'mathématique', 'physique'] #, "/L1/", "/L2/", "/communication/", "/méthodologie/", "/non classé/")
 
 for i in dossiers:
     dossier = chemin +  "/" + i  + "/"
@@ -24,19 +24,21 @@ for i in dossiers:
     
     # vérfier pour chaque fichier si la date de modif du pdf précéde celle de la modif du fichier
     for j in fichiers:
-        fichierPdf = folderPdf + os.path.basename(j).replace("docx", "pdf")
-        # date de modif du word > date de création du pdf ou existence
-        if os.path.isfile(fichierPdf): 
-            if os.path.getmtime(j) > os.path.getmtime(fichierPdf):
+        if '~$_' not in j:
+            fichierPdf = folderPdf + os.path.basename(j).replace("docx", "pdf")
+            # date de modif du word > date de création du pdf ou existence
+            if os.path.isfile(fichierPdf): 
+                if os.path.getmtime(j) > os.path.getmtime(fichierPdf):
+                    convert(j, fichierPdf)
+                    print(fichierPdf + "..................MàJ")
+
+            else :
+                print( j )
                 convert(j, fichierPdf)
-                print(fichierPdf + "..................MàJ")
-
-        else :
-            convert(j, fichierPdf)
-            print( fichierPdf + "..................Créé" )
+                print( fichierPdf + "..................Créé" )
 
 
-# In[5]:
+# In[9]:
 
 
 
