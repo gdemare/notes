@@ -5,6 +5,11 @@
 | Perturbe	| |
 | Direct/Indirect	Indirecte | se réfère à un substance qui agit sur une voie de signalisation. |
 | Progressive/instantané	| |
+| Organisé/Désorganisé | |
+| Compétition | |
+| Localisation || 
+
+Partir de la pathologie.
 
 #### Étude de documents (méthode)
 
