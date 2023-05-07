@@ -1,3 +1,11 @@
+Each suivi d'un singulier poru le pluriel il faut ajouter of the 
+Every est toujours suivi d'un singulier
+
+Each + objet considérer comme individuel (chaque plante)
+Every utilisé généralemetn employer avec une notion de temps (chaque matin,....)
+
+Interchangeable
+
 # Structure des phrases
 
 SUBJECT - VERB - OBJECT - PLACE - TIME

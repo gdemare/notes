@@ -1,0 +1,149 @@
+## Espace temps et déplacement
+
+### Newton
+
+Indépendamment de leur poids, deux objets tombent à la même vitesse.
+
+### Relativité restreinte
+
+$$E = mc^{2}$$
+
+L'énergie peut être transformé en masse càd en objets physiques.
+
+!!! note
+	L'accélérateur de particules créer de nouvelles particules à partir de collisions à des vitesses très élevées.
+
+Le temps ne s'écoule pas de la même manière pour tout le monde càd qu'il n'est pas immuable.
+
+### Relativité générale
+
+L'espace n'est pas une propriété intrinsèque (indépendante des facteurs extérieurs). Il est le champs gravitationnel, une courbure de l'espace-temps. Autrement dit, le contenant et le contenu dépendent l'un de l'autre.
+
+La gravité est la même chose qu'une accélération :$ma = mg$
+
+Dans un repère soumis à une accélération,
+
+La distance entre deux points dans un espace euclidien : $y^{2} + x^{2}$
+
+Déplace à vitesse non constante.
+
+Mesure de distances.
+
+Questions : Pourquoi deux objets de masse différente tombent à la même vitesse ?
+Réponse : Ce ne sont pas les deux objets qui bougent mais la pièce.
+
+Ce que dit la théorie :
+
+* Le contenant est de même nature que le contenu.
+* L'expansion de l'Univers. L'espace se dilate non pas parce que les corps se déplacent les uns par rapport aux autres mais parce la distance qui sépare deux objets augmente à cause de la dilatation de l'espace par la gravité.
+* La lune avance en ligne droite vers la Terre dans un espace courbé par la gravité terrestre.
+
+## Physique quantique
+
+Les principes de la physique quantique :
+
+* Dualité onde particule.
+* Quantification : la granularité de la matière et de l'énergie. Le monde est discontinu.
+* Superposition : la particule possède deux états. C'est lorsque l'on interagit avec elle que l'on fixe un de ces états.
+* Intrication deux particules échangent de l'information à distance. L'interaction avec l'une modifie l'état de la seconde.
+* Incertitude (ou indétermination) pour avoir l\'information sur la vitesse ou la position de la particule, il faut la contraindre à adopter un état. Il en résulte une imprécision constante.
+
+La mécanique quantique décrit comment interagit mais pas comment évolue le système.
+
+## Radioactivité
+
+La radioactivité est la transformation du noyau au bout d'un certain temps soit par émission de rayonnement ou de particules.
+
+Elle est le résultat d'un état d'instabilité.
+
+La masse des produits est plus faible que celle de départ car une partie a été expulsé sous forme d'énergie.
+
+### Les quatre forces de la nature
+
+Les protons du noyau se repoussent à cause de leur charge positive.
+
+Force nucléaire attractive
+
+Noyau est stable si la force nucléaire est égale à la force de répulsion.
+
+Un déséquilibre conduit à une transmutation
+
+Radioactivité
+
+* $\gamma$ émission d'un photon de très haute énergie.
+* $\alpha$ conduit à l'émission d'un noyau constitué de deux protons et de deux neutrons (hélium).
+* $\beta$ résultat d'une instabilité causée par un trop grand nombre de neutrons. Un neutron est transformé en un proton et en un électron.
+
+L'uranium est un cas particulier fission le noyau de 92 protons en deux
+nouveaux de 36 et 56 en libérant une grande quantité d'énergie.
+
+Deux ½ neutrons sont émis.
+
+!!! example 
+	Le principe de la bombe nucléaire est de contraindre les deux neutrons à entrer chacun en collision avec deux nouveaux noyaux.
+	Le nucléaire civil 1 seul.
+
+On provoque la collision en neutron avec le noyau d'uranium. Car la
+particule n'est pas chargée. Elle peut s'approcher facilement du noyau.
+
+$E = m{.c}^{2}$
+
+La masse peut être convertie en énergie et inversement.
+
+Plus une particule est massive plus elle contient d'énergie.
+
+Les lois de gravitation de Newton qui énoncent que deux masses s'attire
+est un cas particulier. Deux objets énergétiques s'attirent.
+
+2 particules 1 force de champ interaction passe par l'entremise d'une
+particule nommé quantum.
+
+La portée dépend de la masse de la particule. Plus elle est massive et plus son effet.
+
+4 types d'interactions :
+
+* Électromagnétique attractive et répulsive infini cumulative
+* Nucléaire faible très courte distance $\beta$ réaction de fsion des noyaux d'hydrogène dans le soleil. 3 particules appelé boson $W+$, $W-$ et $Z\_0$.
+* Nucléaire forte intense contribue à maintenir les charges positives gluons.
+* Gravité attractive porté infini cumulative. Graviton
+
+!!! note
+	L'électromagnétisme est de ce fait capable de s'annuler.
+
+Toutes les particules ne subissent pas les interactions nucléaires fortes comme les électrons.
+
+Constitué de quarks.
+
+## Principe de causalité et thermodynamique
+
+Principe de causalité : un événement passé ne peut pas être modifié.
+
+Vient du fait que la chaleur, l'agitation atomique se transmet d'un
+endroit plus chaud vers un endroit plus froid.
+
+## L'antimatière
+
+La rencontre entre une particule de matière et son équivalent
+d'antimatière provoque une annihilation libérant une grande quantité
+d'énergie.
+
+L'antimatière a disparu de notre univers mais les scientifiques ont été
+capable de la synthétiser en laboratoire.
+
+Son absence est probablement dû à des différences entre les lois qui la
+régissent et celle de la matière. L'Univers actuel serait fait du reste
+de matière qui ne fut pas annihiler par l'antimatière.
+
+## Électricité
+
+Watt $kJ.h^{-1}$
+
+## Forme et conformation
+
+La sphère est la forme la plus compacte. Elle maximise le volume pour
+une surface petite.
+
+La densité = masse par le volume.
+
+Généralement un liquide qui se solidifie devient plus dense à
+l'exception de la glace.

@@ -1,7 +1,5 @@
-Prétérit : verbe + ed
-
-Participe passé : verbe + ed
-
+* Prétérit : verbe + ed
+* Participe passé : verbe + ed
 
 Temps| Emploi | Construction
 ---|---|---
@@ -13,36 +11,59 @@ Les modaux : will/would, can/could, must, might, ....
 
 ## Le présent
 
-simple
+### Le présent simple
+
 Informations objectives et faits :
+
 * état (feel, love, think, believe)
 * habitude 
 * futur très proche (I go in 10 minutes)
 * succession d'événements
 
-be+v-ing
-Commentaire, interprétation
-Décrire ce qui se passe
-avec les verbes d'attitudes (stay, wait, li)
-habitude associé à un adverbe
-future proche lorsqu'il est associé à un marqeur de temps (Nous allons la semaine prochaine)
+### Le présent be+v-ing
 
+Commentaire, interprétation :
 
-## Perfect
+* Décrire ce qui se passe
+* avec les verbes d'attitudes (stay, wait, li). Attention stay down, li down,... sont considérés comme des verbes d'action.
+* habitude associé à un adverbe pour signifier un reproche, une irritation (They are almays making too noises.)
+* future proche lorsqu'il est associé à un marqeur de temps (Nous allons la semaine prochaine)
 
-Perfect on est capable d'ajouter for (depuis).
+!!! warning
+    Be n'est pas répété : She is sitting, reading a book.
+
+## Le passé (appelé préterit)
+
+### Perfect
+
+Perfect on est capable d'ajouter for (depuis). Tout marqueur de temps 
+
+prétérit modal pour exprimer un souhait ou un regret.
+
+!!! example
+    J'aimerai que de l'intelligence artificielle soit présente dans les programmes politiques. 
+
+### Be + v-ing
+
+used to + base verbale pour marquer un changement avec le présent. Avant il jouait au football (en insistan que ce n'est plus le cas).
+
+!!! warning
+    Be used to/ be accustomed to + v-ing traduit avoir l'habitude
+
+### Would + bv
+
+Dans un texte au passé, would la répétition, une habitude.
+
+After the end of the day, he would always take a drink.  
 
 ## Le Futur
 
 will/shall + verbe
 
-## Futur proche
+### Futur proche
 
-  ----------------------------------- -----------------------------------
-  be + going + infinitif              Intention ou futur proche (gonna).
-
-  be + ing|          Action projet qui va se produire.
-  ----------------------------------- -----------------------------------
+* be + going + infinitif : Intention ou futur proche (gonna).
+* be + ing : Action projet qui va se produire.
 
 ## Le conditionnel (Si)
 
@@ -72,7 +93,6 @@ If + preterit simple \... would + perfect | Passé | Si j'avais, j'aurais eu
 
 Exprimer le regret : I wish/If only +
 
-
 Regret | Temps | Exemple
 ---|---|---
 Présent | Passé simple | Si j'avais assez d'argent.
@@ -80,13 +100,13 @@ Passé | Passé perfect | Si j'avais eu assez d'argent.
 
 _Ex : I wish I knew the answer. = Je souhaite connaitre la réponse._
 
-## Passif
+## Le passif
 
 _Ex : la chaise a été déplacée._
 
 To be + participe passé
 
-## Impératif
+## L'impératif
 
 Verbe à l'infinitif
 
@@ -98,7 +118,7 @@ Pour insister on peut :
 Pour la 1ère personne du singulier et du pluriel on peut utiliser
 l'expression : Let us + infinitif
 
-[Exemple :]{.underline} Allons marcher !
+_Exemple : Allons marcher !_
 
 ## Donner un conseil (tu devrais)
 
@@ -115,25 +135,21 @@ Prefer Would rather/had rather + infinitif
 
 ## Gérondif (exemple ; en marchant)
 
-Verbe + ing Forme du verbe utilisée pour décrire certaine circonstance.
+Verbe + ing Forme du verbe utilisée pour décrire certaines circonstances.
 
 ## Les modaux pour exprimer la certitude
 
 Par degrés de certitude
 
-  -----------------------------------------------------------------------
-  Modaux|            Définition
-  ----------------------------------- -----------------------------------
-  must|              Devoir
+Modaux |Définition
+---|---
+must| Devoir
+may be (ou could) | Sans doute
+can/might| Peut être
+can\'t| Impossible
 
-  may be (ou could) | Sans doute
-
-  can/might|         Peut être
-
-  can\'t|            Impossible
-  -----------------------------------------------------------------------
-
-[Rmq :]{.underline} le négatif de could est might not
+!!! note
+    le négatif de could est might not
 
 Must + be + -ing tu dois être entrain de....
 
@@ -141,24 +157,16 @@ Passé Might + have + participe passé
 
 Conjugué
 
-  -----------------------------------------------------------------------
-  Temps|             Formule
-  ----------------------------------- -----------------------------------
-  Présent|           modaux + simple
-
-  Passé|             modaux + progressif
-  -----------------------------------------------------------------------
+Temps | Formule
+---|---
+Présent | modaux + simple
+Passé| modaux + progressif
 
 Il est également possible d'utiliser :
 
-
-  -----------------------------------------------------------------------
-  des adverbes|      des expressions
-  ----------------------------------- -----------------------------------
-  probably, certainly, perhaps        be certain, be likely, be unlikely,
-| be improbale
-
-  -----------------------------------------------------------------------
+Adverbes| Expressions
+---|---
+probably, certainly, perhaps | be certain, be likely, be unlikely, be improbale
 
 ## Le verbe Pourvoir (la permission et le possibilité)
 
