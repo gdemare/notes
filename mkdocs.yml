@@ -63,11 +63,14 @@ nav:
     - "Ortographe et vocabulaire" : anglais/ortographe-vocabulaire.md
     - Structure : anglais/structure.md
   - Biologie :
-    - Bioinformatique : 
-      - "Séquençage" : biologie\bioinformatique\sequencage.md
+    - Cellule :
+      - "Protéines" : biologie/cellule/proteines.md
+      - "Communication cellulaire" : biologie/cellule/communication-cellulaire.md
+    - Bioinformatique :
+      - "Séquençage" : biologie/bioinformatique/sequencage.md
     - "Méthodes et techniques" : 
-      - "Introduction biologie expérimentale" : biologie\methodes-techniques\introduction-biologie-experiementale.md
-      - "Spectrométrie de masse" : biologie\methodes-techniques\spectrometrie.md
+      - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
+      - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
   - "Math Physique Chimie" :
     - Chimie :
       - Thermodynamique : math-physique-chimie/chimie/thermodynamique.md
