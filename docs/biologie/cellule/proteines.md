@@ -9,7 +9,7 @@ Les protéines peuvent être classées en trois types :
 La chaîne peptidique est suffisante pour donner la formation active aux protéines. Dans certain cas, la conformation est adoptée à la suite du clivage d'une partie de la séquence des aa comme pour l'insuline.
 
 !!! note
-  Il existe des protéines qui facilitent la mise en conformation comme les protéines chaperonnes. Par exemple, Heat shock proteins (Hsp) est un type de protéines chaperonnes produites en condition de stress cellulaire thermique.
+	Il existe des protéines qui facilitent la mise en conformation comme les protéines chaperonnes. Par exemple, Heat shock proteins (Hsp) est un type de protéines chaperonnes produites en condition de stress cellulaire thermique.
 
 ## Modification post traduction
 
