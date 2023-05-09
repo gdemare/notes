@@ -371,7 +371,7 @@ $$P(x = i) = C_{n}^{k}p^{k}{(1 - p)}^{n - k}$$
  |  |  |    de$\mathbf{\ f}\left( \mathbf{x} \right)$ grâce au signe
  |  |  |    de la dérivée.
 
-  Tangente :   $$f^{'}(a)(x - a) + f(a)$$
+Tangente :   $$f^{'}(a)(x - a) + f(a)$$
 
   Primitive | Calculer l'aire sous la courbe :
  |  |  |    $\int_{}^{}{f(x)\ dx} = \ F(x) + C$
