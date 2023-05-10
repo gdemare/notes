@@ -48,8 +48,8 @@ plugins:
   - search
   - mkdocstrings
   - glightbox #pour les images
-  - git-revision-date-localized:
-      type: date
+  - git-revision-date-localized: #pour avoir la date de maj 
+    type: date
 
 markdown_extensions:
   - pymdownx.superfences
@@ -93,7 +93,7 @@ nav:
       - 'entretien-embauche d embauche' : communication/expression-orale/entretien-embauche.md
       - Rhétorique : communication/expression-orale/rhetorique.md
   - 'Mathématique' :
-    - 'Mathématique' : mathematique/mathematique/mathematique.md
+    - 'Mathématique' : mathematique/mathematique.md
     - 'Réseaux de neurones' : mathematique/reseaux-neurones.md
     - Statistique : mathematique/statistique.md
     - "Tests statistiques" : mathematique/tests-statistiques.md
