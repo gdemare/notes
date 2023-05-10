@@ -49,7 +49,7 @@ plugins:
   - mkdocstrings
   - glightbox #pour les images
   - git-revision-date-localized: #pour avoir la date de maj 
-    type: date
+      type: date
 
 markdown_extensions:
   - pymdownx.superfences
