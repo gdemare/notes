@@ -180,9 +180,9 @@ $y^{'} + Ay = 0$ | $y = ke^{- ax}$ | equation différentielle d'ordre 2
 
 ### Trigonométrie
 
-$\tan\alpha = \frac{adjacent}{opposé}$
-$\sin\alpha = \frac{adjacent}{hypothénuse}$
-$\cos\alpha = \frac{adjacent}{hypothénuse}$
+* $\tan\alpha = \frac{adjacent}{opposé}$
+* $\sin\alpha = \frac{adjacent}{hypothénuse}$
+* $\cos\alpha = \frac{adjacent}{hypothénuse}$
 
 ### Équation de forme remarquable
 
