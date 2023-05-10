@@ -94,9 +94,9 @@ nav:
       - Rhétorique : communication/expression-orale/rhetorique.md
   - 'Mathématique' :
     - 'Mathématique' : mathematique/mathematique/mathematique.md
-    - 'Réseaux de neurones' : mathematique/mathematique/reseaux-neurones.md
-    - Statistique : mathematique/mathematique/statistique.md
-    - "Tests statistiques" : mathematique/mathematique/tests-statistiques.md
+    - 'Réseaux de neurones' : mathematique/reseaux-neurones.md
+    - Statistique : mathematique/statistique.md
+    - "Tests statistiques" : mathematique/tests-statistiques.md
   - 'Physique Chimie' :
     - Chimie : 
       - Thermodynamique : physique-chimie/chimie/thermodynamique.md
