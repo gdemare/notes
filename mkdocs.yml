@@ -1,5 +1,5 @@
 site_name: Mes notes
-repo_url: https://gdemare.github.io/notes/
+repo_url: https://github.com/gdemare/notes/
 repo_name: gdemare/notes
 edit_uri: edit/main/docs/
 
@@ -40,6 +40,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+  theme:
+    icon:
+      edit: material/pencil
 
 plugins:
   - search
