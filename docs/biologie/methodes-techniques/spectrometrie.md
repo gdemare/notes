@@ -183,3 +183,33 @@ Les peptides sélectionnées sont fragmentés. La différence de M/Z entre les f
 fragment peptidique.
 
 Les séquences des fragments peptidiques sont superposées pour déterminer la séquence du peptide.
+
+
+La hydroliser les protiéines. Deux stratégies pour l'étude protéomique
+par spectrométrie de masse.
+
+Bottom up
+
+Shotgun
+
+of protein-protein interactions, absolute and relative protein
+quantification, post-translational modifications, and protein stability
+
+les protéines sont transcrite de l'ARNm qui est transcrit de l'ADN.
+
+Rentre en phase gazeuse sans détruire les protéines.
+
+Algorithme qui fait matcher les petptides avec une base de données.
+
+Analyse statistique des données avec false et vrai positifs.
+
+En fonction du moment où le clivage (hydrolyse à lieu :
+
+Bottom-up en morceaux de peptides dont on déduit la présence de
+protéines. Parfois la protéine est déduite par la présence d'un seul
+petit fragment.
+
+Top-down tout les protéines intacts protéoforms. Couvre moins la
+séquence peptidique que la méthiode bottom up.
+
+Purifier les protéines avec la chromatographie.

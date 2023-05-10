@@ -176,9 +176,15 @@ $y^{'} + Ay = 0$ | $y = ke^{- ax}$ | equation différentielle d'ordre 2
 | --------------------------------- | |  |  |  |  |  |  |  |   |
 +-----------------------------------+----------------------------------+
 
-# Géométrie
+## Géométrie
 
-## Équation de forme remarquable
+### Trigonométrie
+
+$\tan\alpha = \frac{adjacent}{opposé}$
+$\sin\alpha = \frac{adjacent}{hypothénuse}$
+$\cos\alpha = \frac{adjacent}{hypothénuse}$
+
+### Équation de forme remarquable
 
   -----------------------------------------------------------------------------------------------
   Cercle de rayon $\mathbf{r}$ et de | $\left( \mathbf{x - a} \right)\mathbf{² + (y - b)²}$=r²
@@ -186,8 +192,6 @@ $y^{'} + Ay = 0$ | $y = ke^{- ax}$ | equation différentielle d'ordre 2
   ------------------------------------- ---------------------------------------------------------
 
   -----------------------------------------------------------------------------------------------
-
-## 
 
 +------------------------------+---------------------+----------------+
 | Coefficient directeur d'une  | Formule de la |    | Vecteur |  | |

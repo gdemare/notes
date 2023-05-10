@@ -69,11 +69,18 @@ nav:
     - Bioinformatique :
       - "Séquençage" : biologie/bioinformatique/sequencage.md
     - Cellule :
-      - "Protéines" : biologie/cellule/proteines.md
+      - "ADN et ARN" : biologie/cellule/ADN-ARN.md
+      - "ADN et ARN synthèse" : biologie/cellule/ADN-ARN-synthese.md
+      - "Bactéries" : biologie/cellule/bacteries.md
       - "Communication cellulaire" : biologie/cellule/communication-cellulaire.md
+      - "Métabolites" : biologie/cellule/metabolites.md
+      - "Protéines" : biologie/cellule/proteines.md
     - "Méthodes et techniques" : 
       - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
       - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
+    - "Physologie animale" :
+      - Histologie  : biologie/physiologie-animale/histologie.md
+      - Immunologie : biologie/physiologie-animale/immunologie.md
   - "Math Physique Chimie" :
     - Chimie :
       - Thermodynamique : math-physique-chimie/chimie/thermodynamique.md
@@ -81,5 +88,7 @@ nav:
       - 'Mathématique' : math-physique-chimie/mathematique/mathematique.md
       - 'Réseaux de neurones' : math-physique-chimie/mathematique/reseaux-neurones.md
       - Statistique : math-physique-chimie/mathematique/statistique.md
+      - "Tests statistiques" : math-physique-chimie/mathematique/tests-statistiques.md
     - Physique :
       - Physique : math-physique-chimie/physique/physique.md
+      - Optique : math-physique-chimie/physique/optique.md
