@@ -92,14 +92,14 @@ nav:
     - 'Expression orale' :
       - 'entretien-embauche d embauche' : communication/expression-orale/entretien-embauche.md
       - Rhétorique : communication/expression-orale/rhetorique.md
-  - "Math Physique Chimie" :
-    - Chimie :
-      - Thermodynamique : math-physique-chimie/chimie/thermodynamique.md
-    - 'Mathématique' :
-      - 'Mathématique' : math-physique-chimie/mathematique/mathematique.md
-      - 'Réseaux de neurones' : math-physique-chimie/mathematique/reseaux-neurones.md
-      - Statistique : math-physique-chimie/mathematique/statistique.md
-      - "Tests statistiques" : math-physique-chimie/mathematique/tests-statistiques.md
+  - 'Mathématique' :
+    - 'Mathématique' : mathematique/mathematique/mathematique.md
+    - 'Réseaux de neurones' : mathematique/mathematique/reseaux-neurones.md
+    - Statistique : mathematique/mathematique/statistique.md
+    - "Tests statistiques" : mathematique/mathematique/tests-statistiques.md
+  - 'Physique Chimie' :
+    - Chimie : 
+      - Thermodynamique : physique-chimie/chimie/thermodynamique.md
     - Physique :
-      - Physique : math-physique-chimie/physique/physique.md
-      - Optique : math-physique-chimie/physique/optique.md
+      - Physique : physique-chimie/physique/physique.md
+      - Optique : physique-chimie/physique/optique.md
