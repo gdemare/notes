@@ -1,5 +1,7 @@
 site_name: Mes notes
 repo_url: https://gdemare.github.io/notes/
+repo_name: gdemare/notes
+edit_uri: edit/main/docs/
 
 # mkdocs.yml
 theme:
@@ -17,7 +19,7 @@ theme:
     - content.tabs.link
     # - toc.integrate # réuni le plan et le sommaire
     - content.action.edit # bouton edit
-    - content.action.view # bouton voir
+    #- content.action.view # bouton voir
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -43,6 +45,8 @@ plugins:
   - search
   - mkdocstrings
   - glightbox #pour les images
+  - git-revision-date-localized:
+      type: date
 
 markdown_extensions:
   - pymdownx.superfences

@@ -24,5 +24,6 @@ jobs:
                 mkdocs-material \
                 mkdocstrings \
                 mkdocs-glightbox \
+                mkdocs-git-revision-date-localized-plugin \
 
       - run: mkdocs gh-deploy --force
