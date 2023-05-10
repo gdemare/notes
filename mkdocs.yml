@@ -81,6 +81,10 @@ nav:
     - "Physologie animale" :
       - Histologie  : biologie/physiologie-animale/histologie.md
       - Immunologie : biologie/physiologie-animale/immunologie.md
+  - Communication :
+    - 'Expression orale' :
+      - 'entretien-embauche d embauche' : communication/expression-orale/entretien-embauche.md
+      - Rhétorique : communication/expression-orale/rhetorique.md
   - "Math Physique Chimie" :
     - Chimie :
       - Thermodynamique : math-physique-chimie/chimie/thermodynamique.md
