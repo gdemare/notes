@@ -9,9 +9,9 @@ Pour une valeur qui 1 qui double à
 
 $1 + 1 = 2$
 
-$$\left( 1 + 1 \times \frac{1}{2} \right) + (1 + 1 \times \frac{1}{2}) \times \frac{1}{2} = {(1 + \frac{1}{2})}^{2}$$
+$\left( 1 + 1 \times \frac{1}{2} \right) + (1 + 1 \times \frac{1}{2}) \times \frac{1}{2} = {(1 + \frac{1}{2})}^{2}$
 
-$$\left( 1 + 1 \times \frac{1}{3} \right) + \left( 1 + 1 \times \frac{1}{3} \right) \times \frac{1}{3} + \lbrack\left( 1 + 1 \times \frac{1}{3} \right) + \left( 1 + 1 \times \frac{1}{3} \right) \times \frac{1}{3}\rbrack \times \frac{1}{3} = {(1 + \frac{1}{3})}^{3}$$
+$\left( 1 + 1 \times \frac{1}{3} \right) + \left( 1 + 1 \times \frac{1}{3} \right) \times \frac{1}{3} + \lbrack\left( 1 + 1 \times \frac{1}{3} \right) + \left( 1 + 1 \times \frac{1}{3} \right) \times \frac{1}{3}\rbrack \times \frac{1}{3} = {(1 + \frac{1}{3})}^{3}$
 
 La généralisation des calculs précédent conduit à :
 ${(1 + \frac{1}{n})}^{n}$
@@ -19,7 +19,7 @@ ${(1 + \frac{1}{n})}^{n}$
 La fonction exponentielle est$\lim_{n \rightarrow \infty}{\ {(1 + \frac{1}{n})}^{n}} = e( \approx 2,718\ldots)$
 
 !!! note
-  L'exponentiel et le logaritme sont systmétrique par rapport à $f(x) = x$.
+    L'exponentiel et le logaritme sont systmétrique par rapport à $f(x) = x$.
 
 ### Logarithme
 
@@ -352,11 +352,25 @@ $$P(x = i) = C_{n}^{k}p^{k}{(1 - p)}^{n - k}$$
 
 ## Les polynômes
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Déterminer les valeurs pour lesquels $f(x) = 0$. Ces méthodes sont également pratiques pour connaître le signe de $f(x)$.
+
+=== "Par calcul du déterminant"
+    1. Calculer le delta : $\mathrm{\Delta} = b^{2} - 4ac$
+    2. Si delta est :
+        * $$\mathrm{\Delta} < 0$
+        Delta | nb de solutions
+    ---|---
+
+
+
+=== "Par factorisation (forme canonique)"
+    Cela revient à factoriser avec les identités remarquables.
+    
+
   Trouver |  |  |  |  |  |  |  |  |  |  |  0 solution |  |  |  | 1 racine |  |  |  |  |  |  |  |  |  |  |  | 2 racines
   $\mathbf{f}\left( \mathbf{x} \right)\mathbf{= 0}$ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
   --------------------------------------------------- ------------------------- ------------------------------------------------------- -------------------------
-  $$\mathrm{\Delta} = b^{2} - 4ac$$ |  |  |  |    $$\mathrm{\Delta} < 0$$   $$\mathrm{\Delta} = 0$$ |  |  |  |  |  |  |  |  $$\mathrm{\Delta} > 0$$
+  $$ |  |  |  |    $$\mathrm{\Delta} < 0$$   $$\mathrm{\Delta} = 0$$ |  |  |  |  |  |  |  |  $$\mathrm{\Delta} > 0$$
 
  |  |  |  |  |  |  |  |  |  |  |  |  |   Racine : |  |  |  |   $$x_{i} = \frac{- b \pm \sqrt{}\mathrm{\Delta}}{2a}$$   
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -370,21 +384,24 @@ $$P(x = i) = C_{n}^{k}p^{k}{(1 - p)}^{n - k}$$
 
 ## Dérivé et primitive
 
-  ------------ ----------------------------------------------------------
-  Dérivée |   Connaitre les variations
+Le signe de la dérivé permet de connaitre la variation de $f(x)$.
+
+Dérivée |   Connaitre les variations
  |  |  |    de$\mathbf{\ f}\left( \mathbf{x} \right)$ grâce au signe
  |  |  |    de la dérivée.
 
-Tangente :   $$f^{'}(a)(x - a) + f(a)$$
+Tangente :   $f^{'}(a)(x - a) + f(a)$
 
-  Primitive | Calculer l'aire sous la courbe :
- |  |  |    $\int_{}^{}{f(x)\ dx} = \ F(x) + C$
-  ------------ ----------------------------------------------------------
+Calculer l'aire sous la courbe (primitive) :$\int_{}^{}{f(x)\ dx} = \ F(x) + C$
 
-  ------------------------------------------------------------------------------------------------------------------------------------------
-  $$\mathbf{f(x)}$$ | $$\mathbf{u + v}$$   $$\mathbf{u}^{\mathbf{n}}$$ |  | $$\mathbf{u \times v}$$   $$\frac{\mathbf{u}}{\mathbf{v}}$$
+$\mathbf{f(x)}$ | $\mathbf{f'(x)}$
+---|---
+$\mathbf{u + v}$ | $u' + v'$
+ | 
+
+ | $$   $$\mathbf{u}^{\mathbf{n}}$$ |  | $$\mathbf{u \times v}$$   $$\frac{\mathbf{u}}{\mathbf{v}}$$
   -------------------- -------------------- ---------------------------------- ------------------------- -----------------------------------
-  $$\mathbf{f'(x)}$$   $$u' + v'$$ |  |   $$n \times u' \times u^{n - 1}$$   $$u^{'}v + uv'$$ |  |   $$\frac{u^{'}v - uv'}{v^{2}}$$
+   $$ |  |   $$n \times u' \times u^{n - 1}$$   $$u^{'}v + uv'$$ |  |   $$\frac{u^{'}v - uv'}{v^{2}}$$
 
   ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -394,6 +411,8 @@ Tangente :   $$f^{'}(a)(x - a) + f(a)$$
   $$\mathbf{f'(x)}$$   $$u'e^{u}$$ |  |  |  |    $$\frac{u'}{u}$$ |  |  |   $$- u' \times \sin u$$ |  | $$u' \times \cos u$$ |  |   $$u' \times (1{{+ (tan}u)}^{2})$$
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 +----------------------------------+-----------------------------------+
 | Trouver une primitive |  |  | | $$\int_{}^{}\mathbf{u' |  |  | |
