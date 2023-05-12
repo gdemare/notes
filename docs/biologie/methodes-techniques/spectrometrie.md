@@ -26,9 +26,10 @@ Utilités :
 * Le listage de molécules.
 * La quantification relative ou absolue.
 
-Pour faciliter la détection des molécules, des charges sont enlevées ou rajoutées afin de maximiser le nombre de charges totales (positif ou négatif, cation (+) ou anion (-).).
+Pour faciliter la détection des molécules, des charges sont enlevées ou rajoutées afin de maximiser le nombre de charges totales (positif ou négatif, cation (+) ou anion (-)).
 
-_Rmq_ La qualité des résultats et leur pertinence dépendent grandement de la qualité de l'échantillon.
+!!! note
+    La qualité des résultats et leur pertinence dépendent grandement de la qualité de l'échantillon.
 
 ## Fonctionnement technique du spectromètre de masse
 
@@ -54,13 +55,35 @@ Dissociation des molécules par la répulsion d'électrique dû aux charges.
 
 ## Analyseur de trajectoire
 
-Analyseur (séparateur) time of fly
+Les types de disposifs permettant de mesurer le m/z :
+* Le quadripôle analyse la stabilité de la trajectoire. Les 20 ions plus
+intenses sont ensuite analysés en MS/MS. Les autres molécules éjectées
+par des variations du champs électrique.
+* L'orbitrap.
+* time of fly (TOF)
 
 ### Quadripôle
 
 Le quadripôle analyse la stabilité de la trajectoire. Les 20 ions plus intenses sont ensuite analysés en MS/MS. Les autres molécules éjectées par des variations du champs électrique.
 
 ### Orbitrap
+
+Deux électrodes en
+
+La fragmentation permet de déterminer la structure chimique des ions.
+
+$f = \frac{1}{2\pi\sqrt{k\frac{m}{z}}}$ avec k la courbure de champs de
+l'électrode et f la fréquence de rotation de l'ion.
+
+La forme centrifuge est compensée par la force électrostatique.
+
+Le courant induit par les oscillations.
+
+Les oscillations sont transformées en spectre par transformation de
+Fourier.
+
+La tension est un quadro log (une imbrication de quatre logs). Elle
+offre une bonne différenciation sur les m/z proches.
 
 ## Interprétation des spectres MS
 
@@ -72,23 +95,34 @@ avec :
 * En abscisse, $\frac{m}{z}$ où $m$ poids moléculaire apparent (Da) et z la charge.
 * En ordonnée, l'intensité du signal.
 
-_Rmq_ L'intensité du signale dépend de la quantité de
-protéines présentes dans l'échantillon.
+!!! note
+    L'intensité du signale dépend de la quantité de protéines présentes dans l'échantillon.
 
 ## La charge
 
 La charge est déterminée par la différence entre deux pics
 isotopiques : $\mathrm{\Delta} = \frac{1}{Charge}$
 
-Isotope molécule ayant un ou plusieurs neutrons supplémentaires.
+__Isotope__ molécule ayant un ou plusieurs neutrons supplémentaires.
 
-Composé radioactif isotope non stable.
+__Composé radioactif__ isotope non stable.
 
 ## Quantification absolue
 
 La quantification absolue passe par une gamme étalon avec un marquage à l'isotope. Les échantillons d'intérêts sont reportés sur une courbe étalon.
 
-## Protéomique
+
+
+-----------------------------
+
+## Protéomique en MS
+
+Vocabulaire
+
+* __PTM__ post traductionnel Modifications
+* __Nano LC (ou HPLC)__ nano-chromatographie en phase liquide.
+* __PSM__ spectre assimilé à un peptide (Peptid Spectrum Match)
+
 
 Nature de l'échantillon de la nature de la molécule les plus + protéines $H^{+}$. Jusqu'à z. Azote et oxygène doublet non liant donneur.
 
@@ -111,8 +145,9 @@ Les échantillons sont préparés pour faciliter la collecte des données par l'
 
 Pour faciliter l'analyse des protéines par MS :
 
-1. les protéines sont découpées en peptides.
-2. Les peptides sont analysés en sortie de chromatographie. Ils sont élués au fur et à mesure par des propriétés physico-chimiques proches.
+1. Les protéines sont purifiées généralement par gel SDS.
+2. Les protéines sont découpées en peptides.
+3. Les peptides sont analysés en sortie de chromatographie. Ils sont élués au fur et à mesure par des propriétés physico-chimiques proches.
 
 La chromatographie
 
@@ -120,7 +155,8 @@ La chromatographie
 
 Les protéines fragmentées sont découpées en peptides notamment avec la trypsine. Cette peptidase est extrêmement spécifique à son site de clivage et très efficace, elle rate peu de sites.
 
-_Rmq_ Le découpage des protéines par les protéases complexifie l'échantillon (nombre de molécules beaucoup important) mais cela diminue la complexité du spectre après la fragmentation (les fragments sont suffisamment petits pour être facile à analyser).
+!!! note
+    Le découpage des protéines par les protéases complexifie l'échantillon (nombre de molécules beaucoup important) mais cela diminue la complexité du spectre après la fragmentation (les fragments sont suffisamment petits pour être facile à analyser).
 
 ### Chromatographie
 
@@ -173,9 +209,10 @@ déterminer :
 
 1. Les spectres sont générés grâce à des algorithmes de deep learning à partir de séquences d'aa des protéines présent dans les bases de données et comparer avec les spectres obtenus.
 2. Seulement les molécules ave cun certain m/z vont être sélectionne.
-2. Pour remonter au protéines, les peptides sont regroupés en protéine en faisant appel au principe de parcimonie maximale (le moins de données possible) càd l'hypothèse la plus probable est celle qui un nombre minimum de protéines. Ce principe suggère que si deux séquences différentes (uniques) sont présentes dans l'échantillon lors il est plus probable qu'ils proviennent d'une protéine qui possède c'est deux séquences que de deux protéines différentes qui possèdent chacune une séquence.
+3. Pour remonter au protéines, les peptides sont regroupés en protéine en faisant appel au principe de parcimonie maximale (le moins de données possible) càd l'hypothèse la plus probable est celle qui un nombre minimum de protéines. Ce principe suggère que si deux séquences différentes (uniques) sont présentes dans l'échantillon lors il est plus probable qu'ils proviennent d'une protéine qui possède c'est deux séquences que de deux protéines différentes qui possèdent chacune une séquence.
 
-_Rmq_ Chez les Eucaryotes, le génome qui sert contient l'information de la synthèse des protéines contient à cause de son organisation la présence de nombreuses homologies.
+!!! note
+    Chez les Eucaryotes, le génome qui sert contient l'information de la synthèse des protéines contient à cause de son organisation la présence de nombreuses homologies.
 
 ### Séquençage
 
@@ -213,3 +250,50 @@ Top-down tout les protéines intacts protéoforms. Couvre moins la
 séquence peptidique que la méthiode bottom up.
 
 Purifier les protéines avec la chromatographie.
+
+
+# Méthodes de quantification
+
+LFQ (label free quantification)
+
+## Quantification absolue
+
+La quantification absolue passe par une gamme étalon avec un marquage à
+l'isotope. Les échantillons d'intérêts sont reportés sur une courbe
+étalon.
+
+## Tandem Mass Tag (TMT)
+
+Multiplexages techniques consistant à réunir plusieurs informations au
+sein d'un unique support.
+
+Les protéines sont marquées par un groupement chimique.
+
+Méthode appartenant à la famille des tags isobares (de même masse). Les
+molécules sont marquées avec un groupement chimique. Le tag est conçu
+pour être cliver lors de la collision.
+
+Avantage principale est d'échapper aux variations entre les runs.
+
+Les tags sont composés de trois régions :
+
+-   Liaison avec la protéine attache le groupe rapporteur aux peptides
+    an amine-réactive NHS-ester groupe.
+
+-   Le normalisateur ou groupement de liaison qui a pour rôle de rendre
+    le TMT isobarique.
+
+-   Groupe rapporteur avec des masses différentes.
+
+Les tags ont la même masse pour avoir un comportement identique en
+durant la MS 1 et être traité ensemble.
+
+Dans la cellule de collision le mass reporter est cliver.
+
+Doit-on déclarer le groupement restant comme modification PTM ?
+
+On s'intéresse à l'expression d'FMRP :
+
+−40 V and lower than −90 V
+
+t 3 CVs
