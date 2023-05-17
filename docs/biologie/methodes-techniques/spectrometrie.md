@@ -149,6 +149,9 @@ Pour faciliter l'analyse des protéines par MS :
 2. Les protéines sont découpées en peptides.
 3. Les peptides sont analysés en sortie de chromatographie. Ils sont élués au fur et à mesure par des propriétés physico-chimiques proches.
 
+!!! note
+    La chromatogrpahie est généralement en phase inverse (phase stationnaire eau et acétonitrile pour la phase mobile) sur colonne de silice. En présence d'eau, la silice devient perd en polarité. Le décrochage des molécules se fait par compétition. les peptides éluées sont alors de plus en plus hydrophobe.
+
 La chromatographie
 
 ### Fragmentation des protéines par digestion enzymatique
