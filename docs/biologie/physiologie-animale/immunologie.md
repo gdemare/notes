@@ -1,8 +1,7 @@
-Le corps est protégé par deux types d''immunité :
+Le corps est protégé par deux types d'immunité :
 
-|      |            |
-|------|------------|
-| Inné | Adaptative |
+* Inné. Son origine est ancienne. Elle reconnait un nombre limité de pathogènes.
+* Adaptative. Son apparition dans l'histoire de l'évolution est plus récente que le système inné. Il permet à un individu d'apprendre à lutter contre des corps étrangers 
 
 ## Les cellules du système immunitaire
 
@@ -10,23 +9,19 @@ Les cellules du système immunitaire sont issues de cellules souches de
 la moelle osseuse. Elles donneront naissances à deux grandes lignées de
 cellules :
 
-|                                                  |                                                            |
-|-------------------------------------|-----------------------------------|
-| Lymphocytes impliqués dans l'immunité adaptative | Myélocytes impliqués dans l'immunité innée (et adaptative) |
+* Lymphocytes impliqués dans l'immunité adaptative
+* Myélocytes impliqués dans l'immunité innée (et adaptative).
 
-[Rmq :]{.underline} L'immunité adaptative ne se déclenche lorsque
-l'infection atteint une valeur seuil.
+!!! note
+    L'immunité adaptative ne se déclenche lorsque l'infection atteint une valeur seuil.
 
 # Le système inné
 
-L'immunité inné résulte de l'apprentissage génétique de la lutte contre
-les organismes infectieux. Elle a été transmise et enrichie au cours de
-l'évolution.
+L'immunité inné résulte de l'apprentissage génétique de la lutte contre les organismes infectieux. Elle a été transmise et enrichie au cours de l'évolution.
 
 ## Les myélocytes
 
-Leucocytes cellules produites par la moelle osseuse présente dans le
-sang. Elles sont impliquées dans le système immunitaire.
+__Leucocytes__ cellules produites par la moelle osseuse présente dans le sang. Elles sont impliquées dans le système immunitaire.
 
 Les cellules du système immunitaire inné se trouvent :
 
@@ -55,75 +50,47 @@ Les cellules du système immunitaire inné se trouvent :
 
 Les monocytes se transforment lorsqu'ils passent dans les tissus en :
 
-|                 |                           |
-|-----------------|---------------------------|
-| Les macrophages | Les cellules dendritiques |
+* Les macrophages
+* Les cellules dendritiques
 
-[Rmq :]{.underline} les macrophages sont également responsables de la
-dégradation des cellules mortes.
+!!! note 
+    Les macrophages sont également responsables de la dégradation des cellules mortes.
 
 ### Les cellules dendritiques
 
-Les cellules dendritiques font la jonction entre le système immunitaire
-inné et adaptif en apportant les antigènes aux lymphocytes T naïfs (par
-opposition à mature). Elles capturent des macromolécules sur le site
-d'infections et migrent vers les tissus lymphoïdes.
+Les cellules dendritiques font la jonction entre le système immunitaire inné et adaptif en apportant les antigènes aux lymphocytes T naïfs (par opposition à mature). Elles capturent des macromolécules sur le site d'infections et migrent vers les tissus lymphoïdes.
 
 ## Le mécanisme du système immunitaire inné
 
-Épithélial tissu de revêtement et des glandes constitués de cellules
-jointives reposant sur une lame basale.
+__Épithélial__ tissu de revêtement et des glandes constitués de cellules jointives reposant sur une lame basale.
 
-Endothélial type de tissus épithéliaux qui recouvre le circuit
-vasculaire.
+__Endothélial__ type de tissus épithéliaux qui recouvre le circuit vasculaire.
 
-La réaction immunitaire se déclenche généralement lors du franchissement
-de la barrière épithéliale.
+La réaction immunitaire se déclenche généralement lors du franchissement de la barrière épithéliale.
 
-1.  Les cellules résidentes reconnaissent la présence de pathogènes
-    grâce à leurs récepteurs (PRR).
+1. Les cellules résidentes reconnaissent la présence de pathogènes grâce à leurs récepteurs (PRR).
+2. Libération de molécules :
+    1. Les mastocytes libèrent de l'histamine qui provoque la dilation des vaisseaux sanguins. Les cellules endothéliales libèrent des médiateurs vasoactifs qui provoquent une dilatation des capillaires sanguins et une augmentation de leur perméabilité.
+    2. Les macrophages et les cellules dendritiques libèrent des cytokines notamment des chimiokines, des interlokines et des prostaglandines qui attirent les leucocytes.
+3. La vasodilations permet aux leucocytes de traverser la paroi et d'aller sur le site d'infecté. C'est ce que l'on appelle la réaction inflammatoire.
 
-2.  Libération de molécules :
-
-    a.  Les mastocytes libèrent de l'histamine qui provoque la dilation
-        des vaisseaux sanguins. Les cellules endothéliales libèrent des
-        médiateurs vasoactifs qui provoquent une dilatation des
-        capillaires sanguins et une augmentation de leur perméabilité.
-
-    b.  Les macrophages et les cellules dendritiques libèrent des
-        cytokines notamment des chimiokines, des interlokines et des
-        prostaglandines qui attirent les leucocytes.
-
-3.  La vasodilations permet aux leucocytes de traverser la paroi et
-    d'aller sur le site d'infecté. C'est ce que l'on appelle la réaction
-    inflammatoire.
-
-Diapédèse mécanisme de franchissement de la barrière endothéliale par
+__Diapédèse__ mécanisme de franchissement de la barrière endothéliale par
 les leucocytes.
 
-Les chimiokines traversent les cellules endothéliales et pénètrent dans
-les vaisseaux sanguins. Leur présence sert à activer les leucocytes. Une
-fois capter, les récepteurs deviennent sensibles aux sélectines et aux
-intégrines.
+Les chimiokines traversent les cellules endothéliales et pénètrent dans les vaisseaux sanguins. Leur présence sert à activer les leucocytes. Une fois capter, les récepteurs deviennent sensibles aux sélectines et aux intégrines.
 
-Les leucocytes peuvent alors se fixer à leur substrat situé à la surface
-des cellules endothéliales. Une fois accroché, il traverse la paroi et
-entre sur le lieu de l'inflammation.
+Les leucocytes peuvent alors se fixer à leur substrat situé à la surface des cellules endothéliales. Une fois accroché, il traverse la paroi et entre sur le lieu de l'inflammation.
 
-Chimiotactisme phénomène d'attraction des phagocytes par différentes
-molécules dont les chimiokines.
+__Chimiotactisme__ phénomène d'attraction des phagocytes par différentes molécules dont les chimiokines.
 
 ## Les étapes de la phagocytose par les macrophages 
 
-Mécanisme de la phagocytose
+Le mécanisme et les étapes de la phagocytose :
 
-1.  Reconnaissance
-
-2.  Induction de la phagocytose
-
-3.  Dégradation
-
-4.  Rejet des déchets dans le milieu extracellulaire.
+1. Reconnaissance
+2. Induction de la phagocytose
+3. Dégradation
+4. Rejet des déchets dans le milieu extracellulaire.
 
 ## Détection de l'activité anormale
 
@@ -132,16 +99,12 @@ lorsqu'elles détectent :
 
 -   Motifs moléculaires associés aux pathogènes (PAMP). Par exemple, :
 
-    -   Les bactéries sont reconnues à cause des lipopolysaccharides
-        (LPS) qui constituent leur membrane plasmique.
+    -   Les bactéries sont reconnues à cause des lipopolysaccharides (LPS) qui constituent leur membrane plasmique.
 
     -   Les virus à cause de leur ARN double brin.
 
     -   Les champignons par leur paroi de chitine.
 
-```{=html}
-<!-- -->
-```
 -   Motifs moléculaires associés aux dégâts cellulaires (DAMP).
     Lorsqu'une cellule est endommagée, certaines molécules présentes
     uniquement dans le milieu intracellulaire peuvent se retrouver dans
@@ -181,9 +144,8 @@ du système immunitaire adaptatif n'est pas uniquement lié à l'ADN mais
 aux différents environnements et rencontres qu'un individu a faites
 durant sa vie.
 
--   Une activité physique modérée favorise son efficacité.
-
--   Le système immunitaire devient moins performant avec l'âge.
+* Une activité physique modérée favorise son efficacité.
+* Le système immunitaire devient moins performant avec l'âge.
 
 ## Les lymphocytes
 
@@ -192,14 +154,14 @@ appartenant aux globules blancs (les leucocytes) qui sont produites dans
 la moelle osseuse. Il existe deux types de lymphocytes qui se
 distinguent notamment :
 
-|                                     | Lymphocyte B               | Lymphocyte T          |
+      | Lymphocyte         | Lymphocyte    |
 |--------------------------|----------------------|------------------------|
-| Lieu de maturation                  | Moelle osseuse             | Thymus                |
-| Récepteur                           | B cell receptor (BCR)      | T cell receptor (TCR) |
-| Forme des récepteurs                | En Y                       | En I                  |
-| Nbre moyen dans l'organisme         | 1 million                  | 10 millions           |
+| Lieu de maturatio   | Moelle osseus      | Thymu |
+| Récepteu    | B cell receptor (BCR)      | T cell receptor (TCR) |
+| Forme des récepteur | En         | En    |
+| Nbre moyen dans l'organism  | 1 millio   | 10 million    |
 | Formes reconnues par les récepteurs | Sucres, protéines, lipides | Peptides antigéniques |
-| Lieu de reconnaissance              | Extracellulaire            | Intracellulaire       |
+| Lieu de reconnaissanc       | Extracellulair     | Intracellulaire       |
 
 Épitope partie de l'antigène qui se lie au récepteur.
 
@@ -234,33 +196,29 @@ Un lymphocyte s'active lorsqu'un antigène vient se fixer sur un de ses
 récepteurs. Il entre alors dans une phase de clonage. Les lymphocytes
 produits deviendront soit :
 
-|                                        |                       |
-|----------------------------------------|-----------------------|
-| Des cellules effectrices (plasmocytes) | Des cellules mémoires |
+* Des cellules effectrices (plasmocytes).
+* Des cellules mémoires.
 
-Cellules effectrices cellules qui combattent l'antigène.
+__Cellules effectrices__ cellules qui combattent l'antigène.
 
 Cette phase de multiplication permet de donner naissance à partir d'un
 lymphocyte B à la présence de 10^5^ à 10^6^. \
-Amplification clonale processus de réplication des lymphocytes à la
+
+__Amplification clonale__ processus de réplication des lymphocytes à la
 suite de leur activation.
 
-Les cellules mémoires persistent longtemps dans l'organisme. Elles
-permettront une réponse immunitaire plus rapidement en cas de nouvelle
-exposition au même pathogène. Lors de la :
+Les cellules mémoires persistent longtemps dans l'organisme. Elles permettront une réponse immunitaire plus rapidement en cas de nouvelles expositions au même pathogène. Lors de la :
 
-|                                                |                              |
-|----------------------------------------|--------------------------------|
-| Première exposition, il faut entre 10-17 jours | Seconde exposition 2-7 jours |
+1. Première exposition, il faut entre 10-17 jours 
+2. Seconde exposition 2-7 jours |
 
 ## Les lymphocytes B
 
 Les lymphocytes B deviennent actifs lorsqu'un antigène est présenté
 par :
 
-|                                       |                             |
-|---------------------------------------|-----------------------------|
-| La présence directe avec le pathogène | Un lymphocyte T CD4 helper. |
+* La présence directe avec le pathogène
+* Un lymphocyte T CD4 helper.
 
 Les lymphocytes B Les cellules effectrices des lymphocytes B sont les
 plasmocytes. Elles produisent une version soluble des récepteurs
@@ -273,20 +231,10 @@ entre trois et cinq jours.
 
 Les anticorps se lient aux pathogènes pour permettre de :
 
--   Favoriser la reconnaissance des pathogènes et l'opsonisation, aide à
-    la phagocytose.
-
--   Aider à contenir les pathogènes en les agglomérant. Chaque récepteur
-    est capable de se lier à de deux antigènes.
-
--   Neutraliser les pathogènes. Ils empêchent les pathogènes (comme les
-    virus) de rentrer dans une cellule hôte.
-
--   Provoquer la destruction du pathogène grâce à l'association de
-    protéines (ce processus est appelé système du complément). Certaines
-    protéines viennent s'associer aux anticorps pour former un complexe
-    d'attaque membranaire qui perse la membrane du pathogène et provoque
-    sa mort.
+* Favoriser la reconnaissance des pathogènes et l'opsonisation, aide à la phagocytose.
+* Aider à contenir les pathogènes en les agglomérant. Chaque récepteur est capable de se lier à de deux antigènes.
+* Neutraliser les pathogènes. Ils empêchent les pathogènes (comme les virus) de rentrer dans une cellule hôte.
+* Provoquer la destruction du pathogène grâce à l'association de protéines (ce processus est appelé système du complément). Certaines protéines viennent s'associer aux anticorps pour former un complexe d'attaque membranaire qui perse la membrane du pathogène et provoque sa mort.
 
 Anticorps (ou immunoglobuline Ig ou BCR) version du récepteur
 membranaire soluble (libre dans le milieu extracellulaire). Il est
@@ -300,15 +248,13 @@ reconnaissance identiques à chaque extrémité.
 
 Chaque récepteur est composé de quatre chaines peptidiques :
 
--   2 sont dites lourdes. Elles sont ancrées à la membrane plasmique.
-
--   2 légères.
+* 2 sont dites lourdes. Elles sont ancrées à la membrane plasmique.
+* 2 légères.
 
 Chaque chaine est composée de deux régions :
 
-|           |          |
-|-----------|----------|
-| Constante | Variable |
+* Constante 
+* Variable
 
 ![](media/image1.jpeg){width="3.279070428696413in"
 height="2.7036384514435694in"}
@@ -317,24 +263,16 @@ height="2.7036384514435694in"}
 
 Les parties variables sont sous divisées en région
 
--   De structure généralement peu variable.
+* De structure généralement peu variable.
+* Hypervariables où se situent les acides aminés qui interagissent avec l'antigène. Elles sont appelées CDR.
 
--   Hypervariables où se situent les acides aminés qui interagissent
-    avec l'antigène. Elles sont appelées CDR.
+Il existe cinq types d'anticorps ayant des fonctions (opsonisation, neutralisation) et des localisations spécifiques formées par la combinaison de deux types de chaines légères (Kappa et Alpha) et de cinq types de chaines lourdes (γ, δ, α, μ et ε) :
 
-Il existe cinq types d'anticorps ayant des fonctions (opsonisation,
-neutralisation) et des localisations spécifiques formées par la
-combinaison de deux types de chaines légères (Kappa et Alpha) et de cinq
-types de chaines lourdes (γ, δ, α, μ et ε) :
-
--   IgA localisés principalement dans les muqueuses et l'appareil
-    urogénitale. Ils préviennent des pathogènes.
-
--   IgD sont des récepteurs des cellules B qui n'ont pas été exposées à
+* IgA localisés principalement dans les muqueuses et l'appareil urogénitale. Ils préviennent des pathogènes.
+* IgD sont des récepteurs des cellules B qui n'ont pas été exposées à
     un antigène. Active les basophiles et mastocyte pour produire des
     molécules antibactériennes.
-
--   IgE se lient aux antigènes et provoque la libération d'histamine par
+* IgE se lient aux antigènes et provoque la libération d'histamine par
     les mastocytes et les basophiles. Ils sont impliqués dans les
     réactions allergiques et l'asthme Il protège contre les vers
     parasites apparu.
@@ -357,7 +295,7 @@ une cellule dendritique.
 Il existe deux types de cellules chez les lymphocytes T en fonction du
 type de récepteurs présent sur leur membrane plasmique :
 
-|                               |                                |
+         |
 |-------------------------------|--------------------------------|
 | LT auxiliaire équipé des CD4. | LT cytotoxique équipé des CD8. |
 
@@ -371,34 +309,27 @@ réponse à trois types de signal :
 -   Une molécule de co-stimulation (uniquement pour les LT matures) qui
     stimule la production du LT ou l'inhibe. Ce mécanisme permet :
 
-    -   de contrôler le nombre de lymphocytes actifs présents dans
-        l'organisme.
+    -   de contrôler le nombre de lymphocytes actifs présents dans l'organisme.
 
-    -   responsables de la tolérance au soi en désactivant les LT
-        auto-réactifs.
+    -   responsables de la tolérance au soi en désactivant les LT auto-réactifs.
 
 -   Pour les LT helper (ou LT auxiliaire ou LT CD4^+^), des molécules de
     type cytokines sécrétées par les cellules dendritiques qui
     contribuent au devenir des lymphocytes T :
 
-    -   LT~4~ 1 en réponse à l'interleukine 12 (noté Il-12) qui
-        activeront les macrophages et les LT CD8^+^ (la prolifération et
-        l'activité).
+    -   LT~4~ 1 en réponse à l'interleukine 12 (noté Il-12) qui activeront les macrophages et les LT CD8^+^ (la prolifération et l'activité).
 
-    -   LT~4~ 2 en réponse à Il-4. Ils produiront des interleukines 4
-        qui stimuleront la prolifération des LB et leur activité.
+    -   LT~4~ 2 en réponse à Il-4. Ils produiront des interleukines 4 qui stimuleront la prolifération des LB et leur activité.
 
-    -   LT~4~ 3 ou régulateur en réponse à l'interleukine 17, 21, 22 ou
-        Tumor Growth Factor noté TGF qui inhibe la réponse immunitaire.
+    -   LT~4~ 3 ou régulateur en réponse à l'interleukine 17, 21, 22 ou Tumor Growth Factor noté TGF qui inhibe la réponse immunitaire.
 
-    -   Contribuent à la mobilisation des polynucléaires neutrophiles,
-        un type de leucocytes.
+    -   Contribuent à la mobilisation des polynucléaires neutrophiles, un type de leucocytes.
 
 ### Les LT auxiliaires 
 
 Lorsqu'ils sont activés, les LT auxiliaires se différencient en :
 
-|                                        |           |
+    |
 |----------------------------------------|-----------|
 | Activé (appartient aux LT effectrices) | À mémoire |
 
@@ -437,7 +368,7 @@ antigénique.
 Le système immunitaire maintient une absence de réponse aux antigènes du
 soi grâce à deux types de tolérance :
 
-|          |              |
+          |
 |----------|--------------|
 | Centrale | Périphérique |
 
@@ -480,7 +411,7 @@ moyenne au CMH-peptidique du soi soit en :
 
 Elle a lieu dans les organes lymphoïdes primaires :
 
-|                           |                   |
+        |
 |---------------------------|-------------------|
 | Moelle osseuse pour les B | Thymus pour les T |
 
@@ -515,7 +446,7 @@ régulateur.
 
 Elle peut être provoquée par des facteurs :
 
-|            |                  |
+        |
 |------------|------------------|
 | Génétiques | Environnementaux |
 
@@ -563,9 +494,7 @@ méthodes pour limiter la réponse auto-immunes par l'utilisation de :
 
 -   anti-inflammatoire qui vont agir sur la production de cytokine.
 
--   anticorps thérapeutiques qui bloque les récepteurs. la production de
-    cytokine au niveau des lymphocytes naïfs. La prolifération des
-    lymphocytes est alors bloquée.
+-   anticorps thérapeutiques qui bloque les récepteurs. la production de cytokine au niveau des lymphocytes naïfs. La prolifération des lymphocytes est alors bloquée.
 
 -   immunodépresseur qui bloque la production de lymphocytes.
 
@@ -591,67 +520,47 @@ CMH (complexe majeur d'histocompatibilité).
 La reconnaissance des allo antigènes par les lymphocytes T allo réactifs
 peut être :
 
-|                          |                                                                    |
-|-----------------------------|-------------------------------------------|
-| directe (CPA du donneur) | indirecte (CPA du receveur qui présente des antigènes du donneur). |
+* directe (CPA du donneur).
+* indirecte (CPA du receveur qui présente des antigènes du donneur).
 
-Cellule auto réactive cellule qui reconnait les autoantigènes.
+__Cellule auto réactive__ cellule qui reconnait les autoantigènes.
 
 ### Rejet du greffon
 
 Il existe 3 types de rejets :
 
-|            |                                                           |
-|------------|-----------------------------------------------------------|
-| Hyper aigu | Présence d'anticorps contre les vaisseaux du greffon.     |
-| Aigu       | Lymphocytes T et B dirigés contre le CMH du greffon       |
-| Chronique  | Inflammation chronique liée aux cytokines inflammatoires. |
+* Hyper aigu : Présence d'anticorps contre les vaisseaux du greffon.
+* Aigu : Lymphocytes T et B dirigés contre le CMH du greffon.
+* Chronique : Inflammation chronique liée aux cytokines inflammatoires.
 
 # Complexe majeur d'histocompatibilité (CMH)
 
-Les CMH sont les protéines qui servent à faire la différence entre les
-cellules du soi et du non-soi. Elles sont uniques entre chaque individu
-sauf chez les vrais jumeaux.
+Les CMH sont les protéines qui servent à faire la différence entre les cellules du soi et du non-soi. Elles sont uniques entre chaque individu sauf chez les vrais jumeaux.
 
 ## Structure du CMH
 
 Les CMH sont des molécules de présentation antigénique. Il en existe
 deux types de CMH : 
 
--   CMH I présent à la surface de toutes les cellules sauf chez quelques
-    types comme les globules rouges. Les chaines peptidiques sont issues
-    de la dégradation de protéines du milieu intracellulaire càd de
-    protéines synthétisées par la cellule.
+* CMH I présent à la surface de toutes les cellules sauf chez quelques types comme les globules rouges. Les chaines peptidiques sont issues de la dégradation de protéines du milieu intracellulaire càd de protéines synthétisées par la cellule.
+* CMH II présent à la surface des cellules immunitaires (cellules dendritiques, lymphocytes, macrophages...). Les chaines peptidiques sont issues de la dégradation de protéines provenant du milieu extracellulaire phagocytées et dégradées.
 
--   CMH II présent à la surface des cellules immunitaires (cellules
-    dendritiques, lymphocytes, macrophages...). Les chaines peptidiques
-    sont issues de la dégradation de protéines provenant du milieu
-    extracellulaire phagocytées et dégradées.
+!!! note
+    C'est l'absence de CMH sur les globules rouges qui permet les transferts de sang.
 
-[Rmq :]{.underline} C'est l'absence de CMH sur les globules rouges qui
-permet les transferts de sang.
-
-Le CMH possède 10 sites de présentation associés à certains séquences
-peptidiques. Les peptides des CMH résultent de la dégradation des
-protéines par des immunoprotéosomes.
+Le CMH possède 10 sites de présentation associés à certains séquences peptidiques. Les peptides des CMH résultent de la dégradation des protéines par des immunoprotéosomes.
 
 Le complexe de vérification des CMH des lymphocytes :
 
-|                                 |                                 |
-|---------------------------------|---------------------------------|
-| B est le B-cell receptor (BCR). | T est le T-cell receptor (TCR). |
+* B est le B-cell receptor (BCR).
+* T est le T-cell receptor (TCR).
 
 ## Présentation des antigènes et activation des lymphocytes
 
 Les CMH servent aux lymphocytes T à contrôler les cellules :
 
--   CMH I sont reconnus par les LT équipés des complexes de contrôle de
-    type CD8.
-
-```{=html}
-<!-- -->
-```
--   CMH II sont reconnus par les LT équipés de CD4.
+* CMH I sont reconnus par les LT équipés des complexes de contrôle de type CD8.
+* CMH II sont reconnus par les LT équipés de CD4.
 
 ### Les lymphocytes LT4 (CD8)
 
@@ -672,23 +581,13 @@ d'identifier la cellule et de la détruire. 
 Il existe trois situations qui permettent aux cellules malades
 d'échapper à leur reconnaissance par les lymphocytes T :
 
--   Isolement des CMH dans la cellule.
-
--   L'inactivation des CMH.
-
--   Lors de l'appareillage du CMH avec un lymphocyte, la cellule produit
-    des molécules qui inhibent l'activité des lymphocytes.
+* Isolement des CMH dans la cellule.
+* L'inactivation des CMH.
+* Lors de l'appareillage du CMH avec un lymphocyte, la cellule produit des molécules qui inhibent l'activité des lymphocytes.
 
 ## L'efficacité des lymphocytes est croissance dans le temps
 
-La fixation entre les récepteurs cellulaire et les CMH est graduelle. On
-parle de degré d'affinité entre les deux protéines. Lors d'une
-infection, le degré d'affinité entre le complexe de vérification et les
-lymphocytes augmente au cours du temps. Si, grâce aux mécanismes qui
-provoquent les mutations dans la séquence qui codent pour les parties
-variables des CR, un nouveau lymphocyte apparait par hasard avec un
-degré d'affinité plus élevé avec l'antigène, ils se multipliera plus
-vite et envahira la population de lymphocytes qui combat l'infection.
+La fixation entre les récepteurs cellulaire et les CMH est graduelle. On parle de degré d'affinité entre les deux protéines. Lors d'une infection, le degré d'affinité entre le complexe de vérification et les lymphocytes augmente au cours du temps. Si, grâce aux mécanismes qui provoquent les mutations dans la séquence qui codent pour les parties variables des CR, un nouveau lymphocyte apparait par hasard avec un degré d'affinité plus élevé avec l'antigène, ils se multipliera plus vite et envahira la population de lymphocytes qui combat l'infection.
 
 ## Les réactions allergiques
 
@@ -737,5 +636,4 @@ l\'enzyme qui permet la production de prostaglandine (appelé COX).
 
 Ulcère lésion des muqueuses.
 
-Les IgE produits se lient sur les récepteurs membranaires des mastocytes
-et des basophiles.
+Les IgE produits se lient sur les récepteurs membranaires des mastocytes et des basophiles.

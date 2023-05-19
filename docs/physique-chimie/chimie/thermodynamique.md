@@ -1,72 +1,65 @@
-La thermodynamique est un domaine de la chimie qui permet de prévoir si
-une transformation peut avoir lieu sans déterminer sa composition ou sa
-vitesse.
+# Thermodynamique
 
-Variable intensive (par opposition à extensive) variable indépendante de
-la quantité de matière (température, pression, le volume,...)
+La thermodynamique est un domaine de la chimie qui permet de prévoir si une transformation chimique peut avoir lieu sans déterminer sa composition ou sa vitesse.
+
+__Variable intensive__ (par opposition à extensive) variable indépendante de la quantité de matière (température, pression, le volume,...)
 
 !!! note
     Le produit de deux variables extensives est une variable intensive (ex : la masse volumique).
 
 __Phase__ partie d'un système où les variables intensives sont des fonctions constantes.
 
-Capacité thermique quantifie la quantité de chaleur qu'une matière est
-capable d'échanger.
+__Capacité thermique__ variable intensive qui quantifie la quantité de chaleur qu'une matière estcapable d'échanger.
 
 Par défaut, la température est de 298K et la pression de 1atm.
 
 État standard pression atmosphérique et température 298K.
 
-Rappel : Pour les gaz parfaits, on a :
+Rappel : Pour les gaz parfaits, on a : $pV = nRT$
 
-+-----------------+----------------------------------------------------+
-| $$pV = nRT$$    | R = 8, 314J.K^-1^.mol^-1^constante des gaz         |
-|                 | parfaits                                           |
-|                 |                                                    |
-|                 | T température en kelvin (0K = -273,15°C)           |
-|                 |                                                    |
-|                 | n quantité de matière en mol                       |
-|                 |                                                    |
-|                 | V volume en m^3^                                   |
-+-----------------+----------------------------------------------------+
+Avec :
 
-La masse molaire des principaux atomes est
+* V volume en $m^{3}$.
+* n quantité de matière en mole.
+* T température en Kelvin (0K = -273,15°C).
+* $R = 8.314J K^{-1}.mol^{-1}$ constante des gaz parfaits.
 
-  ----------------------- ----------------------- -----------------------
-  Hydrogène 1g.mol^-1^    Carbone 14g.mol^-1^     Oxygène 16g.mol^-1^
+La masse molaire des principaux atomes est :
 
-  ----------------------- ----------------------- -----------------------
+Atome | Masse molaire ($g.mol^{-1}$)
+---|---
+Hydrogène | 1
+Carbone | 14
+Oxygène | 16
 
-# 1er principe de la thermodynamique : la conservation de l'énergie
+## 1er principe de la thermodynamique : la conservation de l'énergie
 
-L'énergie interne d'un système est notée U. Elle est dû à
+L'énergie interne d'un système est notée U. Elle est dû à :
 
-  ----------------------------------- -----------------------------------
-  L'énergie cinétique (mouvement)     Interactions entre les particules
+* L'énergie cinétique (mouvement).
+* Interactions entre les particules.
 
-  ----------------------------------- -----------------------------------
-
-Nous ne savons pas la déterminer. En revanche, il est possible de
+Il n'est pas possible de déterminer l'énergie d'un système. En revanche, il est possible de
 connaitre la différence d'énergie entre deux états.
 
 L'énergie d'un système peut être échangée sous deux formes :
 
-  ----------------------------------- -----------------------------------
-  Énergie thermique = Chaleur (Q)     Énergie mécanique = Travail (W)
-
-  ----------------------------------- -----------------------------------
+* Énergie thermique = Chaleur (Q)
+* Énergie mécanique = Travail (W)
 
 On définit cette différent d'énergie :
 $\mathrm{\Delta}U = \mathbf{\mathrm{\Delta}}Q + \mathbf{\mathrm{\Delta}}W$
 
-[NB :]{.underline} L'unité de l'énergie est le Joule (J).
+!!! note
+    L'unité de l'énergie est le Joule (J).
 
-Dans le cas d'une réaction cyclique, on a
-$\sum_{}^{}{\mathrm{\Delta}U} = 0$.
+Dans le cas d'une réaction cyclique, on a $\sum_{}^{}{\mathrm{\Delta}U} = 0$.
 
 ## La nature des transformations possibles
 
-  ---------------------- ------------------ ----------------- --------------
+
+
+
   Isotherme              Isochore           Adiabatique       Isobare
 
   Pas de changement de   Volume constant    Pas d'échanges de Pression
@@ -85,22 +78,20 @@ seuls à subir une variation importante de volume.
 
   --------------------------------------- -----------------------------------
 
-*Par exemple, pour une réaction isobare, on
-aura :*$\ \mathrm{\Delta}W = - PdV = - P \times \frac{nRT}{P} = - nRT$
+!!! example 
+    pour une réaction isobare, on aura $\ \mathrm{\Delta}W = - PdV = - P \times \frac{nRT}{P} = - nRT$
 
 ## La chaleur
 
 La chaleur est une énergie. C'est une notion différente de la
 température.
 
-[NB :]{.underline} un changement de T° implique nécessairement un
-échange de chaleur.
+!!! note
+    Un changement de T° implique nécessairement un échange de chaleur.
 
-  -----------------------------------------------------------------------
-  **Point méthode :** Pour chaque réaction, il faut d'abord noter sa
-  nature (isotherme...)
 
-  -----------------------------------------------------------------------
+Point méthode : Pour chaque réaction, il faut d'abord noter sa nature (isotherme...)
+
 
 La chaleur se calcule en utilisant une des formules suivantes :
 
@@ -132,29 +123,24 @@ La chaleur se calcule en utilisant une des formules suivantes :
 |     température.                 |                                   |
 +----------------------------------+-----------------------------------+
 
-[Rmq :]{.underline} $\mathbf{PdV}$ et $\mathbf{VdP}$ sont nulles pour
-les formes de la matière autre que gazeux.
+!!! note
+    $\mathbf{PdV}$ et $\mathbf{VdP}$ sont nulles pour les formes de la matière autre que gazeux.
 
-[Rmq :]{.underline} On a également
-$R = \mathbf{C}_{\mathbf{p}} - \mathbf{C}_{v}$
+!!! note
+    On a également $R = \mathbf{C}_{\mathbf{p}} - \mathbf{C}_{v}$
 
 ### Enthalpie
 
-La plupart des réactions se font à pression constante (transformation
-isobare).
+La plupart des réactions se font à pression constante (transformation isobare).
 
 $$\mathbf{Q}_{\mathbf{p}}\mathbf{= \mathrm{\Delta}H}$$
 
-Enthalpie chaleur échangée à pression constante ($P = 1\ atm$). Elle est
-notée $\mathrm{\Delta}H$.
+Enthalpie chaleur échangée à pression constante ($P = 1\ atm$). Elle est notée $\mathrm{\Delta}H$.
 
 Une réaction est :
 
-  ----------------------------------- -----------------------------------
-  Exotherme ($\mathrm{\Delta}H < 0$)  Endotherme ($\mathrm{\Delta}H > 0$)
-  elle libère de la chaleur           elle absorbe de la chaleur
-
-  ----------------------------------- -----------------------------------
+* Endotherme ($\mathrm{\Delta}H > 0$) elle absorbe de la chaleur.
+* Exotherme ($\mathrm{\Delta}H < 0$) elle libère de la chaleur.
 
 # Calculer l'énergie de formation d'une réaction
 

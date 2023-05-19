@@ -21,6 +21,11 @@ La fonction exponentielle est$\lim_{n \rightarrow \infty}{\ {(1 + \frac{1}{n})}^
 !!! note
     L'exponentiel et le logaritme sont systmétrique par rapport à $f(x) = x$.
 
+Propriétés exponentielle :
+
+* $\mathbf{e}^{\mathbf{a + b}}\mathbf{=}\mathbf{e}^{\mathbf{a}}\mathbf{\times}\mathbf{e}^{\mathbf{b}}\mathbf{\ }$
+* $\mathbf{e}^{\mathbf{a}^{\mathbf{n}}}\mathbf{=}\mathbf{e}^{\mathbf{n \times a}}$
+
 ### Logarithme
 
 Le logarithme népérien a été inventé pour simplifier le produit lors q. Il donne une correspondance entre deux opérations élémentaires : le produit et la somme.
@@ -47,6 +52,11 @@ _Exemple_ On cherche à calculer 8x2
 !!! note
   Les valeurs du log étaient regroupées dans des tables. Elles permirent de gagner un temps considérable dans les calculs avant l\'invention des calculateurs.
 
+Propriétés du logarithme :
+
+* $\ln\left( frac{a}{b} \right) = \ln(a) - ln(b)$
+* $\ln\left( a^{n} \right) = n \times ln(a)$
+
 ## Équation différentielle
 
 Equation différentielle | Solution | Description
@@ -62,119 +72,75 @@ $y^{'} + Ay = 0$ | $y = ke^{- ax}$ | equation différentielle d'ordre 2
 * Nbre d'éléments $\sum_{k = 1}^{n}{} = (n - k + 1)$
 
 ##  Les suites
-
-* Suite arithmétique
-* Suite géométrique
-+----------------------------------+-----------------------------------+
-|  |  |  |    |  |  |  |  |  |
-+==================================+===================================+
-| $$\mathbf{u}_{\math |  |  |   | $ |  |  |  |  |  |  |  |  |
-| bf{n + 1}}\mathbf{= \ }\mathbf{u | $u_{n + 1} = \ {q \times u}_{n}$$ |
-| }_{\mathbf{n + 1}}\mathbf{+ a}$$ | |  |  |  |  |  |  |  |    |
-| |  |  |  |  |  |  |  |   | $$u_{n} = |  |  |  |  |  |  |
-| $$\ma |  |  |  |  |  |  | |  u_{n_{0}} \times q^{n - n_{0}}$$ |
-| thbf{u}_{\mathbf{n}}\mathbf{= \  | |  |  |  |  |  |  |  |    |
-| }\mathbf{u}_{\mathbf{n}_{\mathbf | |  |  |  |  |  |  |  |    |
-| {0}}}\mathbf{+ a \times (n -}\ma | |  |  |  |  |  |  |  |    |
-| thbf{n}_{\mathbf{0}}\mathbf{)}$$ | |  |  |  |  |  |  |  |    |
-+----------------------------------+-----------------------------------+
+ 
+* Suite arithmétique :
+    * $\mathbf{u}_{\mathbf{n + 1}}\mathbf{= \ }\mathbf{u}_{\mathbf{n + 1}}\mathbf{+ a}$
+    * $\mathbf{u}_{\mathbf{n}}\mathbf{=}\mathbf{u}_{\mathbf{n}_{\mathbf{0}}}\mathbf{+ a \times (n -}\mathbf{n}_{\mathbf{0}}\mathbf{)}$
+* Suite géométrique :
+    * $u_{n + 1} = \ {q \times u}_{n}$
+    * $u_{n} = u_{n_{0}} \times q^{n - n_{0}}$
 
 ### Raisonnement par récurrence
 
 1. Initialisation 
 2. Hérédité $\mathbf{P(u}\_{\mathbf{0}}\mathbf{)}$
-
-1. Démontrer $u_{n + 1}$ (l'écrire)
-2. Partir $u_{n}$ en ajoutant des termes.
+    1. Démontrer $u_{n + 1}$ (l'écrire)
+    2. Partir $u_{n}$ en ajoutant des termes.
 
 ## Symboles mathématiques 
 
 ### Les connecteurs logiques
 
-+------------------+---------------------------------------------------+
-| $$\mathbf{A}\ov  | -   $A$ est une condition suffisante de $B$. |   |
-| erset{}{\Rightar | |  |  |  |  |  |  |  |  |  |  |  |    |
-| row}\mathbf{B}$$ | -   B \_\_\_\_\_\_\_\_\_\_\_\_\_\_ nécessaire |  |
-| |  |  |  |   | |  \_\_ $A$. |  |  |  |  |  |  |  |  |  |
-+------------------+---------------------------------------------------+
-| $$\mathbf{A}\ov  | FAUX seulement si $A\ $est Vraie implique $B$ est |
-| erset{}{\Rightar | Faux. |  |  |  |  |  |  |  |  |  |  |  |
-| row}\mathbf{B}$$ | |  |  |  |  |  |  |  |  |  |  |  |    |
-+------------------+---------------------------------------------------+
-| $$\mathbf{ |    | Négation |  |  |  |  |  |  |  |  |  |   |
-| A\ et\ non(B)}$$ | |  |  |  |  |  |  |  |  |  |  |  |    |
-+------------------+---------------------------------------------------+
-| $$\mathbf{ |    | Contraposée est vrai seulement si |  |  |  |  |
-| non}\left( \math | $A\overset{}{\Rightarrow}B$ l'est aussi |  |    |
-| bf{B} \right)\ma | |  |  |  |  |  |  |  |  |  |  |  |    |
-| thbf{\ }\overset | |  |  |  |  |  |  |  |  |  |  |  |    |
-| {}{\Rightarrow}\ | |  |  |  |  |  |  |  |  |  |  |  |    |
-| mathbf{non(A)}$$ | |  |  |  |  |  |  |  |  |  |  |  |    |
-+------------------+---------------------------------------------------+
-| $$\ov |  |  | | Réciproque |  |  |  |  |  |  |  |  |  | |
-| erset{}{\Rightar | |  |  |  |  |  |  |  |  |  |  |  |    |
-| row}\mathbf{A}$$ | |  |  |  |  |  |  |  |  |  |  |  |    |
-+------------------+---------------------------------------------------+
+* $\mathbf{A}\overset{}{\Rightarrow}\mathbf{B}$ $A$ est une condition suffisante de $B$.
+* $\mathbf{A}\overset{}{\Rightarrow}\mathbf{B}$ FAUX seulement si $A\ $est Vraie implique $B$ est faux.
+*  nécessaire Faux.
+* $$\mathbf{A\ et\ non(B)}$$
+* $$\mathbf{non}\left( \mathbf{B} \right)\mathbf{\ }\overset{}{\Rightarrow}\mathbf{non(A)}$$ Contraposée est vrai seulement si
+
+* $A\overset{}{\Rightarrow}B$ l'est aussi
+* $$\overset{}{\Rightarrow}\mathbf{A}$$ Réciproque
 
 ## Lettres grecques
 
-  --------------------------------------------------------------------------
-  Α |  | Α |    Alpha |  |  |  |  | Ξ |  |   ξ |  | Xi
-  -------- ------- --------------- -------- ---------- -------- ------------
-  Β |  | β |    Bêta |  |  |  |  |  **Π** |   π |  | Pi
-
-  Γ |  | γ |    Gamma |  |  |  |  | **Ρ** |   ρ |  | Rhô
-
-  Δ |  | δ |    Delta |  |  |  |  | **Σ** |   σ/ς |   Sigma
-
-  Ε |  | ε |    Epsilon |  |  |  |   **Τ** |   τ |  | Tau
-
-  Θ |  | θ |    Thêta |  |  |  |  | **Υ** |   υ |  | Upsilon
-
-  Κ |  | κ |    Kappa |  |  |  |  | **Φ** |   φ |  | Phi
-
-  Λ |  | λ |    Lambda |  |  |  |    **Χ** |   χ |  | Xi
-
-  Μ |  | μ |    Mu |  |  |  |  |    **Ψ** |   ψ |  | Psi
-
-  Ν |  | ν |    Nu |  |  |  |  |    **Ω** |   ω |  | Oméga
-  --------------------------------------------------------------------------
+Majuscule | Minuscule | Nom 
+---|---|---
+Α | Α | Alpha
+Ξ | ξ | Xi
+Β | β | Bêta
+Γ | γ | Gamma
+Δ | δ | Delta
+Ε | ε | Epsilon
+Θ | θ | Thêta
+Κ | κ | Kappa
+Λ | λ | Lambda 
+Μ | μ | Mu    
+Ν | ν | Nu  
+Π | π | Pi
+Ρ | ρ | Rhô
+Σ | σ/ς | Sigma
+Τ | τ | Tau
+Υ | υ | Upsilon
+Φ | φ | Phi
+Χ | χ | Xi
+Ψ | ψ | Psi
+Ω | ω | Oméga
 
 ## Unité et conversion
 
-+-----------------------------------+----------------------------------+
-|   ------------------------------  | Relation surface : |  |  |    |
-| --------------------------------- | 1${ |  |  |  |  |  |  |   |
-|   kilo |    k |  |  |  |  | | km}^{2} = {{(10}^{3})}^{2}m^{2}$ |
-| | $$\mathbf{10}^{\mathbf{- 3}}$$ | |  |  |  |  |  |  |  |   |
-|   ---------- --------- ---------  | Relation volume : |  |  |  | |
-| --------------------------------- | $1{ |  |  |  |  |  |  |   |
-|   Hecto |   h |  |  |  |  | | km}^{3} = {{(10}^{3})}^{3}m^{3}$ |
-| | $$\mathbf{10}^{\mathbf{- 2}}$$ | |  |  |  |  |  |  |  |   |
-| |  |  |  |  |  |  |  |    | Relation avec le litre  |  |   |
-|   Déca |    da |  |  |  |    | |  |  |  |  |  |  |  |   |
-| | $$\mathbf{10}^{\mathbf{- 1}}$$ | -   $1L = 1{dm}^{3}$ |  |  |  |
-| |  |  |  |  |  |  |  |    | |  |  |  |  |  |  |  |   |
-|   Unité |  |  |  | $$\math | | -   1L = 1 kg d'eau |  |  |   |
-| bf{10}^{\mathbf{0}}\mathbf{= 1}$$ | |  |  |  |  |  |  |  |   |
-| |  |  |  |  |  |  |  |    | |  |  |  |  |  |  |  |   |
-|   Déci |    d |  |  |  |  | | |  |  |  |  |  |  |  |   |
-| |   $$\mathbf{10}^{\mathbf{1}}$$ | |  |  |  |  |  |  |  |   |
-| |  |  |  |  |  |  |  |    | |  |  |  |  |  |  |  |   |
-|   Centi |   c |  |  |  |  | | |  |  |  |  |  |  |  |   |
-| |   $$\mathbf{10}^{\mathbf{2}}$$ | |  |  |  |  |  |  |  |   |
-| |  |  |  |  |  |  |  |    | |  |  |  |  |  |  |  |   |
-|   Milli |   m |  |  |  |  | | |  |  |  |  |  |  |  |   |
-| |   $$\mathbf{10}^{\mathbf{3}}$$ | |  |  |  |  |  |  |  |   |
-| |  |  |  |  |  |  |  |    | |  |  |  |  |  |  |  |   |
-|   Micro |   μ |  |  |  |  | | |  |  |  |  |  |  |  |   |
-| |   $$\mathbf{10}^{\mathbf{6}}$$ | |  |  |  |  |  |  |  |   |
-| |  |  |  |  |  |  |  |    | |  |  |  |  |  |  |  |   |
-|   Nano |    n |  |  |  |  | | |  |  |  |  |  |  |  |   |
-| |   $$\mathbf{10}^{\mathbf{9}}$$ | |  |  |  |  |  |  |  |   |
-|   ------------------------------  | |  |  |  |  |  |  |  |   |
-| --------------------------------- | |  |  |  |  |  |  |  |   |
-+-----------------------------------+----------------------------------+
+Relation surface :
+
+kilo | k | 1${km}^{2} = {{(10}^{3})}^{2}m^{2}$ $$\mathbf{10}^{\mathbf{- 3}}$$ 
+Relation volume : $1{km}^{3} = {{(10}^{3})}^{3}m^{3}$
+Hecto | h | $$\mathbf{10}^{\mathbf{- 2}}$$ 
+
+Relation avec le litre  |
+Déca | da | $$\mathbf{10}^{\mathbf{- 1}}$$ | -   $1L = 1{dm}^{3}$ 
+Unité |  |  |  | $$\math | | -   1L = 1 kg d'eau | bf{10}^{\mathbf{0}}\mathbf{= 1}$$ |
+Déci  | d | $$\mathbf{10}^{\mathbf{1}}$$
+Centi | c | $$\mathbf{10}^{\mathbf{2}}$$
+Milli | m | $$\mathbf{10}^{\mathbf{3}}$$
+Micro | μ | $$\mathbf{10}^{\mathbf{6}}$$
+Nano  | n | $$\mathbf{10}^{\mathbf{9}}$$
 
 ## Géométrie
 
@@ -186,87 +152,43 @@ $y^{'} + Ay = 0$ | $y = ke^{- ax}$ | equation différentielle d'ordre 2
 
 ### Équation de forme remarquable
 
-  -----------------------------------------------------------------------------------------------
-  Cercle de rayon $\mathbf{r}$ et de | $\left( \mathbf{x - a} \right)\mathbf{² + (y - b)²}$=r²
-  centre $\mathbf{(a;b)}$ |  |  |    
-  ------------------------------------- ---------------------------------------------------------
+Cercle de rayon $\mathbf{r}$ et de centre $\mathbf{(a;b)}$ : $\left( \mathbf{x - a} \right)\mathbf{² + (y - b)²}$=r²
 
-  -----------------------------------------------------------------------------------------------
+Formule de la droite $$ax + by + c = 0$$ 
+Vecteur directeur $$m = \frac{y_{B} - y_{A}}{\ x_{B} - x_{A}}$$ 
+Coefficient directeur d'une droite $$\overset{\rightarrow}{vd}( - b;a)$$
 
-+------------------------------+---------------------+----------------+
-| Coefficient directeur d'une  | Formule de la |    | Vecteur |  | |
-| droite |  |  |  |  |    | droite |  |  |   | directeur |   |
-+==============================+=====================+================+
-| $$m = \frac{y_{B} |  |  | | $$ax + by + c = 0$$ | $$\overse |   |
-|  - y_{A}}{\ x_{B} - x_{A}}$$ | |  |  |  |  |  | t{\rightarrow} |
-| |  |  |  |  |  |  |   | |  |  |  |  |  | {vd}( - b;a)$$ |
-| $( = - a$ pour $b = 1$). |  | |  |  |  |  |  | |  |  |  | |
-+------------------------------+---------------------+----------------+
+$( = - a$ pour $b = 1$)
 
 ## Volume
 
-  -----------------------------------------------------------------------
-  Forme |  |  |  |  |  |  |    Volume
-  ----------------------------------- -----------------------------------
-  Sphère |  |  |  |  |  |  |   $$\frac{3}{4}\pi R^{3}$$
-
-  -----------------------------------------------------------------------
+Sphère $$\frac{3}{4}\pi R^{3}$$
 
 ## Trigonométrie
 
-+---------------------+------------------------------------------------+
-|   ----------- |    | ![](m |  |  |  |  |  |  |  |  |  |   |
-| ------------------- | edia/image1.jpeg){width="3.1047615923009624in" |
-| ------------------- | height="2.3300185914260716in"} |  |  |  |  |
-| ------------------- | |  |  |  |  |  |  |  |  |  |  |  | |
-| ------------------- | |  |  |  |  |  |  |  |  |  |  |  | |
-| |  |  |  |  |  | |  |  |  |  |  |  |  |  |  |  |  | |
-| |  |  |  |  |  | |  |  |  |  |  |  |  |  |  |  |  | |
-| |  |    Cos |    | |  |  |  |  |  |  |  |  |  |  |  | |
-| |  |  |  |  Sin | |  |  |  |  |  |  |  |  |  |  |  | |
-|   ----------- |    | |  |  |  |  |  |  |  |  |  |  |  | |
-| ------------------- | |  |  |  |  |  |  |  |  |  |  |  | |
-| ------- ----------- | |  |  |  |  |  |  |  |  |  |  |  | |
-| ------------- ----- | |  |  |  |  |  |  |  |  |  |  |  | |
-| ------------------- | |  |  |  |  |  |  |  |  |  |  |  | |
-|   $$ |  |  |  | | |  |  |  |  |  |  |  |  |  |  |  | |
-| \frac{\mathbf{\pi}} | |  |  |  |  |  |  |  |  |  |  |  | |
-| {\mathbf{6}}$$   $$ | |  |  |  |  |  |  |  |  |  |  |  | |
-| \frac{\sqrt{}3}{2}$ | |  |  |  |  |  |  |  |  |  |  |  | |
-| $   $$\frac{1}{2}$$ | |  |  |  |  |  |  |  |  |  |  |  | |
-| |  |  |  |  |  | |  |  |  |  |  |  |  |  |  |  |  | |
-|   $$\frac{\ |  |  | |  |  |  |  |  |  |  |  |  |  |  | |
-| mathbf{\pi}}{\mathb | |  |  |  |  |  |  |  |  |  |  |  | |
-| f{4}}$$   $$\frac{\ | |  |  |  |  |  |  |  |  |  |  |  | |
-| sqrt{}2}{2}$$   $$\ | |  |  |  |  |  |  |  |  |  |  |  | |
-| frac{\sqrt{}2}{2}$$ | |  |  |  |  |  |  |  |  |  |  |  | |
-| |  |  |  |  |  | |  |  |  |  |  |  |  |  |  |  |  | |
-|   $$\frac{\ |  |  | |  |  |  |  |  |  |  |  |  |  |  | |
-| mathbf{\pi}}{\mathb | |  |  |  |  |  |  |  |  |  |  |  | |
-| f{6}}$$   $$\frac{1 | |  |  |  |  |  |  |  |  |  |  |  | |
-| }{2}$$ |  |   $$\ | |  |  |  |  |  |  |  |  |  |  |  | |
-| frac{\sqrt{}3}{2}$$ | |  |  |  |  |  |  |  |  |  |  |  | |
-|   ----------- |    | |  |  |  |  |  |  |  |  |  |  |  | |
-| ------------------- | |  |  |  |  |  |  |  |  |  |  |  | |
-| ------------------- | |  |  |  |  |  |  |  |  |  |  |  | |
-| ------------------- | |  |  |  |  |  |  |  |  |  |  |  | |
-| ------------------- | |  |  |  |  |  |  |  |  |  |  |  | |
-+---------------------+------------------------------------------------+
+$\frac{\mathbf{\pi}}{\mathbf{6}}$
+$\frac{\sqrt{}3}{2}$
+$\frac{1}{2}$
+$\frac{\mathbf{\pi}}{\mathbf{4}}$$
+$$\frac{\sqrt{}2}{2}$$
+$$\frac{\sqrt{}2}{2}$$
+$$\frac{\mathbf{\pi}}{\mathbf{6}}$$
+$$\frac{1}{2}$$
+$$\frac{\sqrt{}3}{2}$$
 
--   Pythagore : ${\cos x}^{2} + {\sin x}^{2} = 1$
+* Pythagore : ${\cos x}^{2} + {\sin x}^{2} = 1$
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
-  Cosinus |  |  |  |  |  |  |  |  |  |  |  Sinus |  |  |  |  |  |  |  |  |  |  |  Tangente
-  --------------------------------------------------- ------------------------------------------------- -----------------------------------------------
-  $$\frac{\mathbf{adjacent}}{\mathbf{hypoténuse}}$$   $$\frac{\mathbf{opposé}}{\mathbf{hypoténuse}}$$   $$\frac{\mathbf{opposé}}{\mathbf{adjacent}}$$
+Fonction | Formule
+---|---
+Cosinus | $\frac{\mathbf{adjacent}}{\mathbf{hypoténuse}}$
+Sinus | $\frac{\mathbf{opposé}}{\mathbf{hypoténuse}}$
+Tangente | $\frac{\mathbf{opposé}}{\mathbf{adjacent}}$
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
+* Pour un $\theta + \frac{\mathbf{\pi}}{2}$,
+$\cos(\theta) = \sin\left( \theta + \frac{\mathbf{\pi}}{2} \right)$
+et $\sin(\theta) = - \cos(\theta + \frac{\mathbf{\pi}}{2})$
 
--   Pour un $\theta + \frac{\mathbf{\pi}}{2}$,
- | $\cos(\theta) = \sin\left( \theta + \frac{\mathbf{\pi}}{2} \right)$
- | et $\sin(\theta) = - \cos(\theta + \frac{\mathbf{\pi}}{2})$
-
--   $\cos(a + b) = \cos(a).cos(b) - sin(a).sin(b)$
+* $\cos(a + b) = \cos(a).cos(b) - sin(a).sin(b)$
 
 Formule d'Euler (pas compris à quoi elle sert) :
 
@@ -280,11 +202,9 @@ $$sin(x) = \frac{e^{ix} - e^{- ix}}{2i}$$
 
 ### Les combinaisons
 
-Soit un ensemble E de n éléments. On souhaite connaitre le nombre de
-combinaison de k éléments possible. On ne tient pas compte de l'ordre
-des éléments.
+Soit un ensemble E de n éléments. On souhaite connaitre le nombre de combinaison de k éléments possible. On ne tient pas compte de l'ordre des éléments.
 
-  ----------------------- ------------------------------------------------------ -----------------------------------------
+
   Répétition |  |  |   Avec (gamma) |  |  |  |  |  |  |  |  |  |    Sans
 
   Formule |  |  |  |  $$\Gamma_{n}^{k} = \frac{(n + k - 1)!}{k!(n - 1)!}$$   $$C_{n}^{k} = \begin{pmatrix}
@@ -303,84 +223,49 @@ identique et indépendante.
 
 $$P(x = i) = C_{n}^{k}p^{k}{(1 - p)}^{n - k}$$
 
-## Statistique descriptive
-
-  ---------------------------------------------------------------------------------
-  Ind. de tendance centrale   Moyenne/Médiane |  |  |  |   
-  --------------------------- -------------------------------- --------------------
-  Ind. de dispersion |  |   Écart-type ($\sqrt{}variance)$   Moyenne des écarts à
- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |    la moyenne
-
-  ---------------------------------------------------------------------------------
-
 # Ajustement
 
-  -----------------------------------------------------------------------
-  Nom |  |  |  |  |  |  |  |  Formule
-  ----------------------------------- -----------------------------------
-  Exponentiel |  |  |  |  |  |  $${ae}^{- b.x}$$
-
-  -----------------------------------------------------------------------
+Nom | Fonction 
+---|---
+Exponentiel | $${ae}^{- b.x}$$
 
 # Fonctions
 
 ## Limites
 
-  -----------------------------------------------------------------------
-  4 formes indéterminées |  $\mathbf{- \infty + \infty}$,
- |  |  |  |  |  |  |  $\frac{\mathbf{\infty}}{\mathbf{\infty}}$,
- |  |  |  |  |  |  |  $\frac{\mathbf{0}}{\mathbf{0}}$,
- |  |  |  |  |  |  |  $\mathbf{\infty \times 0}$.
-  -------------------------- --------------------------------------------
-  ... factoriser |  |  |  
+4 formes indéterminées $\mathbf{- \infty + \infty}$, $\frac{\mathbf{\infty}}{\mathbf{\infty}}$ , $\frac{\mathbf{0}}{\mathbf{0}}$.
 
-  ... avec des racines |    Multiplié par le conjugué
- |  |  |  |  |  |  |  $(a + \sqrt{}b)(a - \sqrt{b})$
+... factoriser.
+... avec des racines
+
+Multiplié par le conjugué $(a + \sqrt{}b)(a - \sqrt{b})$
 
   Limite polynômes en |  | Terme de plus haut degré.
   $\mathbf{\  \pm \infty}$   
-  -----------------------------------------------------------------------
-
-## Exponentielle et logarithme
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Exponentielle |  |    $$\mathbf{e}^{\mathbf{a + b}}\mathbf{=}\mathbf{e}^{\mathbf{a}}\mathbf{\times}\mathbf{e}^{\mathbf{b}}\mathbf{\ }$$   $$\mathbf{e}^{\mathbf{a}^{\mathbf{n}}}\mathbf{=}\mathbf{e}^{\mathbf{n \times a}}$$
-  ----------------------- ------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------
-  Logarithme népérien |  $$\ln\left( \frac{a}{b} \right) = \ln(a) - ln(b)$$ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   $$\ln\left( a^{n} \right) = n \times ln(a)$$
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Les polynômes
 
-Déterminer les valeurs pour lesquels $f(x) = 0$. Ces méthodes sont également pratiques pour connaître le signe de $f(x)$.
+Déterminer les valeurs pour lesquels $f(x) = 0$. Ces méthodes sont également pratiques pour connaître le signe de $f(x)$ :
 
-=== "Par calcul du déterminant"
+* Par factorisation (forme canonique) : Cela revient à factoriser avec les identités remarquables.
+* Par calcul du déterminant"
     1. Calculer le delta : $\mathrm{\Delta} = b^{2} - 4ac$
     2. Si delta est :
-        * $$\mathrm{\Delta} < 0$
-        Delta | nb de solutions
-    ---|---
 
+Delta | nb de solutions
+---|---
+$\mathrm{\Delta} < 0$ | 0
+$\mathrm{\Delta} = 0$ | 1
+$\mathrm{\Delta} > 0$ | 2
 
+Solution donnée par $x_{i} = \frac{- b \pm\sqrt{}\mathrm{\Delta}}{2a}$
 
-=== "Par factorisation (forme canonique)"
-    Cela revient à factoriser avec les identités remarquables.
-    
+## Identités remarquables
 
-  Trouver |  |  |  |  |  |  |  |  |  |  |  0 solution |  |  |  | 1 racine |  |  |  |  |  |  |  |  |  |  |  | 2 racines
-  $\mathbf{f}\left( \mathbf{x} \right)\mathbf{= 0}$ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
-  --------------------------------------------------- ------------------------- ------------------------------------------------------- -------------------------
-  $$ |  |  |  |    $$\mathrm{\Delta} < 0$$   $$\mathrm{\Delta} = 0$$ |  |  |  |  |  |  |  |  $$\mathrm{\Delta} > 0$$
+Factoriser et développer
 
- |  |  |  |  |  |  |  |  |  |  |  |  |   Racine : |  |  |  |   $$x_{i} = \frac{- b \pm \sqrt{}\mathrm{\Delta}}{2a}$$   
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-+---------------------------------------+------------------------------+
-| ## Identités remarquables |  |  |  | Factoriser et développer |  |
-+---------------------------------------+------------------------------+
-| ...pour les polyn. (appelé forme |   | Connaitre les variations de  |
-| canonique) |  |  |  |  |  |  | | $f(x)$. |  |  |  |  |   |
-+---------------------------------------+------------------------------+
+...pour les polyn. (appelé forme canonique).
+Connaitre les variations de $f(x)$.
 
 ## Dérivé et primitive
 
@@ -397,27 +282,19 @@ Calculer l'aire sous la courbe (primitive) :$\int_{}^{}{f(x)\ dx} = \ F(x) + C$
 $\mathbf{f(x)}$ | $\mathbf{f'(x)}$
 ---|---
 $\mathbf{u + v}$ | $u' + v'$
- | 
+$\mathbf{u}^{\mathbf{n}}$ | $n \times u' \times u^{n - 1}$
+$\mathbf{u \times v}$ | $u^{'}v + uv'$
+$\frac{\mathbf{u}}{\mathbf{v}}$ | $\frac{u^{'}v - uv'}{v^{2}}$
 
- | $$   $$\mathbf{u}^{\mathbf{n}}$$ |  | $$\mathbf{u \times v}$$   $$\frac{\mathbf{u}}{\mathbf{v}}$$
-  -------------------- -------------------- ---------------------------------- ------------------------- -----------------------------------
-   $$ |  |   $$n \times u' \times u^{n - 1}$$   $$u^{'}v + uv'$$ |  |   $$\frac{u^{'}v - uv'}{v^{2}}$$
+$\mathbf{f(x)}$ | $\mathbf{f'(x)}$
+---|---
+$\mathbf{e}^{\mathbf{u}}$ | $u'e^{u}$
+$\mathbf{ln}\mathbf{(u)}$ | $\frac{u'}{u}$
+$\mathbf{\cos}\mathbf{(u)}$ | $- u' \times \sin u$
+$\mathbf{\sin}\mathbf{(u)}$ | $u' \times \cos u$
+$\mathbf{\tan}\mathbf{(u)}$ | $u' \times (1{{+ (tan}u)}^{2})$
 
-  ------------------------------------------------------------------------------------------------------------------------------------------
+Trouver une primitive $\int_{}^{}\mathbf{u' \times v}\mathbf{=}\left\lbrack
+Intégration par partie
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  $$\mathbf{f(x)}$$ | $$\mathbf{e}^{\mathbf{u}}$$   $$\mathbf{ln}\mathbf{(u)}$$   $$\mathbf{\cos}\mathbf{u}$$   $$\mathbf{\sin}\mathbf{u}$$   $$\mathbf{\tan}\mathbf{u}$$
-  -------------------- ----------------------------- ----------------------------- ----------------------------- ----------------------------- -----------------------------------
-  $$\mathbf{f'(x)}$$   $$u'e^{u}$$ |  |  |  |    $$\frac{u'}{u}$$ |  |  |   $$- u' \times \sin u$$ |  | $$u' \times \cos u$$ |  |   $$u' \times (1{{+ (tan}u)}^{2})$$
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-+----------------------------------+-----------------------------------+
-| Trouver une primitive |  |  | | $$\int_{}^{}\mathbf{u' |  |  | |
-| |  |  |  |  |  |  |  |   | \times v}\mathbf{=}\left\lbrack \ |
-| Intégration par partie |  |    | mathbf{uv} \right\rbrack\mathbf{- |
-| |  |  |  |  |  |  |  |   | }\int_{}^{}\mathbf{u \times v'}$$ |
-+==================================+===================================+
-+----------------------------------+-----------------------------------+
+$$mathbf{uv} \right\rbrack\mathbf{-}\int_{}^{}\mathbf{u \times v'}$$

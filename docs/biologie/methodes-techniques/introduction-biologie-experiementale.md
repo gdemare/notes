@@ -1,17 +1,20 @@
-# Les 9 pictogramme SGH : dangers...
+### Les 9 pictogramme SGH : dangers...
 
-  -----------------------------------------------------------------------
-  Physico chimique (5)          Pour la santé (4)        Environnement
-  ----------------------------- ------------------------ ----------------
-  Comburant, explosif, gaz sous Corrosif, toxicité aigu, Environnement
-  pression, inflammable,        nocif ou irritant, CMR   
-  corrosif                                               
+Les produits chimiques sont associés à des risques décrit par un ou plusieurs pictogrammes sur le contenant :
 
-  -----------------------------------------------------------------------
+* Physico chimique (5) : pression, inflammable, comburant, explosif, gaz sous Corrosif, . 
+* Pour la santé (4) : corrosif, toxicité aigu, nocif ou irritant, CMR.
+* Environnement (1)                                              
 
-# Matériel de chimie
+---------------------
 
-+------------------------------------------+---------------------------+
+## Matériel 
+
+### Matériel de chimie
+
+### Mesure un volume
+
+
 | Objectif                                 | Matériels                 |
 +==========================================+===========================+
 | Contenir des liquides et réaliser des    | Becher, erlenmeyer        |
@@ -50,8 +53,8 @@ $$pH = - log(concentation\ en\ mol\ H_{3}O^{+})$$
 
 La dilution D est l'inverse du facteur de dilution soit : $\frac{1}{F}$
 
-[Exemple :]{.underline} Facteur 10 = 1/10 dilution = 9 diluant + 1
-solution
+!!! example 
+    Facteur 10 = 1/10 dilution = 9 diluant + 1 solution
 
 Méthode pour réaliser une dilution en série (ou en cascade) :
 
@@ -66,79 +69,61 @@ Méthode pour réaliser une dilution en série (ou en cascade) :
 
 Le facteur de dilution $F_{i} = \frac{V\ Diluant}{V\ mère}$
 
--   Étiqueter les tubes
-
--   Mettre le volume de diluant
-
--   Ajouter le volume de solvant en homogénéisant la solution pour
+* Étiqueter les tubes
+* Mettre le volume de diluant
+* Ajouter le volume de solvant en homogénéisant la solution pour
     chaque tube.
 
-Remarque : on parfois besoin d'obtenir un volume final identique dans
-chacun des tubes, par exemple ; pour réaliser une spectrométrie.
+!!! note
+    Il faut parfois obtenir un volume final identique dans chacun des tubes.
 
-Pour calculer le volume de diluant dans les tubes avant l'ajout de la
-solution sera de $\frac{V_{f}}{1 - \frac{1}{F}}$
+Pour calculer le volume de diluant dans les tubes avant l'ajout de la solution sera de $\frac{V_{f}}{1 - \frac{1}{F}}$
 
-Ce calcul n'est pas valable pour le tube final. Pour celui ce sera
-$vol\ à\ obtenir - vol\ mère$
+Ce calcul n'est pas valable pour le tube final. Pour celui ce sera : $vol\ à\ obtenir - vol\ mère$
 
-# Spectrométrie
+## Spectrométrie
 
 La spectrométrie permet de :
 
--   Déterminer la concentration d'une molécule
-
--   Suivre la cinétique de formation d'un produit lors d'une réaction
-    enzymatique
+* Déterminer la concentration d'une molécule
+* Suivre la cinétique de formation d'un produit lors d'une réaction enzymatique
 
 -   Suivre l'élution de molécules lors de la séparation d'un mélange par
     chromatographie
 
 -   Analyser le degré de pureté d'une molécule
 
+!!! note 
+  Pour suivre l'évolution d'une réaction chimique, il est possible soit de suivre l'apparition du produit ou la disparition du substrat
+
 Élution séparation de deux substances. Le produit utilisé comme solvant
 est appelé éluant. 
 
-+-------------------+--------------------------------------------------+
-| Loi de            | *e* : Coeff d\'extinction molaire, spécifique de |
-| Beer-Lambert      | la substance absorbante (en M-1 cm-1).           |
-|                   |                                                  |
-|                   | *l *: épaisseur de la cuve (en cm).              |
-|                   |                                                  |
-|                   | *c* : Concentration de la substance absorbante   |
-|                   | (en mole/L).                                     |
-|                   |                                                  |
-|                   | *A* absorbance ou densité optique (sans unité).  |
-+-------------------+--------------------------------------------------+
-| $$A = \log\left(  |                                                  |
-|  \frac{I_{0}}{I}  |                                                  |
-| \right) = e.l.c$$ |                                                  |
-+-------------------+--------------------------------------------------+
+#### Loi de Beer-Lamber
 
-## Choix du contenant
+$A = \log\left(\frac{I_{0}}{I} \right) = e.l.c$$
 
-  -----------------------------------------------------------------------
-  Longueur d'ondes                    Cuve
-  ----------------------------------- -----------------------------------
-  190-400 nm                          Quartz
+* $e$ coeff d'extinction molaire, spécifique de la substance absorbante (en $M^{-1}.cm^{-1}).
+* $l$ épaisseur de la cuve (en cm).
+* $c$ concentration de la substance absorbante (en $Mol$ ou $mol.L^{-1}$).
+* $A$ absorbance ou densité optique (sans unité).
 
-  400-800 nm                          Plastique, verre
-  -----------------------------------------------------------------------
+Le matière qui constitue la cuve dépend de la longueur d'onde utilisée. Pour les longueurs d'ondes comprise entre :
+
+* 190-400 nm quartz.
+* 400-800 nm plastique, verre
 
 Les étapes pour réaliser une spectrométrie :
 
 1.  Réglé l'absorbance avec l'échantillon de solvant pur.
+2.  Réaliser les mesures. Elles ne sont valables que pour 0,1\<A <1.
 
-2.  Réaliser les mesures. Elles ne sont valables que pour 0,1\<A\<1.
-
-[Remarque :]{.underline} A chaque fois que l'on modifie la longueur
-d'onde, il faut régler l'absorbance pour le solvant pur ou utiliser un
-spectrophotomètre bi-faisceau.
+!!! note
+    A chaque fois que l'on modifie la longueur d'onde, il faut régler l'absorbance pour le solvant pur (faire le blanc) ou utiliser un spectrophotomètre bi-faisceau.
 
 ## Couleur d'un objet
 
-La couleur d'un objet est celle de toutes les longueurs d'ondes non
-absorbées.
+La couleur d'un objet est celle de toutes les longueurs d'ondes non absorbées.
 
-Exemple : les carottes absorbent la partie de lumière entre le violet et
-le vert. Elles apparaissent donc orangées.
+!!! example
+    Les carottes absorbent la partie de lumière entre le violet et le vert. Elles apparaissent donc orangées.

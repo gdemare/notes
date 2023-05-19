@@ -78,7 +78,7 @@ Il se construit :
 * au passé : Would + perfect  
 
 !!! note
-  Would est le prétérit de will.
+	Would est le prétérit de will.
 
 Expression usuelle : Si (if)... alors (then) ...
 
