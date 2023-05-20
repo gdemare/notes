@@ -1,3 +1,7 @@
+__réplica biologique__ plusieurs échantillons avec les mêmes conditions expérimentales.
+
+__réplica technique__ plusieurs mesures du même échantillon.
+
 ### Les 9 pictogramme SGH : dangers...
 
 Les produits chimiques sont associés à des risques décrit par un ou plusieurs pictogrammes sur le contenant :
@@ -41,15 +45,11 @@ $$pH = - log(concentation\ en\ mol\ H_{3}O^{+})$$
 
 # Dilution
 
-  ----------------------------------- -----------------------------------
-  Facteur de dilution X               Dilution X fois 1 de solution et
-                                      X-1 de diluant.
+Facteur de dilution X               Dilution X fois 1 de solution et X-1 de diluant.
 
-  Pourcentage massique                Une solution à 30% 30g/ 100mL
-                                      300g/ 1L
+Pourcentage massique Une solution à 30% 30g/ 100mL, $300g.L^{-1}$
 
-                                      Degré d\'acidité 7° 7g/100L.
-  ----------------------------------- -----------------------------------
+Degré d'acidité 7° 7g/100L.
 
 La dilution D est l'inverse du facteur de dilution soit : $\frac{1}{F}$
 
@@ -58,9 +58,8 @@ La dilution D est l'inverse du facteur de dilution soit : $\frac{1}{F}$
 
 Méthode pour réaliser une dilution en série (ou en cascade) :
 
--   Construire le tableau suivant :
+* Construire le tableau suivant :
 
-  --------------------------------------------------------------------------------------------------------------
   N° du tube    Facteur cumulé (                                             Vol solution      Vol diluant
                 $\frac{\mathbf{C}_{\mathbf{i}}}{\mathbf{F}^{\mathbf{n}}}$)                     
   ------------- ------------------------------------------------------------ ----------------- -----------------
@@ -87,17 +86,13 @@ La spectrométrie permet de :
 
 * Déterminer la concentration d'une molécule
 * Suivre la cinétique de formation d'un produit lors d'une réaction enzymatique
-
--   Suivre l'élution de molécules lors de la séparation d'un mélange par
-    chromatographie
-
--   Analyser le degré de pureté d'une molécule
+* Suivre l'élution de molécules lors de la séparation d'un mélange par chromatographie.
+* Analyser le degré de pureté d'une molécule.
 
 !!! note 
-  Pour suivre l'évolution d'une réaction chimique, il est possible soit de suivre l'apparition du produit ou la disparition du substrat
+    Pour suivre l'évolution d'une réaction chimique, il est possible soit de suivre l'apparition du produit ou la disparition du substrat
 
-Élution séparation de deux substances. Le produit utilisé comme solvant
-est appelé éluant. 
+__Élution__ séparation de deux substances. Le produit utilisé comme solvant est appelé éluant.
 
 #### Loi de Beer-Lamber
 
@@ -127,3 +122,13 @@ La couleur d'un objet est celle de toutes les longueurs d'ondes non absorbées.
 
 !!! example
     Les carottes absorbent la partie de lumière entre le violet et le vert. Elles apparaissent donc orangées.
+
+### Cahier de laboratoire
+
+L'idée est d'avoir un endroit avec toute les informations des expériences menées datés (si possible avec l'horaire) :
+
+* les détails des calculs.
+* Les doutes sur certaines manipulations.
+* Ou sont entreposés les échantillons.
+* Les informations de contexte qui peuvent être importante (la climatisation est en panne et il fait 37°C dans la pièce).
+* Les remarques et l'aspect des échantillons.

@@ -7,7 +7,7 @@
 La rhétorique 
 Convaincre 
 
-`Argument` ce qui est probable. 
+__Argumen__ ce qui est probable. 
 
 ## Déterminer la rigueur de l’argument
 
@@ -26,6 +26,7 @@ Dissociation
 * Exemplifier faire d’une cas particulier l’illustration d’une généralité
 
 L’argument par l’exemple dépend :
+
 * Le poids accordé aux arguments.
 * La probabilité d’une événement, du risque.
 * L'accord global sur les valeurs.

@@ -1,94 +1,91 @@
-## Compétences
+## Les compétences
 
-Une compétence est l\'association de trois notions :
+Une compétence est l'association de trois notions :
 
--   Savoir-faire : application de la théorie à la pratique (correspond
-    aux moyens).
+* Savoir-faire : application de la théorie à la pratique (correspond aux moyens).
+* Savoir être : attitudes à adopter pour obtenir un rendu de qualité.
+* Savoir : connaissance théorique du sujet.
 
--   Savoir être : attitudes à adopter pour obtenir un rendu de qualité.
+-----------------------------------------
 
--   Savoir : connaissance théorique du sujet.
+## Déposer une candidature
 
-# Entretien
+### La lettre de motivation 
 
-## Présentez-vous
+L'objectif de la lettre de motivation est de faire le lien entre les compétences et le poste candidate.
 
-### Thématique : expliquer ses compétences.
+-----------------------------------------
 
--   Objectif (Projet professionnel personnel) : idem.
+## L'entretien
 
--   Plan d\'action : quels éléments peut-on apportés à l\'entreprise ?
+Ce qu'il faut définir avant un entretien 
 
--   Formation
+* Ce que je sais de l'entreprise :
+	* L'activité de l'entreprise : intérimaire (remplacement et suppléant) d\'ingénieur, développer, analyste.
+	* Les valeurs portées par l\'entreprise : intégrité, ambitieux,
+	* La dimension de l\'entreprise : France, Suisse, Suède.
+* Ce qui me motive sur le poste.
+* Mon projet professionnel.
+* Les compétences et les expériences les plus proches du poste.
+* Mes qualités pour le poste.
+* Mes attentes.
+* Contraintes et manques.
 
--   Domaine avec les sous domaines associés
+### Le langage
 
-### Présentation par chronologique
+Le langage corporel (visage, posture) doit faire passer l'émotion JOIE (éviter le plus possible peur, colère tristesse).
 
-1.  Qui je suis : présentation.
+### Présentez-vous
 
-2.  D\'où je viens : présenter son parcours.
+#### Thématique : expliquer ses compétences.
 
-3.  Où j\'en suis : la situation actuelle.
+* Objectif (Projet professionnel personnel) : idem.
+* Plan d'action : quels éléments peut-on apportés à l'entreprise ?
+* Formation
+* Domaine avec les sous domaines associés
 
-4.  Où je souhaite aller : son projet d\'avenir.
+#### Présentation par chronologique
 
-## Poser des questions dynamiques pour émouvoir le recruteur
+1. Qui je suis : présentation.
+2. D'où je viens : présenter son parcours.
+3. Où j'en suis : la situation actuelle.
+4. Où je souhaite aller : son projet d'avenir.
 
--   Quelles sont les difficultés du poste ?
+### Poser des questions
 
--   Quels sont les grands projets pour l\'année à venir ?
+Les questions doivent être dynamiques pour émouvoir le recruteur.
 
--   Qu\'est-ce qui va faire la différence dans le choix du candidat ?
+* Quelles sont les difficultés du poste ?
+* Quels sont les grands projets pour l'année à venir ?
+* Qu\'est-ce qui va faire la différence dans le choix du candidat ?
+* Quelle part est associée à chaque type de mission ?
 
--   Quelle part est associée à chaque type de mission ?
+### Le salaire
 
-## Salaire
+Connaître ses prétentions salariales, généralement il faut remplir le tableau suivant :
 
-| Salaire brut annuel | Salaire net mensuel -23% | Salaire net mensuel | Années d\'expérience |
+
+| Salaire brut annuel | Salaire net mensuel -23% | Salaire net mensuel | Années d'expérience |
 |------------------|------------------|------------------|------------------|
 |                     |                          |                     |                      |
 
-## Le langage
+### Les exemples à préparer
 
-Le langage corporel (visage, posture) doit faire passer l\'émotion JOIE
-(\$ possibles + peur, colère tristesse).
+* Une difficulté rencontrée :
+* Une initiative :
+    * Marquante :
+    * Initiative mise en place :
+* Problème technique rencontré :
+* Situation stressante :
+* Apprentissage accélérée :
+* Capacité d'argumentation :
 
-# Postuler
+### Les qualités et les défauts
 
-## La lettre de motivation 
+Être capable de citer au moins trois qualités et défaut. 
 
-L\'objectif de la lettre de motivation est de faire le lien entre les
-compétences et le poste candidate.
-
-# Préparation de l'entretien
-
-Ce qu'il faut définir avant un entretien :
-
--   Ce que je sais de l\'entreprise
-
--   Ce qui me motive sur le poste
-
--   Mon projet professionnel
-
--   Les compétences et les expériences les plus proches du poste
-
--   Mes qualités pour le poste
-
--   Mes attentes
-
--   Contraintes et manques
-
-## Les informations sur l\'entreprise
-
--   L'activité de l\'entreprise : intérimaire (remplacement et
-    suppléant) d\'ingénieur, développer, analyste.
-
--   Les valeurs portées par l\'entreprise : intégrité, ambitieux,
-
--   La dimension de l\'entreprise : France, Suisse, Suède.
-
-## Les qualités et les défauts
+!!! note 
+	Les qualités et les défauts sont les faces d'une même pièce, elles sont étroitement liées puisque leur différence réside dans le degré d'expression.
 
 | Qualités                                | Défauts                                                   |
 |---------------------------------|---------------------------------------|
@@ -102,29 +99,6 @@ Ce qu'il faut définir avant un entretien :
 | Mobile                                  | Impatient                                                 |
 | Autonome                                |                                                           |
 
-Les qualités et les défauts sont fortement liés, la différence réside
-principalement dans le degré d'expression.
 
-Pour chaque qualité, il faut pouvoir l'illustrer avec un exemple,
-contexte -
-
-## Exemples de situations à préparer
-
--   Une difficulté rencontrée :
-
-```{=html}
-<!-- -->
-```
--   Une initiative :
-
-    -   Marquante :
-
-    -   Initiative mise en place :
-
--   Problème technique rencontré :
-
--   Situation stressante :
-
--   Apprentissage accélérée :
-
--   Capacité d'argumentation :
+!!! note
+	Il faut être capable d'illuster chaque qualité et défaut par un exemple.
