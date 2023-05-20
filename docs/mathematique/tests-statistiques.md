@@ -221,7 +221,4 @@ Degré de liberté :
 
     b.  P-value : LOI.STUDENT.BILATERALE()
 
-|            |                    |
-|------------|--------------------|
-| ECARTYPE.P | Écart type         |
-| ECARTYPE   | Écart type corrigé |
+
