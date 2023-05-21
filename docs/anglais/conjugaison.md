@@ -24,10 +24,10 @@ Informations objectives et faits :
 
 Commentaire, interprétation :
 
-* Décrire ce qui se passe
+* Décrire ce qui se passe.
 * avec les verbes d'attitudes (stay, wait, li). Attention stay down, li down,... sont considérés comme des verbes d'action.
-* habitude associé à un adverbe pour signifier un reproche, une irritation (They are almays making too noises.)
-* future proche lorsqu'il est associé à un marqeur de temps (Nous allons la semaine prochaine)
+* habitude associé à un adverbe pour signifier un reproche, une irritation (They are almays making too noises.).
+* futur proche lorsqu'il est associé à un marqeur de temps (Nous allons à Paris la semaine prochaine).
 
 !!! warning
     Be n'est pas répété : She is sitting, reading a book.
@@ -38,10 +38,13 @@ Commentaire, interprétation :
 
 Perfect on est capable d'ajouter for (depuis). Tout marqueur de temps 
 
-prétérit modal pour exprimer un souhait ou un regret.
+### Prétérit modal pour exprimer un souhait ou un regret.
 
 !!! example
-    J'aimerai que de l'intelligence artificielle soit présente dans les programmes politiques. 
+	It's high time he took control of his life. Il est grand temps qu'il prenne sa vie en main.
+
+!!! example
+    I wish IA were on polical agenda. J'aimerai que de l'intelligence artificielle soit présente dans les programmes politiques. 
 
 ### Be + v-ing
 
@@ -49,6 +52,9 @@ used to + base verbale pour marquer un changement avec le présent. Avant il jou
 
 !!! warning
     Be used to/ be accustomed to + v-ing traduit avoir l'habitude
+
+-------------------------
+# Les modaux
 
 ### Would + bv
 
@@ -68,6 +74,7 @@ will/shall + verbe
 ## Le conditionnel (Si)
 
 Le conditionnel permet d'exprimer :
+
 * Conditionnel
 * Habitude passée
 * Volonté
@@ -84,76 +91,54 @@ Expression usuelle : Si (if)... alors (then) ...
 
 Expression | Temps | Exemple
 ---|---|---
-If + present simple \... will | Futur | Si j'ai, j'acheterai
-If + preterit simple \... would + simple | Present simple  |Si j'avais, j'aurais
-If + preterit simple \... would + perfect | Passé | Si j'avais, j'aurais eu
+If + present simple ... will | Futur | Si j'ai, j'acheterai
+If + preterit simple ... would + simple | Present simple  |Si j'avais, j'aurais
+If + preterit simple ... would + perfect | Passé | Si j'avais, j'aurais eu
 
 !!! Note
   A la 1ère personne du singulier/pluriel, would peut être substitué par should.
 
+## Le regret 
+
 Exprimer le regret : I wish/If only +
 
-Regret | Temps | Exemple
----|---|---
-Présent | Passé simple | Si j'avais assez d'argent.
-Passé | Passé perfect | Si j'avais eu assez d'argent.
+Regret   | Temps          | Exemple
+---------|----------------|--------
+Présent  | Passé simple   | Si j'avais assez d'argent.
+Passé    | Passé perfect  | Si j'avais eu assez d'argent.
 
 _Ex : I wish I knew the answer. = Je souhaite connaitre la réponse._
 
-## Le passif
-
-_Ex : la chaise a été déplacée._
-
-To be + participe passé
-
-## L'impératif
-
-Verbe à l'infinitif
-
-Pour insister on peut :
-
-* Ajouter un adverbe avant _(Always/never) + infinif_
-* Do + infinitif (pour insister).
-
-Pour la 1ère personne du singulier et du pluriel on peut utiliser
-l'expression : Let us + infinitif
-
-_Exemple : Allons marcher !_
-
 ## Donner un conseil (tu devrais)
 
-should/ought + verbe
-
-## Préférer
-
-Prefer Would rather/had rather + infinitif
+* au présent : should + verbe
+* au passé : should have + participe passé
 
 ## Vouloir
 
-* want + infinitif (au présent wanna)
+* want + infinitif (au présent wanna).
 * would/should like + verbe formule de politesse
-
-## Gérondif (exemple ; en marchant)
-
-Verbe + ing Forme du verbe utilisée pour décrire certaines circonstances.
 
 ## Les modaux pour exprimer la certitude
 
 Par degrés de certitude
 
-Modaux |Définition
----|---
-must| Devoir
+Modaux            | Définition
+------------------|---
+must              | Devoir
 may be (ou could) | Sans doute
-can/might| Peut être
-can\'t| Impossible
+can/might         | Peut être
+can't             | Impossiblilité
 
 !!! note
     le négatif de could est might not
 
 Must + be + -ing tu dois être entrain de....
 
-Passé Might + have + participe passé
+Au passé Might + have + participe passé
+
+!!! example
+	You might have gone to walk. = Tu aurais pu aller te promener.
 
 Conjugué
 
@@ -164,9 +149,8 @@ Passé| modaux + progressif
 
 Il est également possible d'utiliser :
 
-Adverbes| Expressions
----|---
-probably, certainly, perhaps | be certain, be likely, be unlikely, be improbale
+* des adverbes : probably, certainly, perhaps
+* des expressions : be certain, be likely, be unlikely, be improbale
 
 ## Le verbe Pourvoir (la permission et le possibilité)
 
@@ -177,3 +161,41 @@ __Possibilité__ | | | be able to
 __Permission/possibilité__ | could | can |
 
 Could pour les questions « Pourriez-vous ... ?».
+
+-----------------
+# Les autres formes
+
+## La forme passive
+
+To be + participe passé
+
+!!! note
+	La chaise a été déplacée. The chair is deplaced.
+
+## L'impératif
+
+L'impératif utilise le verbe l'infinitif.
+
+### Ne pas laisser
+
+`Do (not) let + sujet  + verbe` Ne pas laisser ....
+
+### Insister
+
+Pour insister on peut :
+
+* Ajouter un adverbe avant (Always/never) + infinif
+* Do + infinitif (pour insister).
+* Pour la 1ère personne du singulier et du pluriel on peut utiliser l'expression : Let us + infinitif
+
+!!! example 
+	Allons marcher ! Let us walk !
+
+## Préférer
+
+Prefer Would rather/had rather + infinitif
+
+## Gérondif (exemple ; en marchant)
+
+Verbe + ing Forme du verbe utilisée pour décrire certaines circonstances.
+

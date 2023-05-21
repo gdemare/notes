@@ -1,104 +1,58 @@
-Each suivi d'un singulier poru le pluriel il faut ajouter of the 
-Every est toujours suivi d'un singulier
-
-Each + objet considérer comme individuel (chaque plante)
-Every utilisé généralemetn employer avec une notion de temps (chaque matin,....)
-
-Interchangeable
-
-# Structure des phrases
-
-SUBJECT - VERB - OBJECT - PLACE - TIME
-
-TIME - SUBJECT -VERB - OBJECT - PLACE
-
-
-# Vocabulaire
-
 ## Du français à l'anglais
 
-+-----------+-----------+---------------------------------------------+
-| Français  | English   | Exemples                                    |
-+===========+===========+=============================================+
-| -ible     | -ible     | Possible, predictible                       |
-+-----------+-----------+---------------------------------------------+
-| -able     | -able     | Table, confortable, remarkable, acceptable  |
-+-----------+-----------+---------------------------------------------+
-| -ent      | -ent      | Different, evident, recent, present         |
-+-----------+-----------+---------------------------------------------+
-| -ant      | -ant      | Important, constant                         |
-+-----------+-----------+---------------------------------------------+
-| -ence     | -ence     | Difference, preference, experience          |
-+-----------+-----------+---------------------------------------------+
-| -ance     | -ance     | Importance                                  |
-+-----------+-----------+---------------------------------------------+
-| -ion      | -ion      | Opinion, condition, position                |
-+-----------+-----------+---------------------------------------------+
-| Exception |           | Traduction → Translation                    |
-|           |           |                                             |
-|           |           | Explication → Explanation                   |
-|           |           |                                             |
-|           |           | Vacances → Vacation                         |
-+-----------+-----------+---------------------------------------------+
-| -al       | -al       | Normal, mineral, animal, special            |
-+-----------+-----------+---------------------------------------------+
-| -ment     | -ally     | Normalement → normally                      |
-|           |           |                                             |
-|           |           | Généralement → generally                    |
-+-----------+-----------+---------------------------------------------+
-| -té       | -ty       | Liberté → liberty                           |
-|           |           |                                             |
-|           |           | Modernité → modernity                       |
-|           |           |                                             |
-|           |           | Prospérité → prosperity                     |
-+-----------+-----------+---------------------------------------------+
-| -ique     | -ical     | Economique → economical                     |
-|           |           |                                             |
-|           |           | Logique → logical                           |
-|           |           |                                             |
-|           |           | Pratique → practical                        |
-+-----------+-----------+---------------------------------------------+
-| -aire     | -ary      | Necessaire → necessary                      |
-|           |           |                                             |
-|           |           | Contraire → contrary                        |
-|           |           |                                             |
-|           |           | Militaire → military                        |
-+-----------+-----------+---------------------------------------------+
+Les mots identiques en français et en anglais :
+
+
+Terminaison française | Exemples
+----------------------|----------------
+-ible                 | Possible, predictible
+-able                 | Table, confortable, remarkable, acceptable
+-ent                  | Different, evident, recent, present
+-ant                  | Important, constant
+-ence                 | Difference, preference, experience
+-ance                 | Importance
+-ion                  | Opinion, condition, position
+-al                   | Normal, mineral, animal, special
+
+
+!!! warning 
+	Il existe des exceptions : 
+	* Traduction → Translation
+	* Explication → Explanation
+	* Vacances → Vacation
+
+Terminaison française | Terminaison anglaise | Exemples
+----------------------|----------------------|------------
+-ment   			  | -ally     		     | normalement → normally, Généralement → generally
+-té       			  | -ty                  | Liberté → liberty, Modernité → modernity, Prospérité → prosperity  
+-ique    		      | -ical   			 | Economique → economical, Logique → logical, Pratique → practical 
+-aire     			  | -ary  			     | Necessaire → necessary, Contraire → contrary, Militaire → military
+
+-----------------
+# Convertir un type de mot en un autre
 
 ## Du verbe au nom
 
-  -----------------------------------------------------------------------
-  Nom                     Verbe                   Verb
-  ----------------------- ----------------------- -----------------------
-  Confirmation            Confirmer               To confirm
-
-  Formation               Former                  To form
-
-  Invitation              Inviter                 To invite
-  -----------------------------------------------------------------------
+Nom           |  Verbe        | Verb
+--------------|---------------|-----------
+Confirmation  | Confirmer 	  | To confirm
+Formation     | Former 		  | To form
+Invitation    | Inviter       | To invite
 
 ## Transformer en adverbe
 
-  ----------------------------------- -----------------------------------
-  Adjectif + ly                       Verbe + ly
-
-  ----------------------------------- -----------------------------------
+* Adjectif + ly
+* Verbe + ly
 
 ## Transformer en nom
 
-Adjectif + ness ou + less
-
-Verbe + er (driver) métier
-
-\+ Ion (collision
-
-[Exemple :]{.underline} great+ness (grandeur)
+* Adjectif + ness ou + less : great+ness (grandeur)
+* Verbe + er (driver) pour les métiers
 
 ## Transformer en adjectif
 
-Nom + full
-
-Verbe + ed
+* Nom + full
+* Verbe + ed (càd le participe passé).
 
 Lorsque ca se rattache au verbe
 
@@ -106,66 +60,51 @@ Adverbe : participe passé
 
 Lorsque ca se rattache à un nom ou au sujet.
 
-Directement avant le nom ou après to be/seem/look. Adjectif : verbe +
-ing
+Directement avant le nom ou après to be/seem/look. Adjectif : verbe + ing
 
 ## Du nom au verbe
 
 Adjective + EN ou noun + EN en verb
 
-to strengthEN = renforcer /fortifier
+!!! example
+	* To strengthEN = renforcer /fortifier
+	* To lengthEN = rallonger
+	* To hardEN = durcir
 
-To lengthEN = rallonger
-
-To hardEN = durcir
-
-Do (not) let sujet verbe Ne pas laisser ....
-
+--------------------
 # Les nombres
 
-245 two hundred and forty-five
+!!! example
+	Nbre         | Anglais
+	-------------|--------------------------
+	245 two      | hundred and forty-five
+	1 200 one    |  thousand, two hundred
+	56 603 fifty | six, six hundred and three
+	245 803      |  two hundred and forty-five thousand, eight hundred and three
 
-1 200 one thousand, two hundred
+Racine                     | Traduction 
+---------------------------|-----------
+$\mathbf{13}^{\mathbf{2}}$ | Thirteen squared
+$\mathbf{13}^{\mathbf{3}}$ | Thirteen cubed
+$\mathbf{13}^{\mathbf{4}}$ | Thirteen to fourth power
+$\sqrt{2}$                 | The square root of two
+$2^{\frac{1}{4}}$          | The fourth root of two
+$\frac{1}{2}$              | one half
+$\frac{3}{2}$              | three halves
+$\frac{2}{3}$              | two thirds 
+$\frac{2}{4}$              | two quarter ou two fourth
+$\frac{3}{5}$              | three fifths
 
-56 603 fifty six, six hundred and three
+Symbole | Traduction
+--------|----
+$+$     | plus
+$-$     | Minus
+$=$     | Equals
+$x$     | Multiplied by/ times
+$/$     | Divided by
 
-245 803 two hundred and forty-five thousand, eight hundred and three
+The change object + change verbe = by 
 
-+----------------------------------+-----------------------------------+
-| $$\mathbf{13}^{\mathbf{2}}$$     | Thirteen squared                  |
-+----------------------------------+-----------------------------------+
-| $$\mathbf{13}^{\mathbf{3}}$$     | Thirteen cubed                    |
-+----------------------------------+-----------------------------------+
-| $$\mathbf{13}^{\mathbf{4}}$$     | Thirteen to fourth power          |
-+----------------------------------+-----------------------------------+
-| $$\sqrt{\mathbf{2}}$$            | The square root of two            |
-|                                  |                                   |
-| ...                              | The fourth root of two            |
-+----------------------------------+-----------------------------------+
-
-½ one half
-
-3/2 three halves
-
-2/3 two thirds
-
-2/4 two quarter ou two fourth
-
-3/5 three fifths
-
-  -----------------------------------------------------------------------
-  \+                                  plus
-  ----------------------------------- -----------------------------------
-                                      Minus
-
-  =                                   Equals
-
-  x                                   Multiplied by/ times
-
-  /                                   Divided by
-  -----------------------------------------------------------------------
-
-The change object + change verbe = by : The price of oil increased by
-10% last year.
-
-There was an increase of 10% in the price of oil.
+!!! example 
+	* The price of oil increased by 10% last year.
+	* There was an increase of 10% in the price of oil.
