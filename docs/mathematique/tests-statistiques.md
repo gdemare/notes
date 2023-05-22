@@ -2,71 +2,32 @@ Les tests statistiques servent à vérifier si les données obtenues
 sont compatibles avec une propriété (par exemple, une moyenne théorique)
 et les différences observées dû au hasard de l\'échantillonnage.
 
--   H~0~ la différence vient de l\'échantillonnage.
+* $H_{0}$ la différence vient de l'échantillonnage.
+* $H_{1}$ différence entre l'échantillon et la population.
 
--   H~1~ différence entre l\'échantillon et la population.
 
-<table>
-<colgroup>
-<col style="width: 40%" />
-<col style="width: 23%" />
-<col style="width: 36%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Choix Réalité</td>
-<td>H0</td>
-<td>H1</td>
-</tr>
-<tr class="even">
-<td>H0</td>
-<td><em><br />
-</em><span class="math display">1 − <em>α</em></span></td>
-<td><span class="math display"><em>β</em></span></td>
-</tr>
-<tr class="odd">
-<td>H1</td>
-<td><span class="math display"><em>α</em></span></td>
-<td><span class="math inline">1 − <em>β</em></span> (puissance du
-test)</td>
-</tr>
-</tbody>
-</table>
+Choix/Réalité | $H_{0}$      | $H_{1}$
+--------------|--------------|-------------- 
+$H_{0}$       | $1 − \alpha$ | $\alpha$ 
+$H_{1}$       | $\beta$      | $1-\beta$ (appelé puissance du test)
 
-Interprétation : Au risque $\alpha$ est accepté H~1~ alors que c'est
+
+Interprétation : Au risque $\alpha$ est accepté $H_{1}$ alors que c'est
 faux. Cela correspond au rejet à tort de l'hypothèse nulle.
 
-[Rmq :]{.underline} le risque $\alpha$ est généralement fixé à 5%.
+!!! note
+    Le risque $\alpha$ est généralement fixé à 5%.
 
 Règle de décision :
 
--   L'appartenance à intervalle de confiance.
-
--   Par des statistiques du test soit car le seuil soit par la p-value
+* L'appartenance à intervalle de confiance.
+* Par des statistiques du test soit car le seuil soit par la p-value
     (par comparaison du risque).
 
 Deux types de tests :
 
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Unilatéral (à gauche)</th>
-<th>Bilatéral</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>H0 : µ = µ0</p>
-<p>Ha : µ &lt; µ0</p></td>
-<td><p>H0 : µ = µ0</p>
-<p>Ha : µ ≠ µ0</p></td>
-</tr>
-</tbody>
-</table>
+* Unilatéral (example, à gauche), $H_{0}$ : µ = µ0, Ha : µ &lt; µ0
+* Bilatéral H0 : µ = µ0,  Ha : µ ≠ µ0
 
 ## Intervalle de confiance
 
@@ -76,11 +37,9 @@ référence :
 $S = \left| \frac{x - \mu_{0}}{\sqrt{\frac{\sigma^{2}}{n}}} \right| < 1.96$
 avec $\mu_{0}$ la moyenne théorique.
 
-Intervalle de
-confiance $\lbrack\mu_{0} \pm 1,96\sqrt{\frac{\sigma^{2}}{n}}\rbrack$
+Intervalle de confiance $\lbrack\mu_{0} \pm 1,96\sqrt{\frac{\sigma^{2}}{n}}\rbrack$
 
-Pour comparer la valeur de deux échantillons, il suffit de vérifier si
-les intervalles se chevauchent.
+Pour comparer la valeur de deux échantillons, il suffit de vérifier si les intervalles se chevauchent.
 
 ## Les tests
 
@@ -120,16 +79,14 @@ class="math display"><em>p</em> − <em>v</em><em>a</em><em>l</em><em>u</em>
 Par exemple, au risque alpha de 5%, $E_{\alpha} = 1,96$
 
 p-valeur est la probabilité d'obtenir une valeur aussi extrême sous
-l'hypothèse H~0~. Énoncer de façon différente, elle indique dans quelle
-mesure les données sont conformes à l'H~0~.
+l'hypothèse $H_{0}$. Énoncer de façon différente, elle indique dans quelle
+mesure les données sont conformes à l'$H_{0}$.
 
-[Exemple :]{.underline} on effectue des tirages de pile ou face. H~0~ la
-pièce n'est pas biaisée.
+!!! example
+    On effectue des tirages de pile ou face. $H_{0}$ la pièce n'est pas biaisée.
 
--   4 tirages et 4 piles : $\frac{1}{2^{4}} = 0,0625$% on ne rejette pas
-    H~0~.
-
--   5 tirages et 5 piles : $\frac{1}{2^{5}} = 0,03125$% on rejette H~0~.
+* 4 tirages et 4 piles : $\frac{1}{2^{4}} = 0,0625$% on ne rejette pas $H_{0}$.
+* 5 tirages et 5 piles : $\frac{1}{2^{5}} = 0,03125$% on rejette $H_{0}$.
 
 !!! note
     Une valeur est significativement différente si l'hypothèse $H_{0}$ (les valeurs sont égales) est rejetée.
@@ -151,23 +108,20 @@ Les types de tests principaux :
 
 # Corrélation entre deux variables
 
-* H~0~ : les variables sont indépendantes
-* H~1~ : les variables sont liées.
+* $H_{0}$ : les variables sont indépendantes
+* $H_{1}$ : les variables sont liées.
 
 ## Une variable quantitative et une qualitative (ANOVA)
 
 L'ANalysis Of Variance (ANOVA) sert à savoir si une variable qualitative
 à une influence sur une variable quantitative.
 
--   H~0~ : La moyenne des groupes est issue d'une même population.
-
--   H~1~ : Les moyennes possèdent des différences significatives entre
-    les groupes.
+* $H_{0}$ : La moyenne des groupes est issue d'une même population.
+* $H_{1}$ : Les moyennes possèdent des différences significatives entre les groupes.
 
 Degré de liberté : $Effectif - 2$
 
-MANOVA : dans le cas où il existe plusieurs variables quantitatives à
-expliquer on utilise MANOVA (Multivariate analysis of variance).
+MANOVA : dans le cas où il existe plusieurs variables quantitatives à expliquer on utilise MANOVA (Multivariate analysis of variance).
 
 $y = \mu + f\left( x_{1},\ \ldots,x_{i} \right) + \varepsilon$
 
@@ -185,33 +139,21 @@ Degré de liberté : ${(modalité}_{ligne} - 1)({modalité}_{colonne} - 1)$
 
 Il faut faire :
 
-1.  Tableau de contingence (appelé aussi effectif)
-
-2.  Tableau des effectifs théoriques :
-    $p\left( A \middle| B \right)*p\left( B \middle| A \right)*eff\ tot$
-    ou directement
-    $\frac{N_{ligne\ total} \times N_{colonne\ total}}{N_{total}}$
-
-3.   Calcul du khi2 théorique pour chaque croissement de modalité :
-    $\frac{{(n}_{obs} - n_{theo})²}{n_{theo}}$.
-
-4.  Somme des valeurs pour chaque modalité et calcul de la statistique :
-
-    a.  LOI.KHIDEUX.INVERSE.DROITE(proba; degré de liberté)
-
-    b.  P-value : LOI.KHIDEUX.DROITE(valeur; degré de liberté)
+1. Tableau de contingence (appelé aussi effectif).
+2. Tableau des effectifs théoriques : $p\left( A \middle| B \right)*p\left( B \middle| A \right)*eff\ tot$ ou directement $\frac{N_{ligne\ total} \times N_{colonne\ total}}{N_{total}}$.
+3. Calcul du khi2 théorique pour chaque croissement de modalité : $\frac{{(n}_{obs} - n_{theo})²}{n_{theo}}$.
+4. Somme des valeurs pour chaque modalité et calcul de la statistique :
+    1. LOI.KHIDEUX.INVERSE.DROITE(proba; degré de liberté)
+    2. P-value : LOI.KHIDEUX.DROITE(valeur; degré de liberté)
 
 ## Deux variables quantitatives
 
 Degré de liberté :
 
-1.  Calcul du coefficient de corrélation de Pearson PEARSON()
+1. Calcul du coefficient de corrélation de Pearson PEARSON()
+2. Calcul de la statistique
 
-2.  Calcul de la statistique
-
-    a.  :
-        $\left| \frac{R \times \sqrt{Eff - 2}}{\sqrt{1 - R^{2}}} \right|$
-
-    b.  P-value : LOI.STUDENT.BILATERALE()
+    1.  $\left| \frac{R \times \sqrt{Eff - 2}}{\sqrt{1 - R^{2}}} \right|$
+    2.  P-value : LOI.STUDENT.BILATERALE()
 
 
