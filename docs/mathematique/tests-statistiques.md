@@ -131,18 +131,14 @@ pièce n'est pas biaisée.
 
 -   5 tirages et 5 piles : $\frac{1}{2^{5}} = 0,03125$% on rejette H~0~.
 
-[Rmq :]{.underline} une valeur est significativement différente si
-l'hypothèse H~0~ (les valeurs sont égales) est rejetée.
+!!! note
+    Une valeur est significativement différente si l'hypothèse $H_{0}$ (les valeurs sont égales) est rejetée.
 
 Les types de tests principaux :
 
--   Indépendance, exemple : la couleur des cheveux est-elle indépendante
-    du sexe ?
-
--   Homogénéité : deux séries de données sont-elles identiquement
-    distribuées.
-
--   Adéquation à une loi ou une famille de lois définies à priori, par
+* Indépendance, exemple : la couleur des cheveux est-elle indépendante du sexe ?
+* Homogénéité : deux séries de données sont-elles identiquement distribuées.
+* Adéquation à une loi ou une famille de lois définies à priori, par
     exemple : la taille d'une population suit-elle une loi normale ?
 
 # Test d'homogénéité
@@ -155,9 +151,8 @@ Les types de tests principaux :
 
 # Corrélation entre deux variables
 
--   H~0~ : les variables sont indépendantes
-
--   H~1~ : les variables sont liées.
+* H~0~ : les variables sont indépendantes
+* H~1~ : les variables sont liées.
 
 ## Une variable quantitative et une qualitative (ANOVA)
 
@@ -174,17 +169,15 @@ Degré de liberté : $Effectif - 2$
 MANOVA : dans le cas où il existe plusieurs variables quantitatives à
 expliquer on utilise MANOVA (Multivariate analysis of variance).
 
-$$y = \mu + f\left( x_{1},\ \ldots,x_{i} \right) + \varepsilon$$
+$y = \mu + f\left( x_{1},\ \ldots,x_{i} \right) + \varepsilon$
 
 Avec :
 
--   $\mu$ une constante
+*  $\mu$ une constante
+*  $\varepsilon$ l'erreur qui suit une loi normale $N\left( 0,\sigma^{2} \right)$
 
--   $\varepsilon$ l'erreur qui suit une loi normale
-    $N\left( 0,\sigma^{2} \right)$
-
-[Rmq :]{.underline} Lorsqu'il n'y a que deux modalités, il est possible
-d'utiliser un test de student.
+!!! note
+    Lorsqu'il n'y a que deux modalités, il est possible d'utiliser un test de student.
 
 ## Deux variables qualitatives
 
