@@ -29,7 +29,7 @@ Deux types de tests :
 * Unilatéral (example, à gauche), $H_{0}$ : µ = µ0, Ha : µ &lt; µ0
 * Bilatéral H0 : µ = µ0,  Ha : µ ≠ µ0
 
-## Intervalle de confiance
+### Intervalle de confiance
 
 Exemple de comparaison d'une moyenne observée avec une moyenne de
 référence :
@@ -41,7 +41,7 @@ Intervalle de confiance $\lbrack\mu_{0} \pm 1,96\sqrt{\frac{\sigma^{2}}{n}}\rbr
 
 Pour comparer la valeur de deux échantillons, il suffit de vérifier si les intervalles se chevauchent.
 
-## Les tests
+### Présentation des différents types de tests
 
 <table>
 <colgroup>
@@ -85,8 +85,8 @@ mesure les données sont conformes à l'$H_{0}$.
 !!! example
     On effectue des tirages de pile ou face. $H_{0}$ la pièce n'est pas biaisée.
 
-* 4 tirages et 4 piles : $\frac{1}{2^{4}} = 0,0625$% on ne rejette pas $H_{0}$.
-* 5 tirages et 5 piles : $\frac{1}{2^{5}} = 0,03125$% on rejette $H_{0}$.
+    * 4 tirages et 4 piles : $\frac{1}{2^{4}} = 0,0625$% on ne rejette pas $H_{0}$.
+    * 5 tirages et 5 piles : $\frac{1}{2^{5}} = 0,03125$% on rejette $H_{0}$.
 
 !!! note
     Une valeur est significativement différente si l'hypothèse $H_{0}$ (les valeurs sont égales) est rejetée.
@@ -98,20 +98,20 @@ Les types de tests principaux :
 * Adéquation à une loi ou une famille de lois définies à priori, par
     exemple : la taille d'une population suit-elle une loi normale ?
 
-# Test d'homogénéité
+## Test d'homogénéité
 
-| Test                                             | Formule                                                                                           |
-|------------------------------------|------------------------------------|
-| Moyenne observée et moyenne théorique            | $$E_{obs} = |\frac{\hat{}x - \mu}{\sqrt{\frac{s^{2}}{n}}}|$$                                      |
-| Distribution de deux échantillons (test Student) | $$E_{obs} = |\frac{\hat{}x1 - \hat{}x2}{\sqrt{\frac{{s1}^{2}}{n}} + \sqrt{\frac{{s2}^{2}}{n}}}|$$ |
-| Un échantillon et une loi de probabilité         | Test du Xhi2                                                                                      |
+Test                                             | Formule
+-------------------------------------------------|------------------------------------
+Moyenne observée et moyenne théorique            | $E_{obs} = \vert{\frac{\hat{x}-\mu}{\sqrt{\frac{s^{2}}{n}}}}\vert$
+Distribution de deux échantillons (test Student) | $E_{obs} = \vert{\frac{\hat{x_{1}} - \hat{\hat{x_{2}}}}{\sqrt{\frac{{s_{1}}^{2}}{n}} + \sqrt{\frac{{s_{2}}^{2}}{n}}}}\vert$
+Un échantillon et une loi de probabilité         | Test du Xhi2
 
-# Corrélation entre deux variables
+## Test indépendance (et corrélation) entre deux variables
 
 * $H_{0}$ : les variables sont indépendantes
 * $H_{1}$ : les variables sont liées.
 
-## Une variable quantitative et une qualitative (ANOVA)
+### Une variable quantitative et une qualitative (ANOVA)
 
 L'ANalysis Of Variance (ANOVA) sert à savoir si une variable qualitative
 à une influence sur une variable quantitative.
@@ -133,7 +133,7 @@ Avec :
 !!! note
     Lorsqu'il n'y a que deux modalités, il est possible d'utiliser un test de student.
 
-## Deux variables qualitatives
+### Deux variables qualitatives
 
 Degré de liberté : ${(modalité}_{ligne} - 1)({modalité}_{colonne} - 1)$
 
@@ -146,7 +146,7 @@ Il faut faire :
     1. LOI.KHIDEUX.INVERSE.DROITE(proba; degré de liberté)
     2. P-value : LOI.KHIDEUX.DROITE(valeur; degré de liberté)
 
-## Deux variables quantitatives
+### Deux variables numériques (quantitatives)
 
 Degré de liberté :
 
@@ -155,5 +155,3 @@ Degré de liberté :
 
     1.  $\left| \frac{R \times \sqrt{Eff - 2}}{\sqrt{1 - R^{2}}} \right|$
     2.  P-value : LOI.STUDENT.BILATERALE()
-
-
