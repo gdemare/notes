@@ -85,7 +85,8 @@ nav:
     - "Méthodes et techniques" : 
       - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
       - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
-    - "Physologie animale" : biologie/physiologie-animale/structure-fonction-principes.md
+    - "Physologie animale" : 
+      - 'Structure et fonction' : biologie/physiologie-animale/structure-fonction-principes.md
       - Comportement : biologie/physiologie-animale/comportement.md
       - Histologie  : biologie/physiologie-animale/histologie.md
       - "Osmorégulation et excrétion" : biologie/physiologie-animale/osmoregulation-excretion.md
