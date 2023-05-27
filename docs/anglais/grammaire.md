@@ -10,7 +10,7 @@ Each et every sont interchangeables
 
 # Structure des phrases
 
-Il est préférable de structurer les phrases selon les strucutres suivantes :
+Il est préférable de structurer les phrases selon les constructions suivantes :
 
 * SUBJECT - VERB - OBJECT - PLACE - TIME
 * TIME - SUBJECT -VERB - OBJECT - PLACE
