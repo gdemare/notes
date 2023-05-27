@@ -17,6 +17,7 @@ Terminaison française | Exemples
 
 !!! warning 
 	Il existe des exceptions : 
+	
 	* Traduction → Translation
 	* Explication → Explanation
 	* Vacances → Vacation
