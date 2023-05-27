@@ -85,9 +85,13 @@ nav:
     - "Méthodes et techniques" : 
       - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
       - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
-    - "Physologie animale" :
+    - "Physologie animale" : biologie/physiologie-animale/structure-fonction-principes.md
+      - Comportement : biologie/physiologie-animale/comportement.md
       - Histologie  : biologie/physiologie-animale/histologie.md
+      - "Osmorégulation et excrétion" : biologie/physiologie-animale/osmoregulation-excretion.md
       - Immunologie : biologie/physiologie-animale/immunologie.md
+      - Neurobiologie : biologie/physiologie-animale/neurobiologie.md
+      - "Système nerveux" : systeme-nerveux.md
   - Communication :
     - 'Expression orale' :
       - Candidater : communication/expression-orale/entretien-embauche.md
