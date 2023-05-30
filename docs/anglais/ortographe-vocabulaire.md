@@ -78,10 +78,10 @@ Adjective + EN ou noun + EN en verb
 !!! example
 	Nbre         | Anglais
 	-------------|--------------------------
-	245 two      | hundred and forty-five
-	1 200 one    |  thousand, two hundred
-	56 603 fifty | six, six hundred and three
-	245 803      |  two hundred and forty-five thousand, eight hundred and three
+	245          | two hundred and forty-five
+	1 200        | one thousand, two hundred
+	56 603       | fifty six, six hundred and three
+	245 803      | two hundred and forty-five thousand, eight hundred and three
 
 Racine                     | Traduction 
 ---------------------------|-----------
