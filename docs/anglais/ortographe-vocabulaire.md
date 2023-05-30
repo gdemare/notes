@@ -93,7 +93,7 @@ $2^{\frac{1}{4}}$          | The fourth root of two
 $\frac{1}{2}$              | one half
 $\frac{3}{2}$              | three halves
 $\frac{2}{3}$              | two thirds 
-$\frac{2}{4}$              | two quarter ou two fourths
+$\frac{2}{4}$              | two quarters ou two fourths
 $\frac{3}{5}$              | three fifths
 
 Symbole | Traduction
