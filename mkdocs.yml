@@ -111,6 +111,9 @@ nav:
   - 'Physique Chimie' :
     - Chimie : 
       - Thermodynamique : physique-chimie/chimie/thermodynamique.md
+      - Biochimie : 
+        - Enzymologie : physique-chimie/chimie/biochimie/enzymologie.md
+        - "Photosynthèse et métabolisme secondaire" : physique-chimie/chimie/biochimie/photosynthese-metabolisme-secondaire.md
     - Physique :
       - Physique : physique-chimie/physique/physique.md
       - Optique : physique-chimie/physique/optique.md
