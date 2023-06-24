@@ -108,8 +108,8 @@ Un échantillon et une loi de probabilité         | Test du Xhi2
 
 #### Test pour comparer deux moyennes
 
-Si n>30, loi normale.
-Si n<30, loi de Student.
+* Si n>30, loi normale.
+* Si n<30, loi de Student.
 
 ## Test indépendance (et corrélation) entre deux variables
 
