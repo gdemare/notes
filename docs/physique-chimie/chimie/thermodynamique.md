@@ -57,26 +57,18 @@ Dans le cas d'une réaction cyclique, on a $\sum_{}^{}{\mathrm{\Delta}U} = 0$.
 
 ## La nature des transformations possibles
 
-
-
-
-  Isotherme              Isochore           Adiabatique       Isobare
-
-  Pas de changement de   Volume constant    Pas d'échanges de Pression
-  T°                                        chaleur           constante
-
-  $$T{^\circ} = cste$$   $$V = cste$$       $$Q = 0$$         $$P = cste$$
-  ---------------------- ------------------ ----------------- --------------
+Nature transformation   | Description                  | Implication                 
+------------------------|------------------------------|-------------------
+Isotherme               | Pas de changement de T°      | $T{^\circ} = cste$
+Isochore                | Volume constant              | $$V = cste$$
+Adiabatique             | Pas d'échanges de chaleur    | $$Q = 0$$
+Isobare                 | Pression constante           | $$P = cste$$
 
 ## Le travail (uniquement pour les gaz)
 
-La notion de travail s'applique uniquement aux gaz car ceux sont les
-seuls à subir une variation importante de volume.
-
-  --------------------------------------- -----------------------------------
-  $$\mathbf{\mathrm{\Delta}W = - PdV}$$   P pression (Pa)
-
-  --------------------------------------- -----------------------------------
+La notion de travail s'applique uniquement aux gaz car ils sont les
+seuls à subir une variation importante de volume : $$\mathbf{\mathrm{\Delta}W = - PdV}$$
+avec P pression (Pa)
 
 !!! example 
     pour une réaction isobare, on aura $\ \mathrm{\Delta}W = - PdV = - P \times \frac{nRT}{P} = - nRT$
@@ -146,25 +138,15 @@ Une réaction est :
 
 Quatre méthodes pour déterminer l'enthalpie de réaction :
 
-  -----------------------------------------------------------------------
-  Méthodes                 Principe
-  ------------------------ ----------------------------------------------
-  Enthalpie de formation   Énergie de formation des molécules
+Méthodes                   | Principe
+------------------------------------------------
+Enthalpie de formation     | Énergie de formation des molécules
+Énergie des liaisons       | Somme des liaisons créées et dissociées
+Combinaison de réactions   | Combinaison linéaire de réactions intermédiaires.
+Energie interne            | Uniquement pour les gaz
 
-  Énergie des liaisons     Somme des liaisons créées et dissociées
-
-  Combinaison de réactions Combinaison linéaire de réactions
-                           intermédiaires.
-
-  Energie interne          Uniquement pour les gaz
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-  Point méthode : lorsque l'on parle de réaction de formation sans
-  préciser la formule de réaction, il s'agit de faire réagir des corps
-  simples pour obtenir la molécule désirée.
-
-  -----------------------------------------------------------------------
+!!! note 
+    Point méthode : lorsque l'on parle de réaction de formation sans préciser la formule de réaction, il s'agit de faire réagir des corps simples pour obtenir la molécule désirée.
 
 ## Enthalpie de formation
 
@@ -193,11 +175,10 @@ pour former les produits moins celles des réactifs.
 +-----------------------------------------------------------------------+
 
 [Remarque :]{.underline} L'enthalpie de formation des corps simples
-c'est-à-dire de molécules constituées d'un seul type d'atomes est nul (0
-KJ.mol^-1^).
+c'est-à-dire de molécules constituées d'un seul type d'atomes est nul ($0
+KJ.mol^{-1}$).
 
-Lorsqu'il y a un changement de température, il faut ajouter l'énergie
-nécessaire pour faire la transformation :
+Lorsqu'il y a un changement de température, il faut ajouter l'énergie nécessaire pour faire la transformation :
 
 $$\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}\mathbf{2}}\mathbf{=}{\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}} + \lbrack\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}C_{p}\left( \mathbf{produits} \right)\mathbf{-}\sum_{}^{}{\mathbf{\nu}_{\mathbf{i}}C_{p}}\left( \mathbf{r}\mathbf{é}\mathbf{actifs} \right)\mathbf{\rbrack(}\mathbf{T}_{\mathbf{2}}\mathbf{-}\mathbf{T}_{\mathbf{1}}\mathbf{)}$$
 
@@ -221,12 +202,9 @@ de changement d'état pour les autres états de la matière (solide...).
 Dans ce cas, il faut ajouter l'énergie de la transformation chimique. Il
 faudra donc additionner :
 
--   L'énergie à fournir pour atteindre à la température de changement
-    d'état.
-
--   L'énergie de changement d'état.
-
--   L'énergie pour revenir à la température initiale.
+* L'énergie à fournir pour atteindre à la température de changement d'état.
+* L'énergie de changement d'état.
+* L'énergie pour revenir à la température initiale.
 
 ## Combinaison de réactions
 
@@ -237,34 +215,26 @@ pour obtenir celle désirée.
 Lorsqu'un élément est présent à la fois comme réactif et comme produit,
 il peut être supprimé.
 
-[Rmq :]{.underline} lorsque l'on inverse une réaction, l'enthalpie
-change de signe.
+!!! note 
+    lorsque l'on inverse une réaction, l'enthalpie change de signe.
 
-  -----------------------------------------------------------------------
-  Point méthode faire un tableau une colonne « réactif » et une autre
-  « produit ».
-
-  -----------------------------------------------------------------------
+!!! note
+    Point méthode faire un tableau une colonne « réactif » et une autre « produit ».
 
 ## Energie interne
 
-Pour les gaz, à pression constante, on a
+Pour les gaz, à pression constante, on a :
 
-  ---------------------------------------------------------------------------------------------- -------------------------------------------
-  $$\mathbf{\mathrm{\Delta}H}_{\mathbf{r}}\mathbf{= \mathrm{\Delta}U + \mathrm{\Delta}n.R.T}$$   $\mathbf{\mathrm{\Delta}n}$ différence de
-                                                                                                 quantité de matière.
+* $$\mathbf{\mathrm{\Delta}H}_{\mathbf{r}}\mathbf{= \mathrm{\Delta}U + \mathrm{\Delta}n.R.T}$$
+* $\mathbf{\mathrm{\Delta}n}$ différence de quantité de matière.
 
-  ---------------------------------------------------------------------------------------------- -------------------------------------------
-
-# 2^ème^ principe de la thermodynamique : l'entropie
+# 2ème principe de la thermodynamique : l'entropie
 
 Sans apport d'énergie extérieur, la matière se tend vers un état de
 désordre :
 
-  ----------------------------------- -----------------------------------
-  La matière se désorganise           L'énergie se disperse
-
-  ----------------------------------- -----------------------------------
+* La matière se désorganise
+* L'énergie se disperse
 
 On appelle ce désordre, l'entropie et on le note S.
 
