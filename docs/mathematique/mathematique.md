@@ -37,26 +37,24 @@ Majuscule | Minuscule | Nom
 
 ## Unité et conversion
 
-Relation surface :
 
-
-
----|---|---
-kilo | k | 1${km}^{2} = {{(10}^{3})}^{2}m^{2}$ $$\mathbf{10}^{\mathbf{- 3}}$$ 
 
 
 Relation volume : $1{km}^{3} = {{(10}^{3})}^{3}m^{3}$
-Hecto | h | $$\mathbf{10}^{\mathbf{- 2}}$$ 
 
-Relation avec le litre  |
-Déca | da | $$\mathbf{10}^{\mathbf{- 1}}$$ | -   $1L = 1{dm}^{3}$ 
-Unité | 1L = 1 kg d'eau | $$\mathbf{10}^{\mathbf{0}}\mathbf{= 1}$$ |
-Déci  | d | $$\mathbf{10}^{\mathbf{1}}$$
-Centi | c | $$\mathbf{10}^{\mathbf{2}}$$
-Milli | m | $$\mathbf{10}^{\mathbf{3}}$$
-Micro | μ | $$\mathbf{10}^{\mathbf{6}}$$
-Nano  | n | $$\mathbf{10}^{\mathbf{9}}$$
 
+Unité   | symbole         | Facteur                                  | Volume           
+----- --|-----------------|------------------------------------------|--------------
+kilo    | k               | 1${km}^{2} = {{(10}^{3})}^{2}m^{2}$ $$\mathbf{10}^{\mathbf{- 3}}$$ 
+hecto   | h               | $$\mathbf{10}^{\mathbf{- 2}}$$          |
+Déca    | da              | $$\mathbf{10}^{\mathbf{- 1}}$$           | $1L = 1{dm}^{3}$ 
+Unité   | 1L = 1 kg d'eau | $$\mathbf{10}^{\mathbf{0}}\mathbf{= 1}$$ |
+Déci    | d               | $$\mathbf{10}^{\mathbf{1}}$$             | 
+Centi   | c               | $$\mathbf{10}^{\mathbf{2}}$$             | 
+Milli   | m               | $$\mathbf{10}^{\mathbf{3}}$$             |
+Micro   | μ               | $$\mathbf{10}^{\mathbf{6}}$$             |
+Nano    | n               | $$\mathbf{10}^{\mathbf{9}}$$             |
+H
 ## Identités remarquables
 
 Factoriser et développer
