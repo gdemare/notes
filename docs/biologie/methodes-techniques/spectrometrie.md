@@ -180,7 +180,6 @@ Par exemple il permet d'éliminer les ions mono-chargés qui généralement ne s
     fragmentation n'est pas (a~1~/Y~n-1~ ou Y~n-1~/b~1~). Elle aura
     tendance à favoriser certains types de fragments comme ce n'ayant
     perdu qu'un aa à l'extrémité (.
-
 3.  MS/MS analyse des fragments en recoupant les informations et grâce à
     la précision des mesures, on est en mesure de déterminé une partie
     des acides aminés d'une chaine peptidique.
@@ -235,12 +234,11 @@ Shotgun
 of protein-protein interactions, absolute and relative protein
 quantification, post-translational modifications, and protein stability
 
-les protéines sont transcrite de l'ARNm qui est transcrit de l'ADN.
 
-Rentre en phase gazeuse sans détruire les protéines.
 
-Algorithme qui fait matcher les petptides avec une base de données.
+L'idenfication est faite par un algorithme qui comparer les spectres des peptides obtenus par le spectromètre et à ce génèrer informatiquement à partir d'une liste de candidat protéines. Les 
 
+les 
 Analyse statistique des données avec false et vrai positifs.
 
 En fonction du moment où le clivage (hydrolyse à lieu :
@@ -257,7 +255,23 @@ Purifier les protéines avec la chromatographie.
 
 # Méthodes de quantification
 
-LFQ (label free quantification)
+## Méthodes de quantification relative
+
+### LFQ (label free quantification)
+
+La quantification sans marquage 
+
+### Tandem Mass Tag (TMT)
+
+__Multiplexages__ techniques consistant à réunir plusieurs informations au sein d'un unique support (ou échantillon).
+
+Le prinicpale avantage de cette méthode est de ne pas avoir à se soucier de une sélection différentes des ions entre chaque échantillon car les échantillons sont poolés avant l'injection. Un tag permet d'identifier la provenance de chaque peptide. Les tags sont composés de trois régions :
+
+* Grouepement réactif avec la protéine attache le groupe rapporteur aux peptides an amine-réactive NHS-ester groupe.
+* Le normalisateur ou groupement de liaison qui rend le TMT isobarique.
+* Groupe rapporteur avec des masses différentes.
+
+Les protéines sont marquées par un groupement chimique isobarrique (de même masse) ce qui permet de sélectionner le même peptide pour tout les échantillons. Dans la cellule de collision, le groupement rapporteur est clivé. La quantification se fait en comparant les intensités des groupements rapporteurs. 
 
 ## Quantification absolue
 
@@ -265,38 +279,3 @@ La quantification absolue passe par une gamme étalon avec un marquage à
 l'isotope. Les échantillons d'intérêts sont reportés sur une courbe
 étalon.
 
-## Tandem Mass Tag (TMT)
-
-Multiplexages techniques consistant à réunir plusieurs informations au
-sein d'un unique support.
-
-Les protéines sont marquées par un groupement chimique.
-
-Méthode appartenant à la famille des tags isobares (de même masse). Les
-molécules sont marquées avec un groupement chimique. Le tag est conçu
-pour être cliver lors de la collision.
-
-Avantage principale est d'échapper aux variations entre les runs.
-
-Les tags sont composés de trois régions :
-
--   Liaison avec la protéine attache le groupe rapporteur aux peptides
-    an amine-réactive NHS-ester groupe.
-
--   Le normalisateur ou groupement de liaison qui a pour rôle de rendre
-    le TMT isobarique.
-
--   Groupe rapporteur avec des masses différentes.
-
-Les tags ont la même masse pour avoir un comportement identique en
-durant la MS 1 et être traité ensemble.
-
-Dans la cellule de collision le mass reporter est cliver.
-
-Doit-on déclarer le groupement restant comme modification PTM ?
-
-On s'intéresse à l'expression d'FMRP :
-
-−40 V and lower than −90 V
-
-t 3 CVs
