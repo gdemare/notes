@@ -10,28 +10,18 @@ Les produits chimiques sont associés à des risques décrit par un ou plusieurs
 * Pour la santé (4) : corrosif, toxicité aigu, nocif ou irritant, CMR.
 * Environnement (1)                                              
 
----------------------
-
 ## Matériel 
 
 ### Matériel de chimie
 
 ### Mesure un volume
 
-
-| Objectif                                 | Matériels                 |
-+==========================================+===========================+
-| Contenir des liquides et réaliser des    | Becher, erlenmeyer        |
-| mélanges.                                |                           |
-+------------------------------------------+---------------------------+
-| Stocker un volume exact                  | Fiole jaugée              |
-+------------------------------------------+---------------------------+
-| Mesurer un volume grossier               | Éprouvette                |
-+------------------------------------------+---------------------------+
-| Prélever une quantité d\'une solution    | Pipette, pipette          |
-|                                          | automatique               |
-| (\*régler la quantité à prélever)        |                           |
-+------------------------------------------+---------------------------+
+Objectif                                                              | Matériels
+----------------------------------------------------------------------|-------------------
+Contenir des liquides et réaliser des mélanges.                       | Becher, erlenmeyer
+Stocker un volume exact                                               | Fiole jaugée
+Mesurer un volume grossier                                            | Éprouvette
+Prélever une quantité d'une solution (régler la quantité à prélever)  | Pipette, pipette automatique
 
 Utilisation de la pipette automatique : Elle s'utilise entre 10% et 100%
 de sa capacité.
@@ -60,11 +50,8 @@ Méthode pour réaliser une dilution en série (ou en cascade) :
 
 * Construire le tableau suivant :
 
-  N° du tube    Facteur cumulé (                                             Vol solution      Vol diluant
+N° du tube  | Facteur cumulé (                                             Vol solution      Vol diluant
                 $\frac{\mathbf{C}_{\mathbf{i}}}{\mathbf{F}^{\mathbf{n}}}$)                     
-  ------------- ------------------------------------------------------------ ----------------- -----------------
-
-  --------------------------------------------------------------------------------------------------------------
 
 Le facteur de dilution $F_{i} = \frac{V\ Diluant}{V\ mère}$
 
