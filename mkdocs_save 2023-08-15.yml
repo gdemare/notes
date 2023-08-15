@@ -103,16 +103,14 @@ nav:
       - "Osmorégulation et excrétion" : biologie/physiologie-animale/osmoregulation-excretion.md
       - Immunologie : biologie/physiologie-animale/immunologie.md
       - Neurobiologie : biologie/physiologie-animale/neurobiologie.md
-      - "Système nerveux" : biologie/physiologie-animale/systeme-nerveux.md
+      - "Système nerveux" : systeme-nerveux.md
   - Communication :
-    - Candidater : communication/entretien-embauche.md
-    - "Gestion de projet" : communication/gestion-projet.md
-    - Rhétorique : communication/rhetorique.md
+    - 'Expression orale' :
+      - Candidater : communication/expression-orale/entretien-embauche.md
+      - Rhétorique : communication/expression-orale/rhetorique.md
   - Mathématique :
     - Mathématique : mathematique/mathematique.md
     - Arithmétique :  mathematique/arithmetique.md
-    - Fonctions : mathematique/fonctions.md
-    - "Fonctions 2" : mathematique/fonctions_bis.md
     - Geométrie :  mathematique/geometrie.md
     - Modélisation :
       - "Méthodes mixtes" :
