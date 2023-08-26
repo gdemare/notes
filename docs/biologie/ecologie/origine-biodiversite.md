@@ -1,11 +1,8 @@
 ## Interactions
 
-Milieu (ou biotope) ensemble des facteurs qui se passent autour d'un
-individu.
+__Milieu (ou biotope)__ ensemble des facteurs qui se passent autour d'un individu.
 
-|                                                                    |
-|--------------------------------------------------------------------|
-| Milieu Ressource ↔ organisme ↔ Autres organismes (toile du vivant) |
+Milieu Ressource ↔ organisme ↔ Autres organismes (toile du vivant) |
 
 Caractéristique des interactions entre les êtres vivants
 
@@ -13,30 +10,26 @@ Caractéristique des interactions entre les êtres vivants
 |---------------|---------------------------------|
 | Type symbiose | ↑ des proies = ↑ des prédateurs |
 
-Fitness nbre de descendants viables/fertiles produit par un individu.
+__Fitness__ nbre de descendants viables/fertiles produit par un individu.
 
-Habitat portion où l'on trouve une espèce. Les types d'espèces en
-fonction de leur habitat
+__Habitat__ portion où une espèce vit. Les espèces peuvent être classées en fonction de leurs habitats.
 
-| Endémique | Cosmopolite |
-|-----------|-------------|
+Les espèces peuvent être distinguée en deux groupes :
+
+* Endémique
+* Cosmopolite
 
 ## Écosystème
 
-Écosystème ensemble des interactions qu'entretient un organisme.
+__Écosystème__ ensemble des interactions qu'entretient un organisme.
 
-Un organisme cherche à capter les ressources pour notamment de produire
-l'énergie pour
+Un organisme cherche à capter les ressources pour notamment de produire l'énergie qui servira à :
 
-|          |               |               |
-|----------|---------------|---------------|
-| Survivre | Se développer | Se reproduire |
+* Survivre
+* Se développer
+* Se reproduire
 
-## Écologie consiste à construction une base des connaissances
-
-| Approche            | Holistique 1+1\>2 (vs réductionniste 1+1=2) |            |
-|----------------------------|---------------------|------------------------|
-| Obs. méthode d'expé | Sans motif                                  | Avec motif |
+L'écologie en tant que science consiste à construction une base des connaissances en adoptant une approche dite holistique 1+1\>2 (par opporition à l'approche réductionniste 1+1=2).
 
 ## L'écologie à différentes échelles spatiales et temporelles écosystémiques
 
@@ -78,10 +71,9 @@ Avec différentes échelles
 
 ## Lexique
 
-Conditions variables physico-chimiques qui permettent la vie d'un
-organisme.
+__Conditions__ variables physico-chimiques qui permettent la vie d'un organisme.
 
-Diversité quantité de variabilité dans un certain système.
+__Diversité__ quantité de variabilité dans un système.
 
 # Facteurs écologiques et réponses des organismes
 
@@ -90,17 +82,15 @@ Diversité quantité de variabilité dans un certain système.
 Facteurs écologiques ensemble des éléments du milieu susceptible d'agir
 sur les organismes vivants pendant leur développement ou leur vie.
 
-Ces facteurs peuvent être classés en catégorie :
+Ces facteurs peuvent être classés en deux catégories :
 
-| Abiotique (Non-vivant vivant) | Biotique (Vivant vivant)                            |
-|------------------------------------|------------------------------------|
-| Condition physico chimique    | Interactions appelées aussi composantes biologiques |
+* Abiotique (Non-vivant vivant), les conditions physico-chimiques.
+* Biotique (Vivant vivant), interactions entre les êtres vivants, elles sont aussi appelées aussi composantes biologiques.
 
 Une autre classification des facteurs
 
-|                            |                          |
-|----------------------------|--------------------------|
-| Indépendants de la densité | Dépendants de la densité |
+* Indépendants de la densité.
+* Dépendants de la densité.
 
 ## Facteurs abiotiques
 
@@ -138,16 +128,12 @@ height="2.808510498687664in"}
 
 ### Pour un organisme
 
-Sa présence et sa performance en un endroit donné sont strictement liées
-à sa compatibilité avec les conditions du milieu.
+Sa présence et sa performance en un endroit donné sont strictement liées à sa compatibilité avec les conditions du milieu.
 ![](media/image2.png){width="2.325in" height="1.9337007874015748in"}
 
-Conditions optimales lorsque les valeurs des facteurs permettent à un
-individu d'atteindre le fitness maximum.
+Conditions optimales lorsque les valeurs des facteurs permettent à un individu d'atteindre le fitness maximum.
 
-Aire de répartition biogéographique zone délimitant la réparation
-géographique d'une espèce. Elle est directement liée aux conditions du
-milieu.
+__Aire de répartition biogéographique__ zone délimitant la réparation géographique d'une espèce. Elle est directement liée aux conditions du milieu.
 
 ### Valence
 
@@ -157,38 +143,31 @@ Valence capacité à tolérer les variations d'un facteur.
 |--------------------------|----------|---------|---------|
 |                          | Sténoèce | Mesoèce | Euryèce |
 
-Sténothermes (opposition eurytherme) organismes qui ont évolués dans des
-conditions de température stables.
+__Sténothermes (opposition eurytherme)__ organismes qui ont évolués dans des conditions de température stable.
 
 ### Facteur limitant
 
 Le facteur le proche d'un extremum est appelé facteur limitant.
 
-|                              |                                                                                  |
-|---------------------|---------------------------------------------------|
-| Loi de tolérance de Shelford | Chaque être vivant se situe dans sa zone de tolérance (et d'optimum écologique). |
-| Loi du minimum de Liebig     | Les ressources déficitaires conditionnent la croissance.                         |
-| Loi de Bartholomew           | Une espèce est contrôlée par ses plus petites limites de tolérance.              |
+* Loi de tolérance de Shelford : chaque être vivant se situe dans sa zone de tolérance (et d'optimum écologique).
+* Loi du minimum de Liebig : les ressources déficitaires conditionnent la croissance.
+* Loi de Bartholomew : une espèce est contrôlée par ses plus petites limites de tolérance.
 
-Élimination lorsque les facteurs écologiques s'approchent ou déplacent
-des limites de tolérance et que cela entraine une diminution importante
-de l'effectif.
+Élimination lorsque les facteurs écologiques s'approchent ou déplacent des limites de tolérance et que cela entraine une diminution importante de l'effectif.
 
 ## Les interactions entre les facteurs
 
 La présence et la performance d'un organisme dans un lieu donné dépend :
 
-| Conditions physico chimiques | Ressources accessibles |
-|------------------------------|------------------------|
-| Appelées aussi contraintes   |                        |
+* Conditions physico chimiques appelées aussi contraintes.
+* Ressources accessibles.
 
 ## Les réponses des organismes aux modifications du milieu
 
 L'adaptation des organismes est observable à deux échelles temporelles :
 
-|                                                  |                                                 |
-|------------------------------------|------------------------------------|
-| Réponses aux changements survenant durant la vie | Adaptation évolutive par la sélection naturelle |
+* Réponses aux changements survenant durant la vie 
+* Adaptation évolutive par la sélection naturelle
 
 Qui se manifeste chez les organismes par des modifications
 
@@ -399,57 +378,44 @@ Cannibalisme prédation intraspécifique.
 
 Il peut être :
 
-|           |                    |              |        |
-|-----------|--------------------|--------------|--------|
-| De survie | Parental ou filial | Intra-utérin | Sexuel |
+* De survie
+* Parental ou filial
+* Intra-utérin
+* Sexuel
 
-### Trois grands types d'adaptation des prédateurs
+Trois grands types d'adaptation des prédateurs :
 
-|           |       |         |
-|-----------|-------|---------|
-| Dentition | Venin | Vitesse |
+* Dentition
+* Venin
+* Vitesse
 
-### Adaptation des proies
+Les principales adaptations des proies :
 
-|        |                                                                       |
-|-------------|-----------------------------------------------------------|
-| Armure | Développement de comportement de défense (et des organes de défenses) |
+* Armure
+* Développement de comportement de défense (et des organes de défenses)
 
-Aposématisme avertissement visuel, sonore ou chimique pour prévenir que
-le prédateur présente un danger de toxicité
+__Aposématisme__ avertissement visuel, sonore ou chimique pour prévenir que le prédateur présente un danger de toxicité
 
 ## Adaptation des prédateurs et des proies
 
 ### Mimétisme
 
-On distingue :
+Les types de mimétisme :
 
-|                       |                   |
-|-----------------------|-------------------|
-| Homochromie (couleur) | Homotypie (forme) |
-
-Automimétisme imite seulement une partie d'un prédateur ou de son propre
-corps
-
-Camouflage imite les objets inanimés de l'environnement.
-
-Mimétisme batésien une proie inoffensive prend l'apparence d'un
-aposématisme.
+* Homochromie imite la couleur.
+* Homotypie imite la forme.
+* Automimétisme imite seulement une partie d'un prédateur ou de son propre corps.
+* Camouflage imite les objets inanimés de l'environnement.
+* Mimétisme batésien une proie inoffensive prend l'apparence d'un aposématisme.
 
 ## Parasitismes
 
-Parasite organisme qui tire profit d'un autre en se nourrissant,
-s'abritant ou se reproduisant aux dépends de son hôte et ceci sans le
-tuer.
+Parasite organisme qui tire profit d'un autre en se nourrissant, s'abritant ou se reproduisant aux dépends de son hôte et ceci sans le tuer. On distingue deux types de parasitismes :
 
-On distingue deux types de parasitismes :
+* Intraspécifique
+* Interspécifique
 
-|                 |                 |
-|-----------------|-----------------|
-| Intraspécifique | Interspécifique |
-
-Parasitoïde les organismes qui tuent leur hôte au cours de leur
-développement.
+__Parasitoïde__ les organismes qui tuent leur hôte au cours de leur développement.
 
 Les parasites sont classés en fonction de :
 
@@ -552,15 +518,14 @@ Les mécanismes qui impactent directement et indirectement
 
 # Communautés
 
-Communauté est un groupe d'espèces (au moins deux), appelé aussi pool
-d'espèces, qui partage et interagisse au même endroit et au même moment.
+__Communauté__ un groupe d'espèces (au moins deux), appelé aussi pool d'espèces, qui partage et interagisse au même endroit et au même moment.
 
-Étude des communautés étude des interactions interspécifiques dans le
-temps et l'espace. Elle s'intéresse notamment
+L'étude des communautés se consacre à la compréhension des interactions interspécifiques dans le temps et l'espace. Elle s'intéresse notamment :
 
-|             |           |           |
-|-------------|-----------|-----------|
-| Composition | Structure | Dynamique |
+* Composition
+* Structure
+* Dynamique
+
 
 L'étude des communautés s'intéresse particulièrement à :
 
@@ -664,20 +629,15 @@ On distingue deux cas :
 
 Une succession se déroule en 3 phases :
 
-|              |                                                                                 |
-|---------------|---------------------------------------------------------|
-| Installation | Espèces pionnières adoptent souvent une stratégie R avec une croissance rapide. |
-| Facilitation | Phase de transition                                                             |
-| Inhibition   | Espèces dominantes à croissance lente et descendance peu nombreuse Stratégie K. |
+1. Installation généralement par des espèces dites pionnières adoptent souvent une stratégie R avec une croissance rapide.
+2. Facilitation | Phase de transition                                                             |
+3. Inhibition   | Espèces dominantes à croissance lente et descendance peu nombreuse Stratégie K. |
 
 ### Climax état d'équilibre
 
-Intermediate Disturbance Hypothesis (IDH) énonce que la diversité des
-espèces locales est maximale quand les perturbations ne sont pas trop
-rares, ni trop fréquentes.
+__Intermediate Disturbance Hypothesis (IDH) énonce que la diversité des espèces locales est maximale quand les perturbations ne sont pas trop rares, ni trop fréquentes.
 
-Perturbation détérioration souvent provisoire du milieu ou d\'un
-écosystème.
+__Perturbation__ détérioration souvent provisoire du milieu ou d'un écosystème.
 
 | Trop de perturbations | Pas de perturbation                                           |
 |------------------------------------|------------------------------------|
@@ -736,9 +696,8 @@ biodiversité particulièrement menacée par l'activité humaine.
 
 La classification en hotspot présente des limites :
 
--   Ne prend pas en compte que les critères de richesse.
-
--   Se limite uniquement au passé. Seul les zones qui ont été menacées
+* Ne prend pas en compte que les critères de richesse.
+* Se limite uniquement au passé. Seul les zones qui ont été menacées
     sont prises en compte.
 
 La majorité de la biodiversité de la planète se concentre dans un espace

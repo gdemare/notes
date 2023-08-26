@@ -201,12 +201,13 @@ On appelle ce désordre, l'entropie et on le note S.
 
 L'entropie est une approche probabiliste du monde. Elle se définit comme l'état ayant la plus grande probabilité d'exister. Si un gaz contenu dans une bouteille est libéré, la probabilité qu'il rentre à nouveau dans la bouteille est nul par rapport à l'ensemble des positions que chaque molécule peut occuper dans l'espace.
 
-!!! note Sur Terre, les rayons du soleil constituent un apport en énergie.
+!!! note
+    Sur Terre, les rayons du soleil constituent un apport en énergie.
 
 Une réaction est spontanée seulement si l'entropie augmente c'est-à-dire
 $\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{> 0}$ :
 
-$${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mathbf{sys}} + {\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}}$$   S entropie en $J.K^{-1}$
+${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mathbf{sys}} + {\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}}$ S entropie en $J.K^{-1}$
 
 !!! warning
     L'entropie peut diminuer dans le système étudié mais augmenter à l'extérieur.
@@ -364,9 +365,7 @@ Le réactif limitant permet de déduire la quantité de matière obtenue.
 
 Taux d'avancement = coefficient de dissociation
 
-Effet de la température :
-
-$$lnK - lnK^{'} = \frac{\Delta_{r}H^{0}}{R}(\frac{1}{T} - \frac{1}{T^{'}})$$
+Effet de la température : $lnK - lnK^{'} = \frac{\Delta_{r}H^{0}}{R}(\frac{1}{T} - \frac{1}{T^{'}})$
 
 # Équilibre acido-basique
 

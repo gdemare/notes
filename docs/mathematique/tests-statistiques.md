@@ -163,19 +163,19 @@ Degré de liberté :
 
 ### Correction
 
-correction relevé les p valeur pour éviter de se tromper lorsqu'il  a de nombreux tests.
+Lorsque plusieurs tests sont réalisés, il faut utiliser une correction l'erreur lié à la multication des erreurs. Les p valeur sont relevées pour éviter de se tromper lorsqu'il a de nombreux tests.
 
-Le risque d'erreur augmente avec le nombre de test. le risque de faire une erreur est alors de  1-somme(1-alpha)^n. le risque de se tromper dans le test est alors de 26% de risque de se tromper au moins une fois.
+Le risque d'erreur augmente avec le nombre de test. Le risque de faire une erreur est alors de  1-somme(1-alpha)^n. le risque de se tromper dans le test est alors de 26% de risque de se tromper au moins une fois.
 
 deux approches :
+
 * Controle le risque alpha global de se tromper au moins une fois ; on l’appelle le “Family-wise error rate” (FEWR) en anglais
 * Controler le risque alpha global de se tromper au moins une fois, mais en ne considérant que les tests qui ont rejetté H0 ; On l’apelle le “False discovery rate” (FDR) en anglais.
 
-Idée serait de modifier les p-valeurs pour que le risque global chute à 0.05% mais les modification dépend du nbre de tests.
+L'idée serait de modifier les p-valeurs pour que le risque global chute à 0.05% mais les modification dépendent du nombre de tests.
 Ajuster les p-valeur en les augmentant.
-
 
 Family wise error rate 
 
-méthode Bonferroni corrige toutes les p valeurs en une fois. est trop restrictive 
-méthode d’Holm qui corrige de facon séquentielle chaque p valeur.
+* méthode Bonferroni corrige toutes les p valeurs en une fois. est trop restrictive 
+* méthode d’Holm qui corrige de facon séquentielle chaque p valeur.*
