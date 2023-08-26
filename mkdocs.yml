@@ -130,4 +130,9 @@ nav:
     - Physique :
       - Physique : physique-chimie/physique/physique.md
       - Optique : physique-chimie/physique/optique.md
-  - 'math jax' : informatique/markdown-math.md
+  - Informatique :
+      - 'Math jax' : informatique/markdown-math.md
+      - 'Réseau' : informatique/reseau.md
+   - Utiles :
+      - Emploi : utiles/emploi.md  
+      - location : utiles/location.md     	
