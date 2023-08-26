@@ -18,7 +18,7 @@ theme:
     # - navigation.indexes # pour avoir une page d'index dans chaque partie
     - content.tabs.link
     # - toc.integrate # réuni le plan et le sommaire
-    - content.action.edit # bouton edit
+    #- content.action.edit # bouton edit
     #- content.action.view # bouton voir
   palette:
     # Palette toggle for automatic mode
