@@ -65,10 +65,10 @@ Isobare                 | Pression constante           | $$P = cste$$
 
 ## Le travail (uniquement pour les gaz)
 
-La notion de travail s'applique uniquement aux gaz car ils sont les seuls à subir une variation importante de volume : $$\mathbf{\mathrm{\Delta}W = - PdV}$$ avec P pression (Pa).
+La notion de travail s'applique uniquement aux gaz car ils sont les seuls à subir une variation importante de volume : $\mathbf{\mathrm{\Delta}W = - PdV}$ avec P pression (Pa).
 
 !!! example 
-    pour une réaction isobare, on aura $\ \mathrm{\Delta}W = - PdV = - P \times \frac{nRT}{P} = - nRT$
+    pour une réaction isobare, on aura $\mathrm{\Delta}W = - PdV = - P \times \frac{nRT}{P} = - nRT$
 
 ## La chaleur
 
@@ -82,33 +82,17 @@ Point méthode : Pour chaque réaction, il faut d'abord noter sa nature (isothe
 
 La chaleur se calcule en utilisant une des formules suivantes :
 
-+----------------------------------+-----------------------------------+
-| $$\mathbf{\                      | $$\ma                             |
-| mathrm{\Delta}Q = n.}\mathbf{C}_ | thbf{\mathrm{\Delta}Q = n.}\mathb |
-| {\mathbf{v}}\mathbf{.dT + PdV}$$ | f{C}_{\mathbf{p}}\mathbf{.dT -}$$ |
-|                                  |                                   |
-|                                  | $$\mathbf{VdP}$$                  |
-+----------------------------------+-----------------------------------+
-| -   $\mathrm{\Delta}Q$           |                                   |
-|     Différence de chaleur pour   |                                   |
-|     trouver la chaleur il est    |                                   |
-|     nécessaire d'intégrer.       |                                   |
-|     (J.mol^-1^)                  |                                   |
-|                                  |                                   |
-| -   $P$ Pression (Pa)            |                                   |
-|                                  |                                   |
-| -   $V$ Volume (m^3^)            |                                   |
-|                                  |                                   |
-| -   $C_{p}$ Capacité thermique   |                                   |
-|     isobare (J.K^-1^)            |                                   |
-|                                  |                                   |
-| -   $\mathbf{C}_{\mathbf{v}}$    |                                   |
-|     Capacité thermique isochore  |                                   |
-|     (J.K^-1^)                    |                                   |
-|                                  |                                   |
-| -   $dT$ différence de           |                                   |
-|     température.                 |                                   |
-+----------------------------------+-----------------------------------+
+* $\mathbf{\mathrm{\Delta}Q = n.}\mathbf{C}_\mathbf{v}}\mathbf{.dT + PdV}$  
+* $\mathbf{\mathrm{\Delta}Q = n.}\mathbf{C}_{\mathbf{p}}\mathbf{.dT }-$ $\mathbf{VdP}$
+
+Avec :
+
+* $\mathrm{\Delta}Q$ Différence de chaleur pour trouver la chaleur il est nécessaire d'intégrer.(J.mol^-1^) 
+* $P$ Pression (Pa)
+* $V$ Volume (m^3^)
+* $C_{p}$ Capacité thermique isobare (J.K^-1^)
+* $\mathbf{C}_{\mathbf{v}}$ Capacité thermique isochore (J.K^-1^) 
+* $dT$ différence de température.
 
 !!! note
     $\mathbf{PdV}$ et $\mathbf{VdP}$ sont nulles pour les formes de la matière autre que gazeux.
@@ -148,15 +132,9 @@ Energie interne            | Uniquement pour les gaz
 Loi de Hess : L'enthalpie de réactions est égale à l'énergie nécessaire
 pour former les produits moins celles des réactifs.
 
-+-----------------------------------------------------------------------+
-| $$\math                                                               |
-| bf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{T}}^{\mathbf{0}}\ |
-| mathbf{=}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}{\mathbf{.}\mathbf{\mathr |
-| m{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{T}}^{\mathbf{0}}\mathbf{( |
-| }\mathbf{produits}\mathbf{) -}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}{\ma |
-| thbf{.}\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{T}}^ |
-| {\mathbf{0}}\mathbf{(}\mathbf{r}\mathbf{é}\mathbf{actifs}\mathbf{)}$$ |
-+=======================================================================+
+$\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{T}}^{\mathbf{0}}\mathbf{=}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}{\mathbf{.}\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{T}}^{\mathbf{0}}\mathbf{(}\mathbf{produits}\mathbf{) -}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}{\mathbf{.}\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{T}}^{\mathbf{0}}\mathbf{(}\mathbf{r}\mathbf{é}\mathbf{actifs}\mathbf{)}$
+
+Avec :
 | $\mathbf{\nu}$ coefficients stœchiométriques                          |
 | ($\mathbf{2}\mathbf{H}_{\mathbf{2}}\mathbf{O}$)                       |
 |                                                                       |
@@ -243,10 +221,8 @@ $\mathbf{S}_{\mathbf{ext}} = \frac{\mathbf{Q}}{\mathbf{T}}$ pour connaitre la va
 
 On peut déterminer l'entropie à partir des entropies :
 
-  -------------------------------- --------------------------------------
-  Standards mesurées               De réactions intermédiaires
-
-  -------------------------------- --------------------------------------
+* Standards mesurées.
+* De réactions intermédiaires.
 
 ### Entropie standard
 
@@ -298,37 +274,16 @@ T=298K et P=1Bar. Elle est notée $\mu_{i}^{0}$.
 
 La différence d'enthalpie libre correspond à la différence de potentiel chimique entre les produits et les réactifs :
 
-$$\Delta_{r}G = \sum_{}^{}\nu_{i}\mu_{i}(produits) - \sum_{}^{}\nu_{i}\mu_{i}(réactifs)$$
+$\Delta_{r}G = \sum_{}^{}\nu_{i}\mu_{i}(produits) - \sum_{}^{}\nu_{i}\mu_{i}(réactifs)$
 
 Il vari en cas de changement de la pression du milieu :
 $\mu_{i} = \mu_{i}^{0} + RT.ln(a_{i})$
 
 $a_{i}$ correspond à l'activité de l'espèce chimique. Il vaut si c'est :
 
-+---------------+------------------------------+-----------------------+
-| Solide        | Liquide                      | Gaz                   |
-+===============+==============================+=======================+
-| $$\mathbf{a}_ |   ----                       | $$a_{i} =             |
-| {\mathbf{i}}\ | ---------------------------- | \frac{P_{i}}{P_{0}}$$ |
-| mathbf{= 1}$$ | ---------------------------- |                       |
-|               |   Solvant         Soluté     | $P_{i}$ la pression   |
-|               |   ----                       | partielle             |
-|               | ----------- ---------------- |                       |
-|               | ---------------------------- | $P_{0}$ = 1 Bar       |
-|               |   $$                         |                       |
-|               | a_{i} = 1$$   $$a_{i} = \fra |                       |
-|               | c{\lbrack i\rbrack}{C_{0}}$$ |                       |
-|               |                              |                       |
-|               |   ----                       |                       |
-|               | ---------------------------- |                       |
-|               | ---------------------------- |                       |
-|               |                              |                       |
-|               | $\lbrack i\rbrack$ la        |                       |
-|               | concentration de l'espèce    |                       |
-|               | active.                      |                       |
-|               |                              |                       |
-|               | $C_{0}$ = 1 mol/L            |                       |
-+---------------+------------------------------+-----------------------+
+* Solide
+* Liquide $\mathbf{a}_{\mathbf{i}}\mathbf{= 1}$ avec pour le solvant $a_{i} = 1$, pour le soluté $a_{i} = \frac{\lbrack i\rbrack}{C_{0}}$, $\lbrack i\rbrack$ la concentration de l'espèce active. $C_{0} = 1 mol/L$ 
+* Gaz $a_{i} = \frac{P_{i}}{P_{0}}$ avec $P_{i}$ la pression partielle, $P_{0}$ = 1 Bar
 
 [Rmq :]{.underline} $C_{0}$ et $P_{0}$ permettent d'obtenir une valeur
 sans unité.
