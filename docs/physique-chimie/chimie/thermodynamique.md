@@ -154,21 +154,21 @@ Lorsqu'il y a un changement de température, il faut ajouter l'énergie nécessa
 
 $$\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}\mathbf{2}}\mathbf{=}{\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}} + \lbrack\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}C_{p}\left( \mathbf{produits} \right)\mathbf{-}\sum_{}^{}{\mathbf{\nu}_{\mathbf{i}}C_{p}}\left( \mathbf{r}\mathbf{é}\mathbf{actifs} \right)\mathbf{\rbrack(}\mathbf{T}_{\mathbf{2}}\mathbf{-}\mathbf{T}_{\mathbf{1}}\mathbf{)}$$
 
-$\mathbf{C}_{\mathbf{p}}$ Capacité calorifique en mol^-1^
+$\mathbf{C}_{\mathbf{p}}$ capacité calorifique en $mol^{-1}$.
 
 ## Énergie de liaisons
 
 L'idée c'est de déterminer l'énergie de formation à partir de celle nécessaire pour créer ou détruire des liaisons moléculaires. Cette méthode nécessite de connaitre la structure des molécules c'est-à-dire les liaisons électroniques entre les atomes.
 
 !!! note
-  L'énergie de dissociations est positive $E_{d} > 0$ car on libère de l'énergie lorsque l'on brise une liaison. Elle est égale à l'opposé de l'énergie de formation de liaisons $E_{f} = {- E}_{d}$.
+    L'énergie de dissociations est positive $E_{d} > 0$ car on libère de l'énergie lorsque l'on brise une liaison. Elle est égale à l'opposé de l'énergie de formation de liaisons $E_{f} = {- E}_{d}$.
 
 !!! warning 
-  On a généralement l'enthalpie de dissociation des réactions pour les éléments gazeux. Il faut donc réaliser une étape supplémentaire. Le changement d'état pour les autres états de la matière (solide...). Dans ce cas, il faut ajouter l'énergie de la transformation chimique. Il  faudra donc additionner :
+    On a généralement l'enthalpie de dissociation des réactions pour les éléments gazeux. Il faut donc réaliser une étape supplémentaire. Le changement d'état pour les autres états de la matière (solide...). Dans ce cas, il faut ajouter l'énergie de la transformation chimique. Il  faudra donc additionner :
 
-  * L'énergie à fournir pour atteindre à la température de changement d'état.
-  * L'énergie de changement d'état.
-  * L'énergie pour revenir à la température initiale.
+    * L'énergie à fournir pour atteindre à la température de changement d'état.
+    * L'énergie de changement d'état.
+    * L'énergie pour revenir à la température initiale.
 
 ## Combinaison de réactions
 
@@ -209,7 +209,7 @@ $\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{> 0}$ :
 $${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mathbf{sys}} + {\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}}$$   S entropie en $J.K^{-1}$
 
 !!! warning
-  L'entropie peut diminuer dans le système étudié mais augmenter à l'extérieur.
+    L'entropie peut diminuer dans le système étudié mais augmenter à l'extérieur.
 
 Une réaction réversible lorsque
 $\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{= 0}$.
@@ -236,8 +236,7 @@ $$\mathrm{\Delta}_{r}S_{T2}^{0} = {\mathrm{\Delta}_{r}S}_{T1}^{0} + \left\lbrack
 
 ### Réactions intermédiaires
 
-Par la combinaison linéaire de réactions. Cela revient à passer par des
-réactions intermédiaires.
+Par la combinaison linéaire de réactions. Cela revient à passer par des réactions intermédiaires.
 
 ## Enthalpie libre
 
@@ -258,19 +257,15 @@ On a donc $\mathrm{\Delta}\mathbf{G} < \mathbf{0}$ alors la réaction est sponta
 
 # Équilibre chimique
 
-L'état d'équilibre (ou final) d'une réaction correspond à une enthalpie
-minimale. L'évolution de l'enthalpie d'une réaction permet de connaitre
-son avancement.
+L'état d'équilibre (ou final) d'une réaction correspond à une enthalpie minimale. L'évolution de l'enthalpie d'une réaction permet de connaitre son avancement.
 
 ## Potentiel chimique
 
-Le potentiel chimique d'un constituant permet d'étudier la stabilité
-d'une espèce chimique :
+Le potentiel chimique d'un constituant permet d'étudier la stabilité d'une espèce chimique :
 
 $$\mu_{i} = \frac{dG}{{dn}_{i}}$$
 
-La mesure du potentiel chimique de chaque composant a été déterminée à
-T=298K et P=1Bar. Elle est notée $\mu_{i}^{0}$.
+La mesure du potentiel chimique de chaque composant a été déterminée à T=298K et P=1Bar. Elle est notée $\mu_{i}^{0}$.
 
 La différence d'enthalpie libre correspond à la différence de potentiel chimique entre les produits et les réactifs :
 
@@ -285,8 +280,8 @@ $a_{i}$ correspond à l'activité de l'espèce chimique. Il vaut si c'est :
 * Liquide $\mathbf{a}_{\mathbf{i}}\mathbf{= 1}$ avec pour le solvant $a_{i} = 1$, pour le soluté $a_{i} = \frac{\lbrack i\rbrack}{C_{0}}$, $\lbrack i\rbrack$ la concentration de l'espèce active. $C_{0} = 1 mol/L$ 
 * Gaz $a_{i} = \frac{P_{i}}{P_{0}}$ avec $P_{i}$ la pression partielle, $P_{0}$ = 1 Bar
 
-[Rmq :]{.underline} $C_{0}$ et $P_{0}$ permettent d'obtenir une valeur
-sans unité.
+!!! note 
+    $C_{0}$ et $P_{0}$ permettent d'obtenir une valeur sans unité.
 
 ### La pression partielle
 
@@ -315,17 +310,15 @@ $$Q_{r} = \frac{\prod_{}^{}{a_{i}(produits)}^{\nu_{i}}}{\prod_{}^{}{a_{i}(réact
 
 ### Constante d'équilibre
 
-L'équilibre d'une solution $\Delta_{r}G = 0$ lorsqu'il n'y a plus de
-variation de l'enthalpie. Le quotient réactionnel est noté :
-$K = Q_{r}\ $ .
+L'équilibre d'une solution $\Delta_{r}G = 0$ lorsqu'il n'y a plus de variation de l'enthalpie. Le quotient réactionnel est noté : $K = Q_{r}\ $ .
 
 $$\Delta_{r}G^{0} = - RT.ln(K)$$
 
 !!! note
-  La constante d'équilibre K peut s'obtenir en passant par des réactions intermédiaires. Attention, la somme et la différence deviennent des puissances.
+    La constante d'équilibre K peut s'obtenir en passant par des réactions intermédiaires. Attention, la somme et la différence deviennent des puissances.
 
 !!! note 
-  Le coefficient d'équilibre pour la réaction inverse est : $\frac{1}{K_{1}} = K_{2}$
+    Le coefficient d'équilibre pour la réaction inverse est : $\frac{1}{K_{1}} = K_{2}$
 
 Lorsque K :
 
@@ -345,7 +338,7 @@ L'équilibre est modifié lorsque l'on change :
 Il se déplacera de manière à compenser l'augmentation ou la diminution.
 
 !!! example
-  Pour une augmentation de la pression, il faudra déterminer la réaction qui produit le moins de matière.*
+    Pour une augmentation de la pression, il faudra déterminer la réaction qui produit le moins de matière.*
 
 La modification de pression peut se faire par trois moyens :
 
@@ -354,22 +347,18 @@ La modification de pression peut se faire par trois moyens :
 * Ajout d'un constituant de la réaction.
 
 !!! warning 
-  L'ajout d'un gaz inerte à pression constante modifie les pressions partielles.
+    L'ajout d'un gaz inerte à pression constante modifie les pressions partielles.
 
 ### Tableau d'avancement
 
 Pour suivre une réaction, on utilise généralement un tableau
 d'avancement :
 
-  -----------------------------------------------------------------------
-  Temps                               Réactifs → Produits
-  ----------------------------------- -----------------------------------
-  $$= 0$$                             nbre de mol ou pression partielle
-
-  $$t(x)$$                            
-
-  $$t_{final}$$                       
-  -----------------------------------------------------------------------
+Temps          | Réactifs → Produits
+---------------|--------------------------
+$= 0$          | Nbre de mol ou pression partielle
+$t(x)$$        |
+$t_{final}$    |
 
 Le réactif limitant permet de déduire la quantité de matière obtenue.
 
@@ -389,37 +378,30 @@ $$2H_{2}O \rightleftharpoons H_{3}O^{+} + HO^{-}$$
 
 Son
 $K_{e} = \frac{\left\lbrack H^{3}O^{+} \right\rbrack\left\lbrack HO^{-} \right\rbrack}{{\lbrack H^{2}O\rbrack}^{2}} = 10^{- 14}$
-comme H~2~O est le soluté alors $a_{H2O} = 1$.
+comme $H\{2}O$ est le soluté alors $a_{H_{2}O} = 1$.
 
 ## Acide Base
 
 Dans l'eau,
 
-  ---------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------
-  Un acide libère un proton donc apparition de $H_{3}O^{+}$                                Une base capte un proton donc apparition de $HO^{-}$
+* un acide libère un proton. Il y a apparition d'un $H_{3}O^{+}$
+* Une base capte un proton donc apparition de $HO^{-}$
 
-  $$K_{a} = \frac{{\lbrack H}_{3}O^{+}\rbrack.\lbrack A^{-}\rbrack}{\lbrack AH\rbrack}$$   $$K_{b} = \frac{\lbrack HO^{-}\rbrack.\lbrack AH\rbrack}{\lbrack A^{-}\rbrack}$$
-  ---------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------
+$K_{a} = \frac{{\lbrack H}_{3}O^{+}\rbrack.\lbrack A^{-}\rbrack}{\lbrack AH\rbrack}$$   $$K_{b} = \frac{\lbrack HO^{-}\rbrack.\lbrack AH\rbrack}{\lbrack A^{-}\rbrack}$
 
-[Rmq :]{.underline} $K_{e} = K_{a}.K_{b} = 10^{- 14}$
+!!! note
+    $K_{e} = K_{a}.K_{b} = 10^{- 14}$
 
 La fonction $p = - log$
 
 On définit le pH :
 
-$$pH = - log({\lbrack H}_{3}O^{+}\rbrack) = pK_{a} + log(\frac{\left\lbrack A^{-} \right\rbrack}{\lbrack AH\rbrack})$$
+$pH = - log({\lbrack H}_{3}O^{+}\rbrack) = pK_{a} + log(\frac{\left\lbrack A^{-} \right\rbrack}{\lbrack AH\rbrack})$
 
-+-----------------------------------------------------------------------+
-| *Exemple* classique pour déterminer le pH d'une solution auquel on    |
-| ajoute C d'une base                                                   |
-|                                                                       |
-| $$A^{-} + H_{2}O \leftrightarrow AH + {HO}^{-}$$                      |
-|                                                                       |
-|   --------------- -----------                                         |
-| --------------------------- --------------------------------------- - |
-| ---------------------- ---------------------------------------------- |
-|   Espèces         $$\left\l                                           |
-| brack A^{-} \right\rbrack$$   $$\left\lbrack H_{2}O \right\rbrack$$   |
+!!! example 
+    Déterminer le pH d'une solution auquel on ajoute C d'une base
+    $$A^{-} + H_{2}O \leftrightarrow AH + {HO}^{-}$$
+    Espèces $\left\lbrack A^{-} \right\rbrack$   $\left\lbrack H_{2}O \right\rbrack$
 |  $$\lbrack AH\rbrack$$   $$\mathbf{\lbrack}{HO}^{-}\mathbf{\rbrack}$$ |
 |                                                                       |
 |   Concentration   $$\mathbf{c} - x$$                                  |
@@ -475,28 +457,20 @@ En considérant que pour les acides et bases :
 L'autoprotolyse de l'eau est négligeable lorsque la concentration des
 espèces est $C{> 10}^{- 6}$ mol/L, on a alors
 
-  -----------------------------------------------------------------------------------------------------------------
-            Fort $\mathbf{p}\mathbf{K}_{\mathbf{a}}\mathbf{< 0}$ ou    Faible
-            $\mathbf{p}\mathbf{K}_{\mathbf{a}}\mathbf{>}\mathbf{14}$   
-  --------- ---------------------------------------------------------- --------------------------------------------
-  Acide     $$pH = {- log}c$$                                          $$\ pH = \frac{1}{2}(pK_{a} - \log c)$$
-
-  Base      $$pH = 14 + \log c$$                                       $$pH = \frac{1}{2}(14 + pK_{a} + \log c)$$
-  -----------------------------------------------------------------------------------------------------------------
+Type  | Fort $\mathbf{p}\mathbf{K}_{\mathbf{a}}\mathbf{< 0}$ | Faible $\mathbf{p}\mathbf{K}_{\mathbf{a}}\mathbf{>}\mathbf{14}$   
+-------------------------------------------------------------|------------------------------------------------------------------
+Acide | $$pH = {- log}c$$                                 | $$\ pH = \frac{1}{2}(pK_{a} - \log c)$$
+Base  | $$pH = 14 + \log c$$                              | $$pH = \frac{1}{2}(14 + pK_{a} + \log c)$$
 
 !!! note
   $H = \lbrack{H_{3}O}^{+}\rbrack = \frac{K_{e}}{\lbrack{HO}^{-}\rbrack}$
 
 !!! note
   Pour un acide ou une base forte, le coefficient réactionnel n'a pas de sens à l'équilibre car il faudrait diviser par 0.
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-            $$\mathbf{\lbrack AH\rbrack}$$   $$\mathbf{+}$$   $$\mathbf{H}_{\mathbf{2}}\mathbf{O}$$   $$\mathbf{\rightleftarrows}$$   $$\mathbf{\lbrack}\mathbf{A}^{\mathbf{-}}\mathbf{\rbrack}$$   $$\mathbf{+}$$   $${\mathbf{H}_{\mathbf{3}}\mathbf{O}}^{\mathbf{+}}$$
-  --------- -------------------------------- ---------------- --------------------------------------- ------------------------------- ------------------------------------------------------------- ---------------- ------------------------------------------------------
+            $\mathbf{\lbrack AH\rbrack}$$   $$\mathbf{+}$$   $$\mathbf{H}_{\mathbf{2}}\mathbf{O}$$   $$\mathbf{\rightleftarrows}$$   $$\mathbf{\lbrack}\mathbf{A}^{\mathbf{-}}\mathbf{\rbrack}$$   $$\mathbf{+}$$   $${\mathbf{H}_{\mathbf{3}}\mathbf{O}}^{\mathbf{+}}$
   t~0~      $$c$$                                             $$\varepsilon$$                                                         $$0$$                                                                          $$0$$
 
   t=eq      $$c - x$$                                         $$\varepsilon$$                                                         $$x$$                                                                          $$x$$
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A l'équilibre, il y a :
 
@@ -514,20 +488,13 @@ Généralement lorsque le pH n'appartient pas à
 $\lbrack pKa \pm 1\rbrack$. On peut négliger $x \ll c$ ce qui évite de
 calculer.
 
-Pour les bases, il faudra utiliser en plus :
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  $$\mathbf{K}_{\mathbf{e}}\mathbf{=}\left\lbrack \mathbf{H}_{\mathbf{3}}\mathbf{O}^{\mathbf{+}} \right\rbrack\mathbf{\times}\left\lbrack \mathbf{H}\mathbf{O}^{\mathbf{-}} \right\rbrack$$   $$\mathbf{K}_{\mathbf{e}}\mathbf{=}\mathbf{K}_{\mathbf{a}}\mathbf{\times}\mathbf{K}_{\mathbf{b}}$$
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pour les bases, il faudra utiliser en plus : $\mathbf{K}_{\mathbf{e}}\mathbf{=}\left\lbrack \mathbf{H}_{\mathbf{3}}\mathbf{O}^{\mathbf{+}} \right\rbrack\mathbf{\times}\left\lbrack \mathbf{H}\mathbf{O}^{\mathbf{-}} \right\rbrack$, $\mathbf{K}_{\mathbf{e}}\mathbf{=}\mathbf{K}_{\mathbf{a}}\mathbf{\times}\mathbf{K}_{\mathbf{b}}$
 
 ## Diagramme de prédominance
 
-$$K_{a} = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\left\lbrack A^{-} \right\rbrack}{\left\lbrack A^{-} \right\rbrack} \Leftrightarrow \left\lbrack {H_{3}O}^{+} \right\rbrack = K_{a}\frac{\lbrack AH\rbrack}{\left\lbrack A^{-} \right\rbrack} \Leftrightarrow - \log\left\lbrack {H_{3}O}^{+} \right\rbrack = - \log K_{a} + \log\frac{\left\lbrack A^{-} \right\rbrack}{\lbrack AH\rbrack}$$
+$K_{a} = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\left\lbrack A^{-} \right\rbrack}{\left\lbrack A^{-} \right\rbrack} \Leftrightarrow \left\lbrack {H_{3}O}^{+} \right\rbrack = K_{a}\frac{\lbrack AH\rbrack}{\left\lbrack A^{-} \right\rbrack} \Leftrightarrow - \log\left\lbrack {H_{3}O}^{+} \right\rbrack = - \log K_{a} + \log\frac{\left\lbrack A^{-} \right\rbrack}{\lbrack AH\rbrack}$
 
-Ainsi, on
-a $pH = pK_{a} + \log\frac{\left\lbrack A^{-} \right\rbrack}{\lbrack AH\rbrack}$
+Ainsi, on a $pH = pK_{a} + \log\frac{\left\lbrack A^{-} \right\rbrack}{\lbrack AH\rbrack}$
 
 On remarque que lorsque $\left\lbrack A^{-} \right\rbrack = \lbrack AH\rbrack$, on a $pH = pK_{a}$
 
@@ -559,11 +526,9 @@ La réaction doit être totale.
 
 L'ajout du composé se fait progressivement.
 
-1/, les est neutralisé par la substance inconnue.
-
-2/ La
-
-3/ en excédant
+1. les est neutralisé par la substance inconnue.
+2. La
+3. en excédant
 
 Représentation graphique
 
@@ -572,8 +537,7 @@ Représentation graphique
 Dans une même molécule le transfert d'un proton d'une molécule a une
 autre.
 
-Pour l'eau, à 25 degrés :
-$\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^{- 7}$mol/l
+Pour l'eau, à 25 degrés : $\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^{- 7}$mol/l
 
 ## pH acide base
 
@@ -581,11 +545,11 @@ $\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^
 automatiquement](media/image2.jpeg){width="3.3333333333333335in"
 height="1.882159886264217in"}
 
-NB acide/base n'ont rien à voir avec une solution acide/basique qui la
-quantité de proton présent dans une solution :
+!!! note 
+    Acide/base n'ont rien à voir avec une solution acide/basique qui la quantité de proton présent dans une solution :
 
-* Un acide est dit dissocié
-* Une base est dite associée
+* Un acide est dit dissocié.
+* Une base est dite associée.
 
 Un acide ou une base sont dits forts s'ils réagissent totalement avec
 l'eau.
