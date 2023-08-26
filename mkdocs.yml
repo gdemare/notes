@@ -133,6 +133,6 @@ nav:
   - Informatique :
       - 'Math jax' : informatique/markdown-math.md
       - 'Réseau' : informatique/reseau.md
-   - Utiles :
+  - Utiles :
       - Emploi : utiles/emploi.md  
-      - location : utiles/location.md     	
+      - Location : utiles/location.md     	
