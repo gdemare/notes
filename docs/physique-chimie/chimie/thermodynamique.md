@@ -13,7 +13,7 @@ __Capacité thermique__ variable intensive qui quantifie la quantité de chaleur
 
 Par défaut, la température est de 298K et la pression de 1atm.
 
-État standard pression atmosphérique et température 298K.
+__État standard__ pression atmosphérique et température 298K.
 
 Rappel : Pour les gaz parfaits, on a : $pV = nRT$
 
@@ -26,11 +26,11 @@ Avec :
 
 La masse molaire des principaux atomes est :
 
-Atome | Masse molaire ($g.mol^{-1}$)
----|---
+Atome     | Masse molaire ($g.mol^{-1}$)
+----------|-----------------------------
 Hydrogène | 1
-Carbone | 14
-Oxygène | 16
+Carbone   | 14
+Oxygène   | 16
 
 ## 1er principe de la thermodynamique : la conservation de l'énergie
 
@@ -39,8 +39,7 @@ L'énergie interne d'un système est notée U. Elle est dû à :
 * L'énergie cinétique (mouvement).
 * Interactions entre les particules.
 
-Il n'est pas possible de déterminer l'énergie d'un système. En revanche, il est possible de
-connaitre la différence d'énergie entre deux états.
+Il n'est pas possible de déterminer l'énergie d'un système. En revanche, il est possible de connaitre la différence d'énergie entre deux états.
 
 L'énergie d'un système peut être échangée sous deux formes :
 
@@ -66,9 +65,7 @@ Isobare                 | Pression constante           | $$P = cste$$
 
 ## Le travail (uniquement pour les gaz)
 
-La notion de travail s'applique uniquement aux gaz car ils sont les
-seuls à subir une variation importante de volume : $$\mathbf{\mathrm{\Delta}W = - PdV}$$
-avec P pression (Pa)
+La notion de travail s'applique uniquement aux gaz car ils sont les seuls à subir une variation importante de volume : $$\mathbf{\mathrm{\Delta}W = - PdV}$$ avec P pression (Pa).
 
 !!! example 
     pour une réaction isobare, on aura $\ \mathrm{\Delta}W = - PdV = - P \times \frac{nRT}{P} = - nRT$
@@ -81,9 +78,7 @@ température.
 !!! note
     Un changement de T° implique nécessairement un échange de chaleur.
 
-
 Point méthode : Pour chaque réaction, il faut d'abord noter sa nature (isotherme...)
-
 
 La chaleur se calcule en utilisant une des formules suivantes :
 
@@ -139,14 +134,14 @@ Une réaction est :
 Quatre méthodes pour déterminer l'enthalpie de réaction :
 
 Méthodes                   | Principe
-------------------------------------------------
+---------------------------|--------------------
 Enthalpie de formation     | Énergie de formation des molécules
 Énergie des liaisons       | Somme des liaisons créées et dissociées
 Combinaison de réactions   | Combinaison linéaire de réactions intermédiaires.
 Energie interne            | Uniquement pour les gaz
 
 !!! note 
-    Point méthode : lorsque l'on parle de réaction de formation sans préciser la formule de réaction, il s'agit de faire réagir des corps simples pour obtenir la molécule désirée.
+  Point méthode : lorsque l'on parle de réaction de formation sans préciser la formule de réaction, il s'agit de faire réagir des corps simples pour obtenir la molécule désirée.
 
 ## Enthalpie de formation
 
@@ -174,9 +169,8 @@ pour former les produits moins celles des réactifs.
 | enthalpie de formation                                                |
 +-----------------------------------------------------------------------+
 
-[Remarque :]{.underline} L'enthalpie de formation des corps simples
-c'est-à-dire de molécules constituées d'un seul type d'atomes est nul ($0
-KJ.mol^{-1}$).
+!!! note
+  L'enthalpie de formation des corps simples c'est-à-dire de molécules constituées d'un seul type d'atomes est nul ($0 KJ.mol^{-1}$).
 
 Lorsqu'il y a un changement de température, il faut ajouter l'énergie nécessaire pour faire la transformation :
 
@@ -186,34 +180,23 @@ $\mathbf{C}_{\mathbf{p}}$ Capacité calorifique en mol^-1^
 
 ## Énergie de liaisons
 
-L'idée c'est de déterminer l'énergie de formation à partir de celle
-nécessaire pour créer ou détruire des liaisons moléculaires. Cette
-méthode nécessite de connaitre la structure des molécules c'est-à-dire
-les liaisons électroniques entre les atomes.
+L'idée c'est de déterminer l'énergie de formation à partir de celle nécessaire pour créer ou détruire des liaisons moléculaires. Cette méthode nécessite de connaitre la structure des molécules c'est-à-dire les liaisons électroniques entre les atomes.
 
-[NB :]{.underline} l'énergie de dissociations est positive $E_{d} > 0$
-car on libère de l'énergie lorsque l'on brise une liaison. Elle est
-égale à l'opposé de l'énergie de formation de liaisons
-$E_{f} = {- E}_{d}$.
+!!! note
+  L'énergie de dissociations est positive $E_{d} > 0$ car on libère de l'énergie lorsque l'on brise une liaison. Elle est égale à l'opposé de l'énergie de formation de liaisons $E_{f} = {- E}_{d}$.
 
-Attention on a généralement l'enthalpie de dissociation des réactions
-pour les éléments gazeux. Il faut donc réaliser une étape supplémentaire
-de changement d'état pour les autres états de la matière (solide...).
-Dans ce cas, il faut ajouter l'énergie de la transformation chimique. Il
-faudra donc additionner :
+!!! warning 
+  On a généralement l'enthalpie de dissociation des réactions pour les éléments gazeux. Il faut donc réaliser une étape supplémentaire. Le changement d'état pour les autres états de la matière (solide...). Dans ce cas, il faut ajouter l'énergie de la transformation chimique. Il  faudra donc additionner :
 
-* L'énergie à fournir pour atteindre à la température de changement d'état.
-* L'énergie de changement d'état.
-* L'énergie pour revenir à la température initiale.
+  * L'énergie à fournir pour atteindre à la température de changement d'état.
+  * L'énergie de changement d'état.
+  * L'énergie pour revenir à la température initiale.
 
 ## Combinaison de réactions
 
-On peut calculer l'enthalpie en réalisant des combinaisons linéaires de
-réactions chimiques intermédiaires. L'idée est de sommer des réactions
-pour obtenir celle désirée.
+On peut calculer l'enthalpie en réalisant des combinaisons linéaires de réactions chimiques intermédiaires. L'idée est de sommer des réactions pour obtenir celle désirée.
 
-Lorsqu'un élément est présent à la fois comme réactif et comme produit,
-il peut être supprimé.
+Lorsqu'un élément est présent à la fois comme réactif et comme produit, il peut être supprimé.
 
 !!! note 
     lorsque l'on inverse une réaction, l'enthalpie change de signe.
@@ -238,35 +221,23 @@ désordre :
 
 On appelle ce désordre, l'entropie et on le note S.
 
-L'entropie est une approche probabiliste du monde. Elle se définit comme
-l'état ayant la plus grande probabilité d'exister. Si un gaz contenu
-dans une bouteille est libéré, la probabilité qu'il rentre à nouveau
-dans la bouteille est nul par rapport à l'ensemble des positions que
-chaque molécule peut occuper dans l'espace.
+L'entropie est une approche probabiliste du monde. Elle se définit comme l'état ayant la plus grande probabilité d'exister. Si un gaz contenu dans une bouteille est libéré, la probabilité qu'il rentre à nouveau dans la bouteille est nul par rapport à l'ensemble des positions que chaque molécule peut occuper dans l'espace.
 
-[Rmq :]{.underline} sur Terre, les rayons du soleil constituent un
-apport en énergie.
+!!! note Sur Terre, les rayons du soleil constituent un apport en énergie.
 
 Une réaction est spontanée seulement si l'entropie augmente c'est-à-dire
 $\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{> 0}$ :
 
-  ------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------
-  $${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mathbf{sys}} + {\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}}$$   S entropie en J.K^-1^
+$${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mathbf{sys}} + {\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}}$$   S entropie en $J.K^{-1}$
 
-  ------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------
-
-Attention : l'entropie peut diminuer dans le système étudié mais
-augmenter à l'extérieur.
+!!! warning
+  L'entropie peut diminuer dans le système étudié mais augmenter à l'extérieur.
 
 Une réaction réversible lorsque
 $\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{= 0}$.
 
-Si l'on considère le milieu externe est comme stable et qui n'échange
-pas de matière avec le système étudié alors :
-$\mathbf{S}_{\mathbf{ext}} = \frac{\mathbf{Q}}{\mathbf{T}}$ pour
-connaitre la variation d'entropie entre un état initial et un final il
-faut :
-${\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}} = \int_{}^{}{\frac{\mathbf{Q}}{\mathbf{T}}\ }$
+Si l'on considère le milieu externe est comme stable et qui n'échange pas de matière avec le système étudié alors :
+$\mathbf{S}_{\mathbf{ext}} = \frac{\mathbf{Q}}{\mathbf{T}}$ pour connaitre la variation d'entropie entre un état initial et un final il faut : ${\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}} = \int_{}^{}{\frac{\mathbf{Q}}{\mathbf{T}}\ }$
 
 **Déterminer l'entropie du système étudié**
 
@@ -294,10 +265,7 @@ réactions intermédiaires.
 
 ## Enthalpie libre
 
-À pression et à température constante, lorsqu'une réaction se déroule
-dans un milieu stable, la différence d'entropie du milieu extérieur
-égale à l'énergie reçu du système étudié c'est-à-dire :
-${\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}} = - \frac{\mathrm{\Delta}\mathbf{H}}{\mathbf{T}}$
+À pression et à température constante, lorsqu'une réaction se déroule dans un milieu stable, la différence d'entropie du milieu extérieur égale à l'énergie reçu du système étudié c'est-à-dire ${\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}} = - \frac{\mathrm{\Delta}\mathbf{H}}{\mathbf{T}}$
 
 Pour qu'une réaction soit spontanée, on aura :
 
@@ -305,15 +273,12 @@ $${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mat
 
 Ce qui revient à calculer l'enthalpie libre
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  $$\mathbf{\mathrm{\Delta}G =}\mathbf{\mathrm{\Delta}H}_{\mathbf{sys}}\mathbf{- T}\mathbf{\mathrm{\Delta}S}_{\mathbf{sys}}\mathbf{< 0}$$   $\mathbf{\mathrm{\Delta}G}$
-                                                                                                                                            enthalpie libre en J.mol^-1^
-  ----------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------
+$\mathbf{\mathrm{\Delta}G =}\mathbf{\mathrm{\Delta}H}_{\mathbf{sys}}\mathbf{- T}\mathbf{\mathrm{\Delta}S}_{\mathbf{sys}}\mathbf{< 0}$   
+$\mathbf{\mathrm{\Delta}G}$
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+enthalpie libre en $J.mol^{-1}$
 
-On a donc $\mathrm{\Delta}\mathbf{G} < \mathbf{0}$ alors la réaction est
-spontanée autrement dit l'énergie va se dissiper.
+On a donc $\mathrm{\Delta}\mathbf{G} < \mathbf{0}$ alors la réaction est spontanée autrement dit l'énergie va se dissiper.
 
 # Équilibre chimique
 
@@ -331,8 +296,7 @@ $$\mu_{i} = \frac{dG}{{dn}_{i}}$$
 La mesure du potentiel chimique de chaque composant a été déterminée à
 T=298K et P=1Bar. Elle est notée $\mu_{i}^{0}$.
 
-La différence d'enthalpie libre correspond à la différence de potentiel
-chimique entre les produits et les réactifs :
+La différence d'enthalpie libre correspond à la différence de potentiel chimique entre les produits et les réactifs :
 
 $$\Delta_{r}G = \sum_{}^{}\nu_{i}\mu_{i}(produits) - \sum_{}^{}\nu_{i}\mu_{i}(réactifs)$$
 
@@ -381,16 +345,12 @@ La pression partielle d'un gaz se calcule de la manière suivante :
 |               | (réactifs + inerte).                                 |
 +---------------+------------------------------------------------------+
 
-[Rmq :]{.underline} pour calculer les pressions partielles en utilisant
-la relation des gaz parfaits ($\frac{P_{ini}V}{P_{eq}V}$) à
-t~0\ ou\ ini~ et t~final\ ou\ eq~. Pour cela, on a besoin de connaitre
-la quantité de matière à t~0~ et t~final~, on aura alors
-$P_{eq} = \frac{{(n_{tot})}_{ini}}{{(n_{tot})}_{eq}} \times P_{ini}$.
+!!! note
+  Pour calculer les pressions partielles en utilisant la relation des gaz parfaits ($\frac{P_{ini}V}{P_{eq}V}$) à t~0\ ou\ ini~ et t~final\ ou\ eq~. Pour cela, on a besoin de connaitre la quantité de matière à t~0~ et t~final~, on aura alors $P_{eq} = \frac{{(n_{tot})}_{ini}}{{(n_{tot})}_{eq}} \times P_{ini}$.
 
 ## Quotient réactionnel
 
-Le quotient réactionnel permet de caractériser l'avancement de la
-réaction noté $Q_{r}$.
+Le quotient réactionnel permet de caractériser l'avancement de la réaction noté $Q_{r}$.
 
 $$\Delta_{r}G = \sum_{}^{}\nu_{i}\mu_{i}(produits) - \sum_{}^{}\nu_{i}\mu_{i}(réactifs) = \Delta_{r}G^{0} + RT.ln(Q_{r})$$
 
@@ -406,47 +366,40 @@ $K = Q_{r}\ $ .
 
 $$\Delta_{r}G^{0} = - RT.ln(K)$$
 
-[NB :]{.underline} La constante d'équilibre K peut s'obtenir en passant
-par des réactions intermédiaires. Attention, la somme et la différence
-deviennent des puissances.
+!!! note
+  La constante d'équilibre K peut s'obtenir en passant par des réactions intermédiaires. Attention, la somme et la différence deviennent des puissances.
 
-[Rmq :]{.underline} Le coefficient d'équilibre pour la réaction inverse
-est : $\frac{1}{K_{1}} = K_{2}$
+!!! note 
+  Le coefficient d'équilibre pour la réaction inverse est : $\frac{1}{K_{1}} = K_{2}$
 
 Lorsque K :
 
-  ----------------------------------- -----------------------------------
-  K\>1les produits majoritaires       K\<1les réactifs majoritaires
-
-  ----------------------------------- -----------------------------------
+* $K\>1$ les produits majoritaires.
+* K\<1les réactifs majoritaires.
 
 La réaction est totale pour $< 10^{- 3}$ ou ${> 10}^{3}$
 
 ## Modification des conditions de la réaction
 
-L'équilibre est modifié lorsque l'on change
+L'équilibre est modifié lorsque l'on change :
 
-  ----------------------- ----------------------- -----------------------
-  La température          La concentration des    La pression
-                          réactifs/produits       
-
-  ----------------------- ----------------------- -----------------------
+* La température.
+* La concentration des réactifs/produits.    
+* La pression.
 
 Il se déplacera de manière à compenser l'augmentation ou la diminution.
 
-*Par exemple, pour une augmentation de la pression, il faudra
-déterminer la réaction qui produit le moins de matière.*
+!!! example
+  Pour une augmentation de la pression, il faudra déterminer la réaction qui produit le moins de matière.*
 
 La modification de pression peut se faire par trois moyens :
 
-  ----------------------- ----------------------- -----------------------
-  Ajout d'un gaz inerte   Compression de volume   Ajout d'un constituant
-                                                  de la réaction
+* Ajout d'un gaz inerte.
+* Compression de volume.
+* Ajout d'un constituant de la réaction.
 
-  ----------------------- ----------------------- -----------------------
-
-Attention : L'ajout d'un gaz inerte à pression constante modifie les
-pressions partielles.
+!!! warning 
+  L'ajout d'un gaz inerte à pression constante modifie les pressions partielles.
 
 ### Tableau d'avancement
 
@@ -473,7 +426,7 @@ $$lnK - lnK^{'} = \frac{\Delta_{r}H^{0}}{R}(\frac{1}{T} - \frac{1}{T^{'}})$$
 
 # Équilibre acido-basique
 
-Amphotère espèce chimique capable de réagir avec elle-même.
+__Amphotère__ espèce chimique capable de réagir avec elle-même.
 
 L'autoprotolyse de l'eau est une réaction spontanée de
 
@@ -556,14 +509,13 @@ $$pH = - log({\lbrack H}_{3}O^{+}\rbrack) = pK_{a} + log(\frac{\left\lbrack A^{-
 | ce qui équivaut un résoudre un polynôme du second degré.              |
 +-----------------------------------------------------------------------+
 
-[Rmq :]{.underline} Plus le pKa est grand plus l'acide est fort.
+!!! note
+  Plus le pKa est élevé plus l'acide est fort.
 
 En considérant que pour les acides et bases :
 
--   Forts : ils réagissent à 100%.
-
--   Faible : la diminution de concentration de la base et de l'acide est
-    négligeable.
+* Forts : ils réagissent à 100%.
+* Faibles : la diminution de concentration de la base et de l'acide est négligeable.
 
 L'autoprotolyse de l'eau est négligeable lorsque la concentration des
 espèces est $C{> 10}^{- 6}$ mol/L, on a alors
@@ -577,11 +529,11 @@ espèces est $C{> 10}^{- 6}$ mol/L, on a alors
   Base      $$pH = 14 + \log c$$                                       $$pH = \frac{1}{2}(14 + pK_{a} + \log c)$$
   -----------------------------------------------------------------------------------------------------------------
 
-[Rmq :]{.underline}
-$H = \lbrack{H_{3}O}^{+}\rbrack = \frac{K_{e}}{\lbrack{HO}^{-}\rbrack}$
+!!! note
+  $H = \lbrack{H_{3}O}^{+}\rbrack = \frac{K_{e}}{\lbrack{HO}^{-}\rbrack}$
 
-[Rmq :]{.underline} Pour un acide ou une base forte, le coefficient
-réactionnel n'a pas de sens à l'équilibre car il faudrait diviser par 0.
+!!! note
+  Pour un acide ou une base forte, le coefficient réactionnel n'a pas de sens à l'équilibre car il faudrait diviser par 0.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
             $$\mathbf{\lbrack AH\rbrack}$$   $$\mathbf{+}$$   $$\mathbf{H}_{\mathbf{2}}\mathbf{O}$$   $$\mathbf{\rightleftarrows}$$   $$\mathbf{\lbrack}\mathbf{A}^{\mathbf{-}}\mathbf{\rbrack}$$   $$\mathbf{+}$$   $${\mathbf{H}_{\mathbf{3}}\mathbf{O}}^{\mathbf{+}}$$
@@ -591,7 +543,7 @@ réactionnel n'a pas de sens à l'équilibre car il faudrait diviser par 0.
   t=eq      $$c - x$$                                         $$\varepsilon$$                                                         $$x$$                                                                          $$x$$
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A l'équilibre on a :
+A l'équilibre, il y a :
 
 $$K = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\lbrack A^{-}\rbrack}{\lbrack AH\rbrack} = \frac{x²}{c - x}$$
 
@@ -622,22 +574,16 @@ $$K_{a} = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\left\lbrack A^{-} \righ
 Ainsi, on
 a $pH = pK_{a} + \log\frac{\left\lbrack A^{-} \right\rbrack}{\lbrack AH\rbrack}$
 
-On remarque que lorsque
-$\left\lbrack A^{-} \right\rbrack = \lbrack AH\rbrack$, on a
-$pH = pK_{a}$
+On remarque que lorsque $\left\lbrack A^{-} \right\rbrack = \lbrack AH\rbrack$, on a $pH = pK_{a}$
 
 ## Solution avec deux acides ou deux bases
 
 Pour calculer le pH d'une solution avec plusieurs acides ou plusieurs
 bases :
 
-1.  On écrit les tableaux de réactions.
-
-2.  Il suffit de calculer le nombre de HO- ou H3O+ produit
-    $x_{1} + x_{2}$
-
-3.  Pour chaque réaction on détermine respectivement la valeur $x_{1}$,
-    $x_{2}$ puis on additionne le tout.
+1. On écrit les tableaux de réactions.
+2. Il suffit de calculer le nombre de HO- ou H3O+ produit $x_{1} + x_{2}$
+3. Pour chaque réaction on détermine respectivement la valeur $x_{1}$, $x_{2}$ puis on additionne le tout.
 
 ## Solution tampon
 
@@ -647,17 +593,14 @@ Une solution tampon est une solution avec un
 
 La déterminer de la concentration inconnu en base ou d'acide.
 
-Il s'agite de faire réagir toutes les molécules de la solution inconnu
-c'est-à-dire que l'on aura la même quantité de matière :
-$n_{inconnu} = n_{ajouté}$ (où ecrit différement
-$c_{i}.v_{i} = c_{a}.v_{a}$).
+Il s'agit de faire réagir toutes les molécules de la solution inconnue c'est-à-dire qu'il y aura la même quantité de matière : $n_{inconnu} = n_{ajouté}$ (où ecrit différement $c_{i}.v_{i} = c_{a}.v_{a}$).
 
 Ce point est appelé équivalence.
 
-La réaction doit être total.
+La réaction doit être totale.
 
-Rmq : pour que la réaction soit totale on utilise des acides et des
-bases fortes.
+!!! note
+  Pour que la réaction soit totale on utilise des acides et des bases fortes.
 
 L'ajout du composé se fait progressivement.
 
@@ -684,21 +627,18 @@ automatiquement](media/image2.jpeg){width="3.3333333333333335in"
 height="1.882159886264217in"}
 
 NB acide/base n'ont rien à voir avec une solution acide/basique qui la
-quantité de proton présent dans une solution.
+quantité de proton présent dans une solution :
 
-  -----------------------------------------------------------------------
-  Un acide est dit dissocié           Une base est dite associée
-  ----------------------------------- -----------------------------------
-
-  -----------------------------------------------------------------------
+* Un acide est dit dissocié
+* Une base est dite associée
 
 Un acide ou une base sont dits forts s'ils réagissent totalement avec
 l'eau.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Autoprotolyse de l'eau                                                                                              Constante d'équilibre                                                                                
-  ------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------
+Autoprotolyse de l'eau
+
+Constante d'équilibre                                                                                
+
   $$\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^{7}$$                              $$K_{a} = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\lbrack AH\rbrack}{\lbrack A^{-}\rbrack}$$   $$K_{b} = \frac{\left\lbrack {HO}^{-} \right\rbrack.\lbrack{AH_{2}}^{+}\rbrack}{\lbrack AH\rbrack}$$
 
   $$K_{e} = K_{a} \times K_{b} = \ \left\lbrack H_{3}O^{+} \right\rbrack \times \left\lbrack HO^{-} \right\rbrack$$                                                                                                        
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
