@@ -17,9 +17,9 @@ theme:
     - navigation.top # bouton pour remonter en haut
     # - navigation.indexes # pour avoir une page d'index dans chaque partie
     - content.tabs.link
-    # - toc.integrate # réuni le plan et le sommaire
-    #- content.action.edit # bouton edit
-    #- content.action.view # bouton voir
+     - toc.integrate # réuni le plan et le sommaire
+    - content.action.edit # bouton edit
+    - content.action.view # bouton voir
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -111,6 +111,47 @@ nav:
     - Candidater : communication/entretien-embauche.md
     - "Gestion de projet" : communication/gestion-projet.md
     - Rhétorique : communication/rhetorique.md
+  - "Data Science" :
+    - "Méthodes data science" : data-science/methodes-data-science.md
+    - "A voir" : data-science/a-voir.md
+    - Cartographie : data-science/cartographie.md
+    - Classification : 
+      - Classification : data-science/classification/classification.md
+      - ANOVA : data-science/classification/ANOVA.md
+      - "Arbre de décision" : data-science/classification/arbre-de-décision.md
+      - "ARMA" : data-science/classification/ARMA.md
+      - "Boosting" : data-science/classification/boosting.md
+      - "Carte auto adaptative" : data-science/classification/carte-auto-adaptative.md
+      - "Centroides" : data-science/classification/centroide.md
+      - "Classification baysien" : data-science/classification/classificateur-baysien.md
+      - "cluestering des variables" : data-science/classification/clustering-variables.md
+      - "Espérance maximale" : data-science/classification/espérance-maximisation.md
+      - "Forêt aléatoire" : data-science/classification/forêt-aléatoire.md
+      - "Lissage exponentiel" : data-science/classification/lissage-exponentiel.md
+      - "Perceptron" : data-science/classification/perceptron.md
+      - "Régression linéaire" : data-science/classification/regression-lineaire.md
+      - "Régression logistique" : data-science/classification/regression-logistique.md
+      - "SVM" : data-science/classification/SVM.md
+    - Cluestering : 
+      - Cluestering : data-science/cluestering/cluestering.md
+      - "CAH" : data-science/cluestering/CAH.md
+      - "CFH" : data-science/cluestering/CDH.md
+      - "Centres mobiles" : data-science/cluestering/centres-mobiles.md
+    - "Dictionnaire Statistique" : data-science/dictionnaire-statistique.md
+    - Graphiquees : data-science/graphiques.md
+    - "Réduction de dimensions" :
+      - "Réduction de dimensions" : data-science/reduction-dimensions/reduction-dimension.md
+      - ACM : data-science/reduction-dimensions/ACM.md
+      - ACP : data-science/reduction-dimensions/ACP.md
+      - AFC : data-science/reduction-dimensions/AFC.md
+      - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
+    - "Réseaux de neurones" :
+      - "couches convulsives" : data-science/reseaux-neurones/couche-convulsive.md
+      - "Réseaux de neurones" : data-science/reseaux-neurones/reseaux-neurones.md
+    - "Série temporelle" : data-science/serie-temporelle.md
+    - Statistique : data-science/statistique.md
+    - "Text mining" : data-science/text-mining.md
+    - "Transformation des données " : data-science/transformation-donnees.md  
   - Mathématique :
     - Mathématique : mathematique/mathematique.md
     - Arithmétique :  mathematique/arithmetique.md
@@ -122,10 +163,11 @@ nav:
         - 'Réseaux de neurones' : mathematique/reseaux-neurones.md
     - "Statistique et probabilités" : 
       - Probabilité : mathematique/probabilite.md
+      - "Probabilité et statistique" : mathematique/probabilite-statistique.md
       - Statistique : mathematique/statistique.md
       - "Tests statistiques" : mathematique/tests-statistiques.md
   - 'Physique Chimie' :
-    - Chimie : 
+    - Chimie :
       - Thermodynamique : physique-chimie/chimie/thermodynamique.md
     - Physique :
       - Physique : physique-chimie/physique/physique.md

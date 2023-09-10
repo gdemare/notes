@@ -31,12 +31,3 @@ Définir une action : comment ? Qui ? Quoi ? Où ? Pourquoi ?
 
 * __Personne impliquée__ personne dont dépend nécessairement le projet. Son absence se traduit par l'arrête du projet.
 * __Personne concernée__ personne dont le rôle n'est pas primordial dans un projet.
-
-!!! example 
-	Dans le cas d'un projet de data mining :
-
-	1. Cadrage et définition.
-	2. Management des données.
-	3. Exploration des données.
-	4. Modélisation et analyse des données.
-	5. Mise en œuvre opérationnelle.

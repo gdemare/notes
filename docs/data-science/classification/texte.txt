@@ -1,0 +1,17 @@
+ANOVA.md
+arbre-de-décision.md
+ARMA.md
+boosting.md
+carte-auto-adaptative.md
+centroide.md
+classificateur-baysien.md
+classification.md
+clustering-variables.md
+espérance-maximisation.md
+forêt-aléatoire.md
+lissage-exponentiel.md
+perceptron.md
+regression-lineaire.md
+regression-logistique.md
+SVM.md
+texte.txt

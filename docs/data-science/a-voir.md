@@ -1,0 +1,4 @@
+apprentissage-renforcement
+modèle-génératif
+détecter-valeurs-abérrantes
+méthode pour discrétiser

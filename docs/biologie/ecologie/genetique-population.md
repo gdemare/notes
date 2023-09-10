@@ -1,41 +1,31 @@
 ## Vocabulaire
 
-Norme de réaction ensemble des phénotypes observés en faisant varier les
-conditions environnementales pour un génotype.
+__Norme de réaction__ ensemble des phénotypes observés en faisant varier les conditions environnementales pour un génotype.
 
-Plasticité phénotypique capacité d\'un organisme à exprimer différents
-phénotypes à partir d\'un génotype donné selon l'environnement.
+__Plasticité phénotypique__ capacité d\'un organisme à exprimer différents phénotypes à partir d'un génotype donné selon l'environnement.
 
-Locus (pluriel loci) position fixe, localisation d'un gène ou d'un
-marqueur génétique.
+__Locus (pluriel loci)__ position fixe, localisation d'un gène ou d'un marqueur génétique.
 
-Caractère variable, aspect d'un organisme qui peut être analysé.
+__Caractère__ variable, aspect d'un organisme qui peut être analysé.
 
-Génotype différentes valeurs pour un caractère c'est-à-dire l'ensemble
-des allèles qui code un caractère donné.
+__Génotype__ différentes valeurs pour un caractère c'est-à-dire l'ensemble des allèles qui code un caractère donné.
 
-Gène unité d'information qui code pour caractère donné.
+__Gène__ unité d'information qui code pour un caractère donné.
 
-Cline évolution graduelle d'un caractère en fonction de l'axe
-géographique. Il y a une corrélation entre la latitude et la fréquence
-de l'allèle.
+__Cline__ évolution graduelle d'un caractère en fonction de l'axe géographique. Il y a une corrélation entre la latitude et la fréquence de l'allèle.
 
-Population groupe d'individus d'une même espèce qui vive dans la même
-zone géographique, se reproduise et engendre une descendance féconde.
-Les individus d'une population sont fortement apparentés.
+__Population__ groupe d'individus d'une même espèce qui vive dans la même zone géographique, se reproduise et engendre une descendance féconde. Les individus d'une population sont fortement apparentés.
 
-Patrimoine génétique (ou pool génétique ou fond génétique) composition
-génétique d'une population.
+__Patrimoine génétique (ou pool génétique ou fond génétique)__ composition génétique d'une population.
 
-Lorsqu'un seul allèle est présent dans une population on dit que
-l'allèle est fixé (par opposition à polymorphisme).
+Lorsqu'un seul allèle est présent dans une population on dit que l'allèle est fixé (par opposition à polymorphisme).
 
-Attention il n'existe pas de hiérarchies entre les allèles mais entre
-les phénotypes. Ainsi, on dira qu'un phénotype \[A\] est dominant sur
+!!! warning
+    Il n'existe pas de hiérarchies entre les allèles mais entre les phénotypes. Ainsi, on dira qu'un phénotype \[A\] est dominant sur
 \[a\].
 
-[NB :]{.underline} un allèle dominant ne s'exprime pas toujours. Il peut
-être caractérisé par l'absence d'expression.
+!!! note
+    Un allèle dominant ne s'exprime pas toujours. Il peut être caractérisé par l'absence d'expression.
 
 ## Objectifs
 
@@ -131,50 +121,33 @@ les fréquences alléliques sont constantes. Ainsi, à chaque génération,
 on retrouve les fréquences de départ des allèles, ce qui correspond
 mathématiquement à : $\mathrm{\Delta}P = P_{n + 1} - P_{n} = 0$
 
-[Rmq :]{.underline} généralement une population est à l'équilibre
-uniquement sur certains gènes précis.
+!!! note
+    Généralement une population est à l'équilibre uniquement sur certains gènes précis.
 
-Cela stipule que la recombinaison allélique et la ségrégation
-mendélienne sont indépendantes. Un allèle a une chance identique d'être
-présent à la génération suivante.
+Cela stipule que la recombinaison allélique et la ségrégation mendélienne sont indépendantes. Un allèle a une chance identique d'être présent à la génération suivante.
 
-Dans la réalité, il existe de multiples causes qui peuvent modifier les
-fréquences alléliques d'une génération à l'autre :
+Dans la réalité, il existe de multiples causes qui peuvent modifier les fréquences alléliques d'une génération à l'autre :
 
--   Les mutations dans les cellules germinales (gamètes).
+* Les mutations dans les cellules germinales (gamètes).
+* La dérive génétique. Cela correspond au « tirage au sort » lors de la formation des gamètes qui peut ne pas être représentatif de la population.
+* Lorsque la rencontre entre les deux gamètes n'est pas aléatoire.
+* Des différences de taux de survie et de fécondité en fonction des allèles. C'est ce que l'on appelle la valeur sélective.
+* Les migrations avec des fréquences alléliques différentes de la population étudiée.
 
--   La dérive génétique. Cela correspond au « tirage au sort » lors de
-    la formation des gamètes qui peut ne pas être représentatif de la
-    population.
-
--   Lorsque la rencontre entre les deux gamètes n'est pas aléatoire.
-
--   Des différences de taux de survie et de fécondité en fonction des
-    allèles. C'est ce que l'on appelle la valeur sélective.
-
--   Les migrations avec des fréquences alléliques différentes de la
-    population étudiée.
-
-Distorsion de ségrégation miotique groupe de gènes souvent situé sur le
-même chromosome transmis ensemble qui confère un avantage sélectif. Par
-exemple, l'absence de ce groupe entraine la mortalité du gamète.
+__Distorsion de ségrégation miotique__ groupe de gènes souvent situé sur le même chromosome transmis ensemble qui confère un avantage sélectif. Par exemple, l'absence de ce groupe entraine la mortalité du gamète.
 
 En fonction du nombre d'allèles, on qualifiera l'équilibre de :
 
-|                                |                             |
-|--------------------------------|-----------------------------|
-| Polymorphe (plusieurs allèles) | Monomorphe (1 seul allèles) |
+* Polymorphe (plusieurs allèles)
+* Monomorphe (1 seul allèles).
 
 ### Hypothèse en cas d'absence de phénotype intermédiaire
 
-Dans le cas où le phénotype intermédiaire n'existe pas, on peut faire
-calculer les fréquences alléliques en faisant l'hypothèse que la
-population est à l'équilibre.
+Dans le cas où le phénotype intermédiaire n'existe pas, on peut calculer les fréquences alléliques en faisant l'hypothèse que la population est à l'équilibre.
 
 ### Vérifier si une population est à l'équilibre
 
 1.  Calculer les effectifs théoriques.
-
 2.  Comparer les résultats attendus avec les fréquences réelles.
 
 $$X^{2} = \sum_{}^{}\frac{(eff\ théor. - eff\ obser)²}{eff\ théor}$$
@@ -188,59 +161,41 @@ $$X^{2} = \sum_{}^{}\frac{(eff\ théor. - eff\ obser)²}{eff\ théor}$$
 
 Utilisation du test du Khi-2 :
 
--   Le degré de liberté : nombre de paramètres indépendants, c'est le
-    nombre d'allèles pour un gène -1 car la somme des fréquences
-    alléliques est égale à 1.
-
--   $\alpha$ le taux d'erreur accepté : probabilité de rejeter H~0~
-    alors que c'est vrai.
-
--   $\beta$ probabilité d'accepter H~0~ alors que c'est faux.
+* Le degré de liberté : nombre de paramètres indépendants, c'est le nombre d'allèles pour un gène -1 car la somme des fréquences alléliques est égale à 1.
+* $\alpha$ le taux d'erreur accepté : probabilité de rejeter $H_{0}$ alors que c'est vrai.
+* $\beta$ probabilité d'accepter H~0~ alors que c'est faux.
 
 Si $X^{2} < X²(\alpha)$, on dira alors que l'on ne rejette pas H~0~. La
 population est à l'équilibre.
 
-[Rmq :]{.underline} Généralement, on calcul à partir des fréquences
-alléliques observées les phénotypes théoriques à obtenir si la
-population est à l'équilibre. On vérifie ensuite que la conformité des
-résultats en utilisant le test du Khi-2.
+!!! note
+    Généralement, on calcul à partir des fréquences alléliques observées les phénotypes théoriques à obtenir si la population est à l'équilibre. On vérifie ensuite que la conformité des résultats en utilisant le test du Khi-2.
 
 # Mutation
 
 On parle notamment du taux de mutation par gamète et par génération.
 
-Pour un allèle A de fréquence P~n~ avec un taux de mutation $u$, sa
-fréquence à la génération suivante est : $P_{n + 1} = P_{n} - uP_{n}$
+Pour un allèle A de fréquence P~n~ avec un taux de mutation $u$, sa fréquence à la génération suivante est : $P_{n + 1} = P_{n} - uP_{n}$
 
-Les mutations récurrentes influencent peu les fréquences alléliques
-seules. Combinées avec d'autres facteurs évolutifs (environnement...),
-elles permettent de créer la variabilité initiale.
+Les mutations récurrentes influencent peu les fréquences alléliques seules. Combinées avec d'autres facteurs évolutifs (environnement...), elles permettent de créer la variabilité initiale.
 
-Taux mutation reverse taux de mutation qui annule la mutation.
+__Taux mutation reverse__ taux de mutation qui annule la mutation.
 
-Le taux de mutation chez les Végétaux et les Animaux est d'environ 1
-pour 100 000 gènes.
+Le taux de mutation chez les Végétaux et les Animaux est d'environ 1 pour 100 000 gènes.
 
 # La dérive génétique
 
-Dérive génétique fluctuation aléatoire des fréquences alléliques d'une
+__Dérive génétique__ fluctuation aléatoire des fréquences alléliques d'une
 génération à une autre. Elle n'est pas prédictible.
 
-Les effets de la dérive génétique sont particulièrement importants sur
-les populations avec de petits effectifs comme lorsqu'un groupe
-d'individus qui fonde une nouvelle population. La dérive peut alors
-provoquer l'accumulation d'allèles néfastes pour la survie de la
-population.
+Les effets de la dérive génétique sont particulièrement importants sur les populations avec de petits effectifs comme lorsqu'un groupe
+d'individus fonde une nouvelle population. La dérive peut alors provoquer l'accumulation d'allèles néfastes pour la survie de la population.
 
-Ces changements de fréquences ont un impact important sur les
-populations de faibles effectifs et particulièrement vulnérables à
-l'apparition de mutants même si elles sont rares.
+Ces changements de fréquences ont un impact important sur les populations de faibles effectifs et particulièrement vulnérables à l'apparition de mutants même si elles sont rares.
 
-Effet fondateur perte de la diversité génétique qui se produit lorsqu'un
-petit nombre d'individus fonde une nouvelle population.
+__Effet fondateur__ perte de la diversité génétique qui se produit lorsqu'un petit nombre d'individus fonde une nouvelle population.
 
-Effet goulot réduction radicale du nombre d'individus d'une population
-et ainsi de sa diversité génétique à la suite d'une catastrophe.
+__Effet goulot__ réduction radicale du nombre d'individus d'une population et ainsi de sa diversité génétique à la suite d'une catastrophe.
 
 [La théorie neutraliste]{.mark}
 
@@ -266,25 +221,17 @@ de panmixie pour les rencontres entre les individus).
 
 Les causes de croisements non-panmixie peuvent être dû à :
 
--   Autofécondation
-
--   Consanguinité (de choix, de position ou dû au faible effectif)
-
--   Homogamie (et hétérogamie) c'est lorsqu'un individu a tendance à se
-    reproduire avec un partenaire avec qui, il partage le même
-    phénotype.
+* Autofécondation
+* Consanguinité (de choix, de position ou dû au faible effectif)
+* Homogamie (et hétérogamie) c'est lorsqu'un individu a tendance à se reproduire avec un partenaire avec qui, il partage le même phénotype.
 
 ## L'autofécondation
 
-À l'équilibre, on aura uniquement des homozygotes car même si l'individu
-est hétérozygote (Aa), ces descendants auront 50% de chance de conserver
-l'hétérozygote : $1 = \frac{1}{4}AA + \frac{1}{2}Aa + \frac{1}{4}aa$
+À l'équilibre, on aura uniquement des homozygotes car même si l'individu est hétérozygote (Aa), ces descendants auront 50% de chance de conserver l'hétérozygote : $1 = \frac{1}{4}AA + \frac{1}{2}Aa + \frac{1}{4}aa$
 
-La probabilité d'hétérozygote diminue de moitié à chaque génération :
-$\ H_{n + 1} = 0,5.H_{n}$
+La probabilité d'hétérozygote diminue de moitié à chaque génération : $\ H_{n + 1} = 0,5.H_{n}$
 
-La perte des hétérozygotes est extrêmement rapide et tout le génome est
-concerné.
+La perte des hétérozygotes est extrêmement rapide et tout le génome est concerné.
 
 <table>
 <colgroup>
@@ -301,40 +248,28 @@ class="math display"><em>A</em><sub><em>n</em></sub> = <em>A</em><sub>0</sub
 </tbody>
 </table>
 
-Ainsi, sur le long terme (c'est-à-dire quand n tend vers l'infini), les
-fréquences alléliques ne changent pas.
+Ainsi, sur le long terme (c'est-à-dire quand n tend vers l'infini), les fréquences alléliques ne changent pas.
 
-Dans la Nature et notamment chez les plantes, il existe des mécanismes
-d'auto-incompatibilité qui permettent de prévenir en partie
-l'autofécondation.
+Dans la Nature et notamment chez les plantes, il existe des mécanismes d'auto-incompatibilité qui permettent de prévenir en partie l'autofécondation.
 
 ## Consanguinité
 
 Les principales causes de consanguinité sont :
 
--   Des facteurs culturels pour les hommes.
+* Des facteurs culturels pour les hommes.
+* L'absence de choix de partenaires les populations avec peu d'individus.
 
--   L'absence de choix de partenaires les populations avec peu
-    d'individus.
+Un individu est autozygote s'il possède pour un gène deux allèles identiques issue d'un unique ancêtre.
 
-Un individu est autozygote s'il possède pour un gène deux allèles
-identiques issue d'un unique ancêtre.
+__Parenté__ deux individus partageant au moins un ancêtre commun. 
 
-Parenté deux individus partageant au moins un ancêtre commun. 
+__Coefficient de parenté__ probabilité qu'un allèle à un locus soit identique entre deux individus. Cela revient à calculer le coefficent de consanguinité pour un descendant fictif entre ces deux individus.
 
-Coefficient de parenté probabilité qu'un allèle à un locus soit
-identique entre deux individus. Cela revient à calculer le coefficent de
-consanguinité pour un descendant fictif entre ces deux individus.
+__Consanguinité__ individu issu d'un croisement de deux individus apparentés. 
 
-Consanguinité individu issu d'un croisement de deux individus
-apparentés. 
+Le coefficient de consanguinité noté $f_{i}$ issu d'un croisement de deux individus apparentés. C'est le pourcentage de gènes autozygotes pour un individu.
 
-Coefficient de consanguinité noté $f_{i}$ issu d'un croisement de deux
-individus apparentés. C'est le pourcentage de gènes autozygotes pour un
-individu.
-
-Soit A a deux descendants : B et C. On sait que A possède pour F~a~ de
-gènes identiques (autozygotes).
+Soit A a deux descendants : B et C. On sait que A possède pour F~a~ de gènes identiques (autozygotes).
 
 Quelle est la probabilité de trouver des gènes identiques entre C et B ?
 
@@ -357,9 +292,8 @@ indirectement le génotype.
 
 Le nombre moyen de descendants viables et fertiles dépend du taux de :
 
-|                            |                              |
-|----------------------------|------------------------------|
-| Survie (valeur adaptative) | Fécondité (valeur sélective) |
+* Survie (valeur adaptative)
+* Fécondité (valeur sélective)
 
 Valeur sélective (ou fitness) nombre moyen de descendants viables et
 fertiles laissé par cet individu.
@@ -405,14 +339,8 @@ Pour un caractère donné, la sélection naturelle conduit soit à favoriser
 
 La sélection sexuelle peut donner lieu à un dimorphisme :
 
--   Intrasexuelle (entre les individus du même sexe). Cela donne souvent
-    lieu à un mâle dominant qui dispose d'un groupe de femelles. La
-    dominance s'établie souvent au cours de parade ou de lutte entre les
-    individus du même sexe.
-
--   Sélection intersexuelle : sélection par un des sexes sur l'autre.
-    C'est généralement la femelle qui choisit le partenaire qui
-    maximisent le nombre de caractères indicateurs de « bons gènes ».
+* Intrasexuelle (entre les individus du même sexe). Cela donne souvent lieu à un mâle dominant qui dispose d'un groupe de femelles. La dominance s'établie souvent au cours de parade ou de lutte entre les individus du même sexe.
+* Sélection intersexuelle : sélection par un des sexes sur l'autre. C'est généralement la femelle qui choisit le partenaire qui maximise le nombre de caractères indicateurs de « bons gènes ».
 
 # Migration
 

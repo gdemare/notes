@@ -1,6 +1,6 @@
 __Transloquer__ déplacer d\'un endroit à un autre.
 
-Les protéines peuvent être classées en trois types :
+Les protéines peuvent être classées en trois types en fonction de leur forme :
 
 * Fibreuse. Elles sont en forme de filament et ne sont généralement pas solubles. Elles jouent un rôle structurel. Par exemple, le collagène, kératines ...
 * Globuleuse ou sphéroprotéines. Elles sont sphériques et solubles. Elles servent d'enzymes, de transporteurs ou de messagers.
@@ -25,19 +25,17 @@ Les modifications traductionnelles des protéines permettent :
 
 ## L'adressage des protéines
 
-Les protéines sont adressées au compartiment de destination grâce à une
-séquence de leur chaine peptidique appelée séquence signale ou facteur
-d'adressage qui se situe généralement en N-term.
+Les protéines sont adressées au compartiment de destination grâce à une séquence de leur chaine peptidique appelée séquence signale ou facteur d'adressage qui se situe généralement en N-term.
 
-Destination | Séquence signale
----|---
+Destination             | Séquence signale
+------------------------|-----------------
 Réticulum endoplasmique | SRF
-Mitochondrie | MSF
-Noyau | NLS
+Mitochondrie            | MSF
+Noyau                   | NLS
 
 ### L'adressage au noyau
 
-Pour qu'une protéine puisse intégrer le noyau, il faut qu'elle possède une séquence signal appelée NLS (Nuclear localization signal).
+Pour qu'une protéine intégre le noyau, il faut qu'elle possède une séquence signale appelée NLS (Nuclear localization signal).
 
 1. Une protéine appelée importine vient se fixer sur la protéine à destination du noyau.
 2. Le complexe est transloqué par le pore nucléaire appelé nucléoporines.
@@ -62,8 +60,7 @@ translocation peut se faire :
 !!! note
     La translocation co-traductionnelle est présente essentiellement chez les eucaryotes complexes.
 
-L'entrée se faire par un complexe protéique appelé sec 61 ou translocon. Il est inséré dans la membrane du RE et il possède des plusieurs sites
-pouvant servir à :
+L'entrée se faire par un complexe protéique appelé sec 61 ou translocon. Il est inséré dans la membrane du RE et il possède des plusieurs sites pouvant servir à :
 
 * Cliver la séquence signale, une fois que la chaine peptidique a pénétrée dans la lumière du RE.
 * Réaliser une modification post traductionnelle.

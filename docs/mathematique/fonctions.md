@@ -32,24 +32,25 @@ Propriétés exponentielle :
 
 Le logarithme népérien a été inventé pour simplifier le produit lors q. Il donne une correspondance entre deux opérations élémentaires : le produit et la somme.
 
-Axe multiplicatif | Puissance | Axe additif
----|---|---
-1 | $2^{0}$ | 0
-2 | $2^{1}$ | 1
-4 | $2^{2}$ | 2
-8 | $2^{3}$ | 3
-16 | $2^{4}$ | 4
-32 | $2^{5}$ | 5
-64 | $2^{6}$ | 6
-128 | $2^{7}$ | 7
-256 | $2^{8}$ | 8
-512 | $2^{9}$ | 9
+Axe multiplicatif 	| Puissance | Axe additif
+--------------------|-----------|---------------------
+1                 	| $2^{0}$  	| 0
+2 					| $2^{1}$	| 1
+4 					| $2^{2}$ 	| 2
+8 					| $2^{3}$ 	| 3
+16 					| $2^{4}$ 	| 4
+32 					| $2^{5}$ 	| 5
+64 					| $2^{6}$ 	| 6
+128 				| $2^{7}$ 	| 7
+256 				| $2^{8}$ 	| 8
+512 				| $2^{9}$ 	| 9
 
-_Exemple_ On cherche à calculer 8x2
+!!! example
+	On cherche à calculer 8x2
 
-1. On 2 correspond à 1 et 8 correspond à 3
-2.  1+3=4
-3.  4 correspond 16
+	1. On 2 correspond à 1 et 8 correspond à 3
+	2.  1+3=4
+	3.  4 correspond 16
 
 !!! note
   Les valeurs du log étaient regroupées dans des tables. Elles permirent de gagner un temps considérable dans les calculs avant l\'invention des calculateurs.
@@ -61,9 +62,9 @@ Propriétés du logarithme :
 
 ## Équation différentielle
 
-Equation différentielle | Solution | Description
----|---|---
-$y^{'} + Ay = 0$ | $y = ke^{- ax}$ | equation différentielle d'ordre 2
+Equation différentielle	| Solution 			| Description
+------------------------|-------------------|---
+$y^{'} + Ay = 0$ 		| $y = ke^{- ax}$	| Equation différentielle d'ordre 2
 
 ## Les polynômes
 
@@ -74,11 +75,11 @@ Déterminer les valeurs pour lesquels $f(x) = 0$. Ces méthodes sont également 
     1. Calculer le delta : $\mathrm{\Delta} = b^{2} - 4ac$
     2. Si delta est :
 
-Delta | nb de solutions
----|---
-$\mathrm{\Delta} < 0$ | 0
-$\mathrm{\Delta} = 0$ | 1
-$\mathrm{\Delta} > 0$ | 2
+Delta 					| Nb de solutions
+------------------------|----------------
+$\mathrm{\Delta} < 0$	| 0
+$\mathrm{\Delta} = 0$	| 1
+$\mathrm{\Delta} > 0$	| 2
 
 Solution donnée par $x_{i} = \frac{- b \pm\sqrt{}\mathrm{\Delta}}{2a}$
 
@@ -92,20 +93,20 @@ Dérivée |   Connaitre les variations
 
 Tangente :   $f^{'}(a)(x - a) + f(a)$
 
-Calculer l'aire sous la courbe (primitive) :$\int_{}^{}{f(x)\ dx} = \ F(x) + C$
+Calculer l'aire sous la courbe (primitive) : $\int_{}^{}{f(x)\ dx} = \ F(x) + C$
 
-$\mathbf{f(x)}$ | $\mathbf{f'(x)}$
----|---
-$\mathbf{u + v}$ | $u' + v'$
-$\mathbf{u}^{\mathbf{n}}$ | $n \times u' \times u^{n - 1}$
-$\mathbf{u \times v}$ | $u^{'}v + uv'$
-$\frac{\mathbf{u}}{\mathbf{v}}$ | $\frac{u^{'}v - uv'}{v^{2}}$
+$\mathbf{f(x)}$					| $\mathbf{f'(x)}$
+--------------------------------|---
+$\mathbf{u + v}$ 				| $u' + v'$
+$\mathbf{u}^{\mathbf{n}}$		| $n \times u' \times u^{n - 1}$
+$\mathbf{u \times v}$			| $u^{'}v + uv'$
+$\frac{\mathbf{u}}{\mathbf{v}}$	| $\frac{u^{'}v - uv'}{v^{2}}$
 
-$\mathbf{f(x)}$ | $\mathbf{f'(x)}$
----|---
-$\mathbf{e}^{\mathbf{u}}$ | $u'e^{u}$
-$\mathbf{ln}\mathbf{(u)}$ | $\frac{u'}{u}$
-$\mathbf{\cos}\mathbf{(u)}$ | $- u' \times \sin u$
+$\mathbf{f(x)}$ 			| $\mathbf{f'(x)}$
+----------------------------|---
+$\mathbf{e}^{\mathbf{u}}$	| $u'e^{u}$
+$\mathbf{ln}\mathbf{(u)}$	| $\frac{u'}{u}$
+$\mathbf{\cos}\mathbf{(u)}$	| $- u' \times \sin u$
 $\mathbf{\sin}\mathbf{(u)}$ | $u' \times \cos u$
 $\mathbf{\tan}\mathbf{(u)}$ | $u' \times (1{{+ (tan}u)}^{2})$
 
@@ -128,6 +129,6 @@ Multiplié par le conjugué $(a + \sqrt{}b)(a - \sqrt{b})$
 
 ## Ajustement
 
-Nom | Fonction 
----|---
-Exponentiel | $${ae}^{- b.x}$$
+Nom	 		| Fonction 
+------------|---
+Exponentiel	| ${ae}^{- b.x}$

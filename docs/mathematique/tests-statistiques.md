@@ -1,10 +1,82 @@
-Les tests statistiques servent à vérifier si les données obtenues
-sont compatibles avec une propriété (par exemple, une moyenne théorique)
-et les différences observées dû au hasard de l\'échantillonnage.
+## Résumé des tests
+
+Calcul de p-value directement en ligne [BiostaTGV](https://biostatgv.sentiweb.fr/?module=tests)
+[Tests](https://www.anastats.fr/telechargements/)
+
+* H0 : l'hypothèse la plus simple (ou contraignante). Par exemple, les moyennes sont égales.
+* H1 : la négation de H0.
+
+p-valeur probabilité d'obtenir une valeur aussi extrême sous l'hypohtèse H0.
+En fonction du seuil fixé, il n'est pas possible d'accepter H0 car le risque béta n'est pas estimable càd le risque de rejeté H1 sous l'hypothèse. Le résultat du test est alors :
+* On ne peut pas rejeté H0.
+* On rejette H0.
+
+On parle de tests paramétriques lorsque les observations suivent une loi statistique et non paramètrique lorsque la loi de répartition n'est pas connue.
+
+* **(1)** indépendance.
+* **(2)** égalité des variances (homoscédasticité).
+* **(3)** n>20.
+* **(4)** normalité.
+* **(5)** effectifs théoriques>5.
+
+## Une distribution
+
+H0                        | Test
+--------------------------|---------------------
+Normalité                 | Shapiro-Wilk
+Pas de valeurs extrêmes   | Dixon
+Pas de valeurs extrêmes   | Grubbs
+
+## Un échantillon et une valeur théorique
+
+H0          | Condition | Test
+------------|-----------|------------------
+Moyenne     | 4         | student (appelé aussi test t)
+Proportion  |           | Khi2
+Variance    |           | Khi2
+
+## Paramètre de plusieurs échantillons
+
+H0                      | Taille    | Condition     | Test
+------------------------|-----------|---------------|---
+Egalité des moyennes    | 2         | 1,2,3         | Test t
+____________________    | 2         |               | Mann-Whitney
+____________________    | n         | 1,2,4 ou 3    | ANOVA
+____________________    | n         |               | Kruskal-Wallis
+Egalité des proportions | k         | 4             | Khi2
+Egalité des variances   | 2         |               | Fisher
+_____________________   | k         | 4             | Bartlett
+_____________________   | k         |               | Test de Levene
+
+## Deux distributions
+
+H0                                                | Condition   | Test
+--------------------------------------------------|-------------|-----------------------
+Même distribution entre une loi et un échantillon |             | Kolmogorov-Smirnov
+__________________                                | 1,2,3 ou 4  | Test t
+__________________ entre deux échantillons        |             | Wilcoxon-Mann-Whitney
+Egalités des positions (séries binaires)          |             | Q de Cochran
+
+## Corrélation
+
+h0 : indépendance des deux variables
+
+Type        | var                           | Condition | Test
+------------|-------------------------------|-----------|-------------
+Linéaire    | 2 var quant                   |           | Pearson
+Rang        | 2 var quant                   | 3,4       | Spearman
+            | 2 var quali                   | 1,5       | d’association du Khi2
+            | 2 var quali                   |           | exact de Fisher
+            | 2 var quali                   |           | Méthode de Monte Carlo
+            | 1 var quali et 1 var quanti   |           | ANOVA
+
+## Cours tests statistiques et interprétation
+
+
+Les tests statistiques servent à vérifier si les données obtenues sont compatibles avec une propriété (par exemple, une moyenne théorique) et les différences observées dû au hasard de l\'échantillonnage.
 
 * $H_{0}$ la différence vient de l'échantillonnage.
 * $H_{1}$ différence entre l'échantillon et la population.
-
 
 Choix/Réalité | $H_{0}$      | $H_{1}$
 --------------|--------------|-------------- 
@@ -178,4 +250,5 @@ Ajuster les p-valeur en les augmentant.
 Family wise error rate 
 
 * méthode Bonferroni corrige toutes les p valeurs en une fois. est trop restrictive 
-* méthode d’Holm qui corrige de facon séquentielle chaque p valeur.*
+* méthode d’Holm qui corrige de facon séquentielle chaque p valeur.
+

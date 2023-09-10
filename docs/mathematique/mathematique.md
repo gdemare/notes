@@ -1,12 +1,18 @@
+## Domaines
+
+* __Algébre__
+* __Géométrie__ 
+* __Probabilité__
+* __Statistique__ études des phénomènes à travers la collecte de données, leur traitement, leur analyse, et l'interprétation des résultats. Elle comprend également la présentation des données et des résultats. La statistique appartient à l'ensemble de la science de la donnée.
 
 ## Les connecteurs logiques
 
-* $\mathbf{A}\overset{}{\Rightarrow}\mathbf{B}$ $A$ est une condition suffisante de $B$.
-* $\mathbf{A}\overset{}{\Rightarrow}\mathbf{B}$ FAUX seulement si $A\ $est Vraie implique $B$ est faux.
-*  nécessaire Faux.
-* $$\mathbf{A\ et\ non(B)}$$
-* $$\mathbf{non}\left( \mathbf{B} \right)\mathbf{\ }\overset{}{\Rightarrow}\mathbf{non(A)}$$ Contraposée est vrai seulement si
+Pas clair à revoir
 
+* $\mathbf{A}\overset{}{\Rightarrow}\mathbf{B}$ : $A$ est une condition suffisante de $B$.
+* $\mathbf{A}\overset{}{\Rightarrow}non(B)$ : $A$ est vraie implique $B$ est faux.
+* $\mathbf{A\ et\ non(B)}$
+* $\mathbf{non}\left( \mathbf{B} \right)\mathbf{\ }\overset{}{\Rightarrow}\mathbf{non(A)}$ Contraposée est vrai seulement si
 * $A\overset{}{\Rightarrow}B$ l'est aussi
 * $$\overset{}{\Rightarrow}\mathbf{A}$$ Réciproque
 
@@ -37,20 +43,26 @@ Majuscule | Minuscule | Nom
 
 ## Unité et conversion
 
-Relation volume : $1{km}^{3} = {{(10}^{3})}^{3}m^{3}$
+Relation surface :
 
-Unité   | symbole         | Facteur                                  | Volume           
---------|-----------------|------------------------------------------|--------------
-kilo    | k               | 1${km}^{2} = {{(10}^{3})}^{2}m^{2}$ $$\mathbf{10}^{\mathbf{- 3}}$$  | 
-hecto   | h               | $$\mathbf{10}^{\mathbf{- 2}}$$          |
-Déca    | da              | $$\mathbf{10}^{\mathbf{- 1}}$$           | $1L = 1{dm}^{3}$ 
-Unité   | 1L = 1 kg d'eau | $$\mathbf{10}^{\mathbf{0}}\mathbf{= 1}$$ |
-Déci    | d               | $$\mathbf{10}^{\mathbf{1}}$$             | 
-Centi   | c               | $$\mathbf{10}^{\mathbf{2}}$$             | 
-Milli   | m               | $$\mathbf{10}^{\mathbf{3}}$$             |
-Micro   | μ               | $$\mathbf{10}^{\mathbf{6}}$$             |
-Nano    | n               | $$\mathbf{10}^{\mathbf{9}}$$             |
-H
+Unité 				| Symbole			| Grandeur
+--------------------|-------------------|-------
+kilo 				| k 				| $\mathbf{10}^{\mathbf{- 3}}$ 
+Hecto				| h 				| $\mathbf{10}^{\mathbf{- 2}}$
+Déca 				| da 				| $\mathbf{10}^{\mathbf{- 1}}$ 
+Unité				|  	| $\mathbf{10}^{\mathbf{0}}\mathbf{= 1}$
+Déci  				| d 				| $\mathbf{10}^{\mathbf{1}}$
+Centi 				| c 				| $\mathbf{10}^{\mathbf{2}}$
+Milli 				| m 				| $\mathbf{10}^{\mathbf{3}}$
+Micro 				| μ 				| $\mathbf{10}^{\mathbf{6}}$
+Nano  				| n 				| $\mathbf{10}^{\mathbf{9}}$
+
+
+* Relation surface $1km^{2} = {{(10}^{3})}^{2}m^{2}$
+* Relation volume :
+	* $1{km}^{3} = {{(10}^{3})}^{3}m^{3} = {10}^{9}m^{3}$
+	* Relation avec le litre $1L = 1{dm}^{3} = 1 kg$ eau 
+
 ## Identités remarquables
 
 Factoriser et développer
