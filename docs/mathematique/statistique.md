@@ -1,10 +1,16 @@
 ### Vocabulaire
 
 * __Échantillon__ réalisation n fois indépendamment d'une variable aléatoire.
-
+* __Loi de probabilité__ la distribution des probabilité d'une loi aléatoire.
+* __Densité de probabilité__ (uniquement numérique continue).
 
 $X$ de la loi $f_{x}$ et de fonction de répartition $F_{x}$ on note
 ($X_{1}$, ...$X_{n}$)
+
+!!! note 
+    Dans un étude il faut commencer par se demander :
+    * quel est l'indicateur mesuré ?
+    * que sont les individus ?
 
 ## Estimateurs des indicateurs et théorie des grands nombres
 

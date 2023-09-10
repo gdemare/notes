@@ -14,8 +14,6 @@ La meilleure manière pour savoir si deux variables sont corrélées est une rep
 
 ## V de Cramer
 
-
-
 * > 0.2 :
 * > 0.1 :
 
