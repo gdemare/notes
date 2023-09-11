@@ -73,7 +73,8 @@ nav:
     - Grammaire : anglais/grammaire.md
     - "Ortographe et vocabulaire" : anglais/ortographe-vocabulaire.md
   - Biologie :
-    - Biochimie : 
+    - Biochimie :
+      - "Biomolécules" : biologie/biochimie/biomolecules.md
       - Enzymologie : biologie/biochimie/enzymologie.md
       - "Photosynthèse et métabolisme secondaire" : biologie/biochimie/photosynthese-metabolisme-secondaire.md
     - Bioinformatique :
