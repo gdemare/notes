@@ -104,7 +104,7 @@ Avec :
 
 La plupart des réactions se font à pression constante (transformation isobare).
 
-$$\mathbf{Q}_{\mathbf{p}}\mathbf{= \mathrm{\Delta}H}$$
+$\mathbf{Q}_{\mathbf{p}}\mathbf{= \mathrm{\Delta}H}$
 
 Enthalpie chaleur échangée à pression constante ($P = 1\ atm$). Elle est notée $\mathrm{\Delta}H$.
 
@@ -135,24 +135,17 @@ pour former les produits moins celles des réactifs.
 $\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{T}}^{\mathbf{0}}\mathbf{=}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}{\mathbf{.}\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{T}}^{\mathbf{0}}\mathbf{(}\mathbf{produits}\mathbf{) -}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}{\mathbf{.}\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{T}}^{\mathbf{0}}\mathbf{(}\mathbf{r}\mathbf{é}\mathbf{actifs}\mathbf{)}$
 
 Avec :
-| $\mathbf{\nu}$ coefficients stœchiométriques                          |
-| ($\mathbf{2}\mathbf{H}_{\mathbf{2}}\mathbf{O}$)                       |
-|                                                                       |
-| $\mathbf{\mathr                                                       |
-| m{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}}$enthalpie |
-| de réaction                                                           |
-|                                                                       |
-| ${\mathb                                                              |
-| f{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}}$ |
-| enthalpie de formation                                                |
-+-----------------------------------------------------------------------+
+
+* $\mathbf{\nu}$ coefficients stœchiométriques ($\mathbf{2}\mathbf{H}_{\mathbf{2}}\mathbf{O}$)
+* $\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}}$ enthalpie de réaction
+* ${\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}}$ enthalpie de formation                                               
 
 !!! note
   L'enthalpie de formation des corps simples c'est-à-dire de molécules constituées d'un seul type d'atomes est nul ($0 KJ.mol^{-1}$).
 
 Lorsqu'il y a un changement de température, il faut ajouter l'énergie nécessaire pour faire la transformation :
 
-$$\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}\mathbf{2}}\mathbf{=}{\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}} + \lbrack\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}C_{p}\left( \mathbf{produits} \right)\mathbf{-}\sum_{}^{}{\mathbf{\nu}_{\mathbf{i}}C_{p}}\left( \mathbf{r}\mathbf{é}\mathbf{actifs} \right)\mathbf{\rbrack(}\mathbf{T}_{\mathbf{2}}\mathbf{-}\mathbf{T}_{\mathbf{1}}\mathbf{)}$$
+$\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}\mathbf{2}}\mathbf{=}{\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}} + \lbrack\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}C_{p}\left( \mathbf{produits} \right)\mathbf{-}\sum_{}^{}{\mathbf{\nu}_{\mathbf{i}}C_{p}}\left( \mathbf{r}\mathbf{é}\mathbf{actifs} \right)\mathbf{\rbrack(}\mathbf{T}_{\mathbf{2}}\mathbf{-}\mathbf{T}_{\mathbf{1}}\mathbf{)}$
 
 $\mathbf{C}_{\mathbf{p}}$ capacité calorifique en $mol^{-1}$.
 
@@ -186,13 +179,12 @@ Lorsqu'un élément est présent à la fois comme réactif et comme produit, il 
 
 Pour les gaz, à pression constante, on a :
 
-* $$\mathbf{\mathrm{\Delta}H}_{\mathbf{r}}\mathbf{= \mathrm{\Delta}U + \mathrm{\Delta}n.R.T}$$
+* $\mathbf{\mathrm{\Delta}H}_{\mathbf{r}}\mathbf{= \mathrm{\Delta}U + \mathrm{\Delta}n.R.T}$
 * $\mathbf{\mathrm{\Delta}n}$ différence de quantité de matière.
 
 # 2ème principe de la thermodynamique : l'entropie
 
-Sans apport d'énergie extérieur, la matière se tend vers un état de
-désordre :
+Sans apport d'énergie extérieur, la matière se tend vers un état de désordre :
 
 * La matière se désorganise
 * L'énergie se disperse
@@ -204,19 +196,16 @@ L'entropie est une approche probabiliste du monde. Elle se définit comme l'éta
 !!! note
     Sur Terre, les rayons du soleil constituent un apport en énergie.
 
-Une réaction est spontanée seulement si l'entropie augmente c'est-à-dire
-$\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{> 0}$ :
+Une réaction est spontanée seulement si l'entropie augmente c'est-à-dire $\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{> 0}$ :
 
 ${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mathbf{sys}} + {\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}}$ S entropie en $J.K^{-1}$
 
 !!! warning
     L'entropie peut diminuer dans le système étudié mais augmenter à l'extérieur.
 
-Une réaction réversible lorsque
-$\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{= 0}$.
+Une réaction réversible lorsque $\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{= 0}$.
 
-Si l'on considère le milieu externe est comme stable et qui n'échange pas de matière avec le système étudié alors :
-$\mathbf{S}_{\mathbf{ext}} = \frac{\mathbf{Q}}{\mathbf{T}}$ pour connaitre la variation d'entropie entre un état initial et un final il faut : ${\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}} = \int_{}^{}{\frac{\mathbf{Q}}{\mathbf{T}}\ }$
+Si l'on considère le milieu externe est comme stable et qui n'échange pas de matière avec le système étudié alors : $\mathbf{S}_{\mathbf{ext}} = \frac{\mathbf{Q}}{\mathbf{T}}$ pour connaitre la variation d'entropie entre un état initial et un final il faut : ${\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}} = \int_{}^{}{\frac{\mathbf{Q}}{\mathbf{T}}\ }$
 
 **Déterminer l'entropie du système étudié**
 
@@ -245,7 +234,7 @@ Par la combinaison linéaire de réactions. Cela revient à passer par des réac
 
 Pour qu'une réaction soit spontanée, on aura :
 
-$${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mathbf{sys}} - \frac{{\mathrm{\Delta}\mathbf{H}}_{\mathbf{sys}}}{\mathbf{T}} > 0$$
+${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mathbf{sys}} - \frac{{\mathrm{\Delta}\mathbf{H}}_{\mathbf{sys}}}{\mathbf{T}} > 0$
 
 Ce qui revient à calculer l'enthalpie libre
 
@@ -264,7 +253,7 @@ L'état d'équilibre (ou final) d'une réaction correspond à une enthalpie mini
 
 Le potentiel chimique d'un constituant permet d'étudier la stabilité d'une espèce chimique :
 
-$$\mu_{i} = \frac{dG}{{dn}_{i}}$$
+$\mu_{i} = \frac{dG}{{dn}_{i}}$
 
 La mesure du potentiel chimique de chaque composant a été déterminée à T=298K et P=1Bar. Elle est notée $\mu_{i}^{0}$.
 
@@ -288,13 +277,12 @@ $a_{i}$ correspond à l'activité de l'espèce chimique. Il vaut si c'est :
 
 La pression partielle d'un gaz se calcule de la manière suivante :
 
-+---------------+------------------------------------------------------+
-| $             | $x_{i}$ fraction molaire =                           |
-| $p_{i} = x_{i | $\frac{n_{i}}{n_{tot}}\ a$vec $n$ le nombre de mol   |
-| }{.p}_{tot}$$ |                                                      |
-|               | $P_{tot}$ est la pression totale du mélange          |
-|               | (réactifs + inerte).                                 |
-+---------------+------------------------------------------------------+
+$x_{i}$ fraction molaire = $p_{i} = x_{i}{.p}_{tot}$
+
+Avec : 
+
+$\frac{n_{i}}{n_{tot}}\ a$vec $n$ le nombre de mol
+$P_{tot}$ est la pression totale du mélange (réactifs + inerte).
 
 !!! note
   Pour calculer les pressions partielles en utilisant la relation des gaz parfaits ($\frac{P_{ini}V}{P_{eq}V}$) à t~0\ ou\ ini~ et t~final\ ou\ eq~. Pour cela, on a besoin de connaitre la quantité de matière à t~0~ et t~final~, on aura alors $P_{eq} = \frac{{(n_{tot})}_{ini}}{{(n_{tot})}_{eq}} \times P_{ini}$.
@@ -303,17 +291,17 @@ La pression partielle d'un gaz se calcule de la manière suivante :
 
 Le quotient réactionnel permet de caractériser l'avancement de la réaction noté $Q_{r}$.
 
-$$\Delta_{r}G = \sum_{}^{}\nu_{i}\mu_{i}(produits) - \sum_{}^{}\nu_{i}\mu_{i}(réactifs) = \Delta_{r}G^{0} + RT.ln(Q_{r})$$
+$\Delta_{r}G = \sum_{}^{}\nu_{i}\mu_{i}(produits) - \sum_{}^{}\nu_{i}\mu_{i}(réactifs) = \Delta_{r}G^{0} + RT.ln(Q_{r})$
 
 C'est le rapport entre les produits et les réactifs.
 
-$$Q_{r} = \frac{\prod_{}^{}{a_{i}(produits)}^{\nu_{i}}}{\prod_{}^{}{a_{i}(réactifs)}^{\nu_{i}}}$$
+$Q_{r} = \frac{\prod_{}^{}{a_{i}(produits)}^{\nu_{i}}}{\prod_{}^{}{a_{i}(réactifs)}^{\nu_{i}}}$
 
 ### Constante d'équilibre
 
-L'équilibre d'une solution $\Delta_{r}G = 0$ lorsqu'il n'y a plus de variation de l'enthalpie. Le quotient réactionnel est noté : $K = Q_{r}\ $ .
+L'équilibre d'une solution $\Delta_{r}G = 0$ lorsqu'il n'y a plus de variation de l'enthalpie. Le quotient réactionnel est noté : $K = Q_{r}\$ .
 
-$$\Delta_{r}G^{0} = - RT.ln(K)$$
+$\Delta_{r}G^{0} = - RT.ln(K)$
 
 !!! note
     La constante d'équilibre K peut s'obtenir en passant par des réactions intermédiaires. Attention, la somme et la différence deviennent des puissances.
@@ -324,7 +312,7 @@ $$\Delta_{r}G^{0} = - RT.ln(K)$$
 Lorsque K :
 
 * $K\>1$ les produits majoritaires.
-* K\<1les réactifs majoritaires.
+* $K\<1$ les réactifs majoritaires.
 
 La réaction est totale pour $< 10^{- 3}$ ou ${> 10}^{3}$
 
@@ -352,8 +340,7 @@ La modification de pression peut se faire par trois moyens :
 
 ### Tableau d'avancement
 
-Pour suivre une réaction, on utilise généralement un tableau
-d'avancement :
+Pour suivre une réaction, on utilise généralement un tableau d'avancement :
 
 Temps          | Réactifs → Produits
 ---------------|--------------------------
@@ -371,13 +358,10 @@ Effet de la température : $lnK - lnK^{'} = \frac{\Delta_{r}H^{0}}{R}(\frac{1}{
 
 __Amphotère__ espèce chimique capable de réagir avec elle-même.
 
-L'autoprotolyse de l'eau est une réaction spontanée de
-
-$$2H_{2}O \rightleftharpoons H_{3}O^{+} + HO^{-}$$
+L'autoprotolyse de l'eau est une réaction spontanée de $2H_{2}O \rightleftharpoons H_{3}O^{+} + HO^{-}$
 
 Son
-$K_{e} = \frac{\left\lbrack H^{3}O^{+} \right\rbrack\left\lbrack HO^{-} \right\rbrack}{{\lbrack H^{2}O\rbrack}^{2}} = 10^{- 14}$
-comme $H\{2}O$ est le soluté alors $a_{H_{2}O} = 1$.
+$K_{e} = \frac{\left\lbrack H^{3}O^{+} \right\rbrack\left\lbrack HO^{-} \right\rbrack}{{\lbrack H^{2}O\rbrack}^{2}} = 10^{- 14}$ comme $H\{2}O$ est le soluté alors $a_{H_{2}O} = 1$.
 
 ## Acide Base
 
@@ -401,49 +385,30 @@ $pH = - log({\lbrack H}_{3}O^{+}\rbrack) = pK_{a} + log(\frac{\left\lbrack A^{-}
     Déterminer le pH d'une solution auquel on ajoute C d'une base
     $$A^{-} + H_{2}O \leftrightarrow AH + {HO}^{-}$$
     Espèces $\left\lbrack A^{-} \right\rbrack$   $\left\lbrack H_{2}O \right\rbrack$
-|  $$\lbrack AH\rbrack$$   $$\mathbf{\lbrack}{HO}^{-}\mathbf{\rbrack}$$ |
-|                                                                       |
-|   Concentration   $$\mathbf{c} - x$$                                  |
-|                                         $$x$$                   $$x$$ |
-|   --------------- -----------                                         |
-| --------------------------- --------------------------------------- - |
-| ---------------------- ---------------------------------------------- |
-|                                                                       |
-| $$K_{b} = \frac{\left\lbrack HO^{-} \right\rbrack.\lbr                |
-| ack AH\rbrack}{\left\lbrack A^{-} \right\rbrack} = \frac{x²}{c - x}$$ |
-|                                                                       |
-| Calcul du pH avec autoprotolyse de l'eau                              |
-|                                                                       |
-| Dans le cas où l'autoprotolyse de l'eau n'est pas négligeable, il     |
-| faut l'ajouter :                                                      |
-|                                                                       |
-| $$2H_{2}O \leftrightarrow {HO}^{-} + {H_{3}O}^{+}$$                   |
-|                                                                       |
-|   ----                                                                |
-| --------------------------------------------------------------------- |
-| --------------------------------------------------------------------- |
-|   Es                                                                  |
-| pèces          $$\mathbf{H}_{\mathbf{2}}\mathbf{O}$$   $$\mathbf{HO}^ |
-| {\mathbf{-}}$$   $${\mathbf{H}_{\mathbf{3}}\mathbf{O}}^{\mathbf{+}}$$ |
-|   ----                                                                |
-| ------------ --------------------------------------- ---------------- |
-| -------------- ------------------------------------------------------ |
-|   Concentration                                                       |
-|                                  $$y$$                          $$y$$ |
-|                                                                       |
-|   ----                                                                |
-| --------------------------------------------------------------------- |
-| --------------------------------------------------------------------- |
-|                                                                       |
-| Ainsi, on doit résoudre l'équation du second degré : $                |
-| $$$K_{e} = \left\lbrack H_{3}O^{+}                                    |
-| \right\rbrack\left\lbrack {HO}^{-} \right\rbrack = y \times (x + y)$$ |
-|                                                                       |
-| Dans le cas d'une base forte, on aurait :$                            |
-| K_{e} = \left\lbrack H_{3}O^{+}                                       |
-|  \right\rbrack\left\lbrack {HO}^{-} \right\rbrack = y \times (c + y)$ |
-| ce qui équivaut un résoudre un polynôme du second degré.              |
-+-----------------------------------------------------------------------+
+    $\lbrack AH\rbrack$$   $$\mathbf{\lbrack}{HO}^{-}\mathbf{\rbrack}$
+
+
+Concentration   $\mathbf{c} - x$ $x$ $x$
+
+$K_{b} = \frac{\left\lbrack HO^{-} \right\rbrack.\lbrack AH\rbrack}{\left\lbrack A^{-} \right\rbrack} = \frac{x²}{c - x}$ |
+
+Calcul du pH avec autoprotolyse de l'eau
+
+Dans le cas où l'autoprotolyse de l'eau n'est pas négligeable, il faut l'ajouter :
+
+$2H_{2}O \leftrightarrow {HO}^{-} + {H_{3}O}^{+}$
+
+Espèces
+
+$\mathbf{H}_{\mathbf{2}}\mathbf{O}$$   $$\mathbf{HO}^{\mathbf{-}}$ 
+
+${\mathbf{H}_{\mathbf{3}}\mathbf{O}}^{\mathbf{+}}$
+
+Concentration $y$ $y$
+
+Ainsi, on doit résoudre l'équation du second degré : $K_{e} = \left\lbrack H_{3}O^{+}\right\rbrack\left\lbrack {HO}^{-} \right\rbrack = y \times (x + y)$
+
+Dans le cas d'une base forte, on aurait :$K_{e} = \left\lbrack H_{3}O^{+}\right\rbrack\left\lbrack {HO}^{-} \right\rbrack = y \times (c + y)$ ce qui équivaut un résoudre un polynôme du second degré.
 
 !!! note
   Plus le pKa est élevé plus l'acide est fort.
@@ -457,9 +422,9 @@ L'autoprotolyse de l'eau est négligeable lorsque la concentration des
 espèces est $C{> 10}^{- 6}$ mol/L, on a alors
 
 Type  | Fort $\mathbf{p}\mathbf{K}_{\mathbf{a}}\mathbf{< 0}$ | Faible $\mathbf{p}\mathbf{K}_{\mathbf{a}}\mathbf{>}\mathbf{14}$   
--------------------------------------------------------------|------------------------------------------------------------------
-Acide | $$pH = {- log}c$$                                 | $$\ pH = \frac{1}{2}(pK_{a} - \log c)$$
-Base  | $$pH = 14 + \log c$$                              | $$pH = \frac{1}{2}(14 + pK_{a} + \log c)$$
+------|------------------------------------------------------|------------------------------------------------------------------
+Acide | $pH = {- log}c$                                      | $\ pH = \frac{1}{2}(pK_{a} - \log c)$
+Base  | $pH = 14 + \log c$                                   | $pH = \frac{1}{2}(14 + pK_{a} + \log c)$
 
 !!! note
   $H = \lbrack{H_{3}O}^{+}\rbrack = \frac{K_{e}}{\lbrack{HO}^{-}\rbrack}$
@@ -499,8 +464,7 @@ On remarque que lorsque $\left\lbrack A^{-} \right\rbrack = \lbrack AH\rbrack$, 
 
 ## Solution avec deux acides ou deux bases
 
-Pour calculer le pH d'une solution avec plusieurs acides ou plusieurs
-bases :
+Pour calculer le pH d'une solution avec plusieurs acides ou plusieurs bases :
 
 1. On écrit les tableaux de réactions.
 2. Il suffit de calculer le nombre de HO- ou H3O+ produit $x_{1} + x_{2}$
@@ -536,7 +500,7 @@ Représentation graphique
 Dans une même molécule le transfert d'un proton d'une molécule a une
 autre.
 
-Pour l'eau, à 25 degrés : $\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^{- 7}$mol/l
+Pour l'eau, à 25 degrés : $\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^{- 7} mol.l^{-1}$ 
 
 ## pH acide base
 
@@ -550,13 +514,14 @@ height="1.882159886264217in"}
 * Un acide est dit dissocié.
 * Une base est dite associée.
 
-Un acide ou une base sont dits forts s'ils réagissent totalement avec
-l'eau.
+Un acide ou une base son    t dits forts s'ils réagissent totalement avec l'eau.
 
 Autoprotolyse de l'eau
 
 Constante d'équilibre                                                                                
 
-  $$\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^{7}$$                              $$K_{a} = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\lbrack AH\rbrack}{\lbrack A^{-}\rbrack}$$   $$K_{b} = \frac{\left\lbrack {HO}^{-} \right\rbrack.\lbrack{AH_{2}}^{+}\rbrack}{\lbrack AH\rbrack}$$
+$\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^{7}$
 
-  $$K_{e} = K_{a} \times K_{b} = \ \left\lbrack H_{3}O^{+} \right\rbrack \times \left\lbrack HO^{-} \right\rbrack$$                                                                                                        
+$K_{a} = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\lbrack AH\rbrack}{\lbrack A^{-}\rbrack}$$   $$K_{b} = \frac{\left\lbrack {HO}^{-} \right\rbrack.\lbrack{AH_{2}}^{+}\rbrack}{\lbrack AH\rbrack}$
+
+$K_{e} = K_{a} \times K_{b} = \ \left\lbrack H_{3}O^{+} \right\rbrack \times \left\lbrack HO^{-} \right\rbrack$  
