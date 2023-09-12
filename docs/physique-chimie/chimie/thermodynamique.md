@@ -46,8 +46,7 @@ L'énergie d'un système peut être échangée sous deux formes :
 * Énergie thermique = Chaleur (Q)
 * Énergie mécanique = Travail (W)
 
-On définit cette différent d'énergie :
-$\mathrm{\Delta}U = \mathbf{\mathrm{\Delta}}Q + \mathbf{\mathrm{\Delta}}W$
+On définit cette différent d'énergie : $\mathrm{\Delta}U = \mathbf{\mathrm{\Delta}}Q + \mathbf{\mathrm{\Delta}}W$
 
 !!! note
     L'unité de l'énergie est le Joule (J).
@@ -82,7 +81,7 @@ Point méthode : Pour chaque réaction, il faut d'abord noter sa nature (isothe
 
 La chaleur se calcule en utilisant une des formules suivantes :
 
-* $\mathbf{\mathrm{\Delta}Q = n.}\mathbf{C}_\mathbf{v}}\mathbf{.dT + PdV}$  
+* $\mathbf{\mathrm{\Delta}Q = n.}\mathbf{C}_\mathbf{v}\mathbf{.dT + PdV}$  
 * $\mathbf{\mathrm{\Delta}Q = n.}\mathbf{C}_{\mathbf{p}}\mathbf{.dT }-$ $\mathbf{VdP}$
 
 Avec :
@@ -129,8 +128,7 @@ Energie interne            | Uniquement pour les gaz
 
 ## Enthalpie de formation
 
-Loi de Hess : L'enthalpie de réactions est égale à l'énergie nécessaire
-pour former les produits moins celles des réactifs.
+Loi de Hess : L'enthalpie de réactions est égale à l'énergie nécessaire pour former les produits moins celles des réactifs.
 
 $\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{T}}^{\mathbf{0}}\mathbf{=}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}{\mathbf{.}\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{T}}^{\mathbf{0}}\mathbf{(}\mathbf{produits}\mathbf{) -}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}{\mathbf{.}\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{T}}^{\mathbf{0}}\mathbf{(}\mathbf{r}\mathbf{é}\mathbf{actifs}\mathbf{)}$
 
@@ -141,7 +139,7 @@ Avec :
 * ${\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}}$ enthalpie de formation                                               
 
 !!! note
-  L'enthalpie de formation des corps simples c'est-à-dire de molécules constituées d'un seul type d'atomes est nul ($0 KJ.mol^{-1}$).
+    L'enthalpie de formation des corps simples c'est-à-dire de molécules constituées d'un seul type d'atomes est nul ($0 KJ.mol^{-1}$).
 
 Lorsqu'il y a un changement de température, il faut ajouter l'énergie nécessaire pour faire la transformation :
 
@@ -170,7 +168,7 @@ On peut calculer l'enthalpie en réalisant des combinaisons linéaires de réact
 Lorsqu'un élément est présent à la fois comme réactif et comme produit, il peut être supprimé.
 
 !!! note 
-    lorsque l'on inverse une réaction, l'enthalpie change de signe.
+    Lorsque l'on inverse une réaction, l'enthalpie change de signe.
 
 !!! note
     Point méthode faire un tableau une colonne « réactif » et une autre « produit ».
@@ -218,11 +216,11 @@ On peut déterminer l'entropie à partir des entropies :
 
 Pour une réaction à température et pression constante :
 
-$$\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{S}_{T}^{\mathbf{0}}\mathbf{=}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}S_{T}^{0}\left( \mathbf{produits} \right)\mathbf{-}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}S_{T}^{0}\left( \mathbf{r}\mathbf{é}\mathbf{actifs} \right)$$
+$\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{S}_{T}^{\mathbf{0}}\mathbf{=}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}S_{T}^{0}\left( \mathbf{produits} \right)\mathbf{-}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}S_{T}^{0}\left( \mathbf{r}\mathbf{é}\mathbf{actifs} \right)$
 
 Lorsqu'il y a un changement de température, il faut ajouter une étape :
 
-$$\mathrm{\Delta}_{r}S_{T2}^{0} = {\mathrm{\Delta}_{r}S}_{T1}^{0} + \left\lbrack \sum_{}^{}\nu_{i}C_{p}(produits) - \sum_{}^{}{\nu_{i}C_{p}}(réactifs) \right\rbrack.ln(\frac{T_{2}}{T_{1}})$$
+$\mathrm{\Delta}_{r}S_{T2}^{0} = {\mathrm{\Delta}_{r}S}_{T1}^{0} + \left\lbrack \sum_{}^{}\nu_{i}C_{p}(produits) - \sum_{}^{}{\nu_{i}C_{p}}(réactifs) \right\rbrack.ln(\frac{T_{2}}{T_{1}})$
 
 ### Réactions intermédiaires
 
@@ -285,7 +283,7 @@ $\frac{n_{i}}{n_{tot}}\ a$vec $n$ le nombre de mol
 $P_{tot}$ est la pression totale du mélange (réactifs + inerte).
 
 !!! note
-  Pour calculer les pressions partielles en utilisant la relation des gaz parfaits ($\frac{P_{ini}V}{P_{eq}V}$) à t~0\ ou\ ini~ et t~final\ ou\ eq~. Pour cela, on a besoin de connaitre la quantité de matière à t~0~ et t~final~, on aura alors $P_{eq} = \frac{{(n_{tot})}_{ini}}{{(n_{tot})}_{eq}} \times P_{ini}$.
+    Pour calculer les pressions partielles en utilisant la relation des gaz parfaits ($\frac{P_{ini}V}{P_{eq}V}$) à t~0\ ou\ ini~ et t~final\ ou\ eq~. Pour cela, on a besoin de connaitre la quantité de matière à t~0~ et t~final~, on aura alors $P_{eq} = \frac{{(n_{tot})}_{ini}}{{(n_{tot})}_{eq}} \times P_{ini}$.
 
 ## Quotient réactionnel
 
@@ -360,8 +358,7 @@ __Amphotère__ espèce chimique capable de réagir avec elle-même.
 
 L'autoprotolyse de l'eau est une réaction spontanée de $2H_{2}O \rightleftharpoons H_{3}O^{+} + HO^{-}$
 
-Son
-$K_{e} = \frac{\left\lbrack H^{3}O^{+} \right\rbrack\left\lbrack HO^{-} \right\rbrack}{{\lbrack H^{2}O\rbrack}^{2}} = 10^{- 14}$ comme $H\{2}O$ est le soluté alors $a_{H_{2}O} = 1$.
+Son $K_{e} = \frac{\left\lbrack H^{3}O^{+} \right\rbrack\left\lbrack HO^{-} \right\rbrack}{{\lbrack H^{2}O\rbrack}^{2}} = 10^{- 14}$ comme $H\{2}O$ est le soluté alors $a_{H_{2}O} = 1$.
 
 ## Acide Base
 
@@ -423,34 +420,30 @@ espèces est $C{> 10}^{- 6}$ mol/L, on a alors
 
 Type  | Fort $\mathbf{p}\mathbf{K}_{\mathbf{a}}\mathbf{< 0}$ | Faible $\mathbf{p}\mathbf{K}_{\mathbf{a}}\mathbf{>}\mathbf{14}$   
 ------|------------------------------------------------------|------------------------------------------------------------------
-Acide | $pH = {- log}c$                                      | $\ pH = \frac{1}{2}(pK_{a} - \log c)$
+Acide | $pH = - \log c$                                      | $pH = \frac{1}{2}(pK_{a} - \log c)$
 Base  | $pH = 14 + \log c$                                   | $pH = \frac{1}{2}(14 + pK_{a} + \log c)$
 
 !!! note
-  $H = \lbrack{H_{3}O}^{+}\rbrack = \frac{K_{e}}{\lbrack{HO}^{-}\rbrack}$
+    $H = \lbrack{H_{3}O}^{+}\rbrack = \frac{K_{e}}{\lbrack{HO}^{-}\rbrack}$
 
 !!! note
   Pour un acide ou une base forte, le coefficient réactionnel n'a pas de sens à l'équilibre car il faudrait diviser par 0.
-            $\mathbf{\lbrack AH\rbrack}$$   $$\mathbf{+}$$   $$\mathbf{H}_{\mathbf{2}}\mathbf{O}$$   $$\mathbf{\rightleftarrows}$$   $$\mathbf{\lbrack}\mathbf{A}^{\mathbf{-}}\mathbf{\rbrack}$$   $$\mathbf{+}$$   $${\mathbf{H}_{\mathbf{3}}\mathbf{O}}^{\mathbf{+}}$
+            $\mathbf{\lbrack AH\rbrack}$   $\mathbf{+}$   $\mathbf{H}_{\mathbf{2}}\mathbf{O}$   $\mathbf{\rightleftarrows}$   $\mathbf{\lbrack}\mathbf{A}^{\mathbf{-}}\mathbf{\rbrack}$   $\mathbf{+}$   ${\mathbf{H}_{\mathbf{3}}\mathbf{O}}^{\mathbf{+}}$
   t~0~      $$c$$                                             $$\varepsilon$$                                                         $$0$$                                                                          $$0$$
 
   t=eq      $$c - x$$                                         $$\varepsilon$$                                                         $$x$$                                                                          $$x$$
 
 A l'équilibre, il y a :
 
-$$K = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\lbrack A^{-}\rbrack}{\lbrack AH\rbrack} = \frac{x²}{c - x}$$
+$K = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\lbrack A^{-}\rbrack}{\lbrack AH\rbrack} = \frac{x²}{c - x}$
 
-On remarque que $K = K_{a}$ du couple acide base noté
-${pK}_{a}(AH/A^{-})$.
+On remarque que $K = K_{a}$ du couple acide base noté ${pK}_{a}(AH/A^{-})$.
 
-On résout l'équation du second pour déterminer
-$\left\lbrack {H_{3}O}^{+} \right\rbrack = x$.
+On résout l'équation du second pour déterminer $\left\lbrack {H_{3}O}^{+} \right\rbrack = x$.
 
 En fonction du soluté que l'on ajoute, si celui-ci est
 
-Généralement lorsque le pH n'appartient pas à
-$\lbrack pKa \pm 1\rbrack$. On peut négliger $x \ll c$ ce qui évite de
-calculer.
+Généralement lorsque le pH n'appartient pas à $\lbrack pKa \pm 1\rbrack$. On peut négliger $x \ll c$ ce qui évite de calculer.
 
 Pour les bases, il faudra utiliser en plus : $\mathbf{K}_{\mathbf{e}}\mathbf{=}\left\lbrack \mathbf{H}_{\mathbf{3}}\mathbf{O}^{\mathbf{+}} \right\rbrack\mathbf{\times}\left\lbrack \mathbf{H}\mathbf{O}^{\mathbf{-}} \right\rbrack$, $\mathbf{K}_{\mathbf{e}}\mathbf{=}\mathbf{K}_{\mathbf{a}}\mathbf{\times}\mathbf{K}_{\mathbf{b}}$
 
