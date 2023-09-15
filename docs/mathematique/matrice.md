@@ -1,41 +1,48 @@
 # Les calculs de base sur les matrices
 
-Matrice sont des tableaux de vecteurs. Par convention, ils sont positionnés en colonne.
+Les matrices sont des tableaux de vecteurs. Par convention, chaque vecteur est positionné en colonne.
 
-X -> A -> B <=> BAX avec A et B des opératios
+$X \Left^{A} \Left ^{B} \Leftrightarrow BAX$ avec A et B des opérations.
 
 Trois opérations pour transformer les matrices :
 
-* homothétie : dilaté un vecteur. 
-* Rotation : changer l'angle.
+* homothétie : dilaté un vecteur.
+* Rotation : changer l'angle càd l'orientation.
 * Projection : 
 
 !!! note
-    La simulation des environements dans les jeux vidéos utilisent les matrices pour le changement de vue d'une environnement.
+    La simulation des environements dans les jeux vidéos utilise les matrices générer le changement de vue.
 
-Produit scalaire 
+#### Produit scalaire
 
-Cosinus
+### Cosinus
 
-### Matrice carré
+## Matrice carré
 
-## Déterminant
+__Matrice carré__ matrice avec autant de lignes que de colonnes.
 
-Déterminant donne l'information si un système possède des solutions : det(X) = 0 pas de solutions et matrice non inversible.
+### Déterminant
 
-* déterminer si un système d'équation possède une solutiion.
-* inverser une matrice.
+Le déterminant donne l'information si : 
 
-Déterminant correspond au volume. l'absence de solution correspond à une absence de volume.
-un déterminant 
+* Un système d'équation possède une ou plusieurs solutions.
+* Si la matrice est inversable.
 
+Si $det(X) = 0$ :
 
+* Pas de solutions.
+* La matrice n'est pas inversible.
 
-1. matrice de signe : si la somme de l'indice ligne + colonne est pair -> + sinon -
-2. pour les élément d'une ligne :
-    * l'élément, on garde tous les éléments qui ne se trouvent pas dans la ligne et colonne.
-    2 det( 2 1 -1 )
+Interprétations du déterminant :
 
-    det (2x2) = ad-bc
+* Le déterminant correspond au volume. Ainsi, l'absence de solution correspond à une absence de volume.
 
- 
+!!! note
+    Méthode pour déterminer le déterminant d'une matrice : 
+
+    1. Matrice de signe : si la somme de l'indice ligne + colonne est pair -> + sinon -
+    2. pour les élément d'une ligne :
+        * l'élément, on garde tous les éléments qui ne se trouvent pas dans la ligne et colonne.
+        2 det( 2 1 -1 )
+
+        $det(\begin{bmatrix} a & b \\ c & d \end{bmatrix}) = ad-bc$
