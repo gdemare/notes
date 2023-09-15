@@ -18,10 +18,10 @@ Markdown | Fonction | Définition
 Markdown  | Symbole   | Définition 
 ----------|-----------|-----------
 `\gt`     | $\gt$     | supérieur à 
-`\gep`    | $\gep$    | supérieur ou égale à
+`\gep`    | $\ge$     | supérieur ou égale à
 `\lt`     | $\lt$     | inférieur à 
-`\leq`    | $\leq$    | inférieur ou égale à 
-`\eq`     | $\eq$     | égale
+`\leq`    | $\le$     | inférieur ou égale à 
+`=`       | $=$       | égale
 `\neq`    | $\neq$    | inégale
 `\approx` | $\approx$ | approximation
 
@@ -51,10 +51,10 @@ Markdown			| Opérateur			| Définition
 `\infty` 			| $\infty$			| infini
 `\mathbb{N}` 		| $\mathbb{N}$		| ensemble (N, Z, Q, I, R C)
 `\widehat{xy}`		| $\widehat{xy}$ 	| chapeau
-`\dot{x}` 			| $\dot{x}$			| x point.
-`\ddot{x}` 			| $\ddot{x}$		| x deux points.\vec{x}
-`\forall` 			| $\forall$			| pour tout.
-
+`\dot{x}` 			| $\dot{x}$			| x point
+`\ddot{x}` 			| $\ddot{x}$		| x deux points
+`\vec{x}`           | $\vec{x}$         | vecteur
+`\forall` 			| $\forall$			| pour tout
 
 ## Flèches
 
