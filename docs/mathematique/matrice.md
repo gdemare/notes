@@ -2,7 +2,7 @@
 
 Les matrices sont des tableaux de vecteurs. Par convention, chaque vecteur est positionné en colonne.
 
-$X \Left^{A} \Left ^{B} \Leftrightarrow BAX$ avec A et B des opérations.
+$X \Rightarrow^{A} \Rightarrow ^{B} \Leftrightarrow BAX$ avec A et B des opérations.
 
 Trois opérations pour transformer les matrices :
 
