@@ -163,6 +163,7 @@ nav:
     - Fonctions : mathematique/fonctions.md
     - "Fonctions 2" : mathematique/fonctions_bis.md
     - Geométrie :  mathematique/geometrie.md
+    - Matrice : mathematique/matrice.md
     - Modélisation :
       - "Méthodes mixtes" :
         - 'Réseaux de neurones' : mathematique/reseaux-neurones.md
