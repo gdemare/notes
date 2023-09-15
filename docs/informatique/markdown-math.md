@@ -1,11 +1,4 @@
-* `\frac{}{}` fraction
-* `\sqrt{}` racine carré
-* `\sqrt[n]{x}`  racine n 
-* `^{}` puissance
-
-* `\vert{x}\vert` valeur absolue.
-
-Alaphabet grec
+## Alaphabet grec
 
 Markdown | Fonction | Lettre
 ---------|----------|-------
@@ -13,48 +6,62 @@ Markdown | Fonction | Lettre
 
 ## Les fonctions
 
-Markdown | Fonction
----------|------------
-`\sin`   | sinus
-`\cos`   | cosinus
-`\tan`   | tangente
-`\log{}` | logarithme
+Markdown | Fonction | Définition
+---------|----------|---------------
+`\sin`   | $\sin$   | sinus
+`\cos`   | $\cos$   | cosinus
+`\tan`   | $\tan$   | tangente
+`\log{}` | $\log{}$ | logarithme
 
 ## Comparaison
 
-Markdown  | Symbole
-----------|-----------------------
-`\gt`     | supérieur à 
-`\gep`    | supérieur ou égale à
-`\lt`     | inférieur à 
-`\leq`    | inférieur ou égale à 
-`= `      | égale
-`\neq`    | inégale
-`\approx` | approximation
+Markdown  | Symbole   | Définition 
+----------|-----------|-----------
+`\gt`     | $\gt$     | supérieur à 
+`\gep`    | $\gep$    | supérieur ou égale à
+`\lt`     | $\lt$     | inférieur à 
+`\leq`    | $\leq$    | inférieur ou égale à 
+`\eq`     | $\eq$     | égale
+`\neq`    | $\neq$    | inégale
+`\approx` | $\approx$ | approximation
 
 ## Opérations mathématiques
 
 Markdown			| Opérateur			| Définition
 --------------------|-------------------|-------
 `\cdot`       		| $\cdot$			| fois (avec le point)
-`^{val}`      		| $^{val}$			| puissance
+`\times` 			| $\times$			| multiplié
+`\frac{}{}`         | $\frac{}{}$       | fraction
+`^{val}`            | $^{val}$	        | puissance
+`\sqrt{}`           | $\sqrt{}$         | racine carré
+`\sqrt[n]{x}`       | $\sqrt[n]{x}$     | racine n 
+`\vert{x}\vert`     | $\vert{x}\vert$   | valeur absolue
+
+
+Markdown			| Opérateur			| Définition
+--------------------|-------------------|-------
 `_{indice}`   		| $_{indice}$		| indice
-`\hat{x}`			| $\hat{x}$ 		|chapeau
+`\hat{x}`			| $\hat{x}$ 		| chapeau
 `\exists`			| $\exists$			| existe
-`\times` 			| $\times$			| multiplié.
-`\cup` 				| $\cup$			| union.
+`\cup` 				| $\cup$			| union
 `\cap` 				| $\cap$ 			| intersection		
 `\in` 				| $\in$				| appartient
-`\notint`			| $\notint$ 		| n'appartient pas
-`\varnothing` 		| $\varnothing$ 	| ensemble vide.
-`\Leftrightarrow` 	| $\Leftrightarrow$ | équivaent
-`\Rightarrow` 		| $\Rightarrow$		| implique 
+`\notin`			| $\notin$ 		| n'appartient pas
+`\varnothing` 		| $\varnothing$ 	| ensemble vide
 `\infty` 			| $\infty$			| infini
 `\mathbb{N}` 		| $\mathbb{N}$		| ensemble (N, Z, Q, I, R C)
 `\widehat{xy}`		| $\widehat{xy}$ 	| chapeau
 `\dot{x}` 			| $\dot{x}$			| x point.
 `\ddot{x}` 			| $\ddot{x}$		| x deux points.\vec{x}
 `\forall` 			| $\forall$			| pour tout.
+
+
+## Flèches
+
+Markdown			| Opérateur			| Définition
+--------------------|-------------------|-------
+`\Leftrightarrow` 	| $\Leftrightarrow$ | équivalent
+`\Rightarrow` 		| $\Rightarrow$		| implique 
 
 Markdown 							| Math ajax								| Définition
 ------------------------------------|---------------------------------------|----------------
