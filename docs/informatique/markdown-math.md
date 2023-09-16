@@ -1,3 +1,8 @@
+* [Markdown pour les mathématiques](https://www.bearnok.com/grva/it/knowledge/software/mathjax)
+* [MathJax symboles](https://www.bearnok.com/grva/it/knowledge/software/mathjax)
+* [autre markdown](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
+
+
 ## Alaphabet grec
 
 Markdown | Fonction | Lettre
