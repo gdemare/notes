@@ -72,6 +72,19 @@ Deux feuillets Béta avec un agencement :
 * Antiparallèle est stabilisée par des liaison H.
 * Parallèle génère des torsions au niveau des liaisons d'hydrogènes qui la rend moins stable que l'organisation antiparallèle.
 
+Angle :
+
+* $\phi$ phi
+* $\psi$ psi
+* $\omega$ angle entre 
+
+#### Hélice $\alpha$ alpha
+
+Les caractéristiques des hélices $\alpha$ :
+
+*  $\phi \approx -60°$ et $\psi \approx -60°$
+* Au moins 6 aa.
+
 ---------------------------------------------------
 
 ## Méthodes pour l'étude des protéines

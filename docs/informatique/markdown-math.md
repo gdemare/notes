@@ -2,7 +2,12 @@
 
 Markdown | Fonction | Lettre
 ---------|----------|-------
-`\theta` | $\theta$ | theta
+`\phi  ` | $\phi$   | phi
+`\Psi`   | $\Psi$   | Psi (MAJ)
+`\psi`   | $\psi$   | Psi (min)
+`\phi`   | $\theta$ | theta
+`\omega` | $\omega$ | omega
+
 
 ## Les fonctions
 

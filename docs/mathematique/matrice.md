@@ -13,9 +13,22 @@ Trois opérations pour transformer les matrices :
 !!! note
     La simulation des environements dans les jeux vidéos utilise les matrices générer le changement de vue.
 
+distance euclidienne
+
+
+### Rotation 
+
+$\begin{bmatrix} \cos(\omega) & -\sin(\omega) \\ \sin(\omega) & \cos(\omega) \end{bmatrix}$
+
+$\begin{equation}x' = x \cos(\omega) - y \sin(\omega) \\ y' = x \sin(\omega) - y \cos(\omega)$
+
+
 #### Produit scalaire
 
-### Cosinus
+### Cosinus directeur 
+
+Cosinus directeur__ angle entre deux vecteurs.
+
 
 ## Matrice carré
 
