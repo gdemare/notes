@@ -21,6 +21,10 @@ distance euclidienne
 $\begin{bmatrix} \cos(\theta) & -\sin(\theta) \\ \sin(\theta) & \cos(\theta) \end{bmatrix}$
 
 $\begin{aligned}x' = x \cos(\theta) - y \sin(\theta) \\ y' = x \sin(\theta) - y \cos(\theta)  \end{aligned}$
+$\begin{cases}
+ \text{eqn1}\tag{1}\\
+ \text{eqn2}\\
+ \end{cases}$
 
 
 #### Produit scalaire
