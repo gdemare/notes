@@ -18,13 +18,20 @@ distance euclidienne
 
 ### Rotation 
 
-$\begin{bmatrix} \cos(\theta) & -\sin(\theta) \\ \sin(\theta) & \cos(\theta) \end{bmatrix}$
+La rotation d'un vecteur d'un anle $\theta$ :
 
 $\begin{cases}
  x' = x \cos(\theta) - y \sin(\theta) \\
  y' = x \sin(\theta) - y \cos(\theta)
 \end{cases}$
 
+Avec les matrices, cela revient a faire :
+
+$\begin{bmatrix} x' \\ y' \end{bmatrix} = 
+\begin{bmatrix}
+    \cos(\theta) & -\sin(\theta) \\ \sin(\theta) & \cos(\theta)
+ \end{bmatrix}
+\begin{bmatrix} x \\ y \end{bmatrix}$
 
 #### Produit scalaire
 
