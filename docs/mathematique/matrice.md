@@ -18,9 +18,9 @@ distance euclidienne
 
 ### Rotation 
 
-$\begin{bmatrix} \cos(\omega) & -\sin(\omega) \\ \sin(\omega) & \cos(\omega) \end{bmatrix}$
+$\begin{bmatrix} \cos(\theta) & -\sin(\theta) \\ \sin(\theta) & \cos(\theta) \end{bmatrix}$
 
-$\begin{equation}x' = x \cos(\omega) - y \sin(\omega) \\ y' = x \sin(\omega) - y \cos(\omega)  \end{equation}$
+$\begin{aligned}x' = x \cos(\theta) - y \sin(\theta) \\ y' = x \sin(\theta) - y \cos(\theta)  \end{aligned}$
 
 
 #### Produit scalaire
