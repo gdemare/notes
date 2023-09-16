@@ -41,6 +41,7 @@ Markdown			| Opérateur			| Définition
 `\sqrt{}`           | $\sqrt{}$         | racine carré
 `\sqrt[n]{x}`       | $\sqrt[n]{x}$     | racine n 
 `\vert{x}\vert`     | $\vert{x}\vert$   | valeur absolue
+`\left\Vert x \right\Vert` | $\left\Vert x \right\Vert$ | norme
 
 
 Markdown			| Opérateur			| Définition
@@ -76,3 +77,8 @@ Markdown 							| Math ajax								| Définition
 `\prod_{n=1} ^{N}`					| $\prod_{n=1} ^{N}$					| produit
 `\begin{bmatrix} a & b \\ c & d \end{bmatrix}` | $\begin{bmatrix} a & b \\ c & d \end{bmatrix}$ | matrice
 `\int_0^1  (x) dx` 					| $\int_0^1  (x) dx$ 					|intégrale de 0 à 1
+
+
+Markdown 							| Math ajax								| Définition
+------------------------------------|---------------------------------------|----------------
+`\begin{aligned}ligne 1 \\ ligne 2 \end{aligned}` | $\begin{aligned}ligne 1 \\ ligne 2 \end{aligned}$ | répartir sur plusieurs lignes

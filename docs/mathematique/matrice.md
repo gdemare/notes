@@ -13,8 +13,10 @@ Trois opérations pour transformer les matrices :
 !!! note
     La simulation des environements dans les jeux vidéos utilise les matrices générer le changement de vue.
 
-distance euclidienne
+## Distance euclidienne ou norme
 
+C'est la somme des valeurs absolues de chaque coordonées (dans un espace avec des axes orthogonaux).
+Le calcul est une généralisation de Pythagore
 
 ### Rotation 
 
@@ -22,7 +24,7 @@ La rotation d'un vecteur d'un anle $\theta$ :
 
 $\begin{cases}
  x' = x \cos(\theta) - y \sin(\theta) \\
- y' = x \sin(\theta) - y \cos(\theta)
+ y' = x \sin(\theta) + y \cos(\theta)
 \end{cases}$
 
 Avec les matrices, cela revient a faire :
@@ -34,6 +36,10 @@ $\begin{bmatrix} x' \\ y' \end{bmatrix} =
 \begin{bmatrix} x \\ y \end{bmatrix}$
 
 #### Produit scalaire
+
+Propriété :
+
+* Le cosinus de deux vecteurs perpendiculaires est nul => le produit scalaire = 0
 
 ### Cosinus directeur 
 
