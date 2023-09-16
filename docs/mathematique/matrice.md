@@ -20,7 +20,7 @@ distance euclidienne
 
 $\begin{bmatrix} \cos(\omega) & -\sin(\omega) \\ \sin(\omega) & \cos(\omega) \end{bmatrix}$
 
-$\begin{equation}x' = x \cos(\omega) - y \sin(\omega) \\ y' = x \sin(\omega) - y \cos(\omega)$
+$\begin{equation}x' = x \cos(\omega) - y \sin(\omega) \\ y' = x \sin(\omega) - y \cos(\omega)  \end{equation}$
 
 
 #### Produit scalaire
