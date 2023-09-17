@@ -19,6 +19,10 @@
 * [Science des données biologiques](https://wp.sciviews.org/sdd-umons-2020/vue-g%C3%A9n%C3%A9rale-du-cours.html) cours de bioinformatique.
 * [Cours de biochimie de l'université de Sherbrooke](https://biochimiedesproteines.espaceweb.usherbrooke.ca/index.php), cours de biochimie des protéines.
 
+### Bioinformatique
+
+* [Société Française BioInformatique](https://www.sfbi.fr/)
+
 ## Informatique et data mining
 
 En francais :
