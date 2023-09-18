@@ -4,7 +4,8 @@
 * [Université en ligne](https://uel.unisciel.fr/)
 * [Unisciel](http://www.unisciel.fr/)
 * [edX](https://www.edx.org/learn/)
-* [MIT open courseware](https://ocw.mit.edu/search/)
+* [MIT open courseware](https://ocw.mit.edu/search/), cours en ligne du MIT.
+* Sci-hub, moteur de recherche pour les articles scientifiques en violation du droit d'auteur.
 
 ## Ecologie
 
