@@ -1,39 +1,42 @@
 # Les protéines
 
-Les protéines sont un polymère d'acides aminés (aa) qui jouent de nombreux rôles notamment dans :
+Les protéines (étymologie "au premier rang") sont un polymère d'acides aminés (aa) qui jouent de nombreux rôles notamment dans :
 
 * La structure.
 * La réalisation et la régulation de processus biologiques (la défense, la signalisation, le transport, le mouvement).
 
+Les acides aminés sont structurés autour d'un atome de carbone avec un groupe aminé (-NH2), un groupe acide carboxylique (-COOH), un atome d'hydrogène et d'une chaîne latérale qui différe en fonction du type d'acides aminés. La conformation des aa est de type L (par opposition à D) probablement car la forme L est plus présente naturellement.
+
+__amphotère__ molécule à la fois donneuse et receveuse d'électrons.
+
+!!! note
+    Certains acides aminés sont modifiés peuvent Par exemple, la desmosine est une molécule non protéiques constituées de quatre lysines qui confère à l'élastine des propriétés élastiques. D'autres aa modifiées peuvent servir d'hormones, etc.
+
 Les propriétés physico-chimiques des protéines dépendent de :
 
 * La structure chimique des 20 acides aminés différents qui composent la séquence peptidique.
-* La séquence d'acides aminés càd l'ordre des acides aminés.
+* La séquence d'acides aminés càd l'ordre des acides aminés. L'ordre est donné par la séquence d'ADN. 
+
+!!! note
+    Le code génétique est extrêmement conservé dans la nature (trois nucélotides pour un codon, codon stop,...). La significiation de certains codons a évoluée.
 
 C'est la structure 3D qui confère la fonction de la protéine.
 
+!!! note 
+    Les protéines sont partout. Nous nous en vêtissons lorsque nous portons de la laine, du cuir ou de la soie. Ils sont certains médicements et de nombreuses recherches cherchent à imiter certaines fibres protéiques.
 
 __Polypeptide__ chaine d'acides aminés.
+
 Une protéine est une chaine composée, en moyenne, de 50 acides aminées appelée chaine peptidique.
 
 ## Les acides aminés
 
 ## Stéréochimie
 
-
 !!! note
     Le carbone asymétrique des aa utilisé par le vivant sont de type L et non pas de type D car le type L est plus répandu.
 
 La création de la liaison peptidiques entre les acides aminés demande de l'énergie produite par hydrolyse du GDT : $GDT \rightarrow GDP + Pi$.
-
-
-
-
-
-
-
-## 
-
 
 ## Chaine principale 
 
@@ -46,10 +49,13 @@ Les protéines animales sont constitués de l'assemblage de 20 aa différents :
 
 * 8aa hydrophobes dont la proline qui bloque les changements de conformation.
 * à pH physiologique :
-    * 7 aa polaire non chargés dont 3 sont des alcools et la cystéine qui est capable de créer une liaison covalente avec une autre cystéine.
-    * 5aa chargés à pH physiologique :
-        * 2 négatifs (de type acide).
-        * 3 positifs (de type base).
+    * 7 aa polaires non chargés dont 3 sont des alcools et la cystéine qui est capable de créer une liaison covalente avec une autre cystéine : glycine, valine, leucine, isoleucine, phénylalanine, tryptosine, t, proline, cystéine.
+    * 5 aa chargés à pH physiologique : méthionine, sérine (chargé - à pKa = ),  
+        * 2 aa négatifs (de type acide) : acide aspartique (pKa = 3,9), acide glutamique (pKa = 4,1).
+        * 3 aa positifs (de type base) :  arginine (pKa = 12,5), sérine (pKa = 10,5), histidine (pKa = 6).
+
+!!! note 
+    Les ponts cystéines ne sont pas facilité dans le cytosol qui est un milieu réducteur contrairement au réticulum endoplasmique.
 
 ## Structure 3D et fonction des protéines
 
@@ -96,11 +102,11 @@ Trois grandes catégories de méthodes pour sélectionner les protéines à
 * Gel-filtration
 * Électrophorèse
 
-### Dénaturation des protéines
-
 __Dénaturation__ perte de la conformation initiale d'une molécule biologique. Les protéines dénaturées perdent souvent leur fonction.
 
 __Dialyse__ méthode de purification.
+
+### Dénaturation des protéines
 
 La dénaturation pour les protéines consiste notamment à briser les liaisons disulfures (cystéine).
 
@@ -174,7 +180,7 @@ concentration. Il faut préalablement dénaturer les protéines.
 
 1. Séparation : Les protéines sont séparées par taille par électrophorèse.
 2. Transfert : Elles sont ensuite transférées sur un gel en appliquant un courant électrique.
-3.  Révélation : On ajoute un anticorps spécifique à la protéine étudiée puis d'un anticorps secondaire capable d'émettre de la lumière en présence d'un substrat.
+3. Révélation : On ajoute un anticorps spécifique à la protéine étudiée puis d'un anticorps secondaire capable d'émettre de la lumière en présence d'un substrat.
 
 L'intensité lumineuse permet de connaitre la concentration.
 
