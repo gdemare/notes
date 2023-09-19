@@ -105,7 +105,7 @@ programmation dynamique.
 
 Les alignements locaux sont plus fréquemment utilisés lorsque deux
 séquences dissemblables sont soupçonnées de posséder des motifs
-identiques malgré l\'environnement. L\'algorithme de Smith-Waterman est
+identiques malgré l'environnement. L'algorithme de Smith-Waterman est
 une méthode d\'alignement local générale basée aussi sur la
 programmation dynamique.
 
@@ -113,9 +113,9 @@ Avec des séquences suffisamment semblables, il n\'y aucune différence
 dans les résultats.
 
 Des méthodes hybrides, des méthodes semi-locales, s\'avèrent utiles
-lorsque\...
+lorsque...
 
-$$S_{bit} = \frac{\lambda S_{r} - lnK}{ln2}$$
+$S_{bit} = \frac{\lambda S_{r} - lnK}{ln2}$
 
 Match value --- Value assigned for matching characters
 
@@ -129,3 +129,6 @@ Local Smith-Waterman algorithm
 
 Score pour un match, mismatch, gap, extension de gap
 
+% d'identité % de bases les mêmes  nbre de position identique 
+% de similarité identitié + similitude 
+% gap   

@@ -61,9 +61,9 @@ Les protéines animales sont constitués de l'assemblage de 20 aa différents :
 
 Le repliement des protéines se fait en plusieurs étapes :
 
-* Primaire est la chaîne d'aa.
-* Secondaire formation de structures locales de type hélices, feuillets ou coudes.
-* Tertiaire comme les protéines sont une suite d'aa apolaires et polaires, le milieu modifie la conformation de la protéine. Les régions apolaires qui sont hydrophobes vont se regrouper à l'intérieur de la protéine tandis celles polaires qui ont une affinité avec l'eau seront exposés vers l'extérieur. La protéine aura un cœur hydrophobe et des boucles polaires ou chargées.
+* Primaire est la chaîne et l'ordre des aa.
+* Secondaire formation de repliements locaux en hélices, feuillets ou coudes.
+* Tertiaire l'agement stable dans l'esapce. comme les protéines sont une suite d'aa apolaires et polaires, le milieu modifie la conformation de la protéine. Les régions apolaires qui sont hydrophobes vont se regrouper à l'intérieur de la protéine tandis celles polaires qui ont une affinité avec l'eau seront exposés vers l'extérieur. La protéine aura un cœur hydrophobe et des boucles polaires ou chargées.
 * Quaternaire certaines protéines sont composés de plusieurs chaînes peptidiques.
 
 !!! note 
@@ -90,6 +90,30 @@ Les caractéristiques des hélices $\alpha$ :
 
 *  $\phi \approx -60°$ et $\psi \approx -60°$
 * Au moins 6 aa.
+
+## Modifications post traductionnelles
+
+Les protéines subissent des modifications chimiques de type covalente pendant et après leur synthèse de deux types :
+
+* protéolyse contrôlée.
+* L'ajout de groupements.
+
+Ces modifications peuvent servir :
+
+1. réguler de l'activité.
+2. à les rendre reconnaissable par l'ajout d'une étiquette par des partenaires ou à dégrader.
+3. à les ancrer dans une membrane.
+4. à les faire participer à des cascades de signalisation
+5. à leur adressage pour qu'elles se rendent au bon endroit dans la cellule
+6. à définir une identité immunologique (comme les groupes sanguins) etc, etc.
+
+## Les fonctions des protéines 
+
+### Les enzymes
+
+Les enzymes sont des catalyseurs qui permettent d'augmenter la vitesse de réaction jsuqu'a pluieurs millairds de fois. Substrat Peuvent être modulé.
+
+enrichir purification d'une protéine. Augmenter la proportion d'une portéine particulière dans un échantillon. 
 
 ---------------------------------------------------
 
