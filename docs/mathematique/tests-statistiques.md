@@ -1,15 +1,21 @@
+Notation :
+
+* Moyenne X barre ou m , nu théorique
+* écart type s, sigma théorique
+
 ## Résumé des tests
 
 Calcul de p-value directement en ligne [BiostaTGV](https://biostatgv.sentiweb.fr/?module=tests)
 [Tests](https://www.anastats.fr/telechargements/)
 
-* H0 : l'hypothèse la plus simple (ou contraignante). Par exemple, les moyennes sont égales.
-* H1 : la négation de H0.
+* $H_{0}$ : l'hypothèse la plus simple (ou contraignante). Par exemple, les moyennes sont égales.
+* $H_{1}$ : la négation de $H_{0}$.
 
-p-valeur probabilité d'obtenir une valeur aussi extrême sous l'hypohtèse H0.
-En fonction du seuil fixé, il n'est pas possible d'accepter H0 car le risque béta n'est pas estimable càd le risque de rejeté H1 sous l'hypothèse. Le résultat du test est alors :
-* On ne peut pas rejeté H0.
-* On rejette H0.
+p-valeur probabilité d'obtenir une valeur aussi extrême sous l'hypohtèse $H_{0}$.
+En fonction du seuil fixé, il n'est pas possible d'accepter $H_{0}$ car le risque béta n'est pas estimable càd le risque de rejeté $H_{1}$ sous l'hypothèse. Le résultat du test est alors :
+
+* On ne peut pas rejeté $H_{0}$.
+* On rejette $H_{0}$.
 
 On parle de tests paramétriques lorsque les observations suivent une loi statistique et non paramètrique lorsque la loi de répartition n'est pas connue.
 
@@ -73,7 +79,7 @@ Rang        | 2 var quant                   | 3,4       | Spearman
 ## Cours tests statistiques et interprétation
 
 
-Les tests statistiques servent à vérifier si les données obtenues sont compatibles avec une propriété (par exemple, une moyenne théorique) et les différences observées dû au hasard de l\'échantillonnage.
+Les tests statistiques servent à vérifier si les données obtenues sont compatibles avec une propriété (par exemple, une moyenne théorique) et les différences observées dû au hasard de l'échantillonnage.
 
 * $H_{0}$ la différence vient de l'échantillonnage.
 * $H_{1}$ différence entre l'échantillon et la population.
@@ -84,8 +90,7 @@ $H_{0}$       | $1 − \alpha$ | $\alpha$
 $H_{1}$       | $\beta$      | $1-\beta$ (appelé puissance du test)
 
 
-Interprétation : Au risque $\alpha$ est accepté $H_{1}$ alors que c'est
-faux. Cela correspond au rejet à tort de l'hypothèse nulle.
+Interprétation : Au risque $\alpha$ est accepté $H_{1}$ alors que c'est faux. Cela correspond au rejet à tort de l'hypothèse nulle.
 
 !!! note
     Le risque $\alpha$ est généralement fixé à 5%.
@@ -93,18 +98,16 @@ faux. Cela correspond au rejet à tort de l'hypothèse nulle.
 Règle de décision :
 
 * L'appartenance à intervalle de confiance.
-* Par des statistiques du test soit car le seuil soit par la p-value
-    (par comparaison du risque).
+* Par des statistiques du test soit car le seuil soit par la p-value (par comparaison du risque).
 
 Deux types de tests :
 
 * Unilatéral (example, à gauche), $H_{0}$ : µ = µ0, Ha : µ &lt; µ0
-* Bilatéral H0 : µ = µ0,  Ha : µ ≠ µ0
+* Bilatéral $H_{0}$ : $µ = µ_{0}$,  Ha : µ ≠ µ0
 
 ### Intervalle de confiance
 
-Exemple de comparaison d'une moyenne observée avec une moyenne de
-référence :
+Exemple de comparaison d'une moyenne observée avec une moyenne de référence :
 
 $S = \left| \frac{x - \mu_{0}}{\sqrt{\frac{\sigma^{2}}{n}}} \right| < 1.96$
 avec $\mu_{0}$ la moyenne théorique.
@@ -115,44 +118,14 @@ Pour comparer la valeur de deux échantillons, il suffit de vérifier si les int
 
 ### Présentation des différents types de tests
 
-<table>
-<colgroup>
-<col style="width: 55%" />
-<col style="width: 19%" />
-<col style="width: 24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Hypothèse</th>
-<th>Seuil</th>
-<th>P-value</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>On ne peut pas rejeter H<sub>0</sub> au risque <em><br />
-</em><span class="math inline"><em>β</em></span> inconnu</td>
-<td><span
-class="math display"><em>E</em><sub><em>o</em><em>b</em><em>s</em></sub> ≤ <em>E</em><sub><em>α</em></sub></span></td>
-<td><span
-class="math display"><em>p</em> − <em>v</em><em>a</em><em>l</em><em>u</em><em>e</em> &gt; <em>α</em></span></td>
-</tr>
-<tr class="even">
-<td>On accepte H<sub>1</sub> au risque <span
-class="math inline"><em>α</em></span></td>
-<td><span
-class="math display"><em>E</em><sub><em>o</em><em>b</em><em>s</em></sub> &gt; <em>E</em><sub><em>α</em></sub></span></td>
-<td><span
-class="math display"><em>p</em> − <em>v</em><em>a</em><em>l</em><em>u</em><em>e</em> ≤ <em>α</em></span></td>
-</tr>
-</tbody>
-</table>
+Hypothèse                                             | Seuil                       | P-value</th>
+------------------------------------------------------|-----------------------------|-----------
+On ne rejete pas $H_{0}$ au risque $\beta$ inconnu    | $E_{obs} \leq E_{\alpha}$   | $p-value \gt \alpha$
+On accepte $H_{1}$ au risque $\alpha$                 | $E_{obs} \gt E_{\alpha}$    | $p-value \leq \alpha$
 
 Par exemple, au risque alpha de 5%, $E_{\alpha} = 1,96$
 
-p-valeur est la probabilité d'obtenir une valeur aussi extrême sous
-l'hypothèse $H_{0}$. Énoncer de façon différente, elle indique dans quelle
-mesure les données sont conformes à l'$H_{0}$.
+p-valeur est la probabilité d'obtenir une valeur aussi extrême sous l'hypothèse $H_{0}$. Énoncer de façon différente, elle indique dans quelle mesure les données sont conformes à l'$H_{0}$.
 
 !!! example
     On effectue des tirages de pile ou face. $H_{0}$ la pièce n'est pas biaisée.
@@ -167,8 +140,7 @@ Les types de tests principaux :
 
 * Indépendance, exemple : la couleur des cheveux est-elle indépendante du sexe ?
 * Homogénéité : deux séries de données sont-elles identiquement distribuées.
-* Adéquation à une loi ou une famille de lois définies à priori, par
-    exemple : la taille d'une population suit-elle une loi normale ?
+* Adéquation à une loi ou une famille de lois définies à priori, par exemple : la taille d'une population suit-elle une loi normale ?
 
 ## Test d'homogénéité
 
