@@ -39,7 +39,7 @@ Facteur de dilution X               Dilution X fois 1 de solution et X-1 de dilu
 
 Pourcentage massique Une solution à 30% 30g/ 100mL, $300g.L^{-1}$
 
-Degré d'acidité 7° 7g/100L.
+Degré d'acidité 7° $\frac{7g}{100L}$.
 
 La dilution D est l'inverse du facteur de dilution soit : $\frac{1}{F}$
 

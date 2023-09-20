@@ -48,6 +48,18 @@ Les enzymes modifient la vitesse de réactions. Elles l'accélèrent en moyenne 
 
 Catalyseur substance qui augmente la vitesse d'une réaction chimique sans participer ou modifier la réaction.
 
+### Les catégories d'enzymes
+
+* Oxydo-réductases, transfert d'électrons avec l'ajout d'un molécule.
+* Réaction de liaison :
+	* Transférase d'un groupement chimique.
+	* Lyases catalysent (avec notamment les ligases qui utilisent de l'énergie).
+* Hydrolases couper une liaison covalente avec une molécule d'eau.
+* Isomérases transforme en isomère.
+
+!!! note
+	L'enzyme dispose d'un matricule qui correspond la catégorie et au type de réactions catalysées.
+
 ## Exemples des enzymes impliquées dans la digestion
 
 La première étape de la digestion consiste à dénaturer les protéines grâce à la mise en place d'un milieu avec un pH 2. Elles sont ensuite dégradées par deux types d'enzymes de type catabolique qui agissent simultanément :
@@ -294,11 +306,10 @@ On considère le ligand comme la molécule qui se déplace et qui interagit avec
 
 ## Les ligands en biologie
 
-En biologie, les ligands sont soit de type :
+En biologie, la position du recpteur dépend du type de ligands. Ils sont situés :
 
-|                       | Liposoluble                 | Hydrosoluble                |
-|-------------------|-------------------------|----------------------------|
-| Position du récepteur | A l'intérieur de la cellule | À l'extérieur de la cellule |
+* À l'extérieur de la cellule si le ligand est hydrosoluble.
+* A l'intérieur de la cellule si le ligand est liposoluble.
 
 !!! note 
 	Le récepteur est parfois appelé site de reconnaissance.
@@ -318,32 +329,10 @@ En fonction du type d'action que provoque le ligand, on dit qu'il est :
 
 $R + L \leftrightarrow RL$
 
-On note :
+On note pour :
 
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Association</th>
-<th>Dissociation</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><span
-class="math inline"><em>v</em><sub><em>a</em><em>s</em><em>s</em></sub></span>vitesse</p>
-<p><span class="math inline"><em>k</em><sub><em>a</em></sub></span>
-constante d’association</p></td>
-<td><p><span
-class="math inline"><em>v</em><sub><em>d</em><em>i</em><em>s</em><em>s</em></sub></span>vitesse</p>
-<p><span class="math inline"><em>k</em><sub><em>d</em></sub></span>
-constante de dissociation</p></td>
-</tr>
-</tbody>
-</table>
+* L'association $v_{ass}$ la vitesse et $k_{a}$ la constante d’association.
+* La dissociation $v_{diss}$ la vitesse et $k_{d}$ la constante d’association.
 
 À l'équilibre la vitesse d'association est égale à celle de dissociation. Les concentrations des différentes espèces chimiques n'évoluent plus. On a :
 
@@ -373,24 +362,9 @@ En ordonné, on a la quantité de ligand liée par rapport à celle libre.
 
 Les points remarquables obtenus sont :
 
-<table>
-<colgroup>
-<col style="width: 31%" />
-<col style="width: 33%" />
-<col style="width: 34%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Pour <span class="math inline">[<em>R</em><em>L</em>] = 0</span>
-on a</p>
-<p><span
-class="math display"><em>y</em> = <em>B</em><sub>max</sub></span></p></td>
-<td><span class="math display">$$a = \frac{- 1}{K_{d}}$$</span></td>
-<td>Pour <span class="math inline"> <em>y</em> = 0</span> on a <span
-class="math inline">[<em>R</em><em>L</em>] = <strong>R</strong><sub><strong>0</strong></sub></span></td>
-</tr>
-</tbody>
-</table>
+* Pour $[RL] = 0$, on a $y = B_{max}$
+* $a = \frac{- 1}{K_{d}}$
+* Pour $y = 0$, on a $[RL] = R_{0}$
 
 !!! warning
 	On ne s'intéresse qu'au ligand : lié et libre.
