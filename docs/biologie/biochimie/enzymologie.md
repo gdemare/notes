@@ -11,16 +11,16 @@ L'enzyme se fixe à un des réactifs ce qui modifie le chemin de la réaction e
 souvent.
 
 !!! note 
-	Le nom a été donné par Pasteur qui a découvert un composé qu'il a nommé en- "dans" et -zyme "levure" pour transformer le sucre en alcool. 
+	Le nom a été donné par Pasteur qui a découvert un composé issu de levure qu'il a utilisé pour transformer le surcre en alcool. Il a nommé ce composé enzyme, en- "dans" et -zyme "levure". 
 
 En générale, la conformation des protéines n'est pas rigide mais elle oscille subtilement entre un ensemble de formes très proche. Lorsque le substrat se lie au site actif de l'enzyme , les interactions moléculaires modifie légérement leur structure spatiale et abaisser l'énergie d'activation de la réaction.
 
 Site actif site de l'enzyme qui se lie au substrat. Elle est composée au maximum de 10 acides aminées.
 
-L'enzyme
+L'enzyme facilite la réaction en :
 
-* Orienter le substrat
-* Faciliter le rapprochement entre plusieurs substrats.
+* Orientant le substrat ce qui permet de rendre accessibles les sites de réactions.
+* Le rapprochement entre plusieurs substrats.
 * Stabiliser l'état de transition en modifiant la forme du substrat.
 
 D'autres molécules peuvent participer à l'action des enzymes comme :
