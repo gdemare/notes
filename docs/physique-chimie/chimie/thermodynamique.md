@@ -490,8 +490,7 @@ Représentation graphique
 
 ## Autoprotolyse
 
-Dans une même molécule le transfert d'un proton d'une molécule a une
-autre.
+Dans une même molécule le transfert d'un proton d'une molécule a une autre.
 
 Pour l'eau, à 25 degrés : $\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^{- 7} mol.l^{-1}$ 
 
