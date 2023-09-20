@@ -45,30 +45,29 @@ Elles sont caractérisées par :
 * Leur efficacité
 * Leur spécificité vis-à-vis du substrat
 
-Les enzymes sont réutilisables. En moyenne, chacune est capable de transformer 1 000 substrats en produit par seconde.
+Les enzymes sont réutilisables. En moyenne, chacune est capable de transformer 1 000 substrats en produits par seconde.
 
-Les enzymes modifient la vitesse de réactions. Elles l'accélèrent en moyenne de $10^{3}$ à $10^{6}$ et jusqu'à 10^12^.
+Les enzymes modifient la vitesse de réactions. Elles l'accélèrent en moyenne de $10^{3}$ à $10^{6}$ et jusqu'à $10^{12}$.
 
-Catalyseur substance qui augmente la vitesse d'une réaction chimique sans participer ou modifier la réaction.
+__Catalyseur__ substance qui augmente la vitesse d'une réaction chimique sans participer ou modifier la réaction.
 
 ### Les catégories d'enzymes
 
-* Oxydo-réductases, transfert d'électrons avec l'ajout d'un molécule.
+* Oxydo-réductases, transfert d'électrons généralement par l'utilisation d'atomes d'oxygènes.
 * Réaction de liaison :
 	* Transférase d'un groupement chimique.
-	* Lyases catalysent (avec notamment les ligases qui utilisent de l'énergie).
-* Hydrolases couper une liaison covalente avec une molécule d'eau.
-* Isomérases transforme en isomère.
+	* Lyase catalyse (avec les ligases qui utilisent de l'énergie).
+* Hydrolases coupe une liaison covalente avec une molécule d'eau.
+* Isomérase transforme en isomère.
 
 !!! note
 	L'enzyme dispose d'un matricule qui correspond la catégorie et au type de réactions catalysées.
 
-## Exemples des enzymes impliquées dans la digestion
+!!! example
+	La première étape de la digestion consiste à dénaturer les protéines grâce à la mise en place d'un milieu avec un pH 2. Elles sont ensuite dégradées par deux types d'enzymes de type catabolique qui agissent simultanément :
 
-La première étape de la digestion consiste à dénaturer les protéines grâce à la mise en place d'un milieu avec un pH 2. Elles sont ensuite dégradées par deux types d'enzymes de type catabolique qui agissent simultanément :
-
-* Les exopeptidases (coupent aux extrémités).
-* Les endopeptidases (coupent à l'intérieur).
+	* Les exopeptidases (coupent aux extrémités).
+	* Les endopeptidases (coupent à l'intérieur).
 
 ### Les endopeptidases
 
@@ -80,7 +79,7 @@ Spécificité de...          | Trypsine         | Chymotrypsine | Endonucléase 
 ...position de la réaction | C-term           | C-term        | Oxygène et phosphore |
 Stéréospécificité          | L                | L             | D                    |
 
-Palindrome séquence dont le sens est indépendant du sens de lecture.
+__Palindrome__ séquence dont le sens est indépendant de celui de lecture.
 
 ### Les exopeptidases
 
@@ -100,24 +99,11 @@ La vitesse consiste à mesurer l'ampleur de la variation de concentration du pro
 
 Pour une réaction de type : $A \rightarrow B$
 
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><span class="math display">$$v = \frac{d\lbrack B\rbrack}{dt} =
-\frac{- d\lbrack A\rbrack}{dt}$$</span></td>
-<td><p>[B] est la concentration en Mol (ou mol.L<sup>-1</sup>).</p>
-<p><span class="math inline"><em>v</em></span> vitesse en
-mol.L<sup>-1</sup>.s<sup>-1</sup></p></td>
-</tr>
-</tbody>
-</table>
+$v = \frac{d\lbrack B\rbrack}{dt} = \frac{- d\lbrack A\rbrack}{dt}$
+[B] est la concentration en Mol (ou $mol.L^{-1}$).
+vitesse en $mol.L^{-1}.s^{-1}$
 
-On se rend compte que la vitesse d'apparition du produit est
-proportionnelle à la quantité de produit présent qui disparait :
+On se rend compte que la vitesse d'apparition du produit est proportionnelle à la quantité de produit présent qui disparait :
 
 * $\mathbf{v = k\lbrack A\rbrack}$
 * $\mathbf{k}$ constante de vitesse en s^-1^
@@ -154,8 +140,7 @@ Dans cette réaction enzymatique, lorsque le complexe enzyme-substrat se forme, 
 * Transformé en produit $k_{2}\lbrack ES\rbrack$
 * Dissocié $k_{- 1}\lbrack ES\rbrack$
 
-D'où la vitesse de formation du complexe ES est égale à :
-$k_{1}\left\lbrack E\rbrack\lbrack S \right\rbrack = k_{- 1}\lbrack ES\rbrack + k_{2}\lbrack ES\rbrack$
+D'où la vitesse de formation du complexe ES est égale à : $k_{1}\left\lbrack E\rbrack\lbrack S \right\rbrack = k_{- 1}\lbrack ES\rbrack + k_{2}\lbrack ES\rbrack$
 
 ## Constante et équation de Michaelis-Menten
 
@@ -197,9 +182,7 @@ Plus $\frac{\lbrack E\rbrack}{\lbrack ES\rbrack}$ est petit, d’où $K_{m} = \f
 !!! note
 	$K$correspond à l'équilibre et $k$ au coefficient de vitesse.
 
-Rappel : l'absorbance est reliée à la concentration par la formule
-suivante :$
-$$\mathbf{A} = \mathbf{\varepsilon}.\left\lbrack \mathbf{C} \right\rbrack.\mathbf{l}$$
+Rappel : l'absorbance est reliée à la concentration par $\mathbf{A} = \mathbf{\varepsilon}.\left\lbrack \mathbf{C} \right\rbrack.\mathbf{l}$.
 
 ## Linéarisation
 
@@ -234,7 +217,8 @@ Il existe deux grands types d'inhibition :
 | $$\left\lbrack \mathbf{E}_{\mathbf{0}} \right\rbrack\mathbf{=}$$ | $$\lbrack E\rbrack + \lbrack EI\rbrack + \lbrack ES\rbrack$$           | $$\lbrack E\rbrack + \lbrack EI\rbrack + \lbrack EIS\rbrack + \lbrack ES\rbrack$$                                                     |
 | Rmq                                                              | $v_{\max}$ ne change pas                                               | $K_{m}$ ne change pas                                                                                                                 |
 
-[NB :]{.underline} Il existe d'autres inhibiteurs hybrides.
+!!! note
+	Il existe d'autres inhibiteurs hybrides.
 
 ## Inhibiteur compétitif
 
@@ -243,7 +227,7 @@ L'inhibiteur compétitif se lie sur le site réactionnel de l'enzyme à la place
 $v_{i} = \frac{v_{\max}\lbrack S\rbrack}{K_{m}(1 + \frac{\lbrack i\rbrack}{K_{i}}) + \lbrack S\rbrack} = \frac{v_{\max}\lbrack S\rbrack}{K_{mI} + \lbrack S\rbrack}$
 
 !!! note
-	On modifie la reconnaissance $K_{m} < {K'}_{m} = K_{m}(1 + \frac{\lbrack i\rbrack}{K_{i}})$
+	On modifie la reconnaissance $K_{m} \lt {K'}_{m} = K_{m}(1 + \frac{\lbrack i\rbrack}{K_{i}})$
 
 La constante d'inhibition :
 
@@ -269,9 +253,7 @@ Les enzymes sont sensibles aux conditions de l'environnement notamment à cause 
 * Chargés et polaires en périphérie.
 * Apolaires au centre.
 
-Un organisme fabrique plusieurs enzymes légèrement différentes qui
-répondent au même besoin mais dont les conditions optimales de
-fonctionnement sont différentes. On parle d'isoenzyme.
+Un organisme fabrique plusieurs enzymes légèrement différentes qui répondent au même besoin mais dont les conditions optimales de fonctionnement sont différentes. On parle d'isoenzyme.
 
 __Isoenzyme__ enzyme qui fonctionne de manière optimale dans des conditions
 physicochimiques différentes.
@@ -280,10 +262,10 @@ physicochimiques différentes.
 
 Le changement de pH modifie l'activité de l'enzyme car cela modifie les AA polaires notamment la cystéine et les AA chargés impliqués sur le site de reconnaissance et de catalyse.
 
-Rappel : Si le pH\>pKa+1 alors l'espèce sera déprotonée à 90%.
+Rappel : Si le $pH \gt pKa+1$ alors l'espèce sera déprotonée à 90%.
 
 !!! note
-	On peut modifier le pH pour déterminer les AA impliqués dans la reconnaissance et la catalyse.
+	Il est possible de déterminer les AA impliqués dans la reconnaissance et la catalyse en jouant sur le pH.
 
 ## Effet de la température
 
@@ -358,8 +340,7 @@ On utilise la linéarisation pour déterminer :
 * $R_{0}$ concentration de récepteurs (en Mol).
 * $N = \frac{B_{\max}}{\lbrack R\rbrack}$ nombre de sites par mol.
 
-On a :
-$\frac{\lbrack RL\rbrack}{\lbrack L\rbrack} = \frac{- 1}{K_{d}}\lbrack RL\rbrack + \frac{R_{0}}{K_{d}}$
+On a : $\frac{\lbrack RL\rbrack}{\lbrack L\rbrack} = \frac{- 1}{K_{d}}\lbrack RL\rbrack + \frac{R_{0}}{K_{d}}$
 
 En ordonné, on a la quantité de ligand liée par rapport à celle libre.
 
