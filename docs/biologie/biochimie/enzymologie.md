@@ -10,6 +10,9 @@ La réaction a lieu lorsque les réactifs se percutent avec une certaine quantit
 L'enzyme se fixe à un des réactifs ce qui modifie le chemin de la réaction et diminue l'énergie d'activation. La réaction a lieu plus
 souvent.
 
+!!! note 
+	Le nom a été donné par Pasteur qui a découvert un composé qu'il a nommé en- "dans" et -zyme "levure" pour transformer le sucre en alcool. 
+
 En générale, la conformation des protéines n'est pas rigide mais elle oscille subtilement entre un ensemble de formes très proche. Lorsque le substrat se lie au site actif de l'enzyme , les interactions moléculaires modifie légérement leur structure spatiale et abaisser l'énergie d'activation de la réaction.
 
 Site actif site de l'enzyme qui se lie au substrat. Elle est composée au maximum de 10 acides aminées.
