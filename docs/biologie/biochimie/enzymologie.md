@@ -79,11 +79,9 @@ Palindrome séquence dont le sens est indépendant du sens de lecture.
 
 # Vitesse de réaction
 
-On définit la vitesse de réaction comme la quantité de substrat se
-transformant en produit durant une certaine unité de temps.
+On définit la vitesse de réaction comme la quantité de substrat se transformant en produit durant une certaine unité de temps.
 
-La vitesse consiste à mesurer l'ampleur de la variation de concentration
-du produit pour une petite variation de temps.
+La vitesse consiste à mesurer l'ampleur de la variation de concentration du produit pour une petite variation de temps.
 
 Pour une réaction de type : $A \rightarrow B$
 
@@ -111,14 +109,15 @@ proportionnelle à la quantité de produit présent qui disparait :
 
 Cela signifie qu'à chaque instant $k\%$ du produit A se transforme en B.
 
-|                  |                                           |                             |                                                   |
-|--------------------|-----------------|-------------|-----------------------|
-| Type de réaction | $$A + B \rightarrow C$$                   | $$2A \rightarrow C$$        | $$A + solvant \rightarrow B$$                     |
-| Vitesse          | $$v = k\lbrack A\rbrack\lbrack B\rbrack$$ | $$v = k\lbrack A\rbrack ²$$ | $$v = \ k\lbrack A\rbrack\lbrack sol\rbrack^{0}$$ |
+Type de réaction 			| Vitesse
+----------------------------|----------------------
+$A + B \rightarrow C$		| $v = k\lbrack A\rbrack\lbrack B\rbrack$ 
+$2A \rightarrow C$			| $v = k\lbrack A\rbrack ^{2}$
+$A + solvant \rightarrow B$	| $v = \ k\lbrack A\rbrack\lbrack sol\rbrack^{0}$
 
-[NB :]{.underline} Dans le cas où un des réactifs est le solvant, la
-réaction ne change pas car sa concentration reste la même. Il y aura en
-revanche une diminution du volume.
+
+!!! note
+	Dans le cas où un des réactifs est le solvant, la réaction ne change pas car sa concentration reste la même. Il y aura en revanche une diminution du volume.
 
 ### Équilibre chimique
 
@@ -135,8 +134,7 @@ $\lbrack E\rbrack + \lbrack S\rbrack \rightleftarrows \lbrack ES\rbrack \rightar
 
 Ainsi, la réaction a pour vitesse : $v = k_{2}\lbrack ES\rbrack$
 
-Dans cette réaction enzymatique, lorsque le complexe enzyme-substrat se
-forme, il est soit immédiatement :
+Dans cette réaction enzymatique, lorsque le complexe enzyme-substrat se forme, il est soit immédiatement :
 
 * Transformé en produit $k_{2}\lbrack ES\rbrack$
 * Dissocié $k_{- 1}\lbrack ES\rbrack$
@@ -146,68 +144,37 @@ $k_{1}\left\lbrack E\rbrack\lbrack S \right\rbrack = k_{- 1}\lbrack ES\rbrack + 
 
 ## Constante et équation de Michaelis-Menten
 
-| $$\mathbf{K}_{\mathbf{m}}\mathbf{=}\frac{\left\lbrack \mathbf{E} \right\rbrack\mathbf{\lbrack S\rbrack}}{\mathbf{\lbrack ES\rbrack}}\mathbf{=}\frac{\mathbf{k}_{\mathbf{- 1}}\mathbf{+}\mathbf{k}_{\mathbf{2}}}{\mathbf{k}_{\mathbf{1}}}$$ | $\mathbf{K}_{\mathbf{m}}$ constante d'état stationnaire en mol.L-^1^ |
-|------------------------------------|------------------------------------|
+$\mathbf{K}_{\mathbf{m}}\mathbf{=}\frac{\left\lbrack \mathbf{E} \right\rbrack\mathbf{\lbrack S\rbrack}}{\mathbf{\lbrack ES\rbrack}}\mathbf{=}\frac{\mathbf{k}_{\mathbf{- 1}}\mathbf{+}\mathbf{k}_{\mathbf{2}}}{\mathbf{k}_{\mathbf{1}}}$
+$\mathbf{K}_{\mathbf{m}}$ constante d'état stationnaire en $mol.L^{-1}$
 
-Pour déterminer la vitesse, car on est incapable de mesurer la
-concentration de \[ES\]. L'astuce de Michaelis-Menten est d'écrire
-$v = k_{2}\lbrack ES\rbrack\frac{{\lbrack E}_{0}\rbrack}{{\lbrack E}_{0\rbrack}}$
-et d'exprimer ${\lbrack E}_{0}\rbrack$ en fonction de \[$ES\rbrack$ :
+Pour déterminer la vitesse, car on est incapable de mesurer la concentration de \[ES\]. L'astuce de Michaelis-Menten est d'écrire $v = k_{2}\lbrack ES\rbrack\frac{{\lbrack E}_{0}\rbrack}{{\lbrack E}_{0\rbrack}}$ et d'exprimer ${\lbrack E}_{0}\rbrack$ en fonction de \[$ES\rbrack$ :
 
-| $$\mathbf{\lbrack E}_{\mathbf{0}}\mathbf{\rbrack =}\left\lbrack \mathbf{E} \right\rbrack\mathbf{+ \lbrack ES\rbrack}$$ | $$\mathbf{\lbrack E\rbrack =}\mathbf{K}_{\mathbf{m}}\frac{\mathbf{\lbrack ES\rbrack}}{\mathbf{\lbrack S\rbrack}}$$ |
-|------------------------------------|------------------------------------|
+$\mathbf{\lbrack E}_{\mathbf{0}}\mathbf{\rbrack =}\left\lbrack \mathbf{E} \right\rbrack\mathbf{+ \lbrack ES\rbrack}$
+$\mathbf{\lbrack E\rbrack =}\mathbf{K}_{\mathbf{m}}\frac{\mathbf{\lbrack ES\rbrack}}{\mathbf{\lbrack S\rbrack}}$
 
 On obtient alors pour la vitesse (équation de) :
 
-$$v\mathbf{=}\frac{\mathbf{k}_{\mathbf{2}}\left\lbrack \mathbf{E}_{\mathbf{0}} \right\rbrack\mathbf{\lbrack S\rbrack}}{\mathbf{K}_{\mathbf{m}} + \lbrack S\rbrack}$$
+$v\mathbf{=}\frac{\mathbf{k}_{\mathbf{2}}\left\lbrack \mathbf{E}_{\mathbf{0}} \right\rbrack\mathbf{\lbrack S\rbrack}}{\mathbf{K}_{\mathbf{m}} + \lbrack S\rbrack}$
 
 On peut déduire de l'équation :
 
-<table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 31%" />
-<col style="width: 44%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Information</th>
-<th>Idée</th>
-<th>Mesure</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Vitesse max</td>
-<td>Quantité de substrat qui tend vers l’infini</td>
-<td><p>On a alors <span
-class="math inline"><em>K</em><sub><em>m</em></sub> ≪ [<em>S</em>]</span>
-d’où</p>
-<p><span
-class="math display"><em>v</em><sub>max</sub> = lim<sub>[<em>S</em>] →  + ∞</sub><em>v</em> = <em>k</em><sub>2</sub>[<em>E</em><sub>0</sub>]</span></p>
-<p>On a alors <span
-class="math inline">$\mathbf{k}_{\mathbf{cat}}\mathbf{=}\frac{\mathbf{v}_{\mathbf{\max}}}{\mathbf{\lbrack}\mathbf{E}_{\mathbf{0}}\mathbf{\rbrack}}$</span></p></td>
-</tr>
-<tr class="even">
-<td>Efficacité de l’enzyme</td>
-<td>Plus la vitesse est grande</td>
-<td>Plus <span class="math inline"><em>k</em><sub>2</sub></span> est
-grand</td>
-</tr>
-<tr class="odd">
-<td>Reconnaissance</td>
-<td>Correspond à la proportion <span class="math inline">$\frac{\lbrack
-E\rbrack}{\lbrack ES\rbrack}$</span></td>
-<td><p>Plus <span class="math inline">$\frac{\lbrack E\rbrack}{\lbrack
-ES\rbrack}$</span> est petit, d’où</p>
-<p><span class="math inline">$K_{m} = \frac{\lbrack E\rbrack}{\lbrack
-ES\rbrack}\lbrack S$</span>] petit.</p></td>
-</tr>
-</tbody>
-</table>
+Information | Idée | Mesure
+Vitesse max
+Quantité de substrat qui tend vers l’infini
+On a alors $K_{m}$ 
+d’où $v_{max} = \lim_{x \to \infty} {1 \over x } v = k_{2}$
+On a alors $\mathbf{k}_{\mathbf{cat}}\mathbf{=}\frac{\mathbf{v}_{\mathbf{\max}}}{\mathbf{\lbrack}\mathbf{E}_{\mathbf{0}}\mathbf{\rbrack}}$
 
-[NB :]{.underline} Pour ${\lbrack S\rbrack = K}_{m}$, on a également
-$v = \frac{1}{2}v_{\max}$.
+Efficacité de l’enzyme
+Plus la vitesse est grande
+Plus $K_{2}$ est grand
+Reconnaissance
+Correspond à la proportion
+$\frac{\lbrack E\rbrack}{\lbrack ES\rbrack}$
+Plus $\frac{\lbrack E\rbrack}{\lbrack ES\rbrack}$ est petit, d’où $K_{m} = \frac{\lbrack E\rbrack}{\lbrack ES\rbrack}\lbrack S$ ] petit.
+
+!!! note
+	Pour ${\lbrack S\rbrack = K}_{m}$, on a également $v = \frac{1}{2}v_{\max}$.
 
 !!! note
 	Vmax est atteint lorsque tous les sites actifs des enzymes sont occupés. On dit alors que la solution est saturée en substrat.
@@ -225,27 +192,13 @@ La vitesse peut être facilement linéarisée en posant : $\frac{1}{v}$
 
 Pour
 
-| $$\left\lbrack \mathbf{S} \right\rbrack\mathbf{= 0}\mathbf{\rightarrow v =}\frac{\mathbf{1}}{\mathbf{v}_{\mathbf{\max}}}$$ | $$\mathbf{v}_{\mathbf{i}}\mathbf{= 0 \rightarrow}\frac{\mathbf{1}}{\mathbf{\lbrack S\rbrack}}\mathbf{=}\frac{\mathbf{- 1}}{\mathbf{K}_{\mathbf{m}}}$$ |
-|------------------------------------|------------------------------------|
+$\left\lbrack \mathbf{S} \right\rbrack\mathbf{= 0}\mathbf{\rightarrow v =}\frac{\mathbf{1}}{\mathbf{v}_{\mathbf{\max}}}$
+$\mathbf{v}_{\mathbf{i}}\mathbf{= 0 \rightarrow}\frac{\mathbf{1}}{\mathbf{\lbrack S\rbrack}}\mathbf{=}\frac{\mathbf{- 1}}{\mathbf{K}_{\mathbf{m}}}$
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Point méthode :</p>
-<ul>
-<li><p>Pour savoir si la réaction enzymatique de type Michaelis-Mentens,
-on vérifie que <span class="math inline">$f\left( \frac{1}{\lbrack
-S\rbrack} \right) = \frac{1}{\lbrack P\rbrack}$</span> est une
-droite.</p></li>
-<li><p>On détermine les constantes v<sub>max</sub> et K<sub>m</sub>
-d’après le graphique.</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+!!! notes Point méthode
+	Pour savoir si la réaction enzymatique de type Michaelis-Mentens, on vérifie que $f\left( \frac{1}{\lbrack S\rbrack} \right) = \frac{1}{\lbrack P\rbrack}$ est une droite.
+	
+	On détermine les constantes $v_{max}$ et $K_{m}$ d’après le graphique.</p></li>
 
 # Les inhibiteurs de l'activité enzymatique
 
@@ -272,7 +225,7 @@ Il existe deux grands types d'inhibition :
 
 L'inhibiteur compétitif se lie sur le site réactionnel de l'enzyme à la place d'un substrat. Cela se traduit par une diminution de l'affinité du substrat avec l'enzyme.
 
-$$v_{i} = \frac{v_{\max}\lbrack S\rbrack}{K_{m}(1 + \frac{\lbrack i\rbrack}{K_{i}}) + \lbrack S\rbrack} = \frac{v_{\max}\lbrack S\rbrack}{K_{mI} + \lbrack S\rbrack}$$
+$v_{i} = \frac{v_{\max}\lbrack S\rbrack}{K_{m}(1 + \frac{\lbrack i\rbrack}{K_{i}}) + \lbrack S\rbrack} = \frac{v_{\max}\lbrack S\rbrack}{K_{mI} + \lbrack S\rbrack}$
 
 !!! note
 	On modifie la reconnaissance $K_{m} < {K'}_{m} = K_{m}(1 + \frac{\lbrack i\rbrack}{K_{i}})$
