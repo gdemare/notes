@@ -23,6 +23,7 @@
 ### Bioinformatique
 
 * [Société Française BioInformatique](https://www.sfbi.fr/)
+* [Data analysis and R programming](https://lgatto.github.io/2017_11_09_Rcourse_Jena/index.html) cours sur R la présentation de plusieurs packages et de méthodes de data mining, recommandé dans le cadre du Master.
 
 ## Informatique et data mining
 
