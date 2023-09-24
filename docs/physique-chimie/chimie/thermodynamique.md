@@ -165,7 +165,9 @@ L'idée c'est de déterminer l'énergie de formation à partir de celle nécessa
 
 On peut calculer l'enthalpie en réalisant des combinaisons linéaires de réactions chimiques intermédiaires. L'idée est de sommer des réactions pour obtenir celle désirée.
 
-Lorsqu'un élément est présent à la fois comme réactif et comme produit, il peut être supprimé.
+
+!! note
+    Lorsqu'un élément est présent à la fois comme réactif et comme produit, il peut être supprimé.
 
 !!! note 
     Lorsque l'on inverse une réaction, l'enthalpie change de signe.
@@ -372,7 +374,9 @@ $K_{a} = \frac{{\lbrack H}_{3}O^{+}\rbrack.\lbrack A^{-}\rbrack}{\lbrack AH\rbra
 !!! note
     $K_{e} = K_{a}.K_{b} = 10^{- 14}$
 
-La fonction $p = - log$
+
+!!! note
+    La fonction $p = - log$
 
 On définit le pH :
 
@@ -382,10 +386,10 @@ $pH = - log({\lbrack H}_{3}O^{+}\rbrack) = pK_{a} + log(\frac{\left\lbrack A^{-}
     Déterminer le pH d'une solution auquel on ajoute C d'une base
     $$A^{-} + H_{2}O \leftrightarrow AH + {HO}^{-}$$
     Espèces $\left\lbrack A^{-} \right\rbrack$   $\left\lbrack H_{2}O \right\rbrack$
-    $\lbrack AH\rbrack$$   $$\mathbf{\lbrack}{HO}^{-}\mathbf{\rbrack}$
+    $\lbrack AH\rbrack$ ; $\mathbf{\lbrack}{HO}^{-}\mathbf{\rbrack}$
 
 
-Concentration   $\mathbf{c} - x$ $x$ $x$
+Concentration $\mathbf{c} - x$ $x$ $x$
 
 $K_{b} = \frac{\left\lbrack HO^{-} \right\rbrack.\lbrack AH\rbrack}{\left\lbrack A^{-} \right\rbrack} = \frac{x²}{c - x}$ |
 
