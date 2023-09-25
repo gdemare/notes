@@ -13,14 +13,14 @@ theme:
     - content.tabs.link
     - content.code.copy
     - content.tabs.link 
-    # - navigation.indexes # pour avoir une page d'index dans chaque partie
-      - toc.integrate # réuni le plan et le sommaire
+     - toc.integrate # réuni le plan et le sommaire
     - navigation.tabs #onglet
     - navigation.tabs.sticky #menu avec les onglets tout le temps visible
     - navigation.sections # section dans le menu a gauche
     # - navigation.expand # menu a gauche déroulant ouvert apr défaut
     - navigation.path # affiche le chemin au début de la page.
     - navigation.top # bouton pour remonter en haut
+    # - navigation.indexes # pour avoir une page d'index dans chaque partie
   palette:
     - scheme: slate
       primary: black
