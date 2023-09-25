@@ -8,38 +8,27 @@ theme:
   language: fr
   name: "material"
   features:
+    - content.action.edit # bouton edit
+    - content.action.view # bouton voir
     - content.tabs.link
+    - content.code.copy
+    - content.tabs.link 
+    # - navigation.indexes # pour avoir une page d'index dans chaque partie
+     - toc.integrate # réuni le plan et le sommaire
     - navigation.tabs #onglet
     - navigation.tabs.sticky #menu avec les onglets tout le temps visible
     - navigation.sections # section dans le menu a gauche
     # - navigation.expand # menu a gauche déroulant ouvert apr défaut
     - navigation.path # affiche le chemin au début de la page.
     - navigation.top # bouton pour remonter en haut
-    # - navigation.indexes # pour avoir une page d'index dans chaque partie
-    - content.tabs.link
-     - toc.integrate # réuni le plan et le sommaire
-    - content.action.edit # bouton edit
-    - content.action.view # bouton voir
   palette:
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default 
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
+    - scheme: slate
+      primary: black
+      accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+    
   theme:
     icon:
       edit: material/pencil
