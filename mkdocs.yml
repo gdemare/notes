@@ -14,7 +14,7 @@ theme:
     - content.code.copy
     - content.tabs.link 
     # - navigation.indexes # pour avoir une page d'index dans chaque partie
-     - toc.integrate # réuni le plan et le sommaire
+      - toc.integrate # réuni le plan et le sommaire
     - navigation.tabs #onglet
     - navigation.tabs.sticky #menu avec les onglets tout le temps visible
     - navigation.sections # section dans le menu a gauche
