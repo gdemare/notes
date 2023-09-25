@@ -11,7 +11,7 @@ Soit $f:R \rightarrow R$ est une densité de probabilité d'une variable aléato
 * est continue par morceau $\int_{}^{}{f(x)dx = 1}$
 * $P\left( X\epsilon\lbrack a;b\rbrack \right) = \int_{a}^{b}{f(x)dx}$
 
-$f:R \rightarrow R$ est une fonction de répartition d'une variable aléatoire:
+$f:R \rightarrow R$ est une fonction de répartition d'une variable aléatoire $F(x) = P(X \lt x)$:
 
 * $f$ est continue à droite.
 * $f$ est croissante.
