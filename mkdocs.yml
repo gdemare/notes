@@ -23,7 +23,7 @@ theme:
     - navigation.top # bouton pour remonter en haut
     # - navigation.indexes # pour avoir une page d'index dans chaque partie
   palette:
-    - scheme: slate
+      scheme: slate
       primary: black
       accent: indigo
   font:
