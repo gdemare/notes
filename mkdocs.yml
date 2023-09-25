@@ -146,6 +146,7 @@ nav:
     - "Série temporelle" : data-science/serie-temporelle.md
     - Statistique : data-science/statistique.md
     - "Text mining" : data-science/text-mining.md
+    - "Traitement des images" : data-science/traitement-image.md
     - "Transformation des données " : data-science/transformation-donnees.md  
   - Mathématique :
     - Mathématique : mathematique/mathematique.md
