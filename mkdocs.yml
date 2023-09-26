@@ -24,7 +24,7 @@ theme:
     # - navigation.indexes # pour avoir une page d'index dans chaque partie
   palette:
       scheme: slate
-      primary: black
+      primary: indigo
       accent: indigo
   font:
     text: Roboto
