@@ -60,9 +60,7 @@ $m$             | $N(m;\sigma^{2})$     | Se reporter à la table $Z = \frac{X -
 
 Modélisé par la loi Binomiale de paramètre p et 2N
 
-Bernoulli probabilité d'obtenir le nombre de succès k pour une
-expérience à deux issues (gagné et perdu) répété n fois de manière
-identique et indépendante.
+Bernoulli probabilité d'obtenir le nombre de succès k pour une expérience à deux issues (gagné et perdu) répété n fois de manière identique et indépendante.
 
 $P(x = i) = C_{n}^{k}p^{k}{(1 - p)}^{n - k}$
 
