@@ -1,3 +1,19 @@
+## cours 2023
+
+constante de vitesse 
+
+k = P 
+facteur sphériques lorsque la taille de la molécule augmente moins il y a de chance que la collision se fasse au bonne endroit (0< gross molécules - <1 petites )
+Correspon à l'efficacité de collision.
+
+Facilité les rencontres
+Position des groupements 
+
+\delta G = degré d'avancement $\frac{\delta E}{}$ dérivé = 0 minimum d'énergie.             
+
+
+----------------------------
+
 Pour qu'une réaction chimique puisse se produire, il faut que les réactifs :
 
 * Soient les uns à côté des autres.

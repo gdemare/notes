@@ -1,4 +1,23 @@
-# Les protéines
+## A ajouter
+
+Certains codons sont priviligiés pour coder pour un aa. On retrouve ces préférences dans la fréquence de ARNt présent dans les cellules.
+avantage économique et augmente la efficacité et rapidité de la traduction. 
+
+Cette information est a prendre en compte lorsque l'on cherche a exprimer dans un autre organisme en remplacant les codons peu favorisé par ce qui le sont.
+
+
+Généralement, les protéines sont synthétisé 
+
+es peptides sont synthétisés par des synthétases massives organisées en chaînes de montage
+Des polypeptides assemblés sans que les ribosomes ne soient solicités??? Et oui, ça existe. Les peptides issus de la NRPS (non-ribosomal peptide synthesis) sont généralement assez courts, de deux à environ 50 acides aminés. Ces peptides ne sont pas codés par un gène, et ils ne sont pas limités aux vingt acides aminés de base. On y retrouve parfois des acides aminés de forme D, des variantes méthylées des acides habituels, des résidus hydroxylés ou glycosylés, des résidus jamais retrouvés dans les protéines, etc. Il arrive que la chaîne peptidique y soit cyclique, ou même branchée.
+
+Ces peptides sont synthétisés par des synthétases massives organisées en chaînes de montage; certaines sont des complexes multimériques, d'autres de grandes protéines. Ces enzymes sont modulaires et contiennent une série d'unités fonctionnelles qui peuvent lier un acide aminé libre, l'activer sous forme de thioester, et le coupler au polypeptide grandissant. Chaque module a une taille de 1000-1200 acides aminés, rendant certains de ces enzymes vraiment énormes: une unique protéine de 15 281 résidus (pour une masse de 1,7 MDal!!!) est responsable de la synthèse de la cyclosporine, un immunorépresseur qui ne contient que... 11 résidus!
+
+[Biochimie des protéines](https://biochimiedesproteines.espaceweb.usherbrooke.ca/5.html), cours exceptionnels sur les protéines
+
+
+
+----------------------------
 
 Les protéines (étymologie "au premier rang") sont un polymère d'acides aminés (aa) qui jouent de nombreux rôles notamment dans :
 

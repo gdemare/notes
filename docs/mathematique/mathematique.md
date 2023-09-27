@@ -69,3 +69,11 @@ Factoriser et développer
 
 ...pour les polyn. (appelé forme canonique).
 Connaitre les variations de $f(x)$.
+
+## Identités remarquable
+
+* (1) $(x - a)^{2} = x^2 -2ax + a^2$
+* (1) $(x + a)^{2} = x^2 +2ax + a^2$
+* (3) $x^{2} - y^{2} = (x - y)(x + y)$
+
+Factorisaiton d'un polynome de second degré d'abord (1) ou (2) puis (3)
