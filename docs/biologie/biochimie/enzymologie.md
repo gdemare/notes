@@ -9,7 +9,7 @@ Correspond à l'efficacité de collision.
 Facilité les rencontres
 Position des groupements 
 
-\delta G = degré d'avancement $\frac{\delta E}{}$ dérivé = 0 minimum d'énergie.             
+$\delta G =$ degré d'avancement $\frac{\delta E}{}$ dérivé = 0 minimum d'énergie.
 
 ----------------------------
 

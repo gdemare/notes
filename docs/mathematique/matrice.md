@@ -35,16 +35,13 @@ $\begin{bmatrix} x' \\ y' \end{bmatrix} =
  \end{bmatrix}
 \begin{bmatrix} x \\ y \end{bmatrix}$
 
+__Cosinus directeur__ angle entre deux vecteurs.
+
 #### Produit scalaire
 
 Propriété :
 
-* Le cosinus de deux vecteurs perpendiculaires est nul => le produit scalaire = 0
-
-### Cosinus directeur 
-
-Cosinus directeur__ angle entre deux vecteurs.
-
+* Le cosinus de deux vecteurs perpendiculaires est nul alors le produit scalaire = 0.
 
 ## Matrice carré
 
@@ -55,9 +52,9 @@ __Matrice carré__ matrice avec autant de lignes que de colonnes.
 Le déterminant donne l'information si : 
 
 * Un système d'équation possède une ou plusieurs solutions.
-* Si la matrice est inversable.
+* Si la matrice est inversible.
 
-Si $det(X) = 0$ :
+Si $det(X) = 0$ alors :
 
 * Pas de solutions.
 * La matrice n'est pas inversible.
@@ -83,6 +80,6 @@ Déterminer consiste à résoudre $det(\delta - \alpha I) = 0$
 
 Est ce que si le $det = 0$ est équivalent à une des valeurs propres est égale à 0. 
 
-Gradient : $\psy(x, y) = [ \frac{\partial \psy}{}$
+Gradient : $\psy(x, y) = \frac{\partial \psy}{}$
 
 Si une valeur propre est égale à 0 pas de matrice de valeur propre.
