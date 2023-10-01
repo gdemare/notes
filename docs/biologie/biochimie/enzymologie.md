@@ -2,15 +2,14 @@
 
 constante de vitesse 
 
-k = P 
-facteur sphériques lorsque la taille de la molécule augmente moins il y a de chance que la collision se fasse au bonne endroit (0< gross molécules - <1 petites )
-Correspon à l'efficacité de collision.
+$k = P$
+facteur sphériques lorsque la taille de la molécule augmente moins il y a de chance que la collision se fasse au bonne endroit (0< grosse molécules - <1 petites )
+Correspond à l'efficacité de collision.
 
 Facilité les rencontres
 Position des groupements 
 
 \delta G = degré d'avancement $\frac{\delta E}{}$ dérivé = 0 minimum d'énergie.             
-
 
 ----------------------------
 
@@ -21,7 +20,7 @@ Pour qu'une réaction chimique puisse se produire, il faut que les réactifs :
 
 La réaction a lieu lorsque les réactifs se percutent avec une certaine quantité d'énergie c'est-à-dire suffisamment vite.
 
-etat stationnaire etat de saturation
+Etat stationnaire Etat de saturation
 
 Entalpie libre définit l'équilibre de réaction. Une réaction va toujours dans le sens de l'entalpie libre.
 
@@ -90,13 +89,13 @@ __Catalyseur__ substance qui augmente la vitesse d'une réaction chimique sans p
 
 ### Les endopeptidases
 
-Spécificité de...          | Trypsine         | Chymotrypsine | Endonucléase         |
----------------------------|-----------------|----------------|------------------|
-...réaction                | Hydrolyse        | Hydrolyse     | Hydrolyse            |
-...liaison                 | Peptidique       | Peptidique    | Phosphodiester       |
-...reconnaissance          | Lysine, arginine | Trp, Phe, tyr | Palindrome (AG)      |
-...position de la réaction | C-term           | C-term        | Oxygène et phosphore |
-Stéréospécificité          | L                | L             | D                    |
+Spécificité de...          | Trypsine         | Chymotrypsine | Endonucléase
+---------------------------|-----------------|----------------|------------------
+...réaction                | Hydrolyse        | Hydrolyse     | Hydrolyse
+...liaison                 | Peptidique       | Peptidique    | Phosphodiester
+...reconnaissance          | Lysine, arginine | Trp, Phe, tyr | Palindrome (AG)
+...position de la réaction | C-term           | C-term        | Oxygène et phosphore
+Stéréospécificité          | L                | L             | D
 
 __Palindrome__ séquence dont le sens est indépendant de celui de lecture.
 
