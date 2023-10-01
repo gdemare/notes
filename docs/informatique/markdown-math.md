@@ -1,7 +1,7 @@
 * [Markdown pour les mathématiques](https://www.bearnok.com/grva/it/knowledge/software/mathjax)
 * [MathJax symboles](https://www.bearnok.com/grva/it/knowledge/software/mathjax)
 * [autre markdown](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
-
+* [Wikipedia markdown](https://fr.wikipedia.org/wiki/Table_des_symboles_litt%C3%A9raux_en_math%C3%A9matiques)
 
 ## Alaphabet grec
 
