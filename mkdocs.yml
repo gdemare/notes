@@ -152,7 +152,8 @@ nav:
   - Mathématique :
     - Mathématique : mathematique/mathematique.md
     - Arithmétique :  mathematique/arithmetique.md
-    - Fonctions : mathematique/definition-derives-primitives-limites.md
+    - Fonctions :
+      - "Définition, dérivé, primitive, limite" : mathematique/definition-derives-primitives-limites.md
       - "Fonctions remarquables" : mathematique/fonctions-remarquables.md
     - Geométrie :  mathematique/geometrie.md
     - Matrice : mathematique/matrice.md
