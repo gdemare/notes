@@ -2,26 +2,24 @@
 
 La thermodynamique est un domaine de la chimie qui permet de prévoir si une transformation chimique peut avoir lieu sans déterminer sa composition ou sa vitesse.
 
-__Variable intensive__ (par opposition à extensive) variable indépendante de la quantité de matière (température, pression, le volume,...)
+__Variable intensive__ (par opposition à extensive) variable indépendante de la quantité de matière (température, pression, volume,...)
 
 !!! note
     Le produit de deux variables extensives est une variable intensive (ex : la masse volumique).
 
 __Phase__ partie d'un système où les variables intensives sont des fonctions constantes.
 
-__Capacité thermique__ variable intensive qui quantifie la quantité de chaleur qu'une matière estcapable d'échanger.
+__Capacité thermique__ variable intensive qui quantifie la quantité de chaleur qu'une matière est capable d'échanger.
 
-Par défaut, la température est de 298K et la pression de 1atm.
-
-__État standard__ pression atmosphérique et température 298K.
+__État standard__ pression atmosphérique (1 atm) et température 298K (utilisé par défaut).
 
 Rappel : Pour les gaz parfaits, on a : $pV = nRT$
 
 Avec :
 
-* V volume en $m^{3}$.
-* n quantité de matière en mole.
-* T température en Kelvin (0K = -273,15°C).
+* $V$ volume en $m^{3}$.
+* $n$ quantité de matière en mole.
+* $T$ température en Kelvin (0K = -273,15°C).
 * $R = 8.314J K^{-1}.mol^{-1}$ constante des gaz parfaits.
 
 La masse molaire des principaux atomes est :
@@ -58,16 +56,16 @@ Dans le cas d'une réaction cyclique, on a $\sum_{}^{}{\mathrm{\Delta}U} = 0$.
 Nature transformation   | Description                  | Implication                 
 ------------------------|------------------------------|-------------------
 Isotherme               | Pas de changement de T°      | $T{^\circ} = cste$
-Isochore                | Volume constant              | $$V = cste$$
-Adiabatique             | Pas d'échanges de chaleur    | $$Q = 0$$
-Isobare                 | Pression constante           | $$P = cste$$
+Isochore                | Volume constant              | $V = cste$
+Adiabatique             | Pas d'échanges de chaleur    | $Q = 0$
+Isobare                 | Pression constante           | $P = cste$
 
 ## Le travail (uniquement pour les gaz)
 
 La notion de travail s'applique uniquement aux gaz car ils sont les seuls à subir une variation importante de volume : $\mathbf{\mathrm{\Delta}W = - PdV}$ avec P pression (Pa).
 
 !!! example 
-    pour une réaction isobare, on aura $\mathrm{\Delta}W = - PdV = - P \times \frac{nRT}{P} = - nRT$
+    Pour une réaction isobare, on aura $\mathrm{\Delta}W = - PdV = - P \times \frac{nRT}{P} = - nRT$
 
 ## La chaleur
 
@@ -77,7 +75,9 @@ température.
 !!! note
     Un changement de T° implique nécessairement un échange de chaleur.
 
-Point méthode : Pour chaque réaction, il faut d'abord noter sa nature (isotherme...)
+
+!!! info 
+    Point méthode : Pour chaque réaction, il faut d'abord noter sa nature (isotherme...)
 
 La chaleur se calcule en utilisant une des formules suivantes :
 
@@ -86,11 +86,11 @@ La chaleur se calcule en utilisant une des formules suivantes :
 
 Avec :
 
-* $\mathrm{\Delta}Q$ Différence de chaleur pour trouver la chaleur il est nécessaire d'intégrer.(J.mol^-1^) 
-* $P$ Pression (Pa)
-* $V$ Volume (m^3^)
-* $C_{p}$ Capacité thermique isobare (J.K^-1^)
-* $\mathbf{C}_{\mathbf{v}}$ Capacité thermique isochore (J.K^-1^) 
+* $\mathrm{\Delta}Q$ Différence de chaleur pour trouver la chaleur il est nécessaire d'intégrer ($J.mol^{-1}$).
+* $P$ Pression (Pa).
+* $V$ Volume ($m^{3}$).
+* $C_{p}$ Capacité thermique isobare ($J.K^{-1}$).
+* $\mathbf{C}_{\mathbf{v}}$ Capacité thermique isochore ($J.K^{-1}$) 
 * $dT$ différence de température.
 
 !!! note
@@ -103,16 +103,16 @@ Avec :
 
 La plupart des réactions se font à pression constante (transformation isobare).
 
-$\mathbf{Q}_{\mathbf{p}}\mathbf{= \mathrm{\Delta}H}$
+$\mathrm{\Delta} Q_{p}\mathbf{= \mathrm{\Delta}H}$
 
-Enthalpie chaleur échangée à pression constante ($P = 1\ atm$). Elle est notée $\mathrm{\Delta}H$.
+__Enthalpie__ chaleur échangée à pression constante ($P = 1 atm$). Elle est notée $\mathrm{\Delta}H$.
 
 Une réaction est :
 
 * Endotherme ($\mathrm{\Delta}H > 0$) elle absorbe de la chaleur.
 * Exotherme ($\mathrm{\Delta}H < 0$) elle libère de la chaleur.
 
-# Calculer l'énergie de formation d'une réaction
+## Calculer l'énergie de formation d'une réaction
 
 Quatre méthodes pour déterminer l'enthalpie de réaction :
 
@@ -123,10 +123,10 @@ Enthalpie de formation     | Énergie de formation des molécules
 Combinaison de réactions   | Combinaison linéaire de réactions intermédiaires.
 Energie interne            | Uniquement pour les gaz
 
-!!! note 
+!!! info 
   Point méthode : lorsque l'on parle de réaction de formation sans préciser la formule de réaction, il s'agit de faire réagir des corps simples pour obtenir la molécule désirée.
 
-## Enthalpie de formation
+### Enthalpie de formation
 
 Loi de Hess : L'enthalpie de réactions est égale à l'énergie nécessaire pour former les produits moins celles des réactifs.
 
@@ -147,7 +147,7 @@ $\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}\mathbf
 
 $\mathbf{C}_{\mathbf{p}}$ capacité calorifique en $mol^{-1}$.
 
-## Énergie de liaisons
+### Énergie de liaisons
 
 L'idée c'est de déterminer l'énergie de formation à partir de celle nécessaire pour créer ou détruire des liaisons moléculaires. Cette méthode nécessite de connaitre la structure des molécules c'est-à-dire les liaisons électroniques entre les atomes.
 
@@ -161,10 +161,9 @@ L'idée c'est de déterminer l'énergie de formation à partir de celle nécessa
     * L'énergie de changement d'état.
     * L'énergie pour revenir à la température initiale.
 
-## Combinaison de réactions
+### Combinaison de réactions
 
 On peut calculer l'enthalpie en réalisant des combinaisons linéaires de réactions chimiques intermédiaires. L'idée est de sommer des réactions pour obtenir celle désirée.
-
 
 !! note
     Lorsqu'un élément est présent à la fois comme réactif et comme produit, il peut être supprimé.
@@ -175,14 +174,14 @@ On peut calculer l'enthalpie en réalisant des combinaisons linéaires de réact
 !!! note
     Point méthode faire un tableau une colonne « réactif » et une autre « produit ».
 
-## Energie interne
+### Energie interne
 
 Pour les gaz, à pression constante, on a :
 
 * $\mathbf{\mathrm{\Delta}H}_{\mathbf{r}}\mathbf{= \mathrm{\Delta}U + \mathrm{\Delta}n.R.T}$
 * $\mathbf{\mathrm{\Delta}n}$ différence de quantité de matière.
 
-# 2ème principe de la thermodynamique : l'entropie
+## 2ème principe de la thermodynamique : l'entropie
 
 Sans apport d'énergie extérieur, la matière se tend vers un état de désordre :
 
@@ -520,4 +519,4 @@ $\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^
 
 $K_{a} = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\lbrack AH\rbrack}{\lbrack A^{-}\rbrack}$$   $$K_{b} = \frac{\left\lbrack {HO}^{-} \right\rbrack.\lbrack{AH_{2}}^{+}\rbrack}{\lbrack AH\rbrack}$
 
-$K_{e} = K_{a} \times K_{b} = \ \left\lbrack H_{3}O^{+} \right\rbrack \times \left\lbrack HO^{-} \right\rbrack$  
+$K_{e} = K_{a} \times K_{b} = \ \left\lbrack H_{3}O^{+} \right\rbrack \times \left\lbrack HO^{-} \right\rbrack$

@@ -12,7 +12,9 @@ Markdown | Fonction | Lettre
 `\psi`   | $\psi$   | Psi (min)
 `\phi`   | $\theta$ | theta
 `\omega` | $\omega$ | omega
-`\partial` | $\partial$ | d rond
+`\partial`  | $\partial$    | d rond
+`\sigma`    | $\sigma$      | sigma
+
  
 
 ## Les fonctions

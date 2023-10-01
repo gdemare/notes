@@ -79,9 +79,9 @@ Interprétations du déterminant :
 
 #### Valeurs propres et vecteurs propres
 
-Déterminer consiste à résoudre $det(\delta - \alphaI) = 0$ 
+Déterminer consiste à résoudre $det(\delta - \alpha I) = 0$ 
 
-Est ce que si le det = 0 est équivalent à une des valeurs propres est égale à 0. 
+Est ce que si le $det = 0$ est équivalent à une des valeurs propres est égale à 0. 
 
 Gradient : $\psy(x, y) = [ \frac{\partial \psy}{}$
 
