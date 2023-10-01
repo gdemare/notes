@@ -75,3 +75,14 @@ Interprétations du déterminant :
         2 det( 2 1 -1 )
 
         $det(\begin{bmatrix} a & b \\ c & d \end{bmatrix}) = ad-bc$
+
+
+#### Valeurs propres et vecteurs propres
+
+Déterminer consiste à résoudre $det(\delta - \alphaI) = 0$ 
+
+Est ce que si le det = 0 est équivalent à une des valeurs propres est égale à 0. 
+
+Gradient : $\psy(x, y) = [ \frac{\partial \psy}{}$
+
+Si une valeur propre est égale à 0 pas de matrice de valeur propre.

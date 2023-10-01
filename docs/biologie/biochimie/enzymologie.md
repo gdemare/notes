@@ -21,10 +21,13 @@ Pour qu'une réaction chimique puisse se produire, il faut que les réactifs :
 
 La réaction a lieu lorsque les réactifs se percutent avec une certaine quantité d'énergie c'est-à-dire suffisamment vite.
 
+etat stationnaire etat de saturation
+
+Entalpie libre définit l'équilibre de réaction. Une réaction va toujours dans le sens de l'entalpie libre.
+
 # Présentation des enzymes
 
-L'enzyme se fixe à un des réactifs ce qui modifie le chemin de la réaction et diminue l'énergie d'activation. La réaction a lieu plus
-souvent.
+L'enzyme se fixe à un des réactifs ce qui modifie le chemin de la réaction et diminue l'énergie d'activation. La réaction a lieu plus souvent.
 
 !!! note 
 	Le nom a été donné par Pasteur qui a découvert un composé issu de levure qu'il a utilisé pour transformer le surcre en alcool. Il a nommé ce composé enzyme, en- "dans" et -zyme "levure". 
@@ -105,7 +108,7 @@ __Palindrome__ séquence dont le sens est indépendant de celui de lecture.
 | ...liaison                 | Peptide        | Peptide          |
 | ...reconnaissance          | N-term         | Carboxyle        |
 | ...position de la réaction | N-term         | C-term           |
-| Stéréospécificité          | L              | L                |
+| Stéréospécificité          | L              | L
 
 # Vitesse de réaction
 
@@ -116,8 +119,8 @@ La vitesse consiste à mesurer l'ampleur de la variation de concentration du pro
 Pour une réaction de type : $A \rightarrow B$
 
 $v = \frac{d\lbrack B\rbrack}{dt} = \frac{- d\lbrack A\rbrack}{dt}$
-[B] est la concentration en Mol (ou $mol.L^{-1}$).
-vitesse en $mol.L^{-1}.s^{-1}$
+$[B]$ est la concentration en Mol (ou $mol.L^{-1}$).
+vitesse en $mol.L^{-1}.s^{-1}$ ou $Mol.s^{-1}$
 
 On se rend compte que la vitesse d'apparition du produit est proportionnelle à la quantité de produit présent qui disparait :
 
@@ -174,9 +177,7 @@ $v\mathbf{=}\frac{\mathbf{k}_{\mathbf{2}}\left\lbrack \mathbf{E}_{\mathbf{0}} \r
 
 On peut déduire de l'équation :
 
-Information | Idée | Mesure
-Vitesse max
-Quantité de substrat qui tend vers l’infini
+* La vitesse maximum $v_{max}$. La quantité de substrat qui tend vers l’infini
 On a alors $K_{m}$ 
 d’où $v_{max} = \lim_{x \to \infty} {1 \over x } v = k_{2}$
 On a alors $\mathbf{k}_{\mathbf{cat}}\mathbf{=}\frac{\mathbf{v}_{\mathbf{\max}}}{\mathbf{\lbrack}\mathbf{E}_{\mathbf{0}}\mathbf{\rbrack}}$
@@ -338,7 +339,7 @@ On note pour :
 À l'équilibre la vitesse d'association est égale à celle de dissociation. Les concentrations des différentes espèces chimiques n'évoluent plus. On a :
 
 * La constante d'affinité à l'équilibre $K_{d} = \frac{k_{diss}}{k_{ass}} = \frac{\lbrack L\rbrack\lbrack R\rbrack}{\lbrack LR\rbrack}$
-* La quantité de récepteur ${\lbrack R}_{0}\rbrack = \lbrack R\rbrack + \lbrack RL\rbrack$
+* La quantité de récepteurs ${\lbrack R}_{0}\rbrack = \lbrack R\rbrack + \lbrack RL\rbrack$
 
 On obtient alors :
 
@@ -389,3 +390,4 @@ Expérience A : Ligand marqué non lié
 Expérience B : Ligand manqué spécifique + ligand marqué non lié
 
 La différence des concentrations permet d'obtenir le liant non spécifique.
+

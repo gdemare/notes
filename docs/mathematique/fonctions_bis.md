@@ -7,4 +7,3 @@ Antécédent
 
 !!! Note
 	Si f est bijective alors il existe une fonction $f^{-1}(y) = x$
-

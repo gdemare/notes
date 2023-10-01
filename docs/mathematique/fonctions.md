@@ -2,10 +2,7 @@
 
 ### Fonction exponentielle
 
-La fonction exponentielle est une fonction qui associe un nombre à son
-doublement (taux d'accroissement). C'est exactement comment le taux
-d'intérêt d'un livret. L'intérêt dépend de l'argent du compte : plus il
-y a d'argent plus la valeur de l'accroissement du compte sera élevé.
+La fonction exponentielle est une fonction qui associe un nombre à son doublement (taux d'accroissement). C'est exactement comment le taux d'intérêt d'un livret. L'intérêt dépend de l'argent du compte : plus il y a d'argent plus la valeur de l'accroissement du compte sera élevé.
 
 Pour une valeur qui 1 qui double à
 
@@ -129,6 +126,9 @@ Multiplié par le conjugué $(a + \sqrt{}b)(a - \sqrt{b})$
 
 ## Ajustement
 
-Nom	 		| Fonction 
+Nom	 		    | Fonction 
 ------------|---
 Exponentiel	| ${ae}^{- b.x}$
+
+
+

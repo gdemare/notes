@@ -9,16 +9,15 @@ Nucléoside (s de sucre) molécule formée par un glucose et une base.
 Nucléotide mono/di/triphosphate molécule formée d'un nucléoside et de
 n-groupe phosphate.
 
-[Rmq :]{.underline} L'ADN et l'ARN sont des polymères de nucléotides.
+!!! note
+    L'ADN et l'ARN sont des polymères de nucléotides.
 
 L'information qui code pour la séquence d'acides aminées d'une protéine
 est stockée dans un gène. Pour qu'une protéine soit synthétisé, il
 faut :
 
 1.  La transcription du gène en ARN M.
-
 2.  La traduction de l'ARN M en chaîne peptidique.
-
 3.  La protéine adopte sa conformation fonctionnelle spontanément ou
     avec l'aide d'autres protéines.
 
@@ -600,3 +599,4 @@ Comparaison de l'ADN entre les procaryotes et les Eucaryotes :
 Généralement le substrat d'une fonction métabolique est un facteur de
 transcription conduisant traduction de l'ARN polycistronique (codant
 pour plusieurs protéines).
+

@@ -395,3 +395,14 @@ facteur de transcription càd que la transcription de n'a lieu qu'en
 présence de X-Gal.]{.mark}
 
 Le fait que l'ARN soit polycitronique (régulaion génétique)
+
+### Rétro transcription ou transcription inverse
+
+__Reverse transcription (transcription inverse ou rétro transcription)__ processus de conversion de l’ARN en ADN.
+
+La transcription inverse est réalisée par la rétrotranscriptase. Cette enzyme est une ADN polymérase ARN dépendante et endonucléase pour éliminer le brin d'ARN et permettre la synhtèse du brin complémentaire.
+
+La rétrotranscriptase est notamment présente dans certains virus (les rétro virus) et dans les cellules aux sein des rétrotransposons.Dans le cadre des virus, l'insertion de l'ADN se faire par un complexe pré-intégratif.
+
+!!! note 
+    La rétro transcriptase permet de connaitre de le niveau de traduction d'un gène (niveau d’expression) dans le cadre de la RT-PCR .

@@ -14,7 +14,7 @@ Pas clair à revoir
 * $\mathbf{A\ et\ non(B)}$
 * $\mathbf{non}\left( \mathbf{B} \right)\mathbf{\ }\overset{}{\Rightarrow}\mathbf{non(A)}$ Contraposée est vrai seulement si
 * $A\overset{}{\Rightarrow}B$ l'est aussi
-* $$\overset{}{\Rightarrow}\mathbf{A}$$ Réciproque
+* $\overset{}{\Rightarrow}\mathbf{A}$ Réciproque
 
 ## Lettres grecques
 
@@ -50,7 +50,7 @@ Unité 				| Symbole			| Grandeur
 kilo 				| k 				| $\mathbf{10}^{\mathbf{- 3}}$ 
 Hecto				| h 				| $\mathbf{10}^{\mathbf{- 2}}$
 Déca 				| da 				| $\mathbf{10}^{\mathbf{- 1}}$ 
-Unité				|  	| $\mathbf{10}^{\mathbf{0}}\mathbf{= 1}$
+Unité				|  					| $\mathbf{10}^{\mathbf{0}}\mathbf{= 1}$
 Déci  				| d 				| $\mathbf{10}^{\mathbf{1}}$
 Centi 				| c 				| $\mathbf{10}^{\mathbf{2}}$
 Milli 				| m 				| $\mathbf{10}^{\mathbf{3}}$
@@ -70,10 +70,14 @@ Factoriser et développer
 ...pour les polyn. (appelé forme canonique).
 Connaitre les variations de $f(x)$.
 
-## Identités remarquable
+## Identités remarquables
 
 * (1) $(x - a)^{2} = x^2 -2ax + a^2$
 * (1) $(x + a)^{2} = x^2 +2ax + a^2$
 * (3) $x^{2} - y^{2} = (x - y)(x + y)$
 
-Factorisaiton d'un polynome de second degré d'abord (1) ou (2) puis (3)
+!!! note
+	Les identifés remarquables sont notammet utilisées dans la factorisaiton d'un polynome de second degré d'abord (1) ou (2) puis (3).
+
+déviré premier sens de variation
+dérivé second permet de détecter les plateaux.
