@@ -1,5 +1,3 @@
-# Analyse de séquences
-
 Principales bases de données accessibles :
 
 * Séquences :
@@ -9,7 +7,7 @@ Principales bases de données accessibles :
 * Strucutres acides nucléiques et protéines : Protéines Data Bank
 
 
-## Alignement de deux séquences
+## Aligner deux séquences
 
 L'analyse des séquences se fait par l'étude des correspondances.
 être capable de déterminer des informations sur les séquences et pouvoir prédire.
@@ -109,11 +107,10 @@ identiques malgré l'environnement. L'algorithme de Smith-Waterman est
 une méthode d\'alignement local générale basée aussi sur la
 programmation dynamique.
 
-Avec des séquences suffisamment semblables, il n\'y aucune différence
+Avec des séquences suffisamment semblables, il n'y aucune différence
 dans les résultats.
 
-Des méthodes hybrides, des méthodes semi-locales, s\'avèrent utiles
-lorsque...
+Des méthodes hybrides, des méthodes semi-locales, s'avèrent utiles lorsque...
 
 $S_{bit} = \frac{\lambda S_{r} - lnK}{ln2}$
 
