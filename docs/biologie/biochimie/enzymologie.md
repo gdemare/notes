@@ -11,6 +11,9 @@ Position des groupements
 
 $\delta G =$ degré d'avancement $\frac{\delta E}{}$ dérivé = 0 minimum d'énergie.
 
+
+loi cinétique évolution du produit en fonction du temps.
+
 ----------------------------
 
 Pour qu'une réaction chimique puisse se produire, il faut que les réactifs :
@@ -124,7 +127,7 @@ vitesse en $mol.L^{-1}.s^{-1}$ ou $Mol.s^{-1}$
 On se rend compte que la vitesse d'apparition du produit est proportionnelle à la quantité de produit présent qui disparait :
 
 * $\mathbf{v = k\lbrack A\rbrack}$
-* $\mathbf{k}$ constante de vitesse en s^-1^
+* $\mathbf{k}$ constante de vitesse en $s^{-1}$
 
 Cela signifie qu'à chaque instant $k\%$ du produit A se transforme en B.
 
@@ -212,7 +215,7 @@ $\mathbf{v}_{\mathbf{i}}\mathbf{= 0 \rightarrow}\frac{\mathbf{1}}{\mathbf{\lbrac
 !!! notes Point méthode
 	Pour savoir si la réaction enzymatique de type Michaelis-Mentens, on vérifie que $f\left( \frac{1}{\lbrack S\rbrack} \right) = \frac{1}{\lbrack P\rbrack}$ est une droite.
 	
-	On détermine les constantes $v_{max}$ et $K_{m}$ d’après le graphique.</p></li>
+	On détermine les constantes $v_{max}$ et $K_{m}$ d’après le graphique.
 
 # Les inhibiteurs de l'activité enzymatique
 

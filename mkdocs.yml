@@ -70,6 +70,7 @@ nav:
       - "Les protéines" : biologie/biochimie/proteines.md
       - "Les sucres" : biologie/biochimie/sucres.md
       - Enzymologie : biologie/biochimie/enzymologie.md
+      - "Réactivité chimique en biologie" : biologie/biochimie/reactivite-chimique-biologie.md
     - "Métabolisme" :
       - "Photosynthèse et métabolisme secondaire" : biologie/biochimie/photosynthese-metabolisme-secondaire.md
     - Bioinformatique :
@@ -167,6 +168,7 @@ nav:
       - "Tests statistiques" : mathematique/tests-statistiques.md
   - 'Physique Chimie' :
     - Chimie :
+      - "Cinétique" : physique-chimie/chimie/cinetique.md
       - Thermodynamique : physique-chimie/chimie/thermodynamique.md
     - Physique :
       - Physique : physique-chimie/physique/physique.md

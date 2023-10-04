@@ -50,6 +50,7 @@ Markdown			| Opérateur			| Définition
 `\sqrt[n]{x}`       | $\sqrt[n]{x}$     | racine n 
 `\vert{x}\vert`     | $\vert{x}\vert$   | valeur absolue
 `\left\Vert x \right\Vert` | $\left\Vert x \right\Vert$ | norme
+`\pm`               | $\pm$             | plus et moins
 
 
 Markdown			| Opérateur			| Définition
