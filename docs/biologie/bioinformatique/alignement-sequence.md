@@ -6,61 +6,8 @@ Principales bases de données accessibles :
     * Pour les protéines : Uniprot.
 * Strucutres acides nucléiques et protéines : Protéines Data Bank
 
+## Séquençage
 
-## Aligner deux séquences
-
-L'analyse des séquences se fait par l'étude des correspondances.
-être capable de déterminer des informations sur les séquences et pouvoir prédire.
-
-* Choix du type d'alignement.
-* Un critère de comparaison.
-
-### Les types d'alignements
-
-Deux types d'alignements :
-
-* global. Comparer deux séquences. généralement d'une région similaire. plutot pour les séquences homologue.
-* local. Comparer des séquences avec des motifs commumns. Par exemple trouver un motif commun analogue.
-
-* alignement multiples pour identifier des motifs communes à plsuieurs séquences.
-
-__signature__ séquence commune à une famille de protéines ou de gènes.
-
-__covariation__ deux positions qui sont liés et qui dépendent l'une de l'autre.
-
-Minimiser les gaps.
-Maximiser les identités.
-Et moins important, préférer les substitutions au délétions....
-
-Généralement, on compte les alignements :
-
-* x nbre de correspondances.
-* y nbre de substitutions.
-* z nbre de gap.
-
-Fonction coût à minimser :
-
-* $\omega * y + \omega * z$ avec y et z 
-
-!!! note 
-    Généralement, le poids des gaps successifs est décroissants. Autrement dit, les séquences avec de nombreux gap sont plus pénalisés que celle avec de grands gaps.
-
-Comparer deux séquences gloablement dot plot.
-Lecture en diagonal, permet d'idnetifier les l'alignement qui offre le plus de ressemblacnce.
-reprére des diagonales d'identités poids présents dan 
-Pour identifier l'alignement le plus intéressants, il faut identifier un chemin qui maximise le nombre de points.
-
-Diagonale inversée la séquence a été inversé.
-Tache répétition. palindrome
-tache rayé répétition de séquences identiques 
-
-### Algorithme d'alignements gobaux
-
-#### Algorithme "exact"
-
-Dot plot en partant en haut à gauche, pour chaque déplacement on applique les coûts que l'on aditionne à chaque case. Le trajet optimal est celui avec le plus petit score.
-
-# Séquençage à partir de 
 
 Les techniques de séquençages se basent sur la découpe de polymères et l'analyse des petits fragments. Les
 
@@ -73,28 +20,25 @@ C=NL/GC=NL/G.
 G taille totale
 L taille des fragments
 
-# Séquençage
-
 Parameter important dans le séquençage.
 
-Read lengths:
+Read lengths: 
 
 Error rates and types of errors:
 
-# Assembleur
+## Assembler des séquences
 
-Principale difficulté est la redondance de motif.
+L'objectif est de reconstituer une séquence à partir de morceaux. Les principales difficultés sont :
 
-1. There are errors in the reads, and therefore looking for exact alignment is challenging.
-2. The genome is quite repetitive, and therefore a read may have several places it can align to. In fact, there are regions of the genome (e.g. Alu repeats) that are repeated millions of times.
-
+1. Les erreurs de lecture que ne permettent pas trovuer un alignement exact.
+2. Certaines séquences répétées peuvent être alignées à plusieurs endroits.
 3. Recall above that we need to align N=N= 900,000,000 reads to a length 3B genome. Therefore the naive process of scanning the entire genome for each read's match is too slow.
 
 Quantifier l'ARN expectation--maximization (EM) algorithm
 
 Mutation ponctuelle accepté mutation d'aa qui n'ont pas affecté la fonction de la protéine.
 
-# Alignement
+## Recherche de séquences proches
 
 % de similitude d'un alignement = nbre d'acides aminées bien alignée.
 
@@ -129,3 +73,57 @@ Score pour un match, mismatch, gap, extension de gap
 % d'identité % de bases les mêmes  nbre de position identique 
 % de similarité identitié + similitude 
 % gap   
+
+### Algorithme d'alignements gobaux
+
+#### Algorithme "exact"
+
+Dot plot en partant en haut à gauche, pour chaque déplacement on applique les coûts que l'on aditionne à chaque case. Le trajet optimal est celui avec le plus petit score.
+
+## Aligner deux séquences
+
+L'analyse des séquences se fait par l'étude des correspondances.
+être capable de déterminer des informations sur les séquences et pouvoir prédire.
+
+* Choix du type d'alignement.
+* Un critère de comparaison.
+
+### Les types d'alignements
+
+Deux types d'alignements :
+
+* global. Comparer deux séquences. généralement d'une région similaire. plutot pour les séquences homologues.
+* local. Comparer des séquences avec des motifs commumns. Par exemple trouver un motif commun analogue.
+
+* alignement multiples pour identifier des motifs communes à plsuieurs séquences.
+
+__signature__ séquence commune à une famille de protéines ou de gènes.
+
+__covariation__ deux positions qui sont liées et qui dépendent l'une de l'autre.
+
+Minimiser les gaps.
+Maximiser les identités.
+Et moins important, préférer les substitutions au délétions....
+
+Généralement, on compte les alignements :
+
+* x nbre de correspondances.
+* y nbre de substitutions.
+* z nbre de gap.
+
+Fonction coût à minimser :
+
+* $\omega * y + \omega * z$ avec y et z 
+
+!!! note 
+    Généralement, le poids des gaps successifs est décroissants. Autrement dit, les séquences avec de nombreux gap sont plus pénalisés que celle avec de grands gaps.
+
+Comparer deux séquences gloablement dot plot.
+Lecture en diagonal, permet d'idnetifier les l'alignement qui offre le plus de ressemblacnce.
+reprére des diagonales d'identités poids présents dan 
+Pour identifier l'alignement le plus intéressants, il faut identifier un chemin qui maximise le nombre de points.
+
+Diagonale inversée la séquence a été inversé.
+Tache répétition. palindrome
+tache rayé répétition de séquences identiques 
+

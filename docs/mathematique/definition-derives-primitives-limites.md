@@ -10,13 +10,9 @@ Antécédent
 
 ## Dérivé et primitive
 
-Le signe de la dérivé permet de connaitre la variation de $f(x)$.
+Le signe de la dérivé permet de connaitre la variation de $f(x)$ grâce au signe de la dérivée.
 
-Dérivée |   Connaitre les variations
- |  |  |    de$\mathbf{\ f}\left( \mathbf{x} \right)$ grâce au signe
- |  |  |    de la dérivée.
-
-Tangente :   $f^{'}(a)(x - a) + f(a)$
+Tangente :   $f'(a)(x - a) + f(a)$
 
 Calculer l'aire sous la courbe (primitive) : $\int_{}^{}{f(x)\ dx} = \ F(x) + C$
 
@@ -35,10 +31,11 @@ $\mathbf{\cos}\mathbf{(u)}$	| $- u' \times \sin u$
 $\mathbf{\sin}\mathbf{(u)}$ | $u' \times \cos u$
 $\mathbf{\tan}\mathbf{(u)}$ | $u' \times (1{{+ (tan}u)}^{2})$
 
-Trouver une primitive $\int_{}^{}\mathbf{u' \times v}\mathbf{=}\left\lbrack$
+Trouver une primitive $\int_{}^{} \mathbf {u' \times v} \mathbf{=}\left\lbrack$
+
 Intégration par partie
 
-$$mathbf{uv} \right\rbrack\mathbf{-}\int_{}^{}\mathbf{u \times v'}$$
+$\int u(x) \cdot v'(x) dx = \lbrack u \cdot v \rbrack + \int u'(x) \cdot v(x) dx$
 
 ## Limites
 

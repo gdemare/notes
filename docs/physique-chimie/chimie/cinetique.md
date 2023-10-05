@@ -1,17 +1,16 @@
-Lors d'une réaction passe par un intermédiaire réactionnel, c'est
+Lors d'une réaction passe par un intermédiaire réactionnel,
 l'aspect cinétique qui domine.
 
-Énergie d'activation énergie minimum
+__Énergie d'activation__ énergie minimum
 
 On peut accélérer une réaction en augmentant la température ce qui a
 pour effet de faciliter :
 
-|                                  |                                                                                                        |
-|-------------------------|-----------------------------------------------|
-| La rencontre entre les molécules | La vitesse de collision et ainsi permettre de passer la barrière que constitue l'énergie d'activation. |
+* La rencontre entre les molécules.
+* La vitesse de collision et ainsi permettre de passer la barrière que constitue l'énergie d'activation.
 
-[Rmq :]{.underline} Cela revient à augmenter la probabilité que la
-réaction est lieu.
+!!! note
+    Cela revient à augmenter la probabilité que la réaction aie lieu.
 
 Vitesse de disparition $2A \rightarrow B$
 
@@ -21,16 +20,15 @@ Vitesse de disparition $2A \rightarrow B$
 
 La vitesse de disparition de A est deux fois plus rapide que celle de B.
 
-Réaction élémentaire réaction en une seule étape.
+__Réaction élémentaire__ réaction en une seule étape.
 
-Molarité nombre d'entités chimiques (molécules, ions, radicaux) qui
-participent à une réaction élémentaire.
+__Molarité__ nombre d'entités chimiques (molécules, ions, radicaux) qui participent à une réaction élémentaire.
 
-Ordre partielle nombre de molécules de chaque espèce.
+__Ordre partielle__ nombre de molécules de chaque espèce.
 
-Ordre de réaction évolution de la concentration de l'espèce.
+__Ordre de réaction__ évolution de la concentration de l'espèce.
 
-Calcule de la vitesse en fonction de l'
+Calcul de la vitesse en fonction de l'
 
 $$A + B \rightarrow C$$
 
@@ -44,22 +42,17 @@ La vitesse est $v = - \frac{d\lbrack A\rbrack}{dt}$
 
 $\mathbf{k}$ constante de vitesse
 
-[NB :]{.underline}
-$\int_{A_{0}}^{A}\frac{d\lbrack A\rbrack}{\lbrack A\rbrack} = {\lbrack\ln A\rbrack}_{A_{0}}^{A} = \ln A - \ln A_{0} = - kdt \Longleftrightarrow A = A_{0}e^{- kt}$
+!!! note
+    $\int_{A_{0}}^{A}\frac{d\lbrack A\rbrack}{\lbrack A\rbrack} = {\lbrack\ln A\rbrack}_{A_{0}}^{A} = \ln A - \ln A_{0} = - kdt \Longleftrightarrow A = A_{0}e^{- kt}$
 
-[Rmq :]{.underline} pour tracer le graphique, on peut linéariser en
-utilisant $ln(A)
-$Demi-temps de vie, c'est
-$\lbrack A\rbrack = \frac{{\lbrack A\rbrack}_{0}}{2}$
+!!! note
+    Pour tracer le graphique, on peut linéariser en utilisant $ln(A) $Demi-temps de vie, c'est $\lbrack A\rbrack = \frac{{\lbrack A\rbrack}_{0}}{2}$
 
 Deux méthodes pour déterminer l'ordre d'une réaction :
 
--   Intégrale. On suppose l'ordre de la réaction et on représente la
-    forme linéaire pour chaque ordre hypothétique, l'ordre réel
-    correspondra au graphique qui trace une droite.
+* Intégrale. On suppose l'ordre de la réaction et on représente la forme linéaire pour chaque ordre hypothétique, l'ordre réel correspondra au graphique qui trace une droite.
 
--   Différentielle (linéariser la vitesse et déterminer l'ordre à partir
-    du coefficient b de la droite).
+* Différentielle (linéariser la vitesse et déterminer l'ordre à partir du coefficient b de la droite).
 
 ### Méthode intégrale
 
@@ -83,43 +76,27 @@ $v = - \frac{d\lbrack A\rbrack}{dt}$
 
 ## Variation de la vitesse en fonction de la température (et de l'énergie d'activation et la constante de vitesse)
 
-<table>
-<colgroup>
-<col style="width: 26%" />
-<col style="width: 73%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><span class="math display">$$k = Ae^{-
-\frac{E_{a}}{RT}}$$</span></td>
-<td><p><span class="math inline"><em>k</em></span> constante de
-vitesse</p>
-<p><span class="math inline"><em>A</em></span> facteur de fréquence
-(même unité que <span class="math inline"><em>k</em></span>)</p>
-<p><span class="math inline"><em>E</em><sub><em>a</em></sub></span>
-énergie d’activation j.mol<sup>-1</sup></p>
-<p><span class="math inline"><strong>R</strong></span> constante des gaz
-parfaits 8,314 j.K<sup>-1</sup>.mol<sup>-1</sup></p>
-<p><span class="math inline"><strong>T</strong></span> température en
-K</p></td>
-</tr>
-</tbody>
-</table>
+$$k = Ae^{-\frac{E_{a}}{RT}}$$
 
-[Rmq :]{.underline} lorsque $\mathbf{E}_{\mathbf{a}}$augmente, $k$
-diminue et lorsque $T$ augmente $k$ augmente. Plus $k$ est grand plus la
-réaction est rapide.
+* $k$ constante de vitesse
+* $A$ facteur de fréquence (même unité que k
+* $E_{a}$ énergie d’activation $j.mol^{-1}
+* $R$ constante des gaz
+parfaits 8,314 j.K^{-1}.mol{-1}
+* $T$ température en K
+
+!!! note
+    lorsque $\mathbf{E}_{\mathbf{a}}$augmente, $k$ diminue et lorsque $T$ augmente $k$ augmente. Plus $k$ est grand plus la réaction est rapide.
 
 ### Linéarisation et représentation graphique 
 
 $$f\left( \frac{1}{T} \right) = \ln K$$
 
-[Rmq :]{.underline} L'énergie d'activation correspond alors au
-coefficient de la droite.
+!!! note
+    L'énergie d'activation correspond alors au coefficient de la droite.
 
-|                                                                                                                                                                                          |
-|------------------------------------------------------------------------|
-| Méthode : Pour vérifier si la réaction suit la loi de la variation de la température, on trace sa représentation graphique et si c'est une droite alors la réaction suit bien cette loi. |
+!!! note 
+    Méthode : Pour vérifier si la réaction suit la loi de la variation de la température, on trace sa représentation graphique et si c'est une droite alors la réaction suit bien cette loi. |
 
 # La dissolution
 
@@ -136,12 +113,9 @@ phénomènes :
 Il existe deux types de catalyse en fonction de la solubilité de
 celui-ci :
 
-|                    |                          |
-|--------------------|--------------------------|
-| Homogène (soluble) | Hétérogène (non soluble) |
+* Homogène (soluble)
+* Hétérogène (non soluble)
 
-Cinétique passage par des intermédiaires non stable $K( = Q_{r})$
-faible.
+Cinétique passage par des intermédiaires non stable $K( = Q_{r})$ faible.
 
-Composé de coordination molécule composé d'un cation central ou d'un
-métal.
+Composé de coordination molécule composé d'un cation central ou d'un métal.

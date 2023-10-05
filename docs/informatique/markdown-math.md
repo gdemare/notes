@@ -3,6 +3,11 @@
 * [autre markdown](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
 * [Wikipedia markdown](https://fr.wikipedia.org/wiki/Table_des_symboles_litt%C3%A9raux_en_math%C3%A9matiques)
 
+## Autres 
+
+* `![description](lien)` insérer une image.
+    * `{ width=50% }` préciser la largeur.
+
 ## Alaphabet grec
 
 Markdown | Fonction | Lettre
