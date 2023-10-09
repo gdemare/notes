@@ -147,7 +147,7 @@ Les types de tests principaux :
 Test                                             | Formule          | Degré de liberté
 -------------------------------------------------|------------------|-----------------
 Moyenne observée et moyenne théorique            | $E_{obs} = \vert{\frac{\hat{x}-\mu}{\sqrt{\frac{s^{2}}{n}}}}\vert$   | 
-Distribution de deux échantillons (test Student) | $E_{obs} = \vert{\frac{\hat{x_{1}} - \hat{\hat{x_{2}}}}{\sqrt{\frac{{s_{1}}^{2}}{n}} + \sqrt{\frac{{s_{2}}^{2}}{n}}}}\vert$  | $df = n_{A}+n_{B}−2$
+Distribution de deux échantillons (test Student) | $E_{obs} = \vert{\frac{\hat{x_{1}} - \hat{\hat{x_{2}}}}{\sqrt{\frac{{s_{1}}^{2}}{n} + \frac{{s_{2}}^{2}}{n}}}\vert$  | $df = n_{A}+n_{B}−2$
 Un échantillon et une loi de probabilité         | Test du Xhi2 | 
 
 #### Test pour comparer deux moyennes
