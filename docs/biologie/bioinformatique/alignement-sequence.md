@@ -8,35 +8,33 @@ Principales bases de données accessibles :
 
 ## Séquençage
 
-
 Les techniques de séquençages se basent sur la découpe de polymères et l'analyse des petits fragments. Les
 
 1.  Séquençages
 2.  Assembleur
 3.  Alignement
 
-C=NL/GC=NL/G.
+$C = \frac{NL}{G}$
 
-G taille totale
-L taille des fragments
+* $G$ taille totale
+* $L$ taille des fragments
 
 Parameter important dans le séquençage.
 
-Read lengths: 
-
-Error rates and types of errors:
+* Read lengths, taille des fragments. 
+* Error rates and types of errors:
 
 ## Assembler des séquences
 
 L'objectif est de reconstituer une séquence à partir de morceaux. Les principales difficultés sont :
 
-1. Les erreurs de lecture que ne permettent pas trovuer un alignement exact.
+1. Les erreurs de lecture que ne permettent pas trouver un alignement exact.
 2. Certaines séquences répétées peuvent être alignées à plusieurs endroits.
 3. Recall above that we need to align N=N= 900,000,000 reads to a length 3B genome. Therefore the naive process of scanning the entire genome for each read's match is too slow.
 
 Quantifier l'ARN expectation--maximization (EM) algorithm
 
-Mutation ponctuelle accepté mutation d'aa qui n'ont pas affecté la fonction de la protéine.
+__Mutation ponctuelle acceptée__ mutation d'aa qui n'ont pas affecté la fonction de la protéine.
 
 ## Recherche de séquences proches
 
@@ -78,7 +76,9 @@ Score pour un match, mismatch, gap, extension de gap
 
 #### Algorithme "exact"
 
-Dot plot en partant en haut à gauche, pour chaque déplacement on applique les coûts que l'on aditionne à chaque case. Le trajet optimal est celui avec le plus petit score.
+Dot plot en partant en haut à gauche, pour chaque déplacement, une fonction coût est appliquée.
+On inscrit la somme mininale (entre les cases au alentour).
+Le trajet optimal est celui avec le plus petit score.
 
 ## Aligner deux séquences
 
@@ -125,5 +125,4 @@ Pour identifier l'alignement le plus intéressants, il faut identifier un chemin
 
 Diagonale inversée la séquence a été inversé.
 Tache répétition. palindrome
-tache rayé répétition de séquences identiques 
-
+tache rayé répétition de séquences identiques.
