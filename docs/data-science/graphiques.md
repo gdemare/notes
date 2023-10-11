@@ -15,7 +15,12 @@ nominale | diagramme en barre, diagramme circulaire         | Décroissant ordon
 ordinale | diagramme en barre                               | Classee par la var
 discrete | diagramme en baton                               | 
 continu  | histogramme, courbe, densité cumulée, box plot   |
- 
+
+Les valeurs d'un boxplot sont :
+
+* la médiane, Q1, Q3.
+* La valeur minimum ou les valeurs extrêmes avec un trait à $1,5 \time (Q_{3} - Q_{1}) si le minimum est inférieur (même chose pour le max).$
+
 ## Croisement entre deux variables
 
 Abscisse/ordonné    | Nominale          | Ordinale  | Discrète              | Continue

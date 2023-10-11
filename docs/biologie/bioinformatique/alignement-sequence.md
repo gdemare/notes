@@ -126,3 +126,25 @@ Pour identifier l'alignement le plus intéressants, il faut identifier un chemin
 Diagonale inversée la séquence a été inversé.
 Tache répétition. palindrome
 tache rayé répétition de séquences identiques.
+
+## Méthodologie
+
+Choisir :
+
+1. Le type d'alignement
+2. Le critère de comparaion pour trier les alignements.
+
+Région 
+Fragment 
+Domaine
+Motif 
+
+Alignement
+
+Dresser un tableau des :
+
+Identité commune entre deux séquences (à maximiser) $x$
+Substituion (minimiser) $y$
+Insertion ou délétion (minimiser) $z$
+
+$\frac{(n + m)}{2} - x = y + \frac{1}{2}z$
