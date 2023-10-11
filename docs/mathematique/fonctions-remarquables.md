@@ -55,12 +55,6 @@ Propriétés du logarithme :
 * $\ln\left( frac{a}{b} \right) = \ln(a) - ln(b)$
 * $\ln\left( a^{n} \right) = n \times ln(a)$
 
-## Équation différentielle
-
-Equation différentielle	| Solution 			| Description
-------------------------|-------------------|---
-$y^{'} + Ay = 0$ 		| $y = ke^{- ax}$	| Equation différentielle d'ordre 2
-
 ## Les polynômes
 
 Déterminer les valeurs pour lesquels $f(x) = 0$. Ces méthodes sont également pratiques pour connaître le signe de $f(x)$ :
@@ -70,9 +64,9 @@ Déterminer les valeurs pour lesquels $f(x) = 0$. Ces méthodes sont également 
     1. Calculer le delta : $\mathrm{\Delta} = b^{2} - 4ac$
     2. Si delta est :
 
-Delta 					| Nb de solutions
+Delta 					| Nb de solutions reels
 ------------------------|----------------
-$\mathrm{\Delta} < 0$	| 0
+$\mathrm{\Delta} < 0$	| 0 (des solutions dans le plan des complexes)
 $\mathrm{\Delta} = 0$	| 1
 $\mathrm{\Delta} > 0$	| 2
 
