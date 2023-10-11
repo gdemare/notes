@@ -12,6 +12,21 @@ $X$ de la loi $f_{x}$ et de fonction de répartition $F_{x}$ on note
     * quel est l'indicateur mesuré ?
     * que sont les individus ?
 
+## Indicateurs statistiques
+
+De positions et de distribution :
+
+* quartiles
+* quantiles
+* médiane
+
+* moyenne
+
+De dispersions :
+
+* covariance $cov(X,Y) = E((X - E(E)(Y -E(Y))$ dispersion de deux variables, l'un par rapport à l'autre.
+* variance (un cas particulier de la covariance) $var(X) = E(X-E(X))$
+
 ## Estimateurs des indicateurs et théorie des grands nombres
 
 La moyenne empirique convergent vers l'espérance de la loi lorsque l'échantillon augmente.
