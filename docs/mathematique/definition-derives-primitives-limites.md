@@ -37,6 +37,12 @@ Intégration par partie
 
 $\int u(x) \cdot v'(x) dx = \lbrack u \cdot v \rbrack + \int u'(x) \cdot v(x) dx$
 
+### Équation différentielle
+
+Equation différentielle	| Solution 			| Description
+------------------------|-------------------|---
+$y^{'} + Ay = 0$ 		| $y = ke^{- ax}$	| Equation différentielle d'ordre 2
+
 ## Limites
 
 4 formes indéterminées $\mathbf{- \infty + \infty}$, $\frac{\mathbf{\infty}}{\mathbf{\infty}}$ , $\frac{\mathbf{0}}{\mathbf{0}}$.
@@ -48,4 +54,3 @@ Multiplié par le conjugué $(a + \sqrt{}b)(a - \sqrt{b})$
 
   Limite polynômes en |  | Terme de plus haut degré.
   $\mathbf{\  \pm \infty}$  
-
