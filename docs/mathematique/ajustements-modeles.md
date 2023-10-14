@@ -2,7 +2,7 @@
 
 $y = ax + b$ les observations $+ e ~ N(O, \sigma )$
 
-Les coefficients $min F(a,b) = \sum_{i=1} ^{n} (ax_{i}+b - y_{i})^2$
+On cherche les coefficients qui minisent l'écart moyen avec les points $min F(a,b) = \sum_{i=1} ^{n} (ax_{i}+b - y_{i})^2$
 
 Consiste à résoudre :
 

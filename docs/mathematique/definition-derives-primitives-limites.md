@@ -10,9 +10,21 @@ Antécédent
 
 ## Dérivé et primitive
 
+La dérivée correspond à la fonction qui donne l'évolution de la pente. C'est le coefficent de la droite qui par passe par un point $x_{0}$ : 
+
+* Coefficient de la droite $f'(x) = \lim_{h \to \infty} {\frac{f(x-h)+f(x)}{h}}$
+* Tangente :   $f'(a)(x - a) + f(a)$
+
+!!! note
+  La dérivé seconde $f''(x)$ donne pour $f un plateau = f'(x_0) = 0$ le sens de variation.
+
+Son approximation en un point $x_{0}$
+
+$tangente + correction$
+
 Le signe de la dérivé permet de connaitre la variation de $f(x)$ grâce au signe de la dérivée.
 
-Tangente :   $f'(a)(x - a) + f(a)$
+
 
 Calculer l'aire sous la courbe (primitive) : $\int_{}^{}{f(x)\ dx} = \ F(x) + C$
 
@@ -53,4 +65,4 @@ $y^{'} + Ay = 0$ 		| $y = ke^{- ax}$	| Equation différentielle d'ordre 2
 Multiplié par le conjugué $(a + \sqrt{}b)(a - \sqrt{b})$
 
   Limite polynômes en |  | Terme de plus haut degré.
-  $\mathbf{\  \pm \infty}$  
+  $\mathbf{\  \pm \infty}$
