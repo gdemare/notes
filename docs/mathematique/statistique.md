@@ -3,6 +3,7 @@
 * __Échantillon__ réalisation n fois indépendamment d'une variable aléatoire.
 * __Loi de probabilité__ la distribution des probabilité d'une loi aléatoire.
 * __Densité de probabilité__ (uniquement numérique continue).
+* __Fonction de répartition__ la probabilité d'avoir $P(X) < \alpha$, c'est la probabilité cumulée.
 
 $X$ de la loi $f_{x}$ et de fonction de répartition $F_{x}$ on note
 ($X_{1}$, ...$X_{n}$)
