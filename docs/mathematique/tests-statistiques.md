@@ -204,6 +204,13 @@ Degré de liberté :
 
     1.  $\left| \frac{R \times \sqrt{Eff - 2}}{\sqrt{1 - R^{2}}} \right|$
     2.  P-value : LOI.STUDENT.BILATERALE()
+  
+### Kolmogorov-Smirnov
+
+Le test Kolmogorov-Smirnov est un test qui compare la fonction de répartition. Il permet :
+
+* de comparer la distribution de deux échantillons.
+* de comparer la distribution d'un échantillon avec celui d'une loi statistique.
 
 ### Correction
 
