@@ -48,7 +48,7 @@ Axe multiplicatif 	| Puissance | Axe additif
 	3.  4 correspond 16
 
 !!! note
-  Les valeurs du log étaient regroupées dans des tables. Elles permirent de gagner un temps considérable dans les calculs avant l\'invention des calculateurs.
+	Les valeurs du log étaient regroupées dans des tables. Elles permirent de gagner un temps considérable dans les calculs avant l\'invention des calculateurs.
 
 Propriétés du logarithme :
 
@@ -61,6 +61,7 @@ Déterminer les valeurs pour lesquels $f(x) = 0$. Ces méthodes sont également 
 
 * Par factorisation (forme canonique) : Cela revient à factoriser avec les identités remarquables.
 * Par calcul du déterminant"
+  
     1. Calculer le delta : $\mathrm{\Delta} = b^{2} - 4ac$
     2. Si delta est :
 
