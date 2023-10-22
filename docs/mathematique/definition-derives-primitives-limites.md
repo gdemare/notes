@@ -57,5 +57,5 @@ Quatres formes indéterminées $\mathbf{- \infty + \infty}$, $\frac{\mathbf{\inf
 
 Méthodes pour sortir d'une forme indéterminer :
 
-* factoriser par exemple, en passant par me conjugué $(a + \sqrt{b})(a - \sqrt{b})$.
+* factoriser, par exemple en passant par me conjugué $(a + \sqrt{b})(a - \sqrt{b})$.
 * Pour les polynômes, cela revient à déterminer la limite du terme de plus haut degré.
