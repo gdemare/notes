@@ -6,7 +6,7 @@ Antécédent
 * Bijective, est équivalent à une fonction surjectif et injective càd tout les antécédents possèdent une unique image, $\forall x, !\exists y, f(x) = x$
 
 !!! Note
-	Si f est bijective alors il existe une fonction $f^{-1}(y) = x$
+	Si $f$ est bijective alors il existe une fonction $f^{-1}(y) = x$
 
 ## Dérivé et primitive
 
@@ -41,7 +41,7 @@ $\mathbf{\cos}\mathbf{(u)}$	| $- u' \times \sin u$
 $\mathbf{\sin}\mathbf{(u)}$ | $u' \times \cos u$
 $\mathbf{\tan}\mathbf{(u)}$ | $u' \times (1{{+ (tan}u)}^{2})$
 
-Trouver une primitive $\int_{}^{} \mathbf {u' \times v} \mathbf{=}\left\lbrack$
+Trouver une primitive $\int_{}^{} \mathbf {u' \times v}$
 
 Intégration par partie
 
