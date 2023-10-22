@@ -57,12 +57,18 @@ $y^{'} + Ay = 0$ 		| $y = ke^{- ax}$	| Equation différentielle d'ordre 2
 
 ## Limites
 
-4 formes indéterminées $\mathbf{- \infty + \infty}$, $\frac{\mathbf{\infty}}{\mathbf{\infty}}$ , $\frac{\mathbf{0}}{\mathbf{0}}$.
+Quatres formes indéterminées $\mathbf{- \infty + \infty}$, $\frac{\mathbf{\infty}}{\mathbf{\infty}}$, $\frac{\mathbf{0}}{\mathbf{0}}$.
 
-... factoriser.
-... avec des racines
+## Les polynômes
 
-Multiplié par le conjugué $(a + \sqrt{}b)(a - \sqrt{b})$
+### Polynôme coupe l'absisse
+
+Deux méthodes pour trouver où le polynome coupe l'axe des abcisses :
+
+* factoriser. Multiplié par le conjugué $(a + \sqrt{b})(a - \sqrt{b})$
+* avec des racines.
+
+
 
   Limite polynômes en |  | Terme de plus haut degré.
   $\mathbf{\  \pm \infty}$
