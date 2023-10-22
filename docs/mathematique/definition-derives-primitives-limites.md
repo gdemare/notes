@@ -16,15 +16,13 @@ La dérivée correspond à la fonction qui donne l'évolution de la pente. C'est
 * Tangente :   $f'(a)(x - a) + f(a)$
 
 !!! note
-  La dérivé seconde $f''(x)$ donne pour $f un plateau = f'(x_0) = 0$ le sens de variation.
+	La dérivé seconde $f''(x)$ donne pour $f un plateau = f'(x_0) = 0$ le sens de variation.
 
 Son approximation en un point $x_{0}$
 
 $tangente + correction$
 
 Le signe de la dérivé permet de connaitre la variation de $f(x)$ grâce au signe de la dérivée.
-
-
 
 Calculer l'aire sous la courbe (primitive) : $\int_{}^{}{f(x)\ dx} = \ F(x) + C$
 
@@ -59,16 +57,7 @@ $y^{'} + Ay = 0$ 		| $y = ke^{- ax}$	| Equation différentielle d'ordre 2
 
 Quatres formes indéterminées $\mathbf{- \infty + \infty}$, $\frac{\mathbf{\infty}}{\mathbf{\infty}}$, $\frac{\mathbf{0}}{\mathbf{0}}$.
 
-## Les polynômes
+Méthodes pour sortir d'une forme indéterminer :
 
-### Polynôme coupe l'absisse
-
-Deux méthodes pour trouver où le polynome coupe l'axe des abcisses :
-
-* factoriser. Multiplié par le conjugué $(a + \sqrt{b})(a - \sqrt{b})$
-* avec des racines.
-
-
-
-  Limite polynômes en |  | Terme de plus haut degré.
-  $\mathbf{\  \pm \infty}$
+* factoriser par exemple, en passant par me conjugué $(a + \sqrt{b})(a - \sqrt{b})$.
+* Pour les polynômes, cela revient à déterminer la limite du terme de plus haut degré.
