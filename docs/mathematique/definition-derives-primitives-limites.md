@@ -41,8 +41,6 @@ $\mathbf{\cos}\mathbf{(u)}$	| $- u' \times \sin u$
 $\mathbf{\sin}\mathbf{(u)}$ | $u' \times \cos u$
 $\mathbf{\tan}\mathbf{(u)}$ | $u' \times (1{{+ (tan}u)}^{2})$
 
-Trouver une primitive $\int_{}^{} \mathbf {u' \times v}$
-
 Intégration par partie
 
 $\int u(x) \cdot v'(x) dx = \lbrack u \cdot v \rbrack + \int u'(x) \cdot v(x) dx$
