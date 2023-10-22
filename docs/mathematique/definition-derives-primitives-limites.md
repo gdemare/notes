@@ -59,3 +59,8 @@ Méthodes pour sortir d'une forme indéterminer :
 
 * factoriser, par exemple en passant par me conjugué $(a + \sqrt{b})(a - \sqrt{b})$.
 * Pour les polynômes, cela revient à déterminer la limite du terme de plus haut degré.
+
+
+## Sens de variation
+
+Un fonction est convexe (puit) si $f''(x) \ge 0$

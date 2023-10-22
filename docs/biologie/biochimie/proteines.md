@@ -19,21 +19,25 @@ Ces peptides sont synthétisés par des synthétases massives organisées en cha
 
 ----------------------------
 
-Les protéines (étymologie "au premier rang") sont un polymère d'acides aminés (aa) qui jouent de nombreux rôles notamment dans :
+Les protéines (étymologie "au premier rang") sont des polymères d'acides aminés (aa) qui jouent de nombreux rôles notamment dans :
 
 * La structure.
 * La réalisation et la régulation de processus biologiques (la défense, la signalisation, le transport, le mouvement).
 
-Les acides aminés sont structurés autour d'un atome de carbone avec un groupe aminé (-NH2), un groupe acide carboxylique (-COOH), un atome d'hydrogène et d'une chaîne latérale qui différe en fonction du type d'acides aminés. La conformation des aa est de type L (par opposition à D) probablement car la forme L est plus présente naturellement.
+Les acides aminés sont structurés autour d'un atome de carbone appelé alpha entouré par :
+* un groupe aminé (-NH2)
+* un groupe acide carboxylique (-COOH), un atome d'hydrogène
+* d'une chaîne latérale qui différe en fonction du type d'acides aminés.
+La conformation des aa est de type L (par opposition à D) probablement car la forme L est plus présente naturellement.
 
 __amphotère__ molécule à la fois donneuse et receveuse d'électrons.
 
 !!! note
-    Certains acides aminés sont modifiés peuvent Par exemple, la desmosine est une molécule non protéiques constituées de quatre lysines qui confère à l'élastine des propriétés élastiques. D'autres aa modifiées peuvent servir d'hormones, etc.
+    Certains acides aminés sont modifiés sont utilisés autrement que dans les protéines. Par exemple, la desmosine est une molécule non protéiques constituées de quatre lysines qui confère à l'élastine des propriétés élastiques. D'autres aa modifiées peuvent servir d'hormones, etc.
 
 Les propriétés physico-chimiques des protéines dépendent de :
 
-* La structure chimique des 20 acides aminés différents qui composent la séquence peptidique.
+* La structure chimique càd des 20 acides aminés différents qui composent la séquence peptidique.
 * La séquence d'acides aminés càd l'ordre des acides aminés. L'ordre est donné par la séquence d'ADN. 
 
 !!! note
@@ -48,21 +52,11 @@ __Polypeptide__ chaine d'acides aminés.
 
 Une protéine est une chaine composée, en moyenne, de 50 acides aminées appelée chaine peptidique.
 
-## Les acides aminés
 
-## Stéréochimie
-
-!!! note
-    Le carbone asymétrique des aa utilisé par le vivant sont de type L et non pas de type D car le type L est plus répandu.
-
-La création de la liaison peptidiques entre les acides aminés demande de l'énergie produite par hydrolyse du GDT : $GDT \rightarrow GDP + Pi$.
 
 ## Chaine principale 
 
-![](media/image12.jpeg){width="3.3333333333333335in"
-height="1.2472222222222222in"}
-
-## Acide aminé
+## Les acides aminés
 
 Les protéines animales sont constitués de l'assemblage de 20 aa différents :
 
@@ -83,10 +77,17 @@ Le repliement des protéines se fait en plusieurs étapes :
 * Primaire est la chaîne et l'ordre des aa.
 * Secondaire formation de repliements locaux en hélices, feuillets ou coudes.
 * Tertiaire l'agement stable dans l'esapce. comme les protéines sont une suite d'aa apolaires et polaires, le milieu modifie la conformation de la protéine. Les régions apolaires qui sont hydrophobes vont se regrouper à l'intérieur de la protéine tandis celles polaires qui ont une affinité avec l'eau seront exposés vers l'extérieur. La protéine aura un cœur hydrophobe et des boucles polaires ou chargées.
-* Quaternaire certaines protéines sont composés de plusieurs chaînes peptidiques.
+* Quaternaire certaines protéines sont composées de plusieurs chaînes peptidiques.
 
 !!! note 
     La séquence d'AA est nécessaire et suffisante pour donner la forme de la protéine.
+
+### Stéréochimie
+
+!!! note
+    Le carbone asymétrique des aa utilisé par le vivant sont de type L et non pas de type D car le type L est plus répandu.
+
+La création de la liaison peptidiques entre les acides aminés demande de l'énergie produite par hydrolyse du GDT : $GDT \rightarrow GDP + Pi$.
 
 ### Structure secondaire
 

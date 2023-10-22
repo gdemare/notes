@@ -59,6 +59,9 @@ Si $det(X) = 0$ alors :
 * Pas de solutions.
 * La matrice n'est pas inversible.
 
+!!! example
+    Lorsque deux lignes sont identiques.
+
 Interprétations du déterminant :
 
 * Le déterminant correspond au volume. Ainsi, l'absence de solution correspond à une absence de volume.
@@ -73,13 +76,41 @@ Interprétations du déterminant :
 
         $det(\begin{bmatrix} a & b \\ c & d \end{bmatrix}) = ad-bc$
 
+### Matrice inverse
 
-#### Valeurs propres et vecteurs propres
+$A \times A^{-1} = A^{-1} \times A$
+
+## Valeurs propres et vecteurs propres
 
 Déterminer consiste à résoudre $det(\delta - \alpha I) = 0$ 
 
-Est ce que si le $det = 0$ est équivalent à une des valeurs propres est égale à 0. 
-
-Gradient : $\psy(x, y) = \frac{\partial \psy}{}$
+Est ce que si le $det = 0$ est équivalent à une des valeurs propres est égale à 0.
 
 Si une valeur propre est égale à 0 pas de matrice de valeur propre.
+
+!!! note
+    Pour les matrices $n \times m$, les valeurs propres sont dites singulières.
+
+## Fonctions à plusieurs variables
+
+Les fonctions à plusieurs variables sont souvent trop complexe pour étudier leur sens de variations de façon absolue. On approche 
+
+
+### Dérivées partielles
+
+Gradient : $\nabla f = [ \frac{\partial f}{\partial x_{1}}; ...; \frac{\partial f}{\partial x_{n}} ]$
+
+!!! note
+    La dérivée partielle de $\frac{\partial f}{\partial x}$ d'ordre 1 par rapport à $y$ est notée $\frac{\partial ^{2} f}{\partial y \partial x}$.
+
+!!! note
+    D'après le théorème de Shwarz, pour les fonctions dérivables n-fois, a dérivée $\frac{\partial ^{2} f}{\partial y \partial x} = \frac{\partial ^{2} f}{\partial x \partial y}$
+
+## Matrice hessienne
+
+$[ \nabla^{2} f ] = \frac{\partial f}{\partial x_{i} \partial x_{j}}$ avec $i$ la ligne et $j$ la colonne.
+
+!!! note
+    Donne les vecteurs orientés dans le sens croissant de la fonction.
+
+Une fonction est convexe si la matrice hessienne est positive càd si toutes ses valeurs sont positives.

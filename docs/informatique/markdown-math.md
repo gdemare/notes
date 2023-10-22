@@ -19,7 +19,7 @@ Markdown | Fonction | Lettre
 `\omega` | $\omega$ | omega
 `\partial`  | $\partial$    | d rond
 `\sigma`    | $\sigma$      | sigma
-
+`\nabla`    | $\nabla$      | nabla
  
 
 ## Les fonctions
@@ -36,9 +36,9 @@ Markdown | Fonction | Définition
 Markdown  | Symbole   | Définition 
 ----------|-----------|-----------
 `\gt`     | $\gt$     | supérieur à 
-`\gep`    | $\ge$     | supérieur ou égale à
+`\ge`    | $\ge$     | supérieur ou égale à
 `\lt`     | $\lt$     | inférieur à 
-`\leq`    | $\le$     | inférieur ou égale à 
+`\le`    | $\le$     | inférieur ou égale à 
 `=`       | $=$       | égale
 `\neq`    | $\neq$    | inégale
 `\approx` | $\approx$ | approximation

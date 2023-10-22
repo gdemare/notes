@@ -1,44 +1,37 @@
-Principales bases de données accessibles :
+Principales bases de données :
 
-* Séquences :
-    * Pour les gènes : GenBank (américain), EMBL-EBI (européen), DDBJ (Japon). 
-    * Les génomes GOLD.
-    * Pour les protéines : Uniprot.
-* Strucutres acides nucléiques et protéines : Protéines Data Bank
+Séquences :
+    
+* Pour les gènes : GenBank (américain), EMBL-EBI (européen), DDBJ (Japon). 
+* Les génomes GOLD.
+* Pour les protéines : Uniprot.
 
-## Séquençage
+Structres des acides nucléiques et des protéines :
+    
+* Protéines Data Bank
 
-Les techniques de séquençages se basent sur la découpe de polymères et l'analyse des petits fragments. Les
+## Séquençage : assembler des séquences
 
-1.  Séquençages
-2.  Assembleur
-3.  Alignement
+L'objectif est de reconstituer une séquence à partir de morceaux car la marjorité des techniques de séquençage fonctionnent par la découpe de polymères et leur analyse en petits fragments. Les principales difficultés sont :
+
+1. Les erreurs de lecture que ne permettent pas trouver un alignement exact.
+2. La répétition de certaines séquences répétées qui peuvent être alignées à plusieurs endroits.
+3. Recall above that we need to align N=N= 900,000,000 reads to a length 3B genome. Therefore the naive process of scanning the entire genome for each read's match is too slow.
 
 $C = \frac{NL}{G}$
 
 * $G$ taille totale
 * $L$ taille des fragments
 
-Parameter important dans le séquençage.
+Les paramètres important dans le séquençage sont :
 
 * Read lengths, taille des fragments. 
-* Error rates and types of errors:
+* Le taux et le type d'erreurs.
 
-## Assembler des séquences
-
-L'objectif est de reconstituer une séquence à partir de morceaux. Les principales difficultés sont :
-
-1. Les erreurs de lecture que ne permettent pas trouver un alignement exact.
-2. Certaines séquences répétées peuvent être alignées à plusieurs endroits.
-3. Recall above that we need to align N=N= 900,000,000 reads to a length 3B genome. Therefore the naive process of scanning the entire genome for each read's match is too slow.
-
-Quantifier l'ARN expectation--maximization (EM) algorithm
-
-__Mutation ponctuelle acceptée__ mutation d'aa qui n'ont pas affecté la fonction de la protéine.
 
 ## Recherche de séquences proches
 
-% de similitude d'un alignement = nbre d'acides aminées bien alignée.
+__% de similitude d'un alignement__ nbre d'acides aminées bien alignée.
 
 Les alignements globaux sont plus fréquemment utilisés lorsque les séquences mises en jeu sont identiques et de taille égale. Une technique générale, nommée algorithme de Needleman-Wunsch est basée sur la
 programmation dynamique.
@@ -46,7 +39,7 @@ programmation dynamique.
 Les alignements locaux sont plus fréquemment utilisés lorsque deux
 séquences dissemblables sont soupçonnées de posséder des motifs
 identiques malgré l'environnement. L'algorithme de Smith-Waterman est
-une méthode d\'alignement local générale basée aussi sur la
+une méthode d'alignement local générale basée aussi sur la
 programmation dynamique.
 
 Avec des séquences suffisamment semblables, il n'y aucune différence
@@ -101,9 +94,9 @@ __signature__ séquence commune à une famille de protéines ou de gènes.
 
 __covariation__ deux positions qui sont liées et qui dépendent l'une de l'autre.
 
-Minimiser les gaps.
-Maximiser les identités.
-Et moins important, préférer les substitutions au délétions....
+* Minimiser les gaps.
+* Maximiser les identités.
+* (moins important) préférer les substitutions aux délétions....
 
 Généralement, on compte les alignements :
 
@@ -148,3 +141,10 @@ Substituion (minimiser) $y$
 Insertion ou délétion (minimiser) $z$
 
 $\frac{(n + m)}{2} - x = y + \frac{1}{2}z$
+
+
+----------------
+
+Quantifier l'ARN expectation--maximization (EM) algorithm
+
+__Mutation ponctuelle acceptée__ mutation d'aa qui n'ont pas affecté la fonction de la protéine.
