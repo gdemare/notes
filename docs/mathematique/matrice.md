@@ -89,7 +89,7 @@ Est ce que si le $det = 0$ est équivalent à une des valeurs propres est égale
 Si une valeur propre est égale à 0 pas de matrice de valeur propre.
 
 !!! note
-    Pour les matrices $n \times m$, les valeurs propres sont dites singulières.
+    Pour les matrices $n \times m$, les valeurs propres sont appelées singulières.
 
 ## Fonctions à plusieurs variables
 
