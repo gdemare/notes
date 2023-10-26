@@ -15,7 +15,13 @@ Trouver l'équation d'une droite qui minimise la distance avec les points. La m�
 * un ajustement (exponentiel, log, etc).
 * la loi de probabilité
 
-$Y = aX + b$ avec $ X = \begin{bmatrix} x_{1} & 1 \\ ... & 1 \\ x_{n} & 1 \end{bmatrix}$ et $Y = \begin{bmatrix} y_{1} \\ ... \\ y_{n} \end{bmatrix}$
+$Y = X \begin{bmatrix} a \\ b \end{bmatrix}$ avec $ X = \begin{bmatrix} x_{1} & 1 \\ ... & 1 \\ x_{n} & 1 \end{bmatrix}$ et $Y = \begin{bmatrix} y_{1} \\ ... \\ y_{n} \end{bmatrix}$
 
+Trouver la droite des moindres aux carrés consiste à résoudre $min( X \begin{bmatrix} a \\ b \end{bmatrix} - Y )^2$
 
-max fyi dériver, résoudre 
+Cela revient à trouver la valeur de $a$ et $b$ qui minimise la fonction précédente càd avec une dérivée égale à 0 (dérivée partielle en fct de $a$ et $b$).
+
+$\nabla F ( \begin{bmatrix} a \\ b \end{bmatrix} ) = 0$
+
+#### Maximum de vraissemblance
+

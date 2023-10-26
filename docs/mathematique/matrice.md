@@ -86,16 +86,14 @@ Déterminer les valeurs propre consiste à résoudre $det(\delta - \alpha I) = 0
 
 Pour calculer les vecteurs, il faut ensuite calculer pour chaque valeur propre : $(\delta - \alpha I) \times \vec{v} = (0)$
 
-Si $det = 0$ alors à une des valeurs propres est égale à 0.
-
-Si une valeur propre est égale à 0 pas de matrice de valeur propre.
+Si $det = 0$ alors une valeur propre est à 0 donc pas de vecteurs propres et la matrice n'est pas inversible.
 
 !!! note
     Pour les matrices $n \times m$, les valeurs propres sont appelées singulières.
 
 ## Fonctions à plusieurs variables
 
-Les fonctions à plusieurs variables sont souvent trop complexe pour étudier leur sens de variations de façon absolue. On approche 
+Les fonctions à plusieurs variables sont souvent trop complexes pour étudier leur sens de variations de façon absolue. On approche 
 
 ### Dérivées partielles
 
@@ -108,6 +106,8 @@ Gradient : $\nabla f = [ \frac{\partial f}{\partial x_{1}}; ...; \frac{\partial 
     D'après le théorème de Shwarz, pour les fonctions dérivables n-fois, a dérivée $\frac{\partial ^{2} f}{\partial y \partial x} = \frac{\partial ^{2} f}{\partial x \partial y}$
 
 ## Matrice hessienne
+
+Matrice de vecteurs de direction du sens de variations.
 
 $[ \nabla^{2} f ] = \frac{\partial f}{\partial x_{i} \partial x_{j}}$ avec $i$ la ligne et $j$ la colonne.
 
