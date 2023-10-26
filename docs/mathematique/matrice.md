@@ -82,9 +82,11 @@ $A \times A^{-1} = A^{-1} \times A$
 
 ## Valeurs propres et vecteurs propres
 
-Déterminer consiste à résoudre $det(\delta - \alpha I) = 0$ 
+Déterminer les valeurs propre consiste à résoudre $det(\delta - \alpha I) = 0$  avec $\alpha \in \mathbb{R}$.
 
-Est ce que si le $det = 0$ est équivalent à une des valeurs propres est égale à 0.
+Pour calculer les vecteurs, il faut ensuite calculer pour chaque valeur propre : $(\delta - \alpha I) \times \vec{v} = (0)$
+
+Si $det = 0$ alors à une des valeurs propres est égale à 0.
 
 Si une valeur propre est égale à 0 pas de matrice de valeur propre.
 
@@ -94,7 +96,6 @@ Si une valeur propre est égale à 0 pas de matrice de valeur propre.
 ## Fonctions à plusieurs variables
 
 Les fonctions à plusieurs variables sont souvent trop complexe pour étudier leur sens de variations de façon absolue. On approche 
-
 
 ### Dérivées partielles
 
