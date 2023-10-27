@@ -1,3 +1,5 @@
+## Base de données
+
 Principales bases de données :
 
 Séquences :
@@ -12,7 +14,7 @@ Structres des acides nucléiques et des protéines :
 
 ## Séquençage : assembler des séquences
 
-L'objectif est de reconstituer une séquence à partir de morceaux car la marjorité des techniques de séquençage fonctionnent par la découpe de polymères et leur analyse en petits fragments. Les principales difficultés sont :
+L'objectif est de reconstituer une séquence à partir de morceaux car la majorité des techniques de séquençage fonctionne par la découpe de polymères et leur analyse en petits fragments. Les principales difficultés sont :
 
 1. Les erreurs de lecture que ne permettent pas trouver un alignement exact.
 2. La répétition de certaines séquences répétées qui peuvent être alignées à plusieurs endroits.
@@ -28,123 +30,66 @@ Les paramètres important dans le séquençage sont :
 * Read lengths, taille des fragments. 
 * Le taux et le type d'erreurs.
 
+## Aligner des séquences
 
-## Recherche de séquences proches
+Il existe deux types d'alignements :
 
-__% de similitude d'un alignement__ nbre d'acides aminées bien alignée.
+* Globaux sont plus fréquemment utilisés lorsque les séquences mises en jeu sont identiques et de taille égale. Ce type de méthodes est plutôt utilsier pour les séquences homologues avec une région similaire. Un des algorithmes couramment utilisé est l'algorithme de Needleman-Wunsch. Il est basée sur la programmation dynamique.  
+* Locaux sont plus fréquemment utilisés lorsque deux séquences dissemblables sont soupçonnées de posséder des motifs identiques malgré l'environnement. Ils sert principalement à comparer des séquences avec des motifs commumns analogues. L'algorithme de Smith-Waterman est une méthode d'alignement local générale basée aussi sur la programmation dynamique.
 
-Les alignements globaux sont plus fréquemment utilisés lorsque les séquences mises en jeu sont identiques et de taille égale. Une technique générale, nommée algorithme de Needleman-Wunsch est basée sur la
-programmation dynamique.
+__Alignement multiples__ aligner plusieurs séquence perme notamment d'identifier des motifs communes à plsuieurs séquences.
 
-Les alignements locaux sont plus fréquemment utilisés lorsque deux
-séquences dissemblables sont soupçonnées de posséder des motifs
-identiques malgré l'environnement. L'algorithme de Smith-Waterman est
-une méthode d'alignement local générale basée aussi sur la
-programmation dynamique.
+!!! note
+    Avec des séquences suffisamment semblables, il n'y aucune différence dans les résultats.
 
-Avec des séquences suffisamment semblables, il n'y aucune différence
-dans les résultats.
+Il faut : 
 
-Des méthodes hybrides, des méthodes semi-locales, s'avèrent utiles lorsque...
+* Maximiser les identités, càd les commune entre deux séquences.
+* Minimiser les substituions ($y$), insertions ($z$), délétions ($z$) et les gaps.
 
-$S_{bit} = \frac{\lambda S_{r} - lnK}{ln2}$
+ Le principe de l'alignement consiste associé à l'alignement entre deux séquences une fonction soit :
 
-Match value --- Value assigned for matching characters
+* coût qu'il faut minimiser. Exemple, $\omega \times y + \omega \times z$ avec $x$ nbre de correspondances, $y$ de substitutions, $z$ nbre de gap.
+* score qu'il faut maximiser. Exemple : $\frac{(n + m)}{2} - x = y + \frac{1}{2}z$
 
-Mismatch value --- Value assigned for mismatching characters
+!!! note
+    Cela revient à procéder en deux étapes, choisir :
 
-Gap penalty --- Value assigned for spaces
+    1. Le type d'alignement
+    2. Le critère de comparaion pour trier les alignements.
 
-Global Needleman-Wunsch algorithm.
+!!! note
+    La différence entre ces deux types de méthodes est que les gaps et les extensions de gaps sont pénalisés différemment.
 
-Local Smith-Waterman algorithm
+Plusieurs indicateurs permettent de caractériser un alignement : 
 
-Score pour un match, mismatch, gap, extension de gap
+* __% d'identité__ % de bases identiques avec la même position.
+* __% de similitudes__ nbre d'acides aminées alignée.
+* __% gap__ % de trous dans la séquence.
 
-% d'identité % de bases les mêmes  nbre de position identique 
-% de similarité identitié + similitude 
-% gap   
-
-### Algorithme d'alignements gobaux
-
-#### Algorithme "exact"
-
-Dot plot en partant en haut à gauche, pour chaque déplacement, une fonction coût est appliquée.
-On inscrit la somme mininale (entre les cases au alentour).
-Le trajet optimal est celui avec le plus petit score.
-
-## Aligner deux séquences
-
-L'analyse des séquences se fait par l'étude des correspondances.
-être capable de déterminer des informations sur les séquences et pouvoir prédire.
-
-* Choix du type d'alignement.
-* Un critère de comparaison.
-
-### Les types d'alignements
-
-Deux types d'alignements :
-
-* global. Comparer deux séquences. généralement d'une région similaire. plutot pour les séquences homologues.
-* local. Comparer des séquences avec des motifs commumns. Par exemple trouver un motif commun analogue.
-
-* alignement multiples pour identifier des motifs communes à plsuieurs séquences.
-
-__signature__ séquence commune à une famille de protéines ou de gènes.
-
-__covariation__ deux positions qui sont liées et qui dépendent l'une de l'autre.
-
-* Minimiser les gaps.
-* Maximiser les identités.
-* (moins important) préférer les substitutions aux délétions....
-
-Généralement, on compte les alignements :
-
-* x nbre de correspondances.
-* y nbre de substitutions.
-* z nbre de gap.
-
-Fonction coût à minimser :
-
-* $\omega * y + \omega * z$ avec y et z 
+!!! example 
+    Alignement global entre deux séquences : le dot plot.
+        Lecture en diagonal, permet d'idnetifier les l'alignement qui offre le plus de ressemblacnce.
+        reprére des diagonales d'identités poids présents dan 
+        Pour identifier l'alignement le plus intéressants, il faut identifier un chemin qui maximise le nombre de points.
 
 !!! note 
     Généralement, le poids des gaps successifs est décroissants. Autrement dit, les séquences avec de nombreux gap sont plus pénalisés que celle avec de grands gaps.
 
-Comparer deux séquences gloablement dot plot.
-Lecture en diagonal, permet d'idnetifier les l'alignement qui offre le plus de ressemblacnce.
-reprére des diagonales d'identités poids présents dan 
-Pour identifier l'alignement le plus intéressants, il faut identifier un chemin qui maximise le nombre de points.
+### Vocabulaire 
 
-Diagonale inversée la séquence a été inversé.
-Tache répétition. palindrome
-tache rayé répétition de séquences identiques.
+__covariation__ deux positions qui sont liées et qui dépendent l'une de l'autre.
+__Domaine__
+__Fragment__ 
+__Motif__
+__Mutation ponctuelle acceptée__ mutation d'aa qui n'ont pas affecté la fonction de la protéine.
+__Région__ partie d'une séquence qui 
+__Signature__ séquence commune à une famille de protéines ou de gènes.
 
-## Méthodologie
+## Phylogénie ou proximité entre des séquences
 
-Choisir :
+Pour des séquences qui sont homolgues ou la proximité entre des séquences, il est possible d'utiliser plusieurs algorithme pour : 
 
-1. Le type d'alignement
-2. Le critère de comparaion pour trier les alignements.
-
-Région 
-Fragment 
-Domaine
-Motif 
-
-Alignement
-
-Dresser un tableau des :
-
-Identité commune entre deux séquences (à maximiser) $x$
-Substituion (minimiser) $y$
-Insertion ou délétion (minimiser) $z$
-
-$\frac{(n + m)}{2} - x = y + \frac{1}{2}z$
-
-
-----------------
+## Quantifier une séquence
 
 Quantifier l'ARN expectation--maximization (EM) algorithm
-
-__Mutation ponctuelle acceptée__ mutation d'aa qui n'ont pas affecté la fonction de la protéine.
