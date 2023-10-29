@@ -100,9 +100,9 @@ Deux feuillets Béta avec un agencement :
 
 Angle :
 
-* $\phi$ phi
-* $\psi$ psi
-* $\omega$ angle entre 
+* $\phi$ phi entre le C $\alpha$ - CO
+* $\psi$ psi entre C $\alpha$ - NH
+* $\omega$ angle entre NH-CO
 
 #### Hélice $\alpha$ alpha
 
@@ -135,6 +135,50 @@ Les enzymes sont des catalyseurs qui permettent d'augmenter la vitesse de réact
 
 enrichir purification d'une protéine. Augmenter la proportion d'une portéine particulière dans un échantillon. 
 
+### Dichoïsme circulaire
+
+180 et 240 nm strucutre secondaire
+
+L'utilisation d'une lumière polarisé de type UV lointain entre 190 nm et 250 nm et la mesure la transformation de la lumière transmise à l'issu après avoir traverser les protéines révélent la strcuture secondaire :
+
+* Hélice $\alpha$ décroissant avec deux minimums à  210 et 220nm 
+* Feuillet $\beta$ positif décroissant avec un minimum 195nm
+* Aléatoire croissant négatif.
+
+Entre 250 et 320 nm structure tertiaire 
+
+Transitions vibrationnelles des noyaux aromatiques (F phénylalaline, Y tyrosine, W tryptophane)
+
+Les aa et leur absorption :
+
+* 250-270 nm → phenylalanine (F)
+* 270-290 nm → tyrosine (Y)
+* 280-300 nm → tryptophane (W)
+
+La longueur d'onde d'émission donne une information :
+
+* sur l'environnement :
+
+    * Blue shift vers des conditions plus apolaire.
+    * Red shift vers des conditions plus apolaire.
+
+* L'intensité sur les contraintes exercées sur le fluophore. Plus elles sont importantes càd plus l'intensité est importante car l'énergie ne peut pas être dissiper par du mouvement.
+
+Aa                  | Longueur d'onde d'exicitation (nm)   | Longueur d'onde d'émission (nm)
+--------------------|-------|--------------
+Tryptophane (W)     | 295   | 330 (apolaire) -> 360 (polaire)
+Tyrosine (Y)        | 280   | 300 (apolaire) -> 330 (polaire)
+W + Y               | 280   | 
+
+
+pharmacothérapie étudie les interactions moléculaires
+
+La microcalorimétrie pour mesurer la l'enthalpie et les changements de capacité thermique lors des réactions :
+
+Deux techniques :
+
+* calorimètres à balayage différentiel Differential Scanning Calorimetry (DSC) structure et interactions specifique et non specifique
+* calorimétrie à titrage isotherme (ITC) caractériser des intéractiosn.
 ---------------------------------------------------
 
 ## Méthodes pour l'étude des protéines
