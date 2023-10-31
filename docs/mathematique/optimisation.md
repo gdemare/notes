@@ -7,7 +7,6 @@ Généralement, les fonctions sont trop complexes pour que l'on puisse détermin
 * BFGS approche 
 * méthode stochastique (Métropolis)
 
-
 ### Moindre aux carrés
 
 Trouver l'équation d'une droite qui minimise la distance avec les points. La méthode est généralisable notamment pour trouver :
@@ -15,13 +14,14 @@ Trouver l'équation d'une droite qui minimise la distance avec les points. La m�
 * un ajustement (exponentiel, log, etc).
 * la loi de probabilité
 
-$Y = X \begin{bmatrix} a \\ b \end{bmatrix}$ avec $ X = \begin{bmatrix} x_{1} & 1 \\ ... & 1 \\ x_{n} & 1 \end{bmatrix}$ et $Y = \begin{bmatrix} y_{1} \\ ... \\ y_{n} \end{bmatrix}$
+#### Regression linéaire
 
-Trouver la droite des moindres aux carrés consiste à résoudre $min( X \begin{bmatrix} a \\ b \end{bmatrix} - Y )^2$
+La droite des moindres aux carrés consiste à trouver des coefficients de la droite $a$ et $b$ qui minimisent la distance au carré de la fonction $f(x) = (a \times x + b - y)^{2}$ soit $min f(x)$.
 
-Cela revient à trouver la valeur de $a$ et $b$ qui minimise la fonction précédente càd avec une dérivée égale à 0 (dérivée partielle en fct de $a$ et $b$).
+On sait que ce minimum existe. Pour le trouver, on utilise la méthode des dérivés partielles
+$\nabla f = \begin{aligned}\frac{\partial f}{\partial a}  = 0 \\ \frac{\partial f}{\partial b}  = 0 \end{aligned}$ On calcul les dérivés partielles et pn passe en forme matrice pour résoudre l'équation.
 
-$\nabla F ( \begin{bmatrix} a \\ b \end{bmatrix} ) = 0$
+Trouver la droite des moindres aux carrés consiste à résoudre $\begin{bmatrix} x^2 & x \\ x & n \end{bmatrix} \begin{bmatrix} a \\ b \end{bmatrix} = \begin{bmatrix} x.y \\ x \end{bmatrix}$ avec $n$ le nombre de valeurs.
 
 #### Maximum de vraissemblance
 
