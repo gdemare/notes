@@ -6,6 +6,7 @@
 ## Autres 
 
 * `![description](lien)` insérer une image.
+
     * `{ width=50% }` préciser la largeur.
 
 ## Alaphabet grec

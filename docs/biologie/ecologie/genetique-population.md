@@ -29,97 +29,63 @@ Lorsqu'un seul allèle est présent dans une population on dit que l'allèle est
 
 ## Objectifs
 
-La génétique des populations s'intéresse à l'histoire des populations.
-En comprenant leur dynamique passée, on peut prévoir leur évolution
-future.
+La génétique des populations s'intéresse à l'histoire des populations. En comprenant leur dynamique passée, on peut prévoir leur évolution future.
 
-Par exemple, c'est utile pour anticiper les pertes de diversité
-génétique et prévenir les risques liés à la consanguinité en organisant
-par exemple des réintroductions pour maintenir un certain niveau de
-diversité génétique dans la population.
+!!! example
+    C'est utile pour anticiper les pertes de diversité génétique et prévenir les risques liés à la consanguinité en organisant par exemple des réintroductions pour maintenir un certain niveau de diversité génétique dans la population.
 
 ### Les indicateurs de diversité
 
-Taux d'allèles hétérozygotes.
-
-Taux de polymorphisme fréquence d'individus hétérozygotes.
+* Taux d'allèles hétérozygotes.
+* __Taux de polymorphisme__ fréquence d'individus hétérozygotes.
 
 ## Estimation de la fréquence des différents allèles présent dans la population
 
-La variation génétique des individus au sein d'une population est dû à
-la reproduction sexuée. Elle est responsable du brassage génétique à
-trois niveaux entre :
+La variation génétique des individus au sein d'une population est dû à la reproduction sexuée. Elle est responsable du brassage génétique à trois niveaux entre :
 
-| Les séquences d'un même chromosome (crossover) | Les chromosomes (lors de l'assortiment des chromosomes) | Les parentes (fécondation) |
-|------------------------|-----------------------------|--------------------|
+* Les séquences d'un même chromosome (crossover).
+* Les chromosomes (lors de l'assortiment des chromosomes).
+* Les parentes (fécondation).
 
 La population correspond à l'ensemble des allèles.
 
-|           |           |           |           |
-|-----------|-----------|-----------|-----------|
-| Allèles   | A         | a         | **Total** |
-| Fréquence | $$P_{n}$$ | $$Q_{n}$$ | **100%**  |
+Allèles | Fréquence
+--------|----------
+A       | $P_{n}$
+a       | $Q_{n}$
 
-|                         |                                                   |                            |            |          |
-|------------------|-------------------------|-------------|---------|--------|
-| Zygotes formés          | AA                                                | Aa                         | aa         |          |
-| Fréquence               | $$P_{n}²$$                                        | $${2P}_{n}Q_{n}$$          | $$Q_{n}²$$ | **100%** |
-| Allèles                 | A                                                 | a                          |            |          |
-| Fréq à la génération +1 | $$P_{n}^{2} + P_{n}Q_{n} = P_{n}(P_{n} + Q_{n})$$ | $$Q_{n}^{2} + P_{n}Q_{n}$$ |            | **100%** |
+Zygotes formés | Fréquence (tot = 100%) |
+---------------|------------------------|
+AA             | $P_{n}²$
+Aa             | ${2P}_{n}Q_{n}$
+aa             | $Q_{n}²$
 
-Attention pour une population N d'individus diploïdes, l'ensemble des
-allèles 2N.
+Allèles | Fréq à la génération +1 (tot = 100%)
+--------|--------------
+A       | $P_{n}^{2} + P_{n}Q_{n} = P_{n}(P_{n} + Q_{n})$
+a       | $$ | $$Q_{n}^{2} + P_{n}Q_{n}$$
+
+!!! warning 
+    Pour une population N d'individus diploïdes, l'ensemble des allèles $2N$.
 
 Population allélique = fréquence allélique.
 
-*Exemple :* pour une population avec N individus de phénotype et avec
-comme allèles possibles A et B, la fréquence allélique de A : $f(A)$
+!!! example
+    Pour une population avec N individus de phénotype et avec comme allèles possibles A et B, la fréquence allélique de A : $f(A)$.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Point méthode : calcul des fréquences alléliques</p>
-<table style="width:100%;">
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 20%" />
-<col style="width: 16%" />
-<col style="width: 26%" />
-<col style="width: 19%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Génotype</td>
-<td>AA</td>
-<td>AB</td>
-<td>BB</td>
-<td><strong>TOTAL</strong></td>
-</tr>
-<tr class="even">
-<td>Eff</td>
-<td>35</td>
-<td>40</td>
-<td>25</td>
-<td><strong>100</strong></td>
-</tr>
-</tbody>
-</table>
-<p>Calcul des fréquences alléliques :</p>
-<p><span class="math display">$$Freq(A) = = \frac{2n_{AA} + n_{AB}}{2N}
-= \frac{2 \times 35 + 40}{200} = 0,55$$</span></p></td>
-</tr>
-</tbody>
-</table>
+Point méthode : calcul des fréquences alléliques
+
+Génotype | Effectif
+---------|----------
+AA       | 35
+AB       | 40
+BB       | 25
+
+Calcul des fréquences alléliques $Freq(A) = \frac{2n_{AA} + n_{AB}}{2N} = \frac{2 \times 35 + 40}{200} = 0,55$
 
 ### L'équilibre
 
-L'équilibre est stable si l'état des paramètres n'évolue plus càd que
-les fréquences alléliques sont constantes. Ainsi, à chaque génération,
-on retrouve les fréquences de départ des allèles, ce qui correspond
-mathématiquement à : $\mathrm{\Delta}P = P_{n + 1} - P_{n} = 0$
+L'équilibre est stable si l'état des paramètres n'évolue plus càd que les fréquences alléliques sont constantes. Ainsi, à chaque génération, on retrouve les fréquences de départ des allèles, ce qui correspond mathématiquement à $\mathrm{\Delta}P = P_{n + 1} - P_{n} = 0$.
 
 !!! note
     Généralement une population est à l'équilibre uniquement sur certains gènes précis.
@@ -147,17 +113,13 @@ Dans le cas où le phénotype intermédiaire n'existe pas, on peut calculer les 
 
 ### Vérifier si une population est à l'équilibre
 
-1.  Calculer les effectifs théoriques.
-2.  Comparer les résultats attendus avec les fréquences réelles.
+1. Calculer les effectifs théoriques.
+2. Comparer les résultats attendus avec les fréquences réelles $X^{2} = \sum_{}^{}\frac{(eff\ théor. - eff\ obser)²}{eff\ théor}$
 
-$$X^{2} = \sum_{}^{}\frac{(eff\ théor. - eff\ obser)²}{eff\ théor}$$
-
-3.  Pour cela on utilise un test statistique :
-
-    -   H~0 ~: les résultats théoriques sont conformes à ceux obtenus.
-
-    -   H~1 ~: les résultats théoriques ne sont pas conformes à ce
-        obtenus.
+3. Pour cela on utilise un test statistique :
+    
+    * $H_{0}$ les résultats théoriques sont conformes à ceux obtenus.
+    * $H_{1}$ les résultats théoriques ne sont pas conformes à ce obtenus.
 
 Utilisation du test du Khi-2 :
 
@@ -165,8 +127,7 @@ Utilisation du test du Khi-2 :
 * $\alpha$ le taux d'erreur accepté : probabilité de rejeter $H_{0}$ alors que c'est vrai.
 * $\beta$ probabilité d'accepter H~0~ alors que c'est faux.
 
-Si $X^{2} < X²(\alpha)$, on dira alors que l'on ne rejette pas H~0~. La
-population est à l'équilibre.
+Si $X^{2} < X²(\alpha)$, on dira alors que l'on ne rejette pas $H_{0}$. La population est à l'équilibre.
 
 !!! note
     Généralement, on calcul à partir des fréquences alléliques observées les phénotypes théoriques à obtenir si la population est à l'équilibre. On vérifie ensuite que la conformité des résultats en utilisant le test du Khi-2.
@@ -175,7 +136,7 @@ population est à l'équilibre.
 
 On parle notamment du taux de mutation par gamète et par génération.
 
-Pour un allèle A de fréquence P~n~ avec un taux de mutation $u$, sa fréquence à la génération suivante est : $P_{n + 1} = P_{n} - uP_{n}$
+Pour un allèle A de fréquence P~n~ avec un taux de mutation $u$, sa fréquence à la génération suivante est $P_{n + 1} = P_{n} - uP_{n}$
 
 Les mutations récurrentes influencent peu les fréquences alléliques seules. Combinées avec d'autres facteurs évolutifs (environnement...), elles permettent de créer la variabilité initiale.
 
@@ -188,8 +149,7 @@ Le taux de mutation chez les Végétaux et les Animaux est d'environ 1 pour 100 
 __Dérive génétique__ fluctuation aléatoire des fréquences alléliques d'une
 génération à une autre. Elle n'est pas prédictible.
 
-Les effets de la dérive génétique sont particulièrement importants sur les populations avec de petits effectifs comme lorsqu'un groupe
-d'individus fonde une nouvelle population. La dérive peut alors provoquer l'accumulation d'allèles néfastes pour la survie de la population.
+Les effets de la dérive génétique sont particulièrement importants sur les populations avec de petits effectifs comme lorsqu'un groupe d'individus fonde une nouvelle population. La dérive peut alors provoquer l'accumulation d'allèles néfastes pour la survie de la population.
 
 Ces changements de fréquences ont un impact important sur les populations de faibles effectifs et particulièrement vulnérables à l'apparition de mutants même si elles sont rares.
 
@@ -201,23 +161,19 @@ __Effet goulot__ réduction radicale du nombre d'individus d'une population et a
 
 La probabilité de substitution d'un allèle
 
-On cherche à déterminer pour un individu quelqu'une à quelle fréquence
-il y a de posséder chaque type d'allèle.
+On cherche à déterminer pour un individu quelqu'une à quelle fréquence il y a de posséder chaque type d'allèles.
 
--   Déterminer les génotypes possibles.
+* Déterminer les génotypes possibles.
+* Déduire les fréquences des allèles en utilisant le phénotype double récessif et les identités remarquables.
 
--   Déduire les fréquences des allèles en utilisant le phénotype double
-    récessif et les identités remarquables.
-
-[La dérive génétique entraine une diminution des allèles et donc de la
-variabilité génétique]{.mark}
+!!! note 
+    La dérive génétique entraine une diminution des allèles et donc de la variabilité génétique.
 
 Elle est d'autant plus rapide pour les populations de faibles effectifs.
 
 # Les rencontres non aléatoires entre les gamètes 
 
-On parlera de pangamie lorsque les gamètes se rencontrent au hasard (et
-de panmixie pour les rencontres entre les individus).
+On parlera de pangamie lorsque les gamètes se rencontrent au hasard (et de panmixie pour les rencontres entre les individus).
 
 Les causes de croisements non-panmixie peuvent être dû à :
 
@@ -273,33 +229,25 @@ Soit A a deux descendants : B et C. On sait que A possède pour F~a~ de gènes 
 
 Quelle est la probabilité de trouver des gènes identiques entre C et B ?
 
--   Pour les gènes non identique (1-F~a~), on a une chance sur deux de
-    transmettre le même gène à ses descendants :
-    $\frac{1}{2}(1 - F_{a})$
+* Pour les gènes non identique (1-F~a~), on a une chance sur deux de transmettre le même gène à ses descendants $\frac{1}{2}(1 - F_{a})$.
+* Pour les gènes identiques F~a~, on a 100% de chance de retrouver le gène chez les descendants $F_{a}$.
 
--   Pour les gènes identiques F~a~, on a 100% de chance de retrouver le
-    gène chez les descendants : $F_{a}$
-
-![](media/image2.jpeg){width="1.4583333333333333in"
-height="1.4166666666666667in"}Ainsi, la proportions de gènes communs
-entre B et C est :
+La proportions de gènes communs entre B et C est
 $\frac{1}{2}\left( 1 - F_{a} \right) + F_{a} = \frac{1}{2}(1 + F_{a})$
 
-# La sélection
+## La sélection
 
-[Rmq :]{.underline} C'est le phénotype qui est soumis à la sélection et
-indirectement le génotype.
+!!! note
+    C'est le phénotype qui est soumis à la sélection et indirectement le génotype.
 
 Le nombre moyen de descendants viables et fertiles dépend du taux de :
 
 * Survie (valeur adaptative)
 * Fécondité (valeur sélective)
 
-Valeur sélective (ou fitness) nombre moyen de descendants viables et
-fertiles laissé par cet individu.
+__Valeur sélective (ou fitness)__ nombre moyen de descendants viables et fertiles laissé par cet individu.
 
-Valeur adaptative contribution d'un individu à la génération suivante en
-nombre de descendants.
+__Valeur adaptative__ contribution d'un individu à la génération suivante en nombre de descendants.
 
 Par convention, la valeur sélective maximale est 1.
 
@@ -307,33 +255,24 @@ $$valeur\ sélective\ absolue = \frac{Nbre\ de\ descendants}{Fertilité}$$
 
 $$valeur\ sélective\ relative = \frac{valeur\ sélective\ absolue}{valeur\ sélective\ absolue\ maximum}$$
 
-Soit deux allèles A et a de fréquences respectives $(p,q)$ pouvant
-donner les génotype AA, Aa et aa ayant pour valeur sélective $w_{1}$,
-$w_{2}$, $w_{3}$.
+Soit deux allèles A et a de fréquences respectives $(p,q)$ pouvant donner les génotype AA, Aa et aa ayant pour valeur sélective $w_{1}$, $w_{2}$, $w_{3}$.
 
-On note $w = w_{1}p^{2} + 2w_{2}pq + w_{3}q²$ . Pour obtenir les
-fréquences alléliques ont a besoin de diviser par $w$.
+On note $w = w_{1}p^{2} + 2w_{2}pq + w_{3}q²$ . Pour obtenir les fréquences alléliques ont a besoin de diviser par $w$.
 
 $$\mathrm{\Delta}p = p_{n + 1} - p_{n} = \frac{pq}{w}\lbrack\left( w_{1} - w_{2} \right)p + \left( w_{2} - w_{3} \right)q\rbrack$$
 
-[Rmq :]{.underline} La formule se démontre facilement. Il faut penser à
-$p = 1 - q$.
+!!! note
+    La formule se démontre facilement. Il faut penser à $p = 1 - q$.
 
-Superdominance la valeur sélective de l'hétérozygote est supérieure à
-celles des homozygotes. Elle prend la valeur de référence càd 1.
+__Superdominance__ la valeur sélective de l'hétérozygote est supérieure à celles des homozygotes. Elle prend la valeur de référence càd 1.
 
 ## Sélection naturelle
 
-Pour un caractère donné, la sélection naturelle conduit soit à favoriser
-:
+Pour un caractère donné, la sélection naturelle conduit soit à favoriser :
 
--   un extrême. On parle de sélection directionnelle.
-
--   les extrêmes sont avantagés par rapport au phénotype intermédiaire.
-    On parle de sélection divergente ou disruptive.
-
--   Le phénotype intermédiaire est favorisé. Toutes déviations est
-    désavantagé. On parle de sélection stabilisante ou normalisante.
+* un extrême. On parle de sélection directionnelle.
+* les extrêmes sont avantagés par rapport au phénotype intermédiaire. On parle de sélection divergente ou disruptive.
+* Le phénotype intermédiaire est favorisé. Toutes déviations sont désavantagées. On parle de sélection stabilisante ou normalisante.
 
 ## Sélection sexuelle
 
@@ -342,17 +281,13 @@ La sélection sexuelle peut donner lieu à un dimorphisme :
 * Intrasexuelle (entre les individus du même sexe). Cela donne souvent lieu à un mâle dominant qui dispose d'un groupe de femelles. La dominance s'établie souvent au cours de parade ou de lutte entre les individus du même sexe.
 * Sélection intersexuelle : sélection par un des sexes sur l'autre. C'est généralement la femelle qui choisit le partenaire qui maximise le nombre de caractères indicateurs de « bons gènes ».
 
-# Migration
+## Migration
 
-Flux génétique échange d'allèles entre des populations.
+__Flux génétique__ échange d'allèles entre des populations.
 
-Le flux génétique tend à diminuer les différences génétiques entre les
-populations.
+Le flux génétique tend à diminuer les différences génétiques entre les populations.
 
-L'évolution de la fréquence allélique peut être modéliser par une
-suite :
-
-$$u_{n} = a.u_{n} + b \leftrightarrow u_{n} = a^{n}\left( u_{0} - r \right) + r$$
+L'évolution de la fréquence allélique peut être modéliser par une suite $u_{n} = a.u_{n} + b \leftrightarrow u_{n} = a^{n}\left( u_{0} - r \right) + r$
 
 <table>
 <colgroup>
@@ -373,20 +308,12 @@ est une suite arithmétique.</p></td>
 </tbody>
 </table>
 
-[Rmq :]{.underline} Les flux génétiques peuvent empêcher les populations
-de s'adapter pleinement à un environnement en empêchant la sélection
-naturelle de s'exercer. L'arrivé d'allèles de populations étrangères
-empêche la diminution de la fréquence des allèles désavantageux. Cela
-peut également être l'inverse, les flux génétiques peuvent permettre à
-des allèles de se répandre rapidement.
+!!! note
+    Les flux génétiques peuvent empêcher les populations de s'adapter pleinement à un environnement en empêchant la sélection naturelle de s'exercer. L'arrivé d'allèles de populations étrangères empêche la diminution de la fréquence des allèles désavantageux. Cela peut également être l'inverse, les flux génétiques peuvent permettre à des allèles de se répandre rapidement.
 
-Les activités humaines ont rendu le flux génétique plus présent et
-courant qu'il ne l'était.
+Les activités humaines ont rendu le flux génétique plus présent et courant qu'il ne l'était.
 
-|                                                                                                  |
-|------------------------------------------------------------------------|
-| Méthode : il est parfois plus simple de faire les calculs de probabilité de l'événement inverse. |
-
-|                                                                                                                                 |
-|------------------------------------------------------------------------|
-| Méthode : penser toujours au fait que $q = 1 - p$ notamment pour déterminer les paramètres initiaux pour obtenir un équilibre.  |
+!!! note
+    Point méthode : 
+    * il est parfois plus simple de faire les calculs de probabilité de l'événement inverse.
+    * penser toujours au fait que $q = 1 - p$ notamment pour déterminer les paramètres initiaux pour obtenir un équilibre.

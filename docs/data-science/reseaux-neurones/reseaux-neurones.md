@@ -6,14 +6,14 @@ Le modèle est constitué de plusieurs couches formées de plusieurs neurones. L
 
 Une observable                      | Une ou plusieurs cachées      | Une couche de sortie
 ------------------------------------|-------------------------------|---------------------
-Recoit les données brutes en entré  | des couches intermédiaires    | une couche qui génére la probabilité d'appartenance à la classe
+Recoit les données brutes en entrée  | des couches intermédiaires    | une couche qui génére la probabilité d'appartenance à la classe
 
 Les connexions entre les neurones sont appelées synapses. Il en existe de deux types de synapses : 
 
 * inhibiteur
 * excitateur
 
-Si un neurone pré et post synaptique qui s'excitent ensemble alors ils renforceront leur lien càd le poid synaptique de la synapse qui les relie.
+Si un neurone pré et post synaptique s'excitent ensemble alors ils renforceront leur lien càd le poid synaptique de la synapse qui les relie.
 
 Chaque neurone applique une fonction à la donnée qu'il recoit en entrée. On utilise principalement trois fonctions :
 
@@ -24,6 +24,7 @@ Chaque neurone applique une fonction à la donnée qu'il recoit en entrée. On u
     Il existe aussi des fonctions discontinues mais elles posent des problèmes d'optimisation car elles ne sont pas dérivables, par 
 
 !!! example
+
     * Marche ou heaviside, $x<0$ alors $f(x)=0$ et $x>=0$ alors $f(x)=1$.
     * Unité de rectification linéaire $f(x)=0$ si $x<0$ et $f(x)=x$ si $x>=0$ (appelé relu).
     * tanh fonction qui ressemble à la sigmoid en plus "typée" sur un intervalle de -1 à 1. 
@@ -31,11 +32,11 @@ Chaque neurone applique une fonction à la donnée qu'il recoit en entrée. On u
 !!! note
     Il existe la fonction softmax qui renvoie la classe avec la plus grande valeur (càd avec la plus grande probabilité). Elle sert notamment à renvoyer avec plus grande valeur dans le cas d'une classifciation avec plus de deux classes.
 
-Pour faciliter les opérations, les données sont manipulés et transformées dans un objet mathématique appelé matrice.
+Pour faciliter les opérations, les données sont manipulées et transformées dans un objet mathématique appelé matrice.
 En général, cnn puis activation puis pooling.
 
 La fonction max pooling réduit la dimension de la matrice d'activation (activation map) en conservant la valeur maximum sur les régions.
-Cela permet de réduire l'impact de petits changements qui pourraient se produire dans l'image.
+Cela permet de réduire l'impact de petits changements qui pourrait se produire dans l'image.
 
 #### Rétropropagation et modification des coefficients
 
@@ -57,14 +58,14 @@ Pour limiter le surapprentissage : autant d'individus de chaque classe pour la p
 
 ## Agrégation de réseaux de neurones
 
-L'agrégation de réseaux de neurones (boosting ou bagging) n'apporte pas un gain significatif de pouvoir prédicteur. La manière même d'élaborer des réseaux de neurones conduit souvent à des poids et des réseaux quasi identique.
+L'agrégation de réseaux de neurones (boosting ou bagging) n'apporte pas un gain significatif de pouvoir prédicteur. La manière même d'élaborer des réseaux de neurones conduit souvent à des poids et des réseaux quasi identiques.
 
 ## le réseau de neurones
 
 Un réseau de neurones est un empilement de couches. Ils en existent plusieurs notamment les couches :
 
-* base.
-* convulsives inspirées de la vision chez les mammifères.
+* Base.
+* Convulsives inspirées de la vision chez les mammifères.
 * Pooling qui compresse l'information. Elle est utile notamment après l'utilisation d'une couches convulsives pour ne garder que l'information pertinente. Il en existe deux types : max et moyenne.
 * récurrentes adaptées au traitement textuel. Elle garde en mémoire l'ordre notamment celui des mots. 
 * Normalisation
@@ -72,8 +73,9 @@ Un réseau de neurones est un empilement de couches. Ils en existent plusieurs n
 
 ### convergeance des poids vers les valeurs optimum 
 
-L'initialisation des poids peut avoir des répercussions importante sur le modèle.
-Batch normalisation Soustrait par la moyenne et divise par l'écart type.
+L'initialisation des poids peut avoir des répercussions importantes sur le modèle.
+
+Pour limiter l'impact des variables, les données sont standarisés avant d'être utilisée : on soustrait par la moyenne et on divise par l'écart type.
 
 Ensemble de méthodes qui permettent aux poids de converger plus rapidement vers les optimum.
 
@@ -112,9 +114,9 @@ Library             | Développer    | Avantages
 
 ### Un neurone (ou perceptron)
 
-$z = w_{1}x_{1} + w_{2}w_{2} + b$ avec $w_{i}$ les poids pour chaque variable $x_{i}$ donné en entré au neurone. Attention, il faut les valeurs normalisées.
+$z = w_{1}x_{1} + w_{2}w_{2} + b$ avec $w_{i}$ les poids pour chaque variable $x_{i}$ donnée en entré au neurone. Attention, il faut standariser les valeurs.
 
-On applique ensuite la fonction qui renvoie une valeur sur \[0 ;1\]
+On applique ensuite la fonction qui renvoie une valeur sur $[0 ;1]$
 
 $a(z) = \frac{1}{1 + e^{- z}}$
 

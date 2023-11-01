@@ -25,3 +25,4 @@ Trouver la droite des moindres aux carrés consiste à résoudre $\begin{bmatrix
 
 #### Maximum de vraissemblance
 
+Pour une loi 
