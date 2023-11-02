@@ -11,15 +11,16 @@
 
 ## Alaphabet grec
 
-Markdown | Fonction | Lettre
----------|----------|-------
-`\phi  ` | $\phi$   | phi
-`\Psi`   | $\Psi$   | Psi (MAJ)
-`\psi`   | $\psi$   | Psi (min)
-`\phi`   | $\theta$ | theta
-`\omega` | $\omega$ | omega
-`\partial`  | $\partial$    | d rond
+Markdown    | Fonction      | Lettre
+------------|---------------|-------
+`\phi  `    | $\phi$        | phi
+`\Psi`      | $\Psi$        | Psi (MAJ)
+`\psi`      | $\psi$        | Psi (min)
+`\phi`      | $\theta$      | theta
+`\omega`    | $\omega$      | omega
+`\rho`      | $\rho$        | rho
 `\sigma`    | $\sigma$      | sigma
+`\partial`  | $\partial$    | d rond
 `\nabla`    | $\nabla$      | nabla
  
 
@@ -50,7 +51,7 @@ Markdown			| Opérateur			| Définition
 --------------------|-------------------|-------
 `\cdot`       		| $\cdot$			| fois (avec le point)
 `\times` 			| $\times$			| multiplié
-`\frac{}{}`         | $\frac{}{}$       | fraction
+`\frac{}{}`         | $\frac{a}{b}$       | fraction
 `^{val}`            | $^{val}$	        | puissance
 `\sqrt{}`           | $\sqrt{}$         | racine carré
 `\sqrt[n]{x}`       | $\sqrt[n]{x}$     | racine n 
