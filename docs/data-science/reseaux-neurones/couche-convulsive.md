@@ -16,9 +16,9 @@ Les réseaux convulsifs utilisent des positions relatives ce qui permet d'identi
 poids du noyau son multiplié avec les valeurs de la matrice.
 carte d'activation
 
-taille de l'activation map :   même chose pour la hauteur 
+Taille de l'activation map :   même chose pour la hauteur 
 `stride` taille du déplacement (par défaut 1)
 
-`[largeur de l'image - noyau + 1]/stride`
+$\frac{largeur de l'image - noyau + 1}{stride}$
 
 `padding=` ajout de colonne et ligne pour agrandir la matrice padding=1 correspond à l'ajout de deux colonnes et de deux liges au début et à la fin.
