@@ -91,6 +91,9 @@ Si $det = 0$ alors une valeur propre est à 0 donc pas de vecteurs propres et la
 !!! note
     Pour les matrices $n \times m$, les valeurs propres sont appelées singulières.
 
+!!! note
+    Une matrice est dite positive si ses valeurs propres sont supérieures à 0 $\alpha \gt 0$.
+
 ## Fonctions à plusieurs variables
 
 Les fonctions à plusieurs variables sont souvent trop complexes pour étudier leur sens de variations de façon absolue. On approche 
@@ -105,13 +108,36 @@ Gradient : $\nabla f = [ \frac{\partial f}{\partial x_{1}}; ...; \frac{\partial 
 !!! note
     D'après le théorème de Shwarz, pour les fonctions dérivables n-fois, a dérivée $\frac{\partial ^{2} f}{\partial y \partial x} = \frac{\partial ^{2} f}{\partial x \partial y}$
 
-## Matrice hessienne
+### Matrice hessienne
 
 Matrice de vecteurs de direction du sens de variations.
 
-$[ \nabla^{2} f ] = \frac{\partial f}{\partial x_{i} \partial x_{j}}$ avec $i$ la ligne et $j$ la colonne.
+$\nabla^{2} f = \frac{\partial f}{\partial x_{i} \partial x_{j}}$ avec $i$ la ligne et $j$ la colonne.
 
 !!! note
     Donne les vecteurs orientés dans le sens croissant de la fonction.
 
-Une fonction est convexe si la matrice hessienne est positive càd si toutes ses valeurs sont positives.
+!!! note
+    Une fonction est convexe si la matrice hessienne est positive.
+
+## Développement limité
+
+Développement limité ou dévéloppement en série ou de Taylor est une méthode mathématique qui permet d'approximé une fonction complexe par une fonction polynomiale autour d'un point d'intérêt.
+
+$f(x + h) = f(x) + \nabla f(x) \cdot h + \frac{1}{2} \cdot h^{T} \cdot \nabla^{2} f(x) \cdot h$
+
+
+## Minimiser une fonction
+
+#### Gradien
+
+$x - \rho \cdot \nabla f$
+
+$\rho$ le poids de màj de x.
+
+#### Approche de Newton
+
+1. La fonction est approchée par un polynome de degré 2.
+2. $x - \rho \cdot \nabla f$
+
+$x_{1} = x_{0} - \frac{\nabla f(x_{0})}{\nabla^{2}f(x_{0})}$

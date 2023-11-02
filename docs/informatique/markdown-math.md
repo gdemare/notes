@@ -98,3 +98,5 @@ Markdown 							                    | Math ajax								| Définition
 --------------------------------------------------------|---------------------------------------|----------------
 `\begin{aligned}ligne 1 \\ ligne 2 \end{aligned}`       | $\begin{aligned}ligne 1 \\ ligne 2 \end{aligned}$ | répartir sur plusieurs lignes
 `\begin{cases} y \\ x \end{cases}`                      | $\begin{cases} y \\ x \end{cases}$ | système d'équations.
+
+

@@ -23,7 +23,10 @@ Pour qu'une réaction chimique puisse se produire, il faut que les réactifs :
 
 La réaction a lieu lorsque les réactifs se percutent avec une certaine quantité d'énergie c'est-à-dire suffisamment vite.
 
-Etat stationnaire Etat de saturation
+Etat 
+
+* Stationnaire
+* De saturation
 
 Entalpie libre définit l'équilibre de réaction. Une réaction va toujours dans le sens de l'entalpie libre.
 
@@ -36,7 +39,7 @@ L'enzyme se fixe à un des réactifs ce qui modifie le chemin de la réaction e
 
 En générale, la conformation des protéines n'est pas rigide mais elle oscille subtilement entre un ensemble de formes très proche. Lorsque le substrat se lie au site actif de l'enzyme , les interactions moléculaires modifie légérement leur structure spatiale et abaisser l'énergie d'activation de la réaction.
 
-Site actif site de l'enzyme qui se lie au substrat. Elle est composée au maximum de 10 acides aminées.
+__Site actif__ site de l'enzyme qui se lie au substrat. Elle est composée au maximum de 10 acides aminés.
 
 L'enzyme facilite la réaction en :
 
@@ -49,7 +52,7 @@ D'autres molécules peuvent participer à l'action des enzymes comme :
 * Cofacteur substance non protéiques dont ont besoin les enzymes pour fonctionner.
 * Coenzyme cofacteur non protéique mais d'origine organique.
 
-Apoenzyme nom donné à l'enzyme sans son coenzyme.
+__Apoenzyme__ enzyme sans son coenzyme.
 
 !!! note
 	Pour les réactions anaboliques, il faut fournir de l'énergie pour que la réaction est lieu en brisant les molécules d'ATP.
@@ -63,8 +66,8 @@ Les enzymes sont des catalyseurs naturels qui fonctionnent dans des conditions p
 
 Elles sont caractérisées par :
 
-* Leur efficacité
-* Leur spécificité vis-à-vis du substrat
+* Leur efficacité.
+* Leur spécificité vis-à-vis du substrat.
 
 Les enzymes sont réutilisables. En moyenne, chacune est capable de transformer 1 000 substrats en produits par seconde.
 
@@ -76,8 +79,10 @@ __Catalyseur__ substance qui augmente la vitesse d'une réaction chimique sans p
 
 * Oxydo-réductases, transfert d'électrons généralement par l'utilisation d'atomes d'oxygènes.
 * Réaction de liaison :
+
 	* Transférase d'un groupement chimique.
 	* Lyase catalyse (avec les ligases qui utilisent de l'énergie).
+
 * Hydrolases coupe une liaison covalente avec une molécule d'eau.
 * Isomérase transforme en isomère.
 
@@ -93,7 +98,7 @@ __Catalyseur__ substance qui augmente la vitesse d'une réaction chimique sans p
 ### Les endopeptidases
 
 Spécificité de...          | Trypsine         | Chymotrypsine | Endonucléase
----------------------------|-----------------|----------------|------------------
+---------------------------|------------------|----------------|------------------
 ...réaction                | Hydrolyse        | Hydrolyse     | Hydrolyse
 ...liaison                 | Peptidique       | Peptidique    | Phosphodiester
 ...reconnaissance          | Lysine, arginine | Trp, Phe, tyr | Palindrome (AG)
@@ -104,13 +109,13 @@ __Palindrome__ séquence dont le sens est indépendant de celui de lecture.
 
 ### Les exopeptidases
 
-| Spécificité de...          | Aminopeptidase | Carboxypeptidase |
-|----------------------------|----------------|------------------|
-| ...réaction                | Hydrolyse      | Hydrolyse        |
-| ...liaison                 | Peptide        | Peptide          |
-| ...reconnaissance          | N-term         | Carboxyle        |
-| ...position de la réaction | N-term         | C-term           |
-| Stéréospécificité          | L              | L
+Spécificité de...          | Aminopeptidase | Carboxypeptidase
+---------------------------|----------------|------------------
+...réaction                | Hydrolyse      | Hydrolyse
+...liaison                 | Peptide        | Peptide
+...reconnaissance          | N-term         | Carboxyle
+...position de la réaction | N-term         | C-term
+Stéréospécificité          | L              | L
 
 # Vitesse de réaction
 
@@ -120,22 +125,22 @@ La vitesse consiste à mesurer l'ampleur de la variation de concentration du pro
 
 Pour une réaction de type : $A \rightarrow B$
 
-$v = \frac{d\lbrack B\rbrack}{dt} = \frac{- d\lbrack A\rbrack}{dt}$
+$v = \frac{d[B]}{dt} = \frac{- d[A]}{dt}$
 $[B]$ est la concentration en Mol (ou $mol.L^{-1}$).
 vitesse en $mol.L^{-1}.s^{-1}$ ou $Mol.s^{-1}$
 
 On se rend compte que la vitesse d'apparition du produit est proportionnelle à la quantité de produit présent qui disparait :
 
-* $\mathbf{v = k\lbrack A\rbrack}$
+* $\mathbf{v = k[A]}$
 * $\mathbf{k}$ constante de vitesse en $s^{-1}$
 
 Cela signifie qu'à chaque instant $k\%$ du produit A se transforme en B.
 
 Type de réaction 			| Vitesse
 ----------------------------|----------------------
-$A + B \rightarrow C$		| $v = k\lbrack A\rbrack\lbrack B\rbrack$ 
-$2A \rightarrow C$			| $v = k\lbrack A\rbrack ^{2}$
-$A + solvant \rightarrow B$	| $v = \ k\lbrack A\rbrack\lbrack sol\rbrack^{0}$
+$A + B \rightarrow C$		| $v = k[A][B]$ 
+$2A \rightarrow C$			| $v = k[A] ^{2}$
+$A + solvant \rightarrow B$	| $v = \ k[A][sol]^{0}$
 
 
 !!! note
@@ -152,56 +157,63 @@ L'enzyme forme un complexe avec le substrat avec des liaisons :
 * Hydrogène
 * Van der Val
 
-$\lbrack E\rbrack + \lbrack S\rbrack \rightleftarrows \lbrack ES\rbrack \rightarrow \lbrack E\rbrack + \lbrack P\rbrack$
+$[E] + [S] \rightleftarrows [ES] \rightarrow [E] + [P]$
 
-Ainsi, la réaction a pour vitesse : $v = k_{2}\lbrack ES\rbrack$
+Ainsi, la réaction a pour vitesse : $v = k_{2}[ES]$
 
 Dans cette réaction enzymatique, lorsque le complexe enzyme-substrat se forme, il est soit immédiatement :
 
-* Transformé en produit $k_{2}\lbrack ES\rbrack$
-* Dissocié $k_{- 1}\lbrack ES\rbrack$
+* Transformé en produit $k_{2}[ES]$
+* Dissocié $k_{- 1}[ES]$
 
-D'où la vitesse de formation du complexe ES est égale à : $k_{1}\left\lbrack E\rbrack\lbrack S \right\rbrack = k_{- 1}\lbrack ES\rbrack + k_{2}\lbrack ES\rbrack$
+D'où la vitesse de formation du complexe $ES$ est égale à : $k_{1}[E][S] = k_{- 1}[ES] + k_{2}[ES]$
 
-## Constante et équation de Michaelis-Menten
+Les deux modèles principaux pour modéliser la vitesse de réaction en présence d'enzymes sont :
 
-$\mathbf{K}_{\mathbf{m}}\mathbf{=}\frac{\left\lbrack \mathbf{E} \right\rbrack\mathbf{\lbrack S\rbrack}}{\mathbf{\lbrack ES\rbrack}}\mathbf{=}\frac{\mathbf{k}_{\mathbf{- 1}}\mathbf{+}\mathbf{k}_{\mathbf{2}}}{\mathbf{k}_{\mathbf{1}}}$
-$\mathbf{K}_{\mathbf{m}}$ constante d'état stationnaire en $mol.L^{-1}$
+* Michealis-Menten qui suppose un état d'équilibre entre le substrat et l'enzyme.
+* Briggs-Haldane qui suppose l'existence d'un état stationnaire au complexe ES.
 
-Pour déterminer la vitesse, car on est incapable de mesurer la concentration de \[ES\]. L'astuce de Michaelis-Menten est d'écrire $v = k_{2}\lbrack ES\rbrack\frac{{\lbrack E}_{0}\rbrack}{{\lbrack E}_{0\rbrack}}$ et d'exprimer ${\lbrack E}_{0}\rbrack$ en fonction de \[$ES\rbrack$ :
+## Modéle de Michaelis-Menten
 
-$\mathbf{\lbrack E}_{\mathbf{0}}\mathbf{\rbrack =}\left\lbrack \mathbf{E} \right\rbrack\mathbf{+ \lbrack ES\rbrack}$
-$\mathbf{\lbrack E\rbrack =}\mathbf{K}_{\mathbf{m}}\frac{\mathbf{\lbrack ES\rbrack}}{\mathbf{\lbrack S\rbrack}}$
+Le modèle de Michealis-Menten suppose l'existence d'un état d'équilibre réactionnel entre le substrat et l'enzyme. Il existe ainsi un $k_{catalyse} \lt \lt k_{-1}$.
+
+$K_{m} = \frac{[E] \cdot [S]}{[ES]} = \frac{k_{- 1} + k_{2}}{k_{1}}$
+$K_{m}$ constante d'état stationnaire en $mol.L^{-1}$
+
+Pour déterminer la vitesse, car on est incapable de mesurer la concentration de $[ES]$. L'astuce de Michaelis-Menten est d'écrire $v = k_{2}[ES]\frac{[E_{0}]}{[E_{0}]}$ et d'exprimer $[E_{0}]$ en fonction de $[ES]$ :
+
+$[E_{0}] = [E] + [ES]$
+$[E] = K_{m}\frac{[ES]}{[S]}$
 
 On obtient alors pour la vitesse (équation de) :
 
-$v\mathbf{=}\frac{\mathbf{k}_{\mathbf{2}}\left\lbrack \mathbf{E}_{\mathbf{0}} \right\rbrack\mathbf{\lbrack S\rbrack}}{\mathbf{K}_{\mathbf{m}} + \lbrack S\rbrack}$
+$v = \frac{k_{2}[E_0][S]}{K_{m} + [S]}$
 
 On peut déduire de l'équation :
 
-* La vitesse maximum $v_{max}$. La quantité de substrat qui tend vers l’infini
+* La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini
 On a alors $K_{m}$ 
-d’où $v_{max} = \lim_{x \to \infty} {1 \over x } v = k_{2}$
-On a alors $\mathbf{k}_{\mathbf{cat}}\mathbf{=}\frac{\mathbf{v}_{\mathbf{\max}}}{\mathbf{\lbrack}\mathbf{E}_{\mathbf{0}}\mathbf{\rbrack}}$
+d’où $v_{\max} = \lim_{x \to \infty} {1 \over x } v = k_{2}$
+On a alors $k_{cat} = \frac{v_{\max}}{[E_{0}]}$
 
 Efficacité de l’enzyme
 Plus la vitesse est grande
 Plus $K_{2}$ est grand
 Reconnaissance
 Correspond à la proportion
-$\frac{\lbrack E\rbrack}{\lbrack ES\rbrack}$
-Plus $\frac{\lbrack E\rbrack}{\lbrack ES\rbrack}$ est petit, d’où $K_{m} = \frac{\lbrack E\rbrack}{\lbrack ES\rbrack}\lbrack S$ ] petit.
+$\frac{[E]}{[ES]}$
+Plus $\frac{[E]}{[ES]}$ est petit, d’où $K_{m} = \frac{[E]}{[ES]}[S]$ petit.
 
 !!! note
-	Pour ${\lbrack S\rbrack = K}_{m}$, on a également $v = \frac{1}{2}v_{\max}$.
+	Pour ${[S] = K}_{m}$, on a également $v = \frac{1}{2}v_{\max}$.
 
 !!! note
-	Vmax est atteint lorsque tous les sites actifs des enzymes sont occupés. On dit alors que la solution est saturée en substrat.
+	$v_{max}$ est atteint lorsque tous les sites actifs des enzymes sont occupés. On dit alors que la solution est saturée en substrat.
 
 !!! note
-	$K$correspond à l'équilibre et $k$ au coefficient de vitesse.
+	$K$ correspond à l'équilibre et $k$ au coefficient de vitesse.
 
-Rappel : l'absorbance est reliée à la concentration par $\mathbf{A} = \mathbf{\varepsilon}.\left\lbrack \mathbf{C} \right\rbrack.\mathbf{l}$.
+Rappel : l'absorbance est reliée à la concentration par $A = \epsilon \cdot [C] \cdot l$.
 
 ## Linéarisation
 
@@ -209,12 +221,11 @@ La vitesse peut être facilement linéarisée en posant : $\frac{1}{v}$
 
 Pour
 
-$\left\lbrack \mathbf{S} \right\rbrack\mathbf{= 0}\mathbf{\rightarrow v =}\frac{\mathbf{1}}{\mathbf{v}_{\mathbf{\max}}}$
-$\mathbf{v}_{\mathbf{i}}\mathbf{= 0 \rightarrow}\frac{\mathbf{1}}{\mathbf{\lbrack S\rbrack}}\mathbf{=}\frac{\mathbf{- 1}}{\mathbf{K}_{\mathbf{m}}}$
+$[S] = 0 \rightarrow v = \frac{1}{v_{\max}}$ et 
+$v_{i} = 0 \rightarrow \frac{1}{[S]} = \frac{- 1}{K_{m}}$
 
 !!! notes Point méthode
-	Pour savoir si la réaction enzymatique de type Michaelis-Mentens, on vérifie que $f\left( \frac{1}{\lbrack S\rbrack} \right) = \frac{1}{\lbrack P\rbrack}$ est une droite.
-	
+	Pour savoir si la réaction enzymatique de type Michaelis-Mentens, on vérifie que $f( \frac{1}{[S]} ) = \frac{1}{[P]}$ est une droite.
 	On détermine les constantes $v_{max}$ et $K_{m}$ d’après le graphique.
 
 # Les inhibiteurs de l'activité enzymatique
@@ -229,12 +240,12 @@ Les inhibiteurs peuvent se lier fortement ou temporairement à l'enzyme.
 Il existe deux grands types d'inhibition :
 
 |                                                                  | Compétitive                                                            | Non compétitive                                                                                                                       |
-|--------------------|-----------------------|-----------------------------|
-| Site bloqué par l'inhibiteur                                     | Reconnaissance                                                         | Catalyse                                                                                                                              |
+--------------------|-----------------------|-----------------------------|
+Site bloqué par l'inhibiteur                                     | Reconnaissance                                                         | Catalyse                                                                                                                              |
 | Modifie                                                          | Équilibre entre enzyme et substrat                                     | Efficacité de l'enzyme                                                                                                                |
-| Affinité enzyme-inhibiteur                                       | $$K_{i} = \frac{\lbrack E\rbrack\lbrack I\rbrack}{\lbrack EI\rbrack}$$ | $$K_{i} = \frac{\lbrack E\rbrack\lbrack I\rbrack}{\lbrack EI\rbrack} = \frac{\lbrack ES\rbrack\lbrack I\rbrack}{\lbrack ESI\rbrack}$$ |
-| $$\left\lbrack \mathbf{E}_{\mathbf{0}} \right\rbrack\mathbf{=}$$ | $$\lbrack E\rbrack + \lbrack EI\rbrack + \lbrack ES\rbrack$$           | $$\lbrack E\rbrack + \lbrack EI\rbrack + \lbrack EIS\rbrack + \lbrack ES\rbrack$$                                                     |
-| Rmq                                                              | $v_{\max}$ ne change pas                                               | $K_{m}$ ne change pas                                                                                                                 |
+| Affinité enzyme-inhibiteur                                       | $$K_{i} = \frac{[E][I]}{[EI]}$$ | $$K_{i} = \frac{[E][I]}{[EI]} = \frac{[ES][I]}{[ESI]}$$ |
+| $$E_{0} = $$ | $$[E] + [EI] + [ES]$$           | $$[E] + [EI] + [EIS] + [ES]$$                                                     |
+| Rmq                                                              | $v_{max}$ ne change pas                                               | $K_{m}$ ne change pas                                                                                                                 |
 
 !!! note
 	Il existe d'autres inhibiteurs hybrides.
@@ -243,27 +254,27 @@ Il existe deux grands types d'inhibition :
 
 L'inhibiteur compétitif se lie sur le site réactionnel de l'enzyme à la place d'un substrat. Cela se traduit par une diminution de l'affinité du substrat avec l'enzyme.
 
-$v_{i} = \frac{v_{\max}\lbrack S\rbrack}{K_{m}(1 + \frac{\lbrack i\rbrack}{K_{i}}) + \lbrack S\rbrack} = \frac{v_{\max}\lbrack S\rbrack}{K_{mI} + \lbrack S\rbrack}$
+$v_{i} = \frac{v_{\max}[S]}{K_{m}(1 + \frac{[i]}{K_{i}}) + [S]} = \frac{v_{\max}[S]}{K_{mI} + [S]}$
 
 !!! note
-	On modifie la reconnaissance $K_{m} \lt {K'}_{m} = K_{m}(1 + \frac{\lbrack i\rbrack}{K_{i}})$
+	On modifie la reconnaissance $K_{m} \lt {K'}_{m} = K_{m}(1 + \frac{[i]}{K_{i}})$
 
 La constante d'inhibition :
 
-$K_{i} = \frac{K_{m}.\lbrack I\rbrack}{K_{mI} - K_{m}}$
+$K_{i} = \frac{K_{m}.[I]}{K_{mI} - K_{m}}$
 
 $K_{i}$ est la quantité d'inhibiteurs nécessaire pour complétement arrêter la réaction. L'inhibition peut être levé en ajoutant du substrat.
 
 ## Inhibiteur non compétitif
 
-$v_{maxI} = \frac{v_{\max}}{1 + \frac{\lbrack i\rbrack}{K_{i}}}$
+$v_{maxI} = \frac{v_{\max}}{1 + \frac{[i]}{K_{i}}}$
 
 !!! note
 	L'inhibiteur rend l'enzyme moins efficace (efficacité catalytique) ( $v_{\max}$ plus petit).
 
-$v_{i} = \frac{v_{\max}}{1 + \frac{\lbrack i\rbrack}{K_{i}}} \times \frac{\lbrack S\rbrack}{K_{m} + \lbrack S\rbrack} = \frac{v_{maxI}\lbrack S\rbrack}{K_{m} + \lbrack S\rbrack}$
+$v_{i} = \frac{v_{\max}}{1 + \frac{[i]}{K_{i}}} \times \frac{[S]}{K_{m} + [S]} = \frac{v_{maxI}[S]}{K_{m} + [S]}$
 
-$K_{i} = \frac{v_{maxI}.\lbrack I\rbrack}{v_{\max} - v_{maxI}}$
+$K_{i} = \frac{v_{maxI}.[I]}{v_{\max} - v_{\max I}}$
 
 # Effet du pH et de la température
 
@@ -306,7 +317,7 @@ Les enzymes sont stabilisées par :
 
 # Interaction ligand récepteur
 
-On considère le ligand comme la molécule qui se déplace et qui interagit avec une autre molécule, appelée récepteur, qui se trouve souvent à l'intérieur de la cellule.
+On considère le ligand comme la molécule qui se déplace et qui interagit avec une autre molécule, appelée récepteur. Le recepteur se trouve souvent à l'intérieur de la cellule.
 
 ## Les ligands en biologie
 
@@ -326,8 +337,8 @@ Les principaux récepteurs en biologie sont :
 
 En fonction du type d'action que provoque le ligand, on dit qu'il est :
 
-* Agoniste lorsqu'il active/déclenche
-* Antagoniste lorsqu'il bloque l'activité |
+* Agoniste lorsqu'il active/déclenche.
+* Antagoniste lorsqu'il bloque l'activité.
 
 ## Formalisation de l'interaction ligand récepteur 
 
@@ -340,16 +351,16 @@ On note pour :
 
 À l'équilibre la vitesse d'association est égale à celle de dissociation. Les concentrations des différentes espèces chimiques n'évoluent plus. On a :
 
-* La constante d'affinité à l'équilibre $K_{d} = \frac{k_{diss}}{k_{ass}} = \frac{\lbrack L\rbrack\lbrack R\rbrack}{\lbrack LR\rbrack}$
-* La quantité de récepteurs ${\lbrack R}_{0}\rbrack = \lbrack R\rbrack + \lbrack RL\rbrack$
+* La constante d'affinité à l'équilibre $k_{d} = \frac{k_{diss}}{k_{ass}} = \frac{[L][R]}{[LR]}$
+* La quantité de récepteurs $[R_{0}] = [R] + [RL]$
 
 On obtient alors :
 
-* Concentration de \[RL\] $\lbrack RL\rbrack = \frac{R_{0}.\lbrack L\rbrack}{K_{d} + \lbrack L\rbrack}$
-* Proportion de \[RL\] $\frac{\lbrack RL\rbrack}{{\lbrack R}_{0}\mathbf{\rbrack}} = \frac{\lbrack L\rbrack}{K_{d} + \lbrack L\rbrack}$
+* Concentration de $[RL] = \frac{[R_{0}].[L]}{K_{d} + [L]}$
+* Proportion de $\frac{[RL]}{[R_{0}]} = \frac{[L]}{K_{d} + [L]}$
 
 !!! note
-	Lorsque $RL = \frac{R_{0}}{2}$ on a $K_{d} = L$.
+	Lorsque $RL = \frac{[R_{0}]}{2}$ on a $K_{d} = L$.
 
 ### Linéarisation
 
@@ -357,9 +368,9 @@ On utilise la linéarisation pour déterminer :
 
 * $B_{\max}$ nombre de sites récepteurs total ou capacité fixatrice.
 * $R_{0}$ concentration de récepteurs (en Mol).
-* $N = \frac{B_{\max}}{\lbrack R\rbrack}$ nombre de sites par mol.
+* $N = \frac{B_{\max}}{[R]}$ nombre de sites par mol.
 
-On a : $\frac{\lbrack RL\rbrack}{\lbrack L\rbrack} = \frac{- 1}{K_{d}}\lbrack RL\rbrack + \frac{R_{0}}{K_{d}}$
+On a : $\frac{[RL]}{[L]} = \frac{- 1}{K_{d}}[RL] + \frac{R_{0}}{K_{d}}$
 
 En ordonné, on a la quantité de ligand liée par rapport à celle libre.
 
@@ -392,4 +403,3 @@ Expérience A : Ligand marqué non lié
 Expérience B : Ligand manqué spécifique + ligand marqué non lié
 
 La différence des concentrations permet d'obtenir le liant non spécifique.
-
