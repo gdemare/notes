@@ -4,8 +4,8 @@ Mathématiquement, cette méthode permet d'approcher n'importe quelle fonction.
 
 Le modèle est constitué de plusieurs couches formées de plusieurs neurones. Les couches sont disposées de tel sorte que les données sont transmises vers celle en avale. On distingue les couches :
 
-Une observable                      | Une ou plusieurs cachées      | Une couche de sortie
-------------------------------------|-------------------------------|---------------------
+Une entrée                           | Une ou plusieurs cachées      | Une couche de sortie
+-------------------------------------|-------------------------------|---------------------
 Recoit les données brutes en entrée  | des couches intermédiaires    | une couche qui génére la probabilité d'appartenance à la classe
 
 Les connexions entre les neurones sont appelées synapses. Il en existe de deux types de synapses : 
