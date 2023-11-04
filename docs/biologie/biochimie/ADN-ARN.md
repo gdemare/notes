@@ -2,12 +2,9 @@ L'ADN et l'ARN sont des polymères de nucléotides.
 
 # Les nucléotides
 
-Les termes à employer :
+__Nucléoside__ (s de sucre) molécule formée par un glucose et une base.
 
-Nucléoside (s de sucre) molécule formée par un glucose et une base.
-
-Nucléotide mono/di/triphosphate molécule formée d'un nucléoside et de
-n-groupe phosphate.
+__Nucléotide mono/di/triphosphate__ molécule formée d'un nucléoside et de n-groupe phosphate.
 
 !!! note
     L'ADN et l'ARN sont des polymères de nucléotides.
