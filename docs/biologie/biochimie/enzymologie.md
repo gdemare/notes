@@ -30,7 +30,7 @@ Etat
 
 Entalpie libre définit l'équilibre de réaction. Une réaction va toujours dans le sens de l'entalpie libre.
 
-# Présentation des enzymes
+## Présentation des enzymes
 
 L'enzyme se fixe à un des réactifs ce qui modifie le chemin de la réaction et diminue l'énergie d'activation. La réaction a lieu plus souvent.
 
@@ -57,7 +57,7 @@ __Apoenzyme__ enzyme sans son coenzyme.
 !!! note
 	Pour les réactions anaboliques, il faut fournir de l'énergie pour que la réaction est lieu en brisant les molécules d'ATP.
 
-# Généralités sur les enzymes
+## Généralités sur les enzymes
 
 Les enzymes sont des catalyseurs naturels qui fonctionnent dans des conditions particulières (souvent dans les conditions physiologiques du corps). Ce sont en générale des protéines (mais aussi des ARN) impliquées dans le métabolisme c'est-à-dire qui ont une activité :
 
@@ -117,7 +117,7 @@ Spécificité de...          | Aminopeptidase | Carboxypeptidase
 ...position de la réaction | N-term         | C-term
 Stéréospécificité          | L              | L
 
-# Vitesse de réaction
+## Vitesse de réaction
 
 On définit la vitesse de réaction comme la quantité de substrat se transformant en produit durant une certaine unité de temps.
 
@@ -146,11 +146,11 @@ $A + solvant \rightarrow B$	| $v = \ k[A][sol]^{0}$
 !!! note
 	Dans le cas où un des réactifs est le solvant, la réaction ne change pas car sa concentration reste la même. Il y aura en revanche une diminution du volume.
 
-### Équilibre chimique
+#### Équilibre chimique
 
 Dans le cadre d'un équilibre chimique, c'est-à-dire de $A + B \rightleftarrows C + D$.
 
-# Réaction chimique avec catalyseur enzymatique
+## Réaction chimique avec catalyseur enzymatique
 
 L'enzyme forme un complexe avec le substrat avec des liaisons :
 
@@ -173,7 +173,7 @@ Les deux modèles principaux pour modéliser la vitesse de réaction en présenc
 * Michealis-Menten qui suppose un état d'équilibre entre le substrat et l'enzyme.
 * Briggs-Haldane qui suppose l'existence d'un état stationnaire au complexe ES.
 
-## Modéle de Michaelis-Menten
+### Modéle de Michaelis-Menten
 
 Le modèle de Michealis-Menten suppose l'existence d'un état d'équilibre réactionnel entre le substrat et l'enzyme. Il existe ainsi un $k_{catalyse} \lt \lt k_{-1}$.
 
@@ -215,7 +215,7 @@ Plus $\frac{[E]}{[ES]}$ est petit, d’où $K_{m} = \frac{[E]}{[ES]}[S]$ petit.
 
 Rappel : l'absorbance est reliée à la concentration par $A = \epsilon \cdot [C] \cdot l$.
 
-## Linéarisation
+### Linéarisation
 
 La vitesse peut être facilement linéarisée en posant : $\frac{1}{v}$
 
@@ -228,7 +228,13 @@ $v_{i} = 0 \rightarrow \frac{1}{[S]} = \frac{- 1}{K_{m}}$
 	Pour savoir si la réaction enzymatique de type Michaelis-Mentens, on vérifie que $f( \frac{1}{[S]} ) = \frac{1}{[P]}$ est une droite.
 	On détermine les constantes $v_{max}$ et $K_{m}$ d’après le graphique.
 
-# Les inhibiteurs de l'activité enzymatique
+## Modèle de Briggs-Haldane
+
+$[ES] = constante$
+
+$v = \frac{k_{cat}[E_{0}][S]}{K_{m}+[S]}$
+
+## Les inhibiteurs de l'activité enzymatique
 
 Les inhibiteurs permettent à la cellule de contrôler la vitesse de réaction pour s'adapter à ses besoins métaboliques en modulant l'activité enzymatique.
 
@@ -315,11 +321,11 @@ Les enzymes sont stabilisées par :
 !!! note
 	Les métaux lourds sont des inhibiteurs toxiques.
 
-# Interaction ligand récepteur
+## Interaction ligand récepteur
 
 On considère le ligand comme la molécule qui se déplace et qui interagit avec une autre molécule, appelée récepteur. Le recepteur se trouve souvent à l'intérieur de la cellule.
 
-## Les ligands en biologie
+### Les ligands en biologie
 
 En biologie, la position du recpteur dépend du type de ligands. Ils sont situés :
 
@@ -340,7 +346,7 @@ En fonction du type d'action que provoque le ligand, on dit qu'il est :
 * Agoniste lorsqu'il active/déclenche.
 * Antagoniste lorsqu'il bloque l'activité.
 
-## Formalisation de l'interaction ligand récepteur 
+### Formalisation de l'interaction ligand récepteur 
 
 $R + L \leftrightarrow RL$
 
@@ -362,7 +368,7 @@ On obtient alors :
 !!! note
 	Lorsque $RL = \frac{[R_{0}]}{2}$ on a $K_{d} = L$.
 
-### Linéarisation
+#### Linéarisation
 
 On utilise la linéarisation pour déterminer :
 
@@ -388,11 +394,11 @@ __Dialyse__ méthode de purification pour isoler certains composés en fonction 
 !!! note 
 	Point méthode : dans le TD, on utilise les deux points les plus éloignés pour déterminer les coefficients de la droite.
 
-## Protocole expérimental
+### Protocole expérimental
 
 La quantité de ligands et de récepteurs initiale est connue. Pour mesurer les nombres l'association des deux composées, on fait interagir les deux composés en solution. Pour connaitre la quantité de ligands récepteurs, on utilise un filtre qui es imperméable au récepteur et perméable au ligand non lié. On peut alors mesurer la concentration de ce dernier et déduire les autres.
 
-### Ligand non spécifique
+#### Ligand non spécifique
 
 Certains ligands ne sont pas spécifiques c'est-à-dire qu'en plus d'être d'interagir avec les parties spécifiques du récepteur, ils sont capables de se lier avec des régions non spécifiques du récepteur ou d'autres molécules. Dans le cas, il faut réaliser une seconde expérience pour connaitre le nombre de liants non spécifiques.
 
