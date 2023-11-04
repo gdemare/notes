@@ -17,11 +17,11 @@ Si un neurone pré et post synaptique s'excitent ensemble alors ils renforceront
 
 Chaque neurone applique une fonction à la donnée qu'il recoit en entrée. On utilise principalement trois fonctions :
 
-* Sigmoïde. f(x)=1/(1+e^{-x})
-* Unité de rectification linéaire douce. $f(x)=ln(1+e^{x})$
+* Sigmoïde $f(x) = \frac{1}{1 + e^{-x}}$
+* Unité de rectification linéaire douce. $f(x)= \ln(1+e^{x})$
 
 !!! note
-    Il existe aussi des fonctions discontinues mais elles posent des problèmes d'optimisation car elles ne sont pas dérivables, par 
+    Il existe aussi des fonctions discontinues mais elles posent des problèmes d'optimisation car elles ne sont pas dérivables.
 
 !!! example
 
@@ -35,8 +35,7 @@ Chaque neurone applique une fonction à la donnée qu'il recoit en entrée. On u
 Pour faciliter les opérations, les données sont manipulées et transformées dans un objet mathématique appelé matrice.
 En général, cnn puis activation puis pooling.
 
-La fonction max pooling réduit la dimension de la matrice d'activation (activation map) en conservant la valeur maximum sur les régions.
-Cela permet de réduire l'impact de petits changements qui pourrait se produire dans l'image.
+La fonction max pooling réduit la dimension de la matrice d'activation (activation map) en conservant la valeur maximum sur les régions. Cela permet de réduire l'impact de petits changements qui pourrait se produire dans l'image.
 
 #### Rétropropagation et modification des coefficients
 
