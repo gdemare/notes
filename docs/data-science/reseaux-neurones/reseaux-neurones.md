@@ -1,8 +1,8 @@
 ## Concept
 
-Mathématiquement, cette méthode permet d'approcher n'importe quelle fonction.
+Mathématiquement, cette méthode permet d'approcher n'importe quelles fonctions.
 
-Le modèle est constitué de plusieurs couches formées de plusieurs neurones. Les couches sont disposées de tel sorte que les données sont transmises vers celle en avale. On distingue les couches :
+Le modèle est constitué de plusieurs couches formées de plusieurs neurones. Les couches sont disposées de tel sorte que les données sont transmises des couches en amonts vers celles en avale. On distingue les couches :
 
 Une entrée                           | Une ou plusieurs cachées      | Une couche de sortie
 -------------------------------------|-------------------------------|---------------------
@@ -13,7 +13,7 @@ Les connexions entre les neurones sont appelées synapses. Il en existe de deux 
 * inhibiteur
 * excitateur
 
-Si un neurone pré et post synaptique s'excitent ensemble alors ils renforceront leur lien càd le poid synaptique de la synapse qui les relie.
+Si un neurone pré et post synaptique s'excitent ensemble alors ils renforceront le lien qui les uni càd le poid synaptique de la synapse qui les relie.
 
 Chaque neurone applique une fonction à la donnée qu'il recoit en entrée. On utilise principalement trois fonctions :
 
@@ -53,7 +53,7 @@ Demande beaucoup de ressources  |
 
 ## Echantillonage 
 
-Pour limiter le surapprentissage : autant d'individus de chaque classe pour la prédiction.
+Pour limiter le surapprentissage, il faut essayer d'avoir autant d'individus de chaque classe pour la prédiction.
 
 ## Agrégation de réseaux de neurones
 
@@ -65,20 +65,19 @@ Un réseau de neurones est un empilement de couches. Ils en existent plusieurs n
 
 * Base.
 * Convulsives inspirées de la vision chez les mammifères.
-* Pooling qui compresse l'information. Elle est utile notamment après l'utilisation d'une couches convulsives pour ne garder que l'information pertinente. Il en existe deux types : max et moyenne.
+* Pooling qui compresse l'information. Elle est souvent utilisée après une couches convulsives pour ne garder que l'information pertinente. Il en existe deux types : max et moyenne.
 * récurrentes adaptées au traitement textuel. Elle garde en mémoire l'ordre notamment celui des mots. 
-* Normalisation
+* Normalisation.
 * Régularisation complexifie le modèle en créant un bruit aléatoire (Dropout qui met des 0). Contribue a rendre le modèle plus performant et moins sensible au bruit.
 
-### convergeance des poids vers les valeurs optimum 
+### Convergeance des poids vers les valeurs optimum 
 
-L'initialisation des poids peut avoir des répercussions importantes sur le modèle.
+* L'initialisation des poids peut avoir des répercussions importantes sur le modèle.
+* Pour limiter l'impact des variables, les données sont standarisés avant d'être utilisée : on soustrait par la moyenne et on divise par l'écart type.
 
-Pour limiter l'impact des variables, les données sont standarisés avant d'être utilisée : on soustrait par la moyenne et on divise par l'écart type.
+Méthodes qui permettent aux poids de converger plus rapidement vers les optimum :
 
-Ensemble de méthodes qui permettent aux poids de converger plus rapidement vers les optimum.
-
-Mommentum des poids d'apprentissage permet d'éviter certains minimums locaux trop petit.
+* Mommentum des poids d'apprentissage permet d'éviter certains minimums locaux trop petit.
 
 ### Entrainement du réseau de neurones
 
@@ -86,7 +85,7 @@ Créer des lots de fichiers (batch) qui seront soumis plusieurs fois au modèle.
 
 ## Les images : Augmenter le nombre de données et la polyvalence du modèle
 
-Générer un jeu de données d'apprentissage à partir d'un dosssier. Les images créées par des transformations sont ajoutés aux jeux de données (training, validation) tels que :
+Générer un jeu de données d'apprentissage à partir d'un dosssier. Les images créées par des transformations sont ajoutées aux jeux de données (training, validation) tels que :
 
 * Rotations
 * Cisaillement
@@ -113,7 +112,7 @@ Library             | Développer    | Avantages
 
 ### Un neurone (ou perceptron)
 
-$z = w_{1}x_{1} + w_{2}w_{2} + b$ avec $w_{i}$ les poids pour chaque variable $x_{i}$ donnée en entré au neurone. Attention, il faut standariser les valeurs.
+$z = w_{1} \cdot x_{1} + w_{2} \cdot x_{2} + b$ avec $w_{i}$ les poids pour chaque variable $x_{i}$ donnéee en entré au neurone. Attention, il faut standariser les valeurs.
 
 On applique ensuite la fonction qui renvoie une valeur sur $[0 ;1]$
 
@@ -128,7 +127,7 @@ L'ensemble des données d'apprentissage suit une loi de Bernoulli ce qui donne: 
 !!! note
     Elle tend vers 0 plus on a de données.
 
-L'augmente avec la qualité de prédiction du modèle et le nombre de données. Pour faciliter les calculs et la lecture, on applique la fonction log qui conserve l'ordre (croissante) :
+Elle augmente avec la qualité de prédiction du modèle et le nombre de données. Pour faciliter les calculs et la lecture, on applique la fonction log qui conserve l'ordre (croissante) :
 
 On cherche à minimiser la fonction cout noté log loss $L = - \frac{1}{m}\sum_{i = 1}^{}y_{i}.log(a_{i}) + (1 - y).log(1 - a_{i})$
 
