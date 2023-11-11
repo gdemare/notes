@@ -1,4 +1,11 @@
-### 
+Deux grands types de méthodes pour calculer un minimum :
+
+* Recuit stimulé (appelé aussi algorithme de Métropolis). 
+* Gradient conjugué.
+* méthode de quasi Newton (BFGS) approché la fonction avec un polynome puis passe par le cacul du gradient. Il existe aussi L-BFGS-B mais qui recherche des solutions avec un intervalle sur les variables.
+* méthode de Brent est un algorithme de recherche d'un zéro d'une fonction.
+
+__NB__ le calcul du gradient et la 
 
 Généralement, les fonctions sont trop complexes pour que l'on puisse déterminer facilement leur minimum. Plusieurs possibilités :
 
@@ -6,6 +13,21 @@ Généralement, les fonctions sont trop complexes pour que l'on puisse détermin
 * Méthodes quasi Newton (deux méthodes principales : Powell et DFP). Nhésité d'approximer la matrice hessienne mais complexe notamment à inverser.
 * BFGS approche 
 * méthode stochastique (Métropolis)
+
+### Algorithme du recuit stimulé
+
+1. Un point initial $p_0$ est pris aléatoirement.
+2. Un nouveau point aléatoire voisin de $p_0$ est généré.   
+2. On calcul $\Delta f = f_1(0) - f_0(x)$ et 
+
+    * Si $\Delta f \lt 0$ alors $p_0 = p_1$ avec la probabilité de $e^{- \frac {\Delta E}{T}}$.
+    * Si $\Delta f \gt 0$ alors $p_0 = p_1$.
+
+Au début on choisi une température élevé pour permettre au système d'accepter tous points. Au cours de l'algorithme la température $T$ diminue, et la probabilité d'acceptation diminue.
+
+En pratique, on réalise plusieurs fois l'algorithme en conservant les valeurs obtenues pour ne garder que la plus basse.
+
+## Utilité
 
 ### Moindre aux carrés
 
@@ -23,6 +45,3 @@ $\nabla f = \begin{aligned}\frac{\partial f}{\partial a}  = 0 \\ \frac{\partial 
 
 Trouver la droite des moindres aux carrés consiste à résoudre $\begin{bmatrix} x^2 & x \\ x & n \end{bmatrix} \begin{bmatrix} a \\ b \end{bmatrix} = \begin{bmatrix} x.y \\ x \end{bmatrix}$ avec $n$ le nombre de valeurs.
 
-#### Maximum de vraissemblance
-
-Pour une loi 
