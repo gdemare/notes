@@ -99,3 +99,59 @@ Pour des séquences qui sont homolgues ou la proximité entre des séquences, il
 ## Quantifier une séquence
 
 Quantifier l'ARN expectation--maximization (EM) algorithm
+
+## Recherche d'un motif
+
+Pour savoir si un motif détecter dans une séquence n'est pas dû au hasard, on génére des séquences aléatoires pour calculer la p valeur associée. Deux principales méthodes sont utilisées :
+
+* Séquence aléatoire.
+* Modèle de Markov. La base dépend de celle précédente. 
+
+Soit la séquence : $x_1x_2x_3...x_n$
+
+### Séquences aléatoires
+
+1. Calculer la fréquence associée à chaque base.
+2. A partir de la fréquence, générer de nouvelles séquences.
+
+!!! note
+    Le modèle aléatoire est équivalent à générer des séquences en changeant l'ordre des bases de la séquence originelle sauf que cette dernière méthode s'avère peu efficace.
+
+### Modèle de Markov
+
+Les séquences sont générées à partir d'une matrice de transition qui contient les fréquences de permutations entre les bases càd que la base à ajouter dépend des bases précédentes.
+
+Pour construire une matrice de transition. Il faut par exemple :
+
+1. Mettre en ligne la base précédente et en colonne la base suivante.
+2. Compter les effectifs.
+3. Calculer les fréquences par ligne.
+
+Si on prend en considération la succession des bases
+
+## Choix des séquences
+
+### Vraissemblance
+
+En comparant les bases par leur position : $\Sigma f_x(a) \cdot \log \mu (a)$
+
+En comparant les bases en fonction de la base précédente $L = \log \mu _1 (x_1) + \Sigma F(T,G) \cdot \log \pi(T,G)$
+
+Avec :
+
+* $F_x(a)$ l'effectif de la base.
+* $\mu (a)$ la fréquence estimée de la base.$\pi (T, G) = \frac{F(T,G)}{F(G)}$
+
+### AIC et BIC
+
+Le choix de la méthode de génération de séquences aléatoire doit prendre en compte la complexité. Evaluer la qualité d'un modèle càad le compris entre nombre de paramètres et le modèle obtenu se fait par :
+
+Log de vraissemblance $L = \log{\mu_{1}} $
+
+* AIC (Akaike Information Criterion) $AIC = -2L + 2K$
+* BIC (Bayesian Information Criterion) $BIC = K \cdot \log{n} - 2 \log{L}$
+
+Avec :
+
+* $n$ le nombre d'observations.
+* $K$ le degré de liberté qui correspond au nombre de paramètre.
