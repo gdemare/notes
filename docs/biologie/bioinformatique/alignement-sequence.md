@@ -79,11 +79,17 @@ Plusieurs indicateurs permettent de caractériser un alignement :
 ### Vocabulaire 
 
 __covariation__ deux positions qui sont liées et qui dépendent l'une de l'autre.
+
 __Domaine__
+
 __Fragment__ 
+
 __Motif__
+
 __Mutation ponctuelle acceptée__ mutation d'aa qui n'ont pas affecté la fonction de la protéine.
+
 __Région__ partie d'une séquence qui 
+
 __Signature__ séquence commune à une famille de protéines ou de gènes.
 
 ## Phylogénie ou proximité entre des séquences
