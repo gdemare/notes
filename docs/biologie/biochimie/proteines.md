@@ -74,8 +74,10 @@ Les protéines animales sont constitués de l'assemblage de 20 aa différents :
 
 * 8aa hydrophobes dont la proline qui bloque les changements de conformation.
 * à pH physiologique :
+  
     * 7 aa polaires non chargés dont 3 sont des alcools et la cystéine qui est capable de créer une liaison covalente avec une autre cystéine : glycine, valine, leucine, isoleucine, phénylalanine, tryptosine, t, proline, cystéine.
-    * 5 aa chargés à pH physiologique : méthionine, sérine (chargé - à pKa = ),  
+    * 5 aa chargés à pH physiologique : méthionine, sérine (chargé - à pKa = ),
+      
         * 2 aa négatifs (de type acide) : acide aspartique (pKa = 3,9), acide glutamique (pKa = 4,1).
         * 3 aa positifs (de type base) :  arginine (pKa = 12,5), sérine (pKa = 10,5), histidine (pKa = 6).
 
@@ -182,15 +184,15 @@ Tryptophane (W)     | 295   | 330 (apolaire) -> 360 (polaire)
 Tyrosine (Y)        | 280   | 300 (apolaire) -> 330 (polaire)
 W + Y               | 280   | 
 
-
-pharmacothérapie étudie les interactions moléculaires
+__Pharmacothérapie__ étudie les interactions moléculaires
 
 La microcalorimétrie pour mesurer la l'enthalpie et les changements de capacité thermique lors des réactions :
 
 Deux techniques :
 
 * calorimètres à balayage différentiel Differential Scanning Calorimetry (DSC) structure et interactions specifique et non specifique
-* calorimétrie à titrage isotherme (ITC) caractériser des intéractiosn.
+* calorimétrie à titrage isotherme (ITC) caractériser des intéractions.
+
 ---------------------------------------------------
 
 ## Méthodes pour l'étude des protéines
