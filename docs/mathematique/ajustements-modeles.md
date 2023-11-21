@@ -1,3 +1,5 @@
+Les ajustements conistent à trouver la fonction $\min (Y_obs - Mod(x))^2$.
+
 ## Modèle linéaire
 
 $y = ax + b$ les observations $+ e ~ N(O, \sigma )$
@@ -16,3 +18,5 @@ $$\begin{aligned}
 Nom	 		| Fonction 
 ------------|---
 Exponentiel	| ${ae}^{- b.x}$
+
+
