@@ -160,6 +160,7 @@ nav:
     - Geométrie :  mathematique/geometrie.md
     - Matrice : mathematique/matrice.md
     - Modélisation :
+      - "Ajustement" : mathematique/ajustements-modeles.md
       - "Méthodes mixtes" :
         - 'Réseaux de neurones' : mathematique/reseaux-neurones.md
     - "Statistique et probabilités" : 
