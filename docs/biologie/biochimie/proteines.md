@@ -116,7 +116,7 @@ L'angle se fait par rappor Angle :
 * $\psi$ psi entre $C \alpha - COO^-$
 * $\omega$ angle entre NH-CO
 
-#### Hélice $\alpha$ alpha
+#### Hélice alpha
 
 Les caractéristiques des hélices $\alpha$ :
 
@@ -127,7 +127,7 @@ Les caractéristiques des hélices $\alpha$ :
 
 Les protéines subissent des modifications chimiques de type covalente pendant et après leur synthèse de deux types :
 
-* protéolyse contrôlée.
+* Protéolyse contrôlée.
 * L'ajout de groupements.
 
 Ces modifications peuvent servir :
@@ -151,10 +151,10 @@ enrichir purification d'une protéine. Augmenter la proportion d'une portéine p
 
 180 et 240 nm strucutre secondaire
 
-L'utilisation d'une lumière polarisé de type UV lointain entre 190 nm et 250 nm et la mesure la transformation de la lumière transmise à l'issu après avoir traverser les protéines révélent la strcuture secondaire :
+L'utilisation d'une lumière polarisé de type UV lointain entre 180 nm et 250 nm et la mesure la transformation de la lumière transmise après avoir traverser les protéines révélent la strcuture secondaire :
 
-* Hélice $\alpha$ décroissant avec deux minimums à  210 et 220nm 
-* Feuillet $\beta$ positif décroissant avec un minimum 195nm
+* Hélice $\alpha$ décroissant avec deux minimums à 210 et 220nm. 
+* Feuillet $\beta$ positif décroissant avec un minimum 195nm.
 * Aléatoire croissant négatif.
 
 Entre 250 et 320 nm structure tertiaire 
@@ -171,7 +171,7 @@ La longueur d'onde d'émission donne une information :
 
 * sur l'environnement :
 
-    * Blue shift vers des conditions plus apolaire.
+    * Blue shift vers des conditions plus polaire.
     * Red shift vers des conditions plus apolaire.
 
 * L'intensité sur les contraintes exercées sur le fluophore. Plus elles sont importantes càd plus l'intensité est importante car l'énergie ne peut pas être dissiper par du mouvement.
