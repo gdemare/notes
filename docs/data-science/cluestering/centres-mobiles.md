@@ -4,8 +4,8 @@ k points (appelés centres) sont initialisés aléatoirement. L'algorithme attri
 
 ### Données
 
-Quantitatives
-Qualitatives transformées en quantitatives grâce à l'ACM.
+* Quantitatives.
+* Qualitatives transformées en quantitatives grâce à l'ACM.
 
 ### Utilité
 
@@ -15,25 +15,25 @@ Qualitatives transformées en quantitatives grâce à l'ACM.
 
 ### Nuée dynamique
 
-Les centroîdes sont remplacés par des noyaux c'est-à-dire un groupe d'individus centraux.
+Les centroïdes sont remplacés par des noyaux c'est-à-dire un groupe d'individus centraux.
 
 ## Distance 
 
-NB : il est conseillé de normaliser les données quantitatives pour donner le même poid.
+!!! note
+	Il est conseillé de normaliser les données quantitatives pour donner le même poid à chaque variable.
 
-| Distance | Type |
-|---|---|
-| euclidiénne | distance entre deux points |
-| Manhattan | distance en angle droit | |
-| khi 2 | distance calculé en comparant deux distributions |
-| Ward | minimiser l'inertie intra-classe |
+Distance		| Type
+----------------|---
+Euclidienne		| Distance entre deux points.
+Manhattan		| Distance en angle droit.
+Khi 2			| Distance calculé en comparant deux distributions.
+Ward			| Minimiser l'inertie intra-classe.
 
- k moyenne mobiles
+
+k moyenne mobiles
+
 ## Attribut
 
-| + | - |
-|---|---|
-| rapide | Non robuste |
-
-## Issue 
-
+Avantages	| Inconvénients
+------------|---
+Rapide		| Non robuste
