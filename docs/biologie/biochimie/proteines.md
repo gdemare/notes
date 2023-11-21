@@ -5,7 +5,6 @@ avantage économique et augmente la efficacité et rapidité de la traduction.
 
 Cette information est a prendre en compte lorsque l'on cherche a exprimer dans un autre organisme en remplacant les codons peu favorisé par ce qui le sont.
 
-
 Généralement, les protéines sont synthétisé 
 
 es peptides sont synthétisés par des synthétases massives organisées en chaînes de montage
@@ -19,7 +18,6 @@ Certains codons sont priviligiés pour coder pour un aa. On retrouve ces préfé
 avantage économique et augmente la efficacité et rapidité de la traduction. 
 
 Cette information est a prendre en compte lorsque l'on cherche a exprimer dans un autre organisme en remplacant les codons peu favorisé par ce qui le sont.
-
 
 Généralement, les protéines sont synthétisé 
 
@@ -112,10 +110,10 @@ Deux feuillets Béta avec un agencement :
 * Antiparallèle est stabilisée par des liaison H.
 * Parallèle génère des torsions au niveau des liaisons d'hydrogènes qui la rend moins stable que l'organisation antiparallèle.
 
-Angle :
+L'angle se fait par rappor Angle :
 
-* $\phi$ phi entre le C $\alpha$ - CO
-* $\psi$ psi entre C $\alpha$ - NH
+* $\phi$ phi entre le $HN - \alpha C$
+* $\psi$ psi entre $C \alpha - COO^-$
 * $\omega$ angle entre NH-CO
 
 #### Hélice $\alpha$ alpha

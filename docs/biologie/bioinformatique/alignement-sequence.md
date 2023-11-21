@@ -1,3 +1,19 @@
+### Vocabulaire 
+
+__covariation__ deux positions qui sont liées et qui dépendent l'une de l'autre.
+
+__Domaine__
+
+__Fragment__ 
+
+__Motif__
+
+__Mutation ponctuelle acceptée__ mutation d'aa qui n'ont pas affecté la fonction de la protéine.
+
+__Région__ partie d'une séquence qui 
+
+__Signature__ séquence commune à une famille de protéines ou de gènes.
+
 ## Base de données
 
 Principales bases de données :
@@ -47,7 +63,7 @@ Il faut :
 * Maximiser les identités, càd les commune entre deux séquences.
 * Minimiser les substituions ($y$), insertions ($z$), délétions ($z$) et les gaps.
 
- Le principe de l'alignement consiste associé à l'alignement entre deux séquences une fonction soit :
+Le principe de l'alignement consiste associé à l'alignement entre deux séquences une fonction soit :
 
 * coût qu'il faut minimiser. Exemple, $\omega \times y + \omega \times z$ avec $x$ nbre de correspondances, $y$ de substitutions, $z$ nbre de gap.
 * score qu'il faut maximiser. Exemple : $\frac{(n + m)}{2} - x = y + \frac{1}{2}z$
@@ -76,25 +92,12 @@ Plusieurs indicateurs permettent de caractériser un alignement :
 !!! note 
     Généralement, le poids des gaps successifs est décroissants. Autrement dit, les séquences avec de nombreux gap sont plus pénalisés que celle avec de grands gaps.
 
-### Vocabulaire 
-
-__covariation__ deux positions qui sont liées et qui dépendent l'une de l'autre.
-
-__Domaine__
-
-__Fragment__ 
-
-__Motif__
-
-__Mutation ponctuelle acceptée__ mutation d'aa qui n'ont pas affecté la fonction de la protéine.
-
-__Région__ partie d'une séquence qui 
-
-__Signature__ séquence commune à une famille de protéines ou de gènes.
-
 ## Phylogénie ou proximité entre des séquences
 
 Pour des séquences qui sont homolgues ou la proximité entre des séquences, il est possible d'utiliser plusieurs algorithme pour : 
+
+*
+*
 
 ## Quantifier une séquence
 

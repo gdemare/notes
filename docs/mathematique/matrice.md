@@ -122,7 +122,7 @@ $\nabla^{2} f = \frac{\partial f}{\partial x_{i} \partial x_{j}}$ avec $i$ la li
 
 ## Développement limité
 
-Développement limité ou dévéloppement en série ou de Taylor est une méthode mathématique qui permet d'approximé une fonction complexe par une fonction polynomiale autour d'un point d'intérêt.
+Développement limité ou dévéloppement en série ou de Taylor est une méthode mathématique qui permet d'approximer une fonction complexe par une fonction polynomiale autour d'un point d'intérêt.
 
 $f(x + h) = f(x) + \nabla f(x) \cdot h + \frac{1}{2} \cdot h^{T} \cdot \nabla^{2} f(x) \cdot h$
 
