@@ -1,3 +1,5 @@
+Appelé aussi K-means, moyennes mobiles...
+
 ## Concept
 
 k points (appelés centres) sont initialisés aléatoirement. L'algorithme attribut les points les plus proches à chaque centre. Les centres sont recalculés. Le résultat dépend de l'initialisation des points. 
