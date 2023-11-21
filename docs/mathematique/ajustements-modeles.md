@@ -1,4 +1,4 @@
-Les ajustements conistent à trouver la fonction $\min (Y_obs - Mod(x))^2$.
+Les ajustements conistent à trouver la fonction $\min (Y_obs - Modèle(x))^2$.
 
 ## Modèle linéaire
 
