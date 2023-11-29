@@ -85,7 +85,8 @@ En fonction du nombre de brin :
 * monocaténaire.
 * bicaténaire.
 
-!!! Toutes les combinaisons d'ARN et d'ADN sont possibles chez les Virus.
+!!! note
+    Toutes les combinaisons d'ARN et d'ADN sont possibles chez les Virus.
 
 ## Structure de l'ADN
 
