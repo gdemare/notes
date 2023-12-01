@@ -6,16 +6,16 @@ Les individus sont regroupés deux à deux en fonction d'un critère (similarit�
 
 L'inertie :
 
-* Totale est $I_t = \Sigma
-* Intraclasse (moyenne de la somme des distances entre la 
-* Interclasse
+* Totale (moyenne entre le centre de gravité et les invidus $\frac{1}{n} \sum d(g, g_i)$.
+* Intraclasse (moyenne des distances entre les centres locaux et global) $\frac{1}{n} \frac{1}{n} \sum n_i \times d(g, g_i)$.
+* Interclasse (moyenne des distances aux carrés des points avec leur centre local associé) $\frac{1}{n} \sum \sum d(x_k, g_i)$.
 
 Avec 
 
 * `g` le centre de gravité de tous les points.
 * `g_i` le centre de gravité de chaque groupe.
-* `x_i` les coordonnées des individus.
-* `n_i` l'effectif.
+* `x_k` les coordonnées des individus.
+* `n_i` l'effectif de groupes
 
 ## Les méthodes
 
