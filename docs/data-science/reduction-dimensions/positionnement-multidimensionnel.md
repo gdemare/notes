@@ -2,3 +2,6 @@ Le positionnement multidimensionnel utilise une matrice des distances pour repr�
 
 1. Calculer la matrice des distances.
 2. Formule mathématique ....
+
+!!! note 
+    Dans certains cas, cela revient à faire une ACP.
