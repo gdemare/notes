@@ -7,7 +7,7 @@ Les individus sont regroupés deux à deux en fonction d'un critère (similarit�
 L'inertie :
 
 * Totale (moyenne entre le centre de gravité et les invidus $\frac{1}{n} \sum d(g, g_i)$.
-* Intraclasse (moyenne des distances entre les centres locaux et global) $\frac{1}{n} \frac{1}{n} \sum n_i \times d(g, g_i)$.
+* Intraclasse (moyenne des distances entre les centres locaux et global) $\frac{1}{n} \sum n_i \times d(g, g_i)$.
 * Interclasse (moyenne des distances aux carrés des points avec leur centre local associé) $\frac{1}{n} \sum \sum d(x_k, g_i)$.
 
 Avec 
