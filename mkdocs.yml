@@ -142,6 +142,7 @@ nav:
       - ACM : data-science/reduction-dimensions/ACM.md
       - ACP : data-science/reduction-dimensions/ACP.md
       - AFC : data-science/reduction-dimensions/AFC.md
+      - "Positionnement multidimensionnel" : data-science/positionnement-multidimensionnel.md
       - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
     - "Réseaux de neurones" :
       - "couches convulsives" : data-science/reseaux-neurones/couche-convulsive.md

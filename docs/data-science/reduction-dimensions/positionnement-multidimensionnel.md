@@ -1,0 +1,4 @@
+Le positionnement multidimensionnel utilise une matrice des distances pour représenter les données ce qui la rend applicable polyvalente et appliable à une grande diversité de données.
+
+1. Calculer la matrice des distances.
+2. Formule mathématique ....
