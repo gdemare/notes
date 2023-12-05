@@ -6,8 +6,11 @@
 
 # Standariser les données
 
-Normalisation des données : `(x-moyenne)/ecart-type`
+Standariser (normaliser) les données : $\frac{x - \mu}{\sigma}$ 
+
+avec $\mu$ la moyenne et $\sigma$ l'écart type.
+
 
 # Réduire la distribution
 
-Regrouper des données fortement étalée : `log(x+1)` l'addition permet de contourner les valeurs 0 présentes dans les données.
+Regrouper des données fortement étalée : $\log x + 1$ l'addition permet de contourner les valeurs 0 présentes dans les données.

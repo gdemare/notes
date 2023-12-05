@@ -98,7 +98,7 @@ nav:
       - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
       - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
     - "Physologie animale" : 
-      - 'Structure et fonction' : biologie/physiologie-animale/structure-fonction-principes.md
+      - "Structure et fonction" : biologie/physiologie-animale/structure-fonction-principes.md
       - Comportement : biologie/physiologie-animale/comportement.md
       - Histologie  : biologie/physiologie-animale/histologie.md
       - "Osmorégulation et excrétion" : biologie/physiologie-animale/osmoregulation-excretion.md
@@ -114,15 +114,16 @@ nav:
     - "A voir" : data-science/a-voir.md
     - Cartographie : data-science/cartographie.md
     - Classification : 
-      - Classification : data-science/classification/classification.md
+      - "G Classification" : data-science/classification/classification.md
+      - "G Régression" : data-science/classification/regression.md
       - ANOVA : data-science/classification/ANOVA.md
       - "Arbre de décision" : data-science/classification/arbre-de-décision.md
       - "ARMA" : data-science/classification/ARMA.md
       - "Boosting" : data-science/classification/boosting.md
       - "Carte auto adaptative" : data-science/classification/carte-auto-adaptative.md
       - "Centroides" : data-science/classification/centroide.md
-      - "Classification baysien" : data-science/classification/classificateur-baysien.md
-      - "cluestering des variables" : data-science/classification/clustering-variables.md
+      - "Classificateur baysien" : data-science/classification/classificateur-baysien.md
+      - "Cluestering des variables" : data-science/classification/clustering-variables.md
       - "Espérance maximale" : data-science/classification/espérance-maximisation.md
       - "Forêt aléatoire" : data-science/classification/forêt-aléatoire.md
       - "Lissage exponentiel" : data-science/classification/lissage-exponentiel.md
