@@ -16,7 +16,7 @@ Vitesse de disparition $2A \rightarrow B$
 
 | Vitesse                                                                        | Loi de vitesse                  |
 |------------------------------------|------------------------------------|
-| $$v = \frac{d\lbrack B\rbrack}{dt} = - \frac{d\lbrack A\rbrack}{2 \times dt}$$ | $$v = k{\lbrack A\rbrack}^{2}$$ |
+| $v = \frac{d\lbrack B\rbrack}{dt} = - \frac{d\lbrack A\rbrack}{2 \times dt}$ | $v = k{\lbrack A\rbrack}^{2}$ |
 
 La vitesse de disparition de A est deux fois plus rapide que celle de B.
 
@@ -34,9 +34,9 @@ La vitesse est $v = - \frac{d\lbrack A\rbrack}{dt}$
 
 | Ordre | Loi de vitesse                                                       |                                                             | Loi de la vitesse intégrée             |
 |---------|---------------------|-----------------|--------------------------|
-| 0     | $$\mathbf{v = k}$$                                                   | $$d\lbrack A\rbrack = - k.dt$$                              | $$A = - kt$$                           |
-| 1     | $$\mathbf{v = k}\left\lbrack \mathbf{A} \right\rbrack$$              | $$\frac{d\lbrack A\rbrack}{\lbrack A\rbrack} = - k.dt$$     | $$A = A_{0}e^{- kt}$$                  |
-| 2     | $$\mathbf{v = k}\left\lbrack \mathbf{A} \right\rbrack^{\mathbf{2}}$$ | $$- \frac{d\lbrack A\rbrack}{\lbrack A\rbrack^{2}} = k.dt$$ | $$\frac{1}{A} = \frac{1}{A_{0}} + kt$$ |
+| 0     | $\mathbf{v = k}$                                                   | $d\lbrack A\rbrack = - k.dt$                              | $A = - kt$                           |
+| 1     | $\mathbf{v = k}\left\lbrack \mathbf{A} \right\rbrack$              | $\frac{d\lbrack A\rbrack}{\lbrack A\rbrack} = - k.dt$     | $A = A_{0}e^{- kt}$                  |
+| 2     | $\mathbf{v = k}\left\lbrack \mathbf{A} \right\rbrack^{\mathbf{2}}$ | $- \frac{d\lbrack A\rbrack}{\lbrack A\rbrack^{2}} = k.dt$ | $\frac{1}{A} = \frac{1}{A_{0}} + kt$ |
 
 $k$ constante de vitesse.
 
