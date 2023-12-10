@@ -94,8 +94,19 @@ nav:
       - "Evolution des populations" : biologie/ecologie/evolution-population.md
       - "Génétique des population" : biologie/ecologie/genetique-population.md
       - "Origine de la biodiversité" : biologie/ecologie/origine-biodiversite.md
-    - "Méthodes et techniques" : 
+    - "Méthodes et techniques" :
       - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
+      - "Clonage" : biologie/methodes-techniques/clonage.md
+      - "Génie génétique" : biologie/methodes-techniques/clonage_genie.md
+      - "Culture cellulaire" : biologie/methodes-techniques/culture-cellulaire.md
+      - "Généralités" : biologie/methodes-techniques/etude_biologie.md
+      - "PCR" : biologie/methodes-techniques/etude_pcr.md
+      - "Protéines" : biologie/methodes-techniques/etude_proteines.md
+      - "Acide nucléique" : biologie/methodes-techniques/etude_acide_nucleique.md
+      - "Histologie" : biologie/methodes-techniques/histologie.md
+      - "Imagerie" : biologie/methodes-techniques/imagerie.md
+      - "Immunomarquage" : biologie/methodes-techniques/immunomarquage.md
+      - "Microscopie" : biologie/methodes-techniques/microscopie.md
       - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
     - "Physologie animale" : 
       - "Structure et fonction" : biologie/physiologie-animale/structure-fonction-principes.md

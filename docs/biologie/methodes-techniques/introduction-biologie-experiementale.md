@@ -97,8 +97,8 @@ Le matière qui constitue la cuve dépend de la longueur d'onde utilisée. Pour 
 
 Les étapes pour réaliser une spectrométrie :
 
-1.  Réglé l'absorbance avec l'échantillon de solvant pur.
-2.  Réaliser les mesures. Elles ne sont valables que pour 0,1\<A <1.
+1. Régler l'absorbance avec l'échantillon de solvant pur.
+2. Réaliser les mesures. Elles ne sont valables que pour 0,1\<A <1.
 
 !!! note
     A chaque fois que l'on modifie la longueur d'onde, il faut régler l'absorbance pour le solvant pur (faire le blanc) ou utiliser un spectrophotomètre bi-faisceau.
