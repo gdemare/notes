@@ -66,10 +66,10 @@ nav:
     - Biochimie :
       - "Biomolécules" : biologie/biochimie/biomolecules.md
       - "ADN et ARN" : biologie/biochimie/ADN-ARN.md
+      - "Les enzymes" : biologie/biochimie/enzymes.md
       - "Les lipides" : biologie/biochimie/sucres.md
       - "Les protéines" : biologie/biochimie/proteines.md
       - "Les sucres" : biologie/biochimie/sucres.md
-      - Enzymologie : biologie/biochimie/enzymologie.md
       - "Réactivité chimique en biologie" : biologie/biochimie/reactivite-chimique-biologie.md
     - "Métabolisme" :
       - "Photosynthèse et métabolisme secondaire" : biologie/biochimie/photosynthese-metabolisme-secondaire.md
