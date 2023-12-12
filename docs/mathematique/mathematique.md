@@ -9,12 +9,11 @@
 
 Pas clair à revoir
 
-* $\mathbf{A}\overset{}{\Rightarrow}\mathbf{B}$ : $A$ est une condition suffisante de $B$.
-* $\mathbf{A}\overset{}{\Rightarrow}non(B)$ : $A$ est vraie implique $B$ est faux.
-* $\mathbf{A\ et\ non(B)}$
-* $\mathbf{non}\left( \mathbf{B} \right)\mathbf{\ }\overset{}{\Rightarrow}\mathbf{non(A)}$ Contraposée est vrai seulement si
-* $A\overset{}{\Rightarrow}B$ l'est aussi
-* $\overset{}{\Rightarrow}\mathbf{A}$ Réciproque
+* $A \Rightarrow B$ : $A$ est une condition suffisante de $B$.
+* $A \Rightarrow non(B)$ : $A$ est vraie implique $B$ est faux.
+* $A et non(B)$
+* $non (B) \Rightarrow non(A)$ contraposée est vrai seulement si $A \Rightarrow B$ l'est aussi.
+* $\Rightarrow A$ réciproque
 
 ## Lettres grecques
 
@@ -47,21 +46,21 @@ Relation surface :
 
 Unité 				| Symbole			| Grandeur
 --------------------|-------------------|-------
-kilo 				| k 				| $\mathbf{10}^{\mathbf{- 3}}$ 
-Hecto				| h 				| $\mathbf{10}^{\mathbf{- 2}}$
-Déca 				| da 				| $\mathbf{10}^{\mathbf{- 1}}$ 
-Unité				|  					| $\mathbf{10}^{\mathbf{0}}\mathbf{= 1}$
-Déci  				| d 				| $\mathbf{10}^{\mathbf{1}}$
-Centi 				| c 				| $\mathbf{10}^{\mathbf{2}}$
-Milli 				| m 				| $\mathbf{10}^{\mathbf{3}}$
-Micro 				| μ 				| $\mathbf{10}^{\mathbf{6}}$
-Nano  				| n 				| $\mathbf{10}^{\mathbf{9}}$
+kilo 				| k 				| $10^{- 3}$ 
+Hecto				| h 				| $10^{- 2}$
+Déca 				| da 				| $10^{- 1}$ 
+Unité				|  					| $10^{0} = 1$
+Déci  				| d 				| $10^1$
+Centi 				| c 				| $10^{2}$
+Milli 				| m 				| $10^{3}$
+Micro 				| μ 				| $10^{6}$
+Nano  				| n 				| $10^{9}$
 
 
-* Relation surface $1km^{2} = {{(10}^{3})}^{2}m^{2}$
+* Relation surface $1km^2 = {(10^3)}^2 \cdot m^2$
 * Relation volume :
-	* $1{km}^{3} = {{(10}^{3})}^{3}m^{3} = {10}^{9}m^{3}$
-	* Relation avec le litre $1L = 1{dm}^{3} = 1 kg$ eau 
+	* $1{km}^3 = {(10^3)}^3 \cdot m^3 = {10}^9 \cdot m^3$
+	* Relation avec le litre $1L = 1{dm}^3 = 1 kg$ eau 
 
 ## Identités remarquables
 
@@ -72,9 +71,9 @@ Connaitre les variations de $f(x)$.
 
 ## Identités remarquables
 
-* (1) $(x - a)^{2} = x^2 -2ax + a^2$
-* (1) $(x + a)^{2} = x^2 +2ax + a^2$
-* (3) $x^{2} - y^{2} = (x - y)(x + y)$
+* (1) $(x - a)^2 = x^2 -2ax + a^2$
+* (1) $(x + a)^2 = x^2 +2ax + a^2$
+* (3) $x^2 - y^2 = (x - y)(x + y)$
 
 !!! note
 	Les identifés remarquables sont notammet utilisées dans la factorisaiton d'un polynome de second degré d'abord (1) ou (2) puis (3).

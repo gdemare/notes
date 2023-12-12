@@ -100,19 +100,19 @@ Les fonctions à plusieurs variables sont souvent trop complexes pour étudier l
 
 ### Dérivées partielles
 
-Gradient : $\nabla f = [ \frac{\partial f}{\partial x_{1}}; ...; \frac{\partial f}{\partial x_{n}} ]$
+Gradient : $\nabla f = [ \frac{\partial f}{\partial x_1}; ...; \frac{\partial f}{\partial x_n} ]$
 
 !!! note
-    La dérivée partielle de $\frac{\partial f}{\partial x}$ d'ordre 1 par rapport à $y$ est notée $\frac{\partial ^{2} f}{\partial y \partial x}$.
+    La dérivée partielle de $\frac{\partial f}{\partial x}$ d'ordre 1 par rapport à $y$ est notée $\frac{\partial ^2 f}{\partial y \partial x}$.
 
 !!! note
-    D'après le théorème de Shwarz, pour les fonctions dérivables n-fois, a dérivée $\frac{\partial ^{2} f}{\partial y \partial x} = \frac{\partial ^{2} f}{\partial x \partial y}$
+    D'après le théorème de Shwarz, pour les fonctions dérivables n-fois, a dérivée $\frac{\partial ^2 f}{\partial y \partial x} = \frac{\partial ^2 f}{\partial x \partial y}$
 
 ### Matrice hessienne
 
 Matrice de vecteurs de direction du sens de variations.
 
-$\nabla^{2} f = \frac{\partial f}{\partial x_{i} \partial x_{j}}$ avec $i$ la ligne et $j$ la colonne.
+$\nabla^{2} f = \frac{\partial f}{\partial x_{i} \partial x_j}$ avec $i$ la ligne et $j$ la colonne.
 
 !!! note
     Donne les vecteurs orientés dans le sens croissant de la fonction.
@@ -124,7 +124,7 @@ $\nabla^{2} f = \frac{\partial f}{\partial x_{i} \partial x_{j}}$ avec $i$ la li
 
 Développement limité ou dévéloppement en série ou de Taylor est une méthode mathématique qui permet d'approximer une fonction complexe par une fonction polynomiale autour d'un point d'intérêt.
 
-$f(x + h) = f(x) + \nabla f(x) \cdot h + \frac{1}{2} \cdot h^{T} \cdot \nabla^{2} f(x) \cdot h$
+$f(x + h) = f(x) + \nabla f(x) \cdot h + \frac{1}{2} \cdot h^T \cdot \nabla^2 f(x) \cdot h$
 
 
 ## Minimiser une fonction
@@ -140,4 +140,4 @@ $\rho$ le poids de màj de x.
 1. La fonction est approchée par un polynome de degré 2.
 2. $x - \rho \cdot \nabla f$
 
-$x_{1} = x_{0} - \frac{\nabla f(x_{0})}{\nabla^{2}f(x_{0})}$
+$x_1 = x_0 - \frac{\nabla f(x_0)}{\nabla^2 f(x_0)}$
