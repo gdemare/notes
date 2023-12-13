@@ -1,426 +1,265 @@
-Microorganisme organisme invisible à l'œil nu qui peut être observé au
-microscope.
+__Microorganisme__ (microbe) organisme invisible à l'œil nu qui peut être observé au microscope.
 
-Agent infectieux organisme capable d'engendrer des lésions ou des
-maladies.
+__Agent infectieux__ organisme capable d'engendrer des lésions ou des maladies.
 
 Ordre de taille des cellules :
 
-|               | Taille |
+| Régne         | Taille |
 |---------------|--------|
 | Virus         | 0,1µm  |
 | Bactérie      | 1µm    |
 | cell animale  | 10µm   |
 | cell végétale | 100µm  |
 
-# Les Bactéries et les procaryotes
+## Les Bactéries et les procaryotes
 
-Les procaryotes sont presque tous des organismes unicellulaires qui
-mesurent en moyenne entre 0,5 et 5um (contre 10 à 100um pour les
-Eucaryotes).
+Les procaryotes sont presque tous des organismes unicellulaires qui mesurent en moyenne entre 0,5 et 5um (contre 10 à 100um pour les Eucaryotes).
 
-[Rmq :]{.underline} le plus gros procaryote découvert à ce jour mesure
-750um.
+!!! note
+    le plus gros procaryote découvert à ce jour mesure 750um.
 
-La recherche de nouvelles espèces de procaryotes se fait par
-métagénomique. Cette méthode consiste à séquencer tous les ADN contenus
-dans un échantillon de sol.
+La recherche de nouvelles espèces de procaryotes se fait par métagénomique. Cette méthode consiste à séquencer tous les ADN contenus dans un échantillon de sol.
 
-## La structure des procaryotes
+### La structure des procaryotes
 
 Les procaryotes sont entourés d'une paroi cellulaire qui sert à
 
-|              |                        |
-|--------------|------------------------|
-| Les protéger | À maintenir leur forme |
+* Les protéger.
+* À maintenir leur forme.
 
-[Rmq :]{.underline} La paroi les protège notamment des milieux
-hypotoniques.
+!!! note
+    La paroi les protège notamment des milieux hypotoniques.
 
-[Rmq :]{.underline} Le sel conserve les aliments car il déshydrate
-toutes les cellules y compris les Bactéries.
+!!! note
+    Le sel conserve les aliments car il déshydrate toutes les cellules y compris les Bactéries.
 
-La paroi est souvent recouverte d'une couche appelée capsule composée de
-polysaccharides ou de protéines. Elle permet de prévenir de la
-déshydratation et se protéger des systèmes immunitaires d'hôtes
-potentiels.
+La paroi est souvent recouverte d'une couche appelée capsule composée de polysaccharides ou de protéines. Elle permet de prévenir de la déshydratation et se protéger des systèmes immunitaires d'hôtes potentiels.
 
-Septum paroi bactérienne.
+__Septum__ paroi bactérienne.
 
-La paroi est composée de peptidoglycanes, un polymère de saccharoses
-monosaccharides relié à de courtes chaines polypeptidiques. Sa
-composition diffère entre :
+La paroi est composée de peptidoglycanes, un polymère de saccharoses monosaccharides relié à de courtes chaines polypeptidiques. Sa composition diffère entre :
 
-|                                         |                                       |
-|------------------------------------|------------------------------------|
-| Bactérie (Monosaccharide + Polypeptide) | Archée (Polysaccharide + Polypeptide) |
+* Bactérie (Monosaccharide + Polypeptide).
+* Archée (Polysaccharide + Polypeptide).
 
-La plupart des Archées découverts sont des organismes extrémophiles
-c'est-à-dire capable de vivre dans des milieux extrêmes. On ne trouve
-pas d'agents pathogènes chez les Archées.
+La plupart des Archées découverts sont des organismes extrémophiles c'est-à-dire capable de vivre dans des milieux extrêmes. On ne trouve pas d'agents pathogènes chez les Archées.
 
-### Structure des Bactéries
+#### Structure des Bactéries
 
-Les Bactéries sont composées à entre 80 et 90% d'eau. On distingue de
-type de Bactérie en fonction de leur structure qui est révélée par
-l'utilisation de la coloration de Gram :
+Les Bactéries sont composées à entre 80 et 90% d'eau. On distingue de type de Bactérie en fonction de leur structure qui est révélée par l'utilisation de la coloration de Gram :
 
--   Gram positive (en violet) membrane plasmique entourée d'une paroi
-    épaisse.
+* Gram positive (en violet) membrane plasmique entourée d'une paroi épaisse.
+* Gram négative (en rose) deux membranes, une plasmique et une externe entourent une paroi. L'espace intermembranaire s'appelle le périplasme. La membrane externe contient une quantité importante de lipopolysaccharides.
 
--   Gram négative (en rose) deux membranes, une plasmique et une externe
-    entourent une paroi. L\'espace intermembranaire s'appelle le
-    périplasme. La membrane externe contient une quantité importante de
-    lipopolysaccharides.
-
-Milieu chromogénique la coloration est associée au milieu.
+__Milieu chromogénique__ la coloration est associée au milieu.
 
 La paroi est composée d'une quantité importante de peptidoglycanes.
 
-[NB :]{.underline} Les lipopolysaccharides sont généralement des
-molécules toxiques.
+!!! note
+    Les lipopolysaccharides sont généralement des molécules toxiques.
 
-[Rmq :]{.underline} les Bactéries gram + sont capable de résister à des
-pressions osmotiques jusqu'à 4 fois supérieur au gram -.
+!!! note
+    Les Bactéries Gram + sont capable de résister à des pressions osmotiques jusqu'à 4 fois supérieur au gram -.
 
-[Rmq :]{.underline} Les antibiotiques agissent sur les Bactéries en
-inhibant la synthèse des ponts de monosaccharides et peptidoglycanes. En
-bloquant la fabrication de molécules spécifiques aux Bactéries, les
-antibiotiques ont l'avantage de ne pas interagir avec les cellules
-humaines et d'éviter les effets indésirables.
+!!! note
+    Les antibiotiques agissent sur les Bactéries en inhibant la synthèse des ponts de monosaccharides et peptidoglycanes. En bloquant la fabrication de molécules spécifiques aux Bactéries, les antibiotiques ont l'avantage de ne pas interagir avec les cellules humaines et d'éviter les effets indésirables.
 
 À l'intérieur de la bactérie se trouve :
 
--   Des inclusions qui sont souvent du stockage de réserve.
+* Des inclusions qui sont souvent du stockage de réserve.
+* ADN Chromosome circulaire plasmide. Les gènes qui codent pour des protéine impliqué d'une même fonction métaboliques sont réunis au même endroit et contrôler par un seul promoteur. L'ADN bactérien contient en moyenne 50% de paires de bases de type C-G.
 
--   ADN Chromosome circulaire plasmide. Les gènes qui codent pour des
-    protéine impliqué d'une même fonction métaboliques sont réunis au
-    même endroit et contrôler par un seul promoteur. L'ADN bactérien
-    contient en moyenne 50% de paires de bases de type C-G.
-
-[NB :]{.underline} Seule la membrane plasmique est imperméable. Pour
-entrer, les molécules ont besoin d'utiliser des transporteurs.
+!!! note
+    Seule la membrane plasmique est imperméable. Pour entrer, les molécules ont besoin d'utiliser des transporteurs.
 
 ### Les transporteurs
 
 Les principaux transporteurs des Bactéries sont :
 
--   Perméase. Elles sont synthétisées lorsque la cellule en a besoin.
+* Perméase. Elles sont synthétisées lorsque la cellule en a besoin.
+* Transporteurs ABC. Elles sont formées de deux parties à savoir d'une molécule qui récupère le substrat et d'une autre qui transloque le complexe. Ensuite le substrat est relâché et la partie affine est repart.
+* Système PTS sucre spécifique aux procaryotes spécifique aux sucres. Ils forment un système « dynamique » adapte aux besoins de la bactérie et aux caractéristiques du milieu.
+* Transporteur de fer (élément essentiel) appelé sidérophore antérobactine. Une molécule spécifique avec un forte affinité pour récupérer le fer (K=10^-52^M) capte les atomes de fer du milieu avant de les transloquer.
 
--   Transporteurs ABC. Elles sont formées de deux parties à savoir d'une
-    molécule qui récupère le substrat et d'une autre qui transloque le
-    complexe. Ensuite le substrat est relâché et la partie affine est
-    repart.
+!!! note
+    La paroi bactérienne ne gêne pas le passage.
 
--   Système PTS sucre spécifique aux procaryotes spécifique aux sucres.
-    Ils forment un système « dynamique » adapte aux besoins de la
-    bactérie et aux caractéristiques du milieu.
-
--   Transporteur de fer (élément essentiel) appelé sidérophore
-    antérobactine. Une molécule spécifique avec un forte affinité pour
-    récupérer le fer (K=10^-52^M) capte les atomes de fer du milieu
-    avant de les transloquer.
-
-[Rmq :]{.underline} la paroi bactérienne ne gêne pas le passage.
-
-[Rmq :]{.underline} Les bactéries peuvent bloquer l'activité des
-antibiotiques en expulsant de manière efficace les molécules qui leur
-sont toxiques.
+!!! note
+    Les bactéries peuvent bloquer l'activité des antibiotiques en expulsant de manière efficace les molécules qui leur sont toxiques.
 
 ### Forme des Bactéries
 
 Les formes de Bactéries les plus répandues sont :
 
--   Sphérique (cocci)
-
--   Bâtonnet (bacille)
-
--   À prosthèque en forme étoile avec des prolongements qui augmentent
-    la surface de contact avec le milieu.
-
--   Hélicoïdale ou spiralée càd en forme de spirille, virgule (ou
-    vibrion), long filament, ou tirebouchon (ou spirochète) qui facilite
-    les déplacements dans les fluides.
+* Sphérique (cocci)
+* Bâtonnet (bacille)
+* À prosthèque en forme étoile avec des prolongements qui augmentent la surface de contact avec le milieu.
+* Hélicoïdale ou spiralée càd en forme de spirille, virgule (ou vibrion), long filament, ou tirebouchon (ou spirochète) qui facilite les déplacements dans les fluides.
 
 Les bactéries peuvent également s'associer :
 
--   Par paire diplo-
+* Par paire diplo-
+* Les unes à la suite des autres : strepto-
+* Par quatre en tétrade
+* Par huit en sarcines
+* En masse staphylo-
 
--   Les unes à la suite des autres : strepto-
-
--   Par quatre en tétrade
-
--   Par huit en sarcines
-
--   En masse staphylo-
-
-Certains Bactéries possèdent des fimbriae, des filaments fins et courts
-qu'ils utilisent pour s'agréger comme dans le cas des biofilms et pour
-adhérer à la surface de leur milieu. []{.mark}
+Certains Bactéries possèdent des fimbriae, des filaments fins et courts qu'ils utilisent pour s'agréger comme dans le cas des biofilms et pour adhérer à la surface de leur milieu.
 
 ### Mobilité 
 
-Les Procaryotes se déplacent en réponse à un stimuli externe d'ordre
-chimique ou chimiotaxie (produit par d'autres bactéries).
+Les Procaryotes se déplacent en réponse à un stimuli externe d'ordre chimique ou chimiotaxie (produit par d'autres bactéries).
 
-Certaines Bactéries possèdent des flagelles. Elles peuvent en avoir
+Certaines Bactéries possèdent des flagelles. Elles peuvent en avoir plusieurs, deux (un à chaque pôle) ou un.
 
-|           |                             |     |
-|-----------|-----------------------------|-----|
-| Plusieurs | Deux avec un à chaque pôle. | Un  |
+La structure des flagelles est différente de celle des Archées et des Eucaryotes. Elle est composée de deux anneaux enchâssés dans la membrane et la paroi cellulaire. Elle est formée d'un moteur qui créer un mouvement rotatoire en hydrolysant de l'ATP qui se propage au filament situé à l'extrémité du flagelle. Le flagelle était à l'origine un appareil qui sécrète des macromolécules.
 
-La structure des flagelles est différente de celle des Archées et des
-Eucaryotes. Elle est composée de deux anneaux enchâssés dans la membrane
-et la paroi cellulaire. Elle est formée d'un moteur qui créer un
-mouvement rotatoire en hydrolysant de l'ATP qui se propage au filament
-situé à l'extrémité du flagelle. Le flagelle était à l'origine un
-appareil qui sécrète des macromolécules.
-
-Exaptation processus par lequel un caractère a perdu sa fonction
-originelle.
+__Exaptation__ processus par lequel un caractère a perdu sa fonction originelle.
 
 ## Le génome des procaryotes
 
-Le génome des procaryotes est souvent plus petit que celui des
-Eucaryotes mais il est capable de supporter une très grande diversité
-génotypique.
+Le génome des procaryotes est souvent plus petit que celui des Eucaryotes mais il est capable de supporter une très grande diversité génotypique.
 
-Contrairement aux eucaryotes, la faible probabilité de mutation (de
-l'ordre de 10^-7^) est compensée par une vitesse élevée de reproduction.
-Il permet aux Bactéries d'engendrer une grande diversité de génomes dans
-un lapse de temps très court.
+Contrairement aux eucaryotes, la faible probabilité de mutation (de l'ordre de $10^-7$) est compensée par une vitesse élevée de reproduction. Il permet aux Bactéries d'engendrer une grande diversité de génomes dans un lapse de temps très court.
 
 ## La reproduction
 
-La reproduction des procaryotes se fait par scissiparité (ou fission
-binaire). La durée entre chaque division peut être très courte en milieu
-favorable et atteindre jusqu'à 20 minutes chez certaines espèces.
+La reproduction des procaryotes se fait par scissiparité (ou fission binaire). La durée entre chaque division peut être très courte en milieu favorable et atteindre jusqu'à 20 minutes chez certaines espèces.
 
 Elle peut être accompagnée par d'autres types de reproduction comme :
 
-|                       |               |
-|-----------------------|---------------|
-| Bourgeonnement (rare) | Fragmentation |
+* Bourgeonnement (rare).
+* Fragmentation.
 
-[Rmq :]{.underline} Il ne faut pas recongeler les aliments car cela
-favorise la prolifération bactérienne et augmente les risques
-d'intoxication alimentaire. La première congélation forme un substrat
-idéal pour les Bactéries en détruisant les cellules. À leur réveil,
-elles se mettent à proliférer et leur nombre augmente de façon
-exponentielle. Après deux phases de décongélation, le nombre de
-bactéries peut être considérable.
+!!! note
+    Il ne faut pas recongeler les aliments car cela favorise la prolifération bactérienne et augmente les risques d'intoxication alimentaire. La première congélation forme un substrat idéal pour les Bactéries en détruisant les cellules. À leur réveil, elles se mettent à proliférer et leur nombre augmente de façon exponentielle. Après deux phases de décongélation, le nombre de bactéries peut être considérable.
 
 ### Les endospores
 
-Certaines espèces de Bactéries de type Gram - peuvent produire des
-endospores, une forme résistante de cellules. Le processus de
-fabrication prend en moyenne 10h et se déroule en quatre étapes :
+Certaines espèces de Bactéries de type Gram - peuvent produire des endospores, une forme résistante de cellules. Le processus de fabrication prend en moyenne 10h et se déroule en quatre étapes :
 
 1.  La copie du chromosome
-
 2.  La fabrication autour d'une couche avec une structure robuste.
-
 3.  L'endospore se déshydrate et arrête son métabolisme.
-
 4.  La cellule originelle meurt et se désintègre libérant l'endospore.
 
-Les endospores sont extrêmement résistantes. Par exemple, elles peuvent
-survivre durant plusieurs heures à de l'eau bouillante et rester
-inactifs plusieurs siècles voir pour certain plusieurs millions
-d'années. Lorsque les conditions sont favorables, elles se réhydratent
-et les activités métaboliques reprennent.
+Les endospores sont extrêmement résistantes. Par exemple, elles peuvent survivre durant plusieurs heures à de l'eau bouillante et rester inactifs plusieurs siècles voir pour certain plusieurs millions d'années. Lorsque les conditions sont favorables, elles se réhydratent et les activités métaboliques reprennent.
 
 ## Transfert horizontaux de matériel génétique
 
-Reproduction para génétique transfert partiel d'ADN entre deux
-bactéries.
+__Reproduction paragénétique__ transfert partiel d'ADN entre deux bactéries.
 
-Il existe trois types de reproduction para génétique :
+Il existe trois types de reproduction paragénétique :
 
--   Décès de la cellule libère le génome dans le milieu qui peut être
-    capté par une Bactérie vivante.
+* Décès de la cellule libère le génome dans le milieu qui peut être capté par une Bactérie vivante.
+* Conjugaison est le processus de transfert unidirectionnel de gènes entre un deux procaryotes. La Bactérie donneuse doit posséder une séquence d'ADN qui contient 25 gènes appelée facteur F (pour fertilité) soit dans son chromosome soit dans un plasmide. Elle peut alors générer un pilus qui forme un pont et permet aux deux Bactéries de se rapprocher. Une fois l'une à côté de l'autre, la bactérie peut donner une séquence de gène ou un plasmide.
+* Transduction. Le transfert a lieu par des bactériophages (virus bactériens).
 
--   Conjugaison est le processus de transfert unidirectionnel de gènes
-    entre un deux procaryotes. La Bactérie donneuse doit posséder une
-    séquence d'ADN qui contient 25 gènes appelée facteur F (pour
-    fertilité) soit dans son chromosome soit dans un plasmide. Elle peut
-    alors générer un pilus qui forme un pont et permet aux deux
-    Bactéries de se rapprocher. Une fois l'une à côté de l'autre, la
-    bactérie peut donner une séquence de gène ou un plasmide.
+En plus, les Bactéries possèdent des mécanismes de recombinaison génétiques :
 
--   Transduction. Le transfert a lieu par des bactériophages (virus
-    bactériens).
+* Transformation.
+* Transduction.
+* La conjugaison.
 
-En plus, les Bactéries possèdent des mécanismes de recombinaison
-génétiques :
+__Transfert horizontal__ transfert de gènes entre des espèces différentes.
 
-|                |              |                |
-|----------------|--------------|----------------|
-| Transformation | Transduction | La conjugaison |
-
-Transfert horizontal transfert de gènes entre des espèces différentes.
-
-Pili appendice servant au transfert de gènes entre les Bactéries.
-[]{.mark}
+__Pili__ appendice servant au transfert de gènes entre les Bactéries.
 
 ## Nutrition
 
 On classe les procaryotes en fonction de leur mode de nutrition :
 
--   De la source d'énergie
+* De la source d'énergie (phototrophe, chimiotrophe).
+* De la source de carbone (autotrophe $CO_2$ ou hétérotrophe de matière organique).
+* En fonction du rôle métabolique du dioxygène (aérobie à besoin de $O_2$, anaérobie survie sans par exemple via la fermentation,  anaérobie facultative à recours à la voie anaérobie en absence d'$O_2$).
 
-|             |              |
-|-------------|--------------|
-| Phototrophe | Chimiotrophe |
+Les procaryotes chimio hétérotrophes agissent comme décomposeurs. Ils rendent assimilable de nombreuses molécules par les autres êtres vivants.
 
--   De la source de carbone
+!!! note
+    La paroi empêche l'entrée des nutriments par endocytose.
 
-|                    |                                  |
-|--------------------|----------------------------------|
-| Autotrophe (CO~2~) | Hétérotrophe (matière organique) |
-
--   En fonction du rôle métabolique du dioxygène :
-
-|                          |                                                         |                                                                       |
-|--------------------|------------------------|-----------------------------|
-| Aérobie (besoin de O~2~) | Anaérobie (survie sans par exemple via la fermentation) | Anaérobie facultative à recours à la voie anaérobie en absence d'O~2~ |
-
-Les procaryotes chimio hétérotrophes agissent comme décomposeurs. Ils
-rendent assimilable de nombreuses molécules par les autres êtres
-vivants.
-
-[Rmq :]{.underline} La paroi empêche l'entrée des nutriments par
-endocytose.
-
-Auxotrophe (opposition à prototrophe) organisme incapable de synthétiser
-un aa.
+__Auxotrophe__ (opposition à prototrophe) organisme incapable de synthétiser un aa.
 
 ### Métabolisme de l'azote
 
-Certaines bactéries sont capables de fixer ou d'extraire l'azote présent
-sous diverses formes de l'environnement.
+Certaines bactéries sont capables de fixer ou d'extraire l'azote présent sous diverses formes de l'environnement.
 
-[Rmq :]{.underline} Une proportion importante de l'azote entre dans
-l'écosystème par l'intermédiaire des bactéries.
+!!! note
+    Une proportion importante de l'azote entre dans l'écosystème par l'intermédiaire des bactéries.
 
 ## La croissance bactérienne
 
-La croissance des microorganismes dépend du milieux
-artificiels utilisés, elle sera :
+La croissance des microorganismes dépend du milieux artificiels utilisés, elle sera discontinue en milieu fermé et continue en milieu ouvert.
 
-|                             |                           |
-|-----------------------------|---------------------------|
-| Discontinue en milieu fermé | Continue en milieu ouvert |
+__Titre__ concentration cellulaire. Elle a pour unité le nombre de cellules par mL.
 
-Titre concentration cellulaire. Elle a pour unité le nombre de cellules
-par mL.
-
-Généralement, l'étude de la croissance bactérienne cherche à déterminer
-les différentes vitesses de croissance entre les milieux.
+Généralement, l'étude de la croissance bactérienne cherche à déterminer les différentes vitesses de croissance entre les milieux.
 
 Il existe deux méthodes pour déterminer le titre :
 
-|                                         |                                |
-|-----------------------------------------|--------------------------------|
-| Par l'absorbance (généralement à 600nm) | Par dénombrement sur gélose nu |
+* Par l'absorbance (généralement à 600nm)
+* Par dénombrement sur gélose nu.
 
-[Rmq :]{.underline} Le dénombrement sur gélose est une méthode plus
-précise mais elle détecte uniquement les Bactéries vivantes.
+!!! note
+    Le dénombrement sur gélose est une méthode plus précise mais elle détecte uniquement les Bactéries vivantes.
 
-La croissance bactérienne peut être découpée en plusieurs phases de
-croissance :
+La croissance bactérienne peut être découpée en plusieurs phases de croissance : latence, accélération, exponentielle, décélération, stationnaire.
 
-|         |              |               |              |              |
-|---------|--------------|---------------|--------------|--------------|
-| Latence | Accélération | Exponentielle | Décélération | Stationnaire |
-
-[Rmq :]{.underline} Tous les phases n'ont pas nécessairement lieu.
+!!! note
+    Tous les phases n'ont pas nécessairement lieu.
 
 ### Modélisation de la croissance bactérienne
 
-Inoculum quantité de bactéries au début de l'expérience.
+__Inoculum__ quantité de bactéries au début de l'expérience.
 
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><span
-class="math display"><strong>x</strong><sub><strong>t</strong></sub><strong>=</strong><strong>x</strong><sub><strong>0</strong></sub><strong>.</strong><strong>2</strong><sup><strong>n</strong></sup><strong>=</strong><strong>x</strong><sub><strong>0</strong></sub><strong>.</strong><strong>2</strong><sup><strong>μ</strong><strong>t</strong></sup></span></p>
-<p><span class="math display">$$\mathbf{\mu
-=}\frac{\mathbf{n}}{\mathbf{t}}$$</span></p></td>
-<td><p><span class="math inline"><strong>n</strong></span> nombre de
-générations</p>
-<p><span class="math inline"><strong>M</strong></span> biomasse</p>
-<p><span class="math inline"><strong>μ</strong></span> vitesse de
-croissance (h<sup>-1</sup>)</p>
-<p><span class="math inline"><strong>g</strong></span> temps de
-génération en h</p>
-<p><span
-class="math inline"><strong>x</strong><sub><strong>0</strong></sub></span>
-inoculum</p></td>
-</tr>
-</tbody>
-</table>
+$x_t = x_0 \cdot 2^n = x_0 \cdot 2 \nu t
+$\mu = \frac{n}{t}$ avec 
 
-[Rmq :]{.underline} le temps de génération correspond au temps
-nécessaire pour doubler l'effectif de la colonie.
+* $n$ nombre de générations.
+* $M$ biomasse.
+* $\nu$ vitesse de croissance en $h^{-1}$.
+* $g$  temps de génération en $h$.
+* $x_0$ inoculum.
+
+!!! note
+    Le temps de génération correspond au temps nécessaire pour doubler l'effectif de la colonie.
 
 Pour linéariser la croissance on utilise le log.
 
 Calcul de la pente $g = \frac{Do}{Do \times 2 \times nb\ heures}$
 
-Attention Les paramètres de la fonction sont à déterminer uniquement
-pour la phase exponentielle de croissance.
+Attention Les paramètres de la fonction sont à déterminer uniquement pour la phase exponentielle de croissance.
 
-La biomasse (mg/L) masse à t~0~. Elle est égale à $M = x_{\max} - x_{0}$
+La biomasse (mg/L) masse à $t_0$. Elle est égale à $M = x_{\max} - x_{0}$
 
 Rendement de croissance :
 $y = \frac{masse\ \ de\ micro - organismes\ mg/L}{masse\ de\ substrat\ consommé\ g/L}$
 
-Les paramètres qui impactent le plus la croissance bactérienne sont le
-pH, la pression, la présence d'oxygène, la température, les radiation.
+Les paramètres qui impactent le plus la croissance bactérienne sont le pH, la pression, la présence d'oxygène, la température, les radiation.
 
-[Rmq :]{.underline} Pour les bactéries anaérobies stricts, l'oxygène est
-toxique car il peut produire des molécules très oxydées et très
-réactives capables de causer des dommages irréversibles. Contrairement
-aux autres bactéries, elles ne disposent pas de moyen de neutraliser ces
-molécules.
+!!! note
+    Pour les bactéries anaérobies stricts, l'oxygène est toxique car il peut produire des molécules très oxydées et très réactives capables de causer des dommages irréversibles. Contrairement aux autres bactéries, elles ne disposent pas de moyen de neutraliser ces molécules.
 
-Sélection positive (par opposition sélection négative) sélection par la
-survie (par la mort) à des conditions.
+__Sélection positive__ (par opposition sélection négative) sélection par la survie (par la mort) à des conditions.
 
 ## Coopération métabolique
 
-Pour coopérer, les cellules sécrètent des molécules de signalisation qui
-attirent les cellules voisines. Elles forment alors des structures comme
-des filaments ou des biofilms avec des organisation complexes qui
-permettent aux nutriments atteindre les cellules intérieures et aux
-déchets métaboliques d'être expulsés.
+Pour coopérer, les cellules sécrètent des molécules de signalisation qui attirent les cellules voisines. Elles forment alors des structures comme des filaments ou des biofilms avec des organisation complexes qui permettent aux nutriments atteindre les cellules intérieures et aux déchets métaboliques d'être expulsés.
 
 ## Les bactéries et les hommes
 
-Notre intestin contient entre 500 et 1000 espèces de bactéries.
-Certaines sont capables d'émettre des signaux chimiques qui activent les
-gènes qui fabriquent les vaisseaux sanguins.
+Notre intestin contient entre 500 et 1000 espèces de bactéries. Certaines sont capables d'émettre des signaux chimiques qui activent les gènes qui fabriquent les vaisseaux sanguins.
 
-Les bactéries sont aussi responsables de la moitié des maladies humaines
-qu'elles causent en fabriquant des protéines toxiques pour les cellules.
-On distingue :
+Les bactéries sont aussi responsables de la moitié des maladies humaines qu'elles causent en fabriquant des protéines toxiques pour les cellules. On distingue :
 
-|           |                                                                                                |
-|-----------------|-------------------------------------------------------|
-| Exotoxine | Endotoxine qui constitue la paroi notamment les lipposaccharides des bactéries à Gram négatif. |
+* Exotoxine
+* Endotoxine qui constitue la paroi notamment les lipposaccharides des bactéries à Gram négatif.
 
 Les Bactéries ont de multiples utilités. Elles servent notamment dans :
 
--   Fabrication de matériaux et d'aliments.
-
--   Biorestauration càd élimination de polluants.
-
--   Produire des médicaments, des carburants.
+* Fabrication de matériaux et d'aliments.
+* Biorestauration càd élimination de polluants.
+* Produire des médicaments, des carburants.
 
 Les différences entre les grands groupes de cellules :
 
@@ -441,4 +280,4 @@ Convention de nommage (nomenclature) : Genre espèces souche
 Organisme modèle : Escherichia colis
 
 Isoler une espèces : Utilisation de milieu le plus restrictif qui ne
-permettent que la survie de l'espèce étudiée.
+permet que la survie de l'espèce étudiée.

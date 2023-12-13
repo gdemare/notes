@@ -1,7 +1,7 @@
 La régulation du métabolisme se fait par la régulation de :
 
 * La synthèse d'enzymes qui régulée par l'expression génique.
-* L'activité des enzymes
+* L'activité des enzymes.
 
 ## Chez la Bactéries (et les Eucaryotes)
 
@@ -12,8 +12,7 @@ Les organismes unicellulaires s'adaptent aux conditions du milieu en modulant la
 
 ## Modèle de l'opéron
 
-__Opéron__ groupe de gènes transcrit qui contient la majorité du temps toutes les instructions de fabrication de l'ensemble des enzymes
-nécessaire à l'accomplissement d'une activité métabolique.
+__Opéron__ groupe de gènes transcrit qui contient la majorité du temps toutes les instructions de fabrication de l'ensemble des enzymes nécessaire à l'accomplissement d'une activité métabolique.
 
 La transcription de l'opéron est contrôlée par une séquence d'ADN unique appelée promoteur.
 
@@ -59,28 +58,17 @@ __Expression génique différentielle__
 
 La régulation de l'expression génétique peut avoir lieu :
 
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>À la transcription</th>
-<th>Après la transcription</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Avant la transcription</p>
-<p>La vitesse de transcription</p></td>
-<td><p>L’épissage</p>
-<p>La maturation</p>
-<p>Le transport vers le cytoplasme.</p>
-<p>Dégradation de l’ARN</p></td>
-</tr>
-</tbody>
-</table>
+* au moment de la transcription :
+
+    * Avant la transcription
+    * La vitesse de transcription
+    
+* Après la transcription
+
+    * L’épissage
+    * La maturation
+    * Le transport vers le cytoplasme.
+    * Dégradation de l’ARN
 
 Tous l'ADN n'est pas accessible à la transcription par la cellule notamment lorsque :
 

@@ -20,10 +20,10 @@ Glucide         | Infini            | Amidon, Glycogènes…
 
 Les interactions entre les molécules sont conditionnées par :
 
-* La température
-* Le pH
+* La température.
+* Le pH.
 
-# Les liaisons du vivant
+## Les liaisons du vivant
 
 Le vivant utilise principalement des réactions :
 
@@ -32,9 +32,9 @@ Le vivant utilise principalement des réactions :
 
 __Déshydratation__ perte d'une molécule d'eau pour créer une liaison covalente.
 
-# Ph Potentiel Hydrogène
+## Ph Potentiel Hydrogène
 
-## Notion acide/base
+### Notion acide/base
 
 !!! warning
     La notion d'acide/base n'a rien à voir avec une solution acide/basique qui quantifie le nombre de protons présent dans une solution.
@@ -45,45 +45,42 @@ Un acide est une molécule capable de gagner un proton ($H^{+}$). Il est dit dis
     Un acide ou une base sont dits forts s'ils réagissent totalement avec l'eau.
 
 Autoprotolyse capacité entre deux même molécules d'échanger un proton
-(ex : ${2H}_{2}O \leftrightarrow H_{3}O^{+ + {HO}^{-}}$).
+
+!!! example
+    ${2H}_{2}O \leftrightarrow H_{3}O^{+ + {HO}^{-}}$.
 
 L'autoprotolyse de l'eau à 25 degrés est de $$mol/L
 
-## Potentiel hydrogène d'une solution
+### Potentiel hydrogène d'une solution
 
 L'équilibre de dissociation :
 
-$pH =  − log[H^{+}]$ 
+$pH =  − \log [H^{+}]  = pK_{a} + \log [A]$ avec :
 
-avec [A] est la concentration en $mol.L^{-1}$
-$pH = pK_{a} + log [A]$
-Ou
-$pK_{a}$ est
-une constante de</p>
-$pK_{0} &lt; pK_{1}\underset{\Leftrightarrow}{}pH_{0} &lt; pH_{1}$
+* $[A]$ est la concentration en $mol.L^{-1}$
+* $pK_{a}$ est la constante d'équilibre.
 
 !!! warning
     AH est l'acide au sens de Bronsted c'est-à-dire que la molécule capable de relâcher un proton.
 
 Isoélectrique c'est le pH où la forme neutre est la plus abondante. Pour cela on calcule la moyenne pKa entre lesquelles l'espèce est neutre.
 
-Autoprotolyse de l'eau          | Constante d'équilibre |
---------------------------------|-----------------------|-------------
-                                | $K_{a} =$             | $K_{b} =$
-$K_{e} = K_{a} \times K_{b} =$  |                       |
+Autoprotolyse de l'eau  $K_{e} = K_{a} \times K_{b} =$ avec $K_{a}$ et $K_{b}$ les constantes d'équilibre.
 
 On obtient :
 
-Base forte      | $pH = 14 + \log C_{0}$
-Base faible     | $pH = 7 + \frac{1}{2}\left( pKa + \log C_{0} \right)$
-Acide fort      | $pH = - \log C_{0}$
-Acide Faible    | $pH = \frac{1}{2}\left( pKa - \log C_{0} \right)$
+Cas             | Formule
+----------------|-----------
+Base forte      | $pH = 14 + \log C_0$
+Base faible     | $pH = 7 + \frac{1}{2} ( pKa + \log C_0)$
+Acide fort      | $pH = - \log C_0$
+Acide Faible    | $pH = \frac{1}{2} (pKa - \log C_0)$
 
-## L'effet tampons
+### L'effet tampons
 
 Le système oscille vers un état d'équilibre
 
-### Molécule tampons du corps
+#### Molécule tampons du corps
 
 Tampon                  | Formule brute | Eliminé       | Autre
 ------------------------|---------------|---------------|----------
@@ -92,7 +89,7 @@ Bicarbonate             |               | Respiration   |
 
 Dans le cas où les systèmes tampons précédent ne sont pas suffisant, l'organisme utilise les groupements ionisables des protéines avec un pKa entre 4-5 et 9-10.
 
-# Informations à connaitre par cœur
+## Informations à connaitre par cœur
 
 Atome       | Masse molaire ($g.mol^{-1}$) 
 ------------|-----------
