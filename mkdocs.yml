@@ -68,7 +68,7 @@ nav:
       - "ADN et ARN" : biologie/biochimie/ADN-ARN.md
       - "Les enzymes" : biologie/biochimie/enzymes.md
       - "Les lipides" : biologie/biochimie/sucres.md
-      - "Les métabolites" : biologie/cellule/metabolites.md
+      - "Les métabolites" : biologie/biochimie/metabolites.md
       - "Les protéines" : biologie/biochimie/proteines.md
       - "Les sucres" : biologie/biochimie/sucres.md
       - "Réactivité chimique en biologie" : biologie/biochimie/reactivite-chimique-biologie.md
@@ -115,10 +115,6 @@ nav:
       - Immunologie : biologie/physiologie-animale/immunologie.md
       - Neurobiologie : biologie/physiologie-animale/neurobiologie.md
       - "Système nerveux" : biologie/physiologie-animale/systeme-nerveux.md
-  - Communication :
-    - Candidater : communication/entretien-embauche.md
-    - "Gestion de projet" : communication/gestion-projet.md
-    - Rhétorique : communication/rhetorique.md
   - "Data Science" :
     - "Méthodes data science" : data-science/methodes-data-science.md
     - "A voir" : data-science/a-voir.md
@@ -156,13 +152,13 @@ nav:
       - "Positionnement multidimensionnel" : data-science/positionnement-multidimensionnel.md
       - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
     - "Réseaux de neurones" :
-      - "couches convulsives" : data-science/reseaux-neurones/couche-convulsive.md
+      - "Couches convulsives" : data-science/reseaux-neurones/couche-convulsive.md
       - "Réseaux de neurones" : data-science/reseaux-neurones/reseaux-neurones.md
     - "Série temporelle" : data-science/serie-temporelle.md
     - Statistique : data-science/statistique.md
     - "Text mining" : data-science/text-mining.md
     - "Traitement des images" : data-science/traitement-image.md
-    - "Transformation des données " : data-science/transformation-donnees.md  
+    - "Transformation des données" : data-science/transformation-donnees.md  
   - Mathématique :
     - Mathématique : mathematique/mathematique.md
     - Arithmétique :  mathematique/arithmetique.md
@@ -174,7 +170,7 @@ nav:
     - Modélisation :
       - "Ajustement" : mathematique/ajustements-modeles.md
       - "Méthodes mixtes" :
-        - 'Réseaux de neurones' : mathematique/reseaux-neurones.md
+        - "Réseaux de neurones" : mathematique/reseaux-neurones.md
     - "Statistique et probabilités" : 
       - Probabilité : mathematique/probabilite.md
       - "Probabilité et statistique" : mathematique/probabilite-statistique.md
@@ -187,9 +183,14 @@ nav:
     - Physique :
       - Physique : physique-chimie/physique/physique.md
       - Optique : physique-chimie/physique/optique.md
-  - Informatique :
-      - 'Math jax' : informatique/markdown-math.md
-      - 'Réseau' : informatique/reseau.md
-  - Utiles :
-      - Emploi : utiles/emploi.md
-      - Location : utiles/location.md
+  - Autres :
+    - Informatique :
+        - "Math jax" : informatique/markdown-math.md
+        - "Réseau" : informatique/reseau.md
+    - Utiles :
+        - Emploi : utiles/emploi.md
+        - Location : utiles/location.md
+    - Communication :
+      - Candidater : communication/entretien-embauche.md
+      - "Gestion de projet" : communication/gestion-projet.md
+      - Rhétorique : communication/rhetorique.md
