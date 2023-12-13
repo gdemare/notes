@@ -167,10 +167,7 @@ nav:
       - "Fonctions remarquables" : mathematique/fonctions-remarquables.md
     - Geométrie :  mathematique/geometrie.md
     - Matrice : mathematique/matrice.md
-    - Modélisation :
-      - "Ajustement" : mathematique/ajustements-modeles.md
-      - "Méthodes mixtes" :
-        - "Réseaux de neurones" : mathematique/reseaux-neurones.md
+    - "Ajustement" : mathematique/ajustements-modeles.md
     - "Statistique et probabilités" : 
       - Probabilité : mathematique/probabilite.md
       - "Probabilité et statistique" : mathematique/probabilite-statistique.md
