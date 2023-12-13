@@ -106,7 +106,7 @@ Ainsi, l'ensemble des cellules issues d'une cellule mère partageront une utilis
 !!! note 
     La méthylation serait responsable de la transmission de caractères épigénétiques des parents aux enfants.
 
-## La régulation de l'initiation de la transcription.
+## La régulation de l'initiation de la transcription
 
 Le promoteur est associé à de nombreuses séquences régulatrices appelées éléments de contrôle. Les éléments de contrôle (ou régulateur) sont dits :
 
@@ -144,24 +144,19 @@ Les facteurs de transcriptions agissent soit comme :
 * Activateurs.
 * Répresseur.
 
-[Rmq :]{.underline} La plupart des activateurs et répresseurs agissent
-directement sur la forme de la chromatide et sur les histones.
+!!! note
+    La plupart des activateurs et répresseurs agissent directement sur la forme de la chromatide et sur les histones.
 
 La permet à la cellule de régler précisément la vitesse de transcription
 Le contrôle combinatoire
 
 ### Les amplificateurs
 
-Amplificateur séquence de l'ADN situé en amont aval ou à l'intérieur
-d'un intron constitué d'une combinaison unique pour chaque gène
-d'environ une dizaine d'éléments de contrôle.
+__Amplificateur__ séquence d'ADN située en amont aval ou à l'intérieur d'un intron constitué d'une combinaison unique pour chaque gène d'environ une dizaine d'éléments de contrôle.
 
-Chaque élément de contrôle est composé d'une dizaine de nucléotides et
-peut se lier à 1 ou 2 facteurs de transcriptions.
+Chaque élément de contrôle est composé d'une dizaine de nucléotides et peut se lier à 1 ou 2 facteurs de transcriptions.
 
-Les amplificateurs se trouvent loin du promoteur. Ils sont rapprochés
-par les courbures de l'ADN induite par des protéines de la séquence
-génique.
+Les amplificateurs se trouvent loin du promoteur. Ils sont rapprochés par les courbures de l'ADN induite par des protéines de la séquence génique.
 
 !!! note
     Une grande partie de la régulation dépend des liaisons avec les activateurs.
@@ -183,7 +178,7 @@ Les répresseur agissent soit :
 
 Les activateurs disponibles diffèrent en fonction du type de cellules permet l'activation des différents amplificateurs.
 
-# Les mécanismes de régulation post transcriptionnel
+## Les mécanismes de régulation post transcriptionnel
 
 La transcription n'est qu'une étape dans la production des protéines. La régulation peut avoir lieu après la transcription de l'ADN en ARNm. Elle permet notamment à la cellule de pouvoir adapter rapidement sont métabolisme sans modifier son expression génique.
 
@@ -224,14 +219,14 @@ La régulation post traductionnelle peut avoir lieu avant que la protéine devi
 !!! note 
     Certaines modifications fonctionnelles sont nécessaires à l'activation des protéines pour comme pour les glucides membranaires qui ne deviennent actifs qu'une fois qu'ils ont atteint leur site de destination.
 
-# La régulation génique et le développement 
+## La régulation génique et le développement 
 
 La régulation génique est primordiale à la fois :
 
 * Pour coordonner le développement chez les Animaux afin de permettre à un individu d'émerger d'une seule cellule.
 * Pour que chaque cellule puisse réaliser le rôle qui lui est destiné notamment car toutes les cellules partagent le même génome.
 
-## Le développement
+### Le développement
 
 Le développement animal résulte de trois processus interdépendants et simultanés :
 
@@ -256,22 +251,15 @@ Les facteurs de croissances
 
 Deviennent plus important au fur et à mesure du développement
 
-Induction changements du comportement cellulaire provoqués par les
-stimulus de l'environnement.
+Induction changements du comportement cellulaire provoqués par les stimulus de l'environnement.
 
-# Les maladies de dérégulation de l'expression génétiques : les cancers
+## Les maladies de dérégulation de l'expression génétiques : les cancers
 
-Les cancers sont dû un dérèglement du cycle cellulaire d'une cellule
-provoquer par l'accumulation de modifications de l'ADN. La cellule se
-multiplie anormalement vite et de façon anarchique.
+Les cancers sont dû un dérèglement du cycle cellulaire d'une cellule provoquer par l'accumulation de modifications de l'ADN. La cellule se multiplie anormalement vite et de façon anarchique.
 
-Les cancers sont principalement le résultat de la modification dans le
-fonctionnement de certains gènes qui codent notamment pour des facteurs
-de croissances, les récepteurs et les molécules impliqués dans la
-communication cellulaires.
+Les cancers sont principalement le résultat de la modification dans le fonctionnement de certains gènes qui codent notamment pour des facteurs de croissances, les récepteurs et les molécules impliqués dans la communication cellulaires.
 
-Oncogène gène mutant à l'origine du cancer. Le gène dans sa version non
-cancéreuse est appelé proto-oncogène.
+__Oncogène__ gène mutant à l'origine du cancer. Le gène dans sa version non cancéreuse est appelé proto-oncogène.
 
 Par rapport à une cellule normale, la protéine produite par l'oncogène :
 
@@ -281,8 +269,7 @@ Par rapport à une cellule normale, la protéine produite par l'oncogène :
 !!! note
     L'augmentation de l'activité de la protéine est uniquement dû une modification de la séquence d'ADN de l'oncogène c'est-à-dire à un changement dans la structure de la protéine.
 
-L'augmentation de la quantité de la protéine a principalement comme
-origine :
+L'augmentation de la quantité de la protéine a principalement comme origine :
 
 * Une mutation du code de l'oncogène qui modifie la structure de la protéine ce qui provoque un ralentissement de son élimination.
 * Une multiplication des copies de l'oncogène.
@@ -311,21 +298,14 @@ Dans 50% des cas liée à la protéine p53
 
 Dans 30% des cas RAS.
 
-RAS code pour une protéine G (récepteur membranaire) responsable de la
-division cellulaire.
+RAS code pour une protéine G (récepteur membranaire) responsable de la division cellulaire.
 
-P53 protéine qui inhibe la division cellulaire notamment lorsque l'ADN
-est endommagé. Elle stoppe le cycle cellulaire pour permettre à la
-cellule de réparer son code génétique ou dans les cas les plus grave, il
-provoque l'apoptose de la cellule
+P53 protéine qui inhibe la division cellulaire notamment lorsque l'ADN est endommagé. Elle stoppe le cycle cellulaire pour permettre à la cellule de réparer son code génétique ou dans les cas les plus grave, il provoque l'apoptose de la cellule
 
-L'apparition de cancer s'explique par l'accumulation de mutation
-d'autant plus avec l'âge.
+L'apparition de cancer s'explique par l'accumulation de mutation d'autant plus avec l'âge.
 
 Le risque de développer un cancer n'est pas le même pour chaque
 personne. Certains individus ont des prédispositions génétique
-c'est-à-dire qu'elles ont hérités de leurs parents de sorte que le
-nombre de mutations nécessaire à l'apparition d'un cancer est lié à
-l'ADN de ses parents.
+c'est-à-dire qu'elles ont hérités de leurs parents de sorte que le nombre de mutations nécessaire à l'apparition d'un cancer est lié à l'ADN de ses parents.
 
 Dans 15% des cancers sont liés à des virus.

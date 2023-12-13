@@ -9,6 +9,3 @@ Les variables corrélés sont regroupés.
 ## Utilité
 
 * Classification des variables.
-
-## Attribut
-

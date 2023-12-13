@@ -72,13 +72,13 @@ _Area Under the Curve (AUC)_ aire sous la courbe de ROC.
 
 ## Indicateur de qualité du modèle 
 
-Indicateur 						| Définition
---------------------------------|---
+Indicateur 						| Définition | Formule
+--------------------------------|---|---
 `binary_accuracy`      			| Calculates how often predictions match binary labels.
 `binary_crossentropy` 			| the binary crossentropy loss.
 `binary_focal_crossentropy`		| the binary focal crossentropy loss.
 `categorical_accuracy` 			| Calculates how often predictions match one-hot labels.
-`categorical_crossentropy` 		| the categorical crossentropy loss.
+`categorical_crossentropy` 		| the categorical crossentropy loss. | $- \sum y \times \log(p) + (1−y) \times \log(1−p)$
 `deserialize` 					| Deserializes a serialized metric class/function instance.
 `get` 							| Retrieves a Keras metric as a function/Metric class instance.
 `logcosh` 						| Logarithm of the hyperbolic cosine of the prediction error.
