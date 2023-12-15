@@ -132,7 +132,7 @@ On obtient alors pour la vitesse (équation de) $v = \frac{k_{cat}[E_0][S]}{K_m
 
 On peut déduire de l'équation :
 
-* La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_{m} \lt \lt [S]$ d’où $v_{\max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$
+* La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_m \lt \lt [S]$ d’où $v_{\max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$ ainsi l'équation de Micheal-Menden peut s'écrire $v = \frac{v_{\max}[S]}{K_m + [S]}$.
 * Efficacité de l’enzyme. Plus la vitesse est grande, plus $k_{cat}$ est grand.
 * L'affinité (reconnaissance entre l'enzyme et le substrat) correspond à la proportion $\frac{[E]}{[ES]}$. Plus elle est élevée et plus $\frac{[E]}{[ES]}$ est petit d’où $K_m = \frac{[E]}{[ES]}[S]$ est petit.
 
@@ -147,12 +147,15 @@ On peut déduire de l'équation :
 
 ##### Linéarisation
 
-La vitesse peut être facilement linéarisée en posant : $\frac{1}{v} = f(\frac{1}{[S]})$.
+La vitesse peut être facilement linéarisée en posant : $\frac{1}{v} = f(\frac{1}{[S]})$ noté $y = f(x)$.
 
-Pour $[S] = 0 \rightarrow v = \frac{1}{v_{\max}}$ et $v_i = 0 \rightarrow \frac{1}{[S]} = \frac{- 1}{K_m}$.
+On a remarque que :
+
+* $x = 0 \rightarrow y = \frac{1}{v_{\max}}$. L'intersection à l'ordonnée.
+* $y = 0 \rightarrow x = - K_m$. l'intersection à l'absisse ou sinon 
 
 !!! notes Point méthode
-	Pour savoir si la réaction enzymatique de type Michaelis-Mentens, on vérifie que $f( \frac{1}{[S]} ) = \frac{1}{[P]}$ est une droite.
+	Pour savoir si la réaction enzymatique de type Michaelis-Menten, on vérifie que $f( \frac{1}{[S]} ) = \frac{1}{[P]}$ est une droite.
 	On peut alors déterminer les constantes $v_{max}$ et $K_{m}$ d’après le graphique.
 
 #### Modèle de Briggs-Haldane

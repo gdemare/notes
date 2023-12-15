@@ -40,28 +40,6 @@ Majuscule | Minuscule | Nom
 Ψ | ψ | Psi
 Ω | ω | Oméga
 
-## Unité et conversion
-
-Relation surface :
-
-Unité 				| Symbole			| Grandeur
---------------------|-------------------|-------
-kilo 				| k 				| $10^{- 3}$ 
-Hecto				| h 				| $10^{- 2}$
-Déca 				| da 				| $10^{- 1}$ 
-Unité				|  					| $10^{0} = 1$
-Déci  				| d 				| $10^1$
-Centi 				| c 				| $10^{2}$
-Milli 				| m 				| $10^{3}$
-Micro 				| μ 				| $10^{6}$
-Nano  				| n 				| $10^{9}$
-
-
-* Relation surface $1km^2 = {(10^3)}^2 \cdot m^2$
-* Relation volume :
-	* $1{km}^3 = {(10^3)}^3 \cdot m^3 = {10}^9 \cdot m^3$
-	* Relation avec le litre $1L = 1{dm}^3 = 1 kg$ eau 
-
 ## Identités remarquables
 
 Factoriser et développer
@@ -78,5 +56,5 @@ Connaitre les variations de $f(x)$.
 !!! note
 	Les identifés remarquables sont notammet utilisées dans la factorisaiton d'un polynome de second degré d'abord (1) ou (2) puis (3).
 
-déviré premier sens de variation
-dérivé second permet de détecter les plateaux.
+Déviré premier sens de variation
+Dérivé second permet de détecter les plateaux.

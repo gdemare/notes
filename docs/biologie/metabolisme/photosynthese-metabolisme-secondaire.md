@@ -14,15 +14,15 @@ La photosynthèse est composée de deux phases :
 Il existe deux types de photosynthèse en présence ou de l'absence d'oxygène :
 
 * photosynthèse oxygénique
-* photosynthèse anoxygénique $2H_{2}O + {CO}_{2} \rightarrow O_{2} + H_{2}O + {CH}_{2}O$
+* photosynthèse anoxygénique $2H_2O + CO_2 \rightarrow O_2 + H_2O + CH_2O$
 
 
-# Phytochimique
+## Phytochimique
 
 La phase photochimique permet de produire à partir de la lumière :
 
-* Dans un premier temps un gradient $H^{+}$ dans la lumière des thylakoïdes qui sera utilisé pour fabriquer de l'ATP. Elle débute au niveau du photosystème II.
-* Un second temps du $NADP^{+}$ en NADPH. Son pouvoir réducteur en fait une molécule utilisée pour les réactions anaboliques. Le début est initialisé par le photosystème I.
+* Dans un premier temps un gradient $H^+$ dans la lumière des thylakoïdes qui sera utilisé pour fabriquer de l'ATP. Elle débute au niveau du photosystème II.
+* Un second temps du $NADP^+$ en NADPH. Son pouvoir réducteur en fait une molécule utilisée pour les réactions anaboliques. Le début est initialisé par le photosystème I.
 
 Les produits serviront notamment à produire des sucres, un des quatre principaux constituants du vivant.
 
@@ -33,7 +33,7 @@ Les photosystèmes sont formés :
 
 Les pigments sont des molécules spécialisées pour capter la lumière
 
-## Les pigments
+### Les pigments
 
 Le spectre de lumière exploitée lors de la photosynthèse est contraint
 par l'utilisation de longueurs d'ondes :
@@ -229,9 +229,9 @@ Il existe des ressemblances entre les mitochondries et les chloroplastes même s
 Produit des molécules à 3 atomes de carbones 3 phosphoglycéraldéhyde
 (PGAL) 3moles de CO~2~
 
-1.  Le $CO_{2}$ est ajouté à la ribulose di phosphate (5C)
-2.  Enzyme ribulose di phosphate carboxylase/oxygénase. Elle catalyse la réaction mais ne distingue pas le CO~2~ du O~2~. Dans.
-3.  C'est l'enzyme la plus abondante sur Terre.
+1. Le $CO_{2}$ est ajouté à la ribulose di phosphate (5C)
+2. Enzyme ribulose di phosphate carboxylase/oxygénase. Elle catalyse la réaction mais ne distingue pas le CO~2~ du O~2~. Dans.
+3. C'est l'enzyme la plus abondante sur Terre.
 
 ## Synthèse d'ATP
 

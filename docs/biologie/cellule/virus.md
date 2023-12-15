@@ -54,9 +54,9 @@ Pour se répliquer, un virus procède en deux phases :
 
 L'infection correspond au moment où le génome viral pénètre dans la cellule. Le virus peut entrer dans la cellule par :
 
-* Endocytose
-* Injection
-* Fusion des membranes
+* Endocytose.
+* Injection.
+* Fusion des membranes.
 
 L'infection peut être facilité grâce à la présence de glycoprotéines qui vont se lier aux récepteurs membranaires de la cellule hôte.
 

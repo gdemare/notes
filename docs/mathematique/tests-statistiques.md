@@ -1,29 +1,29 @@
 Notation :
 
-* Moyenne X barre ou m , nu théorique
-* écart type s, sigma théorique
+* Moyenne $X$ barre ou $m$ , $\nu$ théorique
+* écart type $s$, $\sigma$ théorique
 
 ## Résumé des tests
 
 Calcul de p-value directement en ligne [BiostaTGV](https://biostatgv.sentiweb.fr/?module=tests)
 [Tests](https://www.anastats.fr/telechargements/)
 
-* $H_{0}$ : l'hypothèse la plus simple (ou contraignante). Par exemple, les moyennes sont égales.
-* $H_{1}$ : la négation de $H_{0}$.
+* $H_0$ : l'hypothèse la plus simple (ou contraignante). Par exemple, les moyennes sont égales.
+* $H_1$ : la négation de $H_0$.
 
-p-valeur probabilité d'obtenir une valeur aussi extrême sous l'hypohtèse $H_{0}$.
-En fonction du seuil fixé, il n'est pas possible d'accepter $H_{0}$ car le risque béta n'est pas estimable càd le risque de rejeté $H_{1}$ sous l'hypothèse. Le résultat du test est alors :
+p-valeur probabilité d'obtenir une valeur aussi extrême sous l'hypohtèse $H_0$.
+En fonction du seuil fixé, il n'est pas possible d'accepter $H_0$ car le risque béta n'est pas estimable càd le risque de rejeté $H_1$ sous l'hypothèse. Le résultat du test est alors :
 
-* On ne peut pas rejeté $H_{0}$.
-* On rejette $H_{0}$.
+* On ne peut pas rejeté $H_0$.
+* On rejette $H_0$.
 
 On parle de tests paramétriques lorsque les observations suivent une loi statistique et non paramètrique lorsque la loi de répartition n'est pas connue.
 
 * **(1)** indépendance.
 * **(2)** égalité des variances (homoscédasticité).
-* **(3)** n>20.
+* **(3)** $n \gt 20$.
 * **(4)** normalité.
-* **(5)** effectifs théoriques>5.
+* **(5)** effectifs théoriques $\gt 5$.
 
 ## Une distribution
 
@@ -81,16 +81,16 @@ Rang        | 2 var quant                   | 3,4       | Spearman
 
 Les tests statistiques servent à vérifier si les données obtenues sont compatibles avec une propriété (par exemple, une moyenne théorique) et les différences observées dû au hasard de l'échantillonnage.
 
-* $H_{0}$ la différence vient de l'échantillonnage.
-* $H_{1}$ différence entre l'échantillon et la population.
+* $H_0$ la différence vient de l'échantillonnage.
+* $H_1$ différence entre l'échantillon et la population.
 
-Choix/Réalité | $H_{0}$      | $H_{1}$
+Choix/Réalité | $H_0$      | $H_1$
 --------------|--------------|-------------- 
-$H_{0}$       | $1 − \alpha$ | $\alpha$ 
-$H_{1}$       | $\beta$      | $1-\beta$ (appelé puissance du test)
+$H_0$       | $1 − \alpha$ | $\alpha$ 
+$H_1$       | $\beta$      | $1 - \beta$ (appelé puissance du test)
 
 
-Interprétation : Au risque $\alpha$ est accepté $H_{1}$ alors que c'est faux. Cela correspond au rejet à tort de l'hypothèse nulle.
+Interprétation : Au risque $\alpha$ est accepté $H_1$ alors que c'est faux. Cela correspond au rejet à tort de l'hypothèse nulle.
 
 !!! note
     Le risque $\alpha$ est généralement fixé à 5%.
@@ -102,15 +102,15 @@ Règle de décision :
 
 Deux types de tests :
 
-* Unilatéral (example, à gauche), $H_{0}$ : µ = µ0, Ha : µ &lt; µ0
-* Bilatéral $H_{0}$ : $µ = µ_{0}$,  Ha : µ ≠ µ0
+* Unilatéral (example, à gauche), $H_0$ : $\mu = \mu_0$, $H_a$ : $\mu \lt µ_0$
+* Bilatéral $H_0$ : $µ = µ_{0}$,  $H_a$ : $\mu \neq \mu_0$
 
 ### Intervalle de confiance
 
 Exemple de comparaison d'une moyenne observée avec une moyenne de référence :
 
-$S = \left| \frac{x - \mu_{0}}{\sqrt{\frac{\sigma^{2}}{n}}} \right| < 1.96$
-avec $\mu_{0}$ la moyenne théorique.
+$S = \vert \frac{x - \mu _0}{\sqrt{\frac{\sigma ^2}{n}}} \vert \lt 1.96$
+avec $\mu_0$ la moyenne théorique.
 
 Intervalle de confiance $\lbrack\mu_{0} \pm 1,96\sqrt{\frac{\sigma^{2}}{n}}\rbrack$
 
@@ -120,21 +120,21 @@ Pour comparer la valeur de deux échantillons, il suffit de vérifier si les int
 
 Hypothèse                                             | Seuil                       | P-value</th>
 ------------------------------------------------------|-----------------------------|-----------
-On ne rejete pas $H_{0}$ au risque $\beta$ inconnu    | $E_{obs} \leq E_{\alpha}$   | $p-value \gt \alpha$
-On accepte $H_{1}$ au risque $\alpha$                 | $E_{obs} \gt E_{\alpha}$    | $p-value \leq \alpha$
+On ne rejete pas $H_0$ au risque $\beta$ inconnu    | $E_{obs} \leq E_{\alpha}$   | p-value $\gt \alpha$
+On accepte $H_1$ au risque $\alpha$                 | $E_{obs} \gt E_{\alpha}$    | p-value $\leq \alpha$
 
 Par exemple, au risque alpha de 5%, $E_{\alpha} = 1,96$
 
-p-valeur est la probabilité d'obtenir une valeur aussi extrême sous l'hypothèse $H_{0}$. Énoncer de façon différente, elle indique dans quelle mesure les données sont conformes à l'$H_{0}$.
+p-valeur est la probabilité d'obtenir une valeur aussi extrême sous l'hypothèse $H_0$. Énoncer de façon différente, elle indique dans quelle mesure les données sont conformes à l'$H_0$.
 
 !!! example
-    On effectue des tirages de pile ou face. $H_{0}$ la pièce n'est pas biaisée.
+    On effectue des tirages de pile ou face. $H_0$ la pièce n'est pas biaisée.
 
-    * 4 tirages et 4 piles : $\frac{1}{2^{4}} = 0,0625$% on ne rejette pas $H_{0}$.
-    * 5 tirages et 5 piles : $\frac{1}{2^{5}} = 0,03125$% on rejette $H_{0}$.
+    * 4 tirages et 4 piles : $\frac{1}{2^4} = 0,0625$% on ne rejette pas $H_0$.
+    * 5 tirages et 5 piles : $\frac{1}{2^5} = 0,03125$% on rejette $H_0$.
 
 !!! note
-    Une valeur est significativement différente si l'hypothèse $H_{0}$ (les valeurs sont égales) est rejetée.
+    Une valeur est significativement différente si l'hypothèse $H_0$ (les valeurs sont égales) est rejetée.
 
 Les types de tests principaux :
 
@@ -146,8 +146,8 @@ Les types de tests principaux :
 
 Test                                             | Formule          | Degré de liberté
 -------------------------------------------------|------------------|-----------------
-Moyenne observée et moyenne théorique            | $E_{obs} = \vert{\frac{\hat{x}-\mu}{\sqrt{\frac{s^{2}}{n}}}}\vert$   | 
-Distribution de deux échantillons (test Student) | $E_{obs} = \vert \frac{\hat{x_{1}} - \hat{\hat{x_{2}}}}{\sqrt{(\frac{{s_{1}}^{2}}{n} + \frac{{s_{2}}^{2}}{n})}}\vert$  | $df = n_{A}+n_{B}−2$
+Moyenne observée et moyenne théorique            | $E_{obs} = \vert{\frac{\hat{x} - \mu}{\sqrt{\frac{s^2}{n}}}}\vert$   | 
+Distribution de deux échantillons (test Student) | $E_{obs} = \vert \frac{\hat{x_1} - \hat{x_2} }{\sqrt{(\frac{s_1^2}{n} + \frac{s_2^2}{n})}}\vert$  | $df = n_A + n_B − 2$
 Un échantillon et une loi de probabilité         | Test du Xhi2 |
 
 #### Test pour comparer deux moyennes
@@ -157,16 +157,16 @@ Un échantillon et une loi de probabilité         | Test du Xhi2 |
 
 ## Test indépendance (et corrélation) entre deux variables
 
-* $H_{0}$ : les variables sont indépendantes
-* $H_{1}$ : les variables sont liées.
+* $H_0$ : les variables sont indépendantes
+* $H_1$ : les variables sont liées.
 
 ### Une variable quantitative et une qualitative (ANOVA)
 
 L'ANalysis Of Variance (ANOVA) sert à savoir si une variable qualitative
 à une influence sur une variable quantitative.
 
-* $H_{0}$ : La moyenne des groupes est issue d'une même population.
-* $H_{1}$ : Les moyennes possèdent des différences significatives entre les groupes.
+* $H_0$ : La moyenne des groupes est issue d'une même population.
+* $H_1$ : Les moyennes possèdent des différences significatives entre les groupes.
 
 Degré de liberté : $Effectif - 2$
 

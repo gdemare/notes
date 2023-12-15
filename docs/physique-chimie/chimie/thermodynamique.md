@@ -20,11 +20,11 @@ Avec :
 * $V$ volume en $m^{3}$.
 * $n$ quantité de matière en mole.
 * $T$ température en Kelvin (0K = -273,15°C).
-* $R = 8.314J K^{-1}.mol^{-1}$ constante des gaz parfaits.
+* $R = 8.314J \cdot K^{-1} \cdot mol^{-1}$ constante des gaz parfaits.
 
 La masse molaire des principaux atomes est :
 
-Atome     | Masse molaire ($g.mol^{-1}$)
+Atome     | Masse molaire ($g \cdot mol^{-1}$)
 ----------|-----------------------------
 Hydrogène | 1
 Carbone   | 14
@@ -65,12 +65,11 @@ Isobare                 | Pression constante           | $P = cste$
 La notion de travail s'applique uniquement aux gaz car ils sont les seuls à subir une variation importante de volume : $\mathbf{\mathrm{\Delta}W = - PdV}$ avec P pression (Pa).
 
 !!! example 
-    Pour une réaction isobare, on aura $\mathrm{\Delta}W = - PdV = - P \times \frac{nRT}{P} = - nRT$
+    Pour une réaction isobare, on aura $\Delta W = - P \cdot dV = - P \times \frac{nRT}{P} = - n \cdot R \cdot T$
 
 ## La chaleur
 
-La chaleur est une énergie. C'est une notion différente de la
-température.
+La chaleur est une énergie. C'est une notion différente de la température.
 
 !!! note
     Un changement de T° implique nécessairement un échange de chaleur.
@@ -81,36 +80,36 @@ température.
 
 La chaleur se calcule en utilisant une des formules suivantes :
 
-* $\mathbf{\mathrm{\Delta}Q = n.}\mathbf{C}_\mathbf{v}\mathbf{.dT + PdV}$  
-* $\mathbf{\mathrm{\Delta}Q = n.}\mathbf{C}_{\mathbf{p}}\mathbf{.dT }-$ $\mathbf{VdP}$
+* $\Delta Q = n \cdot C_v \cdot dT + P \cdot dV$  
+* $\Delta Q = n \cdot C_p \cdot dT - V \cdot dP$
 
 Avec :
 
-* $\mathrm{\Delta}Q$ Différence de chaleur pour trouver la chaleur il est nécessaire d'intégrer ($J.mol^{-1}$).
+* $\Delta Q$ Différence de chaleur pour trouver la chaleur il est nécessaire d'intégrer ($J \cdot mol^{-1}$).
 * $P$ Pression (Pa).
-* $V$ Volume ($m^{3}$).
-* $C_{p}$ Capacité thermique isobare ($J.K^{-1}$).
-* $\mathbf{C}_{\mathbf{v}}$ Capacité thermique isochore ($J.K^{-1}$) 
+* $V$ Volume ($m^3$).
+* $C_p$ Capacité thermique isobare ($J \cdot K^{-1}$).
+* $C_v$ Capacité thermique isochore ($J \cdot K^{-1}$) 
 * $dT$ différence de température.
 
 !!! note
-    $\mathbf{PdV}$ et $\mathbf{VdP}$ sont nulles pour les formes de la matière autre que gazeux.
+    $P \cdot dV$ et $V \cdot dP$ sont nulles pour les formes de la matière autre que gazeux.
 
 !!! note
-    On a également $R = \mathbf{C}_{\mathbf{p}} - \mathbf{C}_{v}$
+    On a également $R = C_p - C_v$
 
 ### Enthalpie
 
 La plupart des réactions se font à pression constante (transformation isobare).
 
-$\mathrm{\Delta} Q_{p}\mathbf{= \mathrm{\Delta}H}$
+$\Delta Q_p = \Delta H$
 
-__Enthalpie__ chaleur échangée à pression constante ($P = 1 atm$). Elle est notée $\mathrm{\Delta}H$.
+__Enthalpie__ chaleur échangée à pression constante ($P = 1 atm$). Elle est notée $\Delta H$.
 
 Une réaction est :
 
-* Endotherme ($\mathrm{\Delta}H > 0$) elle absorbe de la chaleur.
-* Exotherme ($\mathrm{\Delta}H < 0$) elle libère de la chaleur.
+* Endotherme ($\Delta H \gt 0$) elle absorbe de la chaleur.
+* Exotherme ($\Delta H \lt 0$) elle libère de la chaleur.
 
 ## Calculer l'énergie de formation d'une réaction
 
@@ -134,25 +133,25 @@ $\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{T}}^{\mathbf{0}}\mathb
 
 Avec :
 
-* $\mathbf{\nu}$ coefficients stœchiométriques ($\mathbf{2}\mathbf{H}_{\mathbf{2}}\mathbf{O}$)
+* $\nu$ coefficients stœchiométriques ($\mathbf{2}\mathbf{H}_{\mathbf{2}}\mathbf{O}$)
 * $\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}}$ enthalpie de réaction
 * ${\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}}$ enthalpie de formation                                               
 
 !!! note
-    L'enthalpie de formation des corps simples c'est-à-dire de molécules constituées d'un seul type d'atomes est nul ($0 KJ.mol^{-1}$).
+    L'enthalpie de formation des corps simples c'est-à-dire de molécules constituées d'un seul type d'atomes est nul ($0 K \cdot J \cdot mol^{-1}$).
 
 Lorsqu'il y a un changement de température, il faut ajouter l'énergie nécessaire pour faire la transformation :
 
 $\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}\mathbf{2}}\mathbf{=}{\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}} + \lbrack\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}C_{p}\left( \mathbf{produits} \right)\mathbf{-}\sum_{}^{}{\mathbf{\nu}_{\mathbf{i}}C_{p}}\left( \mathbf{r}\mathbf{é}\mathbf{actifs} \right)\mathbf{\rbrack(}\mathbf{T}_{\mathbf{2}}\mathbf{-}\mathbf{T}_{\mathbf{1}}\mathbf{)}$
 
-$\mathbf{C}_{\mathbf{p}}$ capacité calorifique en $mol^{-1}$.
+$C_p$ capacité calorifique en $mol^{-1}$.
 
 ### Énergie de liaisons
 
 L'idée c'est de déterminer l'énergie de formation à partir de celle nécessaire pour créer ou détruire des liaisons moléculaires. Cette méthode nécessite de connaitre la structure des molécules c'est-à-dire les liaisons électroniques entre les atomes.
 
 !!! note
-    L'énergie de dissociations est positive $E_{d} > 0$ car on libère de l'énergie lorsque l'on brise une liaison. Elle est égale à l'opposé de l'énergie de formation de liaisons $E_{f} = {- E}_{d}$.
+    L'énergie de dissociations est positive $E_d\gt 0$ car on libère de l'énergie lorsque l'on brise une liaison. Elle est égale à l'opposé de l'énergie de formation de liaisons $E_f = - E_d$.
 
 !!! warning 
     On a généralement l'enthalpie de dissociation des réactions pour les éléments gazeux. Il faut donc réaliser une étape supplémentaire. Le changement d'état pour les autres états de la matière (solide...). Dans ce cas, il faut ajouter l'énergie de la transformation chimique. Il  faudra donc additionner :
@@ -253,68 +252,68 @@ Le potentiel chimique d'un constituant permet d'étudier la stabilité d'une esp
 
 $\mu_{i} = \frac{dG}{{dn}_{i}}$
 
-La mesure du potentiel chimique de chaque composant a été déterminée à T=298K et P=1Bar. Elle est notée $\mu_{i}^{0}$.
+La mesure du potentiel chimique de chaque composant a été déterminée à T=298K et P=1Bar. Elle est notée $\mu _i^0$.
 
 La différence d'enthalpie libre correspond à la différence de potentiels chimiques entre les produits et les réactifs :
 
-$\Delta_{r}G = \sum_{}^{}\nu_{i}\mu_{i}(produits) - \sum_{}^{}\nu_{i}\mu_{i}(réactifs)$
+$\Delta _r G = \sum{\nu _i \cdot \mu _i} (produits) - \sum {\nu _i \cdot \mu_i} (réactifs)$
 
 Il vari en cas de changement de la pression du milieu :
-$\mu_{i} = \mu_{i}^{0} + RT.ln(a_{i})$
+$\mu _i = \mu _i^0 + R \cdot T \cdot \ln a_i)$
 
-$a_{i}$ correspond à l'activité de l'espèce chimique. Il vaut si c'est :
+$a_i$ correspond à l'activité de l'espèce chimique. Il vaut si c'est :
 
 * Solide
 * Liquide :
-    * $\mathbf{a}_{\mathbf{i}}\mathbf{= 1}$ avec pour le solvant $a_{i} = 1$
-    * pour le soluté $a_{i} = \frac{\lbrack i\rbrack}{C_{0}}$, $\lbrack i\rbrack$ la concentration de l'espèce active. $C_{0} = 1 mol/L$ 
-* Gaz $a_{i} = \frac{P_{i}}{P_{0}}$ avec $P_{i}$ la pression partielle, $P_{0}$ = 1 Bar
+    * $a_i = 1$ avec pour le solvant $a_i = 1$
+    * pour le soluté $a_{i} = \frac{[i]}{C_0}$, $[i]$ la concentration de l'espèce active. $C_0 = 1 mol \cdot L^{-1}$ 
+* Gaz $a_i = \frac{P_i}{P_0}$ avec $P_i$ la pression partielle, $P_0 = 1 Bar$
 
 !!! note 
-    $C_{0}$ et $P_{0}$ permettent d'obtenir une valeur sans unité.
+    $C_0$ et $P_0$ permettent d'obtenir une valeur sans unité.
 
 #### La pression partielle
 
 La pression partielle d'un gaz se calcule de la manière suivante :
 
-$x_{i}$ fraction molaire = $p_{i} = x_{i}{.p}_{tot}$
+$x_i$ fraction molaire = $p_i = x_i \cdot p_{tot}$
 
 Avec : 
 
-$\frac{n_{i}}{n_{tot}}\ a$vec $n$ le nombre de mol
+$\frac{n_i}{n_{tot}}$ avec $n$ le nombre de mol
 $P_{tot}$ est la pression totale du mélange (réactifs + inerte).
 
 !!! note
-    Pour calculer les pressions partielles en utilisant la relation des gaz parfaits ($\frac{P_{ini}V}{P_{eq}V}$) à t~0\ ou\ ini~ et t~final\ ou\ eq~. Pour cela, on a besoin de connaitre la quantité de matière à t~0~ et t~final~, on aura alors $P_{eq} = \frac{{(n_{tot})}_{ini}}{{(n_{tot})}_{eq}} \times P_{ini}$.
+    Pour calculer les pressions partielles en utilisant la relation des gaz parfaits ($\frac{P_{ini} \cdot V}{P_{eq} \cdot V}$) à $t_0$ ou $t_{ini} et $t_{final}$ ou $t_{eq}$. Pour cela, on a besoin de connaitre la quantité de matière à $t_0$ et $t_{final}$, on aura alors $P_{eq} = \frac{{(n_{tot})}_{ini}}{{(n_{tot})}_{eq}} \times P_{ini}$.
 
 ## Quotient réactionnel
 
 Le quotient réactionnel permet de caractériser l'avancement de la réaction noté $Q_{r}$.
 
-$\Delta_{r}G = \sum_{}^{}\nu_{i}\mu_{i}(produits) - \sum_{}^{}\nu_{i}\mu_{i}(réactifs) = \Delta_{r}G^{0} + RT.ln(Q_{r})$
+$\Delta _r G = \sum{\nu _i \cdot \mu _i} (produits) - \sum{\nu _i \cdot \mu_i} (réactifs) = \Delta _r G^0 + R \cdot T \cdot \ln Q_r$
 
 C'est le rapport entre les produits et les réactifs.
 
-$Q_{r} = \frac{\prod_{}^{}{a_{i}(produits)}^{\nu_{i}}}{\prod_{}^{}{a_{i}(réactifs)}^{\nu_{i}}}$
+$Q_r = \frac{{\prod_{a_i} (produits)} ^{\nu _i}} {{\prod_{a_i}(réactifs)}^{\nu _i}}$
 
 ### Constante d'équilibre
 
-L'équilibre d'une solution $\Delta_{r}G = 0$ lorsqu'il n'y a plus de variation de l'enthalpie. Le quotient réactionnel est noté : $K = Q_{r}$ .
+L'équilibre d'une solution $\Delta _r G = 0$ lorsqu'il n'y a plus de variation de l'enthalpie. Le quotient réactionnel est noté : $K = Q_r$ .
 
-$\Delta_{r}G^{0} = - RT.ln(K)$
+$\Delta _r G^0 = - R \cdot T \cdot \ln K$
 
 !!! note
     La constante d'équilibre K peut s'obtenir en passant par des réactions intermédiaires. Attention, la somme et la différence deviennent des puissances.
 
 !!! note 
-    Le coefficient d'équilibre pour la réaction inverse est : $\frac{1}{K_{1}} = K_{2}$
+    Le coefficient d'équilibre pour la réaction inverse est : $\frac{1}{K_1} = K_2$
 
 Lorsque K :
 
 * $K \gt 1$ les produits majoritaires.
 * $K \lt 1$ les réactifs majoritaires.
 
-La réaction est totale pour $< 10^{- 3}$ ou ${> 10}^{3}$
+La réaction est totale pour $< 10^{-3}$ ou $\gt 10^3$.
 
 ## Modification des conditions de la réaction
 
@@ -350,66 +349,66 @@ Le réactif limitant permet de déduire la quantité de matière obtenue.
 
 Taux d'avancement = coefficient de dissociation
 
-Effet de la température : $lnK - lnK^{'} = \frac{\Delta_{r}H^{0}}{R}(\frac{1}{T} - \frac{1}{T^{'}})$
+Effet de la température : $lnK - lnK^{'} = \frac{\Delta _r H^0}{R}(\frac{1}{T} - \frac{1}{T^{'}})$
 
 ## Équilibre acido-basique
 
 __Amphotère__ espèce chimique capable de réagir avec elle-même.
 
-L'autoprotolyse de l'eau est une réaction spontanée de $2H_{2}O \rightleftharpoons H_{3}O^{+} + HO^{-}$
+L'autoprotolyse de l'eau est une réaction spontanée de $2H _2 O \rightleftharpoons H_3 O^+ + HO^-$
 
-Son $K_{e} = \frac{\left\lbrack H^{3}O^{+} \right\rbrack\left\lbrack HO^{-} \right\rbrack}{{\lbrack H^{2}O\rbrack}^{2}} = 10^{- 14}$ comme $H_{2}O$ est le soluté alors $a_{H_{2}O} = 1$.
+Son $K_e = \frac{[H^3O^+] \cdot [HO^-]}{{[H^2O]}^{2}} = 10^{- 14}$ comme $H_2O$ est le soluté alors $a_{H_2O} = 1$.
 
 ### Acide Base
 
 Dans l'eau,
 
-* un acide libère un proton. Il y a apparition d'un $H_{3}O^{+}$.
-* Une base capte un proton donc apparition de $HO^{-}$.
+* un acide libère un proton. Il y a apparition d'un $H_3O^+$.
+* Une base capte un proton donc apparition de $HO^-$.
 
-On a $K_{a} = \frac{{\lbrack H}_{3}O^{+}\rbrack.\lbrack A^{-}\rbrack}{\lbrack AH\rbrack}$ et $K_{b} = \frac{\lbrack HO^{-}\rbrack.\lbrack AH\rbrack}{\lbrack A^{-}\rbrack}$.
-
-!!! note
-    $K_{e} = K_{a}.K_{b} = 10^{- 14}$
-
+On a $K_a = \frac{[H_3O^+] \cdot [A^-]}{[AH]}$ et $K_b = \frac{[HO^-] \cdot [AH]}{[A^-]}$.
 
 !!! note
-    La fonction $p = - log$
+    $K_e = K_a \cdot K_b = 10^{- 14}$
+
+
+!!! note
+    La fonction $p = - \log$
 
 On définit le pH :
 
-$pH = - log {\lbrack H}_{3}O^{+}\rbrack = pK_{a} + log \frac{\left\lbrack A^{-} \right\rbrack}{\lbrack AH\rbrack}$
+$pH = - \log [H_{3}O^{+}] = pK_a + \log \frac{[A^-]}{[AH]}$
 
 !!! example 
     Déterminer le pH d'une solution auquel on ajoute C d'une base
-    $A^{-} + H_{2}O \leftrightarrow AH + {HO}^{-}$
-    Espèces $\left\lbrack A^{-} \right\rbrack$   $\left\lbrack H_{2}O \right\rbrack$
-    $\lbrack AH\rbrack$ ; $\mathbf{\lbrack}{HO}^{-}\mathbf{\rbrack}$
+    $A^- + H_2O \leftrightarrow AH + HO^-$
+    Espèces $[A^-]$   $[H_2O]$
+    $[AH]$ ; $[HO^-]$
 
-Concentration $\mathbf{c} - x$ $x$ $x$
+Concentration $c - x$ $x$ $x$
 
-$K_{b} = \frac{\left\lbrack HO^{-} \right\rbrack.\lbrack AH\rbrack}{\left\lbrack A^{-} \right\rbrack} = \frac{x²}{c - x}$
+$K_b = \frac{[HO^-]\cdot [AH]}{[A^-]} = \frac{x^2}{c - x}$
 
 Calcul du pH avec autoprotolyse de l'eau
 
 Dans le cas où l'autoprotolyse de l'eau n'est pas négligeable, il faut l'ajouter :
 
-$2H_{2}O \leftrightarrow {HO}^{-} + {H_{3}O}^{+}$
+$2H_2O \leftrightarrow HO^- + H_3O^+$
 
 Espèces
 
-$\mathbf{H}_{\mathbf{2}}\mathbf{O}$
-$\mathbf{HO}^{\mathbf{-}}$ 
-${\mathbf{H}_{\mathbf{3}}\mathbf{O}}^{\mathbf{+}}$
+$H_2O$
+$HO^-$ 
+$H_3O+$
 
 Concentration $y$ $y$
 
-Ainsi, on doit résoudre l'équation du second degré : $K_{e} = \left\lbrack H_{3}O^{+}\right\rbrack\left\lbrack {HO}^{-} \right\rbrack = y \times (x + y)$
+Ainsi, on doit résoudre l'équation du second degré : $K_e = [H_3O^+] \cdot [HO^-] = y \cdot (x + y)$
 
-Dans le cas d'une base forte, on aurait :$K_{e} = \left\lbrack H_{3}O^{+}\right\rbrack\left\lbrack {HO}^{-} \right\rbrack = y \times (c + y)$ ce qui équivaut un résoudre un polynôme du second degré.
+Dans le cas d'une base forte, on aurait :$K_e =  [H_3O^+] \cdot [HO^-] = y \cdot (c + y)$ ce qui équivaut à résoudre un polynôme du second degré.
 
 !!! note
-    Plus le pKa est élevé plus l'acide est fort.
+    Plus le $pK_a$ est élevé plus l'acide est fort.
 
 En considérant que pour les acides et bases :
 
@@ -417,52 +416,52 @@ En considérant que pour les acides et bases :
 * Faibles : la diminution de concentration de la base et de l'acide est négligeable.
 
 L'autoprotolyse de l'eau est négligeable lorsque la concentration des
-espèces est $C{> 10}^{- 6}$ mol/L, on a alors
+espèces est $C \gt 10^{- 6} mol \cdot L^{-1}$, on a alors
 
-Type  | Fort $\mathbf{p}\mathbf{K}_{\mathbf{a}}\mathbf{< 0}$ | Faible $\mathbf{p}\mathbf{K}_{\mathbf{a}}\mathbf{>}\mathbf{14}$   
+Type  | Fort $pK_a \lt 0$ | Faible $pK_a \gt 14$   
 ------|------------------------------------------------------|------------------------------------------------------------------
-Acide | $pH = - \log c$                                      | $pH = \frac{1}{2}(pK_{a} - \log c)$
-Base  | $pH = 14 + \log c$                                   | $pH = \frac{1}{2}(14 + pK_{a} + \log c)$
+Acide | $pH = - \log c$                                      | $pH = \frac{1}{2} \cdot (pK_a - \log c)$
+Base  | $pH = 14 + \log c$                                   | $pH = \frac{1}{2} \cdot (14 + pK_a + \log c)$
 
 !!! note
-    $H = \lbrack{H_{3}O}^{+}\rbrack = \frac{K_{e}}{\lbrack{HO}^{-}\rbrack}$
+    $H = [H_3O^+] = \frac{K_e}{[HO^-]}$
 
 !!! note
   Pour un acide ou une base forte, le coefficient réactionnel n'a pas de sens à l'équilibre car il faudrait diviser par 0.
-            $\mathbf{\lbrack AH\rbrack}$   $\mathbf{+}$   $\mathbf{H}_{\mathbf{2}}\mathbf{O}$   $\mathbf{\rightleftarrows}$   $\mathbf{\lbrack}\mathbf{A}^{\mathbf{-}}\mathbf{\rbrack}$   $\mathbf{+}$   ${\mathbf{H}_{\mathbf{3}}\mathbf{O}}^{\mathbf{+}}$
+            $[AH] + [H_2O] \rightleftarrows [A^-] + [H_3O^+]$
   t~0~      $$c$$                                             $$\varepsilon$$                                                         $$0$$                                                                          $$0$$
 
   t=eq      $$c - x$$                                         $$\varepsilon$$                                                         $$x$$                                                                          $$x$$
 
 A l'équilibre, il y a :
 
-$K = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\lbrack A^{-}\rbrack}{\lbrack AH\rbrack} = \frac{x²}{c - x}$
+$K = \frac{[H_3O^+] \cdot [A^-]}{[AH]} = \frac{x^2}{c - x}$
 
-On remarque que $K = K_{a}$ du couple acide base noté ${pK}_{a}(AH/A^{-})$.
+On remarque que $K = K_a$ du couple acide base noté $pK_a = \frac{[AH]}{[A^-]}$.
 
-On résout l'équation du second pour déterminer $\left\lbrack {H_{3}O}^{+} \right\rbrack = x$.
+On résout l'équation du second pour déterminer $[H_3O^+] = x$.
 
 En fonction du soluté que l'on ajoute, si celui-ci est
 
 Généralement lorsque le pH n'appartient pas à $\lbrack pKa \pm 1\rbrack$. On peut négliger $x \ll c$ ce qui évite de calculer.
 
-Pour les bases, il faudra utiliser en plus : $\mathbf{K}_{\mathbf{e}}\mathbf{=}\left\lbrack \mathbf{H}_{\mathbf{3}}\mathbf{O}^{\mathbf{+}} \right\rbrack\mathbf{\times}\left\lbrack \mathbf{H}\mathbf{O}^{\mathbf{-}} \right\rbrack$, $\mathbf{K}_{\mathbf{e}}\mathbf{=}\mathbf{K}_{\mathbf{a}}\mathbf{\times}\mathbf{K}_{\mathbf{b}}$
+Pour les bases, il faudra utiliser en plus : $K_e = [H_3O^+] \cdot [HO^-]$, $K_e = K_a \cdot K_b$
 
 ### Diagramme de prédominance
 
-$K_{a} = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\left\lbrack A^{-} \right\rbrack}{\left\lbrack A^{-} \right\rbrack} \Leftrightarrow \left\lbrack {H_{3}O}^{+} \right\rbrack = K_{a}\frac{\lbrack AH\rbrack}{\left\lbrack A^{-} \right\rbrack} \Leftrightarrow - \log\left\lbrack {H_{3}O}^{+} \right\rbrack = - \log K_{a} + \log\frac{\left\lbrack A^{-} \right\rbrack}{\lbrack AH\rbrack}$
+$K_a = \frac{[H_3O^+] \cdot [A^-]}{[A^-]} \Leftrightarrow [H_3O^+]  = K_a \cdot \frac{[AH]}{[A^-]} \Leftrightarrow - \log [H_3O^+] = - \log K_a + \log \frac{[A^-]}{[AH]}$
 
-Ainsi, on a $pH = pK_{a} + \log\frac{\left\lbrack A^{-} \right\rbrack}{\lbrack AH\rbrack}$
+Ainsi, on a $pH = pK_a + \log \frac{[A^-]}{[AH]}$
 
-On remarque que lorsque $\left\lbrack A^{-} \right\rbrack = \lbrack AH\rbrack$, on a $pH = pK_{a}$
+On remarque que lorsque $[A^-] = [AH]$, on a $pH = pK_a$
 
 ### Solution avec deux acides ou deux bases
 
 Pour calculer le pH d'une solution avec plusieurs acides ou plusieurs bases :
 
 1. On écrit les tableaux de réactions.
-2. Il suffit de calculer le nombre de HO- ou H3O+ produit $x_{1} + x_{2}$
-3. Pour chaque réaction on détermine respectivement la valeur $x_{1}$, $x_{2}$ puis on additionne le tout.
+2. Il suffit de calculer le nombre de HO- ou $H_3O^+$ produit $x_1 + x_2$
+3. Pour chaque réaction on détermine respectivement la valeur $x_1$, $x_2$ puis on additionne le tout.
 
 ### Solution tampon
 
@@ -472,7 +471,7 @@ Une solution tampon est une solution avec un
 
 La déterminer de la concentration inconnu en base ou d'acide.
 
-Il s'agit de faire réagir toutes les molécules de la solution inconnue c'est-à-dire qu'il y aura la même quantité de matière : $n_{inconnu} = n_{ajouté}$ (où ecrit différement $c_{i}.v_{i} = c_{a}.v_{a}$).
+Il s'agit de faire réagir toutes les molécules de la solution inconnue c'est-à-dire qu'il y aura la même quantité de matière : $n_{inconnu} = n_{ajouté}$ (où ecrit différement $c_i \cdot v_i = c_a \cdot v_a$).
 
 Ce point est appelé équivalence.
 
@@ -493,7 +492,7 @@ Représentation graphique
 
 Dans une même molécule le transfert d'un proton d'une molécule a une autre.
 
-Pour l'eau, à 25 degrés : $\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^{- 7} mol.l^{-1}$ 
+Pour l'eau, à 25 degrés : $[H_3O^+] = [HO^-] = 10^{- 7} mol \cdot L^{-1}$ 
 
 ### pH acide base
 
@@ -510,8 +509,8 @@ Autoprotolyse de l'eau
 
 Constante d'équilibre                                                                                
 
-$\left\lbrack H_{3}O^{+} \right\rbrack = \left\lbrack HO^{-} \right\rbrack = 10^{7}$
+$[H_3O^+] = [HO^-] = 10^7$
 
 $K_{a} = \frac{\left\lbrack {H_{3}O}^{+} \right\rbrack.\lbrack AH\rbrack}{\lbrack A^{-}\rbrack}$   $K_{b} = \frac{\left\lbrack {HO}^{-} \right\rbrack.\lbrack{AH_{2}}^{+}\rbrack}{\lbrack AH\rbrack}$
 
-$K_{e} = K_{a} \times K_{b} = \ \left\lbrack H_{3}O^{+} \right\rbrack \times \left\lbrack HO^{-} \right\rbrack$
+$K_e = K_a \cdot K_b = [H_3O^+] \cdot  \cdot [HO^-]$

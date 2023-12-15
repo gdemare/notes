@@ -24,22 +24,22 @@ $tangente + correction$
 
 Le signe de la dérivé permet de connaitre la variation de $f(x)$ grâce au signe de la dérivée.
 
-Calculer l'aire sous la courbe (primitive) : $\int_{}^{}{f(x)\ dx} = \ F(x) + C$
+Calculer l'aire sous la courbe (primitive) : $\int_{}^{}{f(x) \cdot dx} = F(x) + C$
 
 $\mathbf{f(x)}$					| $\mathbf{f'(x)}$
 --------------------------------|---
-$\mathbf{u + v}$ 				| $u' + v'$
-$\mathbf{u}^{\mathbf{n}}$		| $n \times u' \times u^{n - 1}$
-$\mathbf{u \times v}$			| $u^{'}v + uv'$
-$\frac{\mathbf{u}}{\mathbf{v}}$	| $\frac{u^{'}v - uv'}{v^{2}}$
+$u + v$ 				| $u' + v'$
+$u^n$		| $n \cdot u' \cdot u^{n - 1}$
+$u \cdot v$			| $u' \cdot v + u \cdot v'$
+$\frac{u}{v}$	| $\frac{u' \cdot v - u \cdot v'}{v^2}$
 
-$\mathbf{f(x)}$ 			| $\mathbf{f'(x)}$
+$f(x)$ 			| $f'(x)$
 ----------------------------|---
-$\mathbf{e}^{\mathbf{u}}$	| $u'e^{u}$
-$\mathbf{ln}\mathbf{(u)}$	| $\frac{u'}{u}$
-$\mathbf{\cos}\mathbf{(u)}$	| $- u' \times \sin u$
-$\mathbf{\sin}\mathbf{(u)}$ | $u' \times \cos u$
-$\mathbf{\tan}\mathbf{(u)}$ | $u' \times (1{{+ (tan}u)}^{2})$
+$e^u$	| $u' \cdot e^{u}$
+$\ln u$	| $\frac{u'}{u}$
+$\cos u$	| $- u' \cdot \sin u$
+$\sin u$ | $u' \cdot \cos u$
+$\tan u$ | $u' \cdot (1+ \tan u)^2$
 
 Intégration par partie
 
@@ -49,11 +49,11 @@ $\int u(x) \cdot v'(x) dx = \lbrack u \cdot v \rbrack + \int u'(x) \cdot v(x) dx
 
 Equation différentielle	| Solution 			| Description
 ------------------------|-------------------|---
-$y^{'} + Ay = 0$ 		| $y = ke^{- ax}$	| Equation différentielle d'ordre 2
+$y' + A \cdot y = 0$ 		| $y = k \cdot e^{- a \cdot x}$	| Equation différentielle d'ordre 2
 
 ## Limites
 
-Quatres formes indéterminées $\mathbf{- \infty + \infty}$, $\frac{\mathbf{\infty}}{\mathbf{\infty}}$, $\frac{\mathbf{0}}{\mathbf{0}}$.
+Quatres formes indéterminées $- \infty + \infty$, $\frac{\infty}{\infty}$, $\frac{0}{0}$.
 
 Méthodes pour sortir d'une forme indéterminer :
 

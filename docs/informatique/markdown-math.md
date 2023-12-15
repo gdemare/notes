@@ -31,16 +31,18 @@ Markdown | Fonction | Définition
 `\sin`   | $\sin$   | sinus
 `\cos`   | $\cos$   | cosinus
 `\tan`   | $\tan$   | tangente
-`\log{}` | $\log{}$ | logarithme
+`\log{}` | $\log$ | logarithme
 
 ## Comparaison
 
 Markdown  | Symbole   | Définition 
 ----------|-----------|-----------
-`\gt`     | $\gt$     | supérieur à 
+`\gt`     | $\gt$     | supérieur à
 `\ge`    | $\ge$     | supérieur ou égale à
+`\gg`    | $\gg$     | strictement supérieur
 `\lt`     | $\lt$     | inférieur à 
 `\le`    | $\le$     | inférieur ou égale à 
+`\ll`     | $\ll$     | strictement inférieur
 `=`       | $=$       | égale
 `\neq`    | $\neq$    | inégale
 `\approx` | $\approx$ | approximation

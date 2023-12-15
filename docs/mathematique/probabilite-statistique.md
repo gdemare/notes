@@ -14,8 +14,8 @@ La meilleure manière pour savoir si deux variables sont corrélées est une rep
 
 ## V de Cramer
 
-* > 0.2 :
-* > 0.1 :
+* $\gt 0.2$ :
+* $\gt 0.1$ :
 
 # Varaible qualitative et quantitative
 

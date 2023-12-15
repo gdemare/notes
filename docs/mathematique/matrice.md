@@ -2,11 +2,11 @@
 
 Les matrices sont des tableaux de vecteurs. Par convention, chaque vecteur est positionné en colonne.
 
-$X \Rightarrow^{A} \Rightarrow ^{B} \Leftrightarrow BAX$ avec A et B des opérations.
+$X \Rightarrow^A \Rightarrow ^B \Leftrightarrow BAX$ avec A et B des opérations.
 
 Trois opérations pour transformer les matrices :
 
-* homothétie : dilaté un vecteur.
+* Homothétie : dilater un vecteur.
 * Rotation : changer l'angle càd l'orientation.
 * Projection : 
 
@@ -23,15 +23,15 @@ Le calcul est une généralisation de Pythagore
 La rotation d'un vecteur d'un anle $\theta$ :
 
 $\begin{cases}
- x' = x \cos(\theta) - y \sin(\theta) \\
- y' = x \sin(\theta) + y \cos(\theta)
+ x' = x \cdot \cos \theta - y \cdot \sin \theta \\
+ y' = x \cdot \sin \theta + y \cdot \cos \theta
 \end{cases}$
 
 Avec les matrices, cela revient a faire :
 
 $\begin{bmatrix} x' \\ y' \end{bmatrix} = 
 \begin{bmatrix}
-    \cos(\theta) & -\sin(\theta) \\ \sin(\theta) & \cos(\theta)
+    \cos \theta & -\sin \theta \\ \sin \theta & \cos \theta
  \end{bmatrix}
 \begin{bmatrix} x \\ y \end{bmatrix}$
 
@@ -41,7 +41,7 @@ __Cosinus directeur__ angle entre deux vecteurs.
 
 Propriété :
 
-* Le cosinus de deux vecteurs perpendiculaires est nul alors le produit scalaire = 0.
+* Le cosinus de deux vecteurs perpendiculaires est nul alors le produit scalaire $= 0$.
 
 ## Matrice carré
 
@@ -69,22 +69,22 @@ Interprétations du déterminant :
 !!! note
     Méthode pour déterminer le déterminant d'une matrice : 
 
-    1. Matrice de signe : si la somme de l'indice ligne + colonne est pair -> + sinon -
+    1. Matrice de signe : si la somme de l'indice ligne $+$ colonne est pair -> $+$ sinon $-$
     2. pour les élément d'une ligne :
         * l'élément, on garde tous les éléments qui ne se trouvent pas dans la ligne et colonne.
         2 det( 2 1 -1 )
 
-        $det(\begin{bmatrix} a & b \\ c & d \end{bmatrix}) = ad-bc$
+        $det(\begin{bmatrix} a & b \\ c & d \end{bmatrix}) = a \cdot d - b \cdot c$
 
 ### Matrice inverse
 
-$A \times A^{-1} = A^{-1} \times A$
+$A \cdot A^{-1} = A^{-1} \cdot A$
 
 ## Valeurs propres et vecteurs propres
 
-Déterminer les valeurs propre consiste à résoudre $det(\delta - \alpha I) = 0$  avec $\alpha \in \mathbb{R}$.
+Déterminer les valeurs propre consiste à résoudre $det(\delta - \alpha \cdot I) = 0$  avec $\alpha \in \mathbb{R}$.
 
-Pour calculer les vecteurs, il faut ensuite calculer pour chaque valeur propre : $(\delta - \alpha I) \times \vec{v} = (0)$
+Pour calculer les vecteurs, il faut ensuite calculer pour chaque valeur propre : $(\delta - \alpha I) \cdot \vec{v} = (0)$
 
 Si $det = 0$ alors une valeur propre est à 0 donc pas de vecteurs propres et la matrice n'est pas inversible.
 
@@ -103,16 +103,16 @@ Les fonctions à plusieurs variables sont souvent trop complexes pour étudier l
 Gradient : $\nabla f = [ \frac{\partial f}{\partial x_1}; ...; \frac{\partial f}{\partial x_n} ]$
 
 !!! note
-    La dérivée partielle de $\frac{\partial f}{\partial x}$ d'ordre 1 par rapport à $y$ est notée $\frac{\partial ^2 f}{\partial y \partial x}$.
+    La dérivée partielle de $\frac{\partial f}{\partial x}$ d'ordre 1 par rapport à $y$ est notée $\frac{\partial ^2 f}{\partial y \cdot \partial x}$.
 
 !!! note
-    D'après le théorème de Shwarz, pour les fonctions dérivables n-fois, a dérivée $\frac{\partial ^2 f}{\partial y \partial x} = \frac{\partial ^2 f}{\partial x \partial y}$
+    D'après le théorème de Shwarz, pour les fonctions dérivables n-fois, a dérivée $\frac{\partial ^2 f}{\partial y \cdot \partial x} = \frac{\partial ^2 f}{\partial x \cdot \partial y}$
 
 ### Matrice hessienne
 
 Matrice de vecteurs de direction du sens de variations.
 
-$\nabla^{2} f = \frac{\partial f}{\partial x_{i} \partial x_j}$ avec $i$ la ligne et $j$ la colonne.
+$\nabla^{2} f = \frac{\partial f}{\partial x_{i} \cdot \partial x_j}$ avec $i$ la ligne et $j$ la colonne.
 
 !!! note
     Donne les vecteurs orientés dans le sens croissant de la fonction.

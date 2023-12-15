@@ -1,1 +1,0 @@
-* Dalton Da $g.mol^{-1}$

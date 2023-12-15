@@ -3,10 +3,10 @@
 * __Échantillon__ réalisation n fois indépendamment d'une variable aléatoire.
 * __Loi de probabilité__ la distribution des probabilité d'une loi aléatoire.
 * __Densité de probabilité__ (uniquement numérique continue).
-* __Fonction de répartition__ la probabilité d'avoir $P(X) < \alpha$, c'est la probabilité cumulée.
+* __Fonction de répartition__ la probabilité d'avoir $P(X) \lt \alpha$, c'est la probabilité cumulée.
 
-$X$ de la loi $f_{x}$ et de fonction de répartition $F_{x}$ on note
-($X_{1}$, ...$X_{n}$)
+$X$ de la loi $f(x)$ et de fonction de répartition $F(x)$ on note
+( $X_1, ...X_n$ ).
 
 !!! note 
     Dans un étude il faut commencer par se demander :
@@ -25,20 +25,20 @@ De positions et de distribution :
 
 De dispersions :
 
-* covariance $cov(X,Y) = E((X - E(E)(Y -E(Y))$ dispersion de deux variables, l'un par rapport à l'autre.
-* variance (un cas particulier de la covariance) $var(X) = E(X-E(X))$
+* covariance $cov(X,Y) = E((X - E(X)(Y -E(Y))$ dispersion de deux variables, l'un par rapport à l'autre.
+* variance (un cas particulier de la covariance) $var(X) = E(X-E(X))$.
 
 ## Estimateurs des indicateurs et théorie des grands nombres
 
 La moyenne empirique convergent vers l'espérance de la loi lorsque l'échantillon augmente.
 
-* Espérance (appelé moyenne) $Ê = moyenne$
-* Variance $s² = \frac{n}{n - 1}Var(x)$
+* Espérance (appelé moyenne) $\hat{E} = moyenne$.
+* Variance $s^2 = \frac{n}{n - 1} \cdot Var(x)$.
 
 ## Théorème central limite
 
-La somme de variables aléatoires converge vers une loi normale  $\sum_{}^{}X_{i} \rightarrow N(n\mu,n\sigma^{2})$
+La somme de variables aléatoires converge vers une loi normale $\sum{X_i} \rightarrow N(n \cdot \mu, n \cdot \sigma^2)$.
 
-L'application directe de la loi permet de déduire un intervalle de confiance pour la moyenne $E\hat{} \in I_{c} = \lbrack m \pm 1.96 \times \frac{s}{\sqrt{n}}\rbrack$
+L'application directe de la loi permet de déduire un intervalle de confiance pour la moyenne $\hat{E} \in I_c = [ m \pm 1,96 \cdot \frac{s}{\sqrt{n}} ]$.
 
 Avec $m$ la moyenne et $s$ l'écart type de l'échantillon.

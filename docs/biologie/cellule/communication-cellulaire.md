@@ -1,9 +1,9 @@
-# La communication cellulaire
-
 __Transduction__ processus par lequel un signal est converti en une réponse cellulaire.
+
 __Voie de transduction__ série d'étapes qui aboutit à la transduction.
 
 La communication cellulaire est apparue chez les organismes unicellulaires comme chez les Bactéries. Elles peuvent se coordonner pour accomplir des comportements qui n'ont de sens qu'à l'échelle collective. Les avantages retirés sont alors plus importants que ce qui aurait pu être obtenu à l'échelle individuelle.
+
 !!! example 
 	La fabrication de biofilm.
 
@@ -29,8 +29,8 @@ Les signaux cellulaires sont majoritairement de type chimique mais ils peuvent a
 
 Le signal est une molécule qui interagit avec un site récepteur complémentaire à la molécule du signal. Généralement, la fixation du ligan au récepteur se fait par une liaison et provoque un changement de conformation du récepteur. Par exemple, les récepteurs transmembranaires liés :
 
-* Change de forme
-* S'agrège
+* Change de forme.
+* S'agrège.
 
 Les récepteurs les plus répandus sont :
 
@@ -41,9 +41,9 @@ Les récepteurs les plus répandus sont :
 En fonction du type de médiateur, les récepteurs se situent
 majoritairement :
 
-Type de médiateurs | Position des récepteurs | Exemple
----|---|---
-soluble | Membrane plasmique | 
+Type de médiateurs	| Position des récepteurs	| Exemple
+--------------------|---------------------------|---
+soluble				| Membrane plasmique 		| 
 Petites molécules hydrophobes | Cytosol, Noyau | hormones thyroïdiennes, stéroïdes, vitamine D 
 
 !!! note 
