@@ -100,7 +100,7 @@ L'enzyme forme un complexe avec le substrat avec des liaisons :
 
 $[E] + [S] \rightleftarrows [ES] \rightarrow [E] + [P]$
 
-Ainsi, la réaction a pour vitesse : $v = k_{cat} \cdot [ES]$
+Ainsi, la réaction a pour vitesse : $v = k_{cat} \cdot [ES]$.
 
 !!! note
 	$K$ correspond à l'équilibre et $k$ au coefficient de vitesse.
@@ -128,16 +128,16 @@ Pour déterminer la vitesse, car on est incapable de mesurer la concentration de
 * $[E_0] = [E] + [ES]$
 * $[E] = K_m\frac{[ES]}{[S]}$
 
-On obtient alors pour la vitesse (équation de) $v = \frac{k_{2}[E_0][S]}{K_m + [S]}$
+On obtient alors pour la vitesse (équation de) $v = \frac{k_{cat}[E_0][S]}{K_m + [S]}$
 
 On peut déduire de l'équation :
 
-* La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_{m}$ d’où $v_{\max} = \lim_{x \to \infty} {1 \over x } v = k_{cat}$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$
-* Efficacité de l’enzyme. Plus la vitesse est grande, plus $k_{2}$ est grand
-* L'affinité (reconnaissance entre l'enzyme et le substrat) correspond à la proportion $\frac{[E]}{[ES]}$. Plus elle est élevée et plus $\frac{[E]}{[ES]}$ est petit d’où $K_{m} = \frac{[E]}{[ES]}[S]$ est petit.
+* La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_{m} \lt \lt [S]$ d’où $v_{\max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$
+* Efficacité de l’enzyme. Plus la vitesse est grande, plus $k_{cat}$ est grand.
+* L'affinité (reconnaissance entre l'enzyme et le substrat) correspond à la proportion $\frac{[E]}{[ES]}$. Plus elle est élevée et plus $\frac{[E]}{[ES]}$ est petit d’où $K_m = \frac{[E]}{[ES]}[S]$ est petit.
 
 !!! note
-	Pour $[S] = K_{m}$, on a également $v = \frac{1}{2}v_{\max}$.
+	Pour $[S] = K_m$, on a également $v = \frac{1}{2} \cdot v_{\max}$.
 
 !!! note
 	$v_{max}$ est atteinte lorsque tous les sites actifs des enzymes sont occupés. On dit alors que la solution est saturée en substrat. Cette situation est appelée état de saturation.
@@ -147,7 +147,7 @@ On peut déduire de l'équation :
 
 ##### Linéarisation
 
-La vitesse peut être facilement linéarisée en posant : $\frac{1}{v}$
+La vitesse peut être facilement linéarisée en posant : $\frac{1}{v} = f(\frac{1}{[S]})$.
 
 Pour $[S] = 0 \rightarrow v = \frac{1}{v_{\max}}$ et $v_i = 0 \rightarrow \frac{1}{[S]} = \frac{- 1}{K_m}$.
 
