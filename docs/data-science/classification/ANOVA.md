@@ -15,10 +15,11 @@
 ## Validité du modèle
 
 * Test de Fisher (h0 : les variations sont nulle). 
-* Les échantillons :  
-  * Normalité : test de Shapiro-Wilk, Q-Q plot.
-  * Même variance (homoscédasticité).
-  * Indépendants.
+* Les échantillons :
+
+	* Normalité : test de Shapiro-Wilk, Q-Q plot.
+	* Même variance (homoscédasticité).
+	* Indépendants.
   
 # Issue
 

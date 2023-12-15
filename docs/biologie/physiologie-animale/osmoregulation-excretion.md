@@ -152,8 +152,7 @@ Néphrons :
 * Corticaux s'avancent peu.
 * Juxtamédullaire s'enfonce profondément dans le médulla.
 
-La composition en molécules osmotiques peut être 4x plus concentré
-300mosmol/L 1200
+La composition en molécules osmotiques peut être 4x plus concentré 300mosmol/L 1200
 
 Hyper-osmotique dépend de la disposition des tubules
 
@@ -163,8 +162,6 @@ Hyper-osmotique trop de sels ou hypo 70 pas dépend d'hormone
 antidiurétique cerveau 'hypophyse) hypothalamus récepteur surveillant
 
 L'ADH est une hormone sécrété au niveau de l'hypothalamus appelée
-hormone antidiurétique. Une augmentation de sa concentration augmente
-l'absorption d'eau au niveau des reins. L'alcool agit comme un
-inhibiteur de cette hormone.
+hormone antidiurétique. Une augmentation de sa concentration augmente l'absorption d'eau au niveau des reins. L'alcool agit comme un inhibiteur de cette hormone.
 
 Diurétique substance qui augmente le volume d'urine expulsé.

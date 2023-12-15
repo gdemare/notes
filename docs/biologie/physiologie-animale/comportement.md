@@ -1,7 +1,4 @@
-# Le comportement
-
-Chez les Animaux, le comportement est un constituant essentiel à la survie et à la reproduction. Il est ainsi soumis à une importante
-sélection naturelle.
+Chez les Animaux, le comportement est un constituant essentiel à la survie et à la reproduction. Il est ainsi soumis à une importante sélection naturelle.
 
 Tous milieux naturels présentes des variations spatiales où les changements se produisent beaucoup rapidement que ceux génomiques.
 
@@ -29,10 +26,8 @@ Les comportements variables peuvent présenter un degré :
 De nombreux comportements sont liés à des rythmes biologiques (horloge
 circadienne, circannuelle).
 
-Exemple : Les comportements liés à la reproduction chez le crabe
-violoniste se sont synchronisés au calendrier lunaire car les marées qui
-emportent ses œufs au large à l'abris des prédateurs sont influencés par
-la position de la lune.
+!!! example
+    Les comportements liés à la reproduction chez le crabe violoniste se sont synchronisés au calendrier lunaire car les marées qui emportent ses œufs au large à l'abris des prédateurs sont influencés par la position de la lune.
 
 ## Les comportements sociaux 
 
@@ -60,8 +55,7 @@ __Apprentissage associatif__ association de deux stimuli.
 
 Tous les animaux ne sont pas capables d'associer un sens avec un autre. Par exemple, les rats peuvent associer une odeur avec une nourriture mais pas une image.
 
-L'association entre les sens est le reflet de relations susceptibles de
-se produire dans la nature.
+L'association entre les sens est le reflet de relations susceptibles de se produire dans la nature.
 
 Synesthésie phénomène neurologique qui correspond à l'association de plusieurs sens.
 
@@ -86,13 +80,10 @@ La plupart des comportements concernent directement soit :
 Les comportements liés à la quête de nourriture sont issus d'un
 compromis visant à minimiser :
 
-|                                          |                             |
-|------------------------------------------|-----------------------------|
-| Le rapport temps/énergie, effort/énergie | Les risques liées prédation |
+* Le rapport temps/énergie, effort/énergie.
+* Les risques liées prédation.
 
-Ils sont susceptibles d'évoluer durant la vie de l'individu en fonction
-de l'expérience acquise, de l'environnement, et ses relations avec les
-autres êtres vivants.
+Ils sont susceptibles d'évoluer durant la vie de l'individu en fonction de l'expérience acquise, de l'environnement, et ses relations avec les autres êtres vivants.
 
 ### La reproduction
 
@@ -115,9 +106,8 @@ La polygamie est plus répandue chez les espèces :
 Il existe un lien entre le comportement parental et la certitude de paternité. Chez les espèces où la certitude de paternité sont plus forts
 plus souvent de soins apportés par le mâle.
 
-|                        |                         |
-|------------------------|-------------------------|
-| 7% fécondation interne | 69% fécondation externe |
+* 7% fécondation interne.
+* 69% fécondation externe.
 
 !!! note
     L'évolution a fait apparaitre des comportements qui visent à augmenter la certitude de paternité comme se débarrasser le sperme avant la copulation.
@@ -128,8 +118,7 @@ Les comportements liés à la recherche d'un partenaire.
 
 Certains caractères phénotypiques désavantageux en termes de survie ont été sélectionnées parce qu'ils reflètent l'état de santé générale de l'individu et ainsi permettre au sexe opposé de choisir le partenaire qui dispose des meilleurs gènes.
 
-Plusieurs causes externes peuvent modifier le comportement
-sexuel notamment :
+Plusieurs causes externes peuvent modifier le comportement sexuel notamment :
 
 * L'imprégnation peut influencer sur le choix du futur partenaire.
 * L'imitation du choix des congénères. Au regard de la sélection naturelle, ce comportement peut s'expliquer par le fait quand s'accouplant avec les mâles les plus attirant pour les autres femelles, la future mère augmente les chances que sa descendance est une progéniture et ains qu'ils laissent à leur tour.
@@ -138,8 +127,7 @@ La concurrence entre les males a souvent lieu sous forme de combats avec des pra
 
 ### Théorie des jeux
 
-Souvent, l'efficacité d'un comportement dépend de ceux adoptées par les autres individus. L'étude de la meilleure stratégie se fait au travers
-de la théorie des jeux.
+Souvent, l'efficacité d'un comportement dépend de ceux adoptées par les autres individus. L'étude de la meilleure stratégie se fait au travers de la théorie des jeux.
 
 ### Altruisme
 

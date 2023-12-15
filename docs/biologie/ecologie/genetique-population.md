@@ -21,8 +21,7 @@ __Patrimoine génétique (ou pool génétique ou fond génétique)__ composition
 Lorsqu'un seul allèle est présent dans une population on dit que l'allèle est fixé (par opposition à polymorphisme).
 
 !!! warning
-    Il n'existe pas de hiérarchies entre les allèles mais entre les phénotypes. Ainsi, on dira qu'un phénotype \[A\] est dominant sur
-\[a\].
+    Il n'existe pas de hiérarchies entre les allèles mais entre les phénotypes. Ainsi, on dira qu'un phénotype $[A]$ est dominant sur $[a]$.
 
 !!! note
     Un allèle dominant ne s'exprime pas toujours. Il peut être caractérisé par l'absence d'expression.
@@ -51,19 +50,19 @@ La population correspond à l'ensemble des allèles.
 
 Allèles | Fréquence
 --------|----------
-A       | $P_{n}$
-a       | $Q_{n}$
+A       | $P_n$
+a       | $Q_n$
 
 Zygotes formés | Fréquence (tot = 100%) |
 ---------------|------------------------|
-AA             | $P_{n}²$
-Aa             | ${2P}_{n}Q_{n}$
-aa             | $Q_{n}²$
+AA             | $P_n^2$
+Aa             | $2P_n \cdot Q_n$
+aa             | $Q_n^2$
 
 Allèles | Fréq à la génération +1 (tot = 100%)
 --------|--------------
-A       | $P_{n}^{2} + P_{n}Q_{n} = P_{n}(P_{n} + Q_{n})$
-a       | $$ | $$Q_{n}^{2} + P_{n}Q_{n}$$
+A       | $P_n^2 + P_n \cdot Q_n = P_n \cdot (P_n + Q_n)$
+a       | $Q_n^2 + P_n \cdot Q_n$
 
 !!! warning 
     Pour une population N d'individus diploïdes, l'ensemble des allèles $2N$.
@@ -81,11 +80,11 @@ AA       | 35
 AB       | 40
 BB       | 25
 
-Calcul des fréquences alléliques $Freq(A) = \frac{2n_{AA} + n_{AB}}{2N} = \frac{2 \times 35 + 40}{200} = 0,55$
+Calcul des fréquences alléliques $\mathbf{Freq}(A) = \frac{2 \cdot n_{AA} + n_{AB}}{2\cdot N} = \frac{2 \cdot 35 + 40}{200} = 0,55$
 
 ### L'équilibre
 
-L'équilibre est stable si l'état des paramètres n'évolue plus càd que les fréquences alléliques sont constantes. Ainsi, à chaque génération, on retrouve les fréquences de départ des allèles, ce qui correspond mathématiquement à $\mathrm{\Delta}P = P_{n + 1} - P_{n} = 0$.
+L'équilibre est stable si l'état des paramètres n'évolue plus càd que les fréquences alléliques sont constantes. Ainsi, à chaque génération, on retrouve les fréquences de départ des allèles, ce qui correspond mathématiquement à $\Delta P = P_{n + 1} - P_n = 0$.
 
 !!! note
     Généralement une population est à l'équilibre uniquement sur certains gènes précis.
@@ -114,20 +113,20 @@ Dans le cas où le phénotype intermédiaire n'existe pas, on peut calculer les 
 ### Vérifier si une population est à l'équilibre
 
 1. Calculer les effectifs théoriques.
-2. Comparer les résultats attendus avec les fréquences réelles $X^{2} = \sum_{}^{}\frac{(eff\ théor. - eff\ obser)²}{eff\ théor}$
+2. Comparer les résultats attendus avec les fréquences réelles $X^2 = \sum{\frac{(eff\ théor. - eff\ obser)^2}{eff\ théor}}$
 
 3. Pour cela on utilise un test statistique :
     
-    * $H_{0}$ les résultats théoriques sont conformes à ceux obtenus.
-    * $H_{1}$ les résultats théoriques ne sont pas conformes à ce obtenus.
+    * $H_0$ les résultats théoriques sont conformes à ceux obtenus.
+    * $H_1$ les résultats théoriques ne sont pas conformes à ce obtenus.
 
 Utilisation du test du Khi-2 :
 
 * Le degré de liberté : nombre de paramètres indépendants, c'est le nombre d'allèles pour un gène -1 car la somme des fréquences alléliques est égale à 1.
-* $\alpha$ le taux d'erreur accepté : probabilité de rejeter $H_{0}$ alors que c'est vrai.
+* $\alpha$ le taux d'erreur accepté : probabilité de rejeter $H_0$ alors que c'est vrai.
 * $\beta$ probabilité d'accepter H~0~ alors que c'est faux.
 
-Si $X^{2} < X²(\alpha)$, on dira alors que l'on ne rejette pas $H_{0}$. La population est à l'équilibre.
+Si $X^2 < X^2(\alpha)$, on dira alors que l'on ne rejette pas $H_0$. La population est à l'équilibre.
 
 !!! note
     Généralement, on calcul à partir des fréquences alléliques observées les phénotypes théoriques à obtenir si la population est à l'équilibre. On vérifie ensuite que la conformité des résultats en utilisant le test du Khi-2.
@@ -136,7 +135,7 @@ Si $X^{2} < X²(\alpha)$, on dira alors que l'on ne rejette pas $H_{0}$. La popu
 
 On parle notamment du taux de mutation par gamète et par génération.
 
-Pour un allèle A de fréquence P~n~ avec un taux de mutation $u$, sa fréquence à la génération suivante est $P_{n + 1} = P_{n} - uP_{n}$
+Pour un allèle A de fréquence P~n~ avec un taux de mutation $u$, sa fréquence à la génération suivante est $P_{n + 1} = P_n - u \cdot P_n$
 
 Les mutations récurrentes influencent peu les fréquences alléliques seules. Combinées avec d'autres facteurs évolutifs (environnement...), elles permettent de créer la variabilité initiale.
 
@@ -183,28 +182,20 @@ Les causes de croisements non-panmixie peuvent être dû à :
 
 ## L'autofécondation
 
-À l'équilibre, on aura uniquement des homozygotes car même si l'individu est hétérozygote (Aa), ces descendants auront 50% de chance de conserver l'hétérozygote : $1 = \frac{1}{4}AA + \frac{1}{2}Aa + \frac{1}{4}aa$
+À l'équilibre, on aura uniquement des homozygotes car même si l'individu est hétérozygote (Aa), ces descendants auront 50% de chance de conserver l'hétérozygote : $1 = \frac{1}{4} \cdot AA + \frac{1}{2} \cdot Aa + \frac{1}{4} \cdot aa$
 
-La probabilité d'hétérozygote diminue de moitié à chaque génération : $\ H_{n + 1} = 0,5.H_{n}$
+La probabilité d'hétérozygote diminue de moitié à chaque génération : $H_{n + 1} = 0,5 \cdot H_n$
 
 La perte des hétérozygotes est extrêmement rapide et tout le génome est concerné.
 
-<table>
-<colgroup>
-<col style="width: 42%" />
-<col style="width: 57%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><span
-class="math display"><em>A</em><sub><em>n</em></sub> = <em>A</em><sub>0</sub> + <em>H</em><sub>0</sub>(1−0, 5<sup><em>n</em></sup>).0, 5</span></td>
-<td><p>A<sub>0</sub> fréq d’homozygote AA dans la population</p>
-<p>H<sub>0</sub> fréq d’hétérozygote Aa dans la population</p></td>
-</tr>
-</tbody>
-</table>
+$$A_n = A_0 + H_0 \cdot (1 − 0, 5)^n \cdot 0,5$$
 
-Ainsi, sur le long terme (c'est-à-dire quand n tend vers l'infini), les fréquences alléliques ne changent pas.
+Avec : 
+
+* $A_0$ la fréquence d’homozygotes AA dans la population.
+* $H_0$ la fréquence d’hétérozygotes Aa dans la population.
+
+Ainsi, sur le long terme (c'est-à-dire quand $n$ tend vers $+ \infty$), les fréquences alléliques ne changent pas.
 
 Dans la Nature et notamment chez les plantes, il existe des mécanismes d'auto-incompatibilité qui permettent de prévenir en partie l'autofécondation.
 
@@ -223,17 +214,17 @@ __Coefficient de parenté__ probabilité qu'un allèle à un locus soit identiqu
 
 __Consanguinité__ individu issu d'un croisement de deux individus apparentés. 
 
-Le coefficient de consanguinité noté $f_{i}$ issu d'un croisement de deux individus apparentés. C'est le pourcentage de gènes autozygotes pour un individu.
+Le coefficient de consanguinité noté $f_i$ issu d'un croisement de deux individus apparentés. C'est le pourcentage de gènes autozygotes pour un individu.
 
 Soit A a deux descendants : B et C. On sait que A possède pour F~a~ de gènes identiques (autozygotes).
 
 Quelle est la probabilité de trouver des gènes identiques entre C et B ?
 
-* Pour les gènes non identique (1-F~a~), on a une chance sur deux de transmettre le même gène à ses descendants $\frac{1}{2}(1 - F_{a})$.
-* Pour les gènes identiques F~a~, on a 100% de chance de retrouver le gène chez les descendants $F_{a}$.
+* Pour les gènes non identique ($1-F_a$), on a une chance sur deux de transmettre le même gène à ses descendants $\frac{1}{2} \cdot (1 - F_a)$.
+* Pour les gènes identiques $F_a$, on a 100% de chance de retrouver le gène chez les descendants $F_a$.
 
 La proportions de gènes communs entre B et C est
-$\frac{1}{2}\left( 1 - F_{a} \right) + F_{a} = \frac{1}{2}(1 + F_{a})$
+$\frac{1}{2} \cdot (1 - F_a) + F_a = \frac{1}{2} \cdot (1 + F_a)$
 
 ## La sélection
 
@@ -242,8 +233,8 @@ $\frac{1}{2}\left( 1 - F_{a} \right) + F_{a} = \frac{1}{2}(1 + F_{a})$
 
 Le nombre moyen de descendants viables et fertiles dépend du taux de :
 
-* Survie (valeur adaptative)
-* Fécondité (valeur sélective)
+* Survie (valeur adaptative).
+* Fécondité (valeur sélective).
 
 __Valeur sélective (ou fitness)__ nombre moyen de descendants viables et fertiles laissé par cet individu.
 
@@ -255,11 +246,11 @@ $$valeur\ sélective\ absolue = \frac{Nbre\ de\ descendants}{Fertilité}$$
 
 $$valeur\ sélective\ relative = \frac{valeur\ sélective\ absolue}{valeur\ sélective\ absolue\ maximum}$$
 
-Soit deux allèles A et a de fréquences respectives $(p,q)$ pouvant donner les génotype AA, Aa et aa ayant pour valeur sélective $w_{1}$, $w_{2}$, $w_{3}$.
+Soit deux allèles A et a de fréquences respectives $(p,q)$ pouvant donner les génotype AA, Aa et aa ayant pour valeur sélective $w_1$, $w_2$, $w_3$.
 
-On note $w = w_{1}p^{2} + 2w_{2}pq + w_{3}q²$ . Pour obtenir les fréquences alléliques ont a besoin de diviser par $w$.
+On note $w = w_1 \cdot p^2 + 2 \cdot w_2 \cdot p \cdot q + w_3 \cdot q^2$ . Pour obtenir les fréquences alléliques ont a besoin de diviser par $w$.
 
-$$\mathrm{\Delta}p = p_{n + 1} - p_{n} = \frac{pq}{w}\lbrack\left( w_{1} - w_{2} \right)p + \left( w_{2} - w_{3} \right)q\rbrack$$
+$$\Delta p = p_{n + 1} - p_n = \frac{p \cdot q}{w} \cdot [(w_1 - w_2) \cdot p + (w_2 - w_3) \cdot q]$$
 
 !!! note
     La formule se démontre facilement. Il faut penser à $p = 1 - q$.
@@ -287,26 +278,13 @@ __Flux génétique__ échange d'allèles entre des populations.
 
 Le flux génétique tend à diminuer les différences génétiques entre les populations.
 
-L'évolution de la fréquence allélique peut être modéliser par une suite $u_{n} = a.u_{n} + b \leftrightarrow u_{n} = a^{n}\left( u_{0} - r \right) + r$
+L'évolution de la fréquence allélique peut être modéliser par une suite $u_n = a \cdot u_n + b \leftrightarrow u_n = a^n \cdot ( u_0 - r) + r$
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Démonstration : on pose<span class="math inline">$\ r =
-\frac{b}{1 - a}$</span> et <span
-class="math inline"><em>v</em><sub><em>n</em></sub> = <em>u</em><sub><em>n</em></sub> − <em>r</em></span></p>
-<p>Ainsi, en développement <span
-class="math inline"><em>u</em><sub><em>n</em></sub> = <em>a</em>.(<em>v</em><sub><em>n</em></sub>+<em>r</em>) + <em>b</em> </span>on
-démontre que <em><br />
-</em><span
-class="math inline"><em>u</em><sub><em>n</em></sub> = <em>a</em><sup><em>n</em></sup>(<em>u</em><sub>0</sub>−<em>r</em>) + <em>r</em></span>
-est une suite arithmétique.</p></td>
-</tr>
-</tbody>
-</table>
+Démonstration :
+
+1. on pose $r = \frac{b}{1 - a}$ et $v_n = u_n − r$.
+2. En développant $u_n = a \cdot (v_n + r) + b$.
+3. On démontre que $u_n = a^n \cdot (u_0− r) + r$ est une suite arithmétique.
 
 !!! note
     Les flux génétiques peuvent empêcher les populations de s'adapter pleinement à un environnement en empêchant la sélection naturelle de s'exercer. L'arrivé d'allèles de populations étrangères empêche la diminution de la fréquence des allèles désavantageux. Cela peut également être l'inverse, les flux génétiques peuvent permettre à des allèles de se répandre rapidement.

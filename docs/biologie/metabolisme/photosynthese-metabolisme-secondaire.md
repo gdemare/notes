@@ -108,65 +108,45 @@ C'est parce que la chlorophylle est associée à d'autres protéines dans la cel
 
 ## Fonctionnement de la phase photochimique
 
-La photosynthèse se déroule d'abord, dans le photosystème II où a lieu la production du gradient de H^+^ utilisé notamment pour la chimiosmose de l'ATP.
+La photosynthèse se déroule d'abord, dans le photosystème II où a lieu la production du gradient de $H^+$ utilisé notamment pour la chimiosmose de l'ATP.
 
 1. Excitation des pigments par la lumière. L'énergie se propage vers le complexe du centre excitateur. L'électron excité transmet son état à un électron de la molécule voisine et retrouve son état fondamental.
-2. P680 transfert un électron à l'accepteur primaire. Il devient alors $P680^{+}$.
-3. Une enzyme construite autour de ions Mn (Manganèse) transfert les électrons de l'eau un par un vers $P680^{+}$ ($H_{2}O \rightarrow \frac{1}{2}O_{2} + {2H}^{+} + 2é$) pour combler la charge manquante. La lyse de l'eau a lieu dans la lumière des thylakoïdes. 
+2. P680 transfert un électron à l'accepteur primaire. Il devient alors $P680^+$.
+3. Une enzyme construite autour de ions Mn (Manganèse) transfert les électrons de l'eau un par un vers $P680^+$ ($H_2O \rightarrow \frac{1}{2} O_2 + 2H^+ + 2é$) pour combler la charge manquante. La lyse de l'eau a lieu dans la lumière des thylakoïdes. 
 
 !!! note 
-    P680^+^ est l'oxydant biologique le plus fort. Le centre accepte successivement 4 électrons pour oxyder l'O~2~.
+    $P680^+$ est l'oxydant biologique le plus fort. Le centre accepte successivement 4 électrons pour oxyder l'$O_2$.
 
-4. L'accepteur primaire du photosystème cède son électron à la chaine de transport constitués d'une succession de plastoquinones (Pq), puis d'un complexe de cytochromes. [Rmq :]{.underline} les cytochromes sont aussi appelés cycle Q et réalise le transfert de $H^{+}$ du stroma vers la lumière des thylakoïdes.
+4. L'accepteur primaire du photosystème cède son électron à la chaine de transport constitués d'une succession de plastoquinones (Pq), puis d'un complexe de cytochromes.
+
+!!! note 
+    les cytochromes sont aussi appelés cycle Q et réalise le transfert de $H^+$ du stroma vers la lumière des thylakoïdes.
 
 5. La plastocyanine (Pc), une molécule mobile, transfert les électrons au photosystème I. Dans le photosystème I pour produire du NADPH :
-
 6. L'énergie lumineuse active PSI de la même façon que PSII pour remonter l'énergie de l'électron.
-
-7. L'électron est transféré à la ferrédoxine (Fd) puis à l'$NADP^{+}$ réductase qui catalyse le NADP^+^ en NADPH au niveau du stroma. Cela contribue également à la baisse de la concentration de H^+^ dans le stroma.
+7. L'électron est transféré à la ferrédoxine (Fd) puis à l'$NADP^+$ réductase qui catalyse le $NADP^+$ en NADPH au niveau du stroma. Cela contribue également à la baisse de la concentration de $H^+$ dans le stroma.
 
 Photolyse de l'eau dissociation d'une molécule d'eau par la lumière.
 
-Dans la photosynthèse oxygénique, le CO~2~ joue le rôle d'accepteur d'électrons. Il est possible de réaliser la photosynthèse sans $CO_{2}$ en utilisant un autre réducteur comme $Fe^{3+}$.
+Dans la photosynthèse oxygénique, le $CO_2$ joue le rôle d'accepteur d'électrons. Il est possible de réaliser la photosynthèse sans $CO_2$ en utilisant un autre réducteur comme $Fe^{3+}$.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Rendement de la phosphorylation acyclique</p>
-<p>Cela correspond à l’ATP produit par nombre d’électrons générer au
-départ.</p>
-<ul>
-<li><p>La lyse de l’eau <span
-class="math inline">2<em>H</em><sub>2</sub><strong>O</strong><strong>→</strong><strong>O</strong><sub><strong>2</strong></sub><strong>+</strong><strong>4</strong><strong>H</strong><sup><strong>+</strong></sup> <strong>+</strong> <strong>4</strong><strong>é</strong></span></p></li>
-<li><p>Par électron, le cytochrome transfert entre 4 à 8 H<sup>+</sup>
-du stroma vers le lumen.</p></li>
-</ul>
-<p>Au niveau de l’ATP synthase, on sait que comme il y a trois sites de
-synthèse et qu’un tour nécessite 10 H<sup>+</sup>.</p>
-<p><u>Bilan :</u></p>
-<ul>
-<li><p>Nombre de protons maximum généré <span
-class="math inline"><strong>4</strong><strong>H</strong><sup><strong>+</strong></sup> <strong>+</strong> <strong>4</strong> <strong>×</strong> <strong>8</strong><strong>H</strong><sup><strong>+</strong></sup> <strong>=</strong> <strong>40</strong><strong>H</strong><sup><strong>+</strong></sup></span></p></li>
-<li><p><span class="math inline">$ATP = \frac{{10\ H}^{+}}{3} =
-3,33$</span></p></li>
-</ul>
-<p><u>Conclusion :</u> Le rendement est <span
-class="math inline">$\frac{ATP}{4é} = \frac{ATP}{H^{+}} \times
-\frac{H^{+}}{4é} = \frac{1}{3,33} \times \frac{40}{4} =
-3$</span></p></td>
-</tr>
-</tbody>
-</table>
+Rendement de la phosphorylation acyclique
+Cela correspond à l’ATP produit par nombre d’électrons générer au départ.
+
+La lyse de l’eau $2 H_2O \Rightarrow O_2 + 4 H^+ + 4é$ Par électron, le cytochrome transfert entre 4 à $8 H^+$ du stroma vers le lumen.
+
+Au niveau de l’ATP synthase, on sait que comme il y a trois sites de synthèse et qu’un tour nécessite $10 H^+$.
+
+Bilan : Nombre de protons maximum généré $4 H^+ + 4 \times 8 H^+ = 40 H^+$ sachant que $ATP = \frac{10 H^+}{3} = 3,33$
+
+Conclusion : Le rendement est  $\frac{ATP}{4é} = \frac{ATP}{H^+} \cdot \frac{H^+}{4é} = \frac{1}{3,33} \cdot \frac{40}{4} = 3$
 
 ## Structure des photosystèmes
 
 La phase photochimique a lieu en deux étapes. Elles sont commencées par un photosystème qui agissent successivement et qui sont le lieu de la conversion de l'énergie lumineuse en chimique en réalisant une réduction :
 
-* Le photosystème II (P680)
-* Le photosystème I (P700)
+* Le photosystème II (P680).
+* Le photosystème I (P700).
 
 !!! note
     Les herbicides sont des inhibiteurs de la chaîne de transport des électrons.
@@ -175,7 +155,7 @@ La phase photochimique a lieu en deux étapes. Elles sont commencées par un pho
 
 Le photosystème II réalise la réaction :
 
-$$2H_{2}O + énergie\ lumineuse \rightarrow O_{2} + {4H}^{+} + 4é$$
+$$2 H_2O + énergie\ lumineuse \rightarrow O_2 + 4H^+ + 4é$$
 
 La longueur d'onde pour réaliser une oxydation de l'eau est comprise entre 660 et 680 nm. Il est composé de trois parties :
 
@@ -190,15 +170,15 @@ La longueur d'onde pour réaliser une oxydation de l'eau est comprise entre 660 
 Le fonction du site réactionnel
 
 1. Chlorophylle reçoit la lumière cède électron.
-2. PSII 2H~2~0 oxydé cède un électron à 0~2~+H^+^+4é
-3. Retiré les électron complexe d'oxydation vient compenser la perte
+2. PSII $2 H_20$ oxydé cède un électron à $0_2 + H^+ + 4 é$.
+3. Retiré les électron complexe d'oxydation vient compenser la perte.
 4. Quatre électrons de l'oxydation de l'eau viennent un à un produit 3 émissions de photons pour l'étape est lieu.
 
 ### Photosystème I
 
 Le photosystème I réalise la réaction :
 
-$${4H}^{+} + 4é + {CO}_{2} \rightarrow {CH}_{2}O + H_{2}O$$
+$$4 H^+ + 4é + CO_2 \rightarrow CH_2O + H_2O$$
 
 Il est constitué de :
 
@@ -207,11 +187,11 @@ Il est constitué de :
 
 ### Coordination de l'activité entre les photosystèmes I et II
 
-Le deux photosystèmes fonctionnent successivement et à vitesse similaire. Leur activité est coordonnée par l'intermédiaire de la concentration de plastoquinone (PQH~2~) qui est le produit et le substrat des deux réactions.
+Le deux photosystèmes fonctionnent successivement et à vitesse similaire. Leur activité est coordonnée par l'intermédiaire de la concentration de plastoquinone ( $PQH_2$ ) qui est le produit et le substrat des deux réactions.
 
 ## Le transport cyclique du photosystème I
 
-Le transport cyclique est PSI le transport cyclique (circuit fermé)
+Le transport cyclique est PSI le transport cyclique (circuit fermé).
 
 Ferrédoxine cède son électron au cytochrome puis vers PSI avant de revenir à la ferrédoxine. Génère de l'ATP.
 
@@ -223,14 +203,13 @@ Les plantes dépourvues de ce système poussent sous faible lumière mais Il sem
 
 Il existe des ressemblances entre les mitochondries et les chloroplastes même si le principe de création du gradient est différent :
 
-* $NADPH+H^{+}$ et l'ATP sont produits dans le stroma où a lieu le cycle de la synthèse des glucides (Calvin).
+* $NADPH + H^+$ et l'ATP sont produits dans le stroma où a lieu le cycle de la synthèse des glucides (Calvin).
 * Les réactions se déroulent dans la membrane.
 
-Produit des molécules à 3 atomes de carbones 3 phosphoglycéraldéhyde
-(PGAL) 3moles de CO~2~
+Produit des molécules à 3 atomes de carbones 3 phosphoglycéraldéhyde (PGAL) 3moles de $CO_2$
 
-1. Le $CO_{2}$ est ajouté à la ribulose di phosphate (5C)
-2. Enzyme ribulose di phosphate carboxylase/oxygénase. Elle catalyse la réaction mais ne distingue pas le CO~2~ du O~2~. Dans.
+1. Le $CO_2$ est ajouté à la ribulose di phosphate (5C)
+2. Enzyme ribulose di phosphate carboxylase/oxygénase. Elle catalyse la réaction mais ne distingue pas le $CO_2$ du $O_2$. Dans.
 3. C'est l'enzyme la plus abondante sur Terre.
 
 ## Synthèse d'ATP
@@ -249,49 +228,49 @@ Les protons font tournés le rotor qui entraine le stator là ou trois sites de 
 L'efficacité de la photosynthèse dépend de :
 
 * La lumière
-* La concentration de $CO_{2}$
+* La concentration de $CO_2$
 
 !!! note
-    Le facteur limitant dans l'activité de photosynthèse est le CO~2~ qui ne constitue que 3% de l'air.
+    Le facteur limitant dans l'activité de photosynthèse est le $CO_2$ qui ne constitue que 3% de l'air.
 
 Photosynthèse net production d'oxygène moins sa consommation par la respiration cellulaire.
 
 !!! note
-    La photosynthèse net se mesure en suivant l'évolution de la concentration de CO~2~ ou celle d'O~2~.
+    La photosynthèse net se mesure en suivant l'évolution de la concentration de $CO_2$ ou celle d'$O_2$.
 
 Point de compensation seuil à partir duquel la photosynthèse net devient positive.
 
 Les plantes ne sont pas toutes efficaces pour réaliser la photosynthèse. Cela dépend de leur mode de vie. On distingue les plantes :
 
-* D'ombre
-* De lumière
+* D'ombre.
+* De lumière.
 
 !!! note
     Les plantes d'ombre ont un point de compensation inférieur à celle de lumière mais leur valeur maximale est inférieure.
 
-Certaines plantes ont développé des adaptations pour pallier le manque de $CO_{2}$.
+Certaines plantes ont développé des adaptations pour pallier le manque de $CO_2$.
 
-# Le métabolisme carboné
+## Le métabolisme carboné
 
-## La phase biochimique d'assimilation du CO~2~ (ou cycle de Calvin)
+### La phase biochimique d'assimilation du $CO_2$ (ou cycle de Calvin)
 
-La phase biochimique d'assimilation du CO~2~ a lieu dans le stroma. Elle permet de récupérer le carbone d'une molécule de CO~2~ pour fabriquer une molécule organique. Elle forme un cycle càd qu'une partie du produit est utilisée pour renouveler la réaction.
+La phase biochimique d'assimilation du $CO_2$ a lieu dans le stroma. Elle permet de récupérer le carbone d'une molécule de $CO_2$ pour fabriquer une molécule organique. Elle forme un cycle càd qu'une partie du produit est utilisée pour renouveler la réaction.
 
-$$6{CO}_{2} + 6H_{2}O \rightarrow C_{6}H_{12}O_{6} + 6O_{2}$$
+$$6 CO_2 + 6 H_2O \rightarrow C_6H_{12}O_6 + 6 O_2$$
 
 La phase est composée de trois parties :
 
-1. Carboxylation. La fixation du CO~2~ sur une molécule organique.
+1. Carboxylation. La fixation du $CO_2$ sur une molécule organique.
 2. Réduction. 1/6 du produit quitte le cycle sous forme de sucre et 5/6 est utilisé pour régénérer le substrat.
 
 ### La carboxylation
 
 La carboxylation est réalisée par la lumière par l'intermédiaire de la Rubisco dont l'activité dépend :
 
-* Du pH
-* Du flux de Mg^+^ lumière créé un flux de Mg^+^.
-* De la concentration de CO~2~ augmente active
-* La fixation d'une protéine activatrice, la RubisCo activase, sur la RubisCo transforme le groupement NH~3~^+^ d'une lysine en $N-COO^{-}$ lorsque le milieu est basique. Sans elle, la RubisCo ne fonctionne pas.
+* Du pH.
+* Du flux de $Mg^+$ lumière créé un flux de $Mg^+$.
+* De la concentration de $CO_2$ augmente active.
+* La fixation d'une protéine activatrice, la RubisCo activase, sur la RubisCo transforme le groupement $NH_3^+$ d'une lysine en $N-COO^-$ lorsque le milieu est basique. Sans elle, la RubisCo ne fonctionne pas.
 
 ### La réduction
 
@@ -302,46 +281,37 @@ La réduction se déroule :
 
 La régulation du cycle de Calvin se fait par
 
-Inhibiteur : DCMU et DTT utilisé en laboratoire qui bloque la chaine de
-transfert d'électrons.
+Inhibiteur : DCMU et DTT utilisé en laboratoire qui bloque la chaine de transfert d'électrons.
 
 ## Photorespiration : le cycle du C2 du glycolate (photorespiration)
 
 La rubisco est l'enzyme la plus présente sur Terre, elle représente 50% de la proportion des molécules foliaires. Son nom vient de 1,5 rubilose bi phosphate carboxylase/oxygénase abrégé en RubisCo. Elle est bifonctionnelle. Elle fixe sur un ribose bi phosphate soit :
 
-* $CO_{2}$
-* $O_{2}$
+* $CO_2$
+* $O_2$
 
-L'enzyme a beaucoup plus d'affinité pour le CO~2~ que pour le O~2~. La
-probabilité de liaison avec le substrat dépend de la concentration en
-CO~2~. On considère qu'en condition standard un 1/3 du temps elle fixe
-du O~2~ ce qui réduit jusqu'à 50% l'activité photosynthétique des
-plantes en région tempérée.
+L'enzyme a beaucoup plus d'affinité pour le $CO_2$ que pour le $O_2$. La probabilité de liaison avec le substrat dépend de la concentration en $CO_2$. On considère qu'en condition standard un 1/3 du temps elle fixe du $O_2$ ce qui réduit jusqu'à 50% l'activité photosynthétique des plantes en région tempérée.
 
-Point de compensation rapport entre la concentration de O~2~ et CO~2~
-produite.
+Point de compensation rapport entre la concentration de $O_2$ et $CO_2$ produite.
 
-Photorespiration processus qui produit du CO~2~ et qui dépend de la
-lumière.
+Photorespiration processus qui produit du $CO_2$ et qui dépend de la lumière.
 
-La concentration du CO~2~ et d'O~2~ dans les feuilles est directement à
-la solubilité des gaz qui dépend de :
+La concentration du $CO_2$ et d'$O_2$ dans les feuilles est directement à la solubilité des gaz qui dépend de :
 
-La température. Elle diminue plus vite pour le CO~2~
+La température. Elle diminue plus vite pour le $CO_2$
 
 Différence entre la photorespiration et la
 
 |       |                       |
 |-------|-----------------------|
-| CO~2~ | 2 APG                 |
-| O~2~  | 1APG+1 (2-polycolate) |
+| $CO_2$ | 2 APG                 |
+| $O_2$  | 1APG+1 (2-polycolate) |
 
-Le glycolate (2-polycate) qui est exploité dans la respiration
-cellulaire. Il est d'abord :
+Le glycolate (2-polycate) qui est exploité dans la respiration cellulaire. Il est d'abord :
 
 1. Dans les chloroplaste enlever le phosphate.
 2. Dans les péroxysomes, transformer un glycine par un oxydation (perte de 2é et 2H^+^).
-3. Dans les mitochondries, à partir de deux glycines est produit une sérine accompagné d'une décarboxylation (production de CO~2~).
+3. Dans les mitochondries, à partir de deux glycines est produit une sérine accompagné d'une décarboxylation (production de $CO_2$).
 4. Dans les péroxysomes, la sérine est retransformée en glycérade.
 
 La respiration constitue pour la plante à la fois :
@@ -351,81 +321,55 @@ La respiration constitue pour la plante à la fois :
 
 Les raisons qui expliquent la présence de ce mécanisme :
 
-* un héritage de l'évolution. Lorsque la photosynthèse est apparue, l'atmosphère était dépourvue en O~2~. Il n'était pas nécessaire que la RubisCo distingue O~2~ et CO~2~. Or la photosynthèse a changé la composition atmosphérique faisant passer la quantité d'oxygène d'une valeur négligeable à 21% et le CO~2~ à 0,3%. Ainsi le problème serait apparu après.
-* Photoprotection. Lors de fortes chaleurs ou en condition de manque d'eau les stomates sont fermés pour limiter l'évaporation. La lumière continue de faire fonctionner les systèmes photosynthétiques même lorsque la concentration de CO~2~ trop faible. C'est le O~2~ qui réduit générant du O~2~^-^, une molécule très réactive pouvant altérer les molécules voisines. La respiration servirait à maintenir du CO~2~ dans la plante éviter la formation de O~2~^-^
+* un héritage de l'évolution. Lorsque la photosynthèse est apparue, l'atmosphère était dépourvue en $O_2$. Il n'était pas nécessaire que la RubisCo distingue $O_2$ et $CO_2$. Or la photosynthèse a changé la composition atmosphérique faisant passer la quantité d'oxygène d'une valeur négligeable à 21% et le $CO_2$ à 0,3%. Ainsi le problème serait apparu après.
+* Photoprotection. Lors de fortes chaleurs ou en condition de manque d'eau les stomates sont fermés pour limiter l'évaporation. La lumière continue de faire fonctionner les systèmes photosynthétiques même lorsque la concentration de $CO_2$ trop faible. C'est le $O_2$ qui réduit générant du $O_2^-$, une molécule très réactive pouvant altérer les molécules voisines. La respiration servirait à maintenir du $CO_2$ dans la plante éviter la formation de $O_2^-$.
 
 ## Plantes au métabolisme C4
 
-Le métabolisme C4 concerne 1500 espèces principalement tropicales ou
-subtropical et monocotylédone (par exemple, le maïs, la canne à
-sucre...).
+Le métabolisme C4 concerne 1500 espèces principalement tropicales ou subtropical et monocotylédone (par exemple, le maïs, la canne à sucre...).
 
-L'efficacité du métabolisme C4 par rapport au C3 dépend de la durée
-d'ouverture des stomates qui dépend eux-mêmes de la température. Il est
-plus efficace lorsque les stomates sont fermés, ce qui permet
-d'expliquer pourquoi il est présent chez les espèces tropicales.
+L'efficacité du métabolisme C4 par rapport au C3 dépend de la durée d'ouverture des stomates qui dépend eux-mêmes de la température. Il est plus efficace lorsque les stomates sont fermés, ce qui permet d'expliquer pourquoi il est présent chez les espèces tropicales.
 
-Il permet d'augmenter la quantité de CO~2~ disponible pour la plante. Ce
-métabolisme est apparu indépendamment chez plusieurs espèces avec des
-différences dans la molécule de transport. Il est accompagné de
-spécialisations morphologiques :
+Il permet d'augmenter la quantité de $CO_2$ disponible pour la plante. Ce métabolisme est apparu indépendamment chez plusieurs espèces avec des différences dans la molécule de transport. Il est accompagné de spécialisations morphologiques :
 
--   Les cellules de la gaine périvasculaire spécialisées dans le cycle
-    de Calvin. Les chloroplaste possèdent des thylakoïdes lisses.
+* Les cellules de la gaine périvasculaire spécialisées dans le cycle de Calvin. Les chloroplaste possèdent des thylakoïdes lisses.
+* Les cellules du mésophylle avec des chloroplastes avec beaucoup de granums qui concentrent de nombreux photosystème II permettant de produire de l'ATP et du NADPH.
 
--   Les cellules du mésophylle avec des chloroplastes avec beaucoup de
-    granums qui concentrent de nombreux photosystème II permettant de
-    produire de l'ATP et du NADPH.
+Le métabolisme C4 permet d'obtenir une concentration en $CO_2$ entre 5 à 10 supérieur à celle des autres parties de la plante :
 
-Le métabolisme C4 permet d'obtenir une concentration en CO~2~ entre 5 à
-10 supérieur à celle des autres parties de la plante :
+1. Le premier produit formé $CO_2$ fixé sur phosphénol pyruvate (PEP) pour former sur oxaloacétate (une molécule à 4 carbones d'où le métabolisme qualifié de C4) ce qui empêche le $CO_2$ de ressortir.
 
-1.  1^er^ produit formé CO~2~ fixé sur phosphénol pyruvate (PEP) pour
-    former sur oxaloacétate (une molécule à 4 carbones d'où le
-    métabolisme qualifié de C4) ce qui empêche le CO~2~ de ressortir.
+2.  Acheminement vers les chloroplaste de la gaine périvasculaire où il oxaloacétate est décarboxylé pour libérer le $CO_2$ et régénérer le substrat PEP.
 
-2.  Acheminement vers les chloroplaste de la gaine périvasculaire où il
-    oxaloacétate est décarboxylé pour libérer le CO~2~ et régénérer le
-    substrat PEP.
-
-Le métabolisme C4 ajout un cout de 2ATP au cycle de Calvin qui utilise
-déjà 3ATP.
+Le métabolisme C4 ajout un cout de 2ATP au cycle de Calvin qui utilise déjà 3ATP.
 
 Les enzymes importantes du métabolisme C4 :
 
-* PEPcase (PEP est le phosphénol pyruvate). Elle catalyse $$PEP + {HCO}_{3}^{-} \rightarrow OAA$$ (OAA est l'oxaloacétate). Elle est régulée par la lumière et inhibée par un de ses produits, le malate.
-* Malate déshydrogénase (MDH) $OAA \rightarrow malate$. C'est le
-    malate qui est décarboxylé dans la gaine périvasculaire càd qui
-    libére le CO2.
+* PEPcase (PEP est le phosphénol pyruvate). Elle catalyse $PEP + HCO_3^- \rightarrow OAA$ (OAA est l'oxaloacétate). Elle est régulée par la lumière et inhibée par un de ses produits, le malate.
+* Malate déshydrogénase (MDH) $OAA \rightarrow malate$. C'est le malate qui est décarboxylé dans la gaine périvasculaire càd qui libére le $CO_2$.
 
 !!! note
     Le malate et la PEP sont des métabolites présent dans plusieurs voies métaboliques, comme la glycolyse pour la PEP.
 
 ## Le métabolisme CAM le métabolisme acide des crassulacées 
 
-Le métabolisme CAM concerne les plantes vivant dans des milieux
-extrêmement sec. Ce type de métabolisme est apparu plusieurs fois dans
-plusieurs familles d'espèces au cours de l'évolution, caractère
-analogue.
+Le métabolisme CAM concerne les plantes vivant dans des milieux extrêmement sec. Ce type de métabolisme est apparu plusieurs fois dans plusieurs familles d'espèces au cours de l'évolution, caractère analogue.
 
-Chez les cactus, la tige est devenue l'organe photosynthétique de la
-plante au détriment des feuilles qui ont soit disparu soit se sont
-transformées en épines, des organes de défense.
+Chez les cactus, la tige est devenue l'organe photosynthétique de la plante au détriment des feuilles qui ont soit :
 
-L'ouverture des stomates a lieu lorsque les températures ne sont pas
-trop élevées notamment la nuit. Le CO~2~ est fixé sur un oxaloacétate
-qui devient un malate puis stocké sous forme d'acide malique dans la
-vacuole. Le jour, CO~2~ est libéré et l'oxaloacétate est retransformé en
-amidon.
+* Disparu
+* Se sont transformées en épines, des organes de défense.
+
+L'ouverture des stomates a lieu lorsque les températures ne sont pas trop élevées notamment la nuit. Le $CO_2$ est fixé sur un oxaloacétate qui devient un malate puis stocké sous forme d'acide malique dans la vacuole. Le jour, $CO_2$ est libéré et l'oxaloacétate est retransformé en amidon.
 
 PEPcase active la PEP malate régulation précise.
 
 Malate déshydrogénase
 
-1.  Libération du CO~2~ catalyse par l'enzyme malique à NADP.
+1.  Libération du $CO_2$ catalyse par l'enzyme malique à NADP.
 
 !!! note
-    Il y a compétition entre la PEPcase et la rubisco pour le CO~2~. La relation de PEPcase se fait par la lumière grâce à l'intervention d'une kinase.
+    Il y a compétition entre la PEPcase et la rubisco pour le $CO_2$. La relation de PEPcase se fait par la lumière grâce à l'intervention d'une kinase.
 
 Le rendement des CAM est 50% inférieur au C3 et 66% à celui des C4.
 
@@ -448,9 +392,7 @@ composé organique.
 
 __Métabolite__ molécule produite par le métabolisme.
 
-Les végétaux disposent d'un métabolisme non essentiel à leur survie
-appelé métabolisme secondaire (par opposition au métabolisme primaire
-qui est vital). Il existe d'importantes disparités entre les espèces.
+Les végétaux disposent d'un métabolisme non essentiel à leur survie appelé métabolisme secondaire (par opposition au métabolisme primaire qui est vital). Il existe d'importantes disparités entre les espèces.
 
 Plus de 200 000 métabolites associés au métabolisme secondaire ont été recensés. Ils servent principalement à :
 

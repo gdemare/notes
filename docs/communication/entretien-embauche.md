@@ -21,9 +21,11 @@ L'objectif de la lettre de motivation est de faire le lien entre les compétence
 Ce qu'il faut définir avant un entretien 
 
 * Ce que je sais de l'entreprise :
+
 	* L'activité de l'entreprise : intérimaire (remplacement et suppléant) d'ingénieur, développer, analyste.
 	* Les valeurs portées par l'entreprise : intégrité, ambitieux,
 	* La dimension de l'entreprise : France, Suisse, Suède.
+
 * Ce qui me motive sur le poste.
 * Mon projet professionnel.
 * Les compétences et les expériences les plus proches du poste.
@@ -73,8 +75,10 @@ Connaître ses prétentions salariales, généralement il faut remplir le tablea
 
 * Une difficulté rencontrée :
 * Une initiative :
+
     * Marquante :
     * Initiative mise en place :
+
 * Problème technique rencontré :
 * Situation stressante :
 * Apprentissage accélérée :

@@ -8,14 +8,14 @@ Circuit spécialisé dans différentes tâches
 500 millions d'années les systèmes de neurones actuels sont apparu. Ils
 sont la modification de issus de l'évolution
 
-Nerf groupe d'axones regroupé en faisceau
+__Nerf__ groupe d'axones regroupé en faisceau
 
 Encéphale intégration
 
-Moelle épignière circuit nerveau simples qui permettent des réponses
+__Moelle épignière__ circuit nerveau simples qui permettent des réponses
 automatiques à des stimulis (réflexs)
 
-Liquide cérébrospiral liquide issue de la filtration du sang
+__Liquide cérébrospiral__ liquide issue de la filtration du sang
 
 Cellule gliales radiales et les astrocytes sont les cellules souches des
 neurones.

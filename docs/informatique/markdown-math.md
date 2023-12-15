@@ -23,6 +23,7 @@ Markdown    | Fonction      | Lettre
 `\partial`  | $\partial$    | d rond
 `\nabla`    | $\nabla$      | nabla
  
+\to \infty
 
 ## Les fonctions
 
@@ -60,11 +61,14 @@ Markdown			| Opérateur			| Définition
 `\vert{x}\vert`     | $\vert{x}\vert$   | valeur absolue
 `\left\Vert x \right\Vert` | $\left\Vert x \right\Vert$ | norme
 `\pm`               | $\pm$             | plus et moins
+`\det` 			    | $\det$			| déterminant
 
 
 Markdown			| Opérateur			| Définition
 --------------------|-------------------|-------
 `_{indice}`   		| $_{indice}$		| indice
+`\mathbf{objet}`    | $\mathbf{objet}$  | objet
+`\mathrm{test}`     | $\mathrm{objet}$  | objet
 `\hat{x}`			| $\hat{x}$ 		| chapeau
 `\exists`			| $\exists$			| existe
 `\cup` 				| $\cup$			| union
@@ -86,6 +90,9 @@ Markdown			| Opérateur			| Définition
 --------------------|-------------------|-------
 `\Leftrightarrow` 	| $\Leftrightarrow$ | équivalent
 `\Rightarrow` 		| $\Rightarrow$		| implique 
+`\rightleftharpoons`    | $\rightleftharpoons$ | réaction chimique
+`\rightarrow`       | $\rightarrow$ | flèche droite
+`\leftarrow`        | $\leftarrow$  | flèche gauche
 
 Markdown 							| Math ajax								| Définition
 ------------------------------------|---------------------------------------|----------------

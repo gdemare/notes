@@ -26,8 +26,10 @@ Lancement + PDCA (plan, do, check, adjust) :
 
 Définir une action : comment ? Qui ? Quoi ? Où ? Pourquoi ?
 
-* __Action correctrice__ action qui corrige l'effet (solution temporaire)
-* __Action corrective__ action qui a vocation à résoudre un problème (solution pérenne).
+__Action correctrice__ action qui corrige l'effet (solution temporaire).
 
-* __Personne impliquée__ personne dont dépend nécessairement le projet. Son absence se traduit par l'arrête du projet.
-* __Personne concernée__ personne dont le rôle n'est pas primordial dans un projet.
+__Action corrective__ action qui a vocation à résoudre un problème (solution pérenne).
+
+__Personne impliquée__ personne dont dépend nécessairement le projet. Son absence se traduit par l'arrête du projet.
+
+__Personne concernée__ personne dont le rôle n'est pas primordial dans un projet.

@@ -7,10 +7,9 @@ Chez certaines branches du vivant, la complexification du réseau a donné lieu 
 * Ganglion (simple)
 * Encéphale (complexe).
 
-Le cerveau fait partie de la catégories des systèmes complexe c'est-à-dire des systèmes qui se modifient en réponse aux interactions passées, de son histoire. Autrement dit l'environnement fait partie intégrante de sa structure qu'il adopte. Cela s'oppose à la notion de système compliqué ou simple, pour lesquels l'étude des parties indépendamment de l'environnement permet de comprendre comment
-fonctionne le système.
+Le cerveau fait partie de la catégories des systèmes complexe c'est-à-dire des systèmes qui se modifient en réponse aux interactions passées, de son histoire. Autrement dit l'environnement fait partie intégrante de sa structure qu'il adopte. Cela s'oppose à la notion de système compliqué ou simple, pour lesquels l'étude des parties indépendamment de l'environnement permet de comprendre comment fonctionne le système.
 
-# La structure d'un neurone
+## La structure d'un neurone
 
 Un neurone est composé de trois parties :
 
@@ -30,10 +29,9 @@ Il existe différents types de neurones, par exemple :
 | Taille                           | Large                 | Petit                                   |
 | Réponse                          | Excitatrice           | Excitatrice, inhibitrice et modulatrice |
 
-Neuromodulateur neurone qui module l'activité en facilitant ou inhibant
-le passage du message nerveux.
+__Neuromodulateur__ neurone qui module l'activité en facilitant ou inhibant le passage du message nerveux.
 
-Neurofilaments filament qui sert au soutien et qui donne la forme au
+__Neurofilament__ filament qui sert au soutien et qui donne la forme au
 neurone.
 
 ## L'axone
@@ -67,13 +65,13 @@ Les neurones forment un réseau destiné au recueil et aux traitements de l'info
 
 L'intensité d'un stimulus est traduite en fréquence. Plus le signal sera fort plus la fréquence sera élevée.
 
-Période réfractaire période minimale entre deux potentiels d'action dû à l'inactivation des canaux $Na^+$. C'est la fréquence maximale possible. Elle est de l'ordre de 1 à 2 millisecondes.
+__Période réfractaire__ période minimale entre deux potentiels d'action dû à l'inactivation des canaux $Na^+$. C'est la fréquence maximale possible. Elle est de l'ordre de 1 à 2 millisecondes.
 
 ## La transmission du message nerveux au sein d'un neurone
 
 Le signal nerveux se déplace au sein d'un neurone des dendrites vers l'axone prend la forme d'une modification locale, temporelle et réversible de la différence de potentiels électrochimiques entre le milieu intracellulaire et le milieu extracellulaire.
 
-Tension différence de potentiels électrochimiques.
+__Tension__ différence de potentiels électrochimiques.
 
 Cette différence de charge est appelée potentiel. Elle est dû à des concentrations en ions différentes entre les deux milieux.
 
@@ -110,16 +108,9 @@ d'ions (on parle de perméabilité sélective) :
 | Compartiment avec la C la plus élevée | Intra | Extra  |
 | Perméabilité                          | Élevé | Faible |
 
-La cellule maintient une différence de concentration notamment grâce des
-pompes à sodium et potassium qui échangent 3 Na^+^ du milieu
-intracellulaire par 2 K^+^ du milieu extracellulaire.
+La cellule maintient une différence de concentration notamment grâce des pompes à sodium et potassium qui échangent 3 $Na^+$ du milieu intracellulaire par 2 $K^+$ du milieu extracellulaire.
 
-Comme la membrane est perméable aux ions K^+^ et que la concentration du
-milieu intracellulaire est supérieure à celle du milieu extracellulaire,
-les ions K^+^ vont sortir de la cellule sous l'action de la diffusion.
-Cela va générer une charge négative dans le cytosol qui va alors
-s'opposer à leur sortie. L'équilibre est atteint lorsque les deux forces
-s'annulent.
+Comme la membrane est perméable aux ions K^+^ et que la concentration du milieu intracellulaire est supérieure à celle du milieu extracellulaire, les ions $K^+$ vont sortir de la cellule sous l'action de la diffusion. Cela va générer une charge négative dans le cytosol qui va alors s'opposer à leur sortie. L'équilibre est atteint lorsque les deux forces s'annulent.
 
 <table>
 <colgroup>
@@ -140,9 +131,7 @@ ion\rbrack_{int}}$$</span></p>
 
 ### Potentiel de repos
 
-Au repos, un neurone a un potentiel de -70 mV avec le milieu
-extracellulaire c'est-à-dire que l'intérieur de la cellule est chargé
-négativement par rapport au milieu extracellulaire.
+Au repos, un neurone a un potentiel de $-70 mV$ avec le milieu extracellulaire càd que l'intérieur de la cellule est chargée négativement par rapport au milieu extracellulaire.
 
 !!! note
     Les pompes à sodium et potassium consomment 40% de l'ATP produit par la cellule pour maintenir ces différences.
@@ -170,57 +159,39 @@ __Dépolarisation__ passage du potentiel électrique de -70mV à 62mV.
 
 ### Seuil d'excitation
 
-Seuil d'excitation (ou d'activation) (-55mv) dépolarisation minimale pour laquelle le neurone déclenche la propagation du potentiel
-électrique.
+Seuil d'excitation (ou d'activation) (-55mv) dépolarisation minimale pour laquelle le neurone déclenche la propagation du potentiel électrique.
 
-La propagation du signal se fera uniquement si la dépolarisation atteint au minimum le seuil d'excitation. Elle correspond aux nombres minimum de
-canaux tension-dépendants à ouvrir pour générer un tension suffisante
-qui provoque au moins l'ouverture de la même quantité de canaux dans la
+La propagation du signal se fera uniquement si la dépolarisation atteint au minimum le seuil d'excitation. Elle correspond aux nombres minimum de canaux tension-dépendants à ouvrir pour générer un tension suffisante qui provoque au moins l'ouverture de la même quantité de canaux dans la
 région voisine.
 
-L'apparition du potentiel d'action est un phénomène de tout ou rien. Si
-la seuil d'excitation est atteint, un potentiel d'action est généré et
+L'apparition du potentiel d'action est un phénomène de tout ou rien. Si la seuil d'excitation est atteint, un potentiel d'action est généré et
 se propagera dans le neurone.
 
 ## Vitesse de propagation du potentiel
 
-Le diamètre de l'axone influe sur la vitesse de propagation du potentiel
-d'action. Plus il est large, plus vite il se propage. Par analogie avec
+Le diamètre de l'axone influe sur la vitesse de propagation du potentiel d'action. Plus il est large, plus vite il se propage. Par analogie avec
 un tuyau, l'augmentation du diamètre diminue les frottements.
 
-Chez les Mollusques, le diamètre des axones peut atteindre 1mm mais le
-signal ne se propage pas plus vite que chez les Vertébrés chez qui ils
-mesurent 20um.
+Chez les Mollusques, le diamètre des axones peut atteindre 1mm mais le signal ne se propage pas plus vite que chez les Vertébrés chez qui ils mesurent $20 \nu m$.
 
 ### L'isolation par la gaine de myéline
 
-En fait, l'évolution a fait émerger une solution différente pour
-augmenter la vitesse de propagation du potentiel électrique qui a
-consisté à isoler les axones avec un matériau qui possède une faible
-conductance appelé gaine de myéline. Les cellules qui produisent la
-gaine de myéline mesurent entre 1 à 2mm et sont enroulées autour de
-l'axone. Leur taille constitue la distance limite pour laquelle le
-potentiel d'action, en propageant, ne passe jamais en dessous du seuil
-d'activation. Entre les gaines de myéline se trouvent les nœuds de
-Ranvier où le potentiel d'action est régénéré.
+En fait, l'évolution a fait émerger une solution différente pour augmenter la vitesse de propagation du potentiel électrique qui a consisté à isoler les axones avec un matériau qui possède une faible conductance appelé gaine de myéline. Les cellules qui produisent la gaine de myéline mesurent entre 1 à 2mm et sont enroulées autour de l'axone. Leur taille constitue la distance limite pour laquelle le potentiel d'action, en propageant, ne passe jamais en dessous du seuil d'activation. Entre les gaines de myéline se trouvent les nœuds de Ranvier où le potentiel d'action est régénéré.
 
-__Myéline__ couche de membranes cellulaires enroulée. Elle est composée
-essentiellement de lipides, un matériau avec une faible conductance.
+__Myéline__ couche de membranes cellulaires enroulée. Elle est composée essentiellement de lipides, un matériau avec une faible conductance.
 
 L'axone est enroulé par une succession de gaines de myéline séparée par des nœuds de Ranvier où l'on trouve les canaux ioniques.
 
-Conduction saltatoire l'axone myéline permet au potentiel de se propager
-par saut entre les nœuds de Ranvier. La propagation est alors accélérée.
+Conduction saltatoire l'axone myéline permet au potentiel de se propager par saut entre les nœuds de Ranvier. La propagation est alors accélérée.
 
-[Rmq :]{.underline} les parties protégées par la gaine de myélines ne
-contiennent pas de canaux ioniques.
+!!! note
+    Les parties protégées par la gaine de myéline ne contiennent pas de canaux ioniques.
 
 ## Propriété électrique du neurone
 
 Capacitance capacité d'un milieu à accumuler des éléments chargés.
 
-Résistance (par opposition à la conductance en S) ce qui empêche le
-mouvement (en Ohm).
+Résistance (par opposition à la conductance en $S$) ce qui empêche le mouvement (en Ohm).
 
 Charge intensité multipliée par le temps. C'est la charge qui génère un potentiel d'action (en Coulomb).
 
@@ -265,13 +236,9 @@ résistance du milieu extracellulaire. Elle est négligeable.</p></td>
 
 ### Caractériser l'excitabilité d'un neurone 
 
-Rhéobase potentiel minimale pour produire un PA. Quelle que soit la
-durée en dessous de celle-ci, il est impossible de produire un potentiel
-d'action.
+Rhéobase potentiel minimale pour produire un PA. Quelle que soit la durée en dessous de celle-ci, il est impossible de produire un potentiel d'action.
 
-Chronaxie durée minimale pour produire un courant électrique. Il
-correspond la durée qui permet de produire un courant de tension deux
-fois supérieur à la rhéobase.
+Chronaxie durée minimale pour produire un courant électrique. Il correspond la durée qui permet de produire un courant de tension deux fois supérieur à la rhéobase.
 
 La charge minimale qui déclenche un potentiel correspond à la chronaxie.
 
@@ -281,114 +248,70 @@ La période réfractaire totale est la durée minimale pour avoir deux
 potentiels d'action produit par la même intensité. Elle est la somme de
 la période réfractaire : 
 
--   Absolue :  durée durant laquelle toute stimulation quelques soit son
-    intensité ne produit pas dépolarisation.
-
--   Relative : durée durant laquelle l'intensité de la stimulation
-    produira une différence de potentiel inférieure à la valeur
-    habituelle.
+* Absolue :  durée durant laquelle toute stimulation quelques soit son intensité ne produit pas dépolarisation.
+* Relative : durée durant laquelle l'intensité de la stimulation produira une différence de potentiel inférieure à la valeur habituelle.
 
 # La transmission du message nerveux entre les neurones
 
-Le passage du signal d'un neurone à un autre se faire dans les zones de
-contacts appelées synapses. Les synapses peuvent connecter deux neurones
-au niveau de :
+Le passage du signal d'un neurone à un autre se faire dans les zones de contact appelées synapses. Les synapses peuvent connecter deux neurones au niveau de :
 
--   Souvent 
-
-|                                    |                               |                           |
-|-------------------------|------------------------|-----------------------|
-| Axodendentritique (axone-dendrite) | Axosynaptique (axone-synapse) | Axoaxonique (axone-axone) |
-
--   Parfois
-
-|                 |                    |              |
-|-----------------|--------------------|--------------|
-| Dendrodentrique | Axoextracellulaire | Axosécrétice |
+* Souvent : axodendentritique, (axone-dendrite), axosynaptique (axone-synapse), axoaxonique (axone-axone).
+* Parfois : dendrodentrique, axoextracellulaire, axosécrétice.
 
 ## Les types de synapses
 
 Il existe deux types de synapses en fonction du type du message :
 
-|            |          |
-|------------|----------|
-| Électrique | Chimique |
+* Électrique.
+* Chimique.
 
-[Rmq :]{.underline} les neurones électriques sont présents chez
-certaines espèces et chez l'Homme uniquement durant le développement du
-cerveau.
+!!! note
+    Les neurones électriques sont présents chez certaines espèces et chez l'Homme uniquement durant le développement du cerveau.
 
 On distingue les synapses :
 
-|             |             |
-|-------------|-------------|
-| Excitateurs | Inhibiteurs |
+*  Excitateurs.
+* Inhibiteurs.
 
 ### Les synapses électriques
 
-Les synapses électriques sont des canaux qui relient directement deux
-neurones. La transmission est plus rapide que celle des synapses
-chimiques et peut se faire de manière bi directionnelle. Contrairement
-aux neurones chimiques, ils offrent moins de souplesse dans la réponse
-cellulaire au signal.
+Les synapses électriques sont des canaux qui relient directement deux neurones. La transmission est plus rapide que celle des synapses chimiques et peut se faire de manière bi directionnelle. Contrairement aux neurones chimiques, ils offrent moins de souplesse dans la réponse cellulaire au signal.
 
 ### Les synapses chimiques
 
-Une synapse est formée par un bouton pré synaptique et d'un autre post
-synaptique séparés par une fente. Le signal nerveux se fait par la
-libération d'agents chimiques, les neuromédiateurs (ou
-neurotransmetteurs) d'un pré neurone vers les récepteurs d'un
-post-neurone.
+Une synapse est formée par un bouton pré synaptique et d'un autre post synaptique séparés par une fente. Le signal nerveux se fait par la libération d'agents chimiques, les neuromédiateurs (ou neurotransmetteurs) d'un pré neurone vers les récepteurs d'un post-neurone.
 
-Chez les synapses chimiques, les neurotransmetteurs peuvent conduire à
-la fois à :
+Chez les synapses chimiques, les neurotransmetteurs peuvent conduire à la fois à :
 
--   une grande variété de réponses cellulaires car la fixation sur un
-    neurorécepteur constitue le début de voies métaboliques. Elle varie
-    en fonction du neurotransmetteur utilisé, de la quantité libérée et
-    de la région où se trouve le neurone.
+* une grande variété de réponses cellulaires car la fixation sur un neurorécepteur constitue le début de voies métaboliques. Elle varie en fonction du neurotransmetteur utilisé, de la quantité libérée et de la région où se trouve le neurone.
+* À modulation précise de la réponse.
 
--   À modulation précise de la réponse.
+Une grande diversité de réponse.
+Moduler l'intensité de la voie métabolique
 
-|                                  |                                            |
-|------------------------------------|------------------------------------|
-| Une grande diversité de réponse. | Moduler l'intensité de la voie métabolique |
-
-Plasticité synaptique comme les boutons synaptiques ne sont pas soudés,
-les neurones peuvent modifier leur connexions en fonction de leur utilisation et de l'environnement. Cette propriété constitue la base de
+Plasticité synaptique comme les boutons synaptiques ne sont pas soudés, les neurones peuvent modifier leur connexions en fonction de leur utilisation et de l'environnement. Cette propriété constitue la base de
 la plasticité cérébrale.
 
 ## Libération des neurotransmetteurs
 
-1.  L'arrivée du potentiel électrique au niveau du pré synapse provoque
-    l'ouverture des canaux Ca^2+^ tension-dépendant.
-2.  Le calcium entre dans le pré neurone.
-3.  Son entrée provoque la libération des neurotransmetteurs dans la
-    fente synaptique. Les vésicules contenant les neurotransmetteurs
-    fusionnent avec la membrane plasmique et libèrent les
-    neurotransmetteurs dans la fente synaptique.
-4.  Ils se fixent sur les récepteurs du neurone postsynaptique
-    provoquant soit l'ouverture ou soit la fermeture des canaux
-    ioniques.
+1. L'arrivée du potentiel électrique au niveau du pré synapse provoque l'ouverture des canaux $Ca^{2+}$ tension-dépendant.
+2. Le calcium entre dans le pré neurone.
+3. Son entrée provoque la libération des neurotransmetteurs dans la fente synaptique. Les vésicules contenant les neurotransmetteurs
+ fusionnent avec la membrane plasmique et libèrent les neurotransmetteurs dans la fente synaptique.
+4. Ils se fixent sur les récepteurs du neurone postsynaptique provoquant soit l'ouverture ou soit la fermeture des canaux ioniques.
 
 ## Potentiel postsynaptique (PPS)
 
-L'ouverture des canaux ioniques créée un potentiel postsynaptique (PPS)
-qui modifie la probabilité que le neurone produise un potentiel
-d'action. Un PPS est dit :
+L'ouverture des canaux ioniques créée un potentiel postsynaptique (PPS) qui modifie la probabilité que le neurone produise un potentiel d'action. Un PPS est dit :
 
 * Excitateur lorsqu'il augmente la probabilité de déclencher un potentiel d'action, par exemple, par l'entrée de $Na^+$.
-* Inhibiteur lorsqu'il réduit la probabilité de déclencher un
-    potentiel d'action, par exemple, la sortie de $Cl^-$.
+* Inhibiteur lorsqu'il réduit la probabilité de déclencher un potentiel d'action, par exemple, la sortie de $Cl^-$.
 
-Potentiel de plaque motrice somme des courants générés par l'ouverture
+__Potentiel de plaque motrice__ somme des courants générés par l'ouverture
 des canaux ioniques au niveau d'un synapse.
 
 !!! warning
-    Un potentiel postsynaptique excitateur n'est pas toujours associé à une synapse excitatrice : si le PPE n'atteint pas le seuil d'émission du potentiel d'action alors il est inhibiteur. *Exemple :* Si son potentiel d'inversion de l'ion (par exemple, E~inv~=-50mV) se situe
-entre le potentiel de repos et la valeur seuil (par exemple à -40mV)
-alors si un pré synapse produit une dépolarisation supérieure au
-potentiel d'inversion (ex : -45mV), le flux ionique s'inversera.
+    Un potentiel postsynaptique excitateur n'est pas toujours associé à une synapse excitatrice : si le PPE n'atteint pas le seuil d'émission du potentiel d'action alors il est inhibiteur. *Exemple :* Si son potentiel d'inversion de l'ion (par exemple, E~inv~=-50mV) se situe entre le potentiel de repos et la valeur seuil (par exemple à -40mV) alors si un pré synapse produit une dépolarisation supérieure au potentiel d'inversion (ex : -45mV), le flux ionique s'inversera.
 
 <table>
 <colgroup>
@@ -409,21 +332,17 @@ la cellule pour dissiper le gradient.</p>
 </tbody>
 </table>
 
-Potentiel d'inversion valeur pour laquelle le flux ionique est nul. Le
-franchissement de cette valeur change le sens du flux.
+__Potentiel d'inversion__ valeur pour laquelle le flux ionique est nul. Le franchissement de cette valeur change le sens du flux.
 
-Différence de potentiel (noté ddp) différence de potentiel
-électrochimique entre le milieu intra et extracellulaire. Elle se mesure
-en Volt.
+__Différence de potentiel__ (noté ddp) différence de potentiel électrochimique entre le milieu intra et extracellulaire. Elle se mesure en Volt.
 
 ## Poids synaptique
 
 La valeur des poids synaptiques augmente en fonction de l'utilisation du
 réseau. Il dépend de :
 
--   La position du synapse sur l'arbre dendritique.
-
--   L'activation simultanée de plusieurs neurones pré synaptique.
+* La position du synapse sur l'arbre dendritique.
+* L'activation simultanée de plusieurs neurones pré synaptique.
 * La quantité de neurotransmetteurs libérée.
 * Le nombre de récepteurs activés.
 
@@ -446,11 +365,9 @@ sommation des PPS de :
 
 # Les neurotransmetteurs
 
-Dans les synapses chimiques, la transmission du message nerveux d'un neurone afférent vers un efférent a lieu par l'intermédiaire de molécules appelées neurotransmetteurs (ou neuromédiateurs). Ils sont
-libérés en réponse à un potentiel d'action.
+Dans les synapses chimiques, la transmission du message nerveux d'un neurone afférent vers un efférent a lieu par l'intermédiaire de molécules appelées neurotransmetteurs (ou neuromédiateurs). Ils sont libérés en réponse à un potentiel d'action.
 
-___Neurotransmetteur__ (ou neuromédiateur) molécule chimique synthétisée et
-stockée par les neurones qui sert à transmettre le message nerveux aux
+___Neurotransmetteur__ (ou neuromédiateur) molécule chimique synthétisée et stockée par les neurones qui sert à transmettre le message nerveux aux
 autres neurones.
 
 !!! note
@@ -511,7 +428,7 @@ Les neurotransmetteurs vont se fixer sur des récepteurs qui provoquent l'ouvert
 | Mécanisme d'ouverture des canaux ioniques | Direct       | Par voie de transduction |
 | Vitesse                                   | Rapide       | Lent                     |
 
-# Cellules gliales
+## Cellules gliales
 
 Les types de cellules gliales et leur système nerveux associé :
 
@@ -554,8 +471,7 @@ Les astrocytes peuvent être liées par les pieds astrocytaires :
 * Aux vaisseaux sanguins.
 * A d'autres astrocytes.
 
-Les astrocytes forment la barrière encéphalorachidienne. Elle régule le passage des molécules vers les neurones. Les pieds astrocytaires entourent le capillaire sanguin. À la fois les neurones et les astrocytes peuvent modifier la perméabilité et la contrition des
-vaisseaux sanguins.
+Les astrocytes forment la barrière encéphalorachidienne. Elle régule le passage des molécules vers les neurones. Les pieds astrocytaires entourent le capillaire sanguin. À la fois les neurones et les astrocytes peuvent modifier la perméabilité et la contrition des vaisseaux sanguins.
 
 !!! note
     Les interactions sont bidirectionnelles entre les neurones et les astrocytes.
@@ -588,9 +504,9 @@ On parle de neurogène :
 
 -   Phase embryonnaire et chez l'enfant qui correspond à la période
     d'activité maximale de neurogène chez l'être humain.
--   Chez l'adulte
+* Chez l'adulte
 
--   Réparatrice qui a lieu suite un traumatisme important. Il existe des
+* Réparatrice qui a lieu suite un traumatisme important. Il existe des
     mécanismes de régénération neuronale mais qui sont souvent
     incomplet.
 
@@ -600,9 +516,8 @@ On parle de neurogène :
 
 Elle comprend les phases :
 
-1.  La différenciation d\'une cellule souche ou pluripotente en neuroblaste (cellule progénitrice des neurones).
-2.  La migration du corps cellulaire vers la zone d'accueil
-    prédéterminée (ex : couche cellulaire du cortex).
+1. La différenciation d\'une cellule souche ou pluripotente en neuroblaste (cellule progénitrice des neurones).
+2. La migration du corps cellulaire vers la zone d'accueil prédéterminée (ex : couche cellulaire du cortex).
 3.  Le prolongement de l\'axone vers sa structure cible.
 4.  La formation des dendrites et la synaptogenèse.
 5.  Maturation par renforcement des synapses « utiles » et élimination des neurones non utilisés (élagage).
