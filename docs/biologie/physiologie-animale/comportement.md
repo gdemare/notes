@@ -23,8 +23,7 @@ Les comportements variables peuvent présenter un degré :
 
 ### Les comportements périodiques
 
-De nombreux comportements sont liés à des rythmes biologiques (horloge
-circadienne, circannuelle).
+De nombreux comportements sont liés à des rythmes biologiques (horloge circadienne, circannuelle).
 
 !!! example
     Les comportements liés à la reproduction chez le crabe violoniste se sont synchronisés au calendrier lunaire car les marées qui emportent ses œufs au large à l'abris des prédateurs sont influencés par la position de la lune.
@@ -49,7 +48,7 @@ L'environnement est déterminant dans le mode de communication utilisé. Par exe
 
 __Apprentissage__ modification du comportement à la suite d'expériences particulières.
 
-__Imprégnation__ comportement inné et appris qui a lieu pendant une période critique de la vie de l'individu. *Exemple : lorsque les parent et les enfants apprennent à se reconnaître.
+__Imprégnation__ comportement inné et appris qui a lieu pendant une période critique de la vie de l'individu. Exemple : lorsque les parent et les enfants apprennent à se reconnaître.
 
 __Apprentissage associatif__ association de deux stimuli.
 
@@ -57,11 +56,11 @@ Tous les animaux ne sont pas capables d'associer un sens avec un autre. Par exem
 
 L'association entre les sens est le reflet de relations susceptibles de se produire dans la nature.
 
-Synesthésie phénomène neurologique qui correspond à l'association de plusieurs sens.
+__Synesthésie__ phénomène neurologique qui correspond à l'association de plusieurs sens.
 
-Cognition capacité à acquérir de la connaissance par la perception le raisonnement la mémoire et le jugement
+__Cognition__ capacité à acquérir de la connaissance par la perception, le raisonnement, la mémoire et le jugement
 
-Période critique période durant laquelle l'acquisition d'un comportement.
+__Période critique__ période durant laquelle l'acquisition d'un comportement.
 
 ## Comportement figé ou évolutif
 
@@ -77,8 +76,7 @@ La plupart des comportements concernent directement soit :
 
 ### L'alimentation
 
-Les comportements liés à la quête de nourriture sont issus d'un
-compromis visant à minimiser :
+Les comportements liés à la quête de nourriture sont issus d'un compromis visant à minimiser :
 
 * Le rapport temps/énergie, effort/énergie.
 * Les risques liées prédation.
@@ -87,8 +85,7 @@ Ils sont susceptibles d'évoluer durant la vie de l'individu en fonction de l'ex
 
 ### La reproduction
 
-Les comportements sexuels sont notamment liés à la promiscuité entre les
-individus. On distingue deux modes de
+Les comportements sexuels sont notamment liés à la promiscuité entre les individus. On distingue deux modes de
 
 * Monogame
 * Polygame
@@ -103,8 +100,7 @@ La polygamie est plus répandue chez les espèces :
 
 ### La certitude de paternité
 
-Il existe un lien entre le comportement parental et la certitude de paternité. Chez les espèces où la certitude de paternité sont plus forts
-plus souvent de soins apportés par le mâle.
+Il existe un lien entre le comportement parental et la certitude de paternité. Chez les espèces où la certitude de paternité sont plus forts plus souvent de soins apportés par le mâle.
 
 * 7% fécondation interne.
 * 69% fécondation externe.

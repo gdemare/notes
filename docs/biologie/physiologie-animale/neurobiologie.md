@@ -313,24 +313,15 @@ des canaux ioniques au niveau d'un synapse.
 !!! warning
     Un potentiel postsynaptique excitateur n'est pas toujours associé à une synapse excitatrice : si le PPE n'atteint pas le seuil d'émission du potentiel d'action alors il est inhibiteur. *Exemple :* Si son potentiel d'inversion de l'ion (par exemple, E~inv~=-50mV) se situe entre le potentiel de repos et la valeur seuil (par exemple à -40mV) alors si un pré synapse produit une dépolarisation supérieure au potentiel d'inversion (ex : -45mV), le flux ionique s'inversera.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Potentiel électrique du chlore : <span
-class="math inline"><em>E</em><sub><em>C</em><em>l</em></sub> =  − 50<em>m</em><em>V</em></span></p>
-<p>Potentiel membranaire : <span
-class="math inline"><em>v</em><sub><em>m</em></sub> =  − 60 <em>m</em><em>V</em></span></p>
-<p>Le gradient vaut : <span
-class="math inline">Δ<em>E</em> = <em>v</em><sub><em>m</em></sub> − <em>E</em><sub><em>c</em><em>l</em></sub> =  − 10 </span>
-Ors Cl<sup>-</sup> est chargé négativement donc 10&gt;0, Cl va sortir de
-la cellule pour dissiper le gradient.</p>
-<p><u>Rappel :</u> le gradient est la différence de potentiel.</p></td>
-</tr>
-</tbody>
-</table>
+* Potentiel électrique du chlore $E_{Cl}= − 50 mV$
+* Potentiel membranaire $v_m =  −60 mV$
+
+Le gradient vaut : $\Delta E = v_m − E_c =  − 10 mV$
+
+Ors $Cl^-$ est chargé négativement donc $10 \gt 0$, Cl va sortir de la cellule pour dissiper le gradient.
+
+!!! note
+    Le gradient est la différence de potentiel.
 
 __Potentiel d'inversion__ valeur pour laquelle le flux ionique est nul. Le franchissement de cette valeur change le sens du flux.
 

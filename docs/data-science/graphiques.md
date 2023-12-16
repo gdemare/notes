@@ -19,7 +19,7 @@ continu  | histogramme, courbe, densité cumulée, box plot   |
 Les valeurs d'un boxplot sont :
 
 * la médiane, Q1, Q3.
-* La valeur minimum ou les valeurs extrêmes avec un trait à $1,5 \time (Q_{3} - Q_{1}) si le minimum est inférieur (même chose pour le max).$
+* La valeur minimum ou les valeurs extrêmes avec un trait à $1,5 \times (Q_3 - Q_1)$ si le minimum est inférieur (même chose pour le max).
 
 ## Croisement entre deux variables
 
@@ -32,6 +32,7 @@ continue            | box plot          | boxplot   |                       | nu
 
 #### Deux quantitatives
 
-* histrogramme empilé
-* histogramme
-* deux variantes effectifs ou fréquences normalisées.
+* Histrogramme empilé
+* Histogramme.
+
+Avec deux variantes effectifs ou fréquences normalisées..

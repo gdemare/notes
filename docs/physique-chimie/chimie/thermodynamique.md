@@ -13,13 +13,13 @@ __Capacité thermique__ variable intensive qui quantifie la quantité de chaleur
 
 __État standard__ pression atmosphérique (1 atm) et température 298K (utilisé par défaut).
 
-Rappel : Pour les gaz parfaits, on a : $pV = nRT$
+Rappel : Pour les gaz parfaits, on a : $p \cdot V = n \cdot R \cdot T$
 
 Avec :
 
-* $V$ volume en $m^{3}$.
+* $V$ volume en $m^3$.
 * $n$ quantité de matière en mole.
-* $T$ température en Kelvin (0K = -273,15°C).
+* $T$ température en Kelvin ($0K = -273,15°C$).
 * $R = 8.314J \cdot K^{-1} \cdot mol^{-1}$ constante des gaz parfaits.
 
 La masse molaire des principaux atomes est :
@@ -41,15 +41,15 @@ Il n'est pas possible de déterminer l'énergie d'un système. En revanche, il e
 
 L'énergie d'un système peut être échangée sous deux formes :
 
-* Énergie thermique = Chaleur (Q)
-* Énergie mécanique = Travail (W)
+* Énergie thermique = Chaleur ($Q$).
+* Énergie mécanique = Travail ($W$).
 
-On définit cette différent d'énergie : $\mathrm{\Delta}U = \mathbf{\mathrm{\Delta}}Q + \mathbf{\mathrm{\Delta}}W$
+On définit cette différent d'énergie : $$\Delta U = \Delta Q + \Delta W$$
 
 !!! note
     L'unité de l'énergie est le Joule (J).
 
-Dans le cas d'une réaction cyclique, on a $\sum_{}^{}{\mathrm{\Delta}U} = 0$.
+Dans le cas d'une réaction cyclique, on a $\sum{\Delta U} = 0$.
 
 ## La nature des transformations possibles
 
@@ -62,7 +62,7 @@ Isobare                 | Pression constante           | $P = cste$
 
 ## Le travail (uniquement pour les gaz)
 
-La notion de travail s'applique uniquement aux gaz car ils sont les seuls à subir une variation importante de volume : $\mathbf{\mathrm{\Delta}W = - PdV}$ avec P pression (Pa).
+La notion de travail s'applique uniquement aux gaz car ils sont les seuls à subir une variation importante de volume : $\Delta W = - P \cdot dV$ avec $P$ pression (Pa).
 
 !!! example 
     Pour une réaction isobare, on aura $\Delta W = - P \cdot dV = - P \times \frac{nRT}{P} = - n \cdot R \cdot T$
@@ -76,7 +76,7 @@ La chaleur est une énergie. C'est une notion différente de la température.
 
 
 !!! info 
-    Point méthode : Pour chaque réaction, il faut d'abord noter sa nature (isotherme...)
+    Point méthode : Pour chaque réaction, il faut d'abord noter sa nature (isotherme...).
 
 La chaleur se calcule en utilisant une des formules suivantes :
 

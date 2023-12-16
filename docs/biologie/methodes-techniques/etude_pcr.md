@@ -26,7 +26,7 @@ Les résultats de la PCR sont vérifiés par migration sur gel (électrophorèse
 
 Lors du choix des amorces, il est important de vérifier :
 
-* Le repliement de l\'ADN générer entre les deux amorces.
+* Le repliement de l'ADN générer entre les deux amorces.
 * La spécificité avec la séquence. Attention aux amorces qui ont des séquences complémentaires opposés et proches dans des chromosomes.
 
 * Si c'est de l'ADN codant prendre une amorce qui chevauche deux exons pour éviter l'hybridation avec l'ADN génomique.
@@ -40,7 +40,7 @@ La PCR est démarrée à chaud « hot start » permet d'éviter les intéracti
 
 Les paramètres expérimentaux sur lesquels on peut jouer pour optimiser la PCR sont :
 
-* La quantité de $Mg^{2+}$
+* La quantité de $Mg^{2+}$.
 * La température d'hybridation.
 
 ## PCR analyse jusqu'à l'épuisement du dNTP
@@ -114,7 +114,7 @@ La valeur seuil (ou en anglais) doit être déterminer dans la phase exponentiel
 
 ## Efficacité de la PCR
 
-En théorie, à chaque cycle, on devrait avoir $N = N_{0} \times 2^{c}$ copie.
+En théorie, à chaque cycle, on devrait avoir $N = N_0 \cdot 2^c$ copie.
 
 En pratique, à chaque cycle, le nombre de copie est de $E = eff + 1$ avec $E$ l'efficacité.
 
@@ -123,11 +123,11 @@ En pratique, à chaque cycle, le nombre de copie est de $E = eff + 1$ avec $E$ l
 
 En passant par log, on démontre que :
 
-$$C_{t} = \frac{- 1}{\log(E)} \times \log\left( N_{0} \right) + \frac{log(N_{seuil})}{log(E)}$$
+$$C_t = \frac{- 1}{\log E } \cdot \log N_0 + \frac{ \log N_{seuil}}{\log E}$$
 
 Avec :
 
-* $C_{t}$ le nombre de cycles au seuil.
+* $C_t$ le nombre de cycles au seuil.
 * $N_{seuil}$ le nombre de séquence au seuil.
 
 $$E = 10^{\frac{- 1}{pente}} - 1$$
@@ -167,7 +167,7 @@ Le gène d'intérêt et le gène endogène sont présents dans les mêmes échan
 * Validation de l'expérience comme contrôle positif.
 * Possibilité d'utiliser les résultats pour une courbe standard relative.
 
-$$R = \frac{{(N_{0\ intérêt} \times N_{0\ référence})}_{intérêt}}{{(N_{0\ intérêt} \times N_{0\ référence})}_{controle}}$$
+$$R = \frac{{(N_{0\ intérêt} \cdot N_{0\ référence})}_{intérêt}}{{(N_{0\ intérêt} \cdot N_{0\ référence})}_{controle}}$$
 
 ## Sans calibreur
 
@@ -175,16 +175,16 @@ $$R = \frac{{(N_{0\ intérêt} \times N_{0\ référence})}_{intérêt}}{{(N_{0\ 
 
 Courbes standards avec des d'efficacité différentes mais constante entre le gène cible et de référence.
 
-Indépendamment, on construit une gamme qui possède les deux gènes pour obtenir le graphique $C_{t} = f(\log\left( N_{0} \right))$
+Indépendamment, on construit une gamme qui possède les deux gènes pour obtenir le graphique $C_t = f(\log N_0)$
 
-On reporte le Ct de chaque valeur de fluorescence de caque gène pour déterminer la quantité de gènes à N0.
+On reporte le $C_t$ de chaque valeur de fluorescence de caque gène pour déterminer la quantité de gènes à $N0$.
 
 |                       | Gène d'intérêt                      | Gène de référence |
 |------------------------|------------------------|------------------------|
-| Echantillon intérêt   | $\log(No)$                             |                   |
+| Echantillon intérêt   | $\log No$                             |                   |
 | Echantillon référence |                                     |                   |
 | Calcul du ratio       |                                     |                   |
-| Ratio de quantité     | $Log(No)/ Log(No) / Log(No)/ Log(No)$ |                   |
+| Ratio de quantité     | $\log No / \log No / \log No \ \log No$ |                   |
 
 Hypothèse :
 
@@ -210,7 +210,7 @@ Le gène calibreur n'a pas de différence d'expression (expression constante) en
 
 Deux méthodes :
 
-* Sans correction d'efficacité appelé ${\mathrm{\Delta}\mathrm{\Delta}C}_{t}$ rapide et pas de gamme) juste deux échantillons.
+* Sans correction d'efficacité appelé $\Delta \Delta C_t$ rapide et pas de gamme) juste deux échantillons.
 * Avec correction d'efficacité càd lorsqu'elle n'est pas constante ou égale à 2.
 
 Il faut deux échantillons :
@@ -220,23 +220,24 @@ Il faut deux échantillons :
 
 ### Sans correction d'efficacité
 
-$${\mathrm{\Delta}\mathrm{\Delta}C}_{t} = \frac{C_{t1\ int} - C_{t1\ réf}}{C_{t2\ cal} - C_{t2\ réf}}$$
+$$\Delta \Delta C_t = \frac{C_{t1\ int} - C_{t1\ réf}}{C_{t2\ cal} - C_{t2\ réf}}$$
 
 Le ratio d'expression est égal à
-$R = 2^{- {\mathrm{\Delta}\mathrm{\Delta}C}_{t}}$.
+$R = 2^{- \Delta \Delta C_t}$.
 
 Cette méthode fonction uniquement si l'efficacité est :
 
 * La même entre les deux échantillons.
 * Constante et comprise entre 95% et 100%.
-* La différence entre les droites ne dépasse pas $\mathrm{\Delta}C_{t} < 0,1$.
+* La différence entre les droites ne dépasse pas $\Delta C_t \lt 0,1$.
 
 ### Avec correction d'efficacité
 
 Cette méthode nécessite de connaitre les efficacités.
 
-Pour chaque gène, $N_{seuil} = N_{0\ } \times E^{C_{t}}$ puis on pose $\frac{N_{0\ intérêt}}{N_{0\ réf}}$.*\
-*$$R = \frac{E_{gène\ intérêt}^{{\mathrm{\Delta}C}_{t}(contrôle - échantillon)}}{E_{géne\ référence}^{{\mathrm{\Delta}C}_{t}(contrôle - échantillon)}}$$
+Pour chaque gène, $N_{seuil} = N_0 \cdot E^{C_t}$ puis on pose $\frac{N_{0\ intérêt}}{N_{0\ réf}}$.
+
+$$R = \frac{E_{gène\ intérêt}^{\Delta C_t (contrôle - échantillon)}}{E_{géne\ référence}^{\Delta C_t (contrôle - échantillon)}}$$
 
 ## Validation des échantillons
 
@@ -249,30 +250,27 @@ Pour valider la PCR, il faut vérifier :
 
 La dispersion des réplicas :
 
-$Cv = \ \frac{Ecart\ type}{Moyenne}$ \< 1%
+$C_v = \frac{Ecart\ type}{Moyenne} \lt 1$
 
 La division par la moyenne permet de compenser la différence exponentielle entre les échantillons dû à l'augmentation exponentielle des différentes quantités d'ADN.
 
 Différence de quantité d'ADN observé et théorique :
- $RE = |\ \frac{observé - théorique}{théorique}| < 25,4$
+ $RE = \vert \frac{observé - théorique}{théorique} \vert \lt 25,4$
 
-Précision (precision) dispersion des mesures.
+__Précision__ (precision) dispersion des mesures.
 
-Justesse (accuracy) mesure l'éloignement entre la prédiction et la
-mesure.
+__Justesse__ (accuracy) mesure l'éloignement entre la prédiction et la mesure.
 
 ## ddPCR
 
-Une PCR est réalisée dans des gouttelettes de 1nL. La quantité de
-fragments dans chaque gouttelette suit la loi de Poisson. Ce qui permet
-d'estimer la quantité de départ :
+Une PCR est réalisée dans des gouttelettes de 1nL. La quantité de fragments dans chaque gouttelette suit la loi de Poisson. Ce qui permet d'estimer la quantité de départ :
 
-$$T = \frac{- D \times 1000}{V_{d}}ln(1 - \frac{P}{R})$$
+$$T = \frac{-1000 \cdot D}{V_d} \cdot \ln(1 - \frac{P}{R})$$
 
 Avec :
 
 * $T$ concentration absolue copies par nL.
 * $D$ facteur de dilution.
-* $V_{d}$ volume moyen des gouttelettes
-* P nombre de gouttelettes positives.
-* P nombre de gouttelettes total.
+* $V_d$ volume moyen des gouttelettes
+* $P$ nombre de gouttelettes positives.
+* $P$ nombre de gouttelettes total.

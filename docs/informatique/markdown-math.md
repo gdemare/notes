@@ -13,36 +13,52 @@
 
 Markdown    | Fonction      | Lettre
 ------------|---------------|-------
-`\phi  `    | $\phi$        | phi
-`\Psi`      | $\Psi$        | Psi (MAJ)
+`\partial`  | $\partial$    | d rond
+`\delta`    | $\delta$      | delta
+`\Delta`    | $\Delta$      | Delta
+`\nabla`    | $\nabla$      | nabla
+`\mu    `   | $\mu$         | mu
+`\nu    `   | $\nu$         | nu
+`\phi`      | $\phi$        | Phi
+`\pi`       | $\pi$          | Pi
 `\psi`      | $\psi$        | Psi (min)
-`\phi`      | $\theta$      | theta
+`\Psi`      | $\Psi$        | Psi (MAJ)
 `\omega`    | $\omega$      | omega
+`\Omega`    | $\Omega$      | Omega
 `\rho`      | $\rho$        | rho
 `\sigma`    | $\sigma$      | sigma
-`\partial`  | $\partial$    | d rond
-`\nabla`    | $\nabla$      | nabla
+`\Sigma`    | $\Sigma$      | sigma
+`\phi`      | $\theta$      | theta
+`\Theta`    | $\Theta$      | Theta
  
-\to \infty
+
+
+## Symbole
+
+Markdown    | Fonction      | Lettre
+------------|---------------|-------
+`\circ`     | $\circ$       | Cercle
+`\infty`    | $\infty$      | infini
 
 ## Les fonctions
 
 Markdown | Fonction | Définition
 ---------|----------|---------------
-`\sin`   | $\sin$   | sinus
 `\cos`   | $\cos$   | cosinus
+`\det`   | $\det$	| déterminant
+`\log`   | $\log$   | logarithme
+`\sin`   | $\sin$   | sinus
 `\tan`   | $\tan$   | tangente
-`\log{}` | $\log$ | logarithme
 
 ## Comparaison
 
 Markdown  | Symbole   | Définition 
 ----------|-----------|-----------
 `\gt`     | $\gt$     | supérieur à
-`\ge`    | $\ge$     | supérieur ou égale à
-`\gg`    | $\gg$     | strictement supérieur
+`\ge`     | $\ge$     | supérieur ou égale à
+`\gg`     | $\gg$     | strictement supérieur
 `\lt`     | $\lt$     | inférieur à 
-`\le`    | $\le$     | inférieur ou égale à 
+`\le`     | $\le$     | inférieur ou égale à 
 `\ll`     | $\ll$     | strictement inférieur
 `=`       | $=$       | égale
 `\neq`    | $\neq$    | inégale
@@ -54,14 +70,13 @@ Markdown			| Opérateur			| Définition
 --------------------|-------------------|-------
 `\cdot`       		| $\cdot$			| fois (avec le point)
 `\times` 			| $\times$			| multiplié
-`\frac{}{}`         | $\frac{a}{b}$       | fraction
+`\frac{a}{b}`       | $\frac{a}{b}$       | fraction
 `^{val}`            | $^{val}$	        | puissance
 `\sqrt{}`           | $\sqrt{}$         | racine carré
 `\sqrt[n]{x}`       | $\sqrt[n]{x}$     | racine n 
 `\vert{x}\vert`     | $\vert{x}\vert$   | valeur absolue
-`\left\Vert x \right\Vert` | $\left\Vert x \right\Vert$ | norme
+`\Vert x \Vert`     | $\Vert{x}\Vert$ | norme
 `\pm`               | $\pm$             | plus et moins
-`\det` 			    | $\det$			| déterminant
 
 
 Markdown			| Opérateur			| Définition
@@ -88,6 +103,7 @@ Markdown			| Opérateur			| Définition
 
 Markdown			| Opérateur			| Définition
 --------------------|-------------------|-------
+`\to`    	        | $\to$             | Fléche
 `\Leftrightarrow` 	| $\Leftrightarrow$ | équivalent
 `\Rightarrow` 		| $\Rightarrow$		| implique 
 `\rightleftharpoons`    | $\rightleftharpoons$ | réaction chimique

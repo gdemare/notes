@@ -44,24 +44,13 @@ Il existe deux types de cellules :
 
 ## Chronologie de la vie
 
-![](media/image2.jpeg){width="5.091666666666667in"
-height="1.2812368766404199in"}
-
-Hypothèse : Pour se protéger, certaines cellules se sont regroupées et
-ont développé des mécanismes de coopération qui ont favorisé leur
-survie. Avec le temps, elles sont devenues dépendantes les unes des
-autres. Ce fût le début des premiers organismes multicellulaires.
+Hypothèse : Pour se protéger, certaines cellules se sont regroupées et ont développé des mécanismes de coopération qui ont favorisé leur survie. Avec le temps, elles sont devenues dépendantes les unes des autres. Ce fût le début des premiers organismes multicellulaires.
 
 ## La compartimentation de la cellule eucaryote
 
-L'apparition de compartiments a été cruciale dans l'évolution des
-cellules eucaryotes. Elle a permis à des réactions chimiques
-incompatibles de se réaliser simultanément. Au cours du temps, les
-compartiments que l'on appelle organites se sont spécialisés dans une ou
-plusieurs fonctions comme le noyau, le système endomembranaire, les
-mitochondries ou les lysosomes.
+L'apparition de compartiments a été cruciale dans l'évolution des cellules eucaryotes. Elle a permis à des réactions chimiques incompatibles de se réaliser simultanément. Au cours du temps, les compartiments que l'on appelle organites se sont spécialisés dans une ou plusieurs fonctions comme le noyau, le système endomembranaire, les mitochondries ou les lysosomes.
 
-# La membrane plasmique
+## La membrane plasmique
 
 Elle forme une bicouche qui sépare deux espaces aqueux :
 
@@ -80,29 +69,26 @@ La membrane plasmique est constituée de trois types de molécules.
 | Protéines  | Parsème les lipides et donne la spécificité à la membrane |
 | Glycocalix | Uniquement sur le feuillet externe                        |
 
-Il y a environ une protéine pour 50 lipides. La masse protéine = masse
-lipide = 50%.
+Il y a environ une protéine pour 50 lipides. La masse protéine = masse lipide = 50%.
 
-Cytoplasme intérieur de la membrane plasmique.
+__Cytoplasme__ intérieur de la membrane plasmique.
 
-Vésicule bicouche lipidique enfermant une cavité aqueuse.
+__Vésicule__ bicouche lipidique enfermant une cavité aqueuse.
 
-Liposome vésicule artificielle.
+__Liposome__ vésicule artificielle.
 
-Les détergents sont aussi des lipides forment qui forment dans l'eau une
-seul couche lipidique appelée micelle.
+!!! note
+    Les détergents sont aussi des lipides forment qui forment dans l'eau une seule couche lipidique appelée micelle.
 
 ### Les lipides
 
-Les lipides sont des molécules amphipatiques ou amphiphiles c'est-à-dire
-qu'elles sont composées de deux régions :
+Les lipides sont des molécules amphipatiques ou amphiphiles c'est-à-dire qu'elles sont composées de deux régions :
 
 | Hydrophile                     | Hydrophobe        |
 |--------------------------------|-------------------|
 | Phosphate et un groupe de tête | Chaines carbonées |
 
-Amphiphile molécule qui possède d'une région hydrophobe et un autre
-hydrophile.
+Amphiphile molécule qui possède d'une région hydrophobe et un autre hydrophile.
 
 Ils sont composés de :
 
@@ -110,20 +96,11 @@ Ils sont composés de :
 |-----------------------------------|-------------------------------------|
 | ![](media/image3.jpeg){width="2.278261154855643in" height="0.6016469816272966in"} | La différence entre les lipides réside dans le grp de tête |
 
-Dans l'eau sous l'action de l'entropie, les lipides se regroupent et
-forment une bicouche de lipides. Ils sont menus ensemble grâce aux
-forces de van der val.
+Dans l'eau sous l'action de l'entropie, les lipides se regroupent et forment une bicouche de lipides. Ils sont menus ensemble grâce aux forces de van der val.
 
-![](media/image4.jpeg){width="1.7391294838145233in"
-height="1.0047769028871392in"}
-![](media/image5.jpeg){width="1.2869564741907262in"
-height="1.0058191163604548in"}
+Les lipides ont un mouvement de rotation longitudinale rapide autour de leur axe.
 
-Les lipides ont un mouvement de rotation longitudinale rapide autour de
-leur axe.
-
-Il existe plusieurs types de lipides qui composent une membrane
-asymétrique :
+Il existe plusieurs types de lipides qui composent une membrane asymétrique :
 
 <table>
 <colgroup>
@@ -157,8 +134,7 @@ asymétrique :
 </tbody>
 </table>
 
-Les phosphoglycérolipides sont les lipides les plus abondants. Ils
-représentent en 50% des constituants des membranes plasmiques.
+Les phosphoglycérolipides sont les lipides les plus abondants. Ils représentent en 50% des constituants des membranes plasmiques.
 
 ### Glycocalyx (les glucides)
 
@@ -240,8 +216,8 @@ Comme le cytoplasme est chargé négativement par rapport au milieu extracellula
 
 Certaines protéines transmembranaires facilitent leur passage ces échanges. Cela concerne une partie des ions et des molécules polaires notamment comme l'eau. Elles sont classées en deux types :
 
-* Canaux
-* Perméases
+* Canaux.
+* Perméases.
 
 ### Le transport actif
 
