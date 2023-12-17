@@ -14,7 +14,6 @@ __Région__ partie d'une séquence qui
 
 __Signature__ séquence commune à une famille de protéines ou de gènes.
 
-
 ## Base de données
 
 Principales bases de données :
@@ -33,18 +32,19 @@ Structres des acides nucléiques et des protéines :
 
 L'objectif est de reconstituer une séquence à partir de morceaux car la majorité des techniques de séquençage fonctionne par la découpe de polymères et leur analyse en petits fragments. Les principales difficultés sont :
 
-1. Les erreurs de lecture que ne permettent pas trouver un alignement exact.
-2. La répétition de certaines séquences répétées qui peuvent être alignées à plusieurs endroits.
-3. Recall above that we need to align $N=900,000,000$ reads to a length 3B genome. Therefore the naive process of scanning the entire genome for each read's match is too slow.
+* Les erreurs de lecture que ne permettent pas trouver un alignement exact.
+* La répétition de certaines séquences répétées qui peuvent être alignées à plusieurs endroits.
+* Dans le cas d'un grand nombre de séquences, l'alignement est trop lent.
 
-$C = \frac{NL}{G}$
+$C = \frac{N \cdot L}{G}$
 
-* $G$ taille totale
+* $N$ nombre de fragments.
+* $G$ taille totale.
 * $L$ taille des fragments
 
 Les paramètres important dans le séquençage sont :
 
-* Read lengths, taille des fragments. 
+* La taille des fragments. 
 * Le taux et le type d'erreurs.
 
 ## Aligner des séquences
@@ -93,6 +93,12 @@ Plusieurs indicateurs permettent de caractériser un alignement :
 !!! note 
     Généralement, le poids des gaps successifs est décroissants. Autrement dit, les séquences avec de nombreux gap sont plus pénalisés que celle avec de grands gaps.
 
+#### Calcul de p-valeur de score
+
+Pour le calcul de p-valeur de score, il est préférable d'utiliser la loi de Gumbel à la normale. Cette première est possède une disymétrie à droite. Elle considére qu'il est plus probable que des valeurs extrêmes se situent dans le maximum. 
+
+La formule de la fonction de densité de Gumbel est $F(x) = e^{-e(-x)}$.
+
 ### Choix de l'alignement
 
 1. On construit un tableau et compte le nombre d'identités, de substitution et de délétion.
@@ -104,42 +110,131 @@ Plusieurs indicateurs permettent de caractériser un alignement :
 
 * Dotplot en utilisant une matrice avec un point quand les bases sont identiques et on les relie en diagonale.
 * Algorithme "exact" alignement global minimum
-* Algorithme “exact” : Programmation dynamique
+* Algorithme "exact" : Programmation dynamique
 
 ### BLAST : Basic Local Alignment Search Tool
 
 algorithme permet de trouver des séquences :
 
 * BLOSUM BLOcks SUbstitution Matrix
-* PAM Point Accepted Mutations point de vue évolutif avec l'hypothéque des mutation se sont produites
+* PAM Point Accepted Mutations point de vue évolutif avec l'hypothétique des mutation se sont produites
 
 !!! note
     PAM70 le chiffre correspond % identité entre deux bloques (sous séquence).
 
 Plusieurs paramètres :
 
-* E-threshold (expectation) probabilité  le nbre de correspondances attendu dans une base aléatoire. Augmenter le E pour détecter de faible similarité ou des régions courtes  0.1 and 10 sont douteuse et supérieur à 10. Probabilité de trouver une similarité au hasard. 1 correspond à 1/100.
-* Gapped permet les interstice entre deux parties.
-* Hits nbre maximum de retours.
-* word size 3 nbre minimum d'unité identitique exact entre les deux séquences.
+* `E-threshold (expectation)` probabilité  le nbre de correspondances attendu dans une base aléatoire. Augmenter le E pour détecter de faible similarité ou des régions courtes  0.1 and 10 sont douteuse et supérieur à 10. Probabilité de trouver une similarité au hasard. 1 correspond à 1/100.
+* `Gapped` permet les interstice entre deux parties.
+* `Hits` nbre maximum de retours.
+* `word size 3` nbre minimum d'unité identitique exact entre les deux séquences.
  
 !!! note
     diminuer le nombre de word size permet de détexcter des séquences homologues mais aussi la fragmeentaiton. augmenter trouver des régions communes.
  
+
+## Aligné et étudier plusieurs séquences 
+
+### Profil ou matrice consensus
+
+Matrice des positions qui contient la fréquence possible pour dans les divers possibilités.
+
+Utilités :
+
+* Constuire des matrices scores (type PAM ou BLOSUM).
+* Construire des matrices profils qui servent à la détection :
+
+    * D'homologues plus lointain.
+    * De motifs.
+    * Prédiction de structures.
+
+* Détecter les séquences conservés (ayant par exemple un rôle ou une strucutre importante).
+* Construire des arbres phylogénétiques.
+
+### Matrice des distances
+
+### Nbre de différences
+
+Les séquences sont comparées deux à deux pour construire la matrice des différences : $\frac{nb\ substitution}{taille\ séquence}$
+
+!!! note
+    Pour faciliter la lecture, on multiplie généralement les distances pas $10^3$.
+
+### Distance génétique 
+
+Distance génétique entre deux séquences $X$ et $Y$ est $d(X, Y) = 2 \cdot u \cdot t$ avec :
+
+* $u$ le taux de substitution.
+* $t$ le temps de divergence.
+
+!!! note
+    La distance génétique ne refète pas exactement la distance évolutive entre deux séquences car il peut y avoir un retour sur certains changements d'où l'existence de modèle évolutif.
+
+#### Modéle évolutif moléculaire
+
+Les modèles évolutifs 
+
+* Processus stochastique.
+* avec taux de substitutions constant.
+
+##### Processus stochastique
+
+$\begin{bmatrix} x_1 \\ ... \\ x_i \end{bmatrix}_t = M \cdot \begin{bmatrix} x_1 \\ ... \\ x_i \end{bmatrix}_{t+1}$  
+
+avec :
+
+* $i$ le nombre d'unité (bases, acides aminées).
+* $x_i$ le nombre d'occurence.
+* $t$ le temps ($t$ l'anacien été et $t+1$ le nouveau).
+
+!!! note
+    La proportion dans chaque unité tend vers un état stationnaire.
+
+##### 
+
+Hypothèse : le taux de substitution $\alpha$ est constant au cours du temps.
+
+La matrice de transition est $\begin{bmatrix} 1-3 \cdot \alpha &  \alpha & \alpha \\ \alpha & 1-3 \cdot \alpha & \alpha \\ \alpha & \alpha & 1-3 \cdot \alpha \end{bmatrix}$
+
 ## Phylogénie ou proximité entre des séquences
 
 Pour des séquences qui sont homolgues ou la proximité entre des séquences, il est possible d'utiliser plusieurs algorithme pour : 
 
-* 
-*
+* Méthode des groupes de paires non pondérées avec moyenne arithmétique.
+* Neighbor­Joining.
+
+Le principe de 
+
+1. Calcul de la matrice des distances.
+2. on choisit la plus petite.
 
 ### Méthode des groupes de paires non pondérées avec moyenne arithmétique (UPGMA)
 
-###
+La moyenne des distances la plus petite en prenant en compte le nombre d'individus dans le groupe.
 
+!!! warning
+    Le noeud se situe à la moitié de la distance calculée.
 
+### Méthode du Neighbor ­Joining 
 
+1. Pour chaque séquence, calculer les distances transformées $d_{i,j} - \frac{R_i + R_j}{N - 2}$ avec:
 
+    * $R$ est le nombre du substitutions de la séquences pour la séquence i ou j avec toutes les séquences.
+    * $N$ nombre total de séquences.
+et sélectionner la distance minimimum. 
+
+!!! note
+    La distance transformée est uniquement utilisée pour trouver le minimum.
+
+2. Calculer la distance entre le noeud et chaque séquence. Par exemple entre le noeud noté $u$ et $i$ : $d_{i, u} = \frac{d_{i,j}}{2} + \frac{R_i - R_j}{2 \cdot (N-2)}$.
+
+!!! note
+    La distance $d_{i,j} = d_{i,u} + d_{u,j}$
+
+4. Calculer la nouvelle matrice de distance. La distance du noeud avec les autres points devient $d_{u,k} = \frac{d_{k,i} + d_{k,j} - d_{i,j}}{2}$
+
+!!! note
+    Il est possible d'enraciner l'arbre.
 
 ## Motif
 
@@ -148,7 +243,7 @@ Pour savoir si un motif détecter dans une séquence n'est pas dû au hasard, on
 * Séquence aléatoire.
 * Modèle de Markov. La base dépend de celle précédente. 
 
-Soit la séquence : $x_1x_2x_3...x_n$
+Soit la séquence : $x_1, x_2, x_3...x_n$
 
 ### Séquences aléatoires
 
@@ -197,12 +292,53 @@ Avec :
 * $n$ le nombre d'observations.
 * $K$ le degré de liberté qui correspond au nombre de paramètres.
 
-### Conservation du motif 
+### Méthode des groupes de paires non pondérées avec moyenne arithmétique
 
-La conservation d'une base de la séquence à une position particulière comme 
-$R_{seq} = S_{max} - S_{obs} = \log N - ( - \Sigma p_n \cdot \log p_n)$
 
-La différence entre l'entropie maximum et celle observé la conservation maximum est de 2 bits.
+Cette méthode suppose que le taux de substitutione est constant.
+
+On calcul la distance entre les deux séquences. 
+
+### Autres
+
+Matrice
+
+### Recherche d'une sous séquence en fonction de caractéristiques
+
+Cette méthode est utilisées pour trouver une sous séquence avec des caractéristiques particulières. Il faut définir :
+
+* La taille de la sous-séquence cherchée $h$.
+* Les caractéristiques par le score $S$. 
+
+!!! note
+    On note entre [] ce que l'on doit trouvé et \{\} pour ce qui ne contient pas (négation).
+
+!!! example
+    $S([c,g]) = 1$ et $S([a,t]) = -1$.
+
+La séquence local du motif est celle qui maximise le score $H = \max \sum{S(X_k)}$ avec $X_k$ les séquences de taille $h$.
+
+### Les motifs
+
+### Déterminer la structure d'un motif
+
+On calcul la matrice de fréquence à partir de celle d'occurences. La conservation d'une base de la séquence à une position particulière est ainsi :
+
+$$R_{seq} = S_{max} - S_{obs} = \log N - ( - \Sigma p_n \cdot \log p_n)$$
+
+La différence entre l'entropie maximum et celle observé. 
+
+!!! example
+    L'entropie maximum pour une base à une postion données pour une séquence d'ADN (4 bases différentes) est de 2 bits $I_j = 2 - (- A \cdot \sum_{i = 1}{f_{i, j} \cdot \log f_{i, j}})$
+
+!!! warning
+    Avoir des zéros dans la matrice d'occurence est problématique pour calculer la probabilité de présence du motif. On ajoute la fréquence des bases pour retirer les 0. 
+
+### Recherche d'un motif dans une séquence
+
+Pas compris, ci dessous est faux.
+
+On utilise la matrice de score du motif et on calcule $\prod{p_{r_i}}$ fréquence des résidus à la position $i$.
 
 ====================================
 
