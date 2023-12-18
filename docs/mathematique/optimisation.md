@@ -27,6 +27,8 @@ En pratique, on réalise plusieurs fois l'algorithme en conservant les valeurs o
 
 ## Utilité
 
+Recherche d'un maximum ou d'un minimum revient à trouver la solution pour laquelle la dérivé est nul $f'(x) = 0$.
+
 ### Moindre aux carrés
 
 Trouver l'équation d'une droite qui minimise la distance avec les points. La méthode est généralisable notamment pour trouver :
@@ -41,5 +43,25 @@ La droite des moindres aux carrés consiste à trouver des coefficients de la dr
 On sait que ce minimum existe. Pour le trouver, on utilise la méthode des dérivés partielles
 $\nabla f = \begin{cases} \frac{\partial f}{\partial a}  = 0 \\ \frac{\partial f}{\partial b}  = 0 \end{cases}$ On calcul les dérivés partielles et pn passe en forme matrice pour résoudre l'équation.
 
-Trouver la droite des moindres aux carrés consiste à résoudre $\begin{bmatrix} x^2 & x \\ x & n \end{bmatrix} \cdot \begin{bmatrix} a \\ b \end{bmatrix} = \begin{bmatrix} x.y \\ x \end{bmatrix}$ avec $n$ le nombre de valeurs.
+Trouver la droite des moindres aux carrés consiste à résoudre
+$$\begin{bmatrix}\sum{x^2} & \sum{x} \\ \sum{x} & n \end{bmatrix}
+\cdot \begin{bmatrix} a \\ b \end{bmatrix}
+= \begin{bmatrix}\sum{x \cdot y} \\ \sum{y} \end{bmatrix}$$
+avec $n$ le nombre de valeurs.
 
+#### Trouver les paramètres d'une loi
+
+!!! note
+    Pour la recherche du maximum de vraissemblance, il est $\log$ comme
+
+fonction de densité $f(x)$
+
+$ML = \prod{}$
+
+$\max L$
+
+!!! note 
+    Il est généralement plus simple de rechercher $\log L$.
+
+1. Calculer la vraissemblance.
+2. Déterminer les paramètres tels que $L'(x) = 0$
