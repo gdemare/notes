@@ -1,10 +1,10 @@
-Les ajustements conistent à trouver la fonction $\min (Y_obs - Modèle(x))^2$.
+Les ajustements conistent à trouver la fonction $\min (Y_{obs} - Modèle(x))^2$.
 
 ## Modèle linéaire
 
 $y = a \cdot x + b$ les observations $+ e ~ N(O, \sigma )$
 
-On cherche les coefficients qui minisent l'écart moyen avec les points $min F(a,b) = \sum_{i=1}^{n}{(a \cdot x_i + b - y_i)^2}$
+On cherche les coefficients qui minisent l'écart moyen avec les points $\min F(a,b) = \sum_{i=1}^{n}{(a \cdot x_i + b - y_i)^2}$
 
 Consiste à résoudre :
 
