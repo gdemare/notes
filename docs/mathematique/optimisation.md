@@ -7,7 +7,7 @@ Deux grands types de méthodes pour calculer un minimum :
 
 Généralement, les fonctions sont trop complexes pour que l'on puisse déterminer facilement leur minimum. Plusieurs possibilités :
 
-* Approcher la fonction par une fonction quadratique
+* Approcher la fonction par une fonction quadratique.
 * Méthodes quasi Newton (deux méthodes principales : Powell et DFP). Nhésité d'approximer la matrice hessienne mais complexe notamment à inverser.
 * BFGS approche.
 * méthode stochastique (Métropolis).
@@ -21,7 +21,7 @@ Généralement, les fonctions sont trop complexes pour que l'on puisse détermin
     * Si $\Delta f \lt 0$ alors $p_0 = p_1$ avec la probabilité de $e^{- \frac {\Delta E}{T}}$.
     * Si $\Delta f \gt 0$ alors $p_0 = p_1$.
 
-Au début on choisi une température élevé pour permettre au système d'accepter tous points. Au cours de l'algorithme la température $T$ diminue, et la probabilité d'acceptation diminue.
+Au début on choisi une température élevée pour permettre au système d'accepter à tous points. Au cours de l'algorithme, la température $T$ diminue, et la probabilité d'acceptation diminue.
 
 En pratique, on réalise plusieurs fois l'algorithme en conservant les valeurs obtenues pour ne garder que la plus basse.
 
@@ -29,39 +29,52 @@ En pratique, on réalise plusieurs fois l'algorithme en conservant les valeurs o
 
 Recherche d'un maximum ou d'un minimum revient à trouver la solution pour laquelle la dérivé est nul $f'(x) = 0$.
 
-### Moindre aux carrés
+### Ajustement
 
-Trouver l'équation d'une droite qui minimise la distance avec les points. La méthode est généralisable notamment pour trouver :
+Trouver l'équation d'une droite qui minimise la distance avec les points. La méthode est généralisable notamment pour trouver de la fonction pour :
 
-* un ajustement (exponentiel, log, etc).
-* la loi de probabilité
+* Un ajustement (exponentiel, log, etc) qui consiste à trouver la fonction $\min (Y_{obs} - Modèle(x))^2$.
+* Une a loi de probabilité.
 
-#### Regression linéaire
+#### Regression linéaire et droite des moindres aux carrés
 
-La droite des moindres aux carrés consiste à trouver des coefficients de la droite $a$ et $b$ qui minimisent la distance au carré de la fonction $f(x) = (a \cdot x + b - y)^2$ soit $\min f(x)$.
+$y = a \cdot x + b$ les observations $+ e ~ N(O, \sigma )$
+
+La droite des moindres aux carrés consiste à trouver des coefficients de la droite $a$ et $b$ qui minimisent la distance au carré de la fonction
+$$f(x) = (a \cdot x + b - y)^2$$
+soit $\min f(x)$ . On cherche les coefficients qui minisent l'écart moyen avec les points
+
+$$\min F(a,b) = \sum_{i=1}^{n}{(a \cdot x_i + b - y_i)^2}$$
 
 On sait que ce minimum existe. Pour le trouver, on utilise la méthode des dérivés partielles
-$\nabla f = \begin{cases} \frac{\partial f}{\partial a}  = 0 \\ \frac{\partial f}{\partial b}  = 0 \end{cases}$ On calcul les dérivés partielles et pn passe en forme matrice pour résoudre l'équation.
+
+$$\nabla f = \begin{cases}
+    \frac{\partial f}{\partial a}  = 2 \cdot (a \cdot x_i + b - y_i) \cdot x_i  = 0 \\
+    \frac{\partial f}{\partial b}  = 2 \cdot (a \cdot x_i + b - y_i) = 0
+\end{cases}$$
 
 Trouver la droite des moindres aux carrés consiste à résoudre
-$$\begin{bmatrix}\sum{x^2} & \sum{x} \\ \sum{x} & n \end{bmatrix}
+
+$$\begin{bmatrix}\sum{x_i^2} & \sum{x_i} \\ \sum{x_i} & n \end{bmatrix}
 \cdot \begin{bmatrix} a \\ b \end{bmatrix}
-= \begin{bmatrix}\sum{x \cdot y} \\ \sum{y} \end{bmatrix}$$
+= \begin{bmatrix}\sum{x_i \cdot y_i} \\ \sum{y_i} \end{bmatrix}$$
 avec $n$ le nombre de valeurs.
+
+##### Autres ajustements
+
+Nom	 		| Fonction                      | Densité de probabilité
+------------|-------------------------------|--------
+Exponentiel	| $a \cdot e^{- b \cdot x}$     | $e^{- b \cdot x}$
 
 #### Trouver les paramètres d'une loi
 
-!!! note
-    Pour la recherche du maximum de vraissemblance, il est $\log$ comme
+$f(X_1, X_2,...,X_n) = f(X_1) \cdot f(X_2) \cdot ... \cdot f(X_n)$
 
-fonction de densité $f(x)$
+On cherche le maximum de vraissemblance de la fonction de densité $f(x)$.
 
-$ML = \prod{}$
-
-$\max L$
+1. Calculer la vraissemblance $\max L = \prod{F(x_i)} \max \log \prod{F(x_i)}$.
+2. Résoudre l'équation tels que le gradient est nul càd trouver les paramètres  $L' = 0$.
+3. Vérifier que le hessien est négatif (qu'un maximum a été atteint).
 
 !!! note 
-    Il est généralement plus simple de rechercher $\log L$.
-
-1. Calculer la vraissemblance.
-2. Déterminer les paramètres tels que $L'(x) = 0$
+    Il est généralement plus simple de rechercher $\log L$ noté $ML$.

@@ -114,7 +114,7 @@ La formule de la fonction de densité de Gumbel est $F(x) = e^{-e(-x)}$.
 
 ### BLAST : Basic Local Alignment Search Tool
 
-algorithme permet de trouver des séquences :
+Plusiseurs algorithmes permet de trouver des séquences :
 
 * BLOSUM BLOcks SUbstitution Matrix
 * PAM Point Accepted Mutations point de vue évolutif avec l'hypothétique des mutation se sont produites
@@ -124,10 +124,10 @@ algorithme permet de trouver des séquences :
 
 Plusieurs paramètres :
 
-* `E-threshold (expectation)` probabilité  le nbre de correspondances attendu dans une base aléatoire. Augmenter le E pour détecter de faible similarité ou des régions courtes  0.1 and 10 sont douteuse et supérieur à 10. Probabilité de trouver une similarité au hasard. 1 correspond à 1/100.
+* `E-threshold (expectation)` probabilité que la correspondance obtenu soit dûe à l'aléatoire. Augmenter le E pour détecter de faible similarité ou des régions courtes  0.1 and 10 sont douteuse et supérieur à 10. Probabilité de trouver une similarité au hasard. 1 correspond à 1/100.
 * `Gapped` permet les interstice entre deux parties.
 * `Hits` nbre maximum de retours.
-* `word size 3` nbre minimum d'unité identitique exact entre les deux séquences.
+* `word size 3` nbre minimum d'unités identitiques exacts entre les deux séquences.
  
 !!! note
     diminuer le nombre de word size permet de détexcter des séquences homologues mais aussi la fragmeentaiton. augmenter trouver des régions communes.
@@ -175,7 +175,7 @@ Distance génétique entre deux séquences $X$ et $Y$ est $d(X, Y) = 2 \cdot u \
 Les modèles évolutifs 
 
 * Processus stochastique.
-* avec taux de substitutions constant.
+* Avec taux de substitutions constant.
 
 ##### Processus stochastique
 
@@ -203,17 +203,18 @@ Pour des séquences qui sont homolgues ou la proximité entre des séquences, il
 * Méthode des groupes de paires non pondérées avec moyenne arithmétique.
 * Neighbor­Joining.
 
-Le principe de 
+Le principe de consiste réunir itérativement les séquences les plus proches : 
 
-1. Calcul de la matrice des distances.
-2. on choisit la plus petite.
+1. Cacluler de la matrice des distances.
+2. Choisir la plus petite distance et réunir les deux séquences.
 
 ### Méthode des groupes de paires non pondérées avec moyenne arithmétique (UPGMA)
 
-La moyenne des distances la plus petite en prenant en compte le nombre d'individus dans le groupe.
+La moyenne des distances la plus petite en prenant en compte le nombre d'individus dans le groupe. 
+
 
 !!! warning
-    Le noeud se situe à la moitié de la distance calculée.
+    Le noeud se situe à la moitié de la distance calculée et pensez à pondérer par l'effectif du groupe.
 
 ### Méthode du Neighbor ­Joining 
 
@@ -221,6 +222,7 @@ La moyenne des distances la plus petite en prenant en compte le nombre d'individ
 
     * $R$ est le nombre du substitutions de la séquences pour la séquence i ou j avec toutes les séquences.
     * $N$ nombre total de séquences.
+
 et sélectionner la distance minimimum. 
 
 !!! note
@@ -238,7 +240,7 @@ et sélectionner la distance minimimum.
 
 ## Motif
 
-Pour savoir si un motif détecter dans une séquence n'est pas dû au hasard, on génére des séquences aléatoires pour calculer la p valeur associée. Deux principales méthodes sont utilisées :
+Pour savoir si un motif détecté dans une séquence n'est pas dû au hasard, on génère des séquences aléatoires pour calculer la p valeur associée. Deux principales méthodes sont utilisées :
 
 * Séquence aléatoire.
 * Modèle de Markov. La base dépend de celle précédente. 
@@ -265,9 +267,9 @@ Pour construire une matrice de transition. Il faut par exemple :
 
 Si on prend en considération la succession des bases
 
-#### Choix des séquences
+### Choix de la méthode de génération des séquences
 
-##### Vraissemblance
+#### Vraissemblance
 
 En comparant les bases par leur position : $\Sigma f_x(a) \cdot \log \mu (a)$
 
@@ -278,11 +280,11 @@ Avec :
 * $F_x(a)$ l'effectif de la base.
 * $\mu (a)$ la fréquence estimée de la base.$\pi (T, G) = \frac{F(T,G)}{F(G)}$
 
-##### AIC et BIC
+#### AIC et BIC
 
 Le choix de la méthode de génération de séquences aléatoire doit prendre en compte la complexité. Evaluer la qualité d'un modèle càad le compris entre nombre de paramètres et le modèle obtenu se fait par :
 
-Log de vraissemblance $L = \log{\mu_{1}} $
+Log de vraissemblance $L = \log{\mu_{1}}$
 
 * AIC (Akaike Information Criterion) $AIC = -2L + 2K$
 * BIC (Bayesian Information Criterion) $BIC = K \cdot \log{n} - 2 \log{L}$
@@ -294,10 +296,10 @@ Avec :
 
 ### Méthode des groupes de paires non pondérées avec moyenne arithmétique
 
-
 Cette méthode suppose que le taux de substitutione est constant.
 
-On calcul la distance entre les deux séquences. 
+1. Calulcuer la distance entre les deux séquences.
+2. 
 
 ### Autres
 
@@ -320,7 +322,7 @@ La séquence local du motif est celle qui maximise le score $H = \max \sum{S(X_k
 
 ### Les motifs
 
-### Déterminer la structure d'un motif
+#### Déterminer la structure d'un motif
 
 On calcul la matrice de fréquence à partir de celle d'occurences. La conservation d'une base de la séquence à une position particulière est ainsi :
 
@@ -329,7 +331,7 @@ $$R_{seq} = S_{max} - S_{obs} = \log N - ( - \Sigma p_n \cdot \log p_n)$$
 La différence entre l'entropie maximum et celle observé. 
 
 !!! example
-    L'entropie maximum pour une base à une postion données pour une séquence d'ADN (4 bases différentes) est de 2 bits $I_j = 2 - (- A \cdot \sum_{i = 1}{f_{i, j} \cdot \log f_{i, j}})$
+    L'entropie maximum pour une base à une position données pour une séquence d'ADN (4 bases différentes) est de 2 bits $I_j = 2 - (- A \cdot \sum_{i = 1}{f_{i, j} \cdot \log f_{i, j}})$
 
 !!! warning
     Avoir des zéros dans la matrice d'occurence est problématique pour calculer la probabilité de présence du motif. On ajoute la fréquence des bases pour retirer les 0. 
@@ -339,6 +341,15 @@ La différence entre l'entropie maximum et celle observé.
 Pas compris, ci dessous est faux.
 
 On utilise la matrice de score du motif et on calcule $\prod{p_{r_i}}$ fréquence des résidus à la position $i$.
+
+
+Fréquence corrigé pour le calcul du score pour les séquences aléatoires $
+
+Le motif aléatoire est $W_s = \log \frac{\sum_{f'_{i,j}}}{p_i}$
+avec :
+
+* $f'_{i,j}$
+* $`p_i` la probabilité de la base.
 
 ====================================
 

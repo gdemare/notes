@@ -15,7 +15,7 @@ Trois opérations pour transformer les matrices :
 
 ## Distance euclidienne ou norme
 
-C'est la somme des valeurs absolues de chaque coordonées (dans un espace avec des axes orthogonaux).
+C'est la somme des valeurs absolues de chaque coordonée (dans un espace avec des axes orthogonaux).
 Le calcul est une généralisation de Pythagore
 
 ### Rotation 
@@ -80,6 +80,10 @@ Interprétations du déterminant :
 
 $A \cdot A^{-1} = A^{-1} \cdot A$
 
+La matrice inverse se calcule comme 
+
+$$A^{-1} = \frac{1}{\det A} \cdot \begin{bmatrix} a_{2,2} & -a_{2,1} \\ -a_{1,2} & a_{1,1} \end{bmatrix}$$
+
 ## Valeurs propres et vecteurs propres
 
 Déterminer les valeurs propre consiste à résoudre $det(\delta - \alpha \cdot I) = 0$  avec $\alpha \in \mathbb{R}$.
@@ -112,7 +116,7 @@ Gradient : $\nabla f = [ \frac{\partial f}{\partial x_1}; ...; \frac{\partial f}
 
 Matrice de vecteurs de direction du sens de variations.
 
-$\nabla^{2} f = \frac{\partial f}{\partial x_{i} \cdot \partial x_j}$ avec $i$ la ligne et $j$ la colonne.
+$\nabla^{2} f = \frac{\partial f}{\partial x_i \cdot \partial x_j}$ avec $i$ la ligne et $j$ la colonne.
 
 !!! note
     Donne les vecteurs orientés dans le sens croissant de la fonction.
@@ -129,15 +133,14 @@ $f(x + h) = f(x) + \nabla f(x) \cdot h + \frac{1}{2} \cdot h^T \cdot \nabla^2 f(
 
 ## Minimiser une fonction
 
-#### Gradien
+Pour minimiser des fonctions plusieurs approches sont possibles. Elles sont itératives et nécessites d'être réalisée jusqu'a que le résultat est convergé sur la solution.
 
-$x - \rho \cdot \nabla f$
-
-$\rho$ le poids de màj de x.
+* Gradient $x - \rho \cdot \nabla f$ avec $\rho$ le poids de màj du point choisi.
+* Approche de Newton $x - \nabla ^2 f^{-1} \cdot \nabla f$
 
 #### Approche de Newton
 
-1. La fonction est approchée par un polynome de degré 2.
-2. $x - \rho \cdot \nabla f$
+1. La fonction est approchée par un polynôme de degré 2.
+2. $x - \rho \cdot \nabla f$ l'idée est d'utiliser la matrice hessienne pour calculer la valeur de la mise à jour.
 
 $x_1 = x_0 - \frac{\nabla f(x_0)}{\nabla^2 f(x_0)}$

@@ -11,5 +11,5 @@ Avec $X = [ X_1 |...| X_n ]$
 !!! note
     La variance se retrouvent en diagonale.
 
-3. Calcul du nouveau repère qui maximise la variance. 
+3. Calcul du nouveau repère qui maximise la variance càd déterminer les vecteurs propres de la matrice de covariance.
 4. Projection des valeurs sur les nouveaux axes.
