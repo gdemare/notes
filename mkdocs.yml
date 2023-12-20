@@ -161,6 +161,7 @@ nav:
     - "Transformation des données" : data-science/transformation-donnees.md  
   - Mathématique :
     - Mathématique : mathematique/mathematique.md
+    - Algorithmie :  mathematique/algorithmique.md
     - Arithmétique :  mathematique/arithmetique.md
     - Fonctions :
       - "Définition, dérivé, primitive, limite" : mathematique/definition-derives-primitives-limites.md
