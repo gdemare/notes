@@ -63,7 +63,7 @@ $A$                 | 0 | $v = k$  | $d[A] = -k \cdot dt$                  | $A 
 $A \rightarrow B$   | 1 | $v = k[A]$        | $\frac{d[A]}{dt} = - k \cdot dt$      | $A = A_0 \cdot e^{-k \cdot t}$
 $A + solvant \rightarrow B$	| 1 |$v = k \cdot [A] \cdot [sol]^0$   
 $2A \rightarrow B$  | 2 | $v = k[A]^2$      | $- \frac{d[A]}{[A]^2} = k \cdot dt$   | $\frac{1}{A} = \frac{1}{A_0} + k \cdot t$
-$A + B \rightarrow C$		| ? | $v = k \cdot [A] \cdot [B]$	
+$A + B \rightarrow C$		| 2 | $v = k \cdot [A] \cdot [B]$	
 
 $k$ constante de vitesse.
 
