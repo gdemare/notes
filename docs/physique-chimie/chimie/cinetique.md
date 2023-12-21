@@ -6,13 +6,10 @@ Pour qu'une réaction chimique puisse se produire, il faut que les réactifs :
 * Soient les uns à côté des autres.
 * Atteignent un certain niveau d'énergie appelé énergie d'activation càd que les réactifs se percutent avec une certaine quantité d'énergie c'est-à-dire suffisamment vite.
 
-__Etat stationnaire__ état d'équilibre relatif où les concentrations restent constantes.	
+__Etat équilibre__ état d'équilibre relatif où les concentrations restent constantes.	
 
 !!! note
 	L'entalpie libre définit l'équilibre de réaction. Une réaction va toujours dans le sens de l'entalpie libre.
-
-!!! warning
-	Dans le cadres des enzymes, l'état stationnaire est quand l'enzyme libre et enzyme lié sont constants.
 
 ## Vitesse de réaction
 
