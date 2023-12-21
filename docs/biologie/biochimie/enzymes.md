@@ -278,7 +278,7 @@ En fonction du type d'action que provoque le ligand, on dit qu'il est :
 
 #### Formalisation de l'interaction ligand récepteur 
 
-$R + L \leftrightarrow RL$
+$R + L \rightleftharpoons RL$
 
 On note pour :
 
