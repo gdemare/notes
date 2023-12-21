@@ -132,7 +132,7 @@ On obtient alors pour la vitesse (équation de) $v = \frac{k_{cat}[E_0][S]}{K_m
 
 On peut déduire de l'équation :
 
-* La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_m \lt \lt [S]$ d’où $v_{\max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$ ainsi l'équation de Micheal-Menden peut s'écrire $v = \frac{v_{\max}[S]}{K_m + [S]}$.
+* La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_m \ll [S]$ d’où $v_{\max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$ ainsi l'équation de Micheal-Menden peut s'écrire $v = \frac{v_{\max}[S]}{K_m + [S]}$.
 * Efficacité de l’enzyme. Plus la vitesse est grande, plus $k_{cat}$ est grand.
 * L'affinité (reconnaissance entre l'enzyme et le substrat) correspond à la proportion $\frac{[E]}{[ES]}$. Plus elle est élevée et plus $\frac{[E]}{[ES]}$ est petit d’où $K_m = \frac{[E]}{[ES]}[S]$ est petit.
 
@@ -200,7 +200,7 @@ $v_i = \frac{v_{\max}[S]}{K_m \cdot (1 + \frac{[i]}{K_i}) + [S]} = \frac{v_{\max
 
 La constante d'inhibition :
 
-$K_i = \frac{K_m.[I]}{K_{mI} - K_m}$ avec $K_i$ est la quantité d'inhibiteurs nécessaire pour complétement arrêter la réaction. L'inhibition peut être levé en ajoutant du substrat.
+$K_i = \frac{K_m.[I]}{K_{mI} - K_m}$ avec $K_i$ est la quantité d'inhibiteurs nécessaire pour complétement arrêter la réaction. L'inhibition peut être levée en ajoutant du substrat.
 
 #### Inhibiteur non compétitif
 
@@ -215,7 +215,7 @@ $K_i = \frac{v_{maxI}.[I]}{v_{\max} - v_{\max I}}$
 
 ### Effet du pH et de la température
 
-Les enzymes sont sensibles aux conditions de l'environnement notamment à cause de leur structure moléculaire, une enzyme possède des AA
+Les enzymes sont sensibles aux conditions de l'environnement notamment à cause de leur structure moléculaire, une enzyme possède des AA :
 
 * Chargés et polaires en périphérie.
 * Apolaires au centre.
