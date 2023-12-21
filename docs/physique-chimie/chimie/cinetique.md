@@ -11,6 +11,9 @@ __Etat stationnaire__ état d'équilibre relatif où les concentrations restent 
 !!! note
 	L'entalpie libre définit l'équilibre de réaction. Une réaction va toujours dans le sens de l'entalpie libre.
 
+!!! warning
+	Dans le cadres des enzymes, l'état stationnaire est quand l'enzyme libre et enzyme lié sont constants.
+
 ## Vitesse de réaction
 
 On définit la vitesse de réaction comme la quantité de substrat se transformant en produit durant une certaine unité de temps.
