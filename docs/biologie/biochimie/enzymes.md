@@ -119,9 +119,9 @@ Les deux modèles principaux pour modéliser la vitesse de réaction en présenc
 
 #### Modéle de Michaelis-Menten
 
-Le modèle de Michealis-Menten suppose l'existence d'un état d'équilibre réactionnel entre le substrat et l'enzyme. Il existe ainsi un $k_{cat} \lt \lt k_{-1}$.
+Le modèle de Michealis-Menten suppose l'existence d'un état d'équilibre réactionnel entre le substrat et l'enzyme. Il existe ainsi un $k_{cat} \ll k_{-1}$.
 
-* $K_{m} = \frac{[E] \cdot [S]}{[ES]} = \frac{k_{- 1} + k_{cat}}{k_1}$ avec $K_{m}$ constante d'état stationnaire en $mol.L^{-1}$
+* $K_{m} = \frac{[E] \cdot [S]}{[ES]} = \frac{k_{- 1} + k_{cat}}{k_1}$ avec $K_m$ constante d'état stationnaire en $mol.L^{-1}$
 
 Pour déterminer la vitesse, car on est incapable de mesurer la concentration de $[ES]$. L'astuce de Michaelis-Menten consiste à écrire $v = k_{2}[ES]\frac{[E_0]}{[E_0]}$ et d'exprimer $[E_0]$ en fonction de $[ES]$ :
 
@@ -134,7 +134,7 @@ On peut déduire de l'équation :
 
 * La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_m \ll [S]$ d’où $v_{\max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$ ainsi l'équation de Micheal-Menden peut s'écrire $v = \frac{v_{\max}[S]}{K_m + [S]}$.
 * Efficacité de l’enzyme. Plus la vitesse est grande, plus $k_{cat}$ est grand.
-* L'affinité (reconnaissance entre l'enzyme et le substrat) correspond à la proportion $\frac{[E]}{[ES]}$. Plus elle est élevée et plus $\frac{[E]}{[ES]}$ est petit d’où $K_m = \frac{[E]}{[ES]}[S]$ est petit.
+* L'affinité (reconnaissance entre l'enzyme et le substrat) correspond à la proportion $\frac{[E]}{[ES]}$. Plus elle est élevée et plus $\frac{[E]}{[ES]}$ est petit d’où $K_m = \frac{[E]}{[ES]} \cdot [S]$ est petit.
 
 !!! note
 	Pour $[S] = K_m$, on a également $v = \frac{1}{2} \cdot v_{\max}$.
@@ -156,13 +156,13 @@ On a remarque que :
 
 !!! notes Point méthode
 	Pour savoir si la réaction enzymatique de type Michaelis-Menten, on vérifie que $f( \frac{1}{[S]} ) = \frac{1}{[P]}$ est une droite.
-	On peut alors déterminer les constantes $v_{max}$ et $K_{m}$ d’après le graphique.
+	On peut alors déterminer les constantes $v_{max}$ et $K_m$ d’après le graphique.
 
 #### Modèle de Briggs-Haldane
 
 Le modèle de Briggs-Haldane suppose que $[ES] = c$ avec $c$ une constante.
 
-$v = \frac{k_{cat}[E_0][S]}{K_m+[S]}$
+$v = \frac{k_{cat} \cdot [E_0] \cdot [S]}{K_m + [S]}$
 
 ### Les inhibiteurs de l'activité enzymatique
 
