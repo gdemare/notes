@@ -183,7 +183,7 @@ Il existe deux grands types d'inhibition :
 Site bloqué par l'inhibiteur                                     | Reconnaissance                                                         | Catalyse                                                                                                                              |
 | Modifie                                                          | Équilibre entre enzyme et substrat                                     | Efficacité de l'enzyme                                                                                                                |
 | Affinité enzyme-inhibiteur                                       | $K_i = \frac{[E][I]}{[EI]}$ | $K_{i} = \frac{[E][I]}{[EI]} = \frac{[ES][I]}{[ESI]}$ |
-| $E_{0} = $ | $[E] + [EI] + [ES]$           | $[E] + [EI] + [EIS] + [ES]$                                                     |
+| $E_{0} =$ | $[E] + [EI] + [ES]$           | $[E] + [EI] + [EIS] + [ES]$                                                     |
 | Rmq                                                              | $v_{max}$ ne change pas                                               | $K_{m}$ ne change pas                                                                                                                 |
 
 !!! note
