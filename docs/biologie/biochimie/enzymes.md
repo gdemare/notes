@@ -182,9 +182,9 @@ Il existe deux grands types d'inhibition :
 --------------------|-----------------------|-----------------------------|
 Site bloqué par l'inhibiteur                                     | Reconnaissance                                                         | Catalyse                                                                                                                              |
 | Modifie                                                          | Équilibre entre enzyme et substrat                                     | Efficacité de l'enzyme                                                                                                                |
-| Affinité enzyme-inhibiteur                                       | $K_i = \frac{[E][I]}{[EI]}$ | $K_{i} = \frac{[E][I]}{[EI]} = \frac{[ES][I]}{[ESI]}$ |
+| Affinité enzyme-inhibiteur                                       | $K_i = \frac{[E] \cdot [I]}{[EI]}$ | $K_{i} = \frac{[E] \cdot [I]}{[EI]} = \frac{[ES] \cdot [I]}{[ESI]}$ |
 | $E_{0} =$ | $[E] + [EI] + [ES]$           | $[E] + [EI] + [EIS] + [ES]$                                                     |
-| Rmq                                                              | $v_{max}$ ne change pas                                               | $K_{m}$ ne change pas                                                                                                                 |
+| Rmq                                                              | $v_{\max}$ ne change pas                                               | $K_m$ ne change pas                                                                                                                 |
 
 !!! note
 	Il existe d'autres inhibiteurs hybrides.
@@ -193,14 +193,14 @@ Site bloqué par l'inhibiteur                                     | Reconnaissan
 
 L'inhibiteur compétitif se lie sur le site réactionnel de l'enzyme à la place d'un substrat. Cela se traduit par une diminution de l'affinité du substrat avec l'enzyme.
 
-$v_i = \frac{v_{\max}[S]}{K_m \cdot (1 + \frac{[i]}{K_i}) + [S]} = \frac{v_{\max}[S]}{K_{mI} + [S]}$
+$v_i = \frac{v_{\max} \cdot [S]}{K_m \cdot (1 + \frac{[i]}{K_i}) + [S]} = \frac{v_{\max} \cdot [S]}{K_{mI} + [S]}$
 
 !!! note
-	On modifie la reconnaissance $K_{m} \lt {K'}_{m} = K_{m}(1 + \frac{[i]}{K_{i}})$
+	On modifie la reconnaissance $K_{m} \lt K'_m = K_m \cdot (1 + \frac{[i]}{K_i})$
 
 La constante d'inhibition :
 
-$K_i = \frac{K_m.[I]}{K_{mI} - K_m}$ avec $K_i$ est la quantité d'inhibiteurs nécessaire pour complétement arrêter la réaction. L'inhibition peut être levée en ajoutant du substrat.
+$K_i = \frac{K_m \cdot [I]}{K_{mI} - K_m}$ avec $K_i$ est la quantité d'inhibiteurs nécessaire pour complétement arrêter la réaction. L'inhibition peut être levée en ajoutant du substrat.
 
 #### Inhibiteur non compétitif
 
@@ -209,9 +209,9 @@ $v_{maxI} = \frac{v_{\max}}{1 + \frac{[i]}{K_i}}$
 !!! note
 	L'inhibiteur rend l'enzyme moins efficace (efficacité catalytique) ( $v_{\max}$ plus petit).
 
-$v_i = \frac{v_{\max}}{1 + \frac{[i]}{K_i}} \times \frac{[S]}{K_m + [S]} = \frac{v_{maxI}[S]}{K_m + [S]}$
+$v_i = \frac{v_{\max}}{1 + \frac{[i]}{K_i}} \cdot \frac{[S]}{K_m + [S]} = \frac{v_{\max I}[S]}{K_m + [S]}$
 
-$K_i = \frac{v_{maxI}.[I]}{v_{\max} - v_{\max I}}$
+$K_i = \frac{v_{\max I} \cdot [I]}{v_{\max} - v_{\max I}}$
 
 ### Effet du pH et de la température
 
@@ -228,7 +228,7 @@ __Isoenzyme__ enzyme qui fonctionne de manière optimale dans des conditions phy
 
 Le changement de pH modifie l'activité de l'enzyme car cela modifie les AA polaires notamment la cystéine et les AA chargés impliqués sur le site de reconnaissance et de catalyse.
 
-Rappel : Si le $pH \gt pKa+1$ alors l'espèce sera déprotonée à 90%.
+Rappel : Si le $pH \gt pK_a + 1$ alors l'espèce sera déprotonée à 90%.
 
 !!! note
 	Il est possible de déterminer les AA impliqués dans la reconnaissance et la catalyse en jouant sur le pH.
@@ -287,16 +287,16 @@ On note pour :
 
 À l'équilibre la vitesse d'association est égale à celle de dissociation. Les concentrations des différentes espèces chimiques n'évoluent plus. On a :
 
-* La constante d'affinité à l'équilibre $k_d = \frac{k_{diss}}{k_{ass}} = \frac{[L][R]}{[LR]}$
+* La constante d'affinité à l'équilibre $k_d = \frac{k_{diss}}{k_{ass}} = \frac{[L] \cdot [R]}{[LR]}$
 * La quantité de récepteurs $[R_0] = [R] + [RL]$
 
 On obtient alors :
 
-* Concentration de $[RL] = \frac{[R_0].[L]}{K_d + [L]}$
+* Concentration de $[RL] = \frac{[R_0] \cdot [L]}{K_d + [L]}$
 * Proportion de $\frac{[RL]}{[R_0]} = \frac{[L]}{K_d + [L]}$
 
 !!! note
-	Lorsque $RL = \frac{[R_{0}]}{2}$ on a $K_{d} = L$.
+	Lorsque $RL = \frac{[R_0]}{2}$ on a $K_d = L$.
 
 ##### Linéarisation
 
@@ -306,13 +306,13 @@ On utilise la linéarisation pour déterminer :
 * $R_0$ concentration de récepteurs (en Mol).
 * $N = \frac{B_{\max}}{[R]}$ nombre de sites par mol.
 
-On a $\frac{[RL]}{[L]} = \frac{- 1}{K_d}[RL] + \frac{R_0}{K_d}$
+On a $\frac{[RL]}{[L]} = \frac{- 1}{K_d} \cdot [RL] + \frac{R_0}{K_d}$
 
 En ordonné, on a la quantité de ligand liée par rapport à celle libre.
 
 Les points remarquables obtenus sont :
 
-* Pour $[RL] = 0$, on a $y = B_{max}$
+* Pour $[RL] = 0$, on a $y = B_{\max}$
 * $a = \frac{- 1}{K_d}$
 * Pour $y = 0$, on a $[RL] = R_0$
 
