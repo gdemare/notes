@@ -91,6 +91,8 @@ Stéréospécificité          | L              | L
 
 __Etat de saturation__ toutes les enzymes sont liées aux substrats.
 
+__Etat stationnaire__ la quantité d'enzymes liées et non liées est constante.
+
 ### Réaction chimique avec catalyseur enzymatique
 
 L'enzyme forme un complexe avec le substrat avec des liaisons :
