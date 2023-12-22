@@ -142,8 +142,7 @@ QuickSort(A:array of n integers; begin, end: integer)
 Partition(A:array of n integers; begin, end, indexpivot : integer): integer
     i, j: integer
     
-    tmp = A[begin] // swap the pivot with the first element
-    A[begin] = A[indexpivot]
+    swap(A[begin] , A[indexpivot])// swap the pivot with the first element
     A[indexpivot] = tmp
     i = begin + 1 // position the two cursors
     j = end - 1
@@ -157,7 +156,7 @@ Partition(A:array of n integers; begin, end, indexpivot : integer): integer
             i = i+1
             j = j-1
 
-    swap([begin], A[j]) // final swap to put pivot in final positon
+    swap(A[begin], A[j]) // final swap to put pivot in final positon
     return(j)
 ```
 

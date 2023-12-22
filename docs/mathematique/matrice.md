@@ -86,7 +86,7 @@ $$A^{-1} = \frac{1}{\det A} \cdot \begin{bmatrix} a_{2,2} & -a_{2,1} \\ -a_{1,2}
 
 ## Valeurs propres et vecteurs propres
 
-Déterminer les valeurs propre consiste à résoudre $det(\delta - \alpha \cdot I) = 0$  avec $\alpha \in \mathbb{R}$.
+Déterminer les valeurs propres consiste à résoudre $det(\delta - \alpha \cdot I) = 0$  avec $\alpha \in \mathbb{R}$.
 
 Pour calculer les vecteurs, il faut ensuite calculer pour chaque valeur propre : $(\delta - \alpha I) \cdot \vec{v} = (0)$
 
