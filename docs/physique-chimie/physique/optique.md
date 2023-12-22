@@ -1,4 +1,4 @@
-Vitesse de la lumière | $3 \times 10^{8}m.s^{- 1}$
+Vitesse de la lumière est $3 \cdot 10^8\ m \cdot s^{- 1}$
 Par convention, le repère est défini positif dans le sens de la propagation du rayon
 Principe de Fermat : le retour inverse de la lumière. 
 
@@ -16,7 +16,7 @@ $\gamma = \frac{A'B'}{AB}$
 
 | Taille de l'image | Plus petite | Plus grande |
 |-------------------|-------------|-------------|
-| Grandissement     | \<1         | \>1         |
+| Grandissement     | $\lt 1$         | $\gt 1$        |
 
 | Sens de l'image | Droite  | Inversée |
 |-----------------|---------|----------|
@@ -24,19 +24,18 @@ $\gamma = \frac{A'B'}{AB}$
 
 ## Nature de l'image réelle/virtuelle
 
-Stigmatique un point objet est associé à un unique point image.
+__Stigmatique__ un point objet est associé à un unique point image.
 
-Une image est formée par l'intersection de rayons. L'image est réelle si
-l'intersection a lieu et virtuelle si elle existe dans le prolongement
+Une image est formée par l'intersection de rayons. L'image est réelle si l'intersection a lieu et virtuelle si elle existe dans le prolongement
 des rayons.
 
-[NB :]{.underline} Il faut au moins deux rayons pour déterminer un point
+!!! note
+Il faut au moins deux rayons pour déterminer un point
 image.
 
 #  Le miroir
 
-On détermine le pouvoir réflecteur d'une
-surface$\ R = \frac{n - 1}{n + 1}$
+On détermine le pouvoir réflecteur d'une surface $R = \frac{n - 1}{n + 1}$
 
 # Dioptre plan
 
@@ -66,18 +65,17 @@ style="width:2.15625in;height:1.17571in" /></h2></td>
 
 ## Relation de conjugaison
 
-La relation de conjugaison pour un dioptre plan est
-$\frac{n_{1}}{AB} = \frac{n_{2}}{A'B'}$ et
-$\frac{n_{1}}{HA} = \frac{n_{2}}{HA'}$
+La relation de conjugaison pour un dioptre plan est $\frac{n_1}{AB} = \frac{n_2}{A'B'}$ et $\frac{n_1}{HA} = \frac{n_2}{HA'}$
 
 ## Condition de Gauss
 
 Pour des petits angles inférieurs à $\frac{\pi}{6}( = 30{^\circ})$,
 $\sin i = i$
 
-Par exemple pour $\sin{\frac{\pi}{6} = 0.5}$ et $\frac{\pi}{6} = 0.52$
+!!! example
+$\sin{\frac{\pi}{6} = 0.5}$ et $\frac{\pi}{6} = 0.52$
 
-# Dioptre sphérique
+## Dioptre sphérique
 
 <table>
 <colgroup>
@@ -98,17 +96,17 @@ class="math inline"><em>R</em>= <em>S</em><em>C</em></span></p></li>
 </tbody>
 </table>
 
-[NB]{.underline} : Les rayons passant par C ne sont pas déviés.
+!!! note
+Les rayons passant par C ne sont pas déviés.
 
 Le dioptre est soit :
 
-| Concave | Convexe |
-|---------|---------|
+* Concave
+* Convexe
 
-## Relation de conjugaison
+### Relation de conjugaison
 
-La relation de conjugaison est appelée vergence pour un dioptre
-sphérique. Elle se mesure en dioptre $\delta = m^{- 1}$
+La relation de conjugaison est appelée vergence pour un dioptre msphérique. Elle se mesure en dioptre $\delta = m^{- 1}$
 
 $$V = \frac{n_{2}}{SA'} - \frac{n_{1}}{SA} = \frac{n_{2} - n_{1}}{SC}$$
 
@@ -120,45 +118,40 @@ Le dioptre est :
 ### Grandissement
 
 D'après Thalès, le grandissement
-$\gamma = \frac{A'B'}{AB} = \frac{CA'}{CA} = \frac{n_{1}.SA'}{n_{2}.SA}$
+$\gamma = \frac{A'B'}{AB} = \frac{CA'}{CA} = \frac{n_1 \cdot SA'}{n_2 \cdot SA}$
 
 ## Les foyers
 
--   F (F') est le point par lequel passe les rayons qui forment une
-    image (un objet) à l'infini. Il se détermine par la relation de
-    conjugaison lorsque $SA^{'} \rightarrow \infty$.
+F (F') est le point par lequel passe les rayons qui forment une image (un objet) à l'infini. Il se détermine par la relation de conjugaison lorsque $SA' \rightarrow \infty$.
 
-| $$\mathbf{SF =}\frac{\mathbf{- n}_{\mathbf{1}}}{\mathbf{V}}$$ | $$\mathbf{S}\mathbf{F}^{\mathbf{'}}\mathbf{=}\frac{\mathbf{n}_{\mathbf{2}}}{\mathbf{V}}$$ |
-|------------------------------------|------------------------------------|
+* $\mathbf{SF =}\frac{\mathbf{- n}_{\mathbf{1}}}{\mathbf{V}}$
+* $SF' = \frac{n_2}{V}$
 
-[Exemple]{.underline} La formation d'une image virtuelle à partir d'un
-objet AB
+!!! example
+La formation d'une image virtuelle à partir d'un objet AB.
 
-![](media/image7.jpeg){width="4.880952537182852in"
-height="1.4186417322834646in"}
-
-# Lentille
+## Lentille
 
 La vergence permet de déterminer la nature d'une lentille.
 
-## Relation de conjugaison
+### Relation de conjugaison
 
-$$V = \frac{1}{OA'} - \frac{1}{OA} = (n - 1)\left( \frac{1}{OC_{1}} - \frac{1}{OC_{2}} \right)$$
+$$V = \frac{1}{OA'} - \frac{1}{OA} = (n - 1) \cdot ( \frac{1}{OC_1} - \frac{1}{OC_2} )$$
 
-| $$\mathbf{V}\mathbf{=}\frac{\mathbf{1}}{\mathbf{f}\mathbf{'}}\mathbf{= -}\frac{\mathbf{1}}{\mathbf{f}}$$ | $$\mathbf{\gamma =}\frac{\mathbf{A'B'}}{\mathbf{AB}}\mathbf{=}\frac{\mathbf{OA'}}{\mathbf{OA}}$$ |
-|------------------------------------|------------------------------------|
+* $V = \frac{1}{f'} = -\frac{1}{f}$
+* $\gamma = \frac{A'B'}{AB} = \frac{OA'}{OA}$
 
-$f^{'}$ Le foyer image s'appelle distance focale pour une lentille.
+$f'$ Le foyer image s'appelle distance focale pour une lentille.
 
-| Divergente → F'\--\|\--F | Convergente → F \--\|\--F' |
-|--------------------------|----------------------------|
+* Divergente → F'\--\|\--F
+* Convergente → F \--\|\--F'
 
-[Remarque :]{.underline} Pour obtenir une image réelle, il faut
-obligatoirement utiliser une lentille convergente.
+!!! note
+Pour obtenir une image réelle, il faut obligatoirement utiliser une lentille convergente.
 
 ## L'œil
 
-Le pouvoir séparateur de l'œil correspond à $f^{'} = \frac{1}{4}$
+Le pouvoir séparateur de l'œil correspond à $f' = \frac{1}{4}$
 c'est-à-dire à une distance focale = 25cm.
 
 ## Puissance optique
@@ -168,14 +161,12 @@ les conditions de Gauss.
 
 ## Grossissement
 
-![](media/image8.jpeg){width="2.7395833333333335in"
-height="0.8715277777777778in"}Grossissement est la mesure le rapport
-d'angles entre $G_{} = \frac{\alpha}{\alpha'}$
+Grossissement est la mesure le rapport d'angles entre $G = \frac{\alpha}{\alpha '}$
 
-Le grossissement commercial consiste à comparer $G_{c} = \frac{P}{P_{oeil}}$
+Le grossissement commercial consiste à comparer $G_c = \frac{P}{P_{oeil}}$
 
-Dans les conditions de Gauss, on obtient : $G_{c} \approx \frac{f'}{{f'}\_{oeil}}$
+Dans les conditions de Gauss, on obtient : $G_c \approx \frac{f'}{f'_{oeil}}$
 
 ## Deux lentilles minces accolées
 
-Deux lentilles minces accolées se comportent comme une seule : $\frac{1}{OA'} - \frac{1}{OA} = V_{1} + V_{2}$
+Deux lentilles minces accolées se comportent comme une seule : $\frac{1}{OA'} - \frac{1}{OA} = V_1 + V_2$

@@ -6,7 +6,7 @@ Pour qu'une réaction chimique puisse se produire, il faut que les réactifs :
 * Soient les uns à côté des autres.
 * Atteignent un certain niveau d'énergie appelé énergie d'activation càd que les réactifs se percutent avec une certaine quantité d'énergie c'est-à-dire suffisamment vite.
 
-__Etat stationnaire__ état d'équilibre relatif où les concentrations restent constantes.	
+__Etat équilibre__ état d'équilibre relatif où les concentrations restent constantes.	
 
 !!! note
 	L'entalpie libre définit l'équilibre de réaction. Une réaction va toujours dans le sens de l'entalpie libre.
@@ -63,7 +63,7 @@ $A$                 | 0 | $v = k$  | $d[A] = -k \cdot dt$                  | $A 
 $A \rightarrow B$   | 1 | $v = k[A]$        | $\frac{d[A]}{dt} = - k \cdot dt$      | $A = A_0 \cdot e^{-k \cdot t}$
 $A + solvant \rightarrow B$	| 1 |$v = k \cdot [A] \cdot [sol]^0$   
 $2A \rightarrow B$  | 2 | $v = k[A]^2$      | $- \frac{d[A]}{[A]^2} = k \cdot dt$   | $\frac{1}{A} = \frac{1}{A_0} + k \cdot t$
-$A + B \rightarrow C$		| ? | $v = k \cdot [A] \cdot [B]$	
+$A + B \rightarrow C$		| 2 | $v = k \cdot [A] \cdot [B]$	
 
 $k$ constante de vitesse.
 

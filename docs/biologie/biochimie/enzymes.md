@@ -91,6 +91,11 @@ Stéréospécificité          | L              | L
 
 __Etat de saturation__ toutes les enzymes sont liées aux substrats.
 
+__Etat stationnaire__ la quantité d'enzymes liées et non liées est constante.
+
+!!! note
+	L'état stationnaire caractérise un intermédiaire réactionnel.
+
 ### Réaction chimique avec catalyseur enzymatique
 
 L'enzyme forme un complexe avec le substrat avec des liaisons :
@@ -119,9 +124,9 @@ Les deux modèles principaux pour modéliser la vitesse de réaction en présenc
 
 #### Modéle de Michaelis-Menten
 
-Le modèle de Michealis-Menten suppose l'existence d'un état d'équilibre réactionnel entre le substrat et l'enzyme. Il existe ainsi un $k_{cat} \lt \lt k_{-1}$.
+Le modèle de Michealis-Menten suppose l'existence d'un état d'équilibre réactionnel entre le substrat et l'enzyme. Il existe ainsi un $k_{cat} \ll k_{-1}$.
 
-* $K_{m} = \frac{[E] \cdot [S]}{[ES]} = \frac{k_{- 1} + k_{cat}}{k_1}$ avec $K_{m}$ constante d'état stationnaire en $mol.L^{-1}$
+* $K_{m} = \frac{[E] \cdot [S]}{[ES]} = \frac{k_{- 1} + k_{cat}}{k_1}$ avec $K_m$ constante d'état stationnaire en $mol.L^{-1}$
 
 Pour déterminer la vitesse, car on est incapable de mesurer la concentration de $[ES]$. L'astuce de Michaelis-Menten consiste à écrire $v = k_{2}[ES]\frac{[E_0]}{[E_0]}$ et d'exprimer $[E_0]$ en fonction de $[ES]$ :
 
@@ -132,9 +137,9 @@ On obtient alors pour la vitesse (équation de) $v = \frac{k_{cat}[E_0][S]}{K_m
 
 On peut déduire de l'équation :
 
-* La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_m \lt \lt [S]$ d’où $v_{\max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$ ainsi l'équation de Micheal-Menden peut s'écrire $v = \frac{v_{\max}[S]}{K_m + [S]}$.
+* La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_m \ll [S]$ d’où $v_{\max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$ ainsi l'équation de Micheal-Menden peut s'écrire $v = \frac{v_{\max}[S]}{K_m + [S]}$.
 * Efficacité de l’enzyme. Plus la vitesse est grande, plus $k_{cat}$ est grand.
-* L'affinité (reconnaissance entre l'enzyme et le substrat) correspond à la proportion $\frac{[E]}{[ES]}$. Plus elle est élevée et plus $\frac{[E]}{[ES]}$ est petit d’où $K_m = \frac{[E]}{[ES]}[S]$ est petit.
+* L'affinité (reconnaissance entre l'enzyme et le substrat) correspond à la proportion $\frac{[E]}{[ES]}$. Plus elle est élevée et plus $\frac{[E]}{[ES]}$ est petit d’où $K_m = \frac{[E]}{[ES]} \cdot [S]$ est petit.
 
 !!! note
 	Pour $[S] = K_m$, on a également $v = \frac{1}{2} \cdot v_{\max}$.
@@ -156,13 +161,13 @@ On a remarque que :
 
 !!! notes Point méthode
 	Pour savoir si la réaction enzymatique de type Michaelis-Menten, on vérifie que $f( \frac{1}{[S]} ) = \frac{1}{[P]}$ est une droite.
-	On peut alors déterminer les constantes $v_{max}$ et $K_{m}$ d’après le graphique.
+	On peut alors déterminer les constantes $v_{max}$ et $K_m$ d’après le graphique.
 
 #### Modèle de Briggs-Haldane
 
 Le modèle de Briggs-Haldane suppose que $[ES] = c$ avec $c$ une constante.
 
-$v = \frac{k_{cat}[E_0][S]}{K_m+[S]}$
+$v = \frac{k_{cat} \cdot [E_0] \cdot [S]}{K_m + [S]}$
 
 ### Les inhibiteurs de l'activité enzymatique
 
@@ -182,9 +187,9 @@ Il existe deux grands types d'inhibition :
 --------------------|-----------------------|-----------------------------|
 Site bloqué par l'inhibiteur                                     | Reconnaissance                                                         | Catalyse                                                                                                                              |
 | Modifie                                                          | Équilibre entre enzyme et substrat                                     | Efficacité de l'enzyme                                                                                                                |
-| Affinité enzyme-inhibiteur                                       | $K_i = \frac{[E][I]}{[EI]}$ | $K_{i} = \frac{[E][I]}{[EI]} = \frac{[ES][I]}{[ESI]}$ |
-| $E_{0} = $ | $[E] + [EI] + [ES]$           | $[E] + [EI] + [EIS] + [ES]$                                                     |
-| Rmq                                                              | $v_{max}$ ne change pas                                               | $K_{m}$ ne change pas                                                                                                                 |
+| Affinité enzyme-inhibiteur                                       | $K_i = \frac{[E] \cdot [I]}{[EI]}$ | $K_{i} = \frac{[E] \cdot [I]}{[EI]} = \frac{[ES] \cdot [I]}{[ESI]}$ |
+| $E_{0} =$ | $[E] + [EI] + [ES]$           | $[E] + [EI] + [EIS] + [ES]$                                                     |
+| Rmq                                                              | $v_{\max}$ ne change pas                                               | $K_m$ ne change pas                                                                                                                 |
 
 !!! note
 	Il existe d'autres inhibiteurs hybrides.
@@ -193,14 +198,14 @@ Site bloqué par l'inhibiteur                                     | Reconnaissan
 
 L'inhibiteur compétitif se lie sur le site réactionnel de l'enzyme à la place d'un substrat. Cela se traduit par une diminution de l'affinité du substrat avec l'enzyme.
 
-$v_i = \frac{v_{\max}[S]}{K_m \cdot (1 + \frac{[i]}{K_i}) + [S]} = \frac{v_{\max}[S]}{K_{mI} + [S]}$
+$v_i = \frac{v_{\max} \cdot [S]}{K_m \cdot (1 + \frac{[i]}{K_i}) + [S]} = \frac{v_{\max} \cdot [S]}{K_{mI} + [S]}$
 
 !!! note
-	On modifie la reconnaissance $K_{m} \lt {K'}_{m} = K_{m}(1 + \frac{[i]}{K_{i}})$
+	On modifie la reconnaissance $K_{m} \lt K'_m = K_m \cdot (1 + \frac{[i]}{K_i})$
 
 La constante d'inhibition :
 
-$K_i = \frac{K_m.[I]}{K_{mI} - K_m}$ avec $K_i$ est la quantité d'inhibiteurs nécessaire pour complétement arrêter la réaction. L'inhibition peut être levé en ajoutant du substrat.
+$K_i = \frac{K_m \cdot [I]}{K_{mI} - K_m}$ avec $K_i$ est la quantité d'inhibiteurs nécessaire pour complétement arrêter la réaction. L'inhibition peut être levée en ajoutant du substrat.
 
 #### Inhibiteur non compétitif
 
@@ -209,13 +214,13 @@ $v_{maxI} = \frac{v_{\max}}{1 + \frac{[i]}{K_i}}$
 !!! note
 	L'inhibiteur rend l'enzyme moins efficace (efficacité catalytique) ( $v_{\max}$ plus petit).
 
-$v_i = \frac{v_{\max}}{1 + \frac{[i]}{K_i}} \times \frac{[S]}{K_m + [S]} = \frac{v_{maxI}[S]}{K_m + [S]}$
+$v_i = \frac{v_{\max}}{1 + \frac{[i]}{K_i}} \cdot \frac{[S]}{K_m + [S]} = \frac{v_{\max I}[S]}{K_m + [S]}$
 
-$K_i = \frac{v_{maxI}.[I]}{v_{\max} - v_{\max I}}$
+$K_i = \frac{v_{\max I} \cdot [I]}{v_{\max} - v_{\max I}}$
 
 ### Effet du pH et de la température
 
-Les enzymes sont sensibles aux conditions de l'environnement notamment à cause de leur structure moléculaire, une enzyme possède des AA
+Les enzymes sont sensibles aux conditions de l'environnement notamment à cause de leur structure moléculaire, une enzyme possède des AA :
 
 * Chargés et polaires en périphérie.
 * Apolaires au centre.
@@ -228,7 +233,7 @@ __Isoenzyme__ enzyme qui fonctionne de manière optimale dans des conditions phy
 
 Le changement de pH modifie l'activité de l'enzyme car cela modifie les AA polaires notamment la cystéine et les AA chargés impliqués sur le site de reconnaissance et de catalyse.
 
-Rappel : Si le $pH \gt pKa+1$ alors l'espèce sera déprotonée à 90%.
+Rappel : Si le $pH \gt pK_a + 1$ alors l'espèce sera déprotonée à 90%.
 
 !!! note
 	Il est possible de déterminer les AA impliqués dans la reconnaissance et la catalyse en jouant sur le pH.
@@ -278,7 +283,7 @@ En fonction du type d'action que provoque le ligand, on dit qu'il est :
 
 #### Formalisation de l'interaction ligand récepteur 
 
-$R + L \leftrightarrow RL$
+$R + L \rightleftharpoons RL$
 
 On note pour :
 
@@ -287,16 +292,16 @@ On note pour :
 
 À l'équilibre la vitesse d'association est égale à celle de dissociation. Les concentrations des différentes espèces chimiques n'évoluent plus. On a :
 
-* La constante d'affinité à l'équilibre $k_d = \frac{k_{diss}}{k_{ass}} = \frac{[L][R]}{[LR]}$
+* La constante d'affinité à l'équilibre $k_d = \frac{k_{diss}}{k_{ass}} = \frac{[L] \cdot [R]}{[LR]}$
 * La quantité de récepteurs $[R_0] = [R] + [RL]$
 
 On obtient alors :
 
-* Concentration de $[RL] = \frac{[R_0].[L]}{K_d + [L]}$
+* Concentration de $[RL] = \frac{[R_0] \cdot [L]}{K_d + [L]}$
 * Proportion de $\frac{[RL]}{[R_0]} = \frac{[L]}{K_d + [L]}$
 
 !!! note
-	Lorsque $RL = \frac{[R_{0}]}{2}$ on a $K_{d} = L$.
+	Lorsque $RL = \frac{[R_0]}{2}$ on a $K_d = L$.
 
 ##### Linéarisation
 
@@ -306,13 +311,13 @@ On utilise la linéarisation pour déterminer :
 * $R_0$ concentration de récepteurs (en Mol).
 * $N = \frac{B_{\max}}{[R]}$ nombre de sites par mol.
 
-On a $\frac{[RL]}{[L]} = \frac{- 1}{K_d}[RL] + \frac{R_0}{K_d}$
+On a $\frac{[RL]}{[L]} = \frac{- 1}{K_d} \cdot [RL] + \frac{R_0}{K_d}$
 
 En ordonné, on a la quantité de ligand liée par rapport à celle libre.
 
 Les points remarquables obtenus sont :
 
-* Pour $[RL] = 0$, on a $y = B_{max}$
+* Pour $[RL] = 0$, on a $y = B_{\max}$
 * $a = \frac{- 1}{K_d}$
 * Pour $y = 0$, on a $[RL] = R_0$
 
