@@ -3,7 +3,7 @@
 Inspiré du système visuel chez les Animaux. 
 Aggrégation de données.
 
-# Extracteur de caractéristiques
+## Extracteur de caractéristiques
 
 L'extraction se fait par l'application de trois opérations :
 
@@ -19,6 +19,6 @@ carte d'activation
 Taille de l'activation map :   même chose pour la hauteur 
 `stride` taille du déplacement (par défaut 1)
 
-$\frac{largeur de l'image - noyau + 1}{stride}$
+$\frac{largeur\ de\ l'image - noyau + 1}{stride}$
 
 `padding=` ajout de colonne et ligne pour agrandir la matrice padding=1 correspond à l'ajout de deux colonnes et de deux liges au début et à la fin.

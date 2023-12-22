@@ -2,7 +2,7 @@ Fouille de texte
 
 élimine les termes communs (le, la, pour, si)
 Inverse Document Frequency (IDF) 
-`log(N/n) 
+$\log \frac{N}{n}$
 n nbre de documents où le terme apparait.
 N nbre de documents
 

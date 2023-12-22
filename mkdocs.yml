@@ -93,6 +93,11 @@ nav:
       - "Evolution des populations" : biologie/ecologie/evolution-population.md
       - "Génétique des populations" : biologie/ecologie/genetique-population.md
       - "Origine de la biodiversité" : biologie/ecologie/origine-biodiversite.md
+    - Evolution :
+      - "Génétique Mendel" : biologie/evolution/genetique-mendel.md
+      - "Génome évolution" : biologie/evolution/genome-evolution.md
+      - "Phylogénie" : biologie/evolution/phylogenie.md
+      - "Théorie de l'évolution" : biologie/evolution/theorie-evolution.md
     - "Méthodes et techniques" :
       - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
       - "Clonage" : biologie/methodes-techniques/clonage.md
@@ -107,7 +112,10 @@ nav:
       - "Immunomarquage" : biologie/methodes-techniques/immunomarquage.md
       - "Microscopie" : biologie/methodes-techniques/microscopie.md
       - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
-    - "Physologie animale" : 
+    - "Physologie animale" :
+      - "Nutrition" : biologie/physiologie-animale/nutrition-animaux.md
+      - "Physologie cellule animale" : biologie/physiologie-animale/physiologie-cellule-animale.md
+      - "Système endorinien" : biologie/physiologie-animale/systeme-endocrinien.md
       - "Structure et fonction" : biologie/physiologie-animale/structure-fonction-principes.md
       - Comportement : biologie/physiologie-animale/comportement.md
       - Histologie  : biologie/physiologie-animale/histologie.md
@@ -143,7 +151,7 @@ nav:
       - "CFH" : data-science/cluestering/CDH.md
       - "Centres mobiles" : data-science/cluestering/centres-mobiles.md
     - "Dictionnaire Statistique" : data-science/dictionnaire-statistique.md
-    - Graphiquees : data-science/graphiques.md
+    - Graphiques : data-science/graphiques.md
     - "Réduction de dimensions" :
       - "Réduction de dimensions" : data-science/reduction-dimensions/reduction-dimension.md
       - ACM : data-science/reduction-dimensions/ACM.md

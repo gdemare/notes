@@ -6,27 +6,30 @@ Le modèle est constitué de plusieurs couches formées de plusieurs neurones. L
 
 Une entrée                           | Une ou plusieurs cachées      | Une couche de sortie
 -------------------------------------|-------------------------------|---------------------
-Recoit les données brutes en entrée  | des couches intermédiaires    | une couche qui génére la probabilité d'appartenance à la classe
+Recoit les données brutes en entrée  | des couches intermédiaires    | une couche qui génére la probabilité d'appartenance à la classe 
+
+!!! warning
+    Les données en entré sont considérées comme la première couche.
 
 Les connexions entre les neurones sont appelées synapses. Il en existe de deux types de synapses : 
 
-* inhibiteur
-* excitateur
+* Inhibiteur.
+* Excitateur.
 
 Si un neurone pré et post synaptique s'excitent ensemble alors ils renforceront le lien qui les uni càd le poid synaptique de la synapse qui les relie.
 
 Chaque neurone applique une fonction à la donnée qu'il recoit en entrée. On utilise principalement trois fonctions :
 
 * Sigmoïde $f(x) = \frac{1}{1 + e^{-x}}$
-* Unité de rectification linéaire douce. $f(x)= \ln(1+e^{x})$
+* Unité de rectification linéaire douce. $f(x)= \ln (1+e^{x})$
 
 !!! note
     Il existe aussi des fonctions discontinues mais elles posent des problèmes d'optimisation car elles ne sont pas dérivables.
 
 !!! example
 
-    * Marche ou heaviside, $x<0$ alors $f(x)=0$ et $x>=0$ alors $f(x)=1$.
-    * Unité de rectification linéaire $f(x)=0$ si $x<0$ et $f(x)=x$ si $x>=0$ (appelé relu).
+    * Marche ou heaviside, $x \lt 0$ alors $f(x) = 0$ et $x>=0$ alors $f(x)=1$.
+    * Unité de rectification linéaire $f(x) = 0$ si $x \lt 0$ et $f(x) = x$ si $x \ge 0$ (appelé relu).
     * tanh fonction qui ressemble à la sigmoid en plus "typée" sur un intervalle de -1 à 1. 
 
 !!! note
@@ -87,11 +90,11 @@ Créer des lots de fichiers (batch) qui seront soumis plusieurs fois au modèle.
 
 Générer un jeu de données d'apprentissage à partir d'un dosssier. Les images créées par des transformations sont ajoutées aux jeux de données (training, validation) tels que :
 
-* Rotations
-* Cisaillement
-* Changements d'échelle
-* Rotation de l'image
-* Zoom
+* Rotations.
+* Cisaillement.
+* Changements d'échelle.
+* Rotation de l'image.
+* Zoom.
 
 ## Bibliothèques
 
@@ -112,7 +115,7 @@ Library             | Développer    | Avantages
 
 ### Un neurone (ou perceptron)
 
-$z = w_{1} \cdot x_{1} + w_{2} \cdot x_{2} + b$ avec $w_{i}$ les poids pour chaque variable $x_{i}$ donnéee en entré au neurone. Attention, il faut standariser les valeurs.
+$z = w_1 \cdot x_1 + w_2 \cdot x_2 + b$ avec $w_i$ les poids pour chaque variable $x_i$ donnéee en entré au neurone. Attention, il faut standariser les valeurs.
 
 On applique ensuite la fonction qui renvoie une valeur sur $[0 ;1]$
 
@@ -120,21 +123,21 @@ $a(z) = \frac{1}{1 + e^{- z}}$
 
 #### Performance du modèle
 
-On compare la probabilité d'appartenance de la classe avec la réalisation. Ainsi, la qualité de prédiction du modèle avec la classe réelle pouvant être $y={0 ;1}$ : $p(Y = y) = {a(z)}^{y} \times {(1 - a(z))}^{1 - y}$
+On compare la probabilité d'appartenance de la classe avec la réalisation. Ainsi, la qualité de prédiction du modèle avec la classe réelle pouvant être $y={0 ;1}$ : $p(Y = y) = a(z)^y \cdot {(1 - a(z))}^{1 - y}$
 
-L'ensemble des données d'apprentissage suit une loi de Bernoulli ce qui donne: vraisemblance $L = \prod_{i}^{n}{a_{i}}^{y_{i}} \times {(1 - a_{i})}^{1 - y_{i}}$
+L'ensemble des données d'apprentissage suit une loi de Bernoulli ce qui donne: vraisemblance $L = \prod_{i}^{n}{a_i}^{y_i} \cdot {(1 - a_i)}^{1 - y_i}$
 
 !!! note
     Elle tend vers 0 plus on a de données.
 
 Elle augmente avec la qualité de prédiction du modèle et le nombre de données. Pour faciliter les calculs et la lecture, on applique la fonction log qui conserve l'ordre (croissante) :
 
-On cherche à minimiser la fonction cout noté log loss $L = - \frac{1}{m}\sum_{i = 1}^{}y_{i}.log(a_{i}) + (1 - y).log(1 - a_{i})$
+On cherche à minimiser la fonction cout noté log loss $L = - \frac{1}{m}\sum_{i = 1}{y_i \cdot \log (a_i) + (1 - y) \cdot \log(1 - a_i)}$
 
 On applique :
 
 * une pondération m (nbre de données) pour que la qualité ne dépende pas du nombre de données.
-* un signe --
+* un signe --.
 
 #### Calcul des poids
 
@@ -142,18 +145,16 @@ L'optimisation du modèle passe par l'ajustement des poids. On cherche à minimi
 
 Cela passe par le calcul du gradient cad des dérivés partielles.
 
-$w_{i + 1} = w_{i} - \alpha\frac{\partial L}{\partial w_{i}}$ avec
-$\alpha$ un pas d'apprentissage.
+$w_{i + 1} = w_i - \alpha\ \cdot \frac{\partial L}{\partial w_i}$ avec $\alpha$ un pas d'apprentissage.
 
-$\frac{\partial L}{\partial w_{i}} = \frac{1}{m}X^{T}.(A - y)$ où avec X
-la matrice chaque ligne correspond aux valeurs d'une variable
+$\frac{\partial L}{\partial w_{i}} = \frac{1}{m} \cdot X^T \cdot (A - y)$ où avec $X$ la matrice chaque ligne correspond aux valeurs d'une variable
 $X = \begin{matrix}
 x_{1} & x_{2} & x_{3} \\
  & & \\
 \end{matrix}$
 
-Avec A la matrice colonne des $a_{i}$
+Avec A la matrice colonne des $a_i$
 
-$b = b - \alpha\frac{\partial L}{\partial b}$
+$b = b - \alpha\ \cdot \frac{\partial L}{\partial b}$
 
-$\frac{\partial L}{\partial b} = \frac{1}{m}\sum_{}^{}{(A - y)}$
+$\frac{\partial L}{\partial b} = \frac{1}{m} \sum{(A - y)}$

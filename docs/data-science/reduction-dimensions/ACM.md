@@ -19,11 +19,11 @@ C'est une généralisation de l'AFC.
 
 Calcule la projection des modalités et des individus.
 
-| - | + |
-|---|---|
-| Gourmant en ressources | 1 étape |
+Inconvénients           | Avantage
+------------------------|---
+Gourmand en ressources  | 1 étape 
 
-\alpha la valeur propre pour un axe.
+$\alpha$ la valeur propre pour un axe.
 
 ## ACM sur tableau de Burt
 
@@ -33,7 +33,7 @@ Calcule la projection des modalités.
 |---|---|
 | 2 étapes | ressources |
 
-\alpha² la valeur propre pour un axe.
+$\alpha ^2$ la valeur propre pour un axe.
 
 Les coordonnées des individus se calculent avec la formule suivante :
 

@@ -20,5 +20,8 @@ Nano  				| n 				| $10^9$
 Définition          | Unité     | Correspondance    | Rmq
 --------------------|-----------|-------------------|--------
 Masse moléaire      | Dalton Da | $g.mol^{-1}$      |
-Volume              | Litre L   | $1L = 1{dm}^3 = 1 kg$ |
-Energie             | Calorie Ca| $4.184 J$         | Quantité d'énergie nécessaire pour augmenter +1°C d'un 1g d'eau.
+Volume              | Litre L   | $1L = 1 dm^3 = 1 kg$ |
+Energie             | Calorie Ca| $4.184 J$         | Quantité d'énergie nécessaire pour augmenter +1°C un 1g d'eau.
+Puissance           |  Watt W   | $g \cdot m \cdot s^{-1}$      |
+Force               | Newton N  | | Force à appliquer pour déplacer $1kg$ à la vitesse de $1 m \cdot s^{−2}$
+Tension             | Volt V    | $J \cdot C^{−1}$ | 
