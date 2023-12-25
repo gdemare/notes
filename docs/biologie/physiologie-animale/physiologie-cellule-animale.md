@@ -220,41 +220,43 @@ Lorsque l'on regarde ce phénomène à plus grande échelle c'est-à-dire au niv
 
 Ainsi, si deux compartiments possèdent des concentrations différentes en soluté et, comme toutes les molécules ont la même probabilité de quitter leur compartiment, celles du compartiment le plus concentrés seront plus nombreuses à sortir.
 
-Loi de Fick : vitesse de diffusion à travers une membrane.
+La vitesse de diffusion du flux à travers une membrane en $mole \cdot s^{-1}$ est donnée par la loi de Fick :
 
 $$J = - D \cdot S \cdot \frac{\Delta C}{L}$$
-J vitesse du flux en
-* $mole \cdot s^{-1}$.
+
+Avec :
+
 * $D$ coefficient de diffusion.
 * $S$ surface de diffusion $m^2$.
-* $\delta C$ différence de concentration $mole.m^{-3}$
+* $\Delta C$ différence de concentration $mole.m^{-3}$.
 * $L$ épaisseur de la membrane $m$.
 
 ### Le gradient électrochimique
 
-Le gradient chimique est la différence du potentiel électrochimique entre deux milieux.
+Le gradient chimique est la différence du potentiel électrochimique entre deux milieux en $J \cdot mol ^{-1}$ :
 
-$\mu _i = \mu _0 + R \cdot T \cdot \ln [S] + z \cdot F \cdot E$ potentiel
-électrochimique $J \cdot mol ^{-1}$
-$R \cdot T \cdot \ln [S]$
-gradient chimique :
+$$\mu _i = \mu _0 + R \cdot T \cdot \ln [S] + z \cdot F \cdot E$$
 
-* température en $= 273,15 C^ \circl C$
-$R = 8.314 J \cdot mol ^{-1} \cdot K^{−1}$
+Où :
 
-$z \cdot F \codt E$ gradient électrique, il vaut 0 pour les molécules neutres avec :
+* $R \cdot T \cdot \ln [S]$ est le gradient chimique avec :
 
-* $F$ cste de Farraday ( $96 500 C \cdot mol^{-1}$ ).
-* $z$ nbre de charges électriques de la molécule
-* $E$ potentiel électrique en $V$.
+    * $T$ la température en $K = 273.15 + T ^ \circ C$.
+    * $R = 8.314 J \cdot mol ^{-1} \cdot K^{−1}$.
+
+* $z \cdot F \cdot E$ est le gradient électrique. Il vaut 0 pour les molécules neutres. Avec :
+
+    * $F$ cste de Farraday ( $96 500\ C \cdot mol^{-1}$ ).
+    * $z$ nbre de charges électriques de la molécule.
+    * $E$ potentiel électrique en $V$.
 
 __Potentiel électrique__ charge totale par l'espace c'est-à-dire l'énergie unitaire d'un point de l'espace.
 
 Situation :
 
-1. Pour deux compartiments avec des concentrations différentes. Si on ouvre un canal qui relie les deux compartiments, le potentiel se dissipe et le système tend vers l'équilibre : $\mu_{i} = 0$
-2. Pour annuler le potentiel, on peut chercher appliquer un courant $\mu _{i} = 0 \Leftrightarrow E_{ion} = \frac{- R \cdot T}{z \cdot F} \cdot \ln [S]$. $E_{ion}$ est la valeur d'un courant qui empêche les mouvements de ions.
-3. $- E_{ion}$ est donc la différence de potentiel électrique entre les deux compartiment.
+1. Pour deux compartiments avec des concentrations différentes. Si on ouvre un canal qui relie les deux compartiments, le potentiel se dissipe et le système tend vers l'équilibre $\mu_{i} = 0$.
+2. Pour annuler le potentiel, on peut chercher appliquer un courant $\mu _i = 0 \Leftrightarrow E_{ion} = \frac{- R \cdot T}{z \cdot F} \cdot \ln [S]$. $E_{ion}$ est la valeur d'un courant à appliquer pour empêcher les mouvements de ions.
+3. $- E_{ion}$ est donc la différence de potentiel électrique entre les deux compartiments.
 4. Généralement la membrane est chargée $E_{membrane} = - 70mV$. La différence de charge entre les deux compartiment est alors égale à : $E_{membrane} + (- E_{ion})$. Cette différence est appelée force électromotrice et est noté FEM.
 
 __Force électromotrice__ (FEM ou potentiel) valeur de la charge dissymétrique entre les deux milieux.
@@ -280,9 +282,11 @@ Pile les électrons vont du cathode (+) à l'anode (-). La représentation en ci
 
 $$I_{ion} = g \cdot FEM = \frac{1}{r} \cdot FEM$$
 
-$S$ conductance unitaire du canal $\ohm ^{-1}$
-$I$ intensité (charge par temps) $C \cdot s^{−1} = A$
-$r$ résistance $A \cdot V^{−1} = \ohm$
+Avec :
+
+* $S$ conductance unitaire du canal $\Omega ^{-1}$.
+* $I$ intensité (charge par temps) $C \cdot s^{−1} = A$.
+* $r$ résistance $A \cdot V^{−1} = \Omega$.
 
 Au repos, les charges entre les deux compartiments ne varient pas. La somme des intensités est nulle.
 
@@ -330,7 +334,7 @@ Exemple de protéines :
 
 * Canaux ioniques
 * Les aquaporines qui sont des canaux ouverts permettent à l'eau de se répartir entre le milieu extra et intra cellulaire suivant l'osmose.
-* Transporteurs (Glut)
+* Transporteurs (Glut).
 
 ### Transport actif
 
@@ -368,7 +372,7 @@ mesuré :$e_{int} - e_{ext} = - 70mV$
 Les canaux ioniques sont des transporteurs de la diffusion facilitée. Ils sont par défaut fermés et ne s'ouvrent quand réponse à un stimuli de type :
 
 * Chimique (fixation d'un ligand, concentration d'une molécule).
-* Une modification des paramètres physicochimiques (tension, ph, température)
+* Une modification des paramètres physicochimiques (tension, ph, température).
 
 !!! note
     La capsaïcine qui est la molécule active du piment augmente la sensibilité à la chaleur. Elle diminue le seuil d'activation des récepteurs qui ouvrent des canaux ioniques impliqués dans la transmission de messages nerveux.
@@ -376,7 +380,7 @@ Les canaux ioniques sont des transporteurs de la diffusion facilitée. Ils sont 
 Le passage des ions se fait suivant le principe du gradient électrochimique. Le flux qui a lieu est un courant électrique c'est-à-dire de molécules chargées ou de particules. Il est mesuré en Ampère (A).
 
 !!! note
-    On considère que les canaux ioniques ne sont pas saturables car ils permettent le passage jusqu'à 10^6^ ions/s.
+    On considère que les canaux ioniques ne sont pas saturables car ils permettent le passage jusqu'à $10^6\ ions \cdot s^{-1}$.
 
 On note $E_m - E_{ion}$
 
@@ -387,6 +391,9 @@ __Potentiel de repos__ noté (noté $E_r$) potentiel généré par l'activité d
 La résistance des canaux dépend de :
 
 $$R = \frac{1}{n \cdot g \cdot P_0}$$
+
+Avec : 
+
 * $n$ nombre de canaux
 * $g$ conductance unitaire d’un canal.
 * $P_0$ probabilité d’ouverture du canal.
@@ -445,7 +452,7 @@ __Unité motrice__ neurone moteur avec toutes les fibres auxquelles il est reli�
 La propagation du PA de l'axone jusqu'au réticulum sarcoplasmique se fait par des canaux calciques.
 
 !!! note
-    Une fois arrivé au réticulum sarcoplasmique, il y a également libération de Ca^2+^.
+    Une fois arrivé au réticulum sarcoplasmique, il y a également libération de $Ca^2+$.
 
 __Recrutement__ nombre d'axones activés.
 

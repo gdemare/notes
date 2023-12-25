@@ -8,13 +8,10 @@ corrélation entre leur structure et leur fonction.
 
 Il existe quatre types de tissus :
 
--   Conjonctif (dont tissus conjonctif liquide avec le sang),
-
--   Épithélial
-
--   musculaire
-
--   Nerveux
+* Conjonctif (dont tissus conjonctif liquide avec le sang),
+* Épithélial
+* musculaire
+* Nerveux
 
 NB : les cellules souches et cellules germinales n'appartiennent à aucun
 de ces types.

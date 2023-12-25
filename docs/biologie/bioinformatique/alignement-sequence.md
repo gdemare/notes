@@ -284,10 +284,10 @@ Avec :
 
 Le choix de la méthode de génération de séquences aléatoire doit prendre en compte la complexité. Evaluer la qualité d'un modèle càad le compris entre nombre de paramètres et le modèle obtenu se fait par :
 
-Log de vraissemblance $L = \log{\mu_{1}}$
+Log de vraissemblance $L = \log \mu _1$
 
-* AIC (Akaike Information Criterion) $AIC = -2L + 2K$
-* BIC (Bayesian Information Criterion) $BIC = K \cdot \log{n} - 2 \log{L}$
+* AIC (Akaike Information Criterion) $AIC = -2 \cdot L + 2 \cdot K$
+* BIC (Bayesian Information Criterion) $BIC = K \cdot \log n - 2 \cdot \log L$
 
 Avec :
 

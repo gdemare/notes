@@ -309,11 +309,9 @@ L'hypothalamus libère des hormones par un réseau de veines qui va directement 
 
 Régule
 
-Le métabolisme
-
-La reproduction
-
-L'osmorégulation.
+* Le métabolisme.
+* La reproduction.
+* L'osmorégulation.
 
 ## Les principales glandes chez les vertébrés
 

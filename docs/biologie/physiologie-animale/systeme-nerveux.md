@@ -14,8 +14,8 @@ __Moelle épignière__ circuit nerveau simples qui permettent des réponses auto
 
 __Liquide cérébrospiral__ liquide issue de la filtration du sang
 
-Cellule gliales radiales et les astrocytes sont les cellules souches des neurones.
+Les cellule gliales radiales et les astrocytes sont les cellules souches des neurones.
 
 Techniques d'études du cerveau :
 
-Brainbow expression de protéines marquées les neurones avec une couleur grâce à une combinaison aléatoire
+* Brainbow expression de protéines marquées les neurones avec une couleur grâce à une combinaison aléatoire.

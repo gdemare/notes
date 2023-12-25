@@ -1,6 +1,6 @@
-Physiologie étude des fonctions biologiques.
+__Physiologie__ étude des fonctions biologiques.
 
-Anatomie étude des structures biologiques.
+__Anatomie__ étude des structures biologiques.
 
 Les formes des organes sont adaptées à leur fonction.
 
@@ -95,12 +95,12 @@ Les cellules de même structure et de même fonction sont regroupées en tissus.
 
 ## Les tissus épithéliaux
 
-Les tissus épithéliaux sont constitués de cellules jointives serrées. Elles forment des barrière. L'épithélium est polarisé, une face :
+Les tissus épithéliaux sont constitués de cellules jointives serrées. Elles forment des barrières. L'épithélium est polarisé, une face :
 
 * Apicale (du côté de la lumière).
 * Basale (attaché à une lame de basale).
 
-Lame basale la jonction entre le tissus conjonctif et l'épithélium. Elle est constituée d'un assemblage de protéines et glycoprotéines qui permet l'adhérence avec le tissu conjonctif.
+__Lame basale__ la jonction entre le tissus conjonctif et l'épithélium. Elle est constituée d'un assemblage de protéines et glycoprotéines qui permet l'adhérence avec le tissu conjonctif.
 
 Les cellules sont jointes par des protéines appelées desmosomes.
 
@@ -155,21 +155,9 @@ faible densité de cellules.
 
 Les fibres sont classées en trois catégories :
 
-<table>
-<colgroup>
-<col style="width: 34%" />
-<col style="width: 42%" />
-<col style="width: 22%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Collagène</p>
-<p>(résistante et souple)</p></td>
-<td>Réticulaire (qui joint les tissus conjonctifs)</td>
-<td>Élastique</td>
-</tr>
-</tbody>
-</table>
+* Collagène (résistante et souple).
+* Réticulaire (qui joint les tissus conjonctifs).
+* Élastique.
 
 Il existe différents types de tissus conjonctifs :
 
@@ -192,11 +180,9 @@ Les tissus musculaires permettent le mouvement grâce à aux glissement de filam
 
 Il existe trois types de tissus musculaire chez les vertébrés :
 
-|                              |                                                                                                                                                            |
-|-------------------|-----------------------------------------------------|
-| Squelettique ou muscle strié | Faisceaux de cellules qui forment la fibre musculaire                                                                                                      |
-| Lisse                        | Associé aux muscles involontaires.                                                                                                                         |
-| Cardiaque                    | Des disques sont intercalés entre les fibres ce qui facilitent la transmission du message nerveux et ainsi la synchronisation des contractions cardiaques. |
+* Squelettique ou muscle strié. Ils sont formés par un faisceaux de cellules qui forment la fibre musculaire.
+* Lisse. Il sont généralement des muscles associés au mouvement involontaires.                       
+* Cardiaque. Ce sont des disques sont intercalés entre les fibres ce qui facilitent la transmission du message nerveux et ainsi la synchronisation des contractions cardiaques.
 
 !!! note
     A l'âge adulte les nombre de cellules musculaires n'évoluent plus, seul leur volume change.
@@ -205,10 +191,9 @@ Les cellules musculaire sont issues de plusieurs cellules qui ont fusionnées. I
 
 ## Le maintien du milieu interne
 
-Régulateur organisme qui maintient pour une variable une valeur constante dans le temps même lors de fluctuation dans l'environnement
-externe.
+Régulateur organisme qui maintient pour une variable une valeur constante dans le temps même lors de fluctuation dans l'environnement externe.
 
-Tolérant organisme capable de supporter d'importantes variations pour une variable donnée.
+__Tolérant__ organisme capable de supporter d'importantes variations pour une variable donnée.
 
 La régulation se fait autour d'une valeur de référence qui peut varier au cours du temps notamment durant le rythme circadien.
 
