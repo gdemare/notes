@@ -51,7 +51,7 @@ Tab         | Vrai | Faux
 **Positif** | $a$  | $b$
 **Négatif** | $c$  | $d$
 
-On note n le nombre d'individus du jeu de test : n = a+b+c+d.
+On note n le nombre d'individus du jeu de test : $n = a + b + c + d$.
 
 * **Taux d'erreur** ou **taux de mal classé** proportion d'individus mal classé $= \frac{c+b}{n}$
 
