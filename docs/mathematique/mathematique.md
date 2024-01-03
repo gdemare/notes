@@ -17,28 +17,28 @@ Pas clair à revoir
 
 ## Lettres grecques
 
-Majuscule | Minuscule | Nom 
----|---|---
-Α | Α | Alpha
-Ξ | ξ | Xi
-Β | β | Bêta
-Γ | γ | Gamma
-Δ | δ | Delta
-Ε | ε | Epsilon
-Θ | θ | Thêta
-Κ | κ | Kappa
-Λ | λ | Lambda 
-Μ | μ | Mu    
-Ν | ν | Nu  
-Π | π | Pi
-Ρ | ρ | Rhô
-Σ | σ/ς | Sigma
-Τ | τ | Tau
-Υ | υ | Upsilon
-Φ | φ | Phi
-Χ | χ | Xi
-Ψ | ψ | Psi
-Ω | ω | Oméga
+Majuscule	| Minuscule	| Nom 
+----------------|---------------|---
+Α 		| Α 	    	| Alpha
+Ξ 		| ξ 		| Xi
+Β 		| β 		| Bêta
+Γ 		| γ 		| Gamma
+Δ 		| δ 		| Delta
+Ε 		| ε 		| Epsilon
+Θ	 	| θ 		| Thêta
+Κ 		| κ 		| Kappa
+Λ 		| λ 		| Lambda 
+Μ 		| μ 		| Mu    
+Ν 		| ν 		| Nu  
+Π 		| π 		| Pi
+Ρ 		| ρ 		| Rhô
+Σ 		| σ/ς 		| Sigma
+Τ 		| τ 		| Tau
+Υ 		| υ 		| Upsilon
+Φ 		| φ 		| Phi
+Χ 		| χ 		| Xi
+Ψ 		| ψ 		| Psi
+Ω 		| ω 		| Oméga
 
 ## Identités remarquables
 
@@ -49,12 +49,12 @@ Connaitre les variations de $f(x)$.
 
 ## Identités remarquables
 
-* (1) $(x - a)^2 = x^2 -2ax + a^2$
-* (1) $(x + a)^2 = x^2 +2ax + a^2$
-* (3) $x^2 - y^2 = (x - y)(x + y)$
+* $(x - a)^2 = x^2 -2ax + a^2$
+* $(x + a)^2 = x^2 +2ax + a^2$
+* $x^2 - y^2 = (x - y)(x + y)$
 
 !!! note
 	Les identifés remarquables sont notammet utilisées dans la factorisaiton d'un polynome de second degré d'abord (1) ou (2) puis (3).
 
-Déviré premier sens de variation
-Dérivé second permet de détecter les plateaux.
+* Déviré premier sens de variation
+* Dérivé second permet de détecter les plateaux.
