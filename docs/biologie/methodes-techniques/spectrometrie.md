@@ -5,9 +5,6 @@ La spectrométrie de masse s'appuie sur l'analyse de la trajectoire de particule
 * Leur charge.
 * Leur masse.
 
-!!! info
-    Des informations sur la conformation peuvent être obtenu en la répartition des charges et de la masse dans l'espace.
-
 Leur mouvement modifie à son tour le champ électromagnétique. Ce sont ces variations qui sont mesurées et qui fournissent les informations sur les particules en mouvement (vitesse et orbite). L'appareil est sensible à de faibles variations.
 
 La précision de la masse est de l'ordre de 0,2 Da (Dalton). Par rapport à la masse d'un atome d'hydrogène qui est de 1 Da. La sensibilité est suffisante pour distinguer des isotopes.
