@@ -42,3 +42,25 @@ La somme de variables aléatoires converge vers une loi normale $\sum{X_i} \righ
 L'application directe de la loi permet de déduire un intervalle de confiance pour la moyenne $\hat{E} \in I_c = [ m \pm 1,96 \cdot \frac{s}{\sqrt{n}} ]$.
 
 Avec $m$ la moyenne et $s$ l'écart type de l'échantillon.
+
+
+## Décrire les individus
+
+Indicateurs :
+
+Tendance    | Dispersion    | Corrélation
+------------|---------------|----------------
+Moyenne     | Variance      | Coeff de Pearson
+Médiane     | Écart type    | Coeff de Spearman
+            |               | Covariance
+
+## Autres 
+
+* Centroïde
+* Espérance-maximisation
+
+On parle de standarisation des données et non de normalisation lorsque les données sont centrées (moins la moyenne) et réduite (diviser par l'écart type).
+
+## Méthodes
+
+Covariance est l'espérance du produit de $[X-E(X)] \cdot [Y-E(Y)]$
