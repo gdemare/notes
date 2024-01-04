@@ -124,13 +124,14 @@ nav:
       - Neurobiologie : biologie/physiologie-animale/neurobiologie.md
       - "Système nerveux" : biologie/physiologie-animale/systeme-nerveux.md
   - "Data Science" :
-    - "Méthodes data science" : data-science/methodes-data-science.md
+    - "Panorama" : data-science/methodes-data-science.md
     - "A voir" : data-science/a-voir.md
-    - Cartographie : data-science/cartographie.md
     - "Dictionnaire Statistique" : data-science/dictionnaire-statistique.md
-    - "Traitement des images" : data-science/traitement-image.md
-    - "Transformation des données" : data-science/transformation-donnees.md
-    - "Text mining" : data-science/text-mining.md
+    - "Données non structurées" :
+      - Cartographie : data-science/cartographie.md
+      - "Text mining" : data-science/text-mining.md
+      - "Traitement des images" : data-science/traitement-image.md
+      - "Transformation des données" : data-science/transformation-donnees.md
     - Graphiques : data-science/graphiques.md
     - "Modèles" :
       - "Classification" :
@@ -157,19 +158,20 @@ nav:
         - "Série temporelle" : data-science/serie-temporelle.md
         - "ARMA" : data-science/classification/ARMA.md
         - "Lissage exponentiel" : data-science/classification/lissage-exponentiel.md
-    - Cluestering : 
-      - Cluestering : data-science/cluestering/cluestering.md
-      - "Cluestering des variables" : data-science/classification/clustering-variables.md
-      - "CAH" : data-science/cluestering/CAH.md
-      - "CFH" : data-science/cluestering/CDH.md
-      - "Centres mobiles" : data-science/cluestering/centres-mobiles.md
-    - "Réduction de dimensions" :
-      - "Réduction de dimensions" : data-science/reduction-dimensions/reduction-dimension.md
-      - ACM : data-science/reduction-dimensions/ACM.md
-      - ACP : data-science/reduction-dimensions/ACP.md
-      - AFC : data-science/reduction-dimensions/AFC.md
-      - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
-      - "Positionnement multidimensionnel" : data-science/reduction-dimensions/positionnement-multidimensionnel.md
+    - "Regroupement & réduction de dimensions" :
+      - Cluestering : 
+        - Cluestering : data-science/cluestering/cluestering.md
+        - "Cluestering des variables" : data-science/classification/clustering-variables.md
+        - "CAH" : data-science/cluestering/CAH.md
+        - "CFH" : data-science/cluestering/CDH.md
+        - "Centres mobiles" : data-science/cluestering/centres-mobiles.md
+      - "Réduction de dimensions" :
+        - "Réduction de dimensions" : data-science/reduction-dimensions/reduction-dimension.md
+        - ACM : data-science/reduction-dimensions/ACM.md
+        - ACP : data-science/reduction-dimensions/ACP.md
+        - AFC : data-science/reduction-dimensions/AFC.md
+        - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
+        - "Positionnement multidimensionnel" : data-science/reduction-dimensions/positionnement-multidimensionnel.md
   - Mathématique :
     - Mathématique : mathematique/mathematique.md
     - Algorithmie :  mathematique/algorithmique.md
