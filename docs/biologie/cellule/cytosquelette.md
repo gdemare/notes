@@ -1,69 +1,50 @@
-Rappel : une protéine dispose d'une extrémité NH notée N-ter et COOH
-notée C-ter.
+Rappel : une protéine dispose d'une extrémité NH notée N-ter et COOH notée C-ter.
 
-Tous les moteurs moléculaires nécessitent de l'ATP pour fonctionner. Ils
-sont formés de chaines :
+Tous les moteurs moléculaires nécessitent de l'ATP pour fonctionner. Ils sont formés de chaines :
 
--   lourdes qui portent le domaine moteur
+* lourdes qui portent le domaine moteur
+* légères qui ont une fonction régulatrice et structurale.
 
--   légères qui ont une fonction régulatrice et structurale.
+Cascade de signalisation (ou voie de signalisation) série de réactions chimiques initiée par un stimuli. Les différentes étapes peuvent permettre de moduler très précisément la réponse cellulaire.
 
-Cascade de signalisation (ou voie de signalisation) série de réactions
-chimiques initiée par un stimuli. Les différentes étapes peuvent
-permettre de moduler très précisément la réponse cellulaire.
-
-Kinase (par opposition au phosphatase) protéine capable de transférer un
-groupement phosphate.
+Kinase (par opposition au phosphatase) protéine capable de transférer un groupement phosphate.
 
 ATPase protéine qui hydrolyse ou synthétise de l'ATP.
 
-Le cytosquelette assure le maintien de la forme de la cellule. Il joue
-un rôle majeur dans de nombreux mécanismes cellulaires :
+Le cytosquelette assure le maintien de la forme de la cellule. Il joue un rôle majeur dans de nombreux mécanismes cellulaires :
 
--   La mobilité cellulaire
-
--   La division cellulaire
-
--   Le transport intracellulaire
-
--   L'organisation de la cellule
+* La mobilité cellulaire
+* La division cellulaire
+* Le transport intracellulaire
+* L'organisation de la cellule
 
 Il est formé par trois réseaux (diamètre) :
 
-|                     |                            |                                |
-|------------------------|------------------------|------------------------|
-| Microtubule (24 nm) | Filament d'actine (7-9 nm) | Filament intermédiaire (10 nm) |
+* Microtubule (24 nm)
+* Filament d'actine (7-9 nm)
+* Filament intermédiaire (10 nm)
 
-La polymérisation ne nécessite pas d'énergie contrairement au
-désassemblage des sous-unités.
+La polymérisation ne nécessite pas d'énergie contrairement au désassemblage des sous-unités.
 
-Les microtubules et les filaments d'actine sont orientés. Il dispose
-d'une extrémité dite + avec une activité de polymérisation et
-dépolymérisation plus importante.
+Les microtubules et les filaments d'actine sont orientés. Il dispose d'une extrémité dite + avec une activité de polymérisation et dépolymérisation plus importante.
 
 Les microtubules sont beaucoup instables.
 
 # Les microtubules
 
-Les microtubules sont des tubes constitués de 13 filaments de polymères
-de dimères de tubuline. Chaque hétérodimère est formé par deux sous
-unités instables qui s'assemblent spontanément :
+Les microtubules sont des tubes constitués de 13 filaments de polymères de dimères de tubuline. Chaque hétérodimère est formé par deux sous unités instables qui s'assemblent spontanément :
 
-|       |      |
-|-------|------|
-| Alpha | Béta |
+* Alpha
+* Béta
 
 ## La tubuline
 
 La tubuline a deux extrémités :
 
-|                               |                 |
-|-------------------------------|-----------------|
-| Une queue ou extrémité C-ter. | Molécule de GTP |
+* Une queue ou extrémité C-ter.
+* Molécule de GTP.
 
-L'extrémité C-ter est chargée négativement (glutamate). C'est
-généralement le lieu des interactions avec les protéines régulatrices
-qui viennent supprimer des charges.
+L'extrémité C-ter est chargée négativement (glutamate). C'est généralement le lieu des interactions avec les protéines régulatrices qui viennent supprimer des charges.
 
 Il existe des variations de tubulines (isotopes) au sein des différents
 types de tubulines (isoformes). Les isotopes se différencient par la
@@ -263,57 +244,48 @@ et un B. Les « bras » externes et internes sont constitués de dynéine.
 
 # Les microfilaments
 
-Les filaments d'actines ou microfilaments sont l'assemblage d'un
-polymère d'actines F formé de monomères d'actine G.
+Les filaments d'actines ou microfilaments sont l'assemblage d'un polymère d'actines F formé de monomères d'actine G.
 
 L'actine G possède en son centre : 
 
-|                                                   |                                     |
-|-------------------------------------|-----------------------------------|
-| Un ATP ou un ADP (par hydrolyse ou remplacement)  | Un cation bivalent Ca^2+^ ou Mg^2+^ |
+* Un ATP ou un ADP (par hydrolyse ou remplacement)
+* Un cation bivalent $Ca^{2+}$ ou $Mg^{2+}$.
 
-L'hydrolyse de l'ATP n'est pas spontanée. Elle nécessite l'action d'une
-enzyme.
+L'hydrolyse de l'ATP n'est pas spontanée. Elle nécessite l'action d'une enzyme.
 
-L'actine G possède plusieurs isoformes. Il en existe 6 chez les
-mammifères. 
+L'actine G possède plusieurs isoformes. Il en existe 6 chez les mammifères. 
 
-Protéine associée à l'actine (Actin Related Proteins noté ARP) protéines
-dont la chaine peptidique ressemble fortement à celle de l'actine G. 
+Protéine associée à l'actine (Actin Related Proteins noté ARP) protéines dont la chaine peptidique ressemble fortement à celle de l'actine G. 
 
 La polymérisation de G en F dépend de : 
 
-|                            |        |                    |         |                       |
-|-------------------|----------|------------------|--------|------------------|
-| La concentration d'actine  | Du pH  | De la température  | Mg^2+^  | Force ionique élevée. |
+* La concentration d'actine.
+* Du pH.
+* De la température.
+* $Mg^{2+}$.
+* Force ionique élevée.
 
 La phalloïdine est une molécule fluorescente d\'origine fongique qui se
 fixe et stabilise les microtubules et les rend fluorescent.
 
 ### Propriété
 
-La polymérisation d'actines G en F, appelée nucléation, se fait suivant
-le mécanisme du tapis roulant. Les actines G s'alignent légèrement
-décaler (non rectiligne).
+La polymérisation d'actines G en F, appelée nucléation, se fait suivant le mécanisme du tapis roulant. Les actines G s'alignent légèrement décaler (non rectiligne).
 
-Deux filaments d'actine s'assemblent pour former une hélice. Son demi
-pas càd le nombre de monomères nécessaire pour le croisement des deux
-brins est de 13 monomères. 
+Deux filaments d'actine s'assemblent pour former une hélice. Son demi pas càd le nombre de monomères nécessaire pour le croisement des deux brins est de 13 monomères. 
 
 ## Propriétés structurales
 
 La polarité de l'actine G se retrouve dans la structure fonctionnelle de
 l'actine avec deux extrémités : 
 
-|             |              |
-|-------------|--------------|
-| Barbue (-)  | Pointue (+)  |
+* Barbue (-).
+* Pointue (+).
 
-[Rmq :]{.underline} La polymérisation a lieu plus rapidement à
-l'extrémité +. 
+!!! note
+    La polymérisation a lieu plus rapidement à l'extrémité +. 
 
-La polarité structurale est définie par l'interaction avec les têtes de
-myosines. Elles sont orientées vers l'extrémité barbue.
+La polarité structurale est définie par l'interaction avec les têtes de myosines. Elles sont orientées vers l'extrémité barbue.
 
 ## Les protéines de polymérisation
 
@@ -342,88 +314,58 @@ Quelques exemples d'ABP :
 
 La nucléation
 
--   Complexe Arp 2/3 provoque une ramification ou une coiffe qui
-    transforme l'extrémité -- en +. Il est notamment impliqué dans la
-    formation des extensions membranaires qui servent à la migration
-    cellulaire. Il présente des homologies de séquence peptidique avec
-    l'actine.
-
--   Formine recrutement de profiline pour polymériser l'actine.
+* Complexe Arp 2/3 provoque une ramification ou une coiffe qui transforme l'extrémité -- en +. Il est notamment impliqué dans la formation des extensions membranaires qui servent à la migration cellulaire. Il présente des homologies de séquence peptidique avec l'actine.
+* Formine recrutement de profiline pour polymériser l'actine.
 
 ### La famille Rho-GTPase 
 
 La famille Rho GTPase comprend notamment Rac, CDC42, Rho A.
 
-Elle réunit des protéines membranaires qui peuvent être sous deux formes
-actives GTP ou inactives GDP et qui servent à recruter des effecteurs
-càd à réguler directement les protéines qui interagissent avec les
-filaments d'actines.
+Elle réunit des protéines membranaires qui peuvent être sous deux formes actives GTP ou inactives GDP et qui servent à recruter des effecteurs càd à réguler directement les protéines qui interagissent avec les filaments d'actines.
 
 Elles sont elles-mêmes régulées par des facteurs :
 
--   Le changement d'état se fait par deux protéines GEF (active) et GAP
-    (désactive).
-
--   GDI (Guanine nucleotide Dissociation Inhibitor) transporteur du RE à
-    la membrane plasmique. Rho n'est active que lorsqu'elle est ancrée
-    dans la membrane plasmique.
+* Le changement d'état se fait par deux protéines GEF (active) et GAP (désactive).
+* GDI (Guanine nucleotide Dissociation Inhibitor) transporteur du RE à la membrane plasmique. Rho n'est active que lorsqu'elle est ancrée dans la membrane plasmique.
 
 ## Les myosines
 
-Les myosines sont les moteurs moléculaires des filaments d'actines. Il
-en existe 20 classes. Par exemple, les myosines de type II se déplacent
-vers l'extrémité plus. Certaines myosines sont capables d'interagir avec
-les protéines membranaires pour créer par exemple, une invagination, une
-microvillosité ou dans cas de la myosine IV de réaliser une endocytose. 
+Les myosines sont les moteurs moléculaires des filaments d'actines. Il en existe 20 classes. Par exemple, les myosines de type II se déplacent vers l'extrémité plus. Certaines myosines sont capables d'interagir avec les protéines membranaires pour créer par exemple, une invagination, une microvillosité ou dans cas de la myosine IV de réaliser une endocytose. 
 
 Elles sont composées de trois parties : 
 
-|       |      |        |
-|-------|------|--------|
-| Tête  | Cou  | Queue  |
+* Tête
+* Cou 
+* Queue
 
 ### Protéines organisatrices de l'actine F
 
-L'actine F est organisé par des protéines qui confèrent à l'ensemble une
-structure qui peut être de type : 
+L'actine F est organisé par des protéines qui confèrent à l'ensemble une structure qui peut être de type : 
 
--   Les uns le long des autres :
+* Les uns le long des autres :
 
-    -   Serré parallèle lorsqu'ils sont orientés dans le même sens. 
+    * Serré parallèle lorsqu'ils sont orientés dans le même sens. 
+    * Faisceau contractiles lorsqu'ils sont orientés en polarité inverse.
 
-    -   Faisceau contractiles lorsqu'ils sont orientés en polarité
-        inverse.
+* Réseau où les filament sont enchevêtrés : 
 
--   Réseau où les filament sont enchevêtrés : 
+    * Réseau lâche maille avec des intersections. Les filaments se croisent.
+    * Réseau branché avec des ramification. Les filaments sont soudés les uns aux autres.
 
-    -   Réseau lâche maille avec des intersections. Les filaments se
-        croisent.
+La structure est assurée par des protéines partenaires qui peuvent permettre soit :  
 
-    -   Réseau branché avec des ramification. Les filaments sont soudés
-        les uns aux autres.
-
-La structure est assurée par des protéines partenaires qui peuvent
-permettre soit :  
-
--   Le pontage. Elles lient les actines entre elles. 
-
--   D\'ancrage (exemple : famille FERM). Elles permettent aux filaments
-    d'actines d'être accrochés à la membrane plasmique.
+* Le pontage. Elles lient les actines entre elles. 
+* D'ancrage (exemple : famille FERM). Elles permettent aux filaments d'actines d'être accrochés à la membrane plasmique.
 
 ### Exemple du rôle des fonctions des microfilaments : la migration cellulaire 
 
 Le réseau de microtubules se polymérise en organisation parallèle pour :
 
--   Gonfler la cellule pour lui donner une allure sphérique. Cela
-    conduit à détacher la cellule du milieu.
+* Gonfler la cellule pour lui donner une allure sphérique. Cela conduit à détacher la cellule du milieu.
+* L'apparition d'extensions cellulaires appelé filopodes. Leur apparition et disparition permet à la cellule de se déplacer.
+* Microvillosités intestinales.
 
--   L'apparition d'extensions cellulaires appelé filopodes. Leur
-    apparition et disparition permet à la cellule de se déplacer.
-
--   Microvillosités intestinales.
-
-Cet événement a lieu notamment grâce à Rho. Les extrémité des filopodes
-sont coiffées de formine.
+Cet événement a lieu notamment grâce à Rho. Les extrémité des filopodes sont coiffées de formine.
 
 # Filaments intermédiaires
 
@@ -432,13 +374,10 @@ lui qui confère la forme à la cellule.
 
 Chaque cellule possède deux types de filaments intermédiaires :
 
-|                              |                      |
-|------------------------------|----------------------|
-| Réseau nucléaire des lamines | Réseau cytoplasmique |
+* Réseau nucléaire des lamines.
+* Réseau cytoplasmique.
 
-Les filaments intermédiaires sont formés par de nombreuses types de
-protéines différentes. Leur composition dépend de leur position dans la
-cellule et du type de cellule.
+Les filaments intermédiaires sont formés par de nombreuses types de protéines différentes. Leur composition dépend de leur position dans la cellule et du type de cellule.
 
 Les filaments intermédiaires possèdent une structure commune avec une
 organisation en hélice alpha (comme un hélice d'ADN mais formé par un
@@ -448,47 +387,29 @@ une sous unité qui s'associe par huit pour former une unité de filament.
 Les parties communes permettent l'assemblage entre différents types de
 protéines.
 
-L'extrémité N-term interagie avec des protéines stabilisatrices et
-d'aide à la nucléation tandis que l'extrémité C-term avec celles qui
-participent au réarrangement.
+L'extrémité N-term interagie avec des protéines stabilisatrices et aide à la nucléation tandis que l'extrémité C-term avec celles qui participent au réarrangement.
 
-Photobleaching émission de lumière puissante qui sépare les liaisons
-covalentes.
+__Photobleaching__ émission de lumière puissante qui sépare les liaisons covalentes.
 
-[Rmq :]{.underline} Les filaments intermédiaire n'ont pas de polarité et
-s'autoassemblent.
+!!! note
+    Les filaments intermédiaire n'ont pas de polarité et s'autoassemblent.
 
-Les protéines qui composent les filaments intermédiaires les plus
-notables :
+Les protéines qui composent les filaments intermédiaires les plus notables :
 
--   Desmine qui constitue la charpente des myofilaments des cellules
-    musculaires.
-
--   Kératine
-
--   Nestine qui constitue les neurofilaments.
-
--   Lamine qui constitue l'enveloppe nucléaire.
-
--   Vimentime
+* Desmine qui constitue la charpente des myofilaments des cellules musculaires.
+* Kératine
+* Nestine qui constitue les neurofilaments.
+* Lamine qui constitue l'enveloppe nucléaire.
+* Vimentime
 
 ### La régulation des filaments intermédiaires
 
-La régulation des filaments intermédiaires se fait par des modifications
-post traductionnelles de type acétylation, ubiquitination et
-phosphorylation. La phosphorisation induit une dépolymérisation.
+La régulation des filaments intermédiaires se fait par des modifications post traductionnelles de type acétylation, ubiquitination et phosphorylation. La phosphorisation induit une dépolymérisation.
 
 ### Protéines associées aux filaments intermédiaires
 
-Les principales types de protéines associées aux filaments
-intermédiaires sont :
+Les principales types de protéines associées aux filaments intermédiaires sont :
 
--   Plakines. Elles organisent les jonctions des filaments
-    intermédiaires avec les microtubules et les microfilaments.
-
--   Filaggrines. Elles agrègent les filaments intermédiaires de
-    kératine. Cela permet la protection de la peau contre les UV et son
-    imperméabilisation.
-
--   Famille des EMR (exemple : ezrine) protéines permettant l'ancrage
-    dans la membrane plasmique.
+* Plakines. Elles organisent les jonctions des filaments intermédiaires avec les microtubules et les microfilaments.
+* Filaggrines. Elles agrègent les filaments intermédiaires de kératine. Cela permet la protection de la peau contre les UV et son imperméabilisation.
+* Famille des EMR (exemple : ezrine) protéines permettant l'ancrage dans la membrane plasmique.
