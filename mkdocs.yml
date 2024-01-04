@@ -127,47 +127,49 @@ nav:
     - "Méthodes data science" : data-science/methodes-data-science.md
     - "A voir" : data-science/a-voir.md
     - Cartographie : data-science/cartographie.md
-    - "Classification" :
-      - "Classification" : data-science/classification/classification.md
-      - "Arbre de décision" : data-science/classification/arbre-de-décision.md
-    - "Régression"
-      - "Régression" : data-science/classification/regression.md
-      - ANOVA : data-science/classification/ANOVA.md
-      - "ARMA" : data-science/classification/ARMA.md
-      - "Boosting" : data-science/classification/boosting.md
-      - "Carte auto adaptative" : data-science/classification/carte-auto-adaptative.md
-      - "Centroides" : data-science/classification/centroide.md
-      - "Classificateur baysien" : data-science/classification/classificateur-baysien.md
-      - "Cluestering des variables" : data-science/classification/clustering-variables.md
-      - "Espérance maximale" : data-science/classification/espérance-maximisation.md
-      - "Forêt aléatoire" : data-science/classification/forêt-aléatoire.md
-      - "Lissage exponentiel" : data-science/classification/lissage-exponentiel.md
-      - "Perceptron" : data-science/classification/perceptron.md
-      - "Régression linéaire" : data-science/classification/regression-lineaire.md
-      - "Régression logistique" : data-science/classification/regression-logistique.md
-      - "SVM" : data-science/classification/SVM.md
+    - "Dictionnaire Statistique" : data-science/dictionnaire-statistique.md
+    - "Traitement des images" : data-science/traitement-image.md
+    - "Transformation des données" : data-science/transformation-donnees.md
+    - "Text mining" : data-science/text-mining.md
+    - Graphiques : data-science/graphiques.md
+    - "Modèles" :
+      - "Classification" :
+        - "Classification" : data-science/classification/classification.md
+        - "Arbre de décision" : data-science/classification/arbre-de-décision.md
+        - "Centroides" : data-science/classification/centroide.md
+        - "Classificateur baysien" : data-science/classification/classificateur-baysien.md
+        - "Forêt aléatoire" : data-science/classification/forêt-aléatoire.md
+        - "Perceptron" : data-science/classification/perceptron.md
+        - "Régression logistique" : data-science/classification/regression-logistique.md
+      - "Régression" :
+        - "Régression" : data-science/classification/regression.md
+        - ANOVA : data-science/classification/ANOVA.md
+        - "Carte auto adaptative" : data-science/classification/carte-auto-adaptative.md
+        - "Espérance maximale" : data-science/classification/espérance-maximisation.md
+        - "Régression linéaire" : data-science/classification/regression-lineaire.md
+        - "SVM" : data-science/classification/SVM.md
+      - "Réseaux de neurones" :
+        - "Réseaux de neurones" : data-science/reseaux-neurones/reseaux-neurones.md
+        - "Couches convulsives" : data-science/reseaux-neurones/couche-convulsive.md
+      - Optimisation : 
+        - "Boosting" : data-science/classification/boosting.md      
+      - "Série temporelle" :
+        - "Série temporelle" : data-science/serie-temporelle.md
+        - "ARMA" : data-science/classification/ARMA.md
+        - "Lissage exponentiel" : data-science/classification/lissage-exponentiel.md
     - Cluestering : 
       - Cluestering : data-science/cluestering/cluestering.md
+      - "Cluestering des variables" : data-science/classification/clustering-variables.md
       - "CAH" : data-science/cluestering/CAH.md
       - "CFH" : data-science/cluestering/CDH.md
       - "Centres mobiles" : data-science/cluestering/centres-mobiles.md
-    - "Dictionnaire Statistique" : data-science/dictionnaire-statistique.md
-    - Graphiques : data-science/graphiques.md
     - "Réduction de dimensions" :
       - "Réduction de dimensions" : data-science/reduction-dimensions/reduction-dimension.md
       - ACM : data-science/reduction-dimensions/ACM.md
       - ACP : data-science/reduction-dimensions/ACP.md
       - AFC : data-science/reduction-dimensions/AFC.md
-      - "Positionnement multidimensionnel" : data-science/reduction-dimensions/positionnement-multidimensionnel.md
       - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
-    - "Réseaux de neurones" :
-      - "Réseaux de neurones" : data-science/reseaux-neurones/reseaux-neurones.md
-      - "Couches convulsives" : data-science/reseaux-neurones/couche-convulsive.md
-    - "Série temporelle" : data-science/serie-temporelle.md
-    - Statistique : data-science/statistique.md
-    - "Text mining" : data-science/text-mining.md
-    - "Traitement des images" : data-science/traitement-image.md
-    - "Transformation des données" : data-science/transformation-donnees.md  
+      - "Positionnement multidimensionnel" : data-science/reduction-dimensions/positionnement-multidimensionnel.md
   - Mathématique :
     - Mathématique : mathematique/mathematique.md
     - Algorithmie :  mathematique/algorithmique.md
