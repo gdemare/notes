@@ -127,11 +127,12 @@ nav:
     - "Méthodes data science" : data-science/methodes-data-science.md
     - "A voir" : data-science/a-voir.md
     - Cartographie : data-science/cartographie.md
-    - Classification : 
-      - "G Classification" : data-science/classification/classification.md
-      - "G Régression" : data-science/classification/regression.md
-      - ANOVA : data-science/classification/ANOVA.md
+    - "Classification" :
+      - "Classification" : data-science/classification/classification.md
       - "Arbre de décision" : data-science/classification/arbre-de-décision.md
+    - "Régression"
+      - "Régression" : data-science/classification/regression.md
+      - ANOVA : data-science/classification/ANOVA.md
       - "ARMA" : data-science/classification/ARMA.md
       - "Boosting" : data-science/classification/boosting.md
       - "Carte auto adaptative" : data-science/classification/carte-auto-adaptative.md
@@ -160,8 +161,8 @@ nav:
       - "Positionnement multidimensionnel" : data-science/reduction-dimensions/positionnement-multidimensionnel.md
       - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
     - "Réseaux de neurones" :
-      - "Couches convulsives" : data-science/reseaux-neurones/couche-convulsive.md
       - "Réseaux de neurones" : data-science/reseaux-neurones/reseaux-neurones.md
+      - "Couches convulsives" : data-science/reseaux-neurones/couche-convulsive.md
     - "Série temporelle" : data-science/serie-temporelle.md
     - Statistique : data-science/statistique.md
     - "Text mining" : data-science/text-mining.md

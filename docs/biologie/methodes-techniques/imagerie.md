@@ -1,11 +1,10 @@
 L'échographie utilise les ondes sonores.
 
-| Techniques                                |                           |
-|-------------------------------------------|---------------------------|
-| Scanner X et IRM                          | Structure anatomique      |
-| Médicine nucléaire (scintigraphie) et IRM | Activité ou fonctionnelle |
-| Tomographie                               | Des images en coupe.      |
-|                                           |                           |
+Techniques                                | Utilité
+------------------------------------------|---------------------------
+Scanner X et IRM                          | Structure anatomique.
+Médicine nucléaire (scintigraphie) et IRM | Activité ou fonctionnelle.
+Tomographie                               | Des images en coupe.
 
 Un rayonnement est considéré comme ionisant lorsqu'il est supérieur à 13,6eV.
 
@@ -48,13 +47,13 @@ Un produit radioactif est injecté avec deux éléments radioactifs dirigés :
 
 La radioprotection concerne à la fois :
 
-* Le contact interne ou externe avec des éléments radioactif contamination.
+* Le contact interne ou externe avec des éléments radioactifs contamination.
 * Exposition aux rayons.
 
-Pour les êtres vivants, les émissions radioactives sont délétères car :
+Pour les êtres vivants, les émissions radioactives sont délétères car ils :
 
-* Ils réagissent et produisent avec l'eau des radicaux oxydant qui altère avec l'ADN Augmenter les températures
-* Augmente la température des tissus.
+* Réagissent et produisent avec l'eau des radicaux oxydant qui altèrent avec l'ADN Augmenter les températures
+* Augmentent la température des tissus.
 
 La radio protection doit être adaptée à la nature du rayonnement.
 
