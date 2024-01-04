@@ -63,66 +63,76 @@ nav:
     - Grammaire : anglais/grammaire.md
     - "Ortographe et vocabulaire" : anglais/ortographe-vocabulaire.md
   - Biologie :
-    - Biochimie :
-      - "Biomolécules" : biologie/biochimie/biomolecules.md
-      - "ADN et ARN" : biologie/biochimie/ADN-ARN.md
-      - "Les enzymes" : biologie/biochimie/enzymes.md
-      - "Les lipides" : biologie/biochimie/sucres.md
-      - "Les métabolites" : biologie/biochimie/metabolites.md
-      - "Les protéines" : biologie/biochimie/proteines.md
-      - "Les sucres" : biologie/biochimie/sucres.md
-      - "Réactivité chimique en biologie" : biologie/biochimie/reactivite-chimique-biologie.md
-    - "Métabolisme" :
-      - "Photosynthèse et métabolisme secondaire" : biologie/biochimie/photosynthese-metabolisme-secondaire.md
+    - "Biochimie et biomol" :
+      - "Biomolécules et lipides" :  
+        - "Panorama" : biologie/biochimie/biomolecules.md
+        - "Lipides" : biologie/biochimie/lipides.md
+        - "Métabolites" : biologie/biochimie/metabolites.md
+        - "Sucres" : biologie/biochimie/sucres.md
+      - "ADN et ARN" :
+        - "ADN et ARN" : biologie/biochimie/ADN-ARN.md
+        - "Synthèse ADN et ARN " : biologie/cellule/ADN-ARN-synthese.md
+        - "Etude ARN ADN" : biologie/methodes-techniques/etude_acide_nucleique.md
+        - "PCR" : biologie/methodes-techniques/etude_pcr.md
+      - "Métabolisme" :  
+        - "Réactivité chimique en biologie" : biologie/biochimie/reactivite-chimique-biologie.md
+        - "Photosynthèse et métabolisme secondaire" : biologie/metabolisme/photosynthese-metabolisme-secondaire.md
+      - "Protéines" : 
+        - "Généralités": biologie/biochimie/proteines.md
+        - "Enzymes" : biologie/biochimie/enzymes.md
+        - "Etude des protéines" : biologie/methodes-techniques/etude_proteines.md
     - Bioinformatique :
       - "Séquençage" : biologie/bioinformatique/alignement-sequence.md
-    - Cellule :
-      - "ADN et ARN synthèse" : biologie/cellule/ADN-ARN-synthese.md
-      - Bactéries : biologie/cellule/bacteries.md
-      - "Communication cellulaire" : biologie/cellule/communication-cellulaire.md
-      - "Cycle cellulaire" : biologie/cellule/cycle-cellulaire.md
-      - "Cytosquelette" : biologie/cellule/cytosquelette.md
-      - "Matrice extracellulaire et jonctions cellulaires" : biologie/cellule/matrice-extracellulaire-jonctions-cellulaires.md
-      - "Organisation cellulaire" : biologie/cellule/organisation-cellulaire.md
-      - "Régulation de l'expression génétique" : biologie/cellule/regulation-expression-genique.md
-      - Virus : biologie/cellule/virus.md
+    - "Cellule et tissus" :
+      - "Structure et fonctions" :
+        - "Structure et fonctions" : biologie/physiologie-animale/structure-fonction-principes.md
+        - "Histologie" : biologie/physiologie-animale/histologie.md
+      - "Biologie cellulaire" :
+        - "La communication cellulaire" : biologie/cellule/communication-cellulaire.md
+        - "Le cycle cellulaire" : biologie/cellule/cycle-cellulaire.md
+        - "Le cytosquelette" : biologie/cellule/cytosquelette.md
+        - "La matrice extracellulaire et jonctions cellulaires" : biologie/cellule/matrice-extracellulaire-jonctions-cellulaires.md
+        - "Organisation cellulaire" : biologie/cellule/organisation-cellulaire.md
+        - "Régulation de l'expression génétique" : biologie/cellule/regulation-expression-genique.md
+      - "Physologie animale" :
+        - "Physologie cellule animale" : biologie/physiologie-animale/physiologie-cellule-animale.md
+        - "Comportement" : biologie/physiologie-animale/comportement.md
+        - "Nutrition" : biologie/physiologie-animale/nutrition-animaux.md
+        - "Immunologie" : biologie/physiologie-animale/immunologie.md
+        - "Neurologie" : biologie/physiologie-animale/neurobiologie.md
+        - "Osmorégulation et excrétion" : biologie/physiologie-animale/osmoregulation-excretion.md
+        - "Système endorinien" : biologie/physiologie-animale/systeme-endocrinien.md
+        - "Système nerveux" : biologie/physiologie-animale/systeme-nerveux.md
+      - "Procaryotes et virus" :
+        - Bactéries : biologie/cellule/bacteries.md
+        - Virus : biologie/cellule/virus.md
+      - "Techniques" :
+        - "Clonage" : biologie/methodes-techniques/clonage.md
+        - "Culture cellulaire" : biologie/methodes-techniques/culture-cellulaire.md
+        - "Génie génétique" : biologie/methodes-techniques/clonage_genie.md
+        - "Histologie" : biologie/methodes-techniques/histologie.md
     - Ecologie :
-      - "Biologie de la conservation" : biologie/ecologie/biologie-conservation.md
-      - "Ecologie des communautés" : biologie/ecologie/ecologie-communautes.md
-      - "Ecosystème et écologie de la restauration" : biologie/ecologie/ecosysteme-ecologie-restauration.md
-      - "Evolution des populations" : biologie/ecologie/evolution-population.md
-      - "Génétique des populations" : biologie/ecologie/genetique-population.md
-      - "Origine de la biodiversité" : biologie/ecologie/origine-biodiversite.md
-    - Evolution :
-      - "Génétique Mendel" : biologie/evolution/genetique-mendel.md
-      - "Génome évolution" : biologie/evolution/genome-evolution.md
-      - "Phylogénie" : biologie/evolution/phylogenie.md
-      - "Théorie de l'évolution" : biologie/evolution/theorie-evolution.md
-    - "Méthodes et techniques" :
-      - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
-      - "Clonage" : biologie/methodes-techniques/clonage.md
-      - "Génie génétique" : biologie/methodes-techniques/clonage_genie.md
-      - "Culture cellulaire" : biologie/methodes-techniques/culture-cellulaire.md
-      - "Généralités" : biologie/methodes-techniques/etude_biologie.md
-      - "PCR" : biologie/methodes-techniques/etude_pcr.md
-      - "Protéines" : biologie/methodes-techniques/etude_proteines.md
-      - "Acide nucléique" : biologie/methodes-techniques/etude_acide_nucleique.md
-      - "Histologie" : biologie/methodes-techniques/histologie.md
-      - "Imagerie" : biologie/methodes-techniques/imagerie.md
-      - "Immunomarquage" : biologie/methodes-techniques/immunomarquage.md
-      - "Microscopie" : biologie/methodes-techniques/microscopie.md
-      - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
-    - "Physologie animale" :
-      - "Nutrition" : biologie/physiologie-animale/nutrition-animaux.md
-      - "Physologie cellule animale" : biologie/physiologie-animale/physiologie-cellule-animale.md
-      - "Système endorinien" : biologie/physiologie-animale/systeme-endocrinien.md
-      - "Structure et fonction" : biologie/physiologie-animale/structure-fonction-principes.md
-      - Comportement : biologie/physiologie-animale/comportement.md
-      - Histologie  : biologie/physiologie-animale/histologie.md
-      - "Osmorégulation et excrétion" : biologie/physiologie-animale/osmoregulation-excretion.md
-      - Immunologie : biologie/physiologie-animale/immunologie.md
-      - Neurobiologie : biologie/physiologie-animale/neurobiologie.md
-      - "Système nerveux" : biologie/physiologie-animale/systeme-nerveux.md
+      - "Populations et communautés" :
+        - "Biologie de la conservation" : biologie/ecologie/biologie-conservation.md
+        - "Ecologie des communautés" : biologie/ecologie/ecologie-communautes.md
+        - "Ecosystème et écologie de la restauration" : biologie/ecologie/ecosysteme-ecologie-restauration.md
+        - "Evolution des populations" : biologie/ecologie/evolution-population.md
+      - Evolution :
+        - "Génétique Mendel" : biologie/evolution/genetique-mendel.md
+        - "Génétique des populations" : biologie/ecologie/genetique-population.md
+        - "Génome évolution" : biologie/evolution/genome-evolution.md
+        - "Phylogénie" : biologie/evolution/phylogenie.md
+        - "Origine de la biodiversité" : biologie/ecologie/origine-biodiversite.md
+        - "Théorie de l'évolution" : biologie/evolution/theorie-evolution.md
+    - "Matériels et méthodes" :
+      - "Méthodes" :
+        - "Généralités" : biologie/methodes-techniques/etude_biologie.md
+        - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
+        - "Immunomarquage" : biologie/methodes-techniques/immunomarquage.md
+      - "Matériels" :
+        - "Microscopie" : biologie/methodes-techniques/microscopie.md
+        - "Imagerie" : biologie/methodes-techniques/imagerie.md
+        - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
   - "Data Science" :
     - "Panorama" : data-science/methodes-data-science.md
     - "A voir" : data-science/a-voir.md
@@ -132,7 +142,6 @@ nav:
       - "Text mining" : data-science/text-mining.md
       - "Traitement des images" : data-science/traitement-image.md
       - "Transformation des données" : data-science/transformation-donnees.md
-    - Graphiques : data-science/graphiques.md
     - "Modèles" :
       - "Classification" :
         - "Classification" : data-science/classification/classification.md
@@ -158,7 +167,7 @@ nav:
         - "Série temporelle" : data-science/serie-temporelle.md
         - "ARMA" : data-science/classification/ARMA.md
         - "Lissage exponentiel" : data-science/classification/lissage-exponentiel.md
-    - "Regroupement & réduction de dimensions" :
+    - "Descriptions des données" :
       - Cluestering : 
         - Cluestering : data-science/cluestering/cluestering.md
         - "Cluestering des variables" : data-science/classification/clustering-variables.md
@@ -173,20 +182,26 @@ nav:
         - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
         - "Positionnement multidimensionnel" : data-science/reduction-dimensions/positionnement-multidimensionnel.md
   - Mathématique :
-    - Mathématique : mathematique/mathematique.md
-    - Algorithmie :  mathematique/algorithmique.md
+    - "Symboles et notation" : mathematique/mathematique.md
+    - Algèbre :
+      - Matrice : mathematique/matrice.md
+    - Analyse :
+      - "Ajustement" : mathematique/ajustements-modeles.md
+      - "Optimisation" : mathematique/optimisation.md
+      - "Algorithmie" :  mathematique/algorithmique.md
+      - "Fonctions" :
+        - "Equation différentielle" : mathematique/equation-differentielle.md
+        - "Définition, dérivé, primitive, limite" : mathematique/definition-derives-primitives-limites.md
+        - "Fonctions remarquables" : mathematique/fonctions-remarquables.md
     - Arithmétique :  mathematique/arithmetique.md
-    - Fonctions :
-      - "Définition, dérivé, primitive, limite" : mathematique/definition-derives-primitives-limites.md
-      - "Fonctions remarquables" : mathematique/fonctions-remarquables.md
     - Geométrie :  mathematique/geometrie.md
-    - Matrice : mathematique/matrice.md
-    - "Ajustement" : mathematique/ajustements-modeles.md
-    - "Statistique et probabilités" : 
+    - "Statistique" : 
       - Probabilité : mathematique/probabilite.md
+      - Statistique : 
+        - Statistique : mathematique/statistique.md
+        - Graphique : data-science/graphiques.md
+        - "Tests statistiques" : mathematique/tests-statistiques.md
       - "Probabilité et statistique" : mathematique/probabilite-statistique.md
-      - Statistique : mathematique/statistique.md
-      - "Tests statistiques" : mathematique/tests-statistiques.md
   - 'Physique Chimie' :
     - "Unité" :  physique-chimie/unites.md
     - Chimie :
@@ -197,6 +212,7 @@ nav:
       - Optique : physique-chimie/physique/optique.md
   - Autres :
     - Informatique :
+        - "Base de données" : informatique/database.md
         - "Math jax" : informatique/markdown-math.md
         - "Réseau" : informatique/reseau.md
     - Utiles :
