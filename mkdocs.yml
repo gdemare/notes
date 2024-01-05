@@ -132,6 +132,7 @@ nav:
       - "Matériels" :
         - "Microscopie" : biologie/methodes-techniques/microscopie.md
         - "Imagerie" : biologie/methodes-techniques/imagerie.md
+        - "RMN" :  biologie/methodes-techniques/RMN.md
         - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
   - "Data Science" :
     - "Panorama" : data-science/methodes-data-science.md
