@@ -27,6 +27,12 @@ Ensemble de règles simples et ordonnées pour séparer les individus.
 
 * Coefficient de complexité
 
-## Issue
+## Forêt aléatoire
 
-* Forêt aléaloire
+Une forêt aléatoire est un ensemble d'arbres de décision construit avec des variables et un échantillon selectionnés aléaloirement.
+
+
+Avantages                           | Inconvénients
+------------------------------------|---
+Peu sensible aux valeurs manquantes | Sur-apprentissage
+Peu sensible aux valeurs extrêmes   |

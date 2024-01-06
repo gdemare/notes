@@ -1,5 +1,3 @@
-# Phylogenèse et l'arbre de la Vie
-
 __Systématique__ classifier les organismes et établir les caractéristiques propres à chaque groupe.
 
 __Taxonomie__ classification et désignation des organismes.

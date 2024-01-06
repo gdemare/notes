@@ -1,6 +1,6 @@
 Ordre de grandeurs des cellules
 
-| Type de cellules | Taille en μm (10-6m) |
+| Type de cellules | Taille en μm ($10^{-6}m$) |
 |------------------|----------------------|
 | Végétale         | 100                  |
 | Animale          | 10                   |

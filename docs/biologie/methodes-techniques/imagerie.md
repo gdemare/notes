@@ -14,8 +14,8 @@ L'exposition radioactive moyenne naturelle reçu par an en France est de 2,9mSv.
 
 Deux types d'émission :
 
-* Alpha
-* Beta -- servent pour la radiothérapie.
+* $\alpha$.
+* $\beta$. Elles sont notamment utiliser en radiothérapie.
 
 Radiothérapie soigner par les ondes.
 

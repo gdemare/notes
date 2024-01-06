@@ -66,41 +66,37 @@ l'espace.
 
 Les stéréoisomères D et L : le groupe rouge permet de déterminer le type d'isomère. Lorsque le groupement est du côté opposé du o= le sucre est de type D.
 
-Le nombre de stéréoisomères est égale à $2^{n}$ (où n est le nombre de C\*) chez les sucres.
+Le nombre de stéréoisomères est égale à $2^n$ (où n est le nombre de $C$) chez les sucres.
 
 ### Quelques sucres incontournables
 
-| **Hexose aldose**                                                                                                                                                                                                               | **Hexose cétone**                                                      |
-|------------------------------------------------|------------------------|
-| ![](media/image35.jpeg){width="1.1770833333333333in" height="1.65in"}![](media/image36.jpeg){width="1.2083333333333333in" height="1.7243055555555555in"}![](media/image37.jpeg){width="0.84375in" height="1.645138888888889in"} | ![](media/image38.jpeg){width="1.507638888888889in" height="1.6625in"} |
+* Hexose aldose                                                                          * Hexose cétone
 
-[NB :]{.underline} le D glucose et d-galactose sont des épimères.
+!!! note
+    Le D glucose et d-galactose sont des épimères.
 
-Épimère deux molécules isomères avec une seule différence dans la configuration d'un seul centre chiral.
+__Épimère__ deux molécules isomères avec une seule différence dans la configuration d'un seul centre chiral.
 
-Isomère même formule brute mais de formule développée différente.
+__Isomère__ même formule brute mais de formule développée différente.
 
-Énantiomère deux molécules isomères optiques (miroir)
+__Énantiomère__ deux molécules isomères optiques (miroir).
 
 ### Propriété physique des carbones symétriques
 
 Propriété physique pouvoir rotatoire (physique)
 
-Déviation du plan de la lumière d'un angle alpha en fonction de la
-variation de l'angle (par convention dans le sens des aiguilles d'une
-montre) :
+Déviation du plan de la lumière d'un angle alpha en fonction de la variation de l'angle (par convention dans le sens des aiguilles d'une montre) :
 
-* Dextrogyre (+)
-* Lévogyre (-)
+* Dextrogyre (+).
+* Lévogyre (-).
 
 ### Propriétés chimiques 
 
-Aldose a des propriétés réductrices. Le groupement aldéhyde est capable de capter un oxygène (c'est-à-dire de s'oxyder) d'une autre molécule qui sera réduite. Le groupement aldéhyde (CH0) devient un groupement acide
-carboxylique (COOH).
+Aldose a des propriétés réductrices. Le groupement aldéhyde est capable de capter un oxygène (c'est-à-dire de s'oxyder) d'une autre molécule qui sera réduite. Le groupement aldéhyde ($CHO$) devient un groupement acide carboxylique ($COOH$).
 
 On peut mettre en évidence cette propriété en utilisant la liqueur de Fehling qui passera du bleue à une couleur rouge
 
-R-CHO + 2Cu^2+^~(aq)~ + 5HO^−^~(aq)~ → RCOO^−^ + Cu~2~O~(s)~ + 3H~2~O
+$R-CHO + 2Cu^{2+}_{aq} + 5 HO^−_{aq} \rightarrow RCOO^− + Cu_2O_s + 3 H_2O$
 
 ## Structure cyclique des oses ou mutarotation
 
@@ -118,27 +114,22 @@ Par exemple chez les hexoses (6 carbones), la conformation adoptée par le :
 
 __Carbone anomérique__ carbone qui porte le groupement =O.
 
-La cyclisation des sucres se fait par l'ajout puis l'expulsion d'une molécule de $H_{2}O$ sur l'oxygène du carbone anomérique.
-
-![](media/image39.jpeg){width="2.6256944444444446in"
-height="1.2284722222222222in"}![](media/image40.jpeg){width="2.457638888888889in"
-height="1.2465277777777777in"}
+La cyclisation des sucres se fait par l'ajout puis l'expulsion d'une molécule de $H_2O$ sur l'oxygène du carbone anomérique.
 
 !!! note
-    * β le groupement alcool est en haut sinon α.
+    * $\beta$ le groupement alcool est en haut sinon $\alpha$.
     * Par convention, les groupements à gauche sont dessinés en haut.
 
 Mutarotation apparition du carbone asymétrique α ou β.
 
 ### Oses modifiés
 
--   Par substitution d'un groupement OH :
+* Par substitution d'un groupement OH :
+    
+    * Amine $NH_2$.
+    * Phosphorylation $PO_3^{-2}$.
 
-|                       |                                    |
-|-----------------------|------------------------------------|
-| Amine (${NH}_{2}^{}$) | Phosphorylation (${PO}_{3}^{- 2}$) |
-
--   Oxydation des groupements $$${CH}_{2}^{}OH \rightarrow COOH$
+* Oxydation des groupements $CH_2OH \rightarrow COOH$.
 
 ## Les osides (fabrication de polyosides)
 
@@ -161,9 +152,8 @@ On ajoute le suffixe -syl pour les molécules en début et milieu de chaine et -
 
 Deux possibilités 
 
-|                                                  |                      |
-|--------------------------------------------------|----------------------|
-| Mettre dans une solution acide (hydrolyse acide) | Utiliser des enzymes |
+* Mettre dans une solution acide (hydrolyse acide).
+* Utiliser des enzymes.
 
 Pour nommer une enzyme, substrat (la molécule) + ase (exemple : Alpha glucosidase)
 

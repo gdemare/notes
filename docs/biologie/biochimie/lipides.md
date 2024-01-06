@@ -86,7 +86,8 @@ Le nom de lipide devient « phosphatidyl » + groupement :
 |------------------------------------|------------------------------------|
 | ![](media/image45.jpeg){width="1.1979166666666667in" height="1.34375in"} | ![](media/image46.jpeg){width="1.1458333333333333in" height="0.9861111111111112in"} |
 
-[NB :]{.underline} ces groupements sont polaires ou chargés.
+!!! note
+    ces groupements sont polaires ou chargés.
 
 En solution aqueuse, les lipides forment une bicouche qui se replient en
 pour former un liposome à cause de l'encombrement spatial des deux
@@ -163,12 +164,7 @@ Les cholestérols présents dans le corps proviennent du :
 * Foie (synthétiser).
 * Régime alimentaire.
 
-
-
-
-
 ---------------------------
-
 
 # Les lipides
 
@@ -350,8 +346,8 @@ Les membranes des mitochondries sont imperméables. Pour être transloquer dans 
 
 Ensuite le passage des membrane se fait par deux systèmes de transport
 
-* Membrane interne TIM (In)
-* Membrane externe TOM (Out)
+* Membrane interne TIM (In).
+* Membrane externe TOM (Out).
 
 ### Adressage au réticulum endoplasmique
 

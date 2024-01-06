@@ -1,4 +1,4 @@
-Appelé aussi K-means, moyennes mobiles...
+Appelé aussi K-means, moyennes mobiles, centroïdes.
 
 ## Concept
 
@@ -14,6 +14,7 @@ k points (appelés centres) sont initialisés aléatoirement. L'algorithme attri
 * Cluestering.
 * Remplacer les valeurs manquantes.
 * Identifier les individus atypiques.
+* Classification.
 
 ### Nuée dynamique
 

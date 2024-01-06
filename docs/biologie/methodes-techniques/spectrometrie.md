@@ -52,12 +52,11 @@ Dissociation des molécules par la répulsion d'électrique dû aux charges.
 
 ## Analyseur de trajectoire
 
-Les types de disposifs permettant de mesurer le m/z :
-* Le quadripôle analyse la stabilité de la trajectoire. Les 20 ions plus
-intenses sont ensuite analysés en MS/MS. Les autres molécules éjectées
-par des variations du champs électrique.
+Les types de disposifs permettant de mesurer le $m/z$ :
+
+* Le quadripôle analyse la stabilité de la trajectoire. Les 20 ions plus intenses sont ensuite analysés en MS/MS. Les autres molécules éjectées par des variations du champs électrique.
 * L'orbitrap.
-* time of fly (TOF)
+* time of fly (TOF).
 
 ### Quadripôle
 
@@ -69,27 +68,23 @@ Deux électrodes en
 
 La fragmentation permet de déterminer la structure chimique des ions.
 
-$f = \frac{1}{2\pi\sqrt{k\frac{m}{z}}}$ avec k la courbure de champs de
-l'électrode et f la fréquence de rotation de l'ion.
+$f = \frac{1}{2 \cdot \pi \cdot \sqrt{k \cdot \frac{m}{z}}}$ avec k la courbure de champs de l'électrode et f la fréquence de rotation de l'ion.
 
 La forme centrifuge est compensée par la force électrostatique.
 
 Le courant induit par les oscillations.
 
-Les oscillations sont transformées en spectre par transformation de
-Fourier.
+Les oscillations sont transformées en spectre par transformation de Fourier.
 
-La tension est un quadro log (une imbrication de quatre logs). Elle
-offre une bonne différenciation sur les m/z proches.
+La tension est un quadro log (une imbrication de quatre logs). Elle offre une bonne différenciation sur les m/z proches.
 
 ## Interprétation des spectres MS
 
 C'est l'analyseur qui transforme les données de trajectoires en spectre.
 
-Les données obtenues après l'analyse des trajectoires forment un spectre
-avec :
+Les données obtenues après l'analyse des trajectoires forment un spectre avec :
 
-* En abscisse, $\frac{m}{z}$ où $m$ poids moléculaire apparent (Da) et z la charge.
+* En abscisse, $\frac{m}{z}$ où $m$ poids moléculaire apparent (Da) et $$ la charge.
 * En ordonnée, l'intensité du signal.
 
 !!! note
@@ -98,7 +93,7 @@ avec :
 ## La charge
 
 La charge est déterminée par la différence entre deux pics
-isotopiques : $\mathrm{\Delta} = \frac{1}{Charge}$
+isotopiques : $\Delta = \frac{1}{z}$ avec $z$ la charge.
 
 __Isotope__ molécule ayant un ou plusieurs neutrons supplémentaires.
 
@@ -107,8 +102,6 @@ __Composé radioactif__ isotope non stable.
 ## Quantification absolue
 
 La quantification absolue passe par une gamme étalon avec un marquage à l'isotope. Les échantillons d'intérêts sont reportés sur une courbe étalon.
-
-
 
 -----------------------------
 
@@ -121,7 +114,7 @@ Vocabulaire
 * __PSM__ spectre assimilé à un peptide (Peptid Spectrum Match)
 
 
-Nature de l'échantillon de la nature de la molécule les plus + protéines $H^{+}$. Jusqu'à z. Azote et oxygène doublet non liant donneur.
+Nature de l'échantillon de la nature de la molécule les plus + protéines $H^+$. Jusqu'à z. Azote et oxygène doublet non liant donneur.
 
 Les protéines peuvent être des molécules compliquées. La chaine d'acides aminés. On réalise généralement une découpe des protéines. C'est la présence de chaine peptides avec des séquences uniques dans chaque type de protéines qui permet de remonter au type de la protéine.
 
@@ -162,7 +155,8 @@ Les protéines fragmentées sont découpées en peptides notamment avec la tryps
 
 La chromatographie permet de Fractionner l'échantillon. Cela facilite l'analyse (à la fois pour le spectromètre mais aussi pour l'utilisateur). Les molécules sont analysées par groupe partageant avec des propriétés chimiques très proches.
 
-_Rmq_ La chromatographie permet aussi de retirer les sels.
+!!! note
+    La chromatographie permet aussi de retirer les sels.
 
 ### FAIM
 
@@ -172,14 +166,9 @@ Par exemple il permet d'éliminer les ions mono-chargés qui généralement ne s
 
 ## Spectrométrie protéomique
 
-1.  Ionisation des molécules à l'entré du spectromètre.
-2.  Fragmentation des 20 ions avec le signale le plus intense. La
-    fragmentation n'est pas (a~1~/Y~n-1~ ou Y~n-1~/b~1~). Elle aura
-    tendance à favoriser certains types de fragments comme ce n'ayant
-    perdu qu'un aa à l'extrémité (.
-3.  MS/MS analyse des fragments en recoupant les informations et grâce à
-    la précision des mesures, on est en mesure de déterminé une partie
-    des acides aminés d'une chaine peptidique.
+1. Ionisation des molécules à l'entré du spectromètre.
+2. Fragmentation des 20 ions avec le signale le plus intense. La fragmentation n'est pas ($a_1/Y_{n-1}$ ou $Y_{n-1} / b_1$). Elle aura tendance à favoriser certains types de fragments comme ce n'ayant perdu qu'un aa à l'extrémité.
+3. MS/MS analyse des fragments en recoupant les informations et grâce à la précision des mesures, on est en mesure de déterminé une partie des acides aminés d'une chaine peptidique.
 
 ### Données importantes
 
@@ -196,7 +185,7 @@ Propriétés sur les spectres :
 * La perte d'eau d'une molécule d'eau se traduit par la perte de 18 Da.
 * Les ions fils coupés au niveau d'une proline sont très intense.
 
-# Traitement des données
+## Traitement des données
 
 La façon dont est traitée les données de MS dépend de l'objectif de
 déterminer :
@@ -215,14 +204,11 @@ déterminer :
 
 ### Séquençage
 
-Les peptides sélectionnées sont fragmentés. La différence de M/Z entre les fragments permet de déduire les acides aminées qui constituent le
-fragment peptidique.
+Les peptides sélectionnées sont fragmentés. La différence de M/Z entre les fragments permet de déduire les acides aminées qui constituent le fragment peptidique.
 
 Les séquences des fragments peptidiques sont superposées pour déterminer la séquence du peptide.
 
-
-La hydroliser les protiéines. Deux stratégies pour l'étude protéomique
-par spectrométrie de masse.
+La hydroliser les protiéines. Deux stratégies pour l'étude protéomique par spectrométrie de masse.
 
 Bottom up
 
@@ -231,8 +217,6 @@ Shotgun
 of protein-protein interactions, absolute and relative protein
 quantification, post-translational modifications, and protein stability
 
-
-
 L'idenfication est faite par un algorithme qui comparer les spectres des peptides obtenus par le spectromètre et à ce génèrer informatiquement à partir d'une liste de candidat protéines. Les 
 
 les 
@@ -240,15 +224,11 @@ Analyse statistique des données avec false et vrai positifs.
 
 En fonction du moment où le clivage (hydrolyse à lieu :
 
-Bottom-up en morceaux de peptides dont on déduit la présence de
-protéines. Parfois la protéine est déduite par la présence d'un seul
-petit fragment.
+Bottom-up en morceaux de peptides dont on déduit la présence de protéines. Parfois la protéine est déduite par la présence d'un seul petit fragment.
 
-Top-down tout les protéines intacts protéoforms. Couvre moins la
-séquence peptidique que la méthiode bottom up.
+__Top-down__ toutes les protéines intacts protéoforms. Couvre moins la séquence peptidique que la méthiode bottom up.
 
 Purifier les protéines avec la chromatographie.
-
 
 # Méthodes de quantification
 
@@ -272,7 +252,5 @@ Les protéines sont marquées par un groupement chimique isobarrique (de même m
 
 ## Quantification absolue
 
-La quantification absolue passe par une gamme étalon avec un marquage à
-l'isotope. Les échantillons d'intérêts sont reportés sur une courbe
-étalon.
+La quantification absolue passe par une gamme étalon avec un marquage à l'isotope. Les échantillons d'intérêts sont reportés sur une courbe étalon.
 

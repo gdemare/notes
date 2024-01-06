@@ -1,11 +1,12 @@
-## Objectif
+La "classification" (anglais) est un ensemble de méthodes qui permet de prédire une variable qualitative appelée classe.
 
-Prédire la classe (variable qualitative).
+
 
 ## Méthodes
 
-* Classificateur binaire : 
-  * Perceptron
+* Classificateur binaire :
+
+  * Perceptron.
   * Régression logistique
   
 * Classificateur multi-classes :
@@ -19,8 +20,6 @@ Prédire la classe (variable qualitative).
   * Support Vector Machine (SVM)
   * Réseau de neurones
 
-# Classification supervisée ou modèliser
-
 !!! warning
 	Attention aux variables fortement corrélées ! elles peuvent surpondérer de l'information. Pour palier ce problème, il est conseillé de réaliser la modélisation sur de nouvelles variables obtenues à la suite d'une réduction de dimensions.
 
@@ -28,21 +27,20 @@ Prédire la classe (variable qualitative).
 
 Obj : générer une probabilité d'appartenance à une classe. 
 
-* Classificateur binaire 
-* Perceptron
-* Régression logistique
-* Classificateur multi-classes 
-* Analyse discrimante 
-* Arbre de décision
-* Boosting
+* Classificateur binaire et multi-classes.
+* Perceptron.
+* Régression logistique.
+* Analyse discrimante.
+* Arbre de décision et forêt aléatoire.
 * Classificateur naïve bayésien
-* Espérance-maximisation (EM) 
-* Forêt aléatoire 
-* k-plus proches voisins 
-* Support Vector Machine (SVM)
-* Réseau de neurones
+* Espérance-maximisation (EM).
+* k-plus proches voisins.
+* Support Vector Machine (SVM).
+* Perceptron et réseau de neurones.
 
-## Evalutation des performances d'un modèle
+* Boosting.
+
+## Evaluer et comparer les  performances de modèles de classification
 
 ### Matrice de confusion
 
@@ -53,10 +51,11 @@ Tab         | Vrai | Faux
 
 On note n le nombre d'individus du jeu de test : $n = a + b + c + d$.
 
-* **Taux d'erreur** ou **taux de mal classé** proportion d'individus mal classé $= \frac{c+b}{n}$
-
+* **Taux d'erreur** ou **taux de mal classé** proportion d'individus mal classés : $\frac{c+b}{n}$.
 
 ### Classification binaire (deux classes)
+
+Les différents indiciateurs pour évaluer 
 
 #### Courbe de Receiver Operating Characteristic (ROC)
 

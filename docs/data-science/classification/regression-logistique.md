@@ -1,7 +1,7 @@
 ## Concept
 
 Classificateur binaire
-On construit une formule mathématique qui score les individus et se ramène à une probabilité avec la fonction logistique qui est comprise entre [0;1].
+On construit une formule mathématique qui score les individus et se ramène à une probabilité avec la fonction logistique qui est comprise entre $[0;1]$.
 
 ## Type de variables
 
@@ -21,8 +21,8 @@ On construit une formule mathématique qui score les individus et se ramène à 
 
 ## Sélection des variables
 
-* AIC à minimiser
-* BIC à minimiser
+* AIC à minimiser.
+* BIC à minimiser.
 
 ## Validité du modèle
 

@@ -58,10 +58,6 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - Anglais : 
-    - Conjugaison : anglais/conjugaison.md
-    - Grammaire : anglais/grammaire.md
-    - "Ortographe et vocabulaire" : anglais/ortographe-vocabulaire.md
   - Biologie :
     - "Biochimie et biomol" :
       - "Biomolécules et lipides" :  
@@ -88,10 +84,10 @@ nav:
         - "Structure et fonctions" : biologie/physiologie-animale/structure-fonction-principes.md
         - "Histologie" : biologie/physiologie-animale/histologie.md
       - "Biologie cellulaire" :
-        - "La communication cellulaire" : biologie/cellule/communication-cellulaire.md
-        - "Le cycle cellulaire" : biologie/cellule/cycle-cellulaire.md
-        - "Le cytosquelette" : biologie/cellule/cytosquelette.md
-        - "La matrice extracellulaire et jonctions cellulaires" : biologie/cellule/matrice-extracellulaire-jonctions-cellulaires.md
+        - "Communication cellulaire" : biologie/cellule/communication-cellulaire.md
+        - "Cycle cellulaire" : biologie/cellule/cycle-cellulaire.md
+        - "Cytosquelette" : biologie/cellule/cytosquelette.md
+        - "Matrice extracellulaire et jonctions cellulaires" : biologie/cellule/matrice-extracellulaire-jonctions-cellulaires.md
         - "Organisation cellulaire" : biologie/cellule/organisation-cellulaire.md
         - "Régulation de l'expression génétique" : biologie/cellule/regulation-expression-genique.md
       - "Physologie animale" :
@@ -212,6 +208,10 @@ nav:
       - Physique : physique-chimie/physique/physique.md
       - Optique : physique-chimie/physique/optique.md
   - Autres :
+    - Anglais : 
+      - Conjugaison : anglais/conjugaison.md
+      - Grammaire : anglais/grammaire.md
+      - "Ortographe et vocabulaire" : anglais/ortographe-vocabulaire.md
     - Informatique :
         - "Base de données" : informatique/database.md
         - "Math jax" : informatique/markdown-math.md
