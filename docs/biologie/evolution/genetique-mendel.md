@@ -1,54 +1,37 @@
-Génétique Science qui a pour objet l'étude des mécanismes qui aboutissent l'apparition d'un nouvel individu.
+__Génétique__ science qui a pour objet l'étude des mécanismes qui aboutissent l'apparition d'un nouvel individu.
 
-__Espèce__ groupe d'individus potentiellement interféconds qui se reproduisent entre eux.
+__Espèce__ groupe d'individus potentiellement interfécond qui se reproduise entre eux.
 
-La génétique est composée de plusieurs domaines d'études
+La génétique est composée de plusieurs domaines d'études :
 
-| Formelle                                          | Moléculaire                                                       |
-|------------------------------------|------------------------------------|
-| L'étude des lois de transmissions des caractères. | Mécanismes moléculaires de conservation et transmission des gènes |
+* FFormelleL'étude des lois de transmissions des caractères. 
+* MoléculaireMécanismes moléculaires de conservation et transmission des gènes
 
 On distingue les caractères en deux catégories :
 
 * Acquis lié à l'environnement et son vécu.
-* Innés D'origine génétique.
+* Innés d'origine génétique.
 
-Les dernières découvertes en épigénétique suggèrent que la frontière entre l'inné et l'acquis n'est pas aussi tranchée qu'elle n'y parait.
+!!! note
+    Les dernières découvertes en épigénétique suggèrent que la frontière entre l'inné et l'acquis n'est pas aussi tranchée qu'elle n'y parait.
 
 ## Présentation et caractère indépendant
 
 ### L'origine des caractères
 
-Aujourd'hui, on sait que les gènes sont le support de l'information génétique. Ils permettent de fabriquer des protéines qui possèdent des propriétés qui se traduisent [parfois]{.underline} par l'apparition de caractères.
+Aujourd'hui, on sait que les gènes sont le support de l'information génétique. Ils permettent de fabriquer des protéines qui possèdent des propriétés qui se traduisent parfois par l'apparition de caractères.
 
 C'est grâce à l'apparition d'une mutation que l'on détermine l'existence d'un gène.
 
-Individu Somme des caractères d'un être vivant.
+__Individu__ somme des caractères d'un être vivant.
 
 ## Lois de Mendel
 
-<table>
-<colgroup>
-<col style="width: 22%" />
-<col style="width: 77%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Uniformité</td>
-<td>Chaque individu possède deux caractères.</td>
-</tr>
-<tr class="even">
-<td>Indépendance</td>
-<td><p>Les caractères sont indépendants.</p>
-<p>(Brassage interchromosomique)</p></td>
-</tr>
-<tr class="odd">
-<td>Disjonction</td>
-<td>Une seule version du caractère possédée par chaque parent est
-transmise (durant la méiose).</td>
-</tr>
-</tbody>
-</table>
+
+* Uniformité : chaque individu possède deux caractères.</td>
+* Indépendance : les caractères sont indépendants (brassage interchromosomique).
+* Disjonction : une seule version du caractère possédée par chaque parent est
+transmise (durant la méiose).
 
 Les ratios pour justifier les gènes dominance/récidivité
 
@@ -230,11 +213,11 @@ L'idée est de formuler des hypothèses en expliquant les résultats qui devraie
 
 ## Méthodologie
 
-1. Poser sous forme d'un schéma les données de l'énoncé
-2. Formuler des hypothèses
-3. Écrire les gamètes obtenues pour les générations F1 et F0
+1. Poser sous forme d'un schéma les données de l'énoncé.
+2. Formuler des hypothèses.
+3. Écrire les gamètes obtenues pour les générations F1 et F0.
 4. Vérifier et justifier en utilisant des tableaux de croisements. Chaque case devra contenir le génotype, le phénotype et la probabilité.
 
 * Pour les questions liées au génotype en dihybridisme, on ne raisonne qu'à partir du phénotype double récessif.
 
-Prouver l'existence de deux gènes montrer l'existence de phénotype recombiné.
+Prouver l'existence de deux gènes est équvialent à montrer l'existence de phénotype recombiné.

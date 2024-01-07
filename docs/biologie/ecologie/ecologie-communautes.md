@@ -91,9 +91,9 @@ Plus la région d'une communauté est étendue et plus le nombre d'espèces est 
 
 Hypothèse est qu'il existe de plus nombreux habitats.
 
-Pour les iles plus, elles sont grandes et situé proche du continent plus
+Pour les îles plus, elles sont grandes et situées proche du continent plus
 il y a d'espèces.
 
-Les agents pathogènes modifient en profondeur les communauté
+Les agents pathogènes modifient en profondeur les communautés
 
 Agent zoonotique responsable ¾ des maladies.

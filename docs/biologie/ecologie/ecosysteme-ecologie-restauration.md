@@ -2,33 +2,22 @@ Flux d'énergie arrive sous forme de lumière
 
 Biochimie cycle recyclé. Les éléments sont recyclés.
 
-1.  Producteur photosynthèse mais aussi au niveau des fumoirs au fond
-    des océans.
+1. Producteur photosynthèse mais aussi au niveau des fumoirs au fond des océans.
+2. Consommateur primaire en générale les herbivores.
+3. Secondaire se nourrissent des herbivores.
+4. Tertiaire.
+5. Décomposeur ou détritivores qui se nourrissent des débris et des matières organiques mortes. Ils les transforment en matières organiques et en nutriments ou composés simples qui serviront aux autotrophes.
 
-2.  Consommateur primaire en générale les herbivores.
+!!! note
+    1% de la lumière qui atteint les organismes photosynthétiques est convertie en énergie chimique.
 
-3.  Secondaire se nourrissent des herbivores.
-
-4.  Tertiaire.
-
-5.  Décomposeur ou détritivores qui se nourrissent des débris et des
-    matières organiques mortes. Ils les transforment en matières
-    organiques et en nutriments ou composés simples qui serviront aux
-    autotrophes.
-
-[Rmq :]{.underline} 1% de la lumière qui atteint les organismes
-photosynthétique est convertie en énergie chimique.
-
-Production primaire quantité de matière organiques produite par les
+__Production primaire__ quantité de matière organiques produite par les
 producteurs dans un temps donnée.
 
 Production primaire :
 
--   brute quantité d'énergie provenant de la transformation de la
-    lumière en énergie chimique (g.m^-2.^an^-1^, ou J.m^-2^.an^-1^)
-
--   Nette soustrait la respiration revient à l'énergie convertie en
-    biomasse.
+* brute quantité d'énergie provenant de la transformation de la lumière en énergie chimique ($g \cdot m^{-2} \cdot an^{-1}$, ou $J \cdot m^{-2} \cdot .an^{-1}$).
+* Nette soustrait la respiration revient à l'énergie convertie en biomasse.
 
 Par exemple, les forêts ont un PPN faible et les prairies ont PPN élevé.
 
@@ -55,15 +44,11 @@ transformée en biomasse càd en chair ou en descendants.
 
 Le reste est perdu :
 
--   Par respiration.
+* Par respiration.
+* Non digéré (majeur).
+* Sous forme de chaleur notamment par les détritivores.
 
--   Non digéré (majeur).
-
--   Sous forme de chaleur notamment par les détritivores.
-
-Efficacité écologique % d'énergie assimilée (qui ne pas excrété dans les
-excréments) qui sert pour la croissance de biomasse càd qui n'est
-utilisé dans la respiration cellulaire.
+__Efficacité écologique__ % d'énergie assimilée (qui ne pas excrété dans les excréments) qui sert pour la croissance de biomasse càd qui n'est utilisé dans la respiration cellulaire.
 
 | Groupe                    | Efficacité écologique (%) | Type       |
 |---------------------------|---------------------------|------------|
@@ -73,14 +58,10 @@ utilisé dans la respiration cellulaire.
 
 À chaque niveau trophique :
 
--   entre 5% et 20% (en moyenne 10%) de la productivité est transformé
-    en biomasse.
+* entre 5% et 20% (en moyenne 10%) de la productivité est transformé en biomasse.
+* Il y a de moins en moins d'espèces et d'individus.
 
--   Il y a de moins en moins d'espèces et d'individus.
-
-Il existe une exception, le phytoplancton qui a un temps de génération
-suffisamment rapide pour compenser nourrir zooplancton à moment plus de
-zoo.
+Il existe une exception, le phytoplancton qui a un temps de génération suffisamment rapide pour compenser nourrir zooplancton à moment plus de zoo.
 
 L'estimation des capacités limites de la Terre dépendent
 
@@ -96,8 +77,5 @@ Organisme meurt décomposé
 
 Il existe deux types de cycles géochimiques des éléments :
 
--   Mondiaux (le carbone, l'oxygène, le soufre, l'azote). Il possède une
-    étape sous forme gazeuse.
-
--   Locaux (le phosphore, le potassium, le calcium) aquatique cycle plus
-    grand avec le transport par les courants.
+* Mondiaux (le carbone, l'oxygène, le soufre, l'azote). Il possède une étape sous forme gazeuse.
+* Locaux (le phosphore, le potassium, le calcium) aquatique cycle plus grand avec le transport par les courants.

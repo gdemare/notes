@@ -41,7 +41,7 @@ Le cycle de division cellulaire est une suite de période en deux phases :
 !!! note
     C'est seulement durant l'interphase que la cellule synthétise des protéines et les organistes cellulaire
 
-## L'interphase
+### L'interphase
 
 L'interphase se compose de trois phases :
 
@@ -49,7 +49,7 @@ L'interphase se compose de trois phases :
 * S où a lieu la réplication de l'ADN. Elle dure entre 10 à 12h.
 * G2 qui dure entre 4 à 6 h qui est une phase de contrôle de la réplication de l'ADN et de la quantité des réserves énergétiques.
 
-### Phase G1
+#### Phase G1
 
 Pour les cellules qui ne se divisent plus, la phase G1 est renommée G0. Elle comprend à la croissance et à la spécialisation de la cellule et l'exercice de ses fonctions.
 
@@ -57,7 +57,7 @@ La phase G1 se déclenche par l'activation d'une voie de signalisation par exemp
 
 À la fin de la phase G1, les centrioles se séparent et s'éloignent.
 
-### Phase S
+#### Phase S
 
 Une fois la phase S débutée, le processus de division cellulaire devient irréversible.
 
@@ -75,11 +75,11 @@ __Kinétochore__ complexe protéiques au niveau des centromères ou s'accroche l
 
 Dès qu'un microtubule entre en contact avec le kinétochore, il se dépolymérise et tire le chromosome vers son centrosome. C'est lorsqu'un microtubule du centrosome opposé que sera Contré lorsque d'un autre microtubule capture de l'autre côté. À l'équateur les forces s'équilibrent.
 
-### Phase G2
+#### Phase G2
 
 La réplication des centrosomes.
 
-## La phase M
+## Phase M
 
 Les trois principales changements qui ont lieu lors de la phase M sont :
 
@@ -112,26 +112,29 @@ Les étapes de la phase M sont :
 </tr>
 <tr class="odd">
 <td>Métaphase </td>
-<td>- Les microtubules polaires capturent les chromosomes en
-s’appareillant sur les kinétochores et forme le fuseau de division.</td>
+<td>
+    <p>- Les microtubules polaires capturent les chromosomes en
+s’appareillant sur les kinétochores et forme le fuseau de division.<p>
+</td>
 </tr>
 <tr class="even">
 <td>Anaphase </td>
-<td><p>- Séparation des chromosomes par le raccourcissement des
-microtubules.</p>
-<p>- Les deux pôles du fuseau miotique s’éloignent davantage grâce aux
+<td>
+    <p>- Séparation des chromosomes par le raccourcissement des microtubules.</p>
+    <p>- Les deux pôles du fuseau miotique s’éloignent davantage grâce aux
 microtubules polaires.</p></td>
 </tr>
 <tr class="odd">
 <td>Télophase</td>
-<td><p>- L’enveloppe nucléaire se reforme par déphosphorylation des
+<td>
+    <p>- L’enveloppe nucléaire se reforme par déphosphorylation des
 lamines.</p>
-<p>- L’anneau contractile sépare la membrane plasmique en deux.</p></td>
+    <p>- L’anneau contractile sépare la membrane plasmique en deux.</p></td>
 </tr>
 </tbody>
 </table>
 
-### Réorganisation des microtubules
+##### Réorganisation des microtubules
 
 Les microtubules jouent un rôle centrale dans la division cellulaire :
 
@@ -147,7 +150,7 @@ Ils sont organisés par des dynéines. Chez les animaux, durant la division, les
 !!! note
     Le centre organisateur des microtubules n'est pas nécessaire à la division. Il est absent des cellules végétales ce qui ne les empêchent pas de se diviser.
 
-### Prophase
+#### Prophase
 
 Le réseau des microtubules est responsable durant la prophase de :
 
@@ -167,7 +170,7 @@ __Condensine__ protéine qui provoque la condensation de l'ADN et la disparition
 
 Dans la méiose, c'est à ce moment que des parties des chromosomes est homologues sont échangés au niveau des chiasmas.
 
-### Métaphase
+#### Métaphase
 
 Une partie des microtubules polaires capture les chromosomes en s'appareillant sur les kinétochores. La longueur des microtubules kinétochoriens reste plus ou moins constante et ils se chevauchent à mi-chemin entre les deux pôles du fuseau mitotique.
 
@@ -177,7 +180,7 @@ En métaphase :
 * Les microtubules polaires des deux pôles se chevauchent.
 * Les asters rayonnent et touchent la membrane plasmique.
 
-### L'anaphase
+#### Anaphase
 
 La séparation des chromatides se fait en début d'anaphase. Il y a :
 
@@ -192,7 +195,7 @@ La séparation des chromatides se fait en début d'anaphase. Il y a :
 
 L'anaphase ne dure que quelques minutes.
 
-### Télophase
+#### Télophase
 
 La télophase est l'étape de répartition des organites. Il y a :
 
@@ -322,57 +325,3 @@ C'est durant la prophase I que les recombinaisons génétiques ont lieu entre le
 
 __Cellule haploïde__ cellule qui a une ou deux chromatides correspond au nombre de chromosomes.
 
-# Mort cellulaire
-
-__Cellules malignes__ cellules d'un organe en envahissent un autre.
-
-__Nécrose__ mort rapide et accidentelle généralement suite à la modification des conditions environnementales (pH, température...). Lors de la nécrose la membrane de la cellule n'est plus intègre.
-
-__Autophagie__ cellule qui s'autodégrade.
-
-Les gènes proto-oncogènes sont des gènes qui favorisent le cycle cellulaire.
-
-__Apoptose__ mort cellulaire programmé. Elle Réponse cellulaire qui conduit à la mort cellulaire.
-
-!!! note
-    Le type de mort cellulaire conduit à une fragmentation différente des noyaux.
-
-## Apoptose
-
-L'apoptose conduit à :
-
-* L'ADN est découpé par Le clivage a lieu en deux histones (nucléosomes). L'ADN est fragmenté en séquence de 120 paires de bases (ou multiple de 120).
-* La translocation des phosphodylsérines passent du feuillet interne au feuillet externe. Elles sont utilisées comme signal pour les macrophages et les biologistes de mort cellulaire.
-* La conservation de l'intégrité cellulaire ce qui évite qu'une réponse immunitaire se produise.
-* Une perte de l'adhésion cellulaire.
-
-Ensuite, la cellule se morcelle en petites structures appelées corps résiduels, qui seront digérer par les macrophages.
-
-L'apoptose est
-
-Caspases la vie est un état d'inhibition de la mort. Capable de catalyser la dégradation de nombreuses molécules organiques + de cliver pour libérer des endonucléases.
-
-libération de facteurs pro-apoptiques
-
-Voies mitochondrie la mitochondrie libère de ses constituants
-
-2 types de molécules équilibres pro apoptose vs anti-apoptose détermine le comportement.
-
-Voies intrinsèque amplification possible entre deux voies.
-
-Plusieurs formes de mort
-
-Point de non-retour
-
-### Méthode de détection de l'apoptose 
-
-* Produit de dégradation des caspases grâce à des anticorps.
-* Western blot.
-* Fluorescence.
-* Mesure de la fragmentation de l'ADN.
-* Phosphodylsérine,
-
-Les marqueurs de mort cellulaire :
-
-* Annexine, un marqueur des phosphodylsérines Elle peut marquer le feuillet interne.
-* Iodure de propidium est un intercalent de l'ADN. Il ne peut entrer dans le noyau que si la membrane plasmique n'est plus intègre.

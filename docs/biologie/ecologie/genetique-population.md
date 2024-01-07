@@ -2,7 +2,7 @@
 
 __Norme de réaction__ ensemble des phénotypes observés en faisant varier les conditions environnementales pour un génotype.
 
-__Plasticité phénotypique__ capacité d\'un organisme à exprimer différents phénotypes à partir d'un génotype donné selon l'environnement.
+__Plasticité phénotypique__ capacité d'un organisme à exprimer différents phénotypes à partir d'un génotype donné selon l'environnement.
 
 __Locus (pluriel loci)__ position fixe, localisation d'un gène ou d'un marqueur génétique.
 
@@ -38,7 +38,9 @@ La génétique des populations s'intéresse à l'histoire des populations. En co
 * Taux d'allèles hétérozygotes.
 * __Taux de polymorphisme__ fréquence d'individus hétérozygotes.
 
-## Estimation de la fréquence des différents allèles présent dans la population
+## Fréquences alléliques
+
+Estimation de la fréquence des différents allèles présent dans la population
 
 La variation génétique des individus au sein d'une population est dû à la reproduction sexuée. Elle est responsable du brassage génétique à trois niveaux entre :
 
@@ -82,6 +84,9 @@ BB       | 25
 
 Calcul des fréquences alléliques $\mathbf{Freq}(A) = \frac{2 \cdot n_{AA} + n_{AB}}{2\cdot N} = \frac{2 \cdot 35 + 40}{200} = 0,55$
 
+!!! note
+    Dans le cas où le phénotype intermédiaire n'existe pas, on peut calculer les fréquences alléliques en faisant l'hypothèse que la population est à l'équilibre.
+
 ### L'équilibre
 
 L'équilibre est stable si l'état des paramètres n'évolue plus càd que les fréquences alléliques sont constantes. Ainsi, à chaque génération, on retrouve les fréquences de départ des allèles, ce qui correspond mathématiquement à $\Delta P = P_{n + 1} - P_n = 0$.
@@ -106,15 +111,10 @@ En fonction du nombre d'allèles, on qualifiera l'équilibre de :
 * Polymorphe (plusieurs allèles)
 * Monomorphe (1 seul allèles).
 
-### Hypothèse en cas d'absence de phénotype intermédiaire
-
-Dans le cas où le phénotype intermédiaire n'existe pas, on peut calculer les fréquences alléliques en faisant l'hypothèse que la population est à l'équilibre.
-
-### Vérifier si une population est à l'équilibre
+Pour vérifier si une population est à l'équilibre :
 
 1. Calculer les effectifs théoriques.
-2. Comparer les résultats attendus avec les fréquences réelles $X^2 = \sum{\frac{(eff\ théor. - eff\ obser)^2}{eff\ théor}}$
-
+2. Comparer les résultats attendus avec les fréquences réelles $X^2 = \sum{\frac{(eff\ théor. - eff\ obser)^2}{eff\ théor}}$.
 3. Pour cela on utilise un test statistique :
     
     * $H_0$ les résultats théoriques sont conformes à ceux obtenus.
@@ -124,18 +124,20 @@ Utilisation du test du Khi-2 :
 
 * Le degré de liberté : nombre de paramètres indépendants, c'est le nombre d'allèles pour un gène -1 car la somme des fréquences alléliques est égale à 1.
 * $\alpha$ le taux d'erreur accepté : probabilité de rejeter $H_0$ alors que c'est vrai.
-* $\beta$ probabilité d'accepter H~0~ alors que c'est faux.
+* $\beta$ probabilité d'accepter $H_0$ alors que c'est faux.
 
-Si $X^2 < X^2(\alpha)$, on dira alors que l'on ne rejette pas $H_0$. La population est à l'équilibre.
+Si $X^2 \lt X^2(\alpha)$, on dira alors que l'on ne rejette pas $H_0$. La population est à l'équilibre.
 
 !!! note
     Généralement, on calcul à partir des fréquences alléliques observées les phénotypes théoriques à obtenir si la population est à l'équilibre. On vérifie ensuite que la conformité des résultats en utilisant le test du Khi-2.
 
-# Mutation
+### Mutation
 
 On parle notamment du taux de mutation par gamète et par génération.
 
-Pour un allèle A de fréquence P~n~ avec un taux de mutation $u$, sa fréquence à la génération suivante est $P_{n + 1} = P_n - u \cdot P_n$
+Pour un allèle A de fréquence $P_n$ avec un taux de mutation $u$, sa fréquence à la génération suivante est
+
+$$P_{n + 1} = P_n - u \cdot P_n$$
 
 Les mutations récurrentes influencent peu les fréquences alléliques seules. Combinées avec d'autres facteurs évolutifs (environnement...), elles permettent de créer la variabilité initiale.
 
@@ -143,7 +145,7 @@ __Taux mutation reverse__ taux de mutation qui annule la mutation.
 
 Le taux de mutation chez les Végétaux et les Animaux est d'environ 1 pour 100 000 gènes.
 
-# La dérive génétique
+### Dérive génétique
 
 __Dérive génétique__ fluctuation aléatoire des fréquences alléliques d'une
 génération à une autre. Elle n'est pas prédictible.
@@ -170,7 +172,7 @@ On cherche à déterminer pour un individu quelqu'une à quelle fréquence il y 
 
 Elle est d'autant plus rapide pour les populations de faibles effectifs.
 
-# Les rencontres non aléatoires entre les gamètes 
+### Les rencontres non aléatoires entre les gamètes 
 
 On parlera de pangamie lorsque les gamètes se rencontrent au hasard (et de panmixie pour les rencontres entre les individus).
 
@@ -180,7 +182,7 @@ Les causes de croisements non-panmixie peuvent être dû à :
 * Consanguinité (de choix, de position ou dû au faible effectif)
 * Homogamie (et hétérogamie) c'est lorsqu'un individu a tendance à se reproduire avec un partenaire avec qui, il partage le même phénotype.
 
-## L'autofécondation
+#### Autofécondation
 
 À l'équilibre, on aura uniquement des homozygotes car même si l'individu est hétérozygote (Aa), ces descendants auront 50% de chance de conserver l'hétérozygote : $1 = \frac{1}{4} \cdot AA + \frac{1}{2} \cdot Aa + \frac{1}{4} \cdot aa$
 
@@ -199,7 +201,7 @@ Ainsi, sur le long terme (c'est-à-dire quand $n$ tend vers $+ \infty$), les fr�
 
 Dans la Nature et notamment chez les plantes, il existe des mécanismes d'auto-incompatibilité qui permettent de prévenir en partie l'autofécondation.
 
-## Consanguinité
+#### Consanguinité
 
 Les principales causes de consanguinité sont :
 
@@ -226,7 +228,7 @@ Quelle est la probabilité de trouver des gènes identiques entre C et B ?
 La proportions de gènes communs entre B et C est
 $\frac{1}{2} \cdot (1 - F_a) + F_a = \frac{1}{2} \cdot (1 + F_a)$
 
-## La sélection
+### La sélection
 
 !!! note
     C'est le phénotype qui est soumis à la sélection et indirectement le génotype.
@@ -284,10 +286,10 @@ Démonstration :
 
 1. on pose $r = \frac{b}{1 - a}$ et $v_n = u_n − r$.
 2. En développant $u_n = a \cdot (v_n + r) + b$.
-3. On démontre que $u_n = a^n \cdot (u_0− r) + r$ est une suite arithmétique.
+3. On démontre que $u_n = a^n \cdot (u_0 − r) + r$ est une suite arithmétique.
 
 !!! note
-    Les flux génétiques peuvent empêcher les populations de s'adapter pleinement à un environnement en empêchant la sélection naturelle de s'exercer. L'arrivé d'allèles de populations étrangères empêche la diminution de la fréquence des allèles désavantageux. Cela peut également être l'inverse, les flux génétiques peuvent permettre à des allèles de se répandre rapidement.
+    Les flux génétiques peuvent empêcher les populations de s'adapter pleinement à un environnement en empêchant la sélection naturelle de s'exercer. L'arrivé d'allèles de populations étrangères empêche la diminution de la fréquence des allèles désavantageux. Cela peut également être l'inverse, les flux génétiques peuvent permettre à des allèles de se répendre rapidement.
 
 Les activités humaines ont rendu le flux génétique plus présent et courant qu'il ne l'était.
 

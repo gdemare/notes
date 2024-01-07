@@ -1,4 +1,4 @@
-# Thermodynamique
+L'unité de l'énergie est le Joule (J).
 
 La thermodynamique est un domaine de la chimie qui permet de prévoir si une transformation chimique peut avoir lieu sans déterminer sa composition ou sa vitesse.
 
@@ -13,7 +13,7 @@ __Capacité thermique__ variable intensive qui quantifie la quantité de chaleur
 
 __État standard__ pression atmosphérique (1 atm) et température 298K (utilisé par défaut).
 
-Rappel : Pour les gaz parfaits, on a : $p \cdot V = n \cdot R \cdot T$
+Rappel : Pour les gaz parfaits, on a : $$p \cdot V = n \cdot R \cdot T$$
 
 Avec :
 
@@ -30,8 +30,9 @@ Hydrogène | 1
 Carbone   | 14
 Oxygène   | 16
 
-## 1er principe de la thermodynamique : la conservation de l'énergie
+##  Conservation de l'énergie
 
+1er principe de la thermodynamique :
 L'énergie interne d'un système est notée U. Elle est dû à :
 
 * L'énergie cinétique (mouvement).
@@ -44,30 +45,31 @@ L'énergie d'un système peut être échangée sous deux formes :
 * Énergie thermique = Chaleur ($Q$).
 * Énergie mécanique = Travail ($W$).
 
-On définit cette différent d'énergie : $$\Delta U = \Delta Q + \Delta W$$
+On définit cette différent d'énergie :
 
-!!! note
-    L'unité de l'énergie est le Joule (J).
+$$\Delta U = \Delta Q + \Delta W$$
 
 Dans le cas d'une réaction cyclique, on a $\sum{\Delta U} = 0$.
 
-## La nature des transformations possibles
+La nature des transformations possibles
 
 Nature transformation   | Description                  | Implication                 
 ------------------------|------------------------------|-------------------
-Isotherme               | Pas de changement de T°      | $T{^\circ} = cste$
+Isotherme               | Pas de changement de T°      | $T = cste$
 Isochore                | Volume constant              | $V = cste$
 Adiabatique             | Pas d'échanges de chaleur    | $Q = 0$
 Isobare                 | Pression constante           | $P = cste$
 
-## Le travail (uniquement pour les gaz)
+### Le travail
+
+(uniquement pour les gaz)
 
 La notion de travail s'applique uniquement aux gaz car ils sont les seuls à subir une variation importante de volume : $\Delta W = - P \cdot dV$ avec $P$ pression (Pa).
 
 !!! example 
-    Pour une réaction isobare, on aura $\Delta W = - P \cdot dV = - P \times \frac{nRT}{P} = - n \cdot R \cdot T$
+    Pour une réaction isobare, on aura $\Delta W = - P \cdot dV = - P \cdot \frac{n \cdot R \cdot T}{P} = - n \cdot R \cdot T$
 
-## La chaleur
+### La chaleur
 
 La chaleur est une énergie. C'est une notion différente de la température.
 
@@ -89,7 +91,7 @@ Avec :
 * $P$ Pression (Pa).
 * $V$ Volume ($m^3$).
 * $C_p$ Capacité thermique isobare ($J \cdot K^{-1}$).
-* $C_v$ Capacité thermique isochore ($J \cdot K^{-1}$) 
+* $C_v$ Capacité thermique isochore ($J \cdot K^{-1}$).
 * $dT$ différence de température.
 
 !!! note
@@ -111,7 +113,7 @@ Une réaction est :
 * Endotherme ($\Delta H \gt 0$) elle absorbe de la chaleur.
 * Exotherme ($\Delta H \lt 0$) elle libère de la chaleur.
 
-## Calculer l'énergie de formation d'une réaction
+l' Energie de formation d'une réaction
 
 Quatre méthodes pour déterminer l'enthalpie de réaction :
 
@@ -129,22 +131,22 @@ Energie interne            | Uniquement pour les gaz
 
 Loi de Hess : L'enthalpie de réactions est égale à l'énergie nécessaire pour former les produits moins celles des réactifs.
 
-$\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{T}}^{\mathbf{0}}\mathbf{=}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}{\mathbf{.}\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{T}}^{\mathbf{0}}\mathbf{(}\mathbf{produits}\mathbf{) -}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}{\mathbf{.}\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{T}}^{\mathbf{0}}\mathbf{(}\mathbf{r}\mathbf{é}\mathbf{actifs}\mathbf{)}$
+$$\Delta_r H_T^0 = \sum{\nu_ i} \cdot \Delta_f H_T^0 (\mathbf{produits}) - \sum{\nu _i \cdot \Delta _f H_T^0 (\mathbf{réactifs})}$$
 
 Avec :
 
-* $\nu$ coefficients stœchiométriques ($\mathbf{2}\mathbf{H}_{\mathbf{2}}\mathbf{O}$)
-* $\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}}$ enthalpie de réaction
-* ${\mathbf{\mathrm{\Delta}}_{\mathbf{f}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}}$ enthalpie de formation                                               
+* $\nu$ coefficients stœchiométriques ($2H_2O$).
+* $\Delta _r H_0^T$ enthalpie de réaction.
+* $\Delta _f H_0 ^T$ enthalpie de formation.
 
 !!! note
     L'enthalpie de formation des corps simples c'est-à-dire de molécules constituées d'un seul type d'atomes est nul ($0 K \cdot J \cdot mol^{-1}$).
 
 Lorsqu'il y a un changement de température, il faut ajouter l'énergie nécessaire pour faire la transformation :
 
-$\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}_{\mathbf{0}}^{\mathbf{T}\mathbf{2}}\mathbf{=}{\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{H}}_{\mathbf{0}}^{\mathbf{T}} + \lbrack\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}C_{p}\left( \mathbf{produits} \right)\mathbf{-}\sum_{}^{}{\mathbf{\nu}_{\mathbf{i}}C_{p}}\left( \mathbf{r}\mathbf{é}\mathbf{actifs} \right)\mathbf{\rbrack(}\mathbf{T}_{\mathbf{2}}\mathbf{-}\mathbf{T}_{\mathbf{1}}\mathbf{)}$
+$$\Delta _r H_0^{T_2} = \Delta _r H_0^T + [\sum{\nu_i \cdot C_p ( \mathbf{produits})} - \sum{\nu _i \cdot C_p ( \mathbf{réactifs} )}] \cdot (T_2 - T_1)$$
 
-$C_p$ capacité calorifique en $mol^{-1}$.
+avec $C_p$ capacité calorifique en $mol^{-1}$.
 
 ### Énergie de liaisons
 
@@ -177,11 +179,11 @@ On peut calculer l'enthalpie en réalisant des combinaisons linéaires de réact
 
 Pour les gaz, à pression constante, on a :
 
-* $\mathbf{\mathrm{\Delta}H}_{\mathbf{r}}\mathbf{= \mathrm{\Delta}U + \mathrm{\Delta}n.R.T}$
-* $\mathbf{\mathrm{\Delta}n}$ différence de quantité de matière.
+* $\Delta H_r = \Delta U + \Delta n \cdot R \cdot T$
+* $\Delta n$ différence de quantité de matière.
 
-## 2ème principe de la thermodynamique : l'entropie
-
+## L'entropie
+2ème principe de la thermodynamique : l'
 Sans apport d'énergie extérieur, la matière se tend vers un état de désordre :
 
 * La matière se désorganise
@@ -194,16 +196,16 @@ L'entropie est une approche probabiliste du monde. Elle se définit comme l'éta
 !!! note
     Sur Terre, les rayons du soleil constituent un apport en énergie.
 
-Une réaction est spontanée seulement si l'entropie augmente c'est-à-dire $\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{> 0}$ :
+Une réaction est spontanée seulement si l'entropie augmente c'est-à-dire $\Delta S_{\mathbf{tot}} \gt 0$ :
 
-${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mathbf{sys}} + {\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}}$ S entropie en $J.K^{-1}$
+$\Delta S _{\mathbf{tot}} = \Delta S_{\mathbf{sys}} + \Delta S_{\mathbf{ext}}$ S entropie en $J.K^{-1}$
 
 !!! warning
     L'entropie peut diminuer dans le système étudié mais augmenter à l'extérieur.
 
-Une réaction réversible lorsque $\mathbf{\mathrm{\Delta}S}_{\mathbf{tot}}\mathbf{= 0}$.
+Une réaction réversible lorsque $\Delta S_{\mathbf{tot}} = 0$.
 
-Si l'on considère que le milieu externe est stable et qu'il n'y a pas d'échanges de matière avec le système étudié alors : $\mathbf{S}_{\mathbf{ext}} = \frac{\mathbf{Q}}{\mathbf{T}}$ pour connaitre la variation d'entropie entre un état initial et un final, il faut : ${\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}} = \int_{}^{}{\frac{\mathbf{Q}}{\mathbf{T}}\ }$
+Si l'on considère que le milieu externe est stable et qu'il n'y a pas d'échanges de matière avec le système étudié alors : $S_{\mathbf{ext}} = \frac{Q}{T}$ pour connaitre la variation d'entropie entre un état initial et un final, il faut : $\Delta S_{\mathbf{ext}} = \int{\frac{Q}{T}}$
 
 !!! info
     Déterminer l'entropie du système étudié
@@ -215,11 +217,11 @@ Si l'on considère que le milieu externe est stable et qu'il n'y a pas d'échang
 
 Pour une réaction à température et à pression constante :
 
-$\mathbf{\mathrm{\Delta}}_{\mathbf{r}}\mathbf{S}_{T}^{\mathbf{0}}\mathbf{=}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}S_{T}^{0}\left( \mathbf{produits} \right)\mathbf{-}\sum_{}^{}\mathbf{\nu}_{\mathbf{i}}S_{T}^{0}\left( \mathbf{r}\mathbf{é}\mathbf{actifs} \right)$
+$\Delta _r S_T^0 = \sum{\nu_i \cdot S_T^0 ( \mathbf{produits})} - \sum{\nu _i \cdot S_T^0 ( \mathbf{réactifs} )}$
 
 Lorsqu'il y a un changement de température, il faut ajouter une étape :
 
-$\mathrm{\Delta}_{r}S_{T2}^{0} = {\mathrm{\Delta}_{r}S}_{T1}^{0} + \left\lbrack \sum_{}^{}\nu_{i}C_{p}(produits) - \sum_{}^{}{\nu_{i}C_{p}}(réactifs) \right\rbrack.ln(\frac{T_{2}}{T_{1}})$
+$\Delta _{r}S_{T2}^{0} = {\mathrm{\Delta}_{r}S}_{T1}^{0} + [ \sum{\nu_ i \cdot C_p(\mathbf{produits})} - \sum{\nu_ i \cdot C_p}(\mathbf{réactifs}) ] \cdot \ln \frac{T_2}{T_1}$
 
 ### Réactions intermédiaires
 
@@ -227,20 +229,20 @@ Par la combinaison linéaire de réactions. Cela revient à passer par des réac
 
 ## Enthalpie libre
 
-À pression et à température constante, lorsqu'une réaction se déroule dans un milieu stable, la différence d'entropie du milieu extérieur égale à l'énergie reçue du système étudié c'est-à-dire ${\mathrm{\Delta}\mathbf{S}}_{\mathbf{ext}} = - \frac{\mathrm{\Delta}\mathbf{H}}{\mathbf{T}}$
+À pression et à température constante, lorsqu'une réaction se déroule dans un milieu stable, la différence d'entropie du milieu extérieur égale à l'énergie reçue du système étudié c'est-à-dire $\Delta S_{\mathbf{ext}} = - \frac{\Delta H}{T}$
 
 Pour qu'une réaction soit spontanée, on aura :
 
-${\mathrm{\Delta}\mathbf{S}}_{\mathbf{tot}} = {\mathrm{\Delta}\mathbf{S}}_{\mathbf{sys}} - \frac{{\mathrm{\Delta}\mathbf{H}}_{\mathbf{sys}}}{\mathbf{T}} > 0$
+$\Delta S_{\mathbf{tot}} = \Delta S_{\mathbf{sys}} - \frac{\Delta H_{\mathbf{sys}}}{T} \gt 0$
 
 Ce qui revient à calculer l'enthalpie libre
 
-$\mathbf{\mathrm{\Delta}G =}\mathbf{\mathrm{\Delta}H}_{\mathbf{sys}}\mathbf{- T}\mathbf{\mathrm{\Delta}S}_{\mathbf{sys}}\mathbf{< 0}$   
+$\Delta G =\Delta H_{\mathbf{sys}} - T \cdot \Delta S_{\mathbf{sys}} \lt 0$   
 Avec 
 
-* $\mathbf{\mathrm{\Delta}G}$ enthalpie libre en $J.mol^{-1}$.
+* $\Delta G$ enthalpie libre en $J \cdot mol^{-1}$.
 
-On a donc $\mathrm{\Delta}\mathbf{G} < \mathbf{0}$ alors la réaction est spontanée autrement dit l'énergie va se dissiper.
+On a donc $\Delta G \lt 0$ alors la réaction est spontanée autrement dit l'énergie va se dissiper.
 
 ## Équilibre chimique
 
@@ -250,16 +252,16 @@ L'état d'équilibre (ou final) d'une réaction correspond à une enthalpie mini
 
 Le potentiel chimique d'un constituant permet d'étudier la stabilité d'une espèce chimique :
 
-$\mu_{i} = \frac{dG}{{dn}_{i}}$
+$\mu _i = \frac{dG}{{dn}_i}$
 
 La mesure du potentiel chimique de chaque composant a été déterminée à T=298K et P=1Bar. Elle est notée $\mu _i^0$.
 
 La différence d'enthalpie libre correspond à la différence de potentiels chimiques entre les produits et les réactifs :
 
-$\Delta _r G = \sum{\nu _i \cdot \mu _i} (produits) - \sum {\nu _i \cdot \mu_i} (réactifs)$
+$\Delta _r G = \sum{\nu _i \cdot \mu _i (produits)} - \sum {\nu _i \cdot \mu_i (réactifs)}$
 
 Il vari en cas de changement de la pression du milieu :
-$\mu _i = \mu _i^0 + R \cdot T \cdot \ln a_i)$
+$\mu _i = \mu _i^0 + R \cdot T \cdot \ln a_i$
 
 $a_i$ correspond à l'activité de l'espèce chimique. Il vaut si c'est :
 
@@ -288,7 +290,7 @@ $P_{tot}$ est la pression totale du mélange (réactifs + inerte).
 
 ## Quotient réactionnel
 
-Le quotient réactionnel permet de caractériser l'avancement de la réaction noté $Q_{r}$.
+Le quotient réactionnel permet de caractériser l'avancement de la réaction noté $Q_r$.
 
 $\Delta _r G = \sum{\nu _i \cdot \mu _i} (produits) - \sum{\nu _i \cdot \mu_i} (réactifs) = \Delta _r G^0 + R \cdot T \cdot \ln Q_r$
 

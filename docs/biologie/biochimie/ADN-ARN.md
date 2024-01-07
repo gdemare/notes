@@ -1,7 +1,5 @@
 L'ADN et l'ARN sont des polymères de nucléotides.
 
-# Les nucléotides
-
 __Nucléoside__ (s de sucre) molécule formée par un glucose et une base.
 
 __Nucléotide mono/di/triphosphate__ molécule formée d'un nucléoside et de n-groupe phosphate.
@@ -11,16 +9,18 @@ __Nucléotide mono/di/triphosphate__ molécule formée d'un nucléoside et de n-
 
 L'information qui code pour la séquence d'acides aminées d'une protéine est stockée dans un gène. Pour qu'une protéine soit synthétisé, il faut :
 
-1.  La transcription du gène en ARN M.
-2.  La traduction de l'ARN M en chaîne peptidique.
-3.  La protéine adopte sa conformation fonctionnelle spontanément ou avec l'aide d'autres protéines.
+1. La transcription du gène en ARN Messager (ARNm).
+2. La traduction de l'ARNm en chaîne peptidique.
+3. La protéine adopte sa conformation fonctionnelle spontanément ou avec l'aide d'autres protéines.
 
 Les principales différences entre l'ADN et l'ARN sont :
+
+PBase Glucose
 
 |               | ADN                 | ARN         |
 |---------------|---------------------|-------------|
 | Glucose       | Désoxyribonucléique | Ribose      |
-| Base          | ACG thymine         | ACG uracile |
+| Base          | A, C, G, Thymine    | A, C, G, Uracile
 | Nbre de brins | Double              | Simple      |
 
 !!! note
@@ -92,7 +92,7 @@ En fonction du nombre de brin :
 
 Un nucléotide est composé de :
 
-Un ou plusieurs phosphates</td>
+Un ou plusieurs phosphates<
 Un pentose (sucre) : ribose (ARN) ou désoxyribose (ADN)
 Une base azotée
 

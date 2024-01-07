@@ -1,58 +1,14 @@
-## Le modèle à une variable
-
-### Modèle de Malthus simple
-
-La quantité x à un instant t dépend proportionnellement de celle qui se trouvait avant $x'(t) = r \cdot x(t)$ avec :
-
-* $r$ est le taux de croissance/décroissance.
-
-Les solutions sont du type $x(t) = x_0 \cdot e^{r \cdot t}$ avec $x_0$ est la condition initiale.
-
-Le principal défaut de ce modèle est que pour les grandes valeurs, il tend vers l'infini ce qui impossible dans le monde réel et fini dans lequel on vit. Il fonctionne plutôt bien pour des petites valeurs.
-
-### Le modèle de Malthus avec coefficient de latence
 
 !!! note
     $y' = f(t, y)$ est équivalent à $y'(t) = f(t, y(t))$.
 
-$$y' = r \cdot y \cdot (1 - e^{- \alpha  \cdot t})$$
+## Déterminer les solutions
 
-Avec : 
+Déterminer la solution sans connaitre la solution explicite.
 
-* $\alpha \gt 0$ le coefficient de latence.
-* $r \gt 0$ Taux de croissance.
+L'idée consiste à déterminer les propriétés de la fonction solution d'une équation différentielle $y'(t) = f(t, y_0)$.
 
-La solution est du type $y(t) = y_0 \cdot e^{r \cdot t} \cdot e^{\frac{r}{\alpha} \cdot (e^{- \alpha \cdot t} - 1)}$
-
-On remarque que lorsque :
-
-* $t$ est petit $y' = 0$ et $y = y_0$.
-* $t$ est grand, on se ramène au modèle de Malthus.
-
-## Le modèle logistique
-
-$$N'(t) = r \cdot N(t) \cdot (1 -
-\frac{N(t)}{K})$$
-
-Avec :
-
-* $K$ la capacité biotique.
-* $r \gt 0$ le taux de croissance intrinsèque.
-
-La solution est du type :$\ N(t) = \frac{K}{1 + \left( \frac{K}{N_0} - 1 \right)e^{- r \cdot t}}$
-
-## Modèle logistique avec population critique (effet Allée)
-
-$N' = r \cdot N \cdot (1 - \frac{N}{K}) \cdot \frac{N - A}{K}$
-
-La fonction décroit lorsque l'effectif est inférieur à la population critique (A).
-
-## Déterminer la solution sans connaitre la solution explicite
-
-L'idée consiste à déterminer les propriétés de la fonction solution
-d'une équation différentielle $y'(t) = f(t, y_0)$.
-
-### Déterminer quand la fonction est constante
+### Fonction constante
 
 Si la fonction est constante alors la dérivée est nulle.
 
@@ -65,7 +21,7 @@ L'équilibre est l'ensemble des solutions telles que $F(y) \equiv C$ où $C$ est
 
 $C$ est un équilibre stable ou attractif (par opposition instable ou répulsif) si $f'(C) \lt 0$. Cela signifie que toutes fonctions solutions convergent vers la solution $C$.
 
-## Déterminer les variations de la fonction
+## Déterminer les variations
 
 On étudie les variations de la dérivée notamment les valeurs pour lesquelles elle s'annule : $f'(y) = 0$ càd les valeurs où la fonction change de variation.
 
@@ -84,45 +40,6 @@ Il suffit de calculer $y'(0) = f(0, y_0)$
 
 Si $y'(0) \gt 0$ alors les solutions sont croissantes au voisinage de $0$.
 
-## Modèle avec interaction
-
-### Modèle proie prédateur basé sur celui de Malthus (modèle de Lotka-Volterra)
-
-Par exemple dans le cas d'une population de sardines et de requins :
-
-$\begin{cases} S'(t) = \alpha _1 \cdot s(t) − \beta _1 \cdot s(t) \cdot R(t) \\ R′(t) = − \alpha _2 \cdot s(t) + \beta _2 \cdot s(t) \cdot R(t) \end{cases}$
-
-Avec :
-
-* $\alpha _1,\ \alpha _2 \gt 0$ les taux de croissance
-* $\beta _1,\ \beta _2 \gt 0$ coefficient exprimant l’influence des rencontres.
-
-Aucune solution évidente.
-
-#### Champs des tangentes (voir dessus)
-
-Calculer le coefficient directeur des tangentes à $t = 0$ pour plusieurs populations initiales différentes (càd les vecteurs $(S'(0); R'(0))$ ).
-
-#### Les équilibres
-
-De la même manière que précédemment, on étudie les solutions d'équilibre càd valeurs où les deux dérivées s'annulent c'est-à-dire où les vecteurs sont un point. Dans le cas
-
-* $(0;\ 0)$
-* $( \frac{\alpha _2}{\beta _2};\ \frac{\alpha _1}{\beta _1})$
-
-### Modèle proie prédateur basé sur celui logistique
-
-$$\begin{cases} S'(t) = \alpha _1 \cdot S \cdot ( 1 - \frac{S}{K} ) - \beta _1 \cdot S \cdot R \\ R'(t) = - \alpha _2 \cdot R + \beta _2 \cdot S \cdot R \end{cases}$$
-
-#### Champs des tangentes (voir dessus)
-
-#### Les équilibres
-
-* $(0; 0)$
-* $( \frac{\alpha _2}{\beta _2}; \frac{\alpha _1}{\beta _1} )$
-* $(\frac{\alpha _2}{\beta _2}; \frac{\alpha _1}{\beta _1} \cdot (1 - \frac{\frac{\alpha _2}{\beta _2}}{K}) )$
-
-On remarque que $R_{eq} \lt \frac{\alpha _1}{\beta _1}$ les proies se multiplient moins vite.
 
 ## Déterminer la solution sans connaitre la solution explicite
 
@@ -215,9 +132,113 @@ en $(p;q)$ est la tangente à la courbe de niveau.
 !!! example
     Pour le modèle de Lorka, on a $H(x,y) = \alpha _1 \cdot \ln y - \beta _1 \cdot y + \alpha _2 \cdot \ln x - \beta _2 \cdot x$ est une loi de conservation.
 
-### Quelques modèles supplémentaires
+###### a ajouter
 
-#### Modèle compétitif
+#### Champs des tangentes (voir dessus)
+
+Calculer le coefficient directeur des tangentes à $t = 0$ pour plusieurs populations initiales différentes càd les vecteurs $(S'(0); R'(0))$.
+
+#### Les équilibres
+
+De la même manière que précédemment, on étudie les solutions d'équilibre càd valeurs où les deux dérivées s'annulent c'est-à-dire où les vecteurs sont un point. Dans le cas
+
+-----------------------------------
+
+## Les modèles
+
+### Sans intéraction
+
+#### Modèle de Malthus 
+
+##### Simple
+
+La quantité $x$ à un instant $t$ dépend proportionnellement de celle qui se trouvait avant. Le principal défaut de ce modèle est que pour les grandes valeurs, il tend vers l'infini ce qui impossible dans le monde réel et fini dans lequel on vit. Il fonctionne plutôt bien pour des petites valeurs.
+
+$$x'(t) = r \cdot x(t)$$
+
+Avec $r$ est le taux de croissance/décroissance.
+
+Les solutions sont du type $x(t) = x_0 \cdot e^{r \cdot t}$ avec $x_0$ est la condition initiale.
+
+##### Avec coefficient de latence
+
+$$y' = r \cdot y \cdot (1 - e^{- \alpha  \cdot t})$$
+
+Avec : 
+
+* $\alpha \gt 0$ le coefficient de latence.
+* $r \gt 0$ Taux de croissance.
+
+La solution est du type $y(t) = y_0 \cdot e^{r \cdot t} \cdot e^{\frac{r}{\alpha} \cdot (e^{- \alpha \cdot t} - 1)}$
+
+!!! note 
+    Lorsque :
+
+    * $t$ est petit $y' = 0$ et $y = y_0$.
+    * $t$ est grand, on se ramène au modèle de Malthus.
+
+#### Modèle logistique
+
+##### Simple
+
+$$N'(t) = r \cdot N(t) \cdot (1 - \frac{N(t)}{K})$$
+
+Avec :
+
+* $K$ la capacité biotique.
+* $r \gt 0$ le taux de croissance intrinsèque.
+
+La solution est du type : $N(t) = \frac{K}{1 + ( \frac{K}{N_0} - 1 ) \cdot e^{- r \cdot t}}$
+
+##### Avec population critique
+
+(effet Allée)
+
+$$N' = r \cdot N \cdot (1 - \frac{N}{K}) \cdot \frac{N - A}{K}$$
+
+!!! note
+    La fonction décroit lorsque l'effectif est inférieur à l'effectif critique $A$.
+
+### Avec interactions
+
+#### Proie-prédateur
+
+##### Basé sur Malthus
+
+Modèle proie prédateur basé sur celui de Malthus (modèle de Lotka-Volterra)
+
+Par exemple dans le cas d'une population de sardines et de requins :
+
+$$\begin{cases} S'(t) = \alpha _1 \cdot s(t) − \beta _1 \cdot s(t) \cdot R(t) \\ R′(t) = − \alpha _2 \cdot s(t) + \beta _2 \cdot s(t) \cdot R(t) \end{cases}$$
+
+Avec :
+
+* $\alpha _1,\ \alpha _2 \gt 0$ les taux de croissance.
+* $\beta _1,\ \beta _2 \gt 0$ coefficient exprimant l’influence des rencontres.
+
+Aucune solution évidente.
+
+Les équilibre sont :
+
+* $(0; 0)$
+* $( \frac{\alpha _2}{\beta _2}; \frac{\alpha _1}{\beta _1})$
+
+##### Basé sur logistique
+
+$$\begin{cases} S'(t) = \alpha _1 \cdot S \cdot ( 1 - \frac{S}{K} ) - \beta _1 \cdot S \cdot R \\ R'(t) = - \alpha _2 \cdot R + \beta _2 \cdot S \cdot R \end{cases}$$
+
+Les équilibres sont :
+
+* $(0; 0)$
+* $( \frac{\alpha _2}{\beta _2}; \frac{\alpha _1}{\beta _1} )$
+* $(\frac{\alpha _2}{\beta _2}; \frac{\alpha _1}{\beta _1} \cdot (1 - \frac{\frac{\alpha _2}{\beta _2}}{K}) )$
+
+!!! note
+    A l'équilibre, $R_{eq} \lt \frac{\alpha _1}{\beta _1}$ les proies se multiplient moins vite.
+
+## Autres modèles
+
+### Modèle compétitif
 
 Deux espèces sont en compétition pour la nourriture.
 

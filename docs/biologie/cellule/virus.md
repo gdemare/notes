@@ -10,8 +10,7 @@ Les Virus sont généralement constitués d'une ou plusieurs séquences d'acides
 
 __Capside__ structure de protéines qui entoure et protège le génome viral.
 
-__Capsone__ protéines qui constituent la capside. Chaque virus n'en possède
-qu'un nombre de types très limité.
+__Capsone__ protéines qui constituent la capside. Chaque virus n'en possède qu'un nombre de types très limité.
 
 __Prions__ protéines infectieuses.
 
@@ -22,9 +21,9 @@ __Virion__ forme extracellulaire du virus.
 
 On classe les virus en fonction :
 
-* Du type d'acides nucléiques (ARN, ADN)                   |
-* Du nombre de brins (bicaténaire, monocaténaire)
-| De la forme des brins (linéaire, circulaire)
+* Du type d'acides nucléiques (ARN, ADN).
+* Du nombre de brins (bicaténaire, monocaténaire).
+* De la forme des brins (linéaire, circulaire).
 
 !!! note
     Les Virus qui contaminent les animaux sont souvent constitués d'ARN entourés d'une capside, elle-même entourée d'une enveloppe virale constitué de glycoprotéines. Ces dernières facilitent la liaison avec les cellules de l'hôte.
@@ -32,6 +31,8 @@ On classe les virus en fonction :
 __Bactériophage__ virus qui infecte les bactéries.
 
 __Spectre d'hôtes__ ensemble des cellules qu'un virus est capable d'infecter.
+
+## Évolution des virus
 
 ### L'héritage des virus
 
@@ -42,6 +43,16 @@ La diversité de syncitines et des placenta suggèrent que cette protéine viral
 
 !!! note
     Les guêpes parasitoides ont domestiqué qui permettent à leur progéniture de survivrent et de se développer sans éveiller le système immunitaire de leur hôte.
+
+###
+
+Le taux de mutation des virus est extrêmement plus élevé que chez les êtres vivants à cause de l'absence de mécanismes de vérification du génome. Dès qu'un mutant résistant apparaît, il sera favorisé par la sélection naturel et tendra à envahir la population.
+
+Les activités humaines à travers la mondialisation ont facilité la circulation des virus en :
+
+* Multipliant les brassages de population.
+* Popularisant certaines pratiques qui favorisent les cas de transmission (l'utilisation de seringues pour s'injecter de la drogue, de pratiques sexuelles).
+* Augmentant les rencontres entre les virus et ainsi les risques de recombinaison virale.
 
 ## L'activité virale
 
@@ -95,7 +106,7 @@ __Virus tempéré__ virus à la fois lytique et lysogénique en des conditions p
 
 Certains virus codent pour des protéines qui éliminent les sites de reconnaissance des cellules utilisées par le virus pour éviter que la cellule puisse être réinfecter.
 
-### La toxicité des virus
+### Toxicité des virus
 
 La toxicité d'un virus pour l'organisme infecté peut être dû à :
 
@@ -109,19 +120,11 @@ Les dégâts à long terme de l'infection d'un virus dépendent du type de cellu
 
 Les êtres vivants ont développé des mécanismes de protection pour lutter contre l'infection virale. Les bactéries fabriquent des enzymes de restriction qui identifient et détruisent l'ADN viral.
 
-### Évolution des virus
 
-Le taux de mutation des virus est extrêmement plus élevé que chez les êtres vivants à cause de l'absence de mécanismes de vérification du génome. Dès qu'un mutant résistant apparaît, il sera favorisé par la sélection naturel et tendra à envahir la population.
-
-Les activités humaines à travers la mondialisation ont facilité la circulation des virus en :
-
-* Multipliant les brassages de population.
-* Popularisant certaines pratiques qui favorisent les cas de transmission (l'utilisation de seringues pour s'injecter de la drogue, de pratiques sexuelles).
-* Augmentant les rencontres entre les virus et ainsi les risques de recombinaison virale.
 
 ### Soigner une infection virale
 
-Une fois qu'un organisme est infecté, il est difficile de le soigner. Il existe des solutions comme l'utilisation de faux nucléosides qui limite la réplication du virus mais qui ne sont pas exemptées d'effets indésirables.
+Une fois qu'un organisme est infecté, il est difficile de le soigner. Il existe des solutions comme l'utilisation de faux nucléosides pour limiter la réplication du virus mais qui ne sont pas exemptes d'effets indésirables.
 
 ## Trois exemples de virus
 
@@ -144,56 +147,26 @@ Caractéristiques : 8 ARN linéaires avec une capside directement sur les
 séquences d'ARN, transcriptase ARN polymérase en ARN, matrice protéique
 et enveloppe.
 
-1.  Le virion reconnait l'acide sialique, un récepteur membranaire
-    présent notamment sur les cellules respiratoire, grâce à une
-    glycoprotéine, l'hémagluttine, présent sur son enveloppe.
+1. Le virion reconnait l'acide sialique, un récepteur membranaire présent notamment sur les cellules respiratoire, grâce à une glycoprotéine, l'hémagluttine, présent sur son enveloppe.
+2. Les protéines de l'enveloppe virale interagissent avec les clathrines, des protéines membranaires de type récepteur, qui provoquent l'endocytose du virus.
+3. Fusion de la vésicule avec des lysosomes fait baisser le pH.
+4. Changement de conformation de la protéine virale Ha provoque la fusion entre l'enveloppe virale et le phagolysosome et le relâchement de l'ARN viral.
+5. Traduction des 8 morceaux d'ARN négatifs en ARN positif.
+6. Transcription de l'ARN positif en protéines et réplication des ARN négatifs.
+7. Formation spontanées des nouveaux virions.
+8. Sortie par bourgeonnement.
 
-2.  Les protéines de l'enveloppe virale interagissent avec les
-    clathrines, des protéines membranaires de type récepteur, qui
-    provoque l'endocytose du virus.
-
-3.  Fusion de la vésicule avec des lysosomes fait baisser le pH.
-
-4.  Changement de conformation de la protéine virale Ha provoque la
-    fusion entre l'enveloppe virale et le phagolysosome et le
-    relâchement de l'ARN viral.
-
-5.  Traduction des 8 morceaux d'ARN négatifs en ARN positif.
-
-6.  Transcription de l'ARN positif en protéine et réplication des ARN
-    négatifs.
-
-7.  Formation spontanées des nouveaux virions.
-
-8.  Sortie par bourgeonnement.
-
-### Le papillomavirus
+### Papillomavirus
 
 Caractéristiques : ADN viral bicaténaire, circulaire avec des histones,
 une capside formée de protéines associées en dimère.
 
-1.  Le virus se fixe sur la matrice extracellulaire à proximité de la
-    lame de basale. L1
-
-2.  Lorsque le virus rencontre une cellule, il est endocyté.
-
-3.  Des lysosomes viennent fusionner avec la vésicule.
-
-4.  La chute du pH provoque la dissociation de la capside. L'ADN
-    s'associe avec la L2, une protéine virale, pour former un complexe.
-
-5.  Le complexe atteint le noyau grâce au transport rétrograde (Golgi,
-    RE puis noyau).
-
-6.  Intégration au génome de l'hôte. La cellule est infectée.
-
-7.  Lorsque la cellule se divise pour former l'épiderme, le virus est
-    répliqué avec elle.
-
-8.  Par une régulation spécifique, plus les cellules filles se
-    spécialisent en cellules cornées plus elles expriment les gènes
-    viraux càd qui conduisent à la fabrication des virions (réplication
-    et formation spontanée des virions).
-
-9.  Sortie par bourgeonnement.
-
+1. Le virus se fixe sur la matrice extracellulaire à proximité de la lame de basale. L1
+2. Lorsque le virus rencontre une cellule, il est endocyté.
+3. Des lysosomes fusionne avec la vésicule virale.
+4. La chute du pH provoque la dissociation de la capside. L'ADN s'associe avec la L2, une protéine virale, pour former un complexe.
+5. Le complexe atteint le noyau grâce au transport rétrograde (Golgi, RE puis noyau).
+6. Intégration au génome de l'hôte. La cellule est infectée.
+7. Lorsque la cellule se divise pour former l'épiderme, le virus est répliqué avec elle.
+8. Par une régulation spécifique, plus les cellules filles se spécialisent en cellules cornées plus elles expriment les gènes viraux càd qui conduisent à la fabrication des virions (réplication et formation spontanée des virions).
+9. Sortie par bourgeonnement.

@@ -14,10 +14,10 @@ __Fitness__ nbre de descendants viables/fertiles produit par un individu.
 
 __Habitat__ portion où une espèce vit. Les espèces peuvent être classées en fonction de leurs habitats.
 
-Les espèces peuvent être distinguée en deux groupes :
+Les espèces peuvent être distinguées en deux groupes :
 
-* Endémique
-* Cosmopolite
+* Endémique.
+* Cosmopolite.
 
 ## Écosystème
 

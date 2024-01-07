@@ -3,14 +3,14 @@ La régulation du métabolisme se fait par la régulation de :
 * La synthèse d'enzymes qui régulée par l'expression génique.
 * L'activité des enzymes.
 
-## Chez la Bactéries (et les Eucaryotes)
+## Les Bactéries
 
 Les organismes unicellulaires s'adaptent aux conditions du milieu en modulant la production de leurs enzymes par la régulation de l'expression génique. Par exemple, les Bactéries sont capables de moduler l'expression des gènes pour ne synthétiser que les molécules vitales qui sont absentes de leur environnement.
 
 !!! note
     Les mécanismes de régulation de l'expression génique chez les organismes unicellulaires sont également présents chez les Eucaryotes.
 
-## Modèle de l'opéron
+### L'opéron
 
 __Opéron__ groupe de gènes transcrit qui contient la majorité du temps toutes les instructions de fabrication de l'ensemble des enzymes nécessaire à l'accomplissement d'une activité métabolique.
 
@@ -20,8 +20,8 @@ __Promoteur__ site de fixation de l'ARN polymérase à l'ADN. La liaison est né
 
 Il existe deux types d'opérons en fonction de l'état par défaut dans lequel ils sont :
 
-* Inductibles (actif) la transcription est l'état par défaut
-* Répressibles (inactif)
+* Inductibles (actif) la transcription est l'état par défaut.
+* Répressibles (inactif).
 
 La régulation est dite :
 
@@ -46,13 +46,13 @@ __Allostérique__ propriété d'une enzyme dont l'activité est modifiée par la
 __Activateur__ protéine qui se lie à l'ADN et qui stimule la transcription.
 
 !!! note
-    L'action conjugué d'activateurs et de répresseurs permet à la cellule de régler précisément la vitesse de production des enzymes.
+    L'action conjuguéE d'activateurs et de répresseurs permet à la cellule de régler précisément la vitesse de production des enzymes.
 
-## Chez les Eucaryotes
+## Les Eucaryotes
 
 Chez les organismes pluricellulaires, toutes les cellules d'un individu partagent le même génome mais elles ont une utilisation très différentes de leurs gènes en fonction de leur rôle.
 
-Les cellules humaines n'expriment simultanément et au maximum 20% de leurs gènes. Chaque cellule doit utiliser un sous ensemble de gènes uniques qui correspond au rôle qu'elle doit accomplir.
+Les cellules humaines expriment simultanément et au maximum 20% de leurs gènes. Chaque cellule doit utiliser un sous ensemble de gènes uniques qui correspond au rôle qu'elle doit accomplir.
 
 __Expression génique différentielle__
 
@@ -60,15 +60,15 @@ La régulation de l'expression génétique peut avoir lieu :
 
 * au moment de la transcription :
 
-    * Avant la transcription
-    * La vitesse de transcription
+    * Avant la transcription.
+    * La vitesse de transcription.
     
 * Après la transcription
 
-    * L’épissage
-    * La maturation
+    * L’épissage.
+    * La maturation.
     * Le transport vers le cytoplasme.
-    * Dégradation de l’ARN
+    * Dégradation de l’ARN.
 
 Tous l'ADN n'est pas accessible à la transcription par la cellule notamment lorsque :
 
@@ -77,7 +77,7 @@ Tous l'ADN n'est pas accessible à la transcription par la cellule notamment lo
 
 ### L'hétérochromatine
 
-Une partie de l'ADN est présent sous forme d'hétérochromatine, une forme condensée qui n'est que rarement utilisée. Elle peut être décondensée par la cellule par l'acétylation (ajout d'un groupement -COCH~3~) des histones.
+Une partie de l'ADN est présent sous forme d'hétérochromatine, une forme condensée qui n'est que rarement utilisée. Elle peut être décondensée par la cellule par l'acétylation (ajout d'un groupement $-COCH_3$) des histones.
 
 !!! note
     Les chromosomes ne sont pas totalement dispersés aléatoirement dans le noyau. Certains sites inter et intra chromosomique sont rassemblés et forment des régions riches en ARN et en protéines régulatrices. C'est sites sont appelés usines à transcription.
@@ -122,7 +122,7 @@ Les facteurs de transcription sont formés par
 * Un domaine de liaison qui est le site de liaison avec l'ADN (les éléments de contrôle).
 * Un ou plusieurs domaines d'activation.
 
-Les domaines d'activation se lient soit
+Les domaines d'activation se lient soit :
 
 * Aux protéines régulatrices.
 * Aux composantes du mécanisme de transcription (les facteurs de transcriptions généraux ou des protéines médiatrices).
@@ -200,8 +200,8 @@ Dans les ovules, un certain nombre d'ARN n'ont pas de queue poly A suffisamment 
 
 La régulation post traductionnelle peut avoir lieu avant que la protéine devienne fonctionnelle notamment :
 
-* La maturation et le transport (en fonction des types de protéines)
-* Le repliement
+* La maturation et le transport (en fonction des types de protéines).
+* Le repliement.
 * Le clivage pour devenir des protéines fonctionnelle offre l'opportunité de bloquer le processus et éviter la formation de protéines fonctionnelles.
 
 !!! note 
@@ -241,7 +241,9 @@ Deviennent plus important au fur et à mesure du développement
 
 Induction changements du comportement cellulaire provoqués par les stimulus de l'environnement.
 
-## Les maladies de dérégulation de l'expression génétiques : les cancers
+## Dérégulation de l'expression génétiques
+
+Les cancers
 
 Les cancers sont dû un dérèglement du cycle cellulaire d'une cellule provoquer par l'accumulation de modifications de l'ADN. La cellule se multiplie anormalement vite et de façon anarchique.
 
@@ -282,18 +284,14 @@ Il existe des gènes suppresseurs de tumeurs
 
 Chez l'Homme les principales mutations à l'origine des cancers sont :
 
-Dans 50% des cas liée à la protéine p53
-
-Dans 30% des cas RAS.
-
-RAS code pour une protéine G (récepteur membranaire) responsable de la division cellulaire.
+* dans 50% des cas liée à la protéine p53.
+* dans 30% des cas RAS. RAS code pour une protéine G (récepteur membranaire) responsable de la division cellulaire.
 
 P53 protéine qui inhibe la division cellulaire notamment lorsque l'ADN est endommagé. Elle stoppe le cycle cellulaire pour permettre à la cellule de réparer son code génétique ou dans les cas les plus grave, il provoque l'apoptose de la cellule
 
 L'apparition de cancer s'explique par l'accumulation de mutation d'autant plus avec l'âge.
 
-Le risque de développer un cancer n'est pas le même pour chaque
-personne. Certains individus ont des prédispositions génétique
-c'est-à-dire qu'elles ont hérités de leurs parents de sorte que le nombre de mutations nécessaire à l'apparition d'un cancer est lié à l'ADN de ses parents.
+Le risque de développer un cancer n'est pas le même pour chaque personne. Certains individus ont des prédispositions génétique c'est-à-dire qu'elles ont hérités de leurs parents de sorte que le nombre de mutations nécessaire à l'apparition d'un cancer est lié à l'ADN de ses parents.
 
-Dans 15% des cancers sont liés à des virus.
+!!! note
+    Dans 15% des cancers sont liés à des virus.

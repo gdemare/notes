@@ -67,8 +67,7 @@ __Réticuline__ protéine présente dans la fabrication des fibres.
 
 ### Le collagène
 
-Le collagène constitue 25% des protéines totales et jusqu'à 80% des protéines présentes dans les tissus conjonctifs. Il assure la cohésion entre les tissus et les organes en fournissant une résistance mécanique
-à l'étirement. C'est la structure du collagène qui détermine sa fonction. Par exemple, les fibres à striation du collagène I périodique présentes dans les os, tendons, dentine, peau confère une résistance à l'étirement. Ces striations sont liées à une configuration décalée.
+Le collagène constitue 25% des protéines totales et jusqu'à 80% des protéines présentes dans les tissus conjonctifs. Il assure la cohésion entre les tissus et les organes en fournissant une résistance mécanique à l'étirement. C'est la structure du collagène qui détermine sa fonction. Par exemple, les fibres à striation du collagène I périodique présentes dans les os, tendons, dentine, peau confère une résistance à l'étirement. Ces striations sont liées à une configuration décalée.
 
 Le collagène peut servir :
 

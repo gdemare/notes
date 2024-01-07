@@ -8,9 +8,11 @@ Une compétence est l'association de trois notions :
 
 -----------------------------------------
 
-## Déposer une candidature
+## Candidater
 
-### La lettre de motivation 
+### CV
+
+### Lettre de motivation 
 
 L'objectif de la lettre de motivation est de faire le lien entre les compétences et le poste candidate.
 
@@ -37,25 +39,30 @@ Ce qu'il faut définir avant un entretien 
 
 Le langage corporel (visage, posture) doit faire passer l'émotion JOIE (éviter le plus possible peur, colère tristesse).
 
-### Présentez-vous
+### La présentation
 
-#### Thématique : expliquer ses compétences.
+Il existe deux types de présentations :
+
+* Thématique. : expliquer ses compétences.
+* Chronologique.
+
+#### Thématique 
 
 * Objectif (Projet professionnel personnel) : idem.
 * Plan d'action : quels éléments peut-on apportés à l'entreprise ?
-* Formation
-* Domaine avec les sous domaines associés
+* Formation.
+* Domaine avec les sous domaines associés.
 
-#### Présentation par chronologique
+#### Chronologique
 
 1. Qui je suis : présentation.
 2. D'où je viens : présenter son parcours.
 3. Où j'en suis : la situation actuelle.
 4. Où je souhaite aller : son projet d'avenir.
 
-### Poser des questions
+### Les questions
 
-Les questions doivent être dynamiques pour émouvoir le recruteur.
+Les questions doivent être posées de façon dynamique pour émouvoir le recruteur.
 
 * Quelles sont les difficultés du poste ?
 * Quels sont les grands projets pour l'année à venir ?
@@ -71,7 +78,9 @@ Connaître ses prétentions salariales, généralement il faut remplir le tablea
 |---------------------|--------------------------|---------------------|---------------------|
 |                     |                          |                     |                     |
 
-### Les exemples à préparer
+### Exemples de situation
+
+Exemples de situations à préparer.
 
 * Une difficulté rencontrée :
 * Une initiative :
@@ -84,7 +93,7 @@ Connaître ses prétentions salariales, généralement il faut remplir le tablea
 * Apprentissage accélérée :
 * Capacité d'argumentation :
 
-### Les qualités et les défauts
+### Qualités et défauts
 
 Être capable de citer au moins trois qualités et défaut. 
 

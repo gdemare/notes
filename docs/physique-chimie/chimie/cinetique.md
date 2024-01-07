@@ -1,5 +1,4 @@
-Lors d'une réaction passe par un intermédiaire réactionnel,
-c'est l'aspect cinétique qui domine.
+Lors d'une réaction passe par un intermédiaire réactionnel, c'est l'aspect cinétique qui domine.
 
 Pour qu'une réaction chimique puisse se produire, il faut que les réactifs :
 
@@ -39,9 +38,9 @@ Cela signifie qu'à chaque instant $k$ % du produit A se transforme en B.
 
 Vitesse de disparition $2A \rightarrow B$
 
-| Vitesse                                                                        | Loi de vitesse                  |
-|------------------------------------|------------------------------------|
-| $v = \frac{d[B]}{dt} = - \frac{d[A]}{2 \times dt}$ | $v = k{[A]}^{2}$ |
+Vitesse                             | Loi de vitesse
+------------------------------------|------------------------------------
+$v = \frac{d[B]}{dt} = - \frac{d[A]}{2 \times dt}$ | $v = k{[A]}^{2}$
 
 La vitesse de disparition de A est deux fois plus rapide que celle de B.
 
@@ -96,13 +95,13 @@ On trace le graphique $f(\log[A]) = \log v$
 
 Car $\log v = \log k + \log{[A]}$. Pour rappel la vitesse est la variation de concentration pour une petite unité de temps $v = - \frac{d[A]}{dt}$
 
-## Variation de la vitesse en fonction de la température (et de l'énergie d'activation et la constante de vitesse)
+## Température et énergie d'activation
 
 $k = A \cdot e^{-\frac{E_a}{R \cdot T}}$
 
 * $k$ constante de vitesse
 * $A$ facteur de fréquence (même unité que $k$).
-* $E_a$ énergie d’activation $j.mol^{-1}$
+* $E_a$ énergie d’activation $j \cdot mol^{-1}$
 * $R$ constante des gaz parfaits $8,314  j\cdot K^{-1} \cdot mol^{-1}$.
 * $T$ température en $K$.
 

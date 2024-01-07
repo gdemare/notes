@@ -4,7 +4,7 @@
 
 ## Dénaturation de l'ADN et stabilité des acides nucléiques doubles brins
 
-__Dénaturation (opposition hybridation) __c'est lorsqu'une molécule biologique perd sa conformation initiale. La dénaturation de l'ADN consiste à séparer les deux brins c'est-à-dire briser les liaisons
+__Dénaturation__ (opposition hybridation) c'est lorsqu'une molécule biologique perd sa conformation initiale. La dénaturation de l'ADN consiste à séparer les deux brins c'est-à-dire briser les liaisons
 d'hydrogènes. Il a deux façons de procéder :
 
 * En modifiant la température.
@@ -14,7 +14,7 @@ __Agent chaotropique__ molécule qui dénature l'ADN (exemple : l'urée).
 
 ### Dénaturation de l'ADN 
 
-La température de fusion est donnée par $2 \times (A+T) + 4 \times (G+C)$.
+La température de fusion est donnée par $2 \cdot (A+T) + 4 \cdot (G+C)$.
 
 __Stringence__ ensemble des conditions de température, pH et de concentrations de ions permettant l'hybridation. Plus les conditions sont favorables à une hybridation plus sa valeur est élevée.
 
@@ -40,8 +40,7 @@ Stabilité des complexe bi caténaire ARN/ARN \> ARN/ADN \> ADN/ADN.
 
 ## Révélation
 
-La révélation d'ADN double brins se fait en utilisant un intercalent fluorescence qui émet dans la lumière visible lorsqu'il est soumis à la lumière dans les UV comme le bromure d'éthidium fluorescente (BET). Le BET est maintenant remplacé par le GelGreen qui est une substance moins
-mutagène.
+La révélation d'ADN double brins se fait en utilisant un intercalent fluorescence qui émet dans la lumière visible lorsqu'il est soumis à la lumière dans les UV comme le bromure d'éthidium fluorescente (BET). Le BET est maintenant remplacé par le GelGreen qui est une substance moins mutagène.
 
 ## Extraction des acides nucléiques
 
@@ -76,11 +75,10 @@ Chez les eucaryotes, l'épissage complique l'extraction du gène lorsque l'on so
 
 La concentration d'ARN ou d'ADN peut être mesurer par deux méthodes :
 
-
-  Fluométrie                          Spectrométrie
-
-  Possible de différencier l'ARN et   Pas possible de différencier l'ADN
-  l'ADN.                              et l'ARN. Pas d'alicot nécessaire.
+Méthode         | Différencier ARN/ADN  | Aliquoté
+----------------|-----------------------|---
+Fluométrie      | Non                   | non
+Spectrométrie   | Oui                   | oui
 
 ### Spectrométrie
 
@@ -89,20 +87,15 @@ l'absorbance. La longueur d'ondes d'absorption maximale des acides nucléiques e
 
 Beer Lambert
 
-+------------------+---------------------------------------------------+
-| $$D.O. = \       | $D.O.$ Densité Optique (λ)                        |
-| varepsilon.l.c$$ |                                                   |
-|                  | $\varepsilon$ Coefficient d'extinction molaire    |
-|                  | spécifique à la molécule en M (mol.L^-1^)         |
-|                  |                                                   |
-|                  | $l$ Largeur de la cuve.                           |
-+------------------+---------------------------------------------------+
+$$D.O. = \varepsilon \cdot l \cdot c$$
+
+* $D.O.$ Densité Optique 
+* $\varepsilon$ Coefficient d'extinction molaire spécifique à la molécule en M ($mol \cdot L^{-1}$).
+* $l$ Largeur de la cuve.
 
 __Hyperchrome__ augmentation de l'absorption de l'ADN lorsque qu'il est sous la forme d'un simple brin.
 
 La pureté de la solution se fait par l'analyse du ratio 260/280 nm. Une solution est considérée comme satisfaisante s'il est situé entre $1,9 ; 2.3$.
-
-ADN 260nm Absorption maximales des bases.
 
 !!! warning
     le pH modifie dans l'absorbance de la tryptophane, l'aa qui donc le ratio.
@@ -130,8 +123,8 @@ La taille est déterminée à l'aide d'une gamme de référence. Les séquences 
 En électrophorèse, un plasmide peut avoir trois conformations :
 
 * Relâché (linéaire).
-* Super-enroulé
-* Ouvert 
+* Super-enroulé.
+* Ouvert.
 
 ## Transfection ou transformation
 
@@ -157,8 +150,7 @@ Auparavant, on utilisait :
 
 ## Identifier une séquence de nucléotides : le buvard de Southern
 
-Le buvard de Southern sert à révéler une séquence d'ADN particulière. Il
-se déroule en trois étapes :
+Le buvard de Southern sert à révéler une séquence d'ADN particulière. Il se déroule en trois étapes :
 
 1. Électrophorèse sur gel.
 2. Transfert sur buvard en utilisant une solution alcalin (basique). Le buvard est posé sur le gel.
@@ -206,10 +198,12 @@ Les enzymes de restriction se composent de deux sous unités (dimère). Elle ré
 * Franche, les deux brins sont coupés au même niveau.
 * Cohésive, la séparation a lieu à des endroits différents les deux brins.
 
-__ADN bactérien__ est protégé des enzymes de restriction par méthylation.
+L'ADN bactérien est protégé des enzymes de restriction par méthylation.
 
-Lorsque les extrémités sont cohésives, il faut préciser l'extrémité sortante 5' ou 3'. *Exemple : Enzyme II (G/ATC) coupe au premier
-nucléotide du palindrome : G-ATC et CTA-G.*
+Lorsque les extrémités sont cohésives, il faut préciser l'extrémité sortante 5' ou 3'. 
+
+!!! example
+    Enzyme II (G/ATC) coupe au premier nucléotide du palindrome : G-ATC et CTA-G.
 
 !!! note
     Deux enzymes différentes peuvent produire des extrémités complémentaires.
@@ -230,8 +224,7 @@ Lavage et saturé en composé organique (protéines, ADN ARN).
 !!! warning
     Il est utile de détruire les sondes non hybridées avec une DNAse ou une RNAse pour limiter le bruit.
 
-Il est possible d'ajouter de modifier la concentration de Mg^2+^ qui est
-à la fois :
+Il est possible d'ajouter de modifier la concentration de $Mg^{2+}$ qui est à la fois :
 
 * Cofacteur de la Taq polymérase.
 * Un ion bivalent qui stabilise l'hybridation de l'ADN et donc les liaisons non spécifique.

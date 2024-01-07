@@ -1,3 +1,5 @@
+## Ressources
+
 * [Markdown pour les mathématiques](https://www.bearnok.com/grva/it/knowledge/software/mathjax)
 * [MathJax symboles](https://www.bearnok.com/grva/it/knowledge/software/mathjax)
 * [autre markdown](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
@@ -9,7 +11,7 @@
 
     * `{ width=50% }` préciser la largeur.
 
-## Alaphabet grec
+## Lettres grecs
 
 Markdown    | Fonction      | Lettre
 ------------|---------------|-------
@@ -31,8 +33,6 @@ Markdown    | Fonction      | Lettre
 `\phi`      | $\theta$      | theta
 `\Theta`    | $\Theta$      | Theta
  
-
-
 ## Symbole
 
 Markdown    | Fonction      | Lettre
@@ -40,7 +40,7 @@ Markdown    | Fonction      | Lettre
 `\circ`     | $\circ$       | Cercle
 `\infty`    | $\infty$      | infini
 
-## Les fonctions
+### Fonctions
 
 Markdown | Fonction | Définition
 ---------|----------|---------------
@@ -50,7 +50,7 @@ Markdown | Fonction | Définition
 `\sin`   | $\sin$   | sinus
 `\tan`   | $\tan$   | tangente
 
-## Comparaison
+### Comparaisons
 
 Markdown  | Symbole   | Définition 
 ----------|-----------|-----------
@@ -64,7 +64,7 @@ Markdown  | Symbole   | Définition
 `\neq`    | $\neq$    | inégale
 `\approx` | $\approx$ | approximation
 
-## Opérations mathématiques
+### Opérateurs
 
 Markdown			| Opérateur			| Définition
 --------------------|-------------------|-------
@@ -99,16 +99,7 @@ Markdown			| Opérateur			| Définition
 `\vec{x}`           | $\vec{x}$         | vecteur
 `\forall` 			| $\forall$			| pour tout
 
-## Flèches
-
-Markdown			| Opérateur			| Définition
---------------------|-------------------|-------
-`\to`    	        | $\to$             | Fléche
-`\Leftrightarrow` 	| $\Leftrightarrow$ | équivalent
-`\Rightarrow` 		| $\Rightarrow$		| implique 
-`\rightleftharpoons`    | $\rightleftharpoons$ | réaction chimique
-`\rightarrow`       | $\rightarrow$ | flèche droite
-`\leftarrow`        | $\leftarrow$  | flèche gauche
+### Expressions
 
 Markdown 							| Math ajax								| Définition
 ------------------------------------|---------------------------------------|----------------
@@ -119,10 +110,18 @@ Markdown 							| Math ajax								| Définition
 `\begin{bmatrix} a & b \\ c & d \end{bmatrix}` | $\begin{bmatrix} a & b \\ c & d \end{bmatrix}$ | matrice
 `\int_0^1  (x) dx` 					| $\int_0^1  (x) dx$ 					|intégrale de 0 à 1
 
-
 Markdown 							                    | Math ajax								| Définition
 --------------------------------------------------------|---------------------------------------|----------------
 `\begin{aligned}ligne 1 \\ ligne 2 \end{aligned}`       | $\begin{aligned}ligne 1 \\ ligne 2 \end{aligned}$ | répartir sur plusieurs lignes
 `\begin{cases} y \\ x \end{cases}`                      | $\begin{cases} y \\ x \end{cases}$ | système d'équations.
 
+## Flèches
 
+Markdown			| Opérateur			| Définition
+--------------------|-------------------|-------
+`\to`    	        | $\to$             | Fléche
+`\Leftrightarrow` 	| $\Leftrightarrow$ | équivalent
+`\Rightarrow` 		| $\Rightarrow$		| implique 
+`\rightleftharpoons`    | $\rightleftharpoons$ | réaction chimique
+`\rightarrow`       | $\rightarrow$ | flèche droite
+`\leftarrow`        | $\leftarrow$  | flèche gauche
