@@ -818,6 +818,7 @@ par deux processus :
 * phimiosynthèse
 
 Photosynthèse :
+
 $$6 CO_2 + 6 H_2O + soleil \rightarrow C_6H_{12}O_6(glucose) + 6 O_2$
 
 Les consommateurs décomposent notamment la matière pour produire de l'énergie sous la forme d'ATP.
@@ -858,7 +859,8 @@ En eau douce, les macro-organismes primaires dépendent des matières organiques
 
 Au maximum 5% de la concentration en oxygène de l'air peut se dissoudre dans l'eau. Ainsi, l'oxygène présent dans l'eau est essentiellement dû à la photosynthèse et aux échanges avec la surface
 
-NB : La concentration d'oxygène diminue généralement avec la profondeur.
+!!! note
+    La concentration d'oxygène diminue généralement avec la profondeur.
 
 D'autres facteurs dépendent de la profondeur comme la lumière. Cela donne lieu à une stratification thermique plus ou moins
 
@@ -867,6 +869,9 @@ __Zone euphotique__ profondeur à laquelle la lumière ne pénètre plus.
 ## Eaux douces
 
 Généralement les eaux douces sont de type :
+
+
+
 
 |                   | Oligotrophe | Eutrophe  |
 |-------------------|-------------|-----------|

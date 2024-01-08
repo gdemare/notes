@@ -36,7 +36,7 @@ La génétique des populations s'intéresse à l'histoire des populations. En co
 ### Les indicateurs de diversité
 
 * Taux d'allèles hétérozygotes.
-* __Taux de polymorphisme__ fréquence d'individus hétérozygotes.
+* Taux de polymorphisme fréquence d'individus hétérozygotes.
 
 ## Fréquences alléliques
 

@@ -36,10 +36,10 @@ Certains comportements sociaux se font en réponse à un signal produit par un a
 
 Les quatre modes de communication les plus répandus chez les animaux sont :
 
-* Visuel
-* Chimique
-* Tactile
-* Auditif 
+* Visuel.
+* Chimique.
+* Tactile.
+* Auditif.
 
 L'environnement est déterminant dans le mode de communication utilisé. Par exemple, certains modes de vies sont peu propices à l'utilisation de certains types de communications comme la vision pour les animaux nocturnes.
 

@@ -30,30 +30,16 @@ Les méthodes d'apprentissage sont divisé en deux catégorie en fonction du typ
 * variable numérique. On parle de régression.
 * variable qualitative. On parle de classification.
 
-Certaines méthodes peuvent être utilisé pour contrôler la qualité du jeu d'apprentissage c'est à dire pour s'assurer que les paramètres du modèle ne dépendent pas du jeu d'apprentissage :
+Certaines méthodes peuvent être utilisées pour contrôler la qualité du jeu d'apprentissage càd pour s'assurer que les paramètres du modèle ne dépendent pas du jeu d'apprentissage :
 
-* k fold. On calcul des paramètres en faisant plusieurs jeux de données d'apprentissage et de test.
+* k-fold. On calcul des paramètres en faisant plusieurs jeux de données d'apprentissage et de test pour déterminer si le modèle dépend des données d'apprentissage.
+* boosting. 
 
 ### Non supervisées
 
-Construire des groupes d'individus similaire en fonction d'une variable d'intérêt non triviale.
+Construire des groupes d'individus similaire en fonction d'une variable d'intérêt non triviale. Ces méthodes permettent notamment de :
 
-* Cluestering regrouper les données pour trouver des stuctures de données.
-* Découvrir des strucutres de données, résumer les données, détecter des individus atypiques.
-* Réduction de dimension, estimation de la densité, synthétiser l'information, éliminer les corrélations.
+* Regrouper les individus dans des groupes càd de créer des profils.
+* Résumer les données et synthétiser l'information.
+* Détecter des individus atypiques.
 
-## Cluestering sans cible
-
-### Enjeux 
-
-Constuire des groupes d'individus sans connaître la variable cible avec des règles simples.
-
-### Exemple 
-
-Identifier les clients banque principale.
-
-### Méthode
-
-* Créer la population cible avec des régles métiers.
-* Identifier les variables les plus influentes (méthodes de classification avec notamment la forêt aléatoire, l'arbre de décision).
-* Construire des règles métiers pour retrouver les classes (arbre de décision).
