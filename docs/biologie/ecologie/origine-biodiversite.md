@@ -529,38 +529,28 @@ L'étude des communautés se consacre à la compréhension des interactions inte
 
 L'étude des communautés s'intéresse particulièrement à :
 
--   Aux interactions entre les populations
-
--   Aux variations en richesse spécifiques dans l'espace
-
--   La dynamique dans le temps
-
--   La structure et le fonctionnement des réseaux trophiques.
+* Aux interactions entre les populations
+* Aux variations en richesse spécifiques dans l'espace
+* La dynamique dans le temps
+* La structure et le fonctionnement des réseaux trophiques.
 
 La présence d'un groupe d'espèces (ou pool d'espèces) est liée :
 
--   Au potentiel de dispersion des espèces.
-
--   Aux conditions et ressources appropriées.
-
--   Aux taux de compétition et prédation tolérables.
+* Au potentiel de dispersion des espèces.
+* Aux conditions et ressources appropriées.
+* Aux taux de compétition et prédation tolérables.
 
 ### Le paradoxe de Gause
 
-Chez le phytoplancton la fluctuation des facteur abiotiques modifient la
-dominance entre les espèces. Cela permet à plusieurs espèces de partager
-une même niche écologique.
+Chez le phytoplancton la fluctuation des facteur abiotiques modifient la dominance entre les espèces. Cela permet à plusieurs espèces de partager une même niche écologique.
 
 ## Coexistence et les interactions compétitions/prédations
 
-Réseau trophique ensemble des relations alimentaires reliées entre elles
-au sein d'un écosystème par lesquelles circulent l'énergie et la
-matière.
+Réseau trophique ensemble des relations alimentaires reliées entre elles au sein d'un écosystème par lesquelles circulent l'énergie et la matière.
 
-Autotrophe (vs hétérotrophe) organisme qui se nourrit uniquement
-d'éléments non organiques.
+Autotrophe (vs hétérotrophe) organisme qui se nourrit uniquementd'éléments non organiques.
 
-Il existe deux types de stratégie pour contrôler les communautés :
+Il  existe deux types de stratégie pour contrôler les communautés :
 
 | Bottom-up                           | Top down                                           |
 |------------------------------------|------------------------------------|
@@ -574,33 +564,26 @@ Les espèces présentes ainsi que l'abondance et la biomasse relative.
 
 ### Distribution dans l'espace et dynamique au cours du temps
 
-Forme de relations entre les espèces notamment par la structure
-trophique.
+Forme de relations entre les espèces notamment par la structure trophique.
 
 ### Richesse spécifique
 
-Richesse totale nbre d'espèces total pour une aire géographiques
-données.
+Richesse totale nbre d'espèces total pour une aire géographiques données.
 
 Richesse moyenne moyenne du nombre d'espèces dans les échantillons.
 
 **Outil utilisé :** Courbe espèces-aire. Elle permet :
 
--   Caractériser un milieu ou une communauté.
-
--   Comparer deux communautés.
+* Caractériser un milieu ou une communauté.
+* Comparer deux communautés.
 
 ### Diversité
 
-Indice de diversité mesure qualitative qui quantifie l'équipartition des
-espèces. L'indice augmente lorsque les espèces sont présentes dans les
-mêmes proportions. Il atteint un maximum lorsque les espèces autant
-abondantes.
+__Indice de diversité__ mesure qualitative qui quantifie l'équipartition des espèces. L'indice augmente lorsque les espèces sont présentes dans les mêmes proportions. Il atteint un maximum lorsque les espèces autant abondantes.
 
-Par exemple, l'indice de Shannon
-$H^{'} = - \sum_{}^{}{{p_{i} \times log}p_{i}}$
+Par exemple, l'indice de Shannon $H' = - \sum{p_i \cdot \log p_i}$
 
-Où $p_{i}$ correspond à l'effectif d'une espèce.
+Avec $p_i$ correspond à l'effectif d'une espèce.
 
 ### La distribution des communautés dans l'espace
 
@@ -609,23 +592,17 @@ Où $p_{i}$ correspond à l'effectif d'une espèce.
 
 ## L'apparition et l'établissement des communautés
 
-Successions écologiques les changements que subissent les communautés au
-cours du temps.
+__Successions écologiques__ changements que subissent les communautés au cours du temps.
 
 La succession écologique est un processus naturel de développement d'une
 communauté qui aboutit à un état de stable appelé climacique (climax).
 
 ### Établissement des communautés
 
-On distingue deux cas :
+On distingue deux cas de succession :
 
--   **Succession primaire** établissement de la vie dans un substrat
-    vierge. Les premiers organismes qui colonisent le milieu sont
-    appelés espèces ou communauté pionnière.
-
--   **Succession secondaire** établissement d'une communauté dans une
-    parcelle ayant déjà accueilli la vie. C'est un espace où la
-    communauté à subit perturbation écologique.
+* primaire établissement de la vie dans un substrat vierge. Les premiers organismes qui colonisent le milieu sont appelés espèces ou communauté pionnière.
+* secondaire établissement d'une communauté dans une parcelle ayant déjà accueilli la vie. C'est un espace où la communauté à subit perturbation écologique.
 
 Une succession se déroule en 3 phases :
 
@@ -635,7 +612,7 @@ Une succession se déroule en 3 phases :
 
 ### Climax état d'équilibre
 
-__Intermediate Disturbance Hypothesis (IDH) énonce que la diversité des espèces locales est maximale quand les perturbations ne sont pas trop rares, ni trop fréquentes.
+__Intermediate Disturbance Hypothesis__ (IDH) hypothèse selon laquelle la diversité des espèces locales est maximale quand les perturbations ne sont pas trop rares, ni trop fréquentes.
 
 __Perturbation__ détérioration souvent provisoire du milieu ou d'un écosystème.
 
@@ -643,17 +620,16 @@ __Perturbation__ détérioration souvent provisoire du milieu ou d'un écosystè
 |------------------------------------|------------------------------------|
 |                       | Les espèces sont menacées d'extinction dominance compétitive. |
 
-Les perturbations peuvent être d'origine
+Les perturbations peuvent être d'origine : 
 
-|           |               |
-|-----------|---------------|
-| Naturelle | Non-naturelle |
+* Naturelle.
+* Non-naturelle.
 
 ## Stabilité d'une communauté
 
-Resistance capacité d'un système à l'opposer au changement.
+__Resistance__ capacité d'un système à l'opposer au changement.
 
-Résilience capacitée d'un système de revenir aux conditions initiales.
+__Résilience__ capacitée d'un système de revenir aux conditions initiales.
 
 # Biodiversité, espèces et espace
 
@@ -661,23 +637,19 @@ Résilience capacitée d'un système de revenir aux conditions initiales.
 
 Indicateur de biodiversité :
 
--   Richesse spécifique nombre d'espèces dans une communauté.
+* Richesse spécifique nombre d'espèces dans une communauté.
+* Abondance (nombre d'individus)
 
--   Abondance (nombre d'individus)
+    * Absolue le nombre d'individus.
+    * Relative le nombre d'individus par espèce.
 
-    -   Absolue le nombre d'individus.
-
-    -   Relative le nombre d'individus par espèce.
-
--   Équipartition niveau d'uniformité des abondances dans une
-    communauté.
+* Équipartition niveau d'uniformité des abondances dans une communauté.
 
 La méthode utilisée sur le terrain est l'échantillonnage.
 
 ## Biodiversité et espace
 
-Diversité ponctuelle nombre d'espèces présent dans les échantillons
-récoltés d'habitats homogènes.
+Diversité ponctuelle nombre d'espèces présent dans les échantillons récoltés d'habitats homogènes.
 
 | Échelle         | Habitat équivalent | Habitats différents |
 |-----------------|--------------------|---------------------|
@@ -686,29 +658,24 @@ récoltés d'habitats homogènes.
 | Inter régionale | Epsilon-diversité  | Delta-diversité     |
 | Global          | Oméga-diversité    |                     |
 
-Pour les habitats différents, on mesure la variation des espèces entre
-les habitats c'est-à-dire la dissimilarité.
+Pour les habitats différents, on mesure la variation des espèces entre les habitats c'est-à-dire la dissimilarité.
 
 ## Les hotspots de biodiversité
 
-Point chaud de biodiversité zone possédant une grande richesse de
-biodiversité particulièrement menacée par l'activité humaine.
+Point chaud de biodiversité zone possédant une grande richesse de biodiversité particulièrement menacée par l'activité humaine.
 
 La classification en hotspot présente des limites :
 
 * Ne prend pas en compte que les critères de richesse.
-* Se limite uniquement au passé. Seul les zones qui ont été menacées
-    sont prises en compte.
+* Se limite uniquement au passé. Seul les zones qui ont été menacées sont prises en compte.
 
-La majorité de la biodiversité de la planète se concentre dans un espace
-restreint. 44% des espèces de plantes et 35% des vertébrés dans 1,4%
-surface des continents.
+La majorité de la biodiversité de la planète se concentre dans un espace restreint. 44% des espèces de plantes et 35% des vertébrés dans 1,4% surface des continents.
 
-Foret primaire foret intacte préserver des activités humaines.
+__Foret primaire__ foret intacte préserver des activités humaines.
 
 ## Interacteurs
 
-Interacteurs espèces qui ont un impact fort dans une communauté.
+__Interacteurs__ espèces qui ont un impact fort dans une communauté.
 
 Deux types :
 
@@ -723,9 +690,7 @@ dégradation importante de l'écosystème.
 
 # Biodiversité, espèces et temps
 
-Le nombre d'espèces est le résultat d'un processus évolutif c'est-à-dire
-la succession d'événements de migration, d'extinction et de
-spécialisation des espèces.
+Le nombre d'espèces est le résultat d'un processus évolutif c'est-à-dire la succession d'événements de migration, d'extinction et de spécialisation des espèces.
 
 | Évènements     | Causes                           |
 |----------------|----------------------------------|
@@ -742,9 +707,9 @@ interfécondes à évoluer en espèces distinctes.
 
 L'allopatrie peut résulter deux causes :
 
--   L'apparition d'une barrière géographique
+* L'apparition d'une barrière géographique
 
-Vicariante une barrière géographique coupe l'air de répartition d'une
+__Vicariante__ une barrière géographique coupe l'air de répartition d'une
 espèce
 
 -   Migration d'individus vers un nouvelle région
@@ -754,8 +719,7 @@ une nouvelle population en marge de l'aire de répartition.
 
 ### Spéciation parapatrique
 
-Les populations ne sont pas totalement isolées géographiquement mais la
-zone de contacte est étroite. On y trouve fréquemment des hybrides.
+Les populations ne sont pas totalement isolées géographiquement mais la zone de contacte est étroite. On y trouve fréquemment des hybrides.
 
 ### Spéciation sympatrique
 
@@ -766,21 +730,16 @@ phénomène est plutôt rare.
 
 Les grands événements qui modifient la distribution des espèces 
 
--   La dérive des continents a séparé des zones initialement réunies.
-
--   Les variations climatiques
-
--   Extinction de masse. Elles sont généralement suivies de brèves
-    périodes de diversification puis d'une explosion radiative.
+* La dérive des continents a séparé des zones initialement réunies.
+* Les variations climatiques
+* Extinction de masse. Elles sont généralement suivies de brèves périodes de diversification puis d'une explosion radiative.
 
 La persistance d'une espèce s'explique par sa capacité à s'adapter ou à
 résister aux changements. Elle dépendant notamment de :
 
--   L'intensité et la taille de l'impact.
-
--   Des caractéristiques biologiques.
-
--   Temps nécessaire à (éventuellement) s'adapter.
+* L'intensité et la taille de l'impact.
+* Des caractéristiques biologiques.
+* Temps nécessaire à (éventuellement) s'adapter.
 
 Les effets des grands événements sur les espèces :
 
@@ -791,28 +750,23 @@ Les effets des grands événements sur les espèces :
 
 ## Type d'évolution
 
-Évolution convergente plusieurs espèces développent séparément une
-adaptation analogue càd une même réponse fonctionnelle à un problème
-adaptif.
+__Évolution convergente__ plusieurs espèces développent séparément une adaptation analogue càd une même réponse fonctionnelle à un problème adaptif.
 
-Symplésiomorphie similarité due à un ancêtre commun.
+__Symplésiomorphie__ similarité due à un ancêtre commun.
 
-Évolution parallèle deux espèces développent en même temps dans des
-régions semblables des caractéristiques similaires.
+__Évolution parallèle__ deux espèces développent en même temps dans des régions semblables des caractéristiques similaires.
 
-Coévolution transformations qui se produisent entre plusieurs espèces
+__Coévolution__ transformations qui se produisent entre plusieurs espèces
 suites à leurs influences réciproques.
 
 # Les écosystèmes
 
-La Terre est un système
+La Terre est un système : 
 
-| Fermé chimiquement | Ouvert énergiquement             |
-|--------------------|----------------------------------|
-|                    | Gain et perte par le rayonnement |
+* Fermé chimiquement
+* Ouvert énergiquement Gain et perte par le rayonnement |
 
-Interactions transformations de la matière et de l'énergie entre les
-organismes.
+__Interactions__ transformations de la matière et de l'énergie entre les organismes.
 
 Les interactions peuvent être classées en :
 
@@ -824,61 +778,53 @@ Les interactions peuvent être classées en :
 
 ### Cycle du Carbone et de l'Eau
 
-Évapotranspiration l'évaporation des végétaux participe aux cycles de
-l'eau.
+__Évapotranspiration__ l'évaporation des végétaux participe aux cycles de l'eau.
 
 ### Cycle de l'azote
 
-L'azote est un composant essentiel pour fabriquer les protéines et les
-acides nucléiques.
+L'azote est un composant essentiel pour fabriquer les protéines et les acides nucléiques.
 
-Diazotrophe procaryotes qui synthétisent de l'ammoniac et du nitrate à
-partie de l'azote présent dans l'air.
+Diazotrophe procaryotes qui synthétisent de l'ammoniac et du nitrate à partie de l'azote présent dans l'air.
 
 On parle de :
 
 | Fixation de l'azote                  | Nitrification                     |
 |--------------------------------------|-----------------------------------|
-| $N_{2}$ transformé en ${NH}_{3}^{+}$ | ${NH}_{4}^{+}$vers ${NO}_{3}^{-}$ |
+| $N_2$ transformé en $NH_3^+$ | $NH_4^+$ vers $NO_3^-$ |
 
 ### Cycle du phosphate
 
-Consommateur organisme qui prélève les molécules dont il a besoin en
-consommant d'autre organismes.
+__Consommateur__ organisme qui prélève les molécules dont il a besoin en consommant d'autre organismes.
 
 ### Energie
 
 L'énergie est présente sous différentes formes comme par exemple :
 
-|         |         |          |           |
-|---------|---------|----------|-----------|
-| Lumière | Chaleur | Chimique | Mouvement |
+* lumière
+* chaleur
+* chimique
+* mouvement
 
 Les organismes sont incapables de transformer la chaleur
 
-Autotrophes (opposition Hétérotrophes) organisme qui est capable de
-synthétiser ses constituants et l'énergie dont il a besoin à partir de
-matières inorganiques.
+Autotrophes (opposition Hétérotrophes) organisme qui est capable de synthétiser ses constituants et l'énergie dont il a besoin à partir de matières inorganiques.
 
 Production de l'énergie dans l'écosystème
 
 Les organismes autotrophes transforment l'énergie minérale en organique
 par deux processus :
 
-|               |                |
-|---------------|----------------|
-| Photosynthèse | Chimiosynthèse |
+* photosynthèse
+* phimiosynthèse
 
 Photosynthèse :
-$6{CO}_{2} + 6H_{2}O + soleil \rightarrow C_{6}H_{12}O_{6}(glucose) + 6O_{2}$
+$$6 CO_2 + 6 H_2O + soleil \rightarrow C_6H_{12}O_6(glucose) + 6 O_2$
 
-Les consommateurs décomposent notamment la matière pour produire de
-l'énergie sous la forme d'ATP.
+Les consommateurs décomposent notamment la matière pour produire de l'énergie sous la forme d'ATP.
 
-Dans les milieux oxygénés, les consommateurs dégradent les molécules
-organiques par oxydation :
+Dans les milieux oxygénés, les consommateurs dégradent les molécules organiques par oxydation :
 
-$$C_{6}H_{12}O_{6} + 6O_{6} \rightarrow 6{HO}_{2} + 6{CO}_{2} + energie\ accumulé\ dans\ 36\ molé\ d'ATP$$
+$$C_6H_{12}O_6 + 6 O_6 \rightarrow 6 HO_2 + 6 CO_2 + energie\ accumulé\ dans\ 36\ molé\ d'ATP$$
 
 NB : L'énergie diminue à chaque transfert. Une partie d'elle étant
 dissipée sous forme de chaleur.
@@ -887,9 +833,8 @@ dissipée sous forme de chaleur.
 
 L'énergie disponible à chaque niveau trophique est liée notamment à
 
-|                           |           |
-|---------------------------|-----------|
-| Production primaire nette | Rendement |
+* Production primaire nette
+* Rendement
 
 Typiquement entre 5 et 20%, on estime qu'environ 10% du niveau inférieur
 est présent à celui supérieur.
@@ -900,31 +845,24 @@ est présent à celui supérieur.
 
 # Les biomes aquatiques
 
-Pour les biomes aquatiques, les facteurs abiotiques sont extrêmement
-importants : lumière température, salinité, la concentration, d'oxygène,
-le trophisme (sels nutritif azote et phosphore)
+Pour les biomes aquatiques, les facteurs abiotiques sont extrêmement importants : lumière température, salinité, la concentration, d'oxygène, le trophisme (sels nutritif azote et phosphore)
 
 On distingue les biomes aquatiques en fonction de la salinité :
 
-|                                    |                    |
-|------------------------------------|--------------------|
-| Eaux douces (2% surface terrestre) | Eaux marines (71%) |
+* Eaux douces (2% surface terrestre)
+* Eaux marines (71%)
 
-En eau douce, les macro-organismes primaires dépendent des matières
-organiques terrestres.
+En eau douce, les macro-organismes primaires dépendent des matières organiques terrestres.
 
-## Concentration **d'oxygène**
+## Concentration d'oxygène
 
-Au maximum 5% de la concentration en oxygène de l'air peut se dissoudre
-dans l'eau. Ainsi, l'oxygène présent dans l'eau est essentiellement dû à
-la photosynthèse et aux échanges avec la surface
+Au maximum 5% de la concentration en oxygène de l'air peut se dissoudre dans l'eau. Ainsi, l'oxygène présent dans l'eau est essentiellement dû à la photosynthèse et aux échanges avec la surface
 
 NB : La concentration d'oxygène diminue généralement avec la profondeur.
 
-D'autres facteurs dépendent de la profondeur comme la lumière. Cela
-donne lieu à une stratification thermique plus ou moins
+D'autres facteurs dépendent de la profondeur comme la lumière. Cela donne lieu à une stratification thermique plus ou moins
 
-Zone euphotique profondeur à laquelle la lumière ne pénètre plus.
+__Zone euphotique__ profondeur à laquelle la lumière ne pénètre plus.
 
 ## Eaux douces
 
@@ -938,56 +876,40 @@ Généralement les eaux douces sont de type :
 
 ## Eaux marines
 
-Milieu paralique zone de transition entre eaux marines et eaux douces.
-Elle vari dans le temps et l'espace.
+__Milieu paralique__ zone de transition entre eaux marines et eaux douces. Elle vari dans le temps et l'espace.
 
-Région d'upwelling zone de remontée des eaux profondes chargées en
-éléments nutritifs.
+__Région d'upwelling__ zone de remontée des eaux profondes chargées en éléments nutritifs.
 
 # Les biomes terrestres
 
-Biome ensemble d'écosystèmes caractéristiques d'une aire
-biogéographique.
+__Biome__ ensemble d'écosystèmes caractéristiques d'une aire biogéographique.
 
 Le biome est souvent caractérisé par :
 
-|             |               |
-|-------------|---------------|
-| Température | Précipitation |
+* Température
+* Précipitation
 
-On considère qu'il existe 14 biomes sur Terre. Ceux qui sont les plus
-présents sur Terre sont :
+On considère qu'il existe 14 biomes sur Terre. Ceux qui sont les plus présents sur Terre sont :
 
--   La forêt tropicale dense,
-
-```{=html}
-<!-- -->
-```
--   La savane,
-
--   La prairie tempérée,
-
--   La forêt tempérée décidue (ou mixte),
-
--   La taïga
-
--   La toundra
-
--   Le biome méditerranéen
+* La forêt tropicale dense,
+* La savane,
+* La prairie tempérée,
+* La forêt tempérée décidue (ou mixte),
+* La taïga
+* La toundra
+* Le biome méditerranéen
 
 Ils ont une répartition zonale (entre deux latitudes).
 
-[Remarque ]{.underline}: L'altitude et la latitude ont la même influence
-sur les biomes.
+!!! note
+    L'altitude et la latitude ont la même influence sur les biomes.
 
 Les biomes sont classés essentiellement en fonction des formes de la
 végétation dominante qui les peuplent :
 
-|               |                     |           |
-|---------------|---------------------|-----------|
-| Arborescentes | Arbustives/buissons | Herbacées |
+* Arborescentes
+* Arbustives/buissons
+* Herbacées
 
-Écotone zone de transition entre deux écosystèmes. C'est souvent une
+__Écotone__ zone de transition entre deux écosystèmes. C'est souvent une
 zone ou vivent une grande diversité d'espèces.
-
-# Écologie et l'économie
