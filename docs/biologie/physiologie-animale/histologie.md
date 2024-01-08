@@ -8,35 +8,26 @@ corrélation entre leur structure et leur fonction.
 
 Il existe quatre types de tissus :
 
-* Conjonctif (dont tissus conjonctif liquide avec le sang),
-* Épithélial
-* musculaire
-* Nerveux
+* Conjonctifs. Le sang est consiédéré comme un tissus conjonctif liquide.
+* Épithéliaux.
+* musculaires.
+* Nerveux.
 
 NB : les cellules souches et cellules germinales n'appartiennent à aucun
 de ces types.
 
 ### Les techniques d'analyses des tissus 
 
--   Immunohistochimie = permet d'étudier la LOCALISATION DE PROTEINE en
-    utilisant des anticorps spécifiques de la protéine d'intérêt.
-
--   Hybridation in-situ = permet de marquer les ARN messager.
+* Immunohistochimie = permet d'étudier la LOCALISATION DE PROTEINE en utilisant des anticorps spécifiques de la protéine d'intérêt.
+* Hybridation in-situ = permet de marquer les ARN messager.
 
 ### Épistémologie de l'histologie
 
 L'Histoire a vécu 3 révolutions :
 
-1.  La microscopie optique avec la théorie cellulaire. Grossissement
-    X1000, coupes fixés & coloré qui a permis la compréhension de
-    l'architecture globale des cellules et des tissus.
-
-2.  La microscopie électronique a permis de décrire l'ultrastructure des
-    organites intracellulaires (les jonctions, la mitochondries, le
-    RE...).
-
-3.  La biologie moléculaire a permis de comprendre les constitutions
-    moléculaires et le typage moléculaires des tumeurs.
+1. La microscopie optique avec la théorie cellulaire. Grossissement X1000, coupes fixés & coloré qui a permis la compréhension de l'architecture globale des cellules et des tissus.
+2. La microscopie électronique a permis de décrire l'ultrastructure des organites intracellulaires (les jonctions, la mitochondries, le RE...).
+3. La biologie moléculaire a permis de comprendre les constitutions moléculaires et le typage moléculaires des tumeurs.
 
 MET : Grossissement X100 000, sur coupes ultrafines de tissus fixés et
 contrastés.
@@ -150,68 +141,47 @@ organes. On distingue 8 appareils :
 Les tissus se développent à partir de trois feuillets embryonnaires à
 partir de la 3ème semaine de vie utérines :
 
-|           |           |           |
-|-----------|-----------|-----------|
-| Ectoderme | mésoderme | endoderme |
+* Ectoderme
+* mésoderme
+* endoderme
 
 # Les épithéliums
 
 Un épithélium est un tissu constitué de cellules cohésives qui sont
 soit :
 
--   Revêtement. Bordent les surface de l'organisme (peau, tube digestif
-    ou respiratoire, les canaux excrétoires) protection.
-
--   Glandulaire. Elles composent les unités fonctionnelles des glandes
-    sécrétoires.
+* Revêtement. Bordent les surface de l'organisme (peau, tube digestif ou respiratoire, les canaux excrétoires) protection.
+* Glandulaire. Elles composent les unités fonctionnelles des glandes sécrétoires.
 
 Les épithéliums servent principalement :
 
--   Sécrétion (glande), absorption (intestin) et excrétion (rein).
-
--   Échanges gazeux (les alvéoles des Poumons).
-
--   Protection (peau), et au maintien de l'intégrité du corps (peau).
-
--   Glissement entre les surfaces (mésothélium),
-
--   Transport de matériel vers l'extérieur (par les cils : respiration,
-    absorption, reproduction).
+* Sécrétion (glande), absorption (intestin) et excrétion (rein).
+* Échanges gazeux (les alvéoles des Poumons).
+* Protection (peau), et au maintien de l'intégrité du corps (peau).
+* Glissement entre les surfaces (mésothélium),
+* Transport de matériel vers l'extérieur (par les cils : respiration, absorption, reproduction).
 
 Caractéristiques :
 
--   Non vascularisé. Il est nourri par diffusion à travers la MEC
-
--   La cohésion du tissu est assurée par des molécules d'adhésion
-
--   La polarité cellulaire qui se retrouve au niveau tissulaire (un côté
-    en contact avec milieu externe et interne).
-
--   L'expression de filaments intermédiaires de cytokératine (20 aine de
-    protéines marquage de kératine permet de mettre en évidence le tissu
-    épithéliale).
+* Non vascularisé. Il est nourri par diffusion à travers la MEC
+* La cohésion du tissu est assurée par des molécules d'adhésion
+* La polarité cellulaire qui se retrouve au niveau tissulaire (un côté en contact avec milieu externe et interne).
+* L'expression de filaments intermédiaires de cytokératine (20 aine de protéines marquage de kératine permet de mettre en évidence le tissu épithéliale).
 
 ## La cohésion du tissu
 
-Les molécules d'adhérence assurent l'union des cellules. Elles sont
-classées en deux grandes catégories en fonction de leur dépendance au
-calcium :
+Les molécules d'adhérence assurent l'union des cellules. Elles sont classées en deux grandes catégories en fonction de leur dépendance au calcium :
 
--   Les molécules calcium dépendantes incluant les cadhérines, les
-    sélectines et les intégrines.
-
--   Les molécules calcium indépendantes incluant les immunoglobulines.
+* Les molécules calcium dépendantes incluant les cadhérines, les sélectines et les intégrines.
+* Les molécules calcium indépendantes incluant les immunoglobulines.
 
 ### Cadhérines
 
 Formation de dimères de cadhérine.
 
-Interaction homophilique (interaction avec la même protéine en face)
-avec les dimères de la membrane cellulaire opposée.
+Interaction homophilique (interaction avec la même protéine en face) avec les dimères de la membrane cellulaire opposée.
 
-Établissement des liaisons entre le cytosquelette interne de la cellule,
-microfilaments d'actine et l'extérieur d'une autre cellule en présence
-de calcium.
+Établissement des liaisons entre le cytosquelette interne de la cellule, microfilaments d'actine et l'extérieur d'une autre cellule en présence de calcium.
 
 LE CALCIUM PERMET DE REDIRE LES CADHERINE POUR FAVORISER LA JONCTION.
 
@@ -221,61 +191,45 @@ Elles se lient aux hydrates de carbone.
 
 3 classes de sélectines :
 
--   P présentes dans les plaquettes et les cellules endothéliales
-    activées bordant les vaisseaux sanguins
+* P présentes dans les plaquettes et les cellules endothéliales activées bordant les vaisseaux sanguins
+* E dans les cellules endothéliales activées.
+* L dans les leucocytes.
 
--   E dans les cellules endothéliales activées.
-
--   L dans les leucocytes.
-
-Elles participent au mouvement des leucocytes du sang vers les tissus
-par extravasation pour rejoindre les sites d'inflammation.
+Elles participent au mouvement des leucocytes du sang vers les tissus par extravasation pour rejoindre les sites d'inflammation.
 
 ### Les Immunoglobulines CAM
 
 Les immunoglobulines sont des glycoprotéines.
 
-Interactions homophiles et hétérophiles avec les protéoglycanes & les
-intégrines.
+Interactions homophiles et hétérophiles avec les protéoglycanes & les intégrines.
 
-ICAM & VCAM jouent un rôle important dans les interaction entre
-lymphocytes T et dans la liaison des leucocytes aux cellules
-endothéliales des vaisseaux.
+ICAM & VCAM jouent un rôle important dans les interaction entre lymphocytes T et dans la liaison des leucocytes aux cellules endothéliales des vaisseaux.
 
 ### Intégrines
 
 Liées à la fois au cytosquelette et à la MEC
 
-Relation avec la MEC importante pour la migration des cellules dans
-l'embryogenèse.
+Relation avec la MEC importante pour la migration des cellules dans l'embryogenèse.
 
 Interaction avec les protéines de la MEC sur leurs domaines RGD.
 
-Interaction reversée par les désintégrines qui possèdent un domaine RGD
-entrant en compétition avec les protéines de la MEC.
+Interaction reversée par les désintégrines qui possèdent un domaine RGD entrant en compétition avec les protéines de la MEC.
 
 Participent aussi aux interactions cellule à cellule (IgCAM).
 
-Régulent une cascade intracellulaire en réponse à des modification
-extracellulaire.
+Régulent une cascade intracellulaire en réponse à des modification extracellulaire.
 
 ## Les jonctions intercellulaires
 
 ### Les jonctions serrées ou Zonula occludens
 
-Les jonctions serrées forment un anneau ceinturant le pourtour de la
-cellule et permettant l'occlusion complète de l'espace intracellulaire
-qui assure l'étanchéité. Pour passer la barrière, les molécules doivent
-passer par les cellules.
+Les jonctions serrées forment un anneau ceinturant le pourtour de la cellule et permettant l'occlusion complète de l'espace intracellulaire qui assure l'étanchéité. Pour passer la barrière, les molécules doivent passer par les cellules.
 
-Les membranes plasmiques des cellules adjacentes s'accolent pour assurer
-l'étanchéité de l'espace intercellulaire apical.
+Les membranes plasmiques des cellules adjacentes s'accolent pour assurer l'étanchéité de l'espace intercellulaire apical.
 
 Fonctions :
 
--   Assure la polarité cellulaire en séparant le domaine apical du
-    domaine basolatéral et en empêchant la libre diffusion des lipides
-    et des protéines entre eux (barrière de diffusion physique).
+* Assure la polarité cellulaire en séparant le domaine apical du domaine basolatéral et en empêchant la libre diffusion des lipides et des protéines entre eux (barrière de diffusion physique).
 
 La régulation se fait par les hormones & les cytokines.
 
@@ -283,75 +237,52 @@ JAM occludine claudine
 
 ### Les jonctions d'ancrage
 
-Les jonctions d'ancrage permettent l'adhérence entre les cellules.
-Points d'ancrage du cytosquelette pour former un réseau transcellulaire.
+Les jonctions d'ancrage permettent l'adhérence entre les cellules. Points d'ancrage du cytosquelette pour former un réseau transcellulaire.
 
 Ce réseau sert à réguler la tension au niveau de la surface cellulaire.
 
-Au maintien de l'intégrité structurale de surfaces soumises à des
-agressions mécaniques (peau).
+Au maintien de l'intégrité structurale de surfaces soumises à desagressions mécaniques (peau).
 
 On distingue deux types de jonctions d'ancrage :
 
--   Les jonctions adhérentes (ZA) continue sous les jonctions serrées
-    dont elles renforcent la structure. Associées aux filaments
-    d'actine.
+* Les jonctions adhérentes (ZA) continue sous les jonctions serrées dont elles renforcent la structure. Associées aux filaments d'actine.
 
--   Les desmosomes (MA) Pastilles à distribution ponctuelle. Associées
-    aux filaments intermédiaires.
+* Les desmosomes (MA) Pastilles à distribution ponctuelle. Associées aux filaments intermédiaires.
 
 ### Les jonctions communicantes (NEXUS, gap jonction)
 
-Plaques dans lesquelles les membranes plasmiques adjacentes sont
-accolées et constituées de nombreux pores permettant le passage d'ions
-chargés + et petites molécules (Diamètre \< 2nm et PM \< 1500 daltons).
+Plaques dans lesquelles les membranes plasmiques adjacentes sont accolées et constituées de nombreux pores permettant le passage d'ions chargés + et petites molécules (Diamètre \< 2nm et PM \< 1500 daltons).
 
 Ces pores permettent la communications entre les cellules.
 
-Chaque membrane est composée de connexon (demi-canal) qui sont compo de
-6 connexines.
+Chaque membrane est composée de connexon (demi-canal) qui sont compo de 6 connexines.
 
-Les pores peuvent notamment réguler par le pH. Couplage chimique et
-électrique de cellules voisines
+Les pores peuvent notamment réguler par le pH. Couplage chimique et électrique de cellules voisines
 
--   site d'échange de métabolites, de facteurs de croissance, de
-    développement, de reconnaissance et de différenciation.
-
--   Dans le muscle lisse et cardiaque, transport du signal électrique
-    permettant la synchronisation de la contraction des cellules.
-
--   Sensible à \[Ca2+\] dont l'augmentation entraine la fermeture des
-    pores.
+* site d'échange de métabolites, de facteurs de croissance, de développement, de reconnaissance et de différenciation.
+* Dans le muscle lisse et cardiaque, transport du signal électrique permettant la synchronisation de la contraction des cellules.
+* Sensible à \[Ca2+\] dont l'augmentation entraine la fermeture des pores.
 
 ### Jonctions cellule-matrice-extracellulaire
 
 Deux types :
 
--   Hémidesmosomes : Ancrage des cellules épithéliales à la lame basale.
-
--   Contact Focal : Des jonctions de ce type s'établissent de façon
-    transitoire pour permettre la migration de cellules sur la MEC,
-    notamment au cours des processus de réparation. (C'est les filament
-    d'actine et c'est le lien avec la MEC).
+* Hémidesmosomes : Ancrage des cellules épithéliales à la lame basale.
+* Contact Focal : Des jonctions de ce type s'établissent de façon transitoire pour permettre la migration de cellules sur la MEC, notamment au cours des processus de réparation. (C'est les filament d'actine et c'est le lien avec la MEC).
 
 Hémidesmosomes
 
-Ultrastructure : Structure asymétrique attachant le domaine basal de la
-cellule épithéliale à la lame basale sous-jacente.
+Ultrastructure : Structure asymétrique attachant le domaine basal de la cellule épithéliale à la lame basale sous-jacente.
 
-Niveau moléculaire : Kératine interagit au niveau des protéines de
-plaque (BP230, BP180 et Plectine) Molécule d'adhésion les intégrines.
+Niveau moléculaire : Kératine interagit au niveau des protéines de plaque (BP230, BP180 et Plectine) Molécule d'adhésion les intégrines.
 
 Fonction des hémidesmosomes :
 
-Attachent les cellules épithéliales à la lame basale (à l'interface
-entre 2 tissus : épithélium/conjonctif, assurant la cohésion cellule /
-MEC).
+Attachent les cellules épithéliales à la lame basale (à l'interface entre 2 tissus : épithélium/conjonctif, assurant la cohésion cellule / MEC).
 
 Maintien de l'intégrité structurale du tissu épithélial
 
-Sous l'effet d'un stress mécanique léger, formation de bulles entre le
-derme et l'épiderme par rupture des cellules basales.
+Sous l'effet d'un stress mécanique léger, formation de bulles entre le derme et l'épiderme par rupture des cellules basales.
 
 Contact focal d'adhérence
 
@@ -359,39 +290,27 @@ Protéine spécialisé du cytosquelette d'actine.
 
 ## La polarité cellulaire
 
-Trois types de morphologies : Polarité morphologique, moléculaire et
-fonctionnelle
+Trois types de morphologies : Polarité morphologique, moléculaire et fonctionnelle
 
 ### Polarité morphologique
 
 Les cils (MOBILE)
 
-Les cils sont des structures mobiles présentent au niveau de l'appareil
-respiratoire et le tractus génital féminin. En combinaison avec des
-cellules à mucus qui permettent de piéger les microbes et de remonter le
-tout jusqu'à la bouche.
+Les cils sont des structures mobiles présentent au niveau de l'appareil respiratoire et le tractus génital féminin. En combinaison avec des cellules à mucus qui permettent de piéger les microbes et de remonter le tout jusqu'à la bouche.
 
-Ils bougent car ils sont constitués d'un axonème, 9 doublets de
-microtubules entourant un doublet central, relié à sa base au corpuscule
-basal constitué de 9 triplets de MT.
+Ils bougent car ils sont constitués d'un axonème, 9 doublets de microtubules entourant un doublet central, relié à sa base au corpuscule basal constitué de 9 triplets de MT.
 
-Le mouvement est provoqué par le déplacement longitudinal des doublets
-les uns par rapport aux autres grâce à la dynéine, moteur moléculaire se
-déplaçant sur les MT.
+Le mouvement est provoqué par le déplacement longitudinal des doublets les uns par rapport aux autres grâce à la dynéine, moteur moléculaire se déplaçant sur les MT.
 
 Diamètre de 20-25 µm
 
 Les microvillosités
 
-Se trouvent dans tous les tubes / organes qui a besoins d'une aug de la
-surface d'échange. Ils ne sont pas mobiles car ne possède pas de MT mais
-le cytosquelette d'actine. Les microvillosités ont la mêmes tailles
-(comme une brosse) !
+Se trouvent dans tous les tubes / organes qui a besoins d'une aug de la surface d'échange. Ils ne sont pas mobiles car ne possède pas de MT mais le cytosquelette d'actine. Les microvillosités ont la mêmes tailles (comme une brosse) !
 
 Les stéréocils
 
-= longues microvillosités observables au M.O. Ce ne sont pas des cils
-mais cela y ressemble.
+= longues microvillosités observables au M.O. Ce ne sont pas des cils mais cela y ressemble.
 
 ### Polarité moléculaire et fonctionnelle
 
@@ -403,105 +322,52 @@ Niveau basale = transporteur porteuse
 
 ## Épithélium de revêtement
 
-Ils revêtent l'extérieur du corps et les cavités de l'organisme en
-jouant des rôles de protection, d'échange. Ils servent à contenir des
-liquides ou à séparer des milieux différents.
+Ils revêtent l'extérieur du corps et les cavités de l'organisme en jouant des rôles de protection, d'échange. Ils servent à contenir des liquides ou à séparer des milieux différents.
 
 Différents types :
 
--   Épithélium revêt des cavités prolongeant l'extérieur, voies
-    aérienne, tube digestif, voies urinaires et génitales.
+* Épithélium revêt des cavités prolongeant l'extérieur, voies aérienne, tube digestif, voies urinaires et génitales.
+* Endothélium revêt les cavités closes cardiaques et vasculaires.
+* Mésothélium revêt les cavité cœlomiques pleurale, péritonéale et péricardique.
+* Épiderme recouvre le corps, couche superficielle de la peau, repose sur le derme et l'hypoderme.
 
--   Endothélium revêt les cavités closes cardiaques et vasculaires.
+Les épithéliums sont classés selon trois critères visibles au niveau cellulaire :
 
--   Mésothélium revêt les cavité cœlomiques pleurale, péritonéale et
-    péricardique.
-
--   Épiderme recouvre le corps, couche superficielle de la peau, repose
-    sur le derme et l'hypoderme.
-
-Les épithéliums sont classés selon trois critères visibles au niveau
-cellulaire :
-
-|          |                      |                         |
-|----------|----------------------|-------------------------|
-| La forme | Le nombre de couches | État de différenciation |
+* La forme
+* Le nombre de couches
+* État de différenciation
 
 Les épithélium simples (=une seule couche de cellules)
 
--   Épithélium simple pavimenteux. Borde les surfaces impliquées dans
-    les transports passifs de gaz (poumons) et de fluides (capillaires
-    sanguins et lymphatiques, péritoine (ou mésentère), péricarde
-    plèvre). Sa minceur reflète sa fonction principale d'échange rapide
-    de substance entre le sang et le tissu.
-
-```{=html}
-<!-- -->
-```
--   Épithélium simple cubique Borde les petits canaux et tubules à
-    fonction excrétoire ou d'absorption comme les canaux collecteurs du
-    rein, des glandes salivaires, du pancréas.
-
--   Épithélium simple cylindrique. Borde les surface ayant un rôle
-    d'absorption comme l'intestin grêle ou les muqueuses sécrétoires
-    comme dans l'estomac.
-
--   Épithélium cylindrique pseudostratifié cilié Presque exclusivement
-    au niveau des voies aériennes supérieures de l'appareil
-    respiratoire. Appelé épithélium respiratoire.
-
--   Épithélium pavimenteux stratifié Fonction principale de protection
-    -- résiste bien à l'abrasion. Peau, cavité buccale, pharynx,
-    œsophage, canal anal, col utérin, vagin.
+* Épithélium simple pavimenteux. Borde les surfaces impliquées dans les transports passifs de gaz (poumons) et de fluides (capillaires sanguins et lymphatiques, péritoine (ou mésentère), péricarde plèvre). Sa minceur reflète sa fonction principale d'échange rapide de substance entre le sang et le tissu.
+* Épithélium simple cubique Borde les petits canaux et tubules à fonction excrétoire ou d'absorption comme les canaux collecteurs du rein, des glandes salivaires, du pancréas.
+* Épithélium simple cylindrique. Borde les surface ayant un rôle d'absorption comme l'intestin grêle ou les muqueuses sécrétoires comme dans l'estomac.
+* Épithélium cylindrique pseudostratifié cilié Presque exclusivement au niveau des voies aériennes supérieures de l'appareil respiratoire. Appelé épithélium respiratoire.
+* Épithélium pavimenteux stratifié Fonction principale de protection -- résiste bien à l'abrasion. Peau, cavité buccale, pharynx, œsophage, canal anal, col utérin, vagin.
 
 ### Épiderme
 
 De l'extérieur vers l'intérieur, on distingue la couche :
 
--   Cornées. Couche de cellules mortes, sans noyau, remplies de
-    kératine.
+* Cornées. Couche de cellules mortes, sans noyau, remplies de kératine.
+* Granuleuse.
+* Épineuse. Son nom est dû à l'aspect bcp de desmosomes. Lorsqu'on déshydrate, la cellule se rétracte mais reste accroché
+* Basale. cellules souches en train de se diviser. On y trouve également les mélanocytes.
 
--   Granuleuse.
+Épithélium Cubique stratifié 2 à 3 couches de cellules cubiques ou cylindriques Revêt les grands canaux excréteurs des glandes exocrines Plus résistant qu'un épithélium simple car plus de volume (ECOUTE) Épithélium de type transitionnel Épithélium particulier, spécialisé, des voies urinaires S'adapte à de fortes distensions et résiste à la toxicité de l'urine.
 
--   Épineuse. Son nom est dû à l'aspect bcp de desmosomes. Lorsqu'on
-    déshydrate, la cellule se rétracte mais reste accroché
+Caractéristiques intermédiaires entre l'épithélium stratifié cubique et pavimenteux.
 
--   Basale. cellules souches en train de se diviser. On y trouve
-    également les mélanocytes.
+Au repos (rétracté) constitué de 4 à 5 couches de cellules, cubiques à la base, polygonale dans les couches intermédiaires et volumineuses arrondies à la surface.
 
-Épithélium Cubique stratifié 2 à 3 couches de cellules cubiques ou
-cylindriques Revêt les grands canaux excréteurs des glandes exocrines
-Plus résistant qu'un épithélium simple car plus de volume (ECOUTE)
-Épithélium de type transitionnel Épithélium particulier, spécialisé, des
-voies urinaires S'adapte à de fortes distensions et résiste à la
-toxicité de l'urine.
-
-Caractéristiques intermédiaires entre l'épithélium stratifié cubique et
-pavimenteux.
-
-Au repos (rétracté) constitué de 4 à 5 couches de cellules, cubiques à
-la base, polygonale dans les couches intermédiaires et volumineuses
-arrondies à la surface.
-
-Quand la vessie est distendue les cellules intermédiaires et de surface
-sont aplaties.
+Quand la vessie est distendue les cellules intermédiaires et de surface sont aplaties.
 
 Les cellules non épithéliales au sein des épithéliums
 
--   Les mélanocytes dans la couche basale de l'épiderme produisent et
-    secrète la mélanine qui protège les kératinocytes des UV.
-    Approvisionne plus de 30 kératinocytes voisins en mélanine par
-    endocytose.
-
--   Les cellules de Langerhans dans toutes les couches de l'épiderme
-
--   Cellule du système immunitaire Capture et présente des antigènes aux
-    lymphocytes T
-
--   Les cellules de Merckel dans la couche basale de l'épiderme des
-    paumes des mains et des pieds Fonction neurosécrétrice et récepteur
-    sensoriel Responsable de la sensibilité importante au niveau des
-    extrémités.
+* Les mélanocytes dans la couche basale de l'épiderme produisent et secrètent la mélanine qui protège les kératinocytes des UV. Approvisionne plus de 30 kératinocytes voisins en mélanine par endocytose.
+* Les cellules de Langerhans dans toutes les couches de l'épiderme
+* Cellule du système immunitaire Capture et présente des antigènes aux lymphocytes T
+* Les cellules de Merckel dans la couche basale de l'épiderme des paumes des mains et des pieds Fonction neurosécrétrice et récepteur sensoriel Responsable de la sensibilité importante au niveau des extrémités.
 
 ## Les épithéliums glandulaires 
 
@@ -510,13 +376,10 @@ Glande amphicrine mixte endocrine et exocrine.
 Selon la morphologie du canal excréteur et de la portion sécrétrice des
 glandes :
 
--   Simple Acineuse Composée
-
--   Simple
-
--   Acineuse
-
--   Composée
+* Simple Acineuse Composée
+* Simple
+* Acineuse
+* Composée
 
 GLANDE SIMPLE : Une seule portion sécrétrice, glande tubuleuse (tube)
 simple, glande tubuleuse simple contournée et la glande tubuleuse
