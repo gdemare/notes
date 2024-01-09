@@ -165,3 +165,13 @@ L'ADH est une hormone sécrété au niveau de l'hypothalamus appelée
 hormone antidiurétique. Une augmentation de sa concentration augmente l'absorption d'eau au niveau des reins. L'alcool agit comme un inhibiteur de cette hormone.
 
 Diurétique substance qui augmente le volume d'urine expulsé.
+
+
+#### Molécule tampons du corps
+
+Tampon                  | Formule brute | Eliminé       | Autre
+------------------------|---------------|---------------|----------
+Phosphate inorganique   |               | Urine         | Présent dans le sang et stocké dans les os.
+Bicarbonate             |               | Respiration   |
+
+Dans le cas où les systèmes tampons précédent ne sont pas suffisant, l'organisme utilise les groupements ionisables des protéines avec un pKa entre 4-5 et 9-10.

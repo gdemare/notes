@@ -61,10 +61,8 @@ nav:
   - Biologie :
     - "Biochimie et biomol" :
       - "Biomolécules simples" :
-        - "Panorama" : biologie/biochimie/biomolecules.md
+        - "Panorama" : biologie/biochimie/introduction-biochimie.md
         - "Lipides" : biologie/biochimie/lipides.md
-        - "Métabolites" : biologie/biochimie/metabolites.md
-        - "Métabolisme" : biologie/biochimie/metabolisme.md
         - "Sucres" : biologie/biochimie/sucres.md
       - "ADN et ARN" :
         - "ADN et ARN" : biologie/biochimie/ADN-ARN.md
@@ -72,9 +70,11 @@ nav:
         - "Etude ARN ADN" : biologie/methodes-techniques/etude_acide_nucleique.md
         - "PCR" : biologie/methodes-techniques/etude_pcr.md
       - "Métabolisme" :
-        - "Réactivité chimique en biologie" : biologie/biochimie/reactivite-chimique-biologie.md
-        - "Photosynthèse" : biologie/biochimie/photosynthese.md
+        - "Introduction au métabolisme" : biologie/biochimie/introduction-metabolisme.md
+        - "Respiration et fermentation" : biologie/biochimie/respiration-fermentation.md
         - "Métabolisme secondaire" : biologie/biochimie/metabolisme-secondaire.md
+        - "Photosynthèse" : biologie/biochimie/photosynthese.md
+        - "Réactivité chimique en biologie" : biologie/biochimie/reactivite-chimique-biologie.md
       - "Protéines" :
         - "Généralités": biologie/biochimie/proteines.md
         - "Enzymes" : biologie/biochimie/enzymes.md
@@ -88,7 +88,7 @@ nav:
         - "Tissu épithélial" : biologie/histologie/tissu-epithelial.md
         - "Tissu musculaire" : biologie/histologie/tissu-musculaire.md
         - "Tissu nerveux" : biologie/histologie/tissu-nerveux.md
-      - "Oganisation cellulaire" :
+      - "Organisation cellulaire" :
         - "Organisation cellulaire" : biologie/cellule/organisation/organisation-cellulaire.md
         - "Cytosquelette" : biologie/cellule/organisation/cytosquelette.md
         - "MEC et jonctions cellulaires" : biologie/cellule/organisation/mec-jonctions-cellulaires.md
