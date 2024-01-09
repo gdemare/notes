@@ -1,3 +1,182 @@
+# Cytosquelette
+
+Le cytosquelette joue un rôle dans :
+
+-   Le déplacement cellulaire
+
+    -   Intercellulaire des organites.
+
+    -   Mouvement cellulaire
+
+```{=html}
+<!-- -->
+```
+-   Organisation de la cellule
+
+    -   Soutien et maintien de la forme de la cellule
+
+    -   Point d'ancrage aux éléments
+
+-   Activité cellulaire
+
+    -   Séparation des chromosomes.
+
+Le cytosquelette est un ensemble de polymères protéiques dont on
+distingue trois catégories en fonction de leur épaisseur
+
+| Microtubules | Filaments intermédiaires | Microfilaments |
+|--------------|--------------------------|----------------|
+| Épais        | Moyen                    | Fin            |
+| 25 nm        | 8 à 12 nm                | 7 nm           |
+
+Contrairement au squelette osseux, le squelette cellulaire évolue au
+cours de la vie de la cellule. Il se monte et se démonte.
+
+## Microtubules
+
+### Fonctions principales
+
+-   Maintien de la forme cellulaire (charpente résistante à la
+    compression)
+
+-   Mobilité cellulaire (ils sont l'une des composantes des cils et des
+    flagelles)
+
+-   Séparation des chromosomes lors de la division cellulaire. Ils sont
+    responsables de la formation du fuseau mitotique durant la mitose.
+
+-   Utilisé par les organites pour se déplacer dans la cellule via des
+    protéines motrices.
+
+### Structure
+
+|                               |                                                  |
+|------------------------------------|------------------------------------|
+| Cylindres creux diamètre 25nm | Longueur de 200nm 25um (longueur de la cellule). |
+
+Composition : la tubuline (protéine structurale) alpha et beta.
+
+L'agencement des molécules créé deux extrémités différentes. L'extrémité
+plus accumule et libère jusqu'à 4 fois plus rapidement les éléments que
+celle moins.
+
+Centrosome centre organisateur des microtubules.
+
+La polymérisation de la tubuline se fait par la fixation de GTP qui sera
+hydrolysé en GDP pour être dépolymérisé.
+
+### Maps (microtubule associates proteins)
+
+Deux complexes protéiques se déplacent le long des filaments d'actine :
+
+|                      |                      |
+|----------------------|----------------------|
+| Vers le -- (dynéine) | Vers le + (kinésine) |
+
+Ils permettent l'accrochage et le déplacement des vésicules dans le
+cytosol.
+
+La kinésine se déplace en hydrolysant de l'ATP. Elle est impliquée pour
+stabiliser les microtubules polaires au niveau de leurs extrémités «
+plus ».
+
+Les dynéines sont responsables de la fixation des microtubules astraux à
+la membrane plasmique.
+
+## Filaments intermédiaires
+
+Les filaments intermédiaires sont les plus stables et dépendent du type
+cellulaire.
+
+### Fonctions principales
+
+-   Maintien de la forme cellulaire (éléments supportant la tension)
+
+-   Fixation du noyau et de certains organites
+
+-   Formation de la lamina nucléaire
+
+### Structure
+
+Diverses protéines fibreuses de forme allongées qui s'enroulent pour
+former un gros câble (ou une superhélice). Les principales protéines de
+filaments intermédiaires sont : la kératine, la vimentine, le
+neurofilament et les lamines.
+
+Kératines
+
+-   1 monomère associé en dimère.
+
+-   2 dimères
+
+-   4 associés en termère tête bèche
+
+-   En huit filaments
+
+Lamina
+
+Elle est composée de trois types de protéines (lamine a, b et c) qui se
+présente sous la forme d\'un diamètre de 5nm.
+
+La phosphorisation des lamines provoquent la dépolymérisation et la
+disparition de l'enveloppe nucléaire.
+
+## Microfilaments
+
+L'actine représente 10% des protéines des cellules.
+
+### Fonctions principales
+
+-   Maintien de la forme cellulaire (éléments supportant la tension)
+
+-   Modification de la forme cellulaire
+
+-   Contraction musculaire
+
+-   Cyclose motilité cellulaire (au moment de la formation des
+    pseudopodes, des microfilaments d'actine aidés de filaments de
+    myosine poussent le cytoplasme contre la membrane plasmique et
+    déplacent ainsi la cellule)
+
+```{=html}
+<!-- -->
+```
+-   Formation du sillon de division cellulaire (Cytocinèse ou
+    cytodiérèse)
+
+### Structure
+
+L'actine est présente sous deux formes dans la cellule :
+
+|                              |                                          |
+|------------------------------|------------------------------------------|
+| Monomère (actine Globulaire) | Polymère = filament (actine Fibrillaire) |
+
+Le diamètre de l'actine F est d'environ 5 à 7nm. 
+
+L'actine F est constitué de deux brins entortillés, chacun étant un
+polymère de sous-unités d'actine G
+
+![](media/image21.jpeg){width="2.0576924759405073in"
+height="1.9683005249343832in"}Le monomère d'actine est stabilisé par
+l'association à un nucléotide (l'ATP ou l'ADP).
+
+C'est hydrolyse de l'ATP qui affaibli les liaisons entre les molécules
+d'actine et provoque la dépolymérisation.
+
+In vitro, la vitesse de polymérisation à l'extrémité « + » d'un filament
+d'actine est trois fois supérieure à celle de l'extrémité « - ». 
+
+### Protéines associées aux filaments d'actine
+
+La myosine II est une protéine motrice associée aux filaments d'actine.
+
+Deux myosines peuvent s'associer pour former un tétramère. En
+hydrolysant elles pourront provoquer un glissement à l'origine du
+déplacement cellulaire chez certaines bactéries.
+
+--------
+
 Rappel : une protéine dispose d'une extrémité NH notée N-ter et COOH notée C-ter.
 
 Tous les moteurs moléculaires nécessitent de l'ATP pour fonctionner. Ils sont formés de chaines :

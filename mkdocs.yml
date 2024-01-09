@@ -64,6 +64,7 @@ nav:
         - "Panorama" : biologie/biochimie/biomolecules.md
         - "Lipides" : biologie/biochimie/lipides.md
         - "Métabolites" : biologie/biochimie/metabolites.md
+        - "Métabolisme" : biologie/biochimie/metabolisme.md
         - "Sucres" : biologie/biochimie/sucres.md
       - "ADN et ARN" :
         - "ADN et ARN" : biologie/biochimie/ADN-ARN.md
@@ -81,25 +82,34 @@ nav:
     - Bioinformatique :
       - "Séquençage" : biologie/bioinformatique/alignement-sequence.md
     - "Cellule et tissus" :
-      - "Structure et fonctions" :
-        - "Structure et fonctions" : biologie/physiologie-animale/structure-fonction-principes.md
-        - "Histologie" : biologie/physiologie-animale/histologie.md
+      - "Histologie" :
+        - "Histologie" : biologie/histologie/histologie.md
+        - "Tissu conjonctif" : biologie/histologie/tissu-conjonctif.md
+        - "Tissu épithélial" : biologie/histologie/tissu-epithelial.md
+        - "Tissu musculaire" : biologie/histologie/tissu-musculaire.md
+        - "Tissu nerveux" : biologie/histologie/tissu-nerveux.md
+      - "Oganisation cellulaire" :
+        - "Organisation cellulaire" : biologie/cellule/organisation/organisation-cellulaire.md
+        - "Cytosquelette" : biologie/cellule/organisation/cytosquelette.md
+        - "MEC et jonctions cellulaires" : biologie/cellule/organisation/mec-jonctions-cellulaires.md
+        - "Membrane plasmique" : biologie/cellule/organisation/membrane-plasmique.md
+        - "Noyau" : biologie/cellule/organisation/noyau.md
+        - "Organites" : biologie/cellule/organisation/organites.md
+        - "Système endomembranaire" : biologie/cellule/organisation/systeme-endomembranaire.md
       - "Biologie cellulaire" :
         - "Communication cellulaire" : biologie/cellule/communication-cellulaire.md
         - "Cycle cellulaire" : biologie/cellule/cycle-cellulaire.md
-        - "Cytosquelette" : biologie/cellule/cytosquelette.md
         - "Mort cellulaire" : biologie/cellule/mort-cellulaire.md
-        - "Matrice extracellulaire et jonctions cellulaires" : biologie/cellule/matrice-extracellulaire-jonctions-cellulaires.md
-        - "Organisation cellulaire" : biologie/cellule/organisation-cellulaire.md
         - "Potentiel cellulaire" : biologie/cellule/potentiel-cellulaire.md
         - "Régulation de l'expression génétique" : biologie/cellule/regulation-expression-genique.md
       - "Physologie animale" :
+        - "Structure et fonctions" : biologie/physiologie-animale/structure-fonction-principes.md
         - "Comportement" : biologie/physiologie-animale/comportement.md
         - "Nutrition" : biologie/physiologie-animale/nutrition-animaux.md
         - "Immunologie" : biologie/physiologie-animale/immunologie.md
         - "Muscle" : biologie/physiologie-animale/muscle.md
         - "Neurologie" : biologie/physiologie-animale/neurobiologie.md
-        - "Osmorégulation et excrétion" : biologie/cellule/osmoregulation-excretion.md
+        - "Osmorégulation et excrétion" : biologie/physiologie-animale/osmoregulation-excretion.md
         - "Système endorinien" : biologie/physiologie-animale/systeme-endocrinien.md
         - "Système nerveux" : biologie/physiologie-animale/systeme-nerveux.md
       - "Procaryotes et virus" :
@@ -156,7 +166,7 @@ nav:
         - ANOVA : data-science/models/classification/ANOVA.md
         - "Carte auto adaptative" : data-science/models/classification/carte-auto-adaptative.md
         - "Espérance maximale" : data-science/models/classification/espérance-maximisation.md
-        - "Régression linéaire" : data-science/models/classification/regression-lineaire.md
+        - "Régression linéaire" : data-science/models/regression/regression-lineaire.md
         - "SVM" : data-science/models/classification/SVM.md
       - "Réseaux de neurones" :
         - "Réseaux de neurones" : data-science/models/reseaux-neurones/reseaux-neurones.md
