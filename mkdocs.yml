@@ -60,7 +60,7 @@ extra_javascript:
 nav:
   - Biologie :
     - "Biochimie et biomol" :
-      - "Biomolécules simples" :  
+      - "Biomolécules simples" :
         - "Panorama" : biologie/biochimie/biomolecules.md
         - "Lipides" : biologie/biochimie/lipides.md
         - "Métabolites" : biologie/biochimie/metabolites.md
@@ -70,10 +70,11 @@ nav:
         - "Synthèse ADN et ARN " : biologie/cellule/ADN-ARN-synthese.md
         - "Etude ARN ADN" : biologie/methodes-techniques/etude_acide_nucleique.md
         - "PCR" : biologie/methodes-techniques/etude_pcr.md
-      - "Métabolisme" :  
+      - "Métabolisme" :
         - "Réactivité chimique en biologie" : biologie/biochimie/reactivite-chimique-biologie.md
-        - "Photosynthèse et métabolisme secondaire" : biologie/metabolisme/photosynthese-metabolisme-secondaire.md
-      - "Protéines" : 
+        - "Photosynthèse" : biologie/biochimie/photosynthese.md
+        - "Métabolisme secondaire" : biologie/biochimie/metabolisme-secondaire.md
+      - "Protéines" :
         - "Généralités": biologie/biochimie/proteines.md
         - "Enzymes" : biologie/biochimie/enzymes.md
         - "Etude des protéines" : biologie/methodes-techniques/etude_proteines.md
@@ -87,16 +88,18 @@ nav:
         - "Communication cellulaire" : biologie/cellule/communication-cellulaire.md
         - "Cycle cellulaire" : biologie/cellule/cycle-cellulaire.md
         - "Cytosquelette" : biologie/cellule/cytosquelette.md
+        - "Mort cellulaire" : biologie/cellule/mort-cellulaire.md
         - "Matrice extracellulaire et jonctions cellulaires" : biologie/cellule/matrice-extracellulaire-jonctions-cellulaires.md
         - "Organisation cellulaire" : biologie/cellule/organisation-cellulaire.md
+        - "Potentiel cellulaire" : biologie/cellule/potentiel-cellulaire.md
         - "Régulation de l'expression génétique" : biologie/cellule/regulation-expression-genique.md
       - "Physologie animale" :
-        - "Physologie cellule animale" : biologie/physiologie-animale/physiologie-cellule-animale.md
         - "Comportement" : biologie/physiologie-animale/comportement.md
         - "Nutrition" : biologie/physiologie-animale/nutrition-animaux.md
         - "Immunologie" : biologie/physiologie-animale/immunologie.md
+        - "Muscle" : biologie/physiologie-animale/muscle.md
         - "Neurologie" : biologie/physiologie-animale/neurobiologie.md
-        - "Osmorégulation et excrétion" : biologie/physiologie-animale/osmoregulation-excretion.md
+        - "Osmorégulation et excrétion" : biologie/cellule/osmoregulation-excretion.md
         - "Système endorinien" : biologie/physiologie-animale/systeme-endocrinien.md
         - "Système nerveux" : biologie/physiologie-animale/systeme-nerveux.md
       - "Procaryotes et virus" :
@@ -141,36 +144,36 @@ nav:
       - "Transformation des données" : data-science/transformation-donnees.md
     - "Modèles" :
       - "Classification" :
-        - "Classification" : data-science/classification/classification.md
-        - "Arbre de décision" : data-science/classification/arbre-de-décision.md
-        - "Centroides" : data-science/classification/centroide.md
-        - "Classificateur baysien" : data-science/classification/classificateur-baysien.md
-        - "Forêt aléatoire" : data-science/classification/forêt-aléatoire.md
-        - "Perceptron" : data-science/classification/perceptron.md
-        - "Régression logistique" : data-science/classification/regression-logistique.md
+        - "Classification" : data-science/models/classification/classification.md
+        - "Arbre de décision & forêt aléatoire" : data-science/models/classification/arbre-de-décision.md
+        - "Centroides" : data-science/models/classification/centroide.md
+        - "Classificateur baysien" : data-science/models/classification/classificateur-baysien.md
+        - "Perceptron" : data-science/models/classification/perceptron.md
+        - "Régression logistique" : data-science/models/classification/regression-logistique.md
       - "Régression" :
-        - "Régression" : data-science/classification/regression.md
-        - ANOVA : data-science/classification/ANOVA.md
-        - "Carte auto adaptative" : data-science/classification/carte-auto-adaptative.md
-        - "Espérance maximale" : data-science/classification/espérance-maximisation.md
-        - "Régression linéaire" : data-science/classification/regression-lineaire.md
-        - "SVM" : data-science/classification/SVM.md
+        - "Régression" : data-science/models/regression/regression.md
+        - "Régression" : data-science/models/regression/regression-lineaire.md
+        - ANOVA : data-science/models/classification/ANOVA.md
+        - "Carte auto adaptative" : data-science/models/classification/carte-auto-adaptative.md
+        - "Espérance maximale" : data-science/models/classification/espérance-maximisation.md
+        - "Régression linéaire" : data-science/models/classification/regression-lineaire.md
+        - "SVM" : data-science/models/classification/SVM.md
       - "Réseaux de neurones" :
-        - "Réseaux de neurones" : data-science/reseaux-neurones/reseaux-neurones.md
-        - "Couches convulsives" : data-science/reseaux-neurones/couche-convulsive.md
+        - "Réseaux de neurones" : data-science/models/reseaux-neurones/reseaux-neurones.md
+        - "Couches convulsives" : data-science/models/reseaux-neurones/couche-convulsive.md
       - Optimisation : 
-        - "Boosting" : data-science/classification/boosting.md      
+        - "Boosting" : data-science/models/improvement-methods/boosting.md      
       - "Série temporelle" :
-        - "Série temporelle" : data-science/serie-temporelle.md
-        - "ARMA" : data-science/classification/ARMA.md
-        - "Lissage exponentiel" : data-science/classification/lissage-exponentiel.md
+        - "Série temporelle" : data-science/models/time-series/serie-temporelle.md
+        - "ARMA" : data-science/models/time-series/ARMA.md
+        - "Lissage exponentiel" : data-science/models/time-series/lissage-exponentiel.md
     - "Descriptions des données" :
       - Cluestering : 
-        - Cluestering : data-science/cluestering/cluestering.md
-        - "Cluestering des variables" : data-science/classification/clustering-variables.md
-        - "CAH" : data-science/cluestering/CAH.md
-        - "CFH" : data-science/cluestering/CDH.md
-        - "Centres mobiles" : data-science/cluestering/centres-mobiles.md
+        - Cluestering : data-science/clustering/cluestering.md
+        - "Cluestering des variables" : data-science/clustering/clustering-variables.md
+        - "CAH" : data-science/clustering/CAH.md
+        - "CFH" : data-science/clustering/CDH.md
+        - "Centres mobiles" : data-science/clustering/centres-mobiles.md
       - "Réduction de dimensions" :
         - "Réduction de dimensions" : data-science/reduction-dimensions/reduction-dimension.md
         - ACM : data-science/reduction-dimensions/ACM.md
@@ -180,35 +183,35 @@ nav:
         - "Positionnement multidimensionnel" : data-science/reduction-dimensions/positionnement-multidimensionnel.md
   - Mathématique :
     - "Symboles et notation" : mathematique/mathematique.md
-    - Algèbre :
-      - Matrice : mathematique/matrice.md
-    - Analyse :
-      - "Ajustement" : mathematique/ajustements-modeles.md
-      - "Optimisation" : mathematique/optimisation.md
-      - "Algorithmie" :  mathematique/algorithmique.md
-      - "Fonctions" :
-        - "Equation différentielle" : mathematique/equation-differentielle.md
-        - "Définition, dérivé, primitive, limite" : mathematique/definition-derives-primitives-limites.md
-        - "Fonctions remarquables" : mathematique/fonctions-remarquables.md
     - Arithmétique :  mathematique/arithmetique.md
     - Geométrie :  mathematique/geometrie.md
+    - Matrice : mathematique/matrice.md
+    - Analyse :
+      - "Optimisation" : mathematique/analyse/optimisation.md
+      - "Algorithmie" :  mathematique/analyse/algorithmique.md
+      - "Fonctions" :
+        - "Equation différentielle" : mathematique/analyse/equation-differentielle.md
+        - "Définition, dérivé, primitive, limite" : mathematique/analyse/definition-derives-primitives-limites.md
+        - "Fonctions remarquables" : mathematique/analyse/fonctions-remarquables.md
     - "Statistique" : 
-      - Probabilité : mathematique/probabilite.md
+      - Probabilité : mathematique/statistique/probabilite.md
       - Statistique : 
-        - Statistique : mathematique/statistique.md
-        - Graphique : data-science/graphiques.md
-        - "Tests statistiques" : mathematique/tests-statistiques.md
-      - "Probabilité et statistique" : mathematique/probabilite-statistique.md
+        - Statistique : mathematique/statistique/statistique.md
+        - Graphique : mathematique/statistique/graphiques.md
+        - "Tests statistiques" : mathematique/statistique/tests-statistiques.md
+      - "Probabilité et statistique" : mathematique/statistique/probabilite-statistique.md
   - 'Physique Chimie' :
     - "Unité" :  physique-chimie/unites.md
     - Chimie :
       - "Cinétique" : physique-chimie/chimie/cinetique.md
-      - Thermodynamique : physique-chimie/chimie/thermodynamique.md
+      - Thermodynamique : 
+        - Thermodynamique : physique-chimie/chimie/thermodynamique.md
+        - "Acide-base" : physique-chimie/chimie/acide-base.md
     - Physique :
       - Physique : physique-chimie/physique/physique.md
       - Optique : physique-chimie/physique/optique.md
   - Autres :
-    - Anglais : 
+    - Anglais :
       - Conjugaison : anglais/conjugaison.md
       - Grammaire : anglais/grammaire.md
       - "Ortographe et vocabulaire" : anglais/ortographe-vocabulaire.md

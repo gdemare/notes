@@ -1,7 +1,5 @@
 La "classification" (anglais) est un ensemble de méthodes qui permet de prédire une variable qualitative appelée classe.
 
-
-
 ## Méthodes
 
 * Classificateur binaire :
