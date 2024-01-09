@@ -82,6 +82,7 @@ nav:
     - Bioinformatique :
       - "Séquençage" : biologie/bioinformatique/alignement-sequence.md
     - "Cellule et tissus" :
+      - "Structure et fonctions" : biologie/structure-fonction-principes.md
       - "Histologie" :
         - "Histologie" : biologie/histologie/histologie.md
         - "Tissu conjonctif" : biologie/histologie/tissu-conjonctif.md
@@ -103,7 +104,6 @@ nav:
         - "Potentiel cellulaire" : biologie/cellule/potentiel-cellulaire.md
         - "Régulation de l'expression génétique" : biologie/cellule/regulation-expression-genique.md
       - "Physologie animale" :
-        - "Structure et fonctions" : biologie/physiologie-animale/structure-fonction-principes.md
         - "Comportement" : biologie/physiologie-animale/comportement.md
         - "Nutrition" : biologie/physiologie-animale/nutrition-animaux.md
         - "Immunologie" : biologie/physiologie-animale/immunologie.md
