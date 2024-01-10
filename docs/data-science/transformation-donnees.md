@@ -1,8 +1,8 @@
 ## Imputer les valeurs manquantes 
 
-* Espérance-maximisation (EM) 
-* K-voisin le plus proche (KNN) 
-* Moyenne, médiane
+* Espérance-maximisation (EM).
+* K-voisin le plus proche (KNN).
+* Moyenne, médiane.
 
 ## Standariser les données
 

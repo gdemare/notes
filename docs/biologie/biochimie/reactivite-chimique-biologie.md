@@ -8,42 +8,29 @@ Mésoméries, on parle de :
 
 Deux types de charges
 
-|                                   |           |
-|-----------------------------------|-----------|
-| Partielle noté $\mathbf{\delta}$. | Formelle. |
+* Partielle noté $\delta$.
+* formelle.
 
-[Rmq :]{.underline} une charge partielle est toujours inférieure à celle
-d'un électron. Elle correspond à un déséquilibre dans la répartition des
-électrons dans une molécule.
+Une charge partielle est toujours inférieure à celle d'un électron. Elle correspond à un déséquilibre dans la répartition des électrons dans une molécule.
 
-Force motrice étape irréversible qui permet de favoriser la réaction
-dans un sens. Par exemple, lorsqu'une réaction produit un gaz c'est à
-dire la production d'une molécule qui quitte le système.
+Force motrice étape irréversible qui permet de favoriser la réaction dans un sens. Par exemple, lorsqu'une réaction produit un gaz c'est à dire la production d'une molécule qui quitte le système.
 
 Électronégativité entre deux atomes :
 $\left| |u| \right| = \delta \times d$
 
 ### Réaction d'oxydo-réduction
 
-Réducteur (par opposition à l'oxydant) atome capable de céder un ou
-plusieurs électrons.
+__Réducteur__ (par opposition à l'oxydant) atome capable de céder un ou plusieurs électrons.
 
-Degré d'oxydation différence d'électrons autour de l'atome.
+__Degré d'oxydation__ différence d'électrons autour de l'atome.
 
-[Rmq :]{.underline} pour les ions, le degré d'oxydation nombre
-d'électrons (exemple : Fe^3+^ a un degré d'oxydation d'ordre 3).
+Pour les ions, le degré d'oxydation nombre d'électrons (exemple : Fe^3+^ a un degré d'oxydation d'ordre 3).
 
-La différence d'électronégativité minimum pour que l'atome récupère
-l'électron de l'atome voisin est de \>0,5 ($\mathrm{\Delta}\chi > 0,5$
-).
+La différence d'électronégativité minimum pour que l'atome récupère l'électron de l'atome voisin est de \>0,5 ($\Delta \chi > 0,5$ ).
 
-Tautomérie réaction acide base intra-intramoléculaire. Elle a lieu
-uniquement entre les atomes formant quatre liaisons. 
+Tautomérie réaction acide base intra-intramoléculaire. Elle a lieu uniquement entre les atomes formant quatre liaisons. 
 
-Prototrophie réaction acido-basique intra moléculaire qui fait
-intervenir un intermédiaire réactionnel. Elle est souvent représentée
-comme une réaction de tautomérie (le mécanisme ne fait pas apparaitre
-l'intermédiaire).
+Prototrophie réaction acido-basique intra moléculaire qui fait intervenir un intermédiaire réactionnel. Elle est souvent représentée comme une réaction de tautomérie (le mécanisme ne fait pas apparaitre l'intermédiaire).
 
 Transposition déplacement d'une partie de la molécule.
 
@@ -51,21 +38,17 @@ Transposition déplacement d'une partie de la molécule.
 
 La dissolution dépend de deux phénomènes :
 
--   La solvatation de l'espèce chimique
-
--   La stabilisation des espèces formées. Le nombre de molécules autour
-    des ions dépend de leur taille et de leur charge.
+* La solvatation de l'espèce chimique
+* La stabilisation des espèces formées. Le nombre de molécules autour des ions dépend de leur taille et de leur charge.
 
 ### Les types de catalyseurs
 
 Les catalyseurs sont classés en fonction de la solubilité :
 
-|                    |                          |
-|--------------------|--------------------------|
-| Homogène (soluble) | Hétérogène (non soluble) |
+* Homogène (soluble)
+* Hétérogène (non soluble)
 
-Composé de coordination molécule qui possède comme atome central un
-cation ou un métal.
+__Composé de coordination__ molécule qui possède comme atome central un cation ou un métal.
 
 Tableau périodique des atomes les plus présent en biologie :
 
@@ -289,44 +272,27 @@ pKa des groupements (à connaitre par cœur)
 
 ## Résumé
 
-La chimie biologique consiste à créer ou détruire des liaisons
-carbones-carbones. Comme les milieux biologiques possèdent une
-température et un pH stable. Les décarboxylations ne peuvent pas avoir
-lieu spontanément (pKa 45) ou en chauffant. L'astuce utilisée par le
-vivant est de diminuer les pKa des liaisons carbones par l'ajout
-d'oxygènes.
+La chimie biologique consiste à créer ou détruire des liaisons carbones-carbones. Comme les milieux biologiques possèdent une température et un pH stable. Les décarboxylations ne peuvent pas avoir lieu spontanément (pKa 45) ou en chauffant. L'astuce utilisée par le vivant est de diminuer les pKa des liaisons carbones par l'ajout d'oxygènes.
 
-Une molécule plane conserve son énergie en les mouvements des atomes les
-uns par rapport aux autres.
+Une molécule plane conserve son énergie en les mouvements des atomes les uns par rapport aux autres.
 
 « Un riche attaque un pauvre » un atome riche en électron attaque à un
 atome pauvre.
 
-« Un mou càd avec un atome avec plusieurs couches électroniques partira
-plus difficilement, il sera moins nucléofuge, qu'un atome dur ». Le mou
-est capable de moduler son nuage électronique, il est facilement
-polarisable.
+« Un mou càd avec un atome avec plusieurs couches électroniques partira plus difficilement, il sera moins nucléofuge, qu'un atome dur ». Le mou est capable de moduler son nuage électronique, il est facilement polarisable.
 
-*Exemple : le thiol (S) est un bon électrophile mais un mauvais
-nucléofuge (groupe partant). On le retrouve à pH physiologique à la fois
-sous la forme S^-^ et SH.*
+!!! example
+    Le thiol (S) est un bon électrophile mais un mauvais nucléofuge (groupe partant). On le retrouve à pH physiologique à la fois sous la forme S^-^ et SH.*
 
 ## Les mécanismes élémentaires
 
 Les noms des principaux mécanismes à connaitre :
 
--   Addition nucléophile (on peut avoir de l'addition électrophile dans
-    le cas des terpènes).
-
--   Addition conjugué (ou addition de Michael) C'est une double liaison
-    qui s'ouvre pour se lier à l'autre molécule.
-
--   Transposition déplacement d'un groupe ou d'un atome au sein de la
-    molécule.
-
--   Élimination
-
--   Acide base
+* Addition nucléophile (on peut avoir de l'addition électrophile dans le cas des terpènes).
+* Addition conjugué (ou addition de Michael) C'est une double liaison qui s'ouvre pour se lier à l'autre molécule.
+* Transposition déplacement d'un groupe ou d'un atome au sein de la molécule.
+* Élimination
+* Acide base
 
 Mécanismes spécialisée :
 
@@ -335,7 +301,7 @@ Mécanismes spécialisée :
 | H~2~O      | Hydratation                   |
 | CO~2~      | Carboxylation                 |
 
-Hydrolyse coupure d'une molécule par une molécule d'eau.
+__Hydrolyse__ coupure d'une molécule par une molécule d'eau.
 
 ## Les terpènes
 
@@ -453,5 +419,3 @@ La réaction prend la forme suivante :
 
 ![](media/image28.jpeg){width="2.8854166666666665in"
 height="0.851434820647419in"}
-
-# Cinétique 

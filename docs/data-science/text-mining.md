@@ -1,13 +1,21 @@
-Fouille de texte
+Les méthodes de text mining permettent d'étudier des textes en les projectant dans un espace vectoriel.
+Cela permet de connaitre la proximité entre les textes et peut servir notamment à : 
 
-élimine les termes communs (le, la, pour, si)
-Inverse Document Frequency (IDF) 
-$\log \frac{N}{n}$
-n nbre de documents où le terme apparait.
-N nbre de documents
+* Identifer des auteurs.
 
-corpus ensemble de textes.
-Terme communs utilisé un corpus (ensemble de document) spécifique à un document
-projection des textes sur un espace vectoriel permet de connaitre la proximité entre les textes. 
+__Corpus__ ensemble de textes.
 
-Exemple d'applications : identifer des auteurs,
+__Termes communs__ mots utilisé un corpus (ensemble de document) spécifique à un document
+
+## Projet
+
+1. Eliminer les termes communs (le, la, pour, si).
+
+## Indicateurs
+
+Inverse Document Frequency (IDF) $\log \frac{N}{n}$
+
+Avec :
+
+* $n$ nbre de documents où le terme apparait.
+* $N$ nbre de documents.

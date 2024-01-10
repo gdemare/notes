@@ -162,7 +162,7 @@ nav:
         - "Régression logistique" : data-science/models/classification/regression-logistique.md
       - "Régression" :
         - "Régression" : data-science/models/regression/regression.md
-        - "Régression" : data-science/models/regression/regression-lineaire.md
+        - "Régression linéaire" : data-science/models/regression/regression-lineaire.md
         - ANOVA : data-science/models/classification/ANOVA.md
         - "Carte auto adaptative" : data-science/models/classification/carte-auto-adaptative.md
         - "Espérance maximale" : data-science/models/classification/espérance-maximisation.md
@@ -186,9 +186,8 @@ nav:
         - "Centres mobiles" : data-science/clustering/centres-mobiles.md
       - "Réduction de dimensions" :
         - "Réduction de dimensions" : data-science/reduction-dimensions/reduction-dimension.md
-        - ACM : data-science/reduction-dimensions/ACM.md
-        - ACP : data-science/reduction-dimensions/ACP.md
-        - AFC : data-science/reduction-dimensions/AFC.md
+        - "AFC et ACM" : data-science/reduction-dimensions/AFC-ACM.md
+        - "ACP" : data-science/reduction-dimensions/ACP.md
         - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
         - "Positionnement multidimensionnel" : data-science/reduction-dimensions/positionnement-multidimensionnel.md
   - Mathématique :

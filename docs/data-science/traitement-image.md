@@ -1,5 +1,3 @@
-## Traitement d'histogramme
-
 L'histogramme d'une image représente la distribution des couleurs.
 Généralement, une image plaisante aura un histogramme de proche d'une fonction plate. Les couleurs seront réparties de façon égale.
 
