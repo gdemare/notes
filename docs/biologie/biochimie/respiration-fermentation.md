@@ -195,9 +195,10 @@ deux types de fermentation :
 |                                                                                 |                                                         |
 |-------------------------------------|-----------------------------------|
 | Alcoolique qui produit de l'éthanol.                                            | Lactique qui produit du lactate.                        |
-| $$C_{3}H_{3}O_{3}^{-} \rightarrow C_{2}H_{4}O + - CO_{2} \rightarrow CH_{5}OH$$ | $$C_{3}H_{3}O_{3}^{-} \rightarrow C_{3}H_{5}O_{3}^{-}$$ |
+| $$C_3 H_3O_3^- \rightarrow C_2 H_4O + - CO_2 \rightarrow CH_5 OH$$ | $C_3H_3O_3^- \rightarrow C_3 H_5O_
+3^-$$ |
 
-Dans la fermentation alcoolique, le pyruvate libère deux CO~2~ avant d'être réduit contrairement à la fermentation lactique où il directement réduit.
+Dans la fermentation alcoolique, le pyruvate libère de,mux CO~2~ avant d'être réduit contrairement à la fermentation lactique où il directement réduit.
 
 Effet de Crabtree : La concentration de glucose régule les enzymes de la respiration. Lorsqu'elle est trop élevée, ces dernières sont inhibées. C'est notamment le cas pour les levures. C'est ce phénomène qui est exploité dans la vinification lorsque le raisin est cueilli bien mur pour être riche en sucre.
 
