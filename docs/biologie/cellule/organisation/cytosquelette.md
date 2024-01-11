@@ -1,25 +1,16 @@
-# Cytosquelette
-
 Le cytosquelette joue un rôle dans :
 
--   Le déplacement cellulaire
+* Le déplacement cellulaire :
 
-    -   Intercellulaire des organites.
+    * Intercellulaire des organites.
+    * Mouvement cellulaire.
 
-    -   Mouvement cellulaire
+* Organisation de la cellule
 
-```{=html}
-<!-- -->
-```
--   Organisation de la cellule
+    * Soutien et maintien de la forme de la cellule
+    * Point d'ancrage aux éléments
 
-    -   Soutien et maintien de la forme de la cellule
-
-    -   Point d'ancrage aux éléments
-
--   Activité cellulaire
-
-    -   Séparation des chromosomes.
+* Activité cellulaire dans la séparation des chromosomes.
 
 Le cytosquelette est un ensemble de polymères protéiques dont on
 distingue trois catégories en fonction de leur épaisseur
@@ -36,49 +27,35 @@ cours de la vie de la cellule. Il se monte et se démonte.
 
 ### Fonctions principales
 
--   Maintien de la forme cellulaire (charpente résistante à la
-    compression)
-
--   Mobilité cellulaire (ils sont l'une des composantes des cils et des
-    flagelles)
-
--   Séparation des chromosomes lors de la division cellulaire. Ils sont
-    responsables de la formation du fuseau mitotique durant la mitose.
-
--   Utilisé par les organites pour se déplacer dans la cellule via des
-    protéines motrices.
+* Maintien de la forme cellulaire (charpente résistante à la compression).
+* Mobilité cellulaire (ils sont l'une des composantes des cils et des flagelles)
+* Séparation des chromosomes lors de la division cellulaire. Ils sont responsables de la formation du fuseau mitotique durant la mitose.
+* Utilisé par les organites pour se déplacer dans la cellule via des protéines motrices.
 
 ### Structure
 
-|                               |                                                  |
-|------------------------------------|------------------------------------|
-| Cylindres creux diamètre 25nm | Longueur de 200nm 25um (longueur de la cellule). |
+* Cylindres creux diamètre 25nm.
+* Longueur de 200nm 25um (longueur de la cellule).
 
 Composition : la tubuline (protéine structurale) alpha et beta.
 
-L'agencement des molécules créé deux extrémités différentes. L'extrémité
-plus accumule et libère jusqu'à 4 fois plus rapidement les éléments que
-celle moins.
+L'agencement des molécules créé deux extrémités différentes. L'extrémité plus accumule et libère jusqu'à 4 fois plus rapidement les éléments que celle moins.
 
-Centrosome centre organisateur des microtubules.
+__Centrosome__ centre organisateur des microtubules.
 
-La polymérisation de la tubuline se fait par la fixation de GTP qui sera
-hydrolysé en GDP pour être dépolymérisé.
+La polymérisation de la tubuline se fait par la fixation de GTP qui sera hydrolysé en GDP pour être dépolymérisé.
 
 ### Maps (microtubule associates proteins)
 
 Deux complexes protéiques se déplacent le long des filaments d'actine :
 
-|                      |                      |
-|----------------------|----------------------|
-| Vers le -- (dynéine) | Vers le + (kinésine) |
+* Vers le -- (dynéine)
+* Vers le + (kinésine).
 
-Ils permettent l'accrochage et le déplacement des vésicules dans le
-cytosol.
+Ils permettent l'accrochage et le déplacement des vésicules dans le cytosol.
 
 La kinésine se déplace en hydrolysant de l'ATP. Elle est impliquée pour
-stabiliser les microtubules polaires au niveau de leurs extrémités «
-plus ».
+stabiliser les microtubules polaires au niveau de leurs extrémités «plus ».
 
 Les dynéines sont responsables de la fixation des microtubules astraux à
 la membrane plasmique.
@@ -90,36 +67,26 @@ cellulaire.
 
 ### Fonctions principales
 
--   Maintien de la forme cellulaire (éléments supportant la tension)
-
--   Fixation du noyau et de certains organites
-
--   Formation de la lamina nucléaire
+* Maintien de la forme cellulaire (éléments supportant la tension)
+* Fixation du noyau et de certains organites
+* Formation de la lamina nucléaire
 
 ### Structure
 
-Diverses protéines fibreuses de forme allongées qui s'enroulent pour
-former un gros câble (ou une superhélice). Les principales protéines de
-filaments intermédiaires sont : la kératine, la vimentine, le
-neurofilament et les lamines.
+Diverses protéines fibreuses de forme allongées qui s'enroulent pour former un gros câble (ou une superhélice). Les principales protéines de filaments intermédiaires sont : la kératine, la vimentine, le neurofilament et les lamines.
 
 Kératines
 
--   1 monomère associé en dimère.
-
--   2 dimères
-
--   4 associés en termère tête bèche
-
--   En huit filaments
+* 1 monomère associé en dimère.
+* 2 dimères
+* 4 associés en termère tête bèche
+* En huit filaments
 
 Lamina
 
-Elle est composée de trois types de protéines (lamine a, b et c) qui se
-présente sous la forme d\'un diamètre de 5nm.
+Elle est composée de trois types de protéines (lamine a, b et c) qui se présente sous la forme d'un diamètre de 5nm.
 
-La phosphorisation des lamines provoquent la dépolymérisation et la
-disparition de l'enveloppe nucléaire.
+La phosphorisation des lamines provoquent la dépolymérisation et la disparition de l'enveloppe nucléaire.
 
 ## Microfilaments
 
@@ -127,22 +94,11 @@ L'actine représente 10% des protéines des cellules.
 
 ### Fonctions principales
 
--   Maintien de la forme cellulaire (éléments supportant la tension)
-
--   Modification de la forme cellulaire
-
--   Contraction musculaire
-
--   Cyclose motilité cellulaire (au moment de la formation des
-    pseudopodes, des microfilaments d'actine aidés de filaments de
-    myosine poussent le cytoplasme contre la membrane plasmique et
-    déplacent ainsi la cellule)
-
-```{=html}
-<!-- -->
-```
--   Formation du sillon de division cellulaire (Cytocinèse ou
-    cytodiérèse)
+* Maintien de la forme cellulaire (éléments supportant la tension)
+* Modification de la forme cellulaire
+* Contraction musculaire
+* Cyclose motilité cellulaire (au moment de la formation des pseudopodes, des microfilaments d'actine aidés de filaments de myosine poussent le cytoplasme contre la membrane plasmique et déplacent ainsi la cellule)
+* Formation du sillon de division cellulaire (Cytocinèse ou cytodiérèse)
 
 ### Structure
 
@@ -225,157 +181,109 @@ La tubuline a deux extrémités :
 
 L'extrémité C-ter est chargée négativement (glutamate). C'est généralement le lieu des interactions avec les protéines régulatrices qui viennent supprimer des charges.
 
-Il existe des variations de tubulines (isotopes) au sein des différents
-types de tubulines (isoformes). Les isotopes se différencient par la
-constitution et la structure de leur extrémité C-ter.
+Il existe des variations de tubulines (isotopes) au sein des différents types de tubulines (isoformes). Les isotopes se différencient par la constitution et la structure de leur extrémité C-ter.
 
 Isoformes : alpha, béta, gamma, etc.
 
 ### Polymérisation
 
-Deux dimères se lient en Alpha-béta par l'hydrolyse de GTP en GDP au
-niveau de l'extrémité Béta.
+Deux dimères se lient en Alpha-béta par l'hydrolyse de GTP en GDP au niveau de l'extrémité Béta.
 
-Tubule ATP et GTP hydrolyser pour la régulation par des protéines de
-régulation augmente l'instabilité
+Tubule ATP et GTP hydrolyser pour la régulation par des protéines de régulation augmente l'instabilité
 
 Régulation et organisation des microtubules
 
 ### Propriété des microtubules
 
-La dissymétrie du monomère se retrouve à l'échelle du microtubule. Elle
-confère au tout une propriété structurale de polarité fonctionnelle. La
-polymérisation a lieu principalement au niveau de la tubuline béta
-appelée extrémité + (par opposition à l'extrémité alpha appelé extrémité
--).
+La dissymétrie du monomère se retrouve à l'échelle du microtubule. Elle confère au tout une propriété structurale de polarité fonctionnelle. La polymérisation a lieu principalement au niveau de la tubuline béta appelée extrémité + (par opposition à l'extrémité alpha appelé extrémité -).
 
 ### Assemblage des protofilaments en microfilament
 
-Les microtubules sont formés de 13 protofilaments. Les interactions se
-font entre les tubulines du même type avec un décalage ce qui confère un
-aspect en spirale.
+Les microtubules sont formés de 13 protofilaments. Les interactions se font entre les tubulines du même type avec un décalage ce qui confère un aspect en spirale.
 
 ### Centrosome
 
-Les microtubules se déploient à partir d'une zone localisée dans la
-cellule appelée centrosome. Elle est formée de deux centrioles
-positionnés perpendiculairement et entourée d'un amas de protéines.
+Les microtubules se déploient à partir d'une zone localisée dans la cellule appelée centrosome. Elle est formée de deux centrioles positionnés perpendiculairement et entourée d'un amas de protéines.
 
-Centrosome centre organisateur des microtubules.\
-Un centriole est composé d'une épaisseur de tubuline gamma associée à
-des protéines de type GCPS. L'ensemble forme un complexe appelé
-gamma-TUSC. Au-dessus se trouve l'alternance des tubulines alpha et beta
-avec l'extrémité + dirigée vers l'extérieur de centrosome.
+__Centrosome__ centre organisateur des microtubules.\
 
-[Rmq :]{.underline} la tubuline gamma est impliquée dans la biogénèse
+Un centriole est composé d'une épaisseur de tubuline gamma associée à des protéines de type GCPS. L'ensemble forme un complexe appelé gamma-TUSC. Au-dessus se trouve l'alternance des tubulines alpha et beta avec l'extrémité + dirigée vers l'extérieur de centrosome.
+
+!!! note La tubuline gamma est impliquée dans la biogénèse
 des microtubules.
 
 ## Instabilité dynamique des microtubules. 
 
 La stabilité des microtubules dans le temps dépend :
 
-|                           |                                  |
-|---------------------------|----------------------------------|
-| De protéines régulatrices | De la concentration de tubulines |
+* De protéines régulatrices
+* De la concentration de tubulines.
 
-Certaines protéines agissent sur la construction ou la déconstruction
-des réseaux de microtubules en modifiant la probabilité de
-polymérisation ou de dépolymérisation. Elles peuvent être classées en
-deux catégories en fonction de si elle augmente ou diminue
-l'instabilité des microtubules.
+Certaines protéines agissent sur la construction ou la déconstruction des réseaux de microtubules en modifiant la probabilité de polymérisation ou de dépolymérisation. Elles peuvent être classées en deux catégories en fonction de si elle augmente ou diminue l'instabilité des microtubules.
 
-Sauvetage processus qui s'oppose à la dépolymérisation des microtubules
-et permet de revenir à une phase d'assemblage.
+__Sauvetage__ processus qui s'oppose à la dépolymérisation des microtubules et permet de revenir à une phase d'assemblage.
 
-[Rmq :]{.underline} Le rôle des protéines dépend des interactions avec
-d'autres protéines. Il peut changer au cours du temps.
+!!! note
+    Le rôle des protéines dépend des interactions avec d'autres protéines. Il peut changer au cours du temps.
 
 Exemples de protéines régulatrices stabilisatrices :
 
--   Protéines de type MAPS structurales ont une affinité qui diminue
-    avec l'augmentation du nombre de phosphorylations.
+* Protéines de type MAPS structurales ont une affinité qui diminue avec l'augmentation du nombre de phosphorylations.
+* TIPS interagissent avec l'extrémité +.
 
--   TIPS interagissent avec l'extrémité +.
-
-Par exemple, MAP2 et Tau structurent et organisent les microtubules dans
-les dendrites.
+Par exemple, MAP2 et Tau structurent et organisent les microtubules dans les dendrites.
 
 ### Protéines déstabilisatrices
 
 Les protéines déstabilisatrices peuvent agirent soit :
 
--   Aux extrémités. Elles sont appelées promoteurs de catastrophes.
+* Aux extrémités. Elles sont appelées promoteurs de catastrophes.
+* N'importe où en provoquant la fragmentation des microtubules.
 
--   N'importe où en provoquant la fragmentation des microtubules.
+La déstabilisation de l'extrémité augmente la probabilité de dépolymérisation au niveau de l'extrémité. Elle peut se faire de deux manières en :
 
-La déstabilisation de l'extrémité augmente la probabilité de
-dépolymérisation au niveau de l'extrémité. Elle peut se faire de deux
-manières en :
+* Séquestrant la tubuline càd en diminuant la concentration de tubuline disponible au moins au niveau de l'extrémité du microtubule.
 
--   Séquestrant la tubuline càd en diminuant la concentration de
-    tubuline disponible au moins au niveau de l'extrémité du
-    microtubule.
-
--   Déstabilisant l'extrémité.
+* Déstabilisant l'extrémité.
 
 Quelques exemples de protéines de déstabilisation :
 
--   Les stathmines s'associent aux dimères et bloquent la capacité
-    d'interaction de ces derniers. L'affinité est régulée par leur degré
-    de phosphorylation (corrélation positive). Son activité dépend de
-    son degré de phosphorylation.
+* Les stathmines s'associent aux dimères et bloquent la capacité d'interaction de ces derniers. L'affinité est régulée par leur degré de phosphorylation (corrélation positive). Son activité dépend du degré de phosphorylation.
 
--   Katanine provoque le désassemblage par fragmentation des
-    microtubules.
+* Katanine provoque le désassemblage par fragmentation des microtubules.
 
 ### Les substances toxiques
 
 Certaines substances toxiques agissent sur les microtubules pour causer
 la mort des cellules soit en :
 
--   Induisant une dépolymérisation ou une polymérisation.
-
--   Bloquant le microtubule dans sa conformation càd empêchant toutes
-    activités de polymérisation ou de dépolymérisation, par exemple le
-    taxol ou le nocodazole.
+* Induisant une dépolymérisation ou une polymérisation.
+* Bloquant le microtubule dans sa conformation càd empêchant toutes activités de polymérisation ou de dépolymérisation, par exemple le taxol ou le nocodazole.
 
 ## Le rôle des microtubules 
 
 Quelques grandes fonctions de microtubules :
 
--   Le battement ciliaire et flagellaire.
-
--   Implication dans les transports intracellulaires et le maintien de
-    la compartimentation intracellulaire.
-
--   Dans la division cellulaire (mise en place du fuseau mitotique,
-    séparation des chromosomes...).
+* Le battement ciliaire et flagellaire.
+* Implication dans les transports intracellulaires et le maintien de la compartimentation intracellulaire.
+* Dans la division cellulaire (mise en place du fuseau mitotique, séparation des chromosomes...).
 
 ## Les moteurs moléculaires
 
 Il existe deux types de moteurs moléculaires associés aux microtubules
 ou MAPs motrice :
 
-|                                                    |                                                    |
-|------------------------------------|------------------------------------|
-| Les dynéines qui se déplacent vers l'extrémité --. | Les kinésines qui se déplacent vers l'extrémité +. |
+* Les dynéines qui se déplacent vers l'extrémité --.
+* Les kinésines qui se déplacent vers l'extrémité +.
 
-Par exemple, les neurotransmetteurs relâchés au niveau des synapses sont
-synthétisés dans le soma du neurone. Ils sont acheminés par un transport
-vésiculaire qui se déplace le long des microtubules de l'extrémité --
-vers celle +. Les vésicules sont équipées de kinésines et dynéines. Leur
-déplacement se fait par l'activation de l'une des deux protéines en
-fonction des protéines structurales associées aux microtubules. Elles
-sont régulées par phosphorylation.
+Par exemple, les neurotransmetteurs relâchés au niveau des synapses sont synthétisés dans le soma du neurone. Ils sont acheminés par un transport vésiculaire qui se déplace le long des microtubules de l'extrémité -- vers celle +. Les vésicules sont équipées de kinésines et dynéines. Leur déplacement se fait par l'activation de l'une des deux protéines en fonction des protéines structurales associées aux microtubules. Elles sont régulées par phosphorylation.
 
-[NB :]{.underline} Certaines kinésines sont des promoteurs de
-catastrophe.
+!!! note
+    Certaines kinésines sont des promoteurs de catastrophe.
 
 ### Les dynéines
 
-La dynéine assure le transport des vésicules. Elle lie la vésicule par
-l'intermédiaire de transport des vésicules par la dynactine, un complexe
-protéique présent sur la membrane des vésicules et le filament ARP.
+La dynéine assure le transport des vésicules. Elle lie la vésicule par l'intermédiaire de transport des vésicules par la dynactine, un complexe protéique présent sur la membrane des vésicules et le filament ARP.
 
 <table>
 <colgroup>
@@ -400,26 +308,19 @@ d’actines</p></li>
 
 ### Fonctionnement des cils et des flagelles
 
-Les cils et les flagelles se distinguent par la longueur de l'extension.
-Les cils plus courts ne peuvent faire qu'un mouvement dans un plan, par
-opposition, au flagelle plus long qui peuvent s'agiter dans un volume.
+Les cils et les flagelles se distinguent par la longueur de l'extension. Les cils plus courts ne peuvent faire qu'un mouvement dans un plan, par opposition, au flagelle plus long qui peuvent s'agiter dans un volume.
 
-[Rmq :]{.underline} il existe des différences fondamentales entre les
-flagelle eucaryotes et procaryotes.
+!!! note
+    Il existe des différences fondamentales entre les flagelles eucaryotes et procaryotes.
 
-La structure des cils et des flagelles est dite axonème. Elle est formée
-de 9+2 microtubules :
+La structure des cils et des flagelles est dite axonème. Elle est formée de $9+2$ microtubules :
 
-|                            |                       |
-|----------------------------|-----------------------|
-| Neuf doublés périphériques | Deux doublés centraux |
+* Neuf doublés périphériques
+* Deux doublés centraux.
 
 Ils sont reliés par les bras rayonnants.
 
-Les doublets périphériques sont formés entre un microtubule A incomplet
-et un B. Les « bras » externes et internes sont constitués de dynéine.
-
-![](media/image1.png){width="3.65625in" height="3.120631014873141in"}
+Les doublets périphériques sont formés entre un microtubule A incomplet et un B. Les « bras » externes et internes sont constitués de dynéine.
 
 # Les microfilaments
 
@@ -434,7 +335,7 @@ L'hydrolyse de l'ATP n'est pas spontanée. Elle nécessite l'action d'une enzyme
 
 L'actine G possède plusieurs isoformes. Il en existe 6 chez les mammifères. 
 
-Protéine associée à l'actine (Actin Related Proteins noté ARP) protéines dont la chaine peptidique ressemble fortement à celle de l'actine G. 
+__Protéine associée à l'actine__ (Actin Related Proteins noté ARP) protéines dont la chaine peptidique ressemble fortement à celle de l'actine G. 
 
 La polymérisation de G en F dépend de : 
 
@@ -444,8 +345,7 @@ La polymérisation de G en F dépend de : 
 * $Mg^{2+}$.
 * Force ionique élevée.
 
-La phalloïdine est une molécule fluorescente d\'origine fongique qui se
-fixe et stabilise les microtubules et les rend fluorescent.
+La phalloïdine est une molécule fluorescente d\'origine fongique qui se fixe et stabilise les microtubules et les rend fluorescent.
 
 ### Propriété
 
@@ -455,8 +355,7 @@ Deux filaments d'actine s'assemblent pour former une hélice. Son demi pas càd 
 
 ## Propriétés structurales
 
-La polarité de l'actine G se retrouve dans la structure fonctionnelle de
-l'actine avec deux extrémités : 
+La polarité de l'actine G se retrouve dans la structure fonctionnelle de l'actine avec deux extrémités : 
 
 * Barbue (-).
 * Pointue (+).
@@ -470,24 +369,15 @@ La polarité structurale est définie par l'interaction avec les têtes de myosi
 
 ### Les protéines qui interagissent avec l'actine
 
-Les protéines qui interagissent avec l'actine notées ABP (Actins Binding
-Protéins) 
+Les protéines qui interagissent avec l'actine notées ABP (Actins Binding Protéins) 
 
 Quelques exemples d'ABP :
 
--   Profiline favorise la polymérisation de l'actine à l\'extrémité +. 
-
--   Thymosine est une protéine de séquestration de l'actine G-ATP.
-
--   Cofiline dépolymérise à l'extrémité -- en hydrolysant l'ATP de
-    l'actine G.  Elle est régulée par phosphorylation. Elle est
-    également une protéine de fragmentation à pH basique.
-
--   Gelsoline fragmente les polymérimères ou elle peut servir de coiffe
-    pour empêche l'évolution des microfilaments.
-
--   Capz protéine de coiffe qui protège et stabilise l'extrémité des
-    microfilaments dans les cellules musculaires.
+* Profiline favorise la polymérisation de l'actine à l\'extrémité +.
+* Thymosine est une protéine de séquestration de l'actine G-ATP.
+* Cofiline dépolymérise à l'extrémité -- en hydrolysant l'ATP de l'actine G.  Elle est régulée par phosphorylation. Elle est également une protéine de fragmentation à pH basique.
+* Gelsoline fragmente les polymérimères ou elle peut servir de coiffe  pour empêche l'évolution des microfilaments.
+* Capz protéine de coiffe qui protège et stabilise l'extrémité des microfilaments dans les cellules musculaires.
 
 ### Nucléation ou biogénèse des microfilaments
 
@@ -548,8 +438,7 @@ Cet événement a lieu notamment grâce à Rho. Les extrémité des filopodes so
 
 # Filaments intermédiaires
 
-Le réseau le moins dynamique et le plus résistant dans la cellule. C'est
-lui qui confère la forme à la cellule.
+Le réseau le moins dynamique et le plus résistant dans la cellule. C'est lui qui confère la forme à la cellule.
 
 Chaque cellule possède deux types de filaments intermédiaires :
 
@@ -558,13 +447,7 @@ Chaque cellule possède deux types de filaments intermédiaires :
 
 Les filaments intermédiaires sont formés par de nombreuses types de protéines différentes. Leur composition dépend de leur position dans la cellule et du type de cellule.
 
-Les filaments intermédiaires possèdent une structure commune avec une
-organisation en hélice alpha (comme un hélice d'ADN mais formé par un
-seul brin) qui est constitué de la répétition d'un heptade càd d'une
-suite de huit aa. Elles s'associent en dimère antiparallèle pour former
-une sous unité qui s'associe par huit pour former une unité de filament.
-Les parties communes permettent l'assemblage entre différents types de
-protéines.
+Les filaments intermédiaires possèdent une structure commune avec une organisation en hélice alpha (comme un hélice d'ADN mais formé par un seul brin) qui est constitué de la répétition d'un heptade càd d'une suite de huit aa. Elles s'associent en dimère antiparallèle pour former une sous unité qui s'associe par huit pour former une unité de filament. Les parties communes permettent l'assemblage entre différents types de protéines.
 
 L'extrémité N-term interagie avec des protéines stabilisatrices et aide à la nucléation tandis que l'extrémité C-term avec celles qui participent au réarrangement.
 

@@ -36,8 +36,7 @@ __Spectre d'hôtes__ ensemble des cellules qu'un virus est capable d'infecter.
 
 ### L'héritage des virus
 
-8% de la longueur total de l'ADN humain aurait des origines virales mais ils ne s'expriements plus. Une protéine virale a été identifiée comme 
-Une protéine d'enveloppe virale applé syncitine, exprimé dans le placenta permet les échanges entre le sang de la mère et l'enfant. Elle diminue la réponse immunitaire et permet la fusion des cellules de la mère et de l'enfance nécesaire à la formation du placenta.
+8% de la longueur total de l'ADN humain aurait des origines virales mais ils ne s'expriements plus. Une protéine virale a été identifiée comme une protéine d'enveloppe virale applé syncitine, exprimé dans le placenta permet les échanges entre le sang de la mère et l'enfant. Elle diminue la réponse immunitaire et permet la fusion des cellules de la mère et de l'enfance nécesaire à la formation du placenta.
 
 La diversité de syncitines et des placenta suggèrent que cette protéine virale a été domestiqué plusieurs fois au cours de l'évolution.
 
