@@ -159,7 +159,6 @@ nav:
         - "Classification" : data-science/models/classification/classification.md
         - "Arbre de décision & forêt aléatoire" : data-science/models/classification/arbre-de-décision.md
         - "Classificateur baysien" : data-science/models/classification/classificateur-baysien.md
-        - "Perceptron" : data-science/models/classification/perceptron.md
         - "Régression logistique" : data-science/models/classification/regression-logistique.md
       - "Régression" :
         - "Régression" : data-science/models/regression/regression.md
