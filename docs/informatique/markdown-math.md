@@ -13,26 +13,24 @@
 
 ## Lettres grecs
 
-Markdown    | Fonction      | Lettre
-------------|---------------|-------
-`\partial`  | $\partial$    | d rond
-`\delta`    | $\delta$      | delta
-`\Delta`    | $\Delta$      | Delta
-`\nabla`    | $\nabla$      | nabla
-`\mu    `   | $\mu$         | mu
-`\nu    `   | $\nu$         | nu
-`\phi`      | $\phi$        | Phi
-`\pi`       | $\pi$          | Pi
-`\psi`      | $\psi$        | Psi (min)
-`\Psi`      | $\Psi$        | Psi (MAJ)
-`\omega`    | $\omega$      | omega
-`\Omega`    | $\Omega$      | Omega
-`\rho`      | $\rho$        | rho
-`\sigma`    | $\sigma$      | sigma
-`\Sigma`    | $\Sigma$      | sigma
-`\phi`      | $\theta$      | theta
-`\Theta`    | $\Theta$      | Theta
- 
+Pour les majuscules, il faut mettre la première lettre en majuscule.
+
+Mascule     | Minuscule   | Fonction      | Lettre
+------------|-------------|---------------|-------
+.           | $\partial$  | `\partial`    | d rond
+$\Delta$    | $\delta$    | `\delta`      | delta
+$\Lambda$   | $\lambda$   | `\lambda`     | lambda
+.           | $\mu$       | `\mu`         | mu
+.           | $\nabla$    | `\nabla`      | nabla
+.           | $\nu$       | `\nu`         | nu
+.           | $\phi$      | `\phi`        | phi
+$\Pi$       | $\pi$       | `\pi`         | pi
+$\Psi$      | $\psi$      | `\psi`        | psi
+$\Omega$    | $\omega$    | `\omega`      | omega
+.           | $\rho$      | `\rho`        | rho
+$\Sigma$    | $\sigma$    | `\sigma`      | sigma
+$\Theta$    | $\theta$    | `\theta`      | theta
+
 ## Symbole
 
 Markdown    | Fonction      | Lettre

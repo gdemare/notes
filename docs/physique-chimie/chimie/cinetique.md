@@ -101,8 +101,8 @@ $k = A \cdot e^{-\frac{E_a}{R \cdot T}}$
 
 * $k$ constante de vitesse
 * $A$ facteur de fréquence (même unité que $k$).
-* $E_a$ énergie d’activation $j \cdot mol^{-1}$
-* $R$ constante des gaz parfaits $8,314  j\cdot K^{-1} \cdot mol^{-1}$.
+* $E_a$ énergie d’activation $J \cdot mol^{-1}$
+* $R$ constante des gaz parfaits $8,314  J \cdot K^{-1} \cdot mol^{-1}$.
 * $T$ température en $K$.
 
 !!! note
