@@ -1,5 +1,3 @@
-
-
 ## Arbre de décision
 
 Ensemble de règles simples et ordonnées pour séparer les individus.
@@ -18,11 +16,22 @@ Peu sensible aux valeurs extrêmes   |
 
 ### Critère pour la création d'un embranchement
 
+Nombre de "questions" de type oui/non nécessaire pour connaitre la réponse. Chaque question porte sur une des modalités de la variable à prédire.
 
-Nombre de "questions" nécessaire pour connaitre la réponse : 
 $2^{bits} = N$ Soit $bits = \log _2 (N)$ Ou encore $bits = - \log _2 (\frac{1}{N})$.
-Entropie de Shannon : $H(P) = -\sum_i p_i \log_2(p_i)$
+
+Entropie de Shannon : $H(P) = -\sum_i p_i \log _2 (p_i)$
+
 Plus petit quantité d'information nécessaire pour lever l'incertitude. Elle est maximale lorsque les possibilités sont équiprobables.
+
+Les principaux critères pour la sélection des variables et la formation d'un embranchement sont :
+
+* ID3
+* C4.5
+* CART
+
+!!! note
+    CART est une évolution de ID3 et C4.5
 
 #### Méthode ID3
 
@@ -36,10 +45,9 @@ SI Split Information
 
 GR  Gain Ratio
 
-### CART
+#### CART
 
-
-## Sélection des variables - Élagage de l'arbre
+### Sélection des variables - Élagage de l'arbre
 
 * Coefficient de complexité
 
@@ -52,31 +60,3 @@ Avantages                           | Inconvénients
 ------------------------------------|---
 Peu sensible aux valeurs manquantes | Sur-apprentissage
 Peu sensible aux valeurs extrêmes   |
-
-## Concept
-
-Une forêt aléatoire est un ensemble d'arbres de décision construit avec des variables et un échantillon selectionnés aléaloirement.
-
-## Type de variables
-
-* qualitative
-* quantitatives
-
-## Utilité
-
-* classification
-
-## Attribut
-
-| + | - |
-|---|---|
-| Peu sensible aux valeurs manquantes | sur-apprentissage |
-| Peu sensible aux valeurs extrêmes | |
-
-## Sélection des variables - Élagage de l'arbre
-
-
-
-## Issue
-
-* Abre de décision

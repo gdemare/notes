@@ -59,6 +59,7 @@ extra_javascript:
 
 nav:
   - Biologie :
+    - "Ressources" : biologie/ressources_biologie.md
     - "Biochimie et biomol" :
       - "Biomolécules simples" :
         - "Panorama" : biologie/biochimie/introduction-biochimie.md
@@ -144,6 +145,7 @@ nav:
         - "RMN" :  biologie/methodes-techniques/RMN.md
         - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
   - "Data Science" :
+    - "Ressources" : data-science/ressources_data.md
     - "Panorama" : data-science/methodes-data-science.md
     - "A voir" : data-science/a-voir.md
     - "Dictionnaire Statistique" : data-science/dictionnaire-statistique.md
@@ -156,7 +158,6 @@ nav:
       - "Classification" :
         - "Classification" : data-science/models/classification/classification.md
         - "Arbre de décision & forêt aléatoire" : data-science/models/classification/arbre-de-décision.md
-        - "Centroides" : data-science/models/classification/centroide.md
         - "Classificateur baysien" : data-science/models/classification/classificateur-baysien.md
         - "Perceptron" : data-science/models/classification/perceptron.md
         - "Régression logistique" : data-science/models/classification/regression-logistique.md
