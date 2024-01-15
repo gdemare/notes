@@ -36,8 +36,6 @@ Obj : générer une probabilité d'appartenance à une classe.
 * Support Vector Machine (SVM).
 * Perceptron et réseau de neurones.
 
-* Boosting.
-
 ## Evaluer et comparer les  performances de modèles de classification
 
 ### Matrice de confusion
@@ -53,21 +51,38 @@ On note n le nombre d'individus du jeu de test : $n = a + b + c + d$.
 
 ### Classification binaire (deux classes)
 
-Les différents indiciateurs pour évaluer 
+Pour un classificateur binaire, les critères principaux sont utilisés pour évaluer le modèle dépendent de la matrice de confusion. Ils sont :
+
+* la sensibilité qui est la capacité a trouver tous les individus vrai (bien classé) parmi ce qui le sont (vrai mal classé). La sensibilité est également appelé ou la sélectivité ou taux de vrai positif. 
+* la spécificité est qui est la capacité a trouver tous les individus faux parmi ce qui le sont.
+* la précision qui la proportion d'individus bien classée.
+
+la performance du modèle en faisant varier le seuil de sensibilité du modèle. Plus le taux de faux postif augmente plus, on diminue la probabilité d'acceptation.
 
 #### Courbe de Receiver Operating Characteristic (ROC)
 
-La courbe de ROC permet d'évaluer la performance de modèles à classification binaire. On ne s'intéresse qu'aux individus classées comme vraies. Elle représente : 
-
-* le taux de vrai positif (vrai bien classé) en fonction taux de faux positif (vrai mal classé). 
-* La performance du modèle en faisant varier le seuil de sensibilité du modèle. Plus le taux de faux postif augmente plus, on diminue la probabilité d'acceptation.
+La courbe de ROC permet d'évaluer la performance de modèles à classification binaire. On ne s'intéresse qu'aux individus classées comme vraies. Elle représente la sensibilité en fonction de 1 - la sélectivité.
 
 _Area Under the Curve (AUC)_ aire sous la courbe de ROC.
 
 ### Courbe de Lift (courbe de gain)
 
 
-## Indicateur de qualité du modèle 
+
+### Critères 
+
+Liste de paramètres à minimiser :
+
+* AIC : $-2 \cdot L + 2 \ cdot p$
+* BIC (pénalise plus le nombre de paramètre que l'AIC) : $-2 \cdot L + p \codt \log n $
+
+Avec : 
+
+* $p$ le nombre de paramètres du modèles.
+* $n$ le nombre d'observation.
+* $L$ le log de vraissemblance.
+ 
+## Fonctions cout
 
 Indicateur 						| Définition | Formule
 --------------------------------|---|---
@@ -75,7 +90,7 @@ Indicateur 						| Définition | Formule
 `binary_crossentropy` 			| the binary crossentropy loss.
 `binary_focal_crossentropy`		| the binary focal crossentropy loss.
 `categorical_accuracy` 			| Calculates how often predictions match one-hot labels.
-`categorical_crossentropy` 		| the categorical crossentropy loss. | $- \sum y \times \log(p) + (1−y) \times \log(1−p)$
+`categorical_crossentropy` 		| the categorical crossentropy loss. | $- \sum y \cdot \log(p) + (1−y) \cdot \log(1−p)$
 `deserialize` 					| Deserializes a serialized metric class/function instance.
 `get` 							| Retrieves a Keras metric as a function/Metric class instance.
 `logcosh` 						| Logarithm of the hyperbolic cosine of the prediction error.

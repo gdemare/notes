@@ -1,61 +1,14 @@
-## Objectif
+Les méthodes de régression permettent de prédire une variable quantitative continue.
 
-Prédire la classe (variable qualitative).
+* Régression linéaire.
+* Réseau de neurones.
 
-## Méthodes
+!!! note
+  Il existe des adaptaion des modèles de classification supervisée de variables qualitative à des variables quantitatives par exemple, les arbre de régression.
 
-* Classificateur binaire : 
-  * Perceptron
-  * Régression logistique
-  
-* Classificateur multi-classes :
-  * Analyse discriminante
-  * Arbre de décision
-  * Boosting
-  * Classificateur naïve bayésien
-  * Espérance-maximisation (EM)
-  * Forêt aléatoire
-  * k-plus proches voisins
-  * Support Vector Machine (SVM)
-  * Réseau de neurones
+__Résidus__ différence entre la valeur réelle et celle prédite ($y - \hat{y}$).
 
-# Classification supervisée ou modèliser
-
-!!! warning
-	Attention aux variables fortement corrélées ! elles peuvent surpondérer de l'information. Pour palier ce problème, il est conseillé de réaliser la modélisation sur de nouvelles variables obtenues à la suite d'une réduction de dimensions.
-
-## Classification
-
-Obj : générer une probabilité d'appartenance à une classe. 
-
-* Classificateur binaire 
-* Perceptron
-* Régression logistique
-* Classificateur multi-classes 
-* Analyse discrimante 
-* Arbre de décision
-* Boosting
-* Classificateur naïve bayésien
-* Espérance-maximisation (EM) 
-* Forêt aléatoire 
-* k-plus proches voisins 
-* Support Vector Machine (SVM)
-* Réseau de neurones
-
-## Régression
-
-Obj : modéliser une variable quantitative continue. 
-
-* Régression linéaire
-* Arbre de régression
-* ANalysis Of VAriance (ANOVA) 
-* Forêt aléatoire
-* Série temporelle
-* AutoRegressive Moving Average (ARMA)
-* Lissage exponentionel
-* Série temporelle simple
-
-## Evalutation des performances d'un modèle
+## Evaluer le modèle
 
 Plusieurs outils peuvent servir à évaluer les performances des modèles de régression :
 
@@ -68,19 +21,6 @@ Plusieurs outils peuvent servir à évaluer les performances des modèles de ré
 	
 	* le coefficient de corrélation.
 	* Moyenne de la valeur absolue des erreurs (MAE) $\frac{1}{n}\Sigma \vert y_{pred} - y_{reel}\vert$.
-
-## Les méthodes
-
-Obj : modéliser une variable quantitative continue. 
-
-* Régression linéaire
-* Arbre de régression
-* ANalysis Of VAriance (ANOVA) 
-* Forêt aléatoire
-* Série temporelle
-* AutoRegressive Moving Average (ARMA)
-* Lissage exponentionel
-* Série temporelle simple
 
 ## Evaluer les performances 
 
