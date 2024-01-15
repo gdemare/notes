@@ -221,19 +221,19 @@ nav:
       - Optique : physique-chimie/physique/optique.md
   - Autres :
     - Anglais :
-      - Conjugaison : anglais/conjugaison.md
-      - Grammaire : anglais/grammaire.md
-      - "Ortographe et vocabulaire" : anglais/ortographe-vocabulaire.md
+      - Conjugaison : autres/anglais/conjugaison.md
+      - Grammaire : autres/anglais/grammaire.md
+      - "Ortographe et vocabulaire" : autres/anglais/ortographe-vocabulaire.md
     - Informatique :
         - "Base de données" : informatique/database.md
         - "Math jax" : informatique/markdown-math.md
         - "Réseau" : informatique/reseau.md
-    - Utiles :
-        - Emploi : utiles/emploi.md
-        - Location : utiles/location.md
+    - Ressources :
+        - Emploi : autres/ressources/emploi.md
+        - Location : autres/ressources/location.md
     - Communication :
-      - Candidater : communication/entretien-embauche.md
-      - "Gestion de projet" : communication/gestion-projet.md
-      - Rhétorique : communication/rhetorique.md
+      - Candidater : autres/communication/entretien-embauche.md
+      - "Gestion de projet" : autres/communication/gestion-projet.md
+      - Rhétorique : autres/communication/rhetorique.md
     - Finance : 
       - Epargne : autres/epargne.mp
