@@ -4,7 +4,7 @@ Les méthodes de régression permettent de prédire une variable quantitative co
 * Réseau de neurones.
 
 !!! note
-  Il existe des adaptaion des modèles de classification supervisée de variables qualitative à des variables quantitatives par exemple, les arbre de régression.
+	Il existe des adaptaion des modèles de classification supervisée de variables qualitative à des variables quantitatives par exemple, les arbre de régression.
 
 __Résidus__ (ou biais) différence entre la valeur réelle et celle prédite ($y - \hat{y}$).
 
