@@ -157,9 +157,9 @@ nav:
       - "Modèles" : data-science/models/models.md
       - "Coût & critères" : data-science/models/indicateurs-couts.md
       - "Type classification" : data-science/models/classification-all.md
+      - "Type régression" : data-science/models/regression-all.md
       - "Classification" : 
         - "Arbre de décision & forêt aléatoire" : data-science/models/classification/arbre-de-décision.md
-      - "Type régression" : data-science/models/regression-all.md
       - "Mixtes" : 
         - "Régression" : data-science/models/regression.md
       - "Réseaux de neurones" :
