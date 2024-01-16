@@ -55,7 +55,9 @@ Pour prédire généralement  :
 
 #### Coefficient de complexité
 
-$$C(T) = \sum_{|T|}{Q_w + \alpha \cdot |T|}$$ avec :
+$$C(T) = \sum_{|T|}{Q_w + \alpha \cdot | T | }$$
+
+Avec :
     
 * $|T|$ nombre de noeud terminaux.
 * $Q_w$ erreur quadratique moyenne.
@@ -63,8 +65,7 @@ $$C(T) = \sum_{|T|}{Q_w + \alpha \cdot |T|}$$ avec :
 
 ## Forêt aléatoire
 
-Une forêt aléatoire est un ensemble d'arbres de décision construit avec des variables et un échantillon selectionnés aléaloirement.
-
+Une forêt aléatoire est un ensemble d'arbres de décision construit avec des variables et des échantillons selectionnés aléaloirement.
 
 Avantages                           | Inconvénients
 ------------------------------------|---
