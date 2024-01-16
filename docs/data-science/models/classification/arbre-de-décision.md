@@ -16,18 +16,6 @@ Peu sensible aux valeurs extrêmes   |
 
 ### Critère pour la création d'un embranchement
 
-Nombre de "questions" de type oui/non nécessaire pour connaitre la réponse. Chaque question porte sur une des modalités de la variable à prédire.
-
-$2^{bits} = N$ Soit $bits = \log _2 (N)$ Ou encore $bits = - \log _2 (\frac{1}{N})$.
-
-Entropie de Shannon : $H(P) = -\sum_i p_i \log _2 (p_i)$
-
-Plus petite quantité d'information nécessaire pour lever l'incertitude. Elle est maximale lorsque les possibilités sont équiprobables.
-avec P le noeud
-Critère de GINI $G(P) = 1 - \sum^{c}{P(k|p)^2}$
-avec $c$ le nombre de modalité
-$G \in [0;0.5]$ plus G est grand plus les donnees sont reparties equiprobable
-
 Gain d'information 
 
 Les principaux critères pour la sélection des variables et la formation d'un embranchement sont :

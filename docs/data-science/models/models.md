@@ -17,7 +17,7 @@ Les méthodes d'apprentissage sont divisé en deux catégorie en fonction du typ
 
 Certaines méthodes sont utilisées pour améliorer les modèles :
 
-* k-fold : méthode qui permet de contrôler la qualité du jeu d'apprentissage càd de s'assurer que les paramètres du modèle ne dépendent pas du jeu d'apprentissage. Les paramètres des modèles sont calculés plusieurs de jeux de données d'apprentissage et de test.
+* k-fold : méthode qui permet de contrôler la qualité du jeu d'apprentissage càd de s'assurer que les paramètres du modèle ne dépendent pas du jeu d'apprentissage. Les paramètres des modèles sont calculés en créatn des sous jeux d'apprentissage.
 * boosting. 
 
 ### Non supervisées

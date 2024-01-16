@@ -1,16 +1,11 @@
-## Concept
-
 ## Type de variables
+
 * qualitatives
 * (quantitatives)
 
 ## Utilité
 
 * Mesurer l'influence de variables qualitatives sur une variable quantitative.
-
-## Attribut
-
-## Sélection des variables
 
 ## Validité du modèle
 

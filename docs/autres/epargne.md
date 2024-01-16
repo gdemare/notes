@@ -1,79 +1,84 @@
-* Soit placer
-* Soit payer 
-Intéressement
+L'entreprise peut verser à ses employés :
 
-Choix du fond d'investissement
+* la participation qui est une  quote-part des bénéfices de l'entreprise. Chez Servier, elle est versée directement sur le salaire.
+* l'intéressement qui constitut une quote-part de ses bénéfices.
+* l'abondement. Chez  Servier, l'abondement se fait uniquement avec les jours de repos non pris (10 jours max par an) et est versé sur le PERECO et ne note.
 
+!!! note 
+    L'intéressement et la participation sont des primes liées à la performance de l'entreprise.
 
-Epargne salariale court et moyen terme
+Lors la prime est versée directement, il faut payer l'impot revenu qui s'élève à 14% et la Contribuiton Sociale generalisée (CGS).
 
-bloqué durant 5 ans
+!!! note
+    L'impôt sur le revenu peut être éviter en investissant la prime sur les .
 
-* PEG Plan Epargne Groupe
-* CCB (dispositif rare interne au groupe) 6% annuel
+L'intéressement est soit :
 
+* Soit placer.
+* Soit payer.
 
-PERICO plan épargne pour la retraite
+Il existe deux types d'épargne salariale :
 
+* à court et moyen terme càd bloquée durant 5 ans
+
+    * PEE qui peut être appelé également Plan Epargne Interentreprise (PEI) ou Plan Epargne Groupe (PEG).
+    * Compte Courant Bloqué (CCB). Le CCB est un dispositif rare dont l'existence dépend de la politique interne au groupe.
+
+* à long terme avec une horizon sur plusieurs années :
+    
+    * Plan d’Épargne Retraite d’Entreprise Collectif (PERECO)
+
+!!! note
+    Certains motifs permettent de récupérer son épargne avant la, par exemple par l'achat résidence pour tous PE (mariage,...).
 
 On peut alimenter ces comptes soit :
 
-* avec des versement volontaire 
-* soit avec les jours de repos non pris
+* avec des versements volontaires.
+* soit avec les jours de repos non pris (jusqu'a 10 jours de congès par an).
 
-l'entreprise 
-
-la participation toucher directement = payer impot revenu (14%) par on paie le Contribuiton social generalisée (CGS)
-l'intéressement
-l'abondement de servier (pereco
+## Types d'épargne
 
 ### PEG
 
-participiation et interessement + volontaire
+Le Plan Epargne Groupe (PEG) peut être abondé avec :
 
-on choisi les fonds de placements?
+* la participation.
+* les intéressements.
+* des versements libres.
 
-arbitrage virement entre les fonds (gratuits).
+Les fonds bloqués durant 5 ans et l'on choisi les fonds de placements.
+L'arbitrage est gratuit entre les fonds.
 
-pas d'impot sur le revenu
-fond bloqué durant 5 ans 
+__arbitrage__ virement entre les fonds.
 
 ### CCB
 
-uniquement participation
-5 ans max.
-transfert vers peg
+Le Compte Courant Bloqué peut être abondé uniquement avec la participation.  L'argent déposé est conservé maximum durant 5 ans. Au bout de ce délai, les fonds sont tranférés vers le PEG.
 
-### PEREGO
+### PERECO
 
-version libre et participation 
+Le Plan d'Epargne d'Entreprise Collectif (PERECO) peut être abondé : 
 
-piloté (épargne consistué par les ingénieurs)
+* des versements libres.
+* la participation.
 
-profil de d'investissement depende de notre profil. Avant retraite actif plus sécurisé.
+!!! 
+    Le PERECO peut être abondé jusqu'a 10% du revenu du foyer sur les 3 dernières années.
 
-moment retraite récupéré capital ou en rente.
+Le capital pourrat être récupérer à la retraite ou perçu sous forme de rente.
 
+__piloté__ épargne constituée par les ingénieurs.
 
-10 jours de repos non pris => abondement de 10% sur le perico
+Le profil de d'investissement depend du profil du client. Par exemple, avant retraite l'investissement sera mis sur des actifs de plus en plus sécurisé.
 
-Possibilité de faire des versements déductible vers sotn compte perico. Cela signifie qu'il faut déclarer au impot salaire - somme versé. Mais repris à la sortie sauf qu'en retraite le salaire percu est inférieure donc généralement moins taxe.
+!!! example
+    Pour 10 jours de repos non pris, l'abondement sera de 10% du salaire journalier sur le PERECO.
 
+!!! note
+    Le PERECO permet de faire des versements déductibles au moment du versement. Cela signifie qu'il faut déclarer au $\mathbf{impôt\ salaire} - $\mathbf{somme versée}$ mais il seront à versé au moment de la retraite. A noté que souvent le salaire percu au moment de la retraite est inférieure en période d'activité ce qui signifie qu'au total il y aura moins taxe à payer.
 
-motif de récupérer son actif avant (achat résidence pour tous)
-PEG (mariage, ....)
-Pereco (souvent uniquement mauvaise nouvelle/)
+Trois classes d'actifs sur les marchés :
 
-
-10% du revenu du foyer (versement sur les 3dernieres annes )
-
-abondement uniquement via les jours de repos.
-
-
-3 classes sur les marché
-
-monetaire emprunt émis a court terme 
-obligation meme principe de 5ans
-action part de l'entreprise
-
-prime liée à la performance de l'entreprise (intéressement) ou représentant une quote-part de ses bénéfices (participation).
+* monetaire emprunt émis a court terme par les pays.
+* obligation même principe que le monétaire mais sur des horizon de 5 ans.
+* action qui sont des parts de l'entreprise.

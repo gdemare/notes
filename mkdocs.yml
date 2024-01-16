@@ -1,4 +1,4 @@
-site_name: Mes notes
+site_name: Notes
 repo_url: https://github.com/gdemare/notes/
 repo_name: gdemare/notes
 edit_uri: edit/main/docs/
@@ -35,7 +35,7 @@ theme:
       edit: material/pencil
 
 plugins:
-  - search
+  - search # barre de rechercher
   - mkdocstrings
   - glightbox #pour les images
   - git-revision-date-localized: #pour avoir la date de maj 
@@ -146,7 +146,6 @@ nav:
         - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
   - "Data Science" :
     - "Ressources" : data-science/ressources_data.md
-    - "Panorama" : data-science/methodes-data-science.md
     - "A voir" : data-science/a-voir.md
     - "Dictionnaire Statistique" : data-science/dictionnaire-statistique.md
     - "Données non structurées" :
@@ -155,28 +154,17 @@ nav:
       - "Traitement des images" : data-science/traitement-image.md
       - "Transformation des données" : data-science/transformation-donnees.md
     - "Modèles" :
-      - "Classification" :
-        - "Classification" : data-science/models/classification/classification.md
+      - "Modèles" : data-science/models/models.md
+      - "Coût & critères" : data-science/models/indicateurs-couts.md
+      - "Type classification" : data-science/models/classification-all.md
+      - "Classification" : 
         - "Arbre de décision & forêt aléatoire" : data-science/models/classification/arbre-de-décision.md
-        - "Classificateur baysien" : data-science/models/classification/classificateur-baysien.md
-        - "Régression logistique" : data-science/models/classification/regression-logistique.md
-      - "Régression" :
-        - "Régression" : data-science/models/regression/regression.md
-        - "Régression linéaire" : data-science/models/regression/regression-lineaire.md
-        - ANOVA : data-science/models/classification/ANOVA.md
-        - "Carte auto adaptative" : data-science/models/classification/carte-auto-adaptative.md
-        - "Espérance maximale" : data-science/models/classification/espérance-maximisation.md
-        - "Régression linéaire" : data-science/models/regression/regression-lineaire.md
-        - "SVM" : data-science/models/classification/SVM.md
+      - "Type régression" : data-science/models/regression-all.md
+      - "Mixtes" : 
+        - "Régression" : data-science/models/regression.md
       - "Réseaux de neurones" :
         - "Réseaux de neurones" : data-science/models/reseaux-neurones/reseaux-neurones.md
         - "Couches convulsives" : data-science/models/reseaux-neurones/couche-convulsive.md
-      - Optimisation : 
-        - "Boosting" : data-science/models/improvement-methods/boosting.md      
-      - "Série temporelle" :
-        - "Série temporelle" : data-science/models/time-series/serie-temporelle.md
-        - "ARMA" : data-science/models/time-series/ARMA.md
-        - "Lissage exponentiel" : data-science/models/time-series/lissage-exponentiel.md
     - "Descriptions des données" :
       - Cluestering : 
         - Cluestering : data-science/clustering/cluestering.md
@@ -213,6 +201,7 @@ nav:
     - "Unité" :  physique-chimie/unites.md
     - Chimie :
       - "Cinétique" : physique-chimie/chimie/cinetique.md
+      - "Structure & représentation" : physique-chimie/chimie/stucture-representation.md
       - Thermodynamique : 
         - Thermodynamique : physique-chimie/chimie/thermodynamique.md
         - "Acide-base" : physique-chimie/chimie/acide-base.md
@@ -236,4 +225,4 @@ nav:
       - "Gestion de projet" : autres/communication/gestion-projet.md
       - Rhétorique : autres/communication/rhetorique.md
     - Finance : 
-      - Epargne : autres/epargne.mp
+      - Epargne : autres/epargne.md 

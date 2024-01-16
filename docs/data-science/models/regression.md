@@ -32,6 +32,9 @@ Il faut éviter le tri dans les variables qui pourront être utilisées car sino
 !!! warning
     Cette étape est nécessaire même en utilisant des algorithmes de choix qui choisissent les variables.
 
+!!! warning
+    Il faut plus d'individus que de variables sinon le modèle ne converge pas.
+
 ### Sélection des variables
 
 La sélection des variables peut se faire en minisant un indicateur comme :
