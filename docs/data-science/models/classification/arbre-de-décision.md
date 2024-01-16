@@ -41,9 +41,25 @@ GR  Gain Ratio
 
 #### CART
 
+Pour prédire généralement  :
+
+* le critère de Gini pour prédire une variable qualitative.
+* le MSE pour prédire une variable quantitative.
+
 ### Sélection des variables - Élagage de l'arbre
 
-* Coefficient de complexité
+* Coefficient de complexité.
+
+* Effetif minimum dans chaque noeud ou la hauteur maximale.
+* p-valeur, jusqu'a obtenir des variables indépendantes.
+
+#### Coefficient de complexité
+
+$$C(T) = \sum_{|T|}{Q_w + \alpha \cdot |T|}$$ avec :
+    
+* $|T|$ nombre de noeud terminaux.
+* $Q_w$ erreur quadratique moyenne.
+* $\alpha$ paramètre de pénalisation.
 
 ## Forêt aléatoire
 

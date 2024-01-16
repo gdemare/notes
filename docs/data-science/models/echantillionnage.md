@@ -16,4 +16,10 @@ Les princiaples méthodes d'échantillonnage sont :
 
 __Induire__ inférence partir de cas particulier pour en déduire une généralité.
 
-__Boosting__ ensemble d'algorithmes qui sur-pondérent les obsevations erronées différents algorithmes de base, tels que AdaBoost (Adaptive Boosting), Gradient Boostin.
+* bagging  (pour bootstrap aggregating)
+* boosting ensemble d'algorithmes qui sur-pondérent les obsevations erronées différents algorithmes de base, tels que AdaBoost (Adaptive Boosting), Gradient Boostin.
+
+### Boosting 
+
+1. Un poid est attribué à chaque observation $w_i = \frac{1}{N}$
+2. Ce poids est modifié à chaque itération en $w_i = \frac{1 + (\hat{y} - y)^4}{\sum{1 + (\hat{y} - y)^4}}$

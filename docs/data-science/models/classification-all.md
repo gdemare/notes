@@ -53,11 +53,13 @@ On note n le nombre d'individus du jeu de test : $n = a + b + c + d$.
 
 Pour un classificateur binaire, les critères principaux sont utilisés pour évaluer le modèle dépendent de la matrice de confusion. Ils sont :
 
-* la sensibilité qui est la capacité a trouver tous les individus vrai (bien classé) parmi ce qui le sont (vrai mal classé). La sensibilité est également appelé ou la sélectivité ou taux de vrai positif. 
+* la sensibilité (qui est la capacité a trouver tous les individus vrai (bien classé) parmi ce qui le sont (vrai mal classé). La sensibilité est également appelé ou la sélectivité ou taux de vrai positif ou rappel (recall).
 * la spécificité est qui est la capacité a trouver tous les individus faux parmi ce qui le sont.
 * la précision qui la proportion d'individus bien classée.
 
-la performance du modèle en faisant varier le seuil de sensibilité du modèle. Plus le taux de faux postif augmente plus, on diminue la probabilité d'acceptation.
+La performance du modèle en faisant varier le seuil de sensibilité du modèle. Plus le taux de faux postif augmente plus, on diminue la probabilité d'acceptation.
+
+Il n'est pas possible de comparait les modèles par leur sensibilité, précision ou spécificité car un modèle triviale peut être plus performant. On utilise donc le  F score $F = 2 \cdot \frac{\mathbf{précision} \times \mathbf{sensibilité}}{\mathbf{précision} + \mathbf{sensibilité}}$
 
 #### Courbe de Receiver Operating Characteristic (ROC)
 

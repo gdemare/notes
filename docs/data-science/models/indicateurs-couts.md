@@ -9,17 +9,31 @@ Nombre de "questions" de type oui/non nécessaire pour connaitre la réponse. Ch
 
 $2^{bits} = N \Leftrightarrow bits = \log _2 (N) \Leftrightarrow bits = - \log _2 (\frac{1}{N})$.
 
+Plus petite quantité d'information nécessaire pour lever l'incertitude. Elle est maximale lorsque les possibilités sont équiprobables.
+
 Entropie de Shannon : $H(P) = -\sum_i p_i \log _2 (p_i)$
 
-Plus petite quantité d'information nécessaire pour lever l'incertitude. Elle est maximale lorsque les possibilités sont équiprobables.
 avec $P$ le noeud
 
-Critère de GINI $G(P) = 1 - \sum^{c}{P(k|p)^2}$
-avec $c$ le nombre de modalité
+### Critère de Gini
 
-$G \in [0;0.5]$ plus G est grand plus les données sont reparties de façon équiprobable.
+Le critère de Gini est un indice qui mesure l’impureté. 
+
+Critère de GINI $G(P) = 1 - \sum^{K}{p_k \cdot (1 - p_k)}$
+avec :
+
+* $K$ le nombre de modalité.
+* $p_k$ la proportion d'observation de la classe $k$.
+
+Il est $G \in [0;0.5]$ et égal à 0 si tous les individus sont de la même classe et égale à 0.5 si les observations sont réparties de façon équiprobable.
 
 ## Indicateurs
+
+Pred quanti | Pred quali | Critère de mesure de l'erreur         | Formule      
+------------|------------|---------------------------------------|---
+_           | X          | Entropie croisée pour les catégories  | $- \sum y \cdot \log(p) + (1−y) \cdot \log (1−p)$
+X           | _          | Erreur quadratique moyenne (MSE)      | $E[(y_i - \hat{y}_i)]$
+X           | _          | Erreur absolue moyenne (MAE)          | $E[ | y_i - \hat{y}_i | ]$
 
 ### Qualitatif
 
@@ -29,15 +43,14 @@ Indicateur 						| Définition | Formule
 `binary_crossentropy` 			| the binary crossentropy loss.
 `binary_focal_crossentropy`		| the binary focal crossentropy loss.
 `categorical_accuracy` 			| Calculates how often predictions match one-hot labels.
-`categorical_crossentropy` 		| the categorical crossentropy loss. | $- \sum y \cdot \log(p) + (1−y) \cdot \log (1−p)$
+
 `deserialize` 					| Deserializes a serialized metric class/function instance.
 `get` 							| Retrieves a Keras metric as a function/Metric class instance.
 `logcosh` 						| Logarithm of the hyperbolic cosine of the prediction error.
 `mae` 							| the mean absolute error between labels and predictions.
-`MSE`                          	| the mean squared error between labels 
+`MSE`                          	| the mean squared error between labels  | 
 `mean_absolute_error` 			| the mean absolute error between labels and predictions.
 `mean_squared_error`			| the mean squared error between labels and predictions.
-`mse` 							| the mean squared error between labels and predictions
 `serialize` 					| Serializes metric function or Metric instance.
 `sparse_categorical_accuracy` 	| Calculates how often predictions match integer labels.
 `sparse_categorical_crossentropy` 	| the sparse categorical crossentropy loss.
@@ -68,7 +81,7 @@ Indicateur 						| Définition
 Liste de paramètres à minimiser :
 
 * AIC : $-2 \cdot L + 2 \cdot p$
-* BIC (pénalise plus le nombre de paramètre que l'AIC) : $-2 \cdot L + p \codt \log n $
+* BIC (pénalise plus le nombre de paramètre que l'AIC) : $-2 \cdot L + p \cdot \log n$
 
 Avec : 
 
