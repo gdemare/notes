@@ -42,15 +42,17 @@ plugins:
       type: date
 
 markdown_extensions:
-  - pymdownx.superfences
+  - pymdownx.superfences #ajouter box, notes warning, ...
   - pymdownx.tabbed:
       alternate_style: true
   - admonition
-  - pymdownx.details
+  - pymdownx.details # créer des éléments masquables
   - pymdownx.superfences
   - pymdownx.arithmatex:
       generic: true
   - tables
+  - pymdownx.tasklist #ajouter les task lists
+  - pymdownx.magiclink # transforme les liens en éléments cliquables.
   
 extra_javascript:
   - javascripts/mathjax.js
@@ -155,6 +157,7 @@ nav:
       - "Transformation des données" : data-science/transformation-donnees.md
     - "Modèles" :
       - "Modèles" : data-science/models/models.md
+      - "Echantillionnage" : data-science/models/echantillionnage.md
       - "Coût & critères" : data-science/models/indicateurs-couts.md
       - "Type classification" : data-science/models/classification-all.md
       - "Type régression" : data-science/models/regression-all.md

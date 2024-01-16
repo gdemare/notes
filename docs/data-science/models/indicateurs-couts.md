@@ -7,12 +7,12 @@ Les indicateurs servent comme :
 
 Nombre de "questions" de type oui/non nécessaire pour connaitre la réponse. Chaque question porte sur une des modalités de la variable à prédire.
 
-$2^{bits} = N$ Soit $bits = \log _2 (N)$ Ou encore $bits = - \log _2 (\frac{1}{N})$.
+$2^{bits} = N \Leftrightarrow bits = \log _2 (N) \Leftrightarrow bits = - \log _2 (\frac{1}{N})$.
 
 Entropie de Shannon : $H(P) = -\sum_i p_i \log _2 (p_i)$
 
 Plus petite quantité d'information nécessaire pour lever l'incertitude. Elle est maximale lorsque les possibilités sont équiprobables.
-avec P le noeud
+avec $P$ le noeud
 
 Critère de GINI $G(P) = 1 - \sum^{c}{P(k|p)^2}$
 avec $c$ le nombre de modalité
@@ -67,7 +67,7 @@ Indicateur 						| Définition
 
 Liste de paramètres à minimiser :
 
-* AIC : $-2 \cdot L + 2 \ cdot p$
+* AIC : $-2 \cdot L + 2 \cdot p$
 * BIC (pénalise plus le nombre de paramètre que l'AIC) : $-2 \cdot L + p \codt \log n $
 
 Avec : 
