@@ -11,6 +11,14 @@
 
     * `{ width=50% }` préciser la largeur.
 
+## Bloc code
+
+Colorer le code.
+
+`''' py
+import tensorflow as tf
+'''`
+
 ## Lettres grecs
 
 Pour les majuscules, il faut mettre la première lettre en majuscule.

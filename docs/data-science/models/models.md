@@ -8,6 +8,8 @@ Les méthodes sont divisés en deux catégories :
 !!! note
     On parle de prévision plutôt de prédiction. La différence se situe dans le fait que la prévision s'appuie sur des indices pour anticiper
 
+Trouver le meilleur modèle consiste à identifier le modèle qui donne les meilleures résultats tout en conservant un niveau de complexité le plus faible possible. Le choix se réalise par l'utilisation de critères.
+
 ### Supervisées
 
 Les méthodes d'apprentissage sont divisé en deux catégorie en fonction du type de variables à prédire :

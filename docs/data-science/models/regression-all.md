@@ -17,4 +17,8 @@ Plusieurs outils peuvent servir à évaluer les performances des modèles de ré
 	* boxplot des erreurs de prédiction.
 	* nuage de points (prédiction et réel) avec la fonction linéaire $f(x) = x$
 
-* les indicateurs et les critères.
+* les indicateurs et les critères :
+
+	* Le coefficient de déterminantion $R^2$ qui est la proportion de la variance expliquée par le modèle Plus il est élevé et moins l'erreur explique la variance. La valeur ajustée correspond à une correction par l'effectif des observations.
+	* les fonctions coût.
+	* les critères comme AIC et BIC.
