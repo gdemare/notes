@@ -15,9 +15,11 @@
 
 Colorer le code.
 
+```
 `''' py
 import tensorflow as tf
-'''`
+'''
+```
 
 ## Lettres grecs
 
