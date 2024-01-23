@@ -175,17 +175,17 @@ Il y a deux types de protéines membranaires :
 </tbody>
 </table>
 
-## Le transport membranaire
+## Mouvement 
 
 Lorsque des molécules sont mises en solution, elles vont spontanément vers un état d'équilibre qui tend à diminuer le :
 
-* Gradient de concentration (chimique)
-* Gradient électronique (lié aux charges).
+* gradient de concentration (chimique).
+* gradient électronique (lié aux charges).
 
 !!! note
     Le système va naturellement tendre vers l'état qui maximise le chaos (l'entropie).
 
-Gradient variabilité, différence. La diminution du gradient correspond à la formation d'un milieu homogène càd qui tend à faire disparaitre les différences spatiales.
+__Gradient__ variabilité, différence. La diminution du gradient correspond à la formation d'un milieu homogène càd qui tend à faire disparaitre les différences spatiales.
 
 La membrane plasmique constitue une barrière entre deux milieux aqueux qui, en fonction du type de molécule, constitue un obstacle à
 
@@ -194,16 +194,16 @@ La membrane plasmique constitue une barrière entre deux milieux aqueux qui, en 
 
 Elle dépend des propriétés moléculaires c'est-à-dire de :
 
-* Hydrophobicité
-* Taille
-* Charge
-* Différence de concentration
+* hydrophobicité.
+* taille.
+* charge.
+* différence de concentration.
 
 Ainsi en fonction du type de molécules, le transport est assuré par :
 
-* Diffusion simple.
-* Diffusion facilitée.
-* Transport actif.
+* diffusion simple.
+* diffusion facilitée.
+* transport actif.
 
 !!! note
     Ce sont des protéines membranaires qui assurent la diffusion facilitée et le transport actif.
@@ -264,19 +264,20 @@ __Force électromotrice__ (FEM ou potentiel) valeur de la charge dissymétrique 
 !!! note
     Pour se rappeler du sens, du milieu avec le plus grand potentiel vers le plus faible. Il faut penser à prendre le sens opposé lorsque c'est un anion (ion -).
 
-*Déplacement des ions :* Si on ouvre les canaux dans quel sens vont se
-déplacer les ions ?
+!!! example 
+	Si on ouvre les canaux dans quel sens vont se déplacer les ions ?
 
-Données :
+	Données :
 
-* pour $Cl^-$ on $C_{int} = 13mM$ a et $C_{ext} = 13mM$. La charge a appliquer est $E_{ion} = - 58mV$.
-* $E_{membrane} = - 70mV$
+	* pour $Cl^-$ on $C_{int} = 13mM$ a et $C_{ext} = 13mM$. La charge a appliquer est $E_{ion} = - 58mV$.
+	* $E_{membrane} = - 70mV$
 
-Ainsi, $fem = - 70 + 58 = - 12\ mV$.
+	Ainsi, $fem = - 70 + 58 = - 12\ mV$.
 
-Conclusion : Comme l'ion est négatif et $fem \lt 0$, le milieu intra cellulaire est chargé négativement pour l'ion alors le flux est sortant pour équilibrer les charges.
+	Conclusion : Comme l'ion est négatif et $fem \lt 0$, le milieu intra cellulaire est chargé négativement pour l'ion alors le flux est sortant pour équilibrer les charges.
 
-Pile les électrons vont du cathode (+) à l'anode (-). La représentation en circuit électrique le flux de charge. Pour Na+ qui entre la borne +
+!!! note
+	Dans une pile les électrons vont du cathode (+) à l'anode (-). La représentation en circuit électrique le flux de charge. Pour $Na^+$ qui entre la borne +.
 
 ### Conductance unitaire du canal (loi d'Ohm)
 
@@ -300,7 +301,7 @@ Avec :
 * $U$ charge du courant en sortie en V.
 * $R$ résistance.
 
-## Les transports membranaires
+## Transport membranaire
 
 Pour pouvoir réaliser les activités métaboliques et éliminer ses déchets, la cellule a besoin d'échanger des molécules avec son environnement. Certaines diffusent facilement à travers la membrane mais pour d'autre, elle forme une barrière :
 
@@ -326,15 +327,16 @@ La diffusion facilitée est le moyen de transport des molécules pour qui la mem
 
 Il existe trois types de protéines en fonction de l'échange de molécules :
 
-* Uniport.
-* Symport.
-* Antiport. 
+* uniport.
+* symport.
+* antiport. 
 
-Exemple de protéines :
+!!! example
+	Exemple de protéines :
 
-* Canaux ioniques
-* Les aquaporines qui sont des canaux ouverts permettent à l'eau de se répartir entre le milieu extra et intra cellulaire suivant l'osmose.
-* Transporteurs (Glut).
+	* Canaux ioniques.
+	* Les aquaporines qui sont des canaux ouverts permettent à l'eau de se répartir entre le milieu extra et intra cellulaire suivant l'osmose.
+	* Transporteurs (Glut).
 
 ### Transport actif
 
@@ -347,15 +349,16 @@ Il existe deux catégories de transport en fonction de la source d'énergie uti
 
 Pour les (symport ou antiport).
 
-Exemples de protéines du transport actif :
+!!! example
+	Protéines du transport actif :
 
-* Pompes à sodium et potassium ( $Na^+$ / $K^+$ ). Elles font sortir 3 $Na^+$ et fon rentrer 2 $K^+$. Elles servent notamment à maintenir une différence de gradient de concentration et chimique avec le milieu extracellulaire. Elles consomment 40% de l'ATP produit par la cellule.
-* Pompe à protons.
-* Pompe SERCA (calcium).
-* Pompe $H^+$ / $K^+$ -ATPase (de type antiport). Elles sont responsables de l'acidité des liquides gastriques.
-* Pompes électro neutres.
+	* Pompes à sodium et potassium ( $Na^+$ / $K^+$ ). Elles font sortir 3 $Na^+$ et fon rentrer 2 $K^+$. Elles servent notamment à maintenir une différence de gradient de concentration et chimique avec le milieu extracellulaire. Elles consomment 40% de l'ATP produit par la cellule.
+	* Pompe à protons.
+	* Pompe SERCA (calcium).
+	* Pompe $H^+$ / $K^+$ -ATPase (de type antiport). Elles sont responsables de l'acidité des liquides gastriques.
+	* Pompes électro neutres.
 
-## L'asymétrie entre le milieu intra et extracellulaire 
+## Asymétrie entre le milieu intra et extracellulaire 
 
 La différence de charges entre les deux milieux est à l'origine de :
 

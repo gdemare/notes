@@ -50,7 +50,7 @@ Hypothèse : Pour se protéger, certaines cellules se sont regroupées et ont d
 
 L'apparition de compartiments a été cruciale dans l'évolution des cellules eucaryotes. Elle a permis à des réactions chimiques incompatibles de se réaliser simultanément. Au cours du temps, les compartiments que l'on appelle organites se sont spécialisés dans une ou plusieurs fonctions comme le noyau, le système endomembranaire, les mitochondries ou les lysosomes.
 
-# Cytosol
+## Cytosol
 
 Cytoplasme totalité du volume cellulaire mise à part le noyau.
 
@@ -59,28 +59,21 @@ organites.
 
 Composition de la masse du cytosol
 
-|           |             |     |
-|-----------|-------------|-----|
-| 85% d'eau | 9% protéine |     |
+* 85% d'eau.
+* 9% protéine.
 
 Majoritairement organise en complexe
 
 Le cytosol est le lieu de :
 
--   Nombreuses réactions chimiques du métabolisme.
+* Nombreuses réactions chimiques du métabolisme.
+* De la synthèse des protéines via les ribosomes libres.
+* Lieu de stockage de l'énergie comme le glycogène.
 
--   De la synthèse des protéines via les ribosomes libres.
-
--   Lieu de stockage de l'énergie comme le glycogène.
-
-
-
-### Lieu de stockage
+### Stockage de l'énergie
 
 Lieu de stockage de l'énergie sous la forme de :
 
-| ATP | Lipidiques triglycérides | Sucre                 |
-|-----|--------------------------|-----------------------|
-|     | Gouttelette              | Rosette de glycogènes |
-
-----------------------------------
+* ATP
+* lipidiques triglycérides, Gouttelette
+* Sucre, Rosette de glycogènes

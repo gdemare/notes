@@ -104,24 +104,18 @@ L'actine représente 10% des protéines des cellules.
 
 L'actine est présente sous deux formes dans la cellule :
 
-|                              |                                          |
-|------------------------------|------------------------------------------|
-| Monomère (actine Globulaire) | Polymère = filament (actine Fibrillaire) |
+* monomère (actine Globulaire).
+*polymère = filament (actine Fibrillaire).
 
 Le diamètre de l'actine F est d'environ 5 à 7nm. 
 
-L'actine F est constitué de deux brins entortillés, chacun étant un
-polymère de sous-unités d'actine G
+L'actine F est constitué de deux brins entortillés, chacun étant un polymère de sous-unités d'actine G
 
-![](media/image21.jpeg){width="2.0576924759405073in"
-height="1.9683005249343832in"}Le monomère d'actine est stabilisé par
-l'association à un nucléotide (l'ATP ou l'ADP).
+Le monomère d'actine est stabilisé par l'association à un nucléotide (l'ATP ou l'ADP).
 
-C'est hydrolyse de l'ATP qui affaibli les liaisons entre les molécules
-d'actine et provoque la dépolymérisation.
+C'est hydrolyse de l'ATP qui affaibli les liaisons entre les molécules d'actine et provoque la dépolymérisation.
 
-In vitro, la vitesse de polymérisation à l'extrémité « + » d'un filament
-d'actine est trois fois supérieure à celle de l'extrémité « - ». 
+In vitro, la vitesse de polymérisation à l'extrémité « + » d'un filament d'actine est trois fois supérieure à celle de l'extrémité « - ». 
 
 ### Protéines associées aux filaments d'actine
 
@@ -205,12 +199,12 @@ Les microtubules sont formés de 13 protofilaments. Les interactions se font ent
 
 Les microtubules se déploient à partir d'une zone localisée dans la cellule appelée centrosome. Elle est formée de deux centrioles positionnés perpendiculairement et entourée d'un amas de protéines.
 
-__Centrosome__ centre organisateur des microtubules.\
+__Centrosome__ centre organisateur des microtubules.
 
 Un centriole est composé d'une épaisseur de tubuline gamma associée à des protéines de type GCPS. L'ensemble forme un complexe appelé gamma-TUSC. Au-dessus se trouve l'alternance des tubulines alpha et beta avec l'extrémité + dirigée vers l'extérieur de centrosome.
 
-!!! note La tubuline gamma est impliquée dans la biogénèse
-des microtubules.
+!!! note
+    La tubuline gamma est impliquée dans la biogénèse des microtubules.
 
 ## Instabilité dynamique des microtubules. 
 
@@ -226,12 +220,13 @@ __Sauvetage__ processus qui s'oppose à la dépolymérisation des microtubules e
 !!! note
     Le rôle des protéines dépend des interactions avec d'autres protéines. Il peut changer au cours du temps.
 
-Exemples de protéines régulatrices stabilisatrices :
+!!! example 
+    Exemples de protéines régulatrices stabilisatrices :
 
-* Protéines de type MAPS structurales ont une affinité qui diminue avec l'augmentation du nombre de phosphorylations.
-* TIPS interagissent avec l'extrémité +.
+    * Protéines de type MAPS structurales ont une affinité qui diminue avec l'augmentation du nombre de phosphorylations.
+    * TIPS interagissent avec l'extrémité +.
 
-Par exemple, MAP2 et Tau structurent et organisent les microtubules dans les dendrites.
+    Par exemple, MAP2 et Tau structurent et organisent les microtubules dans les dendrites.
 
 ### Protéines déstabilisatrices
 
@@ -243,13 +238,11 @@ Les protéines déstabilisatrices peuvent agirent soit :
 La déstabilisation de l'extrémité augmente la probabilité de dépolymérisation au niveau de l'extrémité. Elle peut se faire de deux manières en :
 
 * Séquestrant la tubuline càd en diminuant la concentration de tubuline disponible au moins au niveau de l'extrémité du microtubule.
-
 * Déstabilisant l'extrémité.
 
 Quelques exemples de protéines de déstabilisation :
 
 * Les stathmines s'associent aux dimères et bloquent la capacité d'interaction de ces derniers. L'affinité est régulée par leur degré de phosphorylation (corrélation positive). Son activité dépend du degré de phosphorylation.
-
 * Katanine provoque le désassemblage par fragmentation des microtubules.
 
 ### Les substances toxiques
@@ -322,7 +315,7 @@ Ils sont reliés par les bras rayonnants.
 
 Les doublets périphériques sont formés entre un microtubule A incomplet et un B. Les « bras » externes et internes sont constitués de dynéine.
 
-# Les microfilaments
+## Les microfilaments
 
 Les filaments d'actines ou microfilaments sont l'assemblage d'un polymère d'actines F formé de monomères d'actine G.
 
@@ -345,9 +338,9 @@ La polymérisation de G en F dépend de : 
 * $Mg^{2+}$.
 * Force ionique élevée.
 
-La phalloïdine est une molécule fluorescente d\'origine fongique qui se fixe et stabilise les microtubules et les rend fluorescent.
+La phalloïdine est une molécule fluorescente d'origine fongique qui se fixe et stabilise les microtubules et les rend fluorescent.
 
-### Propriété
+### Propriétés
 
 La polymérisation d'actines G en F, appelée nucléation, se fait suivant le mécanisme du tapis roulant. Les actines G s'alignent légèrement décaler (non rectiligne).
 
@@ -365,15 +358,15 @@ La polarité de l'actine G se retrouve dans la structure fonctionnelle de l'acti
 
 La polarité structurale est définie par l'interaction avec les têtes de myosines. Elles sont orientées vers l'extrémité barbue.
 
-## Les protéines de polymérisation
+## Protéines de polymérisation
 
-### Les protéines qui interagissent avec l'actine
+### Protéines qui interagissent avec l'actine
 
-Les protéines qui interagissent avec l'actine notées ABP (Actins Binding Protéins) 
+Les protéines qui interagissent avec l'actine notées ABP (Actins Binding Protéins)
 
 Quelques exemples d'ABP :
 
-* Profiline favorise la polymérisation de l'actine à l\'extrémité +.
+* Profiline favorise la polymérisation de l'actine à l'extrémité +.
 * Thymosine est une protéine de séquestration de l'actine G-ATP.
 * Cofiline dépolymérise à l'extrémité -- en hydrolysant l'ATP de l'actine G.  Elle est régulée par phosphorylation. Elle est également une protéine de fragmentation à pH basique.
 * Gelsoline fragmente les polymérimères ou elle peut servir de coiffe  pour empêche l'évolution des microfilaments.
@@ -436,14 +429,14 @@ Le réseau de microtubules se polymérise en organisation parallèle pour :
 
 Cet événement a lieu notamment grâce à Rho. Les extrémité des filopodes sont coiffées de formine.
 
-# Filaments intermédiaires
+## Filaments intermédiaires
 
 Le réseau le moins dynamique et le plus résistant dans la cellule. C'est lui qui confère la forme à la cellule.
 
 Chaque cellule possède deux types de filaments intermédiaires :
 
-* Réseau nucléaire des lamines.
-* Réseau cytoplasmique.
+* réseau nucléaire des lamines.
+* réseau cytoplasmique.
 
 Les filaments intermédiaires sont formés par de nombreuses types de protéines différentes. Leur composition dépend de leur position dans la cellule et du type de cellule.
 

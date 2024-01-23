@@ -1,51 +1,36 @@
-
 ## Le squelette et la division cellulaire
 
-La division cellulaire est le résultat de deux événements distincts qui
-aboutissent à la production de deux cellules que sont :
+La division cellulaire est le résultat de deux événements distincts qui aboutissent à la production de deux cellules que sont :
 
-|                            |                                      |
-|----------------------------|--------------------------------------|
-| Mitose (division du noyau) | Cytodiérèse (division du cytoplasme) |
+* mitose qui est la division du noyau.
+* cytodiérèse ou cytocinèse qui est division du cytoplasme.
 
 ### Cytocinèse
 
-[NB]{.underline} la cytocinèse est aussi appelée cytodiérèse.
+Durant la télophase, les filaments d'actines vont entourer la cellule et former l'anneau contractile, un faisceau de filaments, avec une orientation antiparallèle.
 
-Durant la télophase, les filaments d'actines vont entourer la cellule et
-former l'anneau contractile, un faisceau de filaments, avec une
-orientation antiparallèle.
-
-Sous l'action de protéines myosines, le diamètre de l'anneau va
-progressivement se réduire jusqu'à provoquer la séparation
+Sous l'action de protéines myosines, le diamètre de l'anneau va progressivement se réduire jusqu'à provoquer la séparation
 
 ### Interphase
 
-Nucléation phénomène d'apparition d'une structure ordonnée.
+__Nucléation__ phénomène d'apparition d'une structure ordonnée.
 
-Grâce à une stabilisation sélective, elles peuvent former le fuseau
-mitotique. La nucléation des microtubules en interphase à lieu
-uniquement au niveau du centrosome dans la matrice péricentriolaire. Les
-protéines tau et map2 protègent les microtubules de la dépolymérisation.
+Grâce à une stabilisation sélective, elles peuvent former le fuseau mitotique. La nucléation des microtubules en interphase à lieu uniquement au niveau du centrosome dans la matrice péricentriolaire. Les protéines tau et map2 protègent les microtubules de la dépolymérisation.
 
-[NB :]{.underline} Ils sont plus nombreux que durant la division
-cellulaire que pendant l'interphase.
+!!! note
+    Ils sont plus nombreux que durant la division cellulaire que pendant l'interphase.
 
 ## Le centrosome
 
-Le centrosome est un organite situé notamment près du noyau. Il est
-composé de deux centrioles orientés en angle droit et il est responsable
-de la nucléation des microtubules et de l'ancrage.
+Le centrosome est un organite situé notamment près du noyau. Il est composé de deux centrioles orientés en angle droit et il est responsable de la nucléation des microtubules et de l'ancrage.
 
 ### Les centrioles
 
-Les cellules eucaryotes animales contiennent 2 centrioles constitués de
-neuf triades de microtubules.
+Les cellules eucaryotes animales contiennent 2 centrioles constitués de neuf triades de microtubules.
 
 L'extrémité « - » des microtubules est orientée vers le centrosome.
 
 genèse de cancers.
-
 
 ---------------------
 
@@ -55,8 +40,8 @@ Le cycle cellulaire est une succession d'événements ordonnée qui permet à la
 
 Elle est composée de deux types d'étapes :
 
-* De phases G (pour gap qui signifie trou) sont des périodes sans changements majeurs.
-* De phases accompagnées de changements importants dans la cellule : les phases S (réplication de l'ADN) et M (pour la méiose ou la mitose).
+* de phases G (pour gap qui signifie trou) sont des périodes sans changements majeurs.
+* de phases accompagnées de changements importants dans la cellule : les phases S (réplication de l'ADN) et M (pour la méiose ou la mitose).
 
 !!! note
     Toutes les cellules n'ont pas la capacité de se répliquer. Par exemple, les neurones et les cellules de cristallin ne se répliquent pas. Si nos neurones étaient renouvelés, les souvenirs ne pourraient pas s'inscrire durablement en nous.
@@ -86,8 +71,8 @@ En moyenne, la durée minimale entre deux division est de 24h.
 
 Le cycle de division cellulaire est une suite de période en deux phases :
 
-* L'interphase durant laquelle a lieu la réplication de l'ADN. Durant c'est phase la cellule synthétise des protéines et les organistes cellulaire. La croissance et l'interphase représentent en moyenne 90% de temps de vie cellulaire.
-* Métaphase (la phase M). Elle dure moins d'une heure. C'est seulement à partir de cette étape que la division cellulaire est visible au microscope.
+* l'interphase durant laquelle a lieu la réplication de l'ADN. Durant c'est phase la cellule synthétise des protéines et les organistes cellulaire. La croissance et l'interphase représentent en moyenne 90% de temps de vie cellulaire.
+* métaphase (la phase M). Elle dure moins d'une heure. C'est seulement à partir de cette étape que la division cellulaire est visible au microscope.
 
 !!! note
     C'est seulement durant l'interphase que la cellule synthétise des protéines et les organistes cellulaire

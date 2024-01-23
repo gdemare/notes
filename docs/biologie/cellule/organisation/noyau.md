@@ -1,9 +1,7 @@
-# Noyau
-
 Le noyau est le lieu de :
 
-* Stockage de l'information génétique.
-* L'expression des gènes càd de la transcription de l'ADN en ARN.
+* stockage de l'information génétique.
+* l'expression des gènes càd de la transcription de l'ADN en ARN.
 
 Le noyau est protégé par une double membrane phospholipidique.
 
@@ -15,7 +13,7 @@ Les molécules peuvent rentrer et sortir du noyau soit par :
 * Diffusion simple comme pour les petites molécules et les ions.
 * Pore nucléique (entre 3000 à 4000) notamment les molécules de masse supérieure à 50 000 Da.
 
-## Le contenu du noyau
+## Contenu du noyau
 
 Le noyau contient l'ADN et un mélange de protéines appelés chromatine.
 
@@ -35,12 +33,11 @@ L'hétérochromatine est la forme de l'ADN condensé. Comme la cellule n'utilise
 
 On distingue deux types d'hétérochromatines :
 
-| Constitutive                                                                                      | Facultative                                                                 |
-|------------------------------------|------------------------------------|
-| Dont les gènes ne sont jamais utilisés, télomère (extrémités des chromosomes). Rôle de structure. | Gène non utilisé pour le moment mais qui pourront devenir de l'euchromatine |
+constitutive, dont les gènes ne sont jamais utilisés, télomère (extrémités des chromosomes). Rôle de structure.
+facultative, gène non utilisé pour le moment mais qui pourront devenir de l'euchromatine.
 
 !!! note
-    Le taux d'ADN empaqueté dans la cellule atteint sonparoxysme lors de la division cellulaire durant la métaphase.
+    Le taux d'ADN empaqueté dans la cellule atteint son paroxysme lors de la division cellulaire durant la métaphase.
 
 L'empaquetage est réalisé par des protéines appelées histones qui enroulent ou déroulent l'ADN suivant le besoin de la cellule.
 
@@ -48,28 +45,26 @@ L'empaquetage est réalisé par des protéines appelées histones qui enroulent 
 
 Il y a deux protéines responsables de la condensation de l'ADN :
 
-* Histones (en interphase).
-* Condensine (en mitose et méiose).
+* histones (en interphase).
+* condensine (en mitose et méiose).
 
-Les histones
+#### Les histones
 
 __Histone__ protéines qui protègent et permettent la compaction des chromosomes via des modifications chimiques réversibles. Les histones sont composées essentiellement d'arginines et de lysines, des acides aminés chargés positivement à pH physiologique (7,4) qui auront une affinité avec les charges négatives de l'ADN. 
 
 !!! note
     Il y a la même masse d'ADN que d'histones.
 
-|               |                                                                                                                                                                       |
-|------------------|------------------------------------------------------|
-| Décompactage  | L\'acétylation des résidus de lysines neutralise les charges positives des histones et induit une relâchement de la chromatine.                                       |
-| Compactage    | Les protéines Sir organisent l'ADN sous la forme hétérochromatine., Les charges positives des histones représentent un site de reconnaissance pour les protéines Sir. |
+décompactage, l'acétylation des résidus de lysines neutralise les charges positives des histones et induit une relâchement de la chromatine.
+compactage. Les protéines Sir organisent l'ADN sous la forme hétérochromatine., Les charges positives des histones représentent un site de reconnaissance pour les protéines Sir.
 
 Les histones H1 sont responsables de la formation de la fibre de 30 nm.
 
-Nucléosome est un complexe comportant un segment d'ADN de 146 ou 147 paires de nucléotides, enroulé autour d'un cœur d'un octamère d'histones qui donnent l'apparence d'un « collier de perles » à l'ADN.
+Le nucléosome est un complexe comportant un segment d'ADN de 146 ou 147 paires de nucléotides, enroulé autour d'un cœur d'un octamère d'histones qui donnent l'apparence d'un « collier de perles » à l'ADN.
 
 Leurs extrémités allongées (N-terminale) sont particulièrement riches en résidus de lysines et d'arginines.
 
-Les condensines
+#### Les condensines
 
 __Condensine__ complexe de protéines impliquées dans la condensation des chromosomes avant la mitose.
 
@@ -85,7 +80,7 @@ Il est formé de partie de 10 chromosomes qui contiennent l'information nécessa
 
 Le noyau est protégé par une enveloppe nucléaire composée de trois couches :
 
-* Lamina (membrane interne)
+* lamina (membrane interne).
 * Lumen du RE (l'espace intermembranaire) qui se trouve entre deux bicouches lipidiques.
 * Couche lipidique (membrane externe) souvent parsemée de ribosomes.
 
@@ -102,28 +97,27 @@ Les deux réactions chimiques qui se produisent dans le noyau sont :
 * La réplication de l'ADN
 * La transcription de l'ADN en ARN dont fait partie la synthèse des ribosomes
 
-### La transcription de l'ADN en Acide ribonucléique (ARN)
+### Transcription de l'ADN en Acide ribonucléique (ARN)
 
 On distingue quatre types d'ARN :
+
 * **M**essager (1%) qui quitte le noyau pour la synthèse de protéines dans le cytosol 
 * de **T**ransfert
 * **R**ibosomale
 * régulatrice
 
-ARN Messager
+#### ARN Messager
 
-L'ARN M transcrit n'est pas directement utilisable par la cellule. Il a besoin de subir préalablement un processus de maturation qui comprend notamment une étape d'épissage où les introns (parties non utiles) sont retirés par excisions et les exons sont conservés et liés entre eux. On distingue l'ARN M primaire (ou précoce) et l'ARN secondaire (ou
-mature).
+L'ARN M transcrit n'est pas directement utilisable par la cellule. Il a besoin de subir préalablement un processus de maturation qui comprend notamment une étape d'épissage où les introns (parties non utiles) sont retirés par excisions et les exons sont conservés et liés entre eux. On distingue l'ARN M primaire (ou précoce) et l'ARN secondaire (ou mature).
 
-### La synthèse des ribosomes
+#### Synthèse des ribosomes
 
 Les ribosomes sont un complexe nucléoprotéique constitué de :
 
 * ARN R.
 * Acides aminées.
 
-Ils sont synthétisés sous la forme de deux sous-unités qui ne se
-réuniront que lorsqu'elles auront quitté le noyau et qu'elles seront
+Ils sont synthétisés sous la forme de deux sous-unités qui ne se réuniront que lorsqu'elles auront quitté le noyau et qu'elles seront
 dans le cytosol :
 
 <table>
@@ -149,7 +143,7 @@ dans le cytosol :
 !!! note
     Les ribosomes sont plus nombreux dans les cellules qui sécrètent activement des protéines (comme des lymphocytes).
 
-## Les pores nucléaires
+### Les pores nucléaires
 
 Les pores nucléaires sont la zone d'échanges entre le noyau et le
 cytosol. Ils permettent :
@@ -197,24 +191,24 @@ L'anneau nucléoplasmique est relié à un autre anneau plus petit par huit fila
 
 Le récepteur d'importation nucléaire se lit aux grosses molécules et aux protéines nucléaires grâce à une séquence signal de localisation nucléaire. Il les dirige ensuite vers un pore nucléaire.
 
-Signal de localisation nucléaire NLS séquence de 4 à 8 AA basiques chargée à pH physiologique qui permet aux grosses molécules d'être reconnue par le récepteur d'importation nucléaire pour être importé dans le noyau.
+__Signal de localisation nucléaire__ NLS séquence de 4 à 8 AA basiques chargée à pH physiologique qui permet aux grosses molécules d'être reconnue par le récepteur d'importation nucléaire pour être importé dans le noyau.
 
-SRP complexe constitué de (huit) protéines et d'un ARN formée dans le nucléole. Les protéines formant la SRP possèdent une séquence de localisation nucléaire (NLS).
+Le SRP complexe est constitué de (huit) protéines et d'un ARN formée dans le nucléole. Les protéines formant la SRP possèdent une séquence de localisation nucléaire (NLS).
 
 C'est le récepteur qui se lie aux fibrilles puis au transporteur central pour faire rentrer son chargement dans le noyau. L'importation nécessite de l'énergie sous forme de GDP.
 
 Une fois la traversé effectuée il se détache et rejoint le cytosol.
 
-Récepteur d'importation nucléaire dirige la protéine vers le pore nucléaire où il se lie aux fibrilles puis au transporteur central.
+Le récepteur d'importation nucléaire dirige la protéine vers le pore nucléaire où il se lie aux fibrilles puis au transporteur central.
 
 !!! note
     Le pore nucléique peut se dilater jusqu'à 26 nm.
 
-### L'exportation de l'ARN
+### Exportation de l'ARN
 
 Les ARN sont associés à une protéine d'exportation qui contient une séquence signal d'exportation nucléaire (NES). La séquence NES est hydrophobe.
 
-# Les ribosomes
+## Les ribosomes
 
 Les ribosomes produisent les protéines en associant à l'ARN Messager
 dans le cytosol soit :

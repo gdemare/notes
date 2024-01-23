@@ -1,9 +1,7 @@
-## La membrane plasmique
-
 Elle forme une bicouche qui sépare deux espaces aqueux :
 
-* Milieu extracellulaire
-* Cytoplasme
+* Mmilieu extracellulaire
+* cytoplasme
 
 C'est à la fois la barrière et la zone d'échanges de la cellule.
 
@@ -11,11 +9,9 @@ C'est à la fois la barrière et la zone d'échanges de la cellule.
 
 La membrane plasmique est constituée de trois types de molécules.
 
-|            |                                                           |
-|------------|-----------------------------------------------------------|
-| Lipides    | Forme deux couches hydrophobes grâce à l'entropie.        |
-| Protéines  | Parsème les lipides et donne la spécificité à la membrane |
-| Glycocalix | Uniquement sur le feuillet externe                        |
+* lipides qui forment deux couches hydrophobes grâce à l'entropie.
+* protéines qui parsème les lipides et donne la spécificité à la membrane.
+* glycocalix uniquement sur le feuillet externe.
 
 Il y a environ une protéine pour 50 lipides. La masse protéine = masse lipide = 50%.
 
@@ -32,17 +28,13 @@ __Liposome__ vésicule artificielle.
 
 Les lipides sont des molécules amphipatiques ou amphiphiles c'est-à-dire qu'elles sont composées de deux régions :
 
-| Hydrophile                     | Hydrophobe        |
-|--------------------------------|-------------------|
-| Phosphate et un groupe de tête | Chaines carbonées |
+* hydrophile, phosphate et un groupe de tête.
+* hydrophobe, chaines carbonées.
 
-Amphiphile molécule qui possède d'une région hydrophobe et un autre hydrophile.
+__Amphiphile__ molécule qui possède d'une région hydrophobe et un autre hydrophile.
 
-Ils sont composés de :
-
-|                                                                                   |                                                            |
-|-----------------------------------|-------------------------------------|
-| ![](media/image3.jpeg){width="2.278261154855643in" height="0.6016469816272966in"} | La différence entre les lipides réside dans le grp de tête |
+!!! note
+    La différence entre les lipides réside dans le grp de tête.
 
 Dans l'eau sous l'action de l'entropie, les lipides se regroupent et forment une bicouche de lipides. Ils sont menus ensemble grâce aux forces de van der val.
 
@@ -88,24 +80,21 @@ Les phosphoglycérolipides sont les lipides les plus abondants. Ils représenten
 
 Les glucides sont impliqués dans des mécanismes de :
 
-* Reconnaissance cellulaire.
-* Protection cellulaire contre des agressions mécaniques, chimiques et enzymatiques. Ils sont très hydrophiles et en nombre suffisant, ils peuvent créer une zone de protection qui prend l'apparence d'un « gel » appelé cell coat.
+* reconnaissance cellulaire.
+* protection cellulaire contre des agressions mécaniques, chimiques et enzymatiques. Ils sont très hydrophiles et en nombre suffisant, ils peuvent créer une zone de protection qui prend l'apparence d'un « gel » appelé cell coat.
 
 Ils se trouvent uniquement sur la membrane extracellulaire.
 
 Les glucides ne sont pas directement insérés dans la membrane. Ils sont fixés par des liaisons covalentes sur :
 
-|                                 |             |
-|---------------------------------|-------------|
-| Les protéines (majoritairement) | Les lipides |
-| Glycoprotéine                   | Glycolipide |
+* Glycoprotéine, les protéines (majoritairement).
+* Glycolipide, Les lipides.
 
 Les groupements de tête des glycolipides sont des oligo- ou des polysaccharides.
 
 ## Les protéines membranaires
 
-Les protéines membranaires donnent la fonction à la membrane. Elles
-assurent :
+Les protéines membranaires donnent la fonction à la membrane. Elles assurent :
 
 * Transport
 * Activité enzymatique.
@@ -121,8 +110,8 @@ Les protéines sont classées en deux catégories en fonction de leur position 
 
 Les protéines périphériques sont arrimées soit à :
 
-* Protéine intramembranaire par une liaison non covalente
-* Lipide par une liaison covalente
+* protéine intramembranaire par une liaison non covalente
+* lipide par une liaison covalente
 
 ## La fluidité membranaire
 
@@ -139,7 +128,7 @@ La fluidité membranaire dépend :
 !!! note
     La composition des membranes varie fortement entre les espèces.
 
-## Un espace d'échange
+## Un espace d'échanges
 
 Les échanges sont assurés soit par :
 
@@ -150,15 +139,15 @@ Les petites molécules non chargées comme les hydrocarbures, le dioxyde de carb
 
 On distingue deux types de protéines qui assurent les échanges en fonction de leur consommation énergétique :
 
-* Passif ou facilité.
-* Actif.
+* passif ou facilité.
+* actif.
 
 ### La diffusion simple
 
 Le transport passif ou facilité fonctionne grâce à la différence de :
 
-* Gradient.
-* Potentiel électrique.
+* gradient.
+* potentiel électrique.
 
 Comme le cytoplasme est chargé négativement par rapport au milieu extracellulaire, les cations sont tendances à entrer et les anions à sortir.
 
