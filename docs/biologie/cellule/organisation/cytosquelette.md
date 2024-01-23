@@ -278,38 +278,22 @@ Par exemple, les neurotransmetteurs relâchés au niveau des synapses sont synth
 
 La dynéine assure le transport des vésicules. Elle lie la vésicule par l'intermédiaire de transport des vésicules par la dynactine, un complexe protéique présent sur la membrane des vésicules et le filament ARP.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Méthode : étudier les dynéines, présentation d’une méthode pour
-purifier les dynéines</p>
-<p>Les dynéines sont associées aux microtubules. Pour les étudier, on a
-besoin de pouvoir les isoler.</p>
-<ol type="1">
-<li><p>Dépolarisation des microtubules. Les microtubules sont décomposés
-en dimère.</p></li>
-<li><p>Ajout d’ATP. Cela conduit à l’activation des dynéines qui
-arrivent rapidement en bout de chaîne et se détachent fragments
-d’actines</p></li>
-</ol></td>
-</tr>
-</tbody>
-</table>
+!!! example
+    Pour étudier les dynéines, il faut  d'une méthode pour purifier les dynéines : Les dynéines sont associées aux microtubules. Pour les étudier, on a besoin de pouvoir les isoler.
+    1. Dépolarisation des microtubules. Les microtubules sont décomposés en dimère.
+    2. Ajout d’ATP. Cela conduit à l’activation des dynéines qui arrivent rapidement en bout de chaîne et se détachent fragments d’actines.
 
 ### Fonctionnement des cils et des flagelles
 
-Les cils et les flagelles se distinguent par la longueur de l'extension. Les cils plus courts ne peuvent faire qu'un mouvement dans un plan, par opposition, au flagelle plus long qui peuvent s'agiter dans un volume.
+Les cils et les flagelles se distinguent par la longueur de l'extension. Les cils plus courts ne peuvent faire qu'un mouvement dans un plan, par opposition, aux flagelles plus longs qui peuvent s'agiter dans un volume.
 
 !!! note
     Il existe des différences fondamentales entre les flagelles eucaryotes et procaryotes.
 
 La structure des cils et des flagelles est dite axonème. Elle est formée de $9+2$ microtubules :
 
-* Neuf doublés périphériques
-* Deux doublés centraux.
+* neuf doublés périphériques
+* deux doublés centraux.
 
 Ils sont reliés par les bras rayonnants.
 
@@ -321,8 +305,8 @@ Les filaments d'actines ou microfilaments sont l'assemblage d'un polymère d'ac
 
 L'actine G possède en son centre : 
 
-* Un ATP ou un ADP (par hydrolyse ou remplacement)
-* Un cation bivalent $Ca^{2+}$ ou $Mg^{2+}$.
+* un ATP ou un ADP (par hydrolyse ou remplacement).
+* un cation bivalent $Ca^{2+}$ ou $Mg^{2+}$.
 
 L'hydrolyse de l'ATP n'est pas spontanée. Elle nécessite l'action d'une enzyme.
 
@@ -332,11 +316,11 @@ __Protéine associée à l'actine__ (Actin Related Proteins noté ARP) protéine
 
 La polymérisation de G en F dépend de : 
 
-* La concentration d'actine.
-* Du pH.
-* De la température.
+* la concentration d'actine.
+* du pH.
+* de la température.
 * $Mg^{2+}$.
-* Force ionique élevée.
+* de la force ionique élevée.
 
 La phalloïdine est une molécule fluorescente d'origine fongique qui se fixe et stabilise les microtubules et les rend fluorescent.
 

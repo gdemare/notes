@@ -251,7 +251,7 @@ Certaines plantes ont développé des adaptations pour pallier le manque de $CO_
 
 ## Le métabolisme carboné
 
-### Phase d'assimilation du $CO_2$ (Calvin)
+### Phase d'assimilation du CO2 (Calvin)
 
 La phase biochimique d'assimilation du $CO_2$ ou cycle de Clavin a lieu dans le stroma. Elle permet de récupérer le carbone d'une molécule de $CO_2$ pour fabriquer une molécule organique. Elle forme un cycle càd qu'une partie du produit est utilisée pour renouveler la réaction.
 
@@ -301,10 +301,8 @@ La température. Elle diminue plus vite pour le $CO_2$
 
 Différence entre la photorespiration et la
 
-|       |                       |
-|-------|-----------------------|
-| $CO_2$ | 2 APG
-| $O_2$  | 1APG+1 (2-polycolate) |
+* $CO_2$ en 2 APG.
+* $O_2$  en 1APG+1 (2-polycolate).
 
 Le glycolate (2-polycate) qui est exploité dans la respiration cellulaire. Il est d'abord :
 
@@ -323,7 +321,7 @@ Les raisons qui expliquent la présence de ce mécanisme :
 * un héritage de l'évolution. Lorsque la photosynthèse est apparue, l'atmosphère était dépourvue en $O_2$. Il n'était pas nécessaire que la RubisCo distingue $O_2$ et $CO_2$. Or la photosynthèse a changé la composition atmosphérique faisant passer la quantité d'oxygène d'une valeur négligeable à 21% et le $CO_2$ à 0,3%. Ainsi le problème serait apparu après.
 * Photoprotection. Lors de fortes chaleurs ou en condition de manque d'eau les stomates sont fermés pour limiter l'évaporation. La lumière continue de faire fonctionner les systèmes photosynthétiques même lorsque la concentration de $CO_2$ trop faible. C'est le $O_2$ qui réduit générant du $O_2^-$, une molécule très réactive pouvant altérer les molécules voisines. La respiration servirait à maintenir du $CO_2$ dans la plante éviter la formation de $O_2^-$.
 
-## Plantes au métabolisme C4
+## Métabolisme C4
 
 Le métabolisme C4 concerne 1500 espèces principalement tropicales ou subtropical et monocotylédone (par exemple, le maïs, la canne à sucre...).
 
@@ -380,8 +378,7 @@ Le produit du cycle de Calvin est le triose phosphate. Sa concentration augmente
 * Exporté dans le cytosol et dans le reste de la plante principalement sous forme de saccharose.
 * Stocké sous forme de polymères de glucose : d'amidon (sans ramification) ou d'amylose (avec ramification).
 
-Les sucres sont alors disponibles pour le métabolisme et la synthèse de
-composé organique.
+Les sucres sont alors disponibles pour le métabolisme et la synthèse de composés organiques.
 
 !!! note
     L'amidon est regroupé en grain.

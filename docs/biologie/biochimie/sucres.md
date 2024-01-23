@@ -21,7 +21,7 @@ Parmi les holosides :
 
 Les sucres sont caractérisés par la présence :
 
-* 1 groupement carboxyle
+* un groupement carboxyle.
 * Enchainement de groupement alcool avec l'ajout de carbones.
 
 !!! note
@@ -70,7 +70,8 @@ Le nombre de stéréoisomères est égale à $2^n$ (où n est le nombre de $C$) 
 
 ### Quelques sucres incontournables
 
-* Hexose aldose                                                                          * Hexose cétone
+* Hexose aldose
+* Hexose cétone
 
 !!! note
     Le D glucose et d-galactose sont des épimères.
@@ -106,9 +107,8 @@ La structure de glucose se transforme au contact d'un solvant polaire comme l'ea
 
 Par exemple chez les hexoses (6 carbones), la conformation adoptée par le :
 
-| **Glucoses (pyrane)** | **Fructose (furane)** |
-|-----------------------|-----------------------|
-| Alpha-D-Glucopyranose | Beta-D-Fructofuranose |
+* Glucoses (pyrane) Alpha-D-Glucopyranose.
+* Fructose (furane) Beta-D-Fructofuranose.
 
 ### Formation d'un cycle dans l'eau
 
@@ -170,7 +170,7 @@ Le stockage du glucose s'effectue essentiellement avec des monomères de α-gluc
 
 Pour l'amylopectine, les glucoses sont reliés 1→4 ou en 1→5.
 
-| **Plante** |                      | **Animaux**          |
+| Plante |                      | Animaux          |
 |------------|----------------------|----------------------|
 | **Chaine** | **Réseau de chaîne** | **Réseau de chaîne** |
 | Amidon     | Amylopectine         | Glycogènes           |

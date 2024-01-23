@@ -54,8 +54,7 @@ L'apparition de compartiments a été cruciale dans l'évolution des cellules eu
 
 Cytoplasme totalité du volume cellulaire mise à part le noyau.
 
-Cytosol (ou hyaloplasme) intérieur de la cellule à l'exception des
-organites.
+Cytosol (ou hyaloplasme) intérieur de la cellule à l'exception des organites.
 
 Composition de la masse du cytosol
 
