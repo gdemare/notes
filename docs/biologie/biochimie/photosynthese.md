@@ -16,7 +16,6 @@ Il existe deux types de photosynthèse en présence ou de l'absence d'oxygène 
 * photosynthèse oxygénique
 * photosynthèse anoxygénique $2H_2O + CO_2 \rightarrow O_2 + H_2O + CH_2O$
 
-
 ## Phytochimique
 
 La phase photochimique permet de produire à partir de la lumière :
@@ -33,7 +32,7 @@ Les photosystèmes sont formés :
 
 Les pigments sont des molécules spécialisées pour capter la lumière
 
-### Les pigments
+## Les pigments
 
 Le spectre de lumière exploitée lors de la photosynthèse est contraint
 par l'utilisation de longueurs d'ondes :
@@ -43,7 +42,7 @@ par l'utilisation de longueurs d'ondes :
 
 Radiation photosynthétique active ensemble des longueurs d'ondes utilisées par la plante.
 
-### Fonctionnement des pigments
+### Fonctionnement
 
 La photosynthèse débute lorsqu'un pigment absorbe un photon. Un de ses électrons passe sur une orbitale avec une énergie potentielle plus élevée. Pour être absorbé, les photons doivent apporter l'énergie équivalent à la différence d'énergie entre l'état fondamental et excité.
 
@@ -65,7 +64,7 @@ Les pigments sont regroupés au sein de structure appelée antenne collectrice. 
 
 Les algues utilisent des pigments supplémentaires pour réaliser la photosynthèse car le milieu aquatique modifie les propriétés de la lumière. Ils sont formés de complexe protéines et de pigments associés à des phycobiliprotéines appelé phycobiline.
 
-### Les caroténoïdes
+### Caroténoïdes
 
 Les caroténoïdes sont des pigments additionnels qui aident à capter :
 
@@ -74,7 +73,7 @@ Les caroténoïdes sont des pigments additionnels qui aident à capter :
 
 Les caroténoïdes sont des molécules lipophiles présentes dans les membranes des thylakoïdes. Elles sont fabriquées dans les plastes à partir de terpènes. Leur pic d'absorption se situe à 450 nm. Leur structure est apparentée aux pigments présent dans notre œil.
 
-### Les chlorophylles
+### Chlorophylles
 
 Les pigments chlorophylliens sont composés :
 
@@ -83,14 +82,14 @@ Les pigments chlorophylliens sont composés :
 
 Il existe quatre types de chlorophylle :
 
-| Type de chlorophylle (pics d'abs) | Présence                 |
-|-----------------------------------|--------------------------|
-| A (430 nm et 662 nm)              | Universelle              |
-| B (454 nm)                        | Plantes et algues vertes |
-| C1 et c2                          | Algues brunes            |
-| D                                 | Algues rouges            |
+Type de chlorophylle (pics d'abs) | Présence
+----------------------------------|-------
+A (430 nm et 662 nm)              | Universelle
+B (454 nm)                        | Plantes et algues vertes
+C1 et c2                          | Algues brunes
+D                                 | Algues rouges
 
-Les différences de comportement des types de chlorophylle face à la lumière dépendent des groupements situés autour du noyau. Par exemple, pour les deux types de chlorophylles les plus présentes càd a et b, la différence de pics d'absorption s'explique par la substitution d'un groupement $-CH_{3}$ par un $-CHO$.
+Les différences de comportement des types de chlorophylle face à la lumière dépendent des groupements situés autour du noyau. Par exemple, pour les deux types de chlorophylles les plus présentes càd a et b, la différence de pics d'absorption s'explique par la substitution d'un groupement $-CH_3$ par un $-CHO$.
 
 Un changement de l'état énergétique se produit dans la molécule de chlorophylle entre en contact avec un photon bleu ou rouge. Si le photon est de couleur bleu, elle libère le surplus d'énergie sous forme de chaleur pour se ramener à un photon rouge.
 
@@ -106,7 +105,7 @@ Phosphorescence restitue l'énergie lumineuse sous une autre fréquence généra
 
 C'est parce que la chlorophylle est associée à d'autres protéines dans la cellule qu'elle n'émet pas de lumière.
 
-## Fonctionnement de la phase photochimique
+## Phase photochimique
 
 La photosynthèse se déroule d'abord, dans le photosystème II où a lieu la production du gradient de $H^+$ utilisé notamment pour la chimiosmose de l'ATP.
 
@@ -171,7 +170,7 @@ Le fonction du site réactionnel
 
 1. Chlorophylle reçoit la lumière cède électron.
 2. PSII $2 H_20$ oxydé cède un électron à $0_2 + H^+ + 4 é$.
-3. Retiré les électron complexe d'oxydation vient compenser la perte.
+3. Retiré les électrons complexe d'oxydation vient compenser la perte.
 4. Quatre électrons de l'oxydation de l'eau viennent un à un produit 3 émissions de photons pour l'étape est lieu.
 
 ### Photosystème I
@@ -182,14 +181,14 @@ $$4 H^+ + 4é + CO_2 \rightarrow CH_2O + H_2O$$
 
 Il est constitué de :
 
-* Une antenne collectrice
-* Un centre réactionnel constitué d'un dimère de chlorophylle
+* Une antenne collectrice.
+* Un centre réactionnel constitué d'un dimère de chlorophylle.
 
-### Coordination de l'activité entre les photosystèmes I et II
+### Coordination de l'activité
 
 Le deux photosystèmes fonctionnent successivement et à vitesse similaire. Leur activité est coordonnée par l'intermédiaire de la concentration de plastoquinone ( $PQH_2$ ) qui est le produit et le substrat des deux réactions.
 
-## Le transport cyclique du photosystème I
+## Transport cyclique du photosystème I
 
 Le transport cyclique est PSI le transport cyclique (circuit fermé).
 
@@ -233,7 +232,7 @@ L'efficacité de la photosynthèse dépend de :
 !!! note
     Le facteur limitant dans l'activité de photosynthèse est le $CO_2$ qui ne constitue que 3% de l'air.
 
-Photosynthèse net production d'oxygène moins sa consommation par la respiration cellulaire.
+__Photosynthèse net__ production d'oxygène moins sa consommation par la respiration cellulaire.
 
 !!! note
     La photosynthèse net se mesure en suivant l'évolution de la concentration de $CO_2$ ou celle d'$O_2$.
@@ -252,9 +251,9 @@ Certaines plantes ont développé des adaptations pour pallier le manque de $CO_
 
 ## Le métabolisme carboné
 
-### La phase biochimique d'assimilation du $CO_2$ (ou cycle de Calvin)
+### Phase d'assimilation du $CO_2$ (Calvin)
 
-La phase biochimique d'assimilation du $CO_2$ a lieu dans le stroma. Elle permet de récupérer le carbone d'une molécule de $CO_2$ pour fabriquer une molécule organique. Elle forme un cycle càd qu'une partie du produit est utilisée pour renouveler la réaction.
+La phase biochimique d'assimilation du $CO_2$ ou cycle de Clavin a lieu dans le stroma. Elle permet de récupérer le carbone d'une molécule de $CO_2$ pour fabriquer une molécule organique. Elle forme un cycle càd qu'une partie du produit est utilisée pour renouveler la réaction.
 
 $$6 CO_2 + 6 H_2O \rightarrow C_6H_{12}O_6 + 6 O_2$$
 
@@ -263,7 +262,7 @@ La phase est composée de trois parties :
 1. Carboxylation. La fixation du $CO_2$ sur une molécule organique.
 2. Réduction. 1/6 du produit quitte le cycle sous forme de sucre et 5/6 est utilisé pour régénérer le substrat.
 
-### La carboxylation
+### Carboxylation
 
 La carboxylation est réalisée par la lumière par l'intermédiaire de la Rubisco dont l'activité dépend :
 
@@ -272,7 +271,7 @@ La carboxylation est réalisée par la lumière par l'intermédiaire de la Rubis
 * De la concentration de $CO_2$ augmente active.
 * La fixation d'une protéine activatrice, la RubisCo activase, sur la RubisCo transforme le groupement $NH_3^+$ d'une lysine en $N-COO^-$ lorsque le milieu est basique. Sans elle, la RubisCo ne fonctionne pas.
 
-### La réduction
+### Réduction
 
 La réduction se déroule :
 
@@ -283,7 +282,7 @@ La régulation du cycle de Calvin se fait par
 
 Inhibiteur : DCMU et DTT utilisé en laboratoire qui bloque la chaine de transfert d'électrons.
 
-## Photorespiration : le cycle du C2 du glycolate (photorespiration)
+## Photorespiration : le cycle du C2 du glycolate
 
 La rubisco est l'enzyme la plus présente sur Terre, elle représente 50% de la proportion des molécules foliaires. Son nom vient de 1,5 rubilose bi phosphate carboxylase/oxygénase abrégé en RubisCo. Elle est bifonctionnelle. Elle fixe sur un ribose bi phosphate soit :
 
@@ -304,13 +303,13 @@ Différence entre la photorespiration et la
 
 |       |                       |
 |-------|-----------------------|
-| $CO_2$ | 2 APG                 |
+| $CO_2$ | 2 APG
 | $O_2$  | 1APG+1 (2-polycolate) |
 
 Le glycolate (2-polycate) qui est exploité dans la respiration cellulaire. Il est d'abord :
 
 1. Dans les chloroplaste enlever le phosphate.
-2. Dans les péroxysomes, transformer un glycine par un oxydation (perte de 2é et 2H^+^).
+2. Dans les péroxysomes, transformer un glycine par un oxydation (perte de 2é et $2H^+$).
 3. Dans les mitochondries, à partir de deux glycines est produit une sérine accompagné d'une décarboxylation (production de $CO_2$).
 4. Dans les péroxysomes, la sérine est retransformée en glycérade.
 
@@ -338,8 +337,7 @@ Il permet d'augmenter la quantité de $CO_2$ disponible pour la plante. Ce méta
 Le métabolisme C4 permet d'obtenir une concentration en $CO_2$ entre 5 à 10 supérieur à celle des autres parties de la plante :
 
 1. Le premier produit formé $CO_2$ fixé sur phosphénol pyruvate (PEP) pour former sur oxaloacétate (une molécule à 4 carbones d'où le métabolisme qualifié de C4) ce qui empêche le $CO_2$ de ressortir.
-
-2.  Acheminement vers les chloroplaste de la gaine périvasculaire où il oxaloacétate est décarboxylé pour libérer le $CO_2$ et régénérer le substrat PEP.
+2. Acheminement vers les chloroplaste de la gaine périvasculaire où il oxaloacétate est décarboxylé pour libérer le $CO_2$ et régénérer le substrat PEP.
 
 Le métabolisme C4 ajout un cout de 2ATP au cycle de Calvin qui utilise déjà 3ATP.
 
@@ -351,16 +349,16 @@ Les enzymes importantes du métabolisme C4 :
 !!! note
     Le malate et la PEP sont des métabolites présent dans plusieurs voies métaboliques, comme la glycolyse pour la PEP.
 
-## Le métabolisme CAM le métabolisme acide des crassulacées 
+## Métabolisme CAM
 
-Le métabolisme CAM concerne les plantes vivant dans des milieux extrêmement sec. Ce type de métabolisme est apparu plusieurs fois dans plusieurs familles d'espèces au cours de l'évolution, caractère analogue.
+Le métabolisme acide des crassulacées ou CAM concerne les plantes vivant dans des milieux extrêmement secs. Ce type de métabolisme est apparu plusieurs fois dans plusieurs familles d'espèces au cours de l'évolution, caractère analogue.
 
 Chez les cactus, la tige est devenue l'organe photosynthétique de la plante au détriment des feuilles qui ont soit :
 
 * Disparu
 * Se sont transformées en épines, des organes de défense.
 
-L'ouverture des stomates a lieu lorsque les températures ne sont pas trop élevées notamment la nuit. Le $CO_2$ est fixé sur un oxaloacétate qui devient un malate puis stocké sous forme d'acide malique dans la vacuole. Le jour, $CO_2$ est libéré et l'oxaloacétate est retransformé en amidon.
+L'ouverture des stomates a lieu lorsque les températures ne sont pas trop élevées notamment la nuit. Le $CO_2$ est fixé sur un oxaloacétate qui devient un malate puis stocké sous forme d'acide malique dans la vacuole. Le jour, le $CO_2$ est libéré et l'oxaloacétate est retransformé en amidon.
 
 PEPcase active la PEP malate régulation précise.
 
@@ -402,7 +400,7 @@ Plus de 200 000 métabolites associés au métabolisme secondaire ont été rec
 
 Il existe trois types de métabolites secondaires :
 
-* Composés phénoliques ou les polyphénols issus de la voie de l'acide shikimique et acétate/malonate) sont synthétisés en réponse au stress.
+* Composés phénoliques ou les polyphénols issus de la voie de l'acide shikimique et acétate/malonate sont synthétisés en réponse au stress.
 * Les alcaloïdes ou les composés azotés qui dérivent des acides aminés, sont généralement des molécules toxiques.
 * Les terpènes dérivés de l'isopentényl pyrophosphate (IPP), une molécule à 5C, sont de nature volatile et dégage une forte odeur qui sert notamment dans la protection.
-* Les glycosides qui contiennent une molécule de sucres.
+* Les glycosides qui contiennent une molécule de sucre.

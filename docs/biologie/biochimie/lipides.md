@@ -5,9 +5,7 @@ Estérification
 
 $$Acidegras + alcool \rightarrow Ester + H_{2}O$$
 
-On appelle « vrai lipide » une molécule de glycérol avec des acides
-gras. La liaison est fabriquée par une réaction d'estérification du
-groupement
+On appelle « vrai lipide » une molécule de glycérol avec des acides gras. La liaison est fabriquée par une réaction d'estérification du groupement
 
 <table>
 <colgroup>
@@ -36,39 +34,33 @@ Les lipides vrais constituent environ 10% de la masse du corps
 
 ### Les triglycérides
 
-Les triglycérides comportent souvent des acides gras comptant entre 16 à
-18 carbones.
+Les triglycérides comportent souvent des acides gras comptant entre 16 à 18 carbones.
 
-Les triglycérides sont présents chez tous les êtres vivants avec des
-acides gras :
+Les triglycérides sont présents chez tous les êtres vivants avec des acides gras :
 
 | **Animaux = saturé**                    | **Poissons et plantes = insaturé**     |
 |---------------------------------|---------------------------------------|
 | Graisse, beurre                         | Huile de foie de morue, huile d'olive  |
 | Solide à température ambiante = graisse | Liquide à température ambiante = huile |
 
-Les doubles liaisons de type cis empêchent les molécules de
-s'agglomérer.
+Les doubles liaisons de type cis empêchent les molécules de s'agglomérer.
 
 Les rôles majeurs assurés par le triglycéride :
 
-|                       |                   |            |
-|-----------------------|-------------------|------------|
-| Contenir de l'énergie | Isolant thermique | Protection |
+* contenir de l'énergie.
+* isolant thermique.
+* protection.
 
 ### Céride
 
-C'est le composant des cires. Il est constitué de deux acides gras non
-saturées.
+C'est le composant des cires. Il est constitué de deux acides gras non saturées.
 
 ## Hétérolipides
 
-Il existe deux familles majeures de liquides complexes (ou
-hétérolipides) :
+Il existe deux familles majeures de liquides complexes (ou hétérolipides) :
 
-| **Glycérophospholipide ou phosphoglycérolipides** | **Sphingolipides**        |
-|------------------------------------|------------------------------------|
-| Glycérol                                          | Sphingosine + alcool gras |
+* Glycérophospholipide ou phosphoglycérolipides consitué d'un glycérol.
+* Sphingolipides formé par un phingosine + alcool gras.
 
 !!! note
     Un alcool gras est comme un acide gras mais avec à la place du groupement acide carboxylique un groupement alcool.
@@ -89,15 +81,11 @@ Le nom de lipide devient « phosphatidyl » + groupement :
 !!! note
     ces groupements sont polaires ou chargés.
 
-En solution aqueuse, les lipides forment une bicouche qui se replient en
-pour former un liposome à cause de l'encombrement spatial des deux
-chaines carbonées.
+En solution aqueuse, les lipides forment une bicouche qui se replient en un liposome à cause de l'encombrement spatial des deux chaines carbonées.
 
-Liposome bicouche lipidique fabriquée artificiellement (par opposition à
-la vésicule).
+__Liposome__ bicouche lipidique fabriquée artificiellement (par opposition à la vésicule).
 
-Les glycérophospholipides sont les composants majoritaires des membranes
-biologiques.
+Les glycérophospholipides sont les composants majoritaires des membranes biologiques.
 
 La fluidité membranaire augmente avec le nombre de chaines insaturés.
 
@@ -112,17 +100,14 @@ Céramide lorsqu'un acide gras se greffe sur l'azote de la sphingosine.
 
 Acide gras + sphingosine = céramide précurseur
 
-Sur le groupement OH peut venir se fixer
+Sur le groupement OH peut venir se fixer :
 
-| **Glucose**         | **Acide phosphatique** |
-|---------------------|------------------------|
-| Glycosphingolipides | Phosphosphingolipides  |
+* Glucose Glycosphingolipides
+* Acide phosphatique Phosphosphingolipides
 
-La céramide est un précurseur des glycosphingolipides et des
-phosphosphingolipides.
+La céramide est un précurseur des glycosphingolipides et des phosphosphingolipides.
 
-On les trouve uniquement sur le feuillet externe des membranes (exemple
-gaine de myéline).
+On les trouve uniquement sur le feuillet externe des membranes (exemple gaine de myéline).
 
 ## Lipoïde qui associe avec le gras
 
@@ -138,24 +123,22 @@ height="1.6819444444444445in"}
 Le cholestérol est présent dans les membranes. Il joue un rôle dans la
 fluidité membranaire à :
 
-|                                          |                                         |
-|------------------------------------|------------------------------------|
-| Basse température : augmente la fluidité | Haute température : diminue la fluidité |
+* Basse température : augmente la fluidité
+* Haute température : diminue la fluidité.
 
-Le cholestérol est un précurseur des stéroïdes dont font partie les
-hormones tels que :
+Le cholestérol est un précurseur des stéroïdes dont font partie les hormones telles que :
 
-* Cortisone
-* Progestérone
-* Testostérone
-* Œstrogène
+* Cortisone.
+* Progestérone.
+* Testostérone.
+* Œstrogène.
 
 C'est une molécule essentielle aux animaux.
 
 Le transport du cholestérol se fait grâce à des lipoprotéines. Il en existe 4 types dont les deux plus importants  voyagent dans le corps par le système sanguin :
 
-* LDL (du foie vers l'organisme)
-* HDL (vers le foie pour être dégradé)
+* LDL (du foie vers l'organisme).
+* HDL (vers le foie pour être dégradé).
 
 Qui se distinguer par le type de protéines contenues
 
@@ -193,7 +176,7 @@ Aussi :
 * Les cires végétales qui imperméabilisent les feuilles des plantes.
 * Les pigments.
 
-## Lipide apolaire
+## Les lipides apolaires
 
 Trois grandes catégories :
 
@@ -203,8 +186,7 @@ Acides gras + alcools simples   | Acides gras + alcools, P N, sucres    | Pas d'
 
 ### Acide gras
 
-Un acide gras est constitué d'une chaine carbonée avec un groupement
-acide carboxylique.
+Un acide gras est constitué d'une chaine carbonée avec un groupement acide carboxylique.
 
 !!! note 
     Les chaines carbonées sont souvent
@@ -221,8 +203,7 @@ Les acides gras sont classés en deux catégories :
 
 Monoinsaturé correspond à une seule liaison double. Polyinsaturé à 2 ou plus.
 
-Le corps humain est incapable de produire des lipides avec des chaines
-insaturées. On a donc besoin d'en ingérer dans notre alimentation.
+Le corps humain est incapable de produire des lipides avec des chaines insaturées. On a donc besoin d'en ingérer dans notre alimentation.
 
 Trois acides gras à connaitre :
 
@@ -270,19 +251,17 @@ Nomenclature chimique
 </tbody>
 </table>
 
-La numérotation débute du groupement fonctionnel pour les chimistes et
-inversement pour les nutritionnistes. Les doubles liaisons s'enchainent
-tous les 3 carbones.
+La numérotation débute du groupement fonctionnel pour les chimistes et inversement pour les nutritionnistes. Les doubles liaisons s'enchainent tous les 3 carbones.
 
 ### Température de fusion
 
-__Température de fusion__ température de passage de l'état solide à celui de
+__Température de fusion__ température de passage de l'état solide à celui
 liquide.
 
 La température de fusion est corrélée :
 
-* Positivement, la longueur de la chaine carbonée.
-* Négativement, nbre de doubles liaisons
+* Positivemen à la longueur de la chaine carbonée.
+* Négativement aux nbre de doubles liaisons (insaturations).
 
 ### Réaction à l'eau
 
@@ -292,9 +271,7 @@ La température de fusion est corrélée :
 
 Condensation entre acides
 
-En faible concentration, les acides gras forment une plaque avec les
-parties hydrophobes en l'air et les têtes polaires accolées à la surface
-de l'eau.
+En faible concentration, les acides gras forment une plaque avec les parties hydrophobes en l'air et les têtes polaires accolées à la surface de l'eau.
 
 -----------------
 
@@ -400,3 +377,39 @@ Les protéines du RE sont :
 L'exocytose du RE se fait par un système protéines type clé-serrure.
 
 L'adressage des protéines au RE se fait dans des vésicules possédant des clathrines.
+
+## Métabolisme associé aux lipides
+
+La digestion et l'assimilation des lipides a lieu :
+
+1. Au cours de la digestion, les triglycérides découpés en acides gras et le glycérol et les autres molécules liposolubles comme le cholestérol traversent la paroi des cellules intestinales, les entérocytes.
+2. À l'intérieur de la cellule, les acides gras et le glycérol s'assemblent pour former des triglycérides.
+3. Les lipides sont entourés par un complexe formé de lipides et de lipoprotéines, appelé chylomicron, pour permettre leur transport.
+4. Les chylomicrons, appelés LDL, sont acheminés vers les tissus pour la production d'énergie et le stockage (adipocyte).
+5. Les chylomicrons qui n'ont pas été utilisés, appelés HDL, sont traités par le foie.
+
+Les chylomicrons sont stabilisés par des apolipoprotéines, un complexe.
+
+Chylomicrons (CM) structure de protéines et de lipides formant une vésicule et entourant les triglycérides.
+
+### Stockage et libération des acides gras
+
+Les acides gras sont stockés dans les cellules adipeuses. Des lipases présentes sur la membrane plasmique du côté du lumen des veines libèrent les lipides des chylomicrons qui, à cause de leur propriétés hydrophobes, vont dans les adipocytes.
+
+La libération des lipides survient en réponse à certaines hormones, par exemple, l'adrénaline qui transportée dans le sang par une protéine l'albumine.
+
+## Production d'énergie à partir d'acides gras
+
+Les acides gras peuvent être transformés en acétyl-coA pour servir de substrat à la respiration cellulaire. Cette réaction a lieu dans la mitochondrie et se déroule suivant :
+
+1. Les AG sont activés par l'ajout d'un Co pour former de l'acyl-CoA.
+2. La translocation de l'acyl-coA dans les mitochondries càd le passage de la membrane mitochondirenne. Elle a lieu grâce à une translocase. L'acétyl-coA est transporté par un carnitimn.
+3. L'acyl-coA est transformé en acétyl-coA par une réaction de Beta-oxydation qui se déroule en quatre étapes :
+
+    1.  La perte de deux carbones et la réduction d'un $FAD^+$.
+    2.  Hydratation.
+    3.  La réduction d'un $NAD^+$.
+    4.  La coupure (thiolyse) par CoA.
+
+!!! note
+    Un acide gras contient 4 fois plus d'énergie d'une molécule de glucose. C'est la raison pour laquelle il est plus difficile de perdre de la graisse.

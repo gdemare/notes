@@ -2,17 +2,18 @@
 
 __covariation__ deux positions qui sont liées et qui dépendent l'une de l'autre.
 
-__Domaine__
+__Domaine__ role qui a été définit et décrit.
 
 __Fragment__ 
 
-__Motif__
+__Motif__ (pattern) séquence qui peut variéer dont le role biologique suputation du rôle à cause de sa conservation.
 
 __Mutation ponctuelle acceptée__ mutation d'aa qui n'ont pas affecté la fonction de la protéine.
 
 __Région__ partie d'une séquence qui 
 
 __Signature__ séquence commune à une famille de protéines ou de gènes.
+
 
 ## Base de données
 
@@ -27,25 +28,6 @@ Séquences :
 Structres des acides nucléiques et des protéines :
     
 * Protéines Data Bank
-
-## Assembler des séquences
-
-L'objectif est de reconstituer une séquence à partir de morceaux car la majorité des techniques de séquençage fonctionne par la découpe de polymères et leur analyse en petits fragments. Les principales difficultés sont :
-
-* Les erreurs de lecture que ne permettent pas trouver un alignement exact.
-* La répétition de certaines séquences répétées qui peuvent être alignées à plusieurs endroits.
-* Dans le cas d'un grand nombre de séquences, l'alignement est trop lent.
-
-$C = \frac{N \cdot L}{G}$
-
-* $N$ nombre de fragments.
-* $G$ taille totale.
-* $L$ taille des fragments
-
-Les paramètres important dans le séquençage sont :
-
-* La taille des fragments. 
-* Le taux et le type d'erreurs.
 
 ## Aligner des séquences
 
@@ -67,7 +49,7 @@ Il faut :
 Le principe de l'alignement consiste associé à l'alignement entre deux séquences une fonction soit :
 
 * coût qu'il faut minimiser. Exemple, $\omega \times y + \omega \times z$ avec $x$ nbre de correspondances, $y$ de substitutions, $z$ nbre de gap.
-* score qu'il faut maximiser. Exemple : $\frac{(n + m)}{2} - x = y + \frac{1}{2}z$
+* score qu'il faut maximiser. Exemple : $\frac{(n + m)}{2} - x = y + \frac{1}{2} \cdot z$
 
 !!! note
     Cela revient à procéder en deux étapes, choisir :
@@ -132,7 +114,6 @@ Plusieurs paramètres :
 !!! note
     diminuer le nombre de word size permet de détexcter des séquences homologues mais aussi la fragmeentaiton. augmenter trouver des régions communes.
  
-
 ## Aligné et étudier plusieurs séquences 
 
 ### Profil ou matrice consensus
@@ -200,8 +181,8 @@ La matrice de transition est $\begin{bmatrix} 1-3 \cdot \alpha &  \alpha & \alph
 
 Pour des séquences qui sont homolgues ou la proximité entre des séquences, il est possible d'utiliser plusieurs algorithme pour : 
 
-* Méthode des groupes de paires non pondérées avec moyenne arithmétique.
-* Neighbor­Joining.
+* méthode des groupes de paires non pondérées avec moyenne arithmétique.
+* neighbor­ joining.
 
 Le principe de consiste réunir itérativement les séquences les plus proches : 
 
@@ -271,7 +252,7 @@ Si on prend en considération la succession des bases
 
 #### Vraissemblance
 
-En comparant les bases par leur position : $\Sigma f_x(a) \cdot \log \mu (a)$
+En comparant les bases par leur position : $\sum{f_x(a) \cdot \log \mu (a)}$
 
 En comparant les bases en fonction de la base précédente $L = \log \mu _1 (x_1) + \Sigma F(T,G) \cdot \log \pi(T,G)$
 
@@ -326,7 +307,7 @@ La séquence local du motif est celle qui maximise le score $H = \max \sum{S(X_k
 
 On calcul la matrice de fréquence à partir de celle d'occurences. La conservation d'une base de la séquence à une position particulière est ainsi :
 
-$$R_{seq} = S_{max} - S_{obs} = \log N - ( - \Sigma p_n \cdot \log p_n)$$
+$$R_{seq} = S_{max} - S_{obs} = \log N - ( - \sum{p_n \cdot \log p_n})$$
 
 La différence entre l'entropie maximum et celle observé. 
 
@@ -349,7 +330,7 @@ Le motif aléatoire est $W_s = \log \frac{\sum_{f'_{i,j}}}{p_i}$
 avec :
 
 * $f'_{i,j}$
-* $`p_i` la probabilité de la base.
+* $p_i$ la probabilité de la base.
 
 ====================================
 

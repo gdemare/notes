@@ -45,11 +45,17 @@ Les dénaturant les plus couramment utilisé sont le SDS et l'urée.
 
 ## Concentration des protéines
 
-### Méthode par absorbance (peu précise)
+Un dosage est une méthode qui permet de calculer la concentration d'un composé dans un échantillon.
+
+* Par la mesure d'absorbance (peu précise)
+* La méthode de Bradford (gamme de BSA colorée au bleu de Coomassie)
+* Méthode BioCinchoninic acid Assay (BCA)
+
+### Absorbance
 
 La concentration des protéines peut être mesurer en déterminant l'absorption des noyau phénol du tryptophane et de tyrosines à la longueur d'onde 280nm.
 
-### Méthode de Bradford (gamme de BSA colorée au bleu de Coomassie)
+### Bradford
 
 La quantité de protéines est déterminée par une gamme de BSA, les protéines sont colorées avec du bleu de Coomassie. Le colorant réagit avec l'arginine, l'histidine et la lysine
 
@@ -58,9 +64,9 @@ Le dosage se fait à 595 nm.
 !!! warning
     Incompatible avec le SDS (même à faible concentration), la présence de lipides, et d'acides nucléiques.
 
-### Méthode BioCinchoninic acid Assay (BCA)
+### BCA
 
-Le dosage colorimétrique des protéines se fait à 562 nm. La réaction se fait par la réaction de réduction du cuivre Cu^2+^ en Cu^+. Plus les protéines sont concentrées plus la couleur vire du bleu vers le gris.
+Le dosage colorimétrique des protéines se fait à 562 nm. La réaction se fait par la réaction de réduction du cuivre $Cu^{2+}$ en $Cu^+$. Plus les protéines sont concentrées plus la couleur vire du bleu vers le gris.
 
 !!! warning
     Incompatible avec des agents réducteurs et chélatants.
@@ -77,7 +83,7 @@ La chromatographie est un ensemble de méthodes qui permet de séparer les prot�
 !!! note
     il existe une chromatographie qui utilise des anticorps à la place des ions.
 
-### Chromatographie d'exclusion
+### Exclusion
 
 Les molécules passent dans des billes percées. Plus la molécule est grosse plus vite elle sortira. On a une relation linéaire entre log de la taille en fonction du volume élué.
 
@@ -85,7 +91,7 @@ $v_{mort}$ volume d'élution des plus grosses molécules, celles qui ne peuvent 
 
 K_a coefficient de partage : $K_{a} = \frac{v_{élué} - v_{mort}}{v_{total} - v_{mort}}$.
 
-### Chromatographie d'échanges d'ions 
+### Echanges d'ions 
 
 Les protéines sont mises dans une colonne échangeuse avec des billes qui possèdent une charge opposée à la protéine d'intérêt. Les protéines sont détachées progressivement par plusieurs lavages (le solvant est appelé analyte). Il casse les interactions faibles càd de type :
 
@@ -107,7 +113,7 @@ L'électrophorèse 2D consiste à réaliser une séparation :
 Un tampon de charge laemmli est ajouté aux protéines pour suivre le
 front de migration.
 
-## Révélation des protéines
+## Révéler les protéines
 
 Pour révéler la présence de protéines, il est possible de les colorer
 par :
@@ -115,9 +121,9 @@ par :
 * Bleu de Coomassie (non spécifique)
 * Anticorps (spécifique)
 
-Épitope région de fixation de l'anticorps.
+__Épitope__ région de fixation de l'anticorps.
 
-## Purification de protéines
+## Purifier les protéines
 
 __Facteur de purification__ activité spécifique de l'étape par rapport à celle de départ.
 
@@ -132,53 +138,7 @@ La spectrométrie permet de :
 * Quantifier une protéine.
 * Inventaire des protéines présentes.
 
-## Identification d'une protéine d'intérêt
-
-Il existe deux méthodes principales pour identifier une protéine
-d'intérêt :
-
-* Immunoessaie
-* Western blot
-
-!!! warning
-    Ces méthodes permettent de réaliser une quantification mais elles ont tendance à
-
-### Westernblot
-
-Le Westernblot est une méthode combinatoire :
-
-1.  Électrophorèse sur gel.
-2.  Transfert sur une membrane.
-3.  Coloration de la protéine d'intérêt grâce à des anticorps.
-
-Il existe deux types de migration sans différence notable.
-
-* Semi sec
-* Humide
-
-### Immunoessaie
-
-Immunoessaie ou technique immuno-enzymatique (appelé aussi ELISA) permet de déterminer la présence et la quantification. Cette méthode s'appuie sur la reconnaissance entre un anticorps et un antigène.
-
-Avantage : test simple, facile d\'emploi et peu coûteux
-
-Inconvénients : ça réalisation dépend des anticorps disponibles sur le
-marché.
-
-## Mesurer l'activité d'une enzyme
-
-Comparer la concentration au départ et à la fin soit du :
-
-* Apparition du produit
-* Disparition du substrat
-
-__Activité spécifique__ activité totale de la protéine étudiée par rapport à
-la quantité de protéines présente.
-
-__Rendement__ activité de la protéine de l'étape par rapport à l'activité de
-départ.
-
-## Exemples d'utilisation de l'analyse par spectrométrie
+### Exemples
 
 Identification de
 
@@ -192,7 +152,7 @@ Un groupe (pool) sélectionne les protéines d'intérêt par leur interaction av
 Les principaux problèmes de l'analyse protéique sont que :
 
 * Le nombre de type de protéines différents.
-* La grande variabilité dans les volumes entre les protéines. Leur quantité peut variée de l'ordre de 10^6^.
+* La grande variabilité dans les volumes entre les protéines. Leur quantité peut variée de l'ordre de $10^6$.
 * Les interactions avec les autres molécules :
 
     * Les modifications post traductionnelles.
@@ -203,14 +163,55 @@ Les principaux problèmes de l'analyse protéique sont que :
 
 1.  Fragmentation et purification.
 
-Définir la question pour adapter le protocole technique (le choix de la
-chromatographie illustre particulièrement ce fait). Grâce aux
-différences de propriétés chimique
+Définir la question pour adapter le protocole technique (le choix de la chromatographie illustre particulièrement ce fait). Grâce aux différences de propriétés chimique
+
+## Identifier une protéine d'intérêt
+
+Il existe deux méthodes principales pour identifier une protéine d'intérêt :
+
+* Immunoessaie
+* Western blot
+
+!!! warning
+    Ces méthodes permettent de réaliser une quantification mais elles ont tendance à
+
+### Westernblot
+
+Le Westernblot est une méthode combinatoire :
+
+1. Électrophorèse sur gel.
+2. Transfert sur une membrane.
+3. Coloration de la protéine d'intérêt grâce à des anticorps.
+
+Il existe deux types de migration sans différence notable.
+
+* Semi sec
+* Humide
+
+### Immunoessaie
+
+Immunoessaie ou technique immuno-enzymatique (appelé aussi ELISA) permet de déterminer la présence et la quantification. Cette méthode s'appuie sur la reconnaissance entre un anticorps et un antigène.
+
+Avantage : test simple, facile d\'emploi et peu coûteux
+
+Inconvénients : ça réalisation dépend des anticorps disponibles sur le marché.
+
+## Mesurer l'activité enzymatique
+
+Comparer la concentration au départ et à la fin soit du :
+
+* Apparition du produit
+* Disparition du substrat
+
+__Activité spécifique__ activité totale de la protéine étudiée par rapport à
+la quantité de protéines présente.
+
+__Rendement__ activité de la protéine de l'étape par rapport à l'activité de
+départ.
 
 ## Réduction et alkylation
 
-Il peut être intéressant de linéariser une protéine et d'empêcher la
-formation de ponts disulfures entre les cystéines. Pour se faire, on a
+Il peut être intéressant de linéariser une protéine et d'empêcher la formation de ponts disulfures entre les cystéines. Pour se faire, on a
 généralement recours à :
 
 * Un réducteur (DTT agent fort qui peut altérer les chaines peptidiques ou TECP agent faible).

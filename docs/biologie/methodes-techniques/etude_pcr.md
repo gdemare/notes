@@ -3,7 +3,7 @@ Objectif :
 * Faire synthétiser une enzyme par un autre organisme pour, par exemple, étudier ses effets.
 * Réaliser des copies d'une séquence d'ADN.
 
-## Amplification en chaîne par polymérase ACP (ou PCR en anglais)
+Amplification en chaîne par polymérase ACP (ou PCR en anglais)
 
 L'amplification en chaîne polymérase permet de dupliquer un grand nombre de fois des séquences d'ADN ou d'ARN à partir d'une faible quantité. Cela peut servir aussi bien dans les enquêtes criminelles ou pour obtenir le génome de momies ou de mammouths.
 
@@ -22,7 +22,7 @@ Les résultats de la PCR doivent être vérifiés par des contrôles :
 
 Les résultats de la PCR sont vérifiés par migration sur gel (électrophorèse).
 
-### Choix des amorces
+## Choisir les amorces
 
 Lors du choix des amorces, il est important de vérifier :
 
@@ -31,7 +31,7 @@ Lors du choix des amorces, il est important de vérifier :
 
 * Si c'est de l'ADN codant prendre une amorce qui chevauche deux exons pour éviter l'hybridation avec l'ADN génomique.
 
-### Démarrage à chaud
+## Démarrage à chaud
 
 La PCR est démarrée à chaud « hot start » permet d'éviter les intéractions non spécifiques de l'amorce et limiter la polymérisation avec des associations non spécifiques entre les brins. :
 

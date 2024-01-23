@@ -10,7 +10,7 @@ La sélection naturelle a favorisé l'apparition et la perpétuation de formes q
 * Se reproduire.
 * Se procurer les nutriments.
 
-## Plan d'organisation corporelle
+## Plan d'organisation
 
 La diversité des plans d'organisation corporelle est limitée par les lois de la physique. Dans certains cas, les contraintes du milieu ont imposé à la sélection naturelle a adopté la même la forme comme c'est le cas pour l'apparence fusiforme des animaux aquatiques.
 
@@ -35,7 +35,7 @@ L'être humain possèdent 25 surfaces d'échanges différentes notamment la peau
 
 Chez les plus gros organismes, l'utilisation de liquides circulatoires et interstitiels permet de distribuer des ressources et de traiter des déchets.
 
-## La stabilité du milieu
+## Stabilité du milieu
 
 L'apparition de systèmes complexes ont permis de maintenir un milieu intercellulaire stable notamment dans des milieux où les paramètres physico-chimique varient énormément comme sur la terre ferme.
 
@@ -84,7 +84,7 @@ La coordination des activités du corps est assurée par deux systèmes :
 </tbody>
 </table>
 
-# Les tissus
+# Les types de tissus
 
 Les cellules de même structure et de même fonction sont regroupées en tissus. Il en existe quatre types chez les animaux :
 
@@ -93,14 +93,14 @@ Les cellules de même structure et de même fonction sont regroupées en tissus.
 * Nerveux.
 * Musculaire.
 
-## Les tissus épithéliaux
+### Epithélial
 
 Les tissus épithéliaux sont constitués de cellules jointives serrées. Elles forment des barrières. L'épithélium est polarisé, une face :
 
 * Apicale (du côté de la lumière).
 * Basale (attaché à une lame de basale).
 
-__Lame basale__ la jonction entre le tissus conjonctif et l'épithélium. Elle est constituée d'un assemblage de protéines et glycoprotéines qui permet l'adhérence avec le tissu conjonctif.
+__Lame basale__ jonction entre le tissus conjonctif et l'épithélium. Elle est constituée d'un assemblage de protéines et glycoprotéines qui permet l'adhérence avec le tissu conjonctif.
 
 Les cellules sont jointes par des protéines appelées desmosomes.
 
@@ -145,10 +145,9 @@ et poussent celles du dessus.</td>
 !!! note
     On trouve souvent sur l'épiderme de la kératine.
 
-## Tissus conjonctif
+### Conjonctif
 
-Les tissus conjonctifs ont pour fonction de fixer et soutenir. Ils sont constitués d'une matrice extracellulaire contenant des fibres et une
-faible densité de cellules.
+Les tissus conjonctifs ont pour fonction de fixer et soutenir. Ils sont constitués d'une matrice extracellulaire contenant des fibres et une faible densité de cellules.
 
 * Froblastes qui sécrètent des substances protéiques extracellulaires.
 * Macrophages détruisent les corps étrangers et des cellules mortes.
@@ -161,37 +160,37 @@ Les fibres sont classées en trois catégories :
 
 Il existe différents types de tissus conjonctifs :
 
-|             |                                                                                                            |
-|---------------|---------------------------------------------------------|
-| Lâche       | protège et maintient les organes.                                                                          |
-| Adipeux     | Isolation et stockage de la graisse (cellules spécialisées appelées adipocytes)                            |
-| Dense       | Tendons et ligaments                                                                                       |
-| Osseux      | Le tissu s'est minéralisé. Le collagène a durci en s'imprégnant de phosphate, magnésium et calcium.        |
-| Cartilageux | Contient un mélange de fibres de collagènes et de chondroïtine sulfate qui confère résistance et souplesse |
-| Sanguin     | matrice liquide composée d'eau, de sel et de protéines solubles                                            |
+Type        | Rôle
+------------|-----
+Lâche       | protège et maintient les organes.
+Adipeux     | Isolation et stockage de la graisse (cellules spécialisées appelées adipocytes)
+Dense       | Tendons et ligaments
+Osseux      | Tissu s'est minéralisé. Le collagène a durci en s'imprégnant de phosphate, magnésium et calcium.
+Cartilageux | Contient un mélange de fibres de collagènes et de chondroïtine sulfate qui confère résistance et souplesse.
+Sanguin     | matrice liquide composée d'eau, de sel et de protéines solubles
 
-Tendons tissu conjonctif qui relie un muscle aux os. L'inflammation des tendons est appelée tendinite.
+__Tendon__ tissu conjonctif qui relie un muscle aux os. L'inflammation des tendons est appelée tendinite.
 
-Ligaments tissu conjonctif qui relie les os entre eux au niveau des articulations.
+__Ligaments__ tissu conjonctif qui relie les os entre eux au niveau des articulations.
 
-## Tissus musculaires
+### Musculaires
 
-Les tissus musculaires permettent le mouvement grâce à aux glissement de filaments de protéines d'actines et de myosines.
+Les tissus musculaires permettent le mouvement grâce aux glissement de filaments de protéines d'actines par les myosines.
 
-Il existe trois types de tissus musculaire chez les vertébrés :
+Il existe trois types de tissus musculaires chez les vertébrés :
 
 * Squelettique ou muscle strié. Ils sont formés par un faisceaux de cellules qui forment la fibre musculaire.
-* Lisse. Il sont généralement des muscles associés au mouvement involontaires.                       
-* Cardiaque. Ce sont des disques sont intercalés entre les fibres ce qui facilitent la transmission du message nerveux et ainsi la synchronisation des contractions cardiaques.
+* Lisse. Il sont généralement associés aux muscles du mouvement involontaires.                       
+* Cardiaque. Des disques sont intercalés entre les fibres facilitent la transmission du message nerveux et la synchronisation des contractions cardiaques.
 
 !!! note
     A l'âge adulte les nombre de cellules musculaires n'évoluent plus, seul leur volume change.
 
-Les cellules musculaire sont issues de plusieurs cellules qui ont fusionnées. Il y a à l'intérieur plusieurs noyaux.
+Les cellules musculaires sont issues de plusieurs cellules qui ont fusionnées. Il y a   plusieurs noyaux à l'intérieur.
 
-## Le maintien du milieu interne
+## Maintien du milieu interne
 
-Régulateur organisme qui maintient pour une variable une valeur constante dans le temps même lors de fluctuation dans l'environnement externe.
+__Régulateur__ organisme qui maintient une variable interne autour d'une valeur constante notamment lors l'environnement externe fluctue.
 
 __Tolérant__ organisme capable de supporter d'importantes variations pour une variable donnée.
 
@@ -200,6 +199,6 @@ La régulation se fait autour d'une valeur de référence qui peut varier au cou
 Des récepteurs permettent à l'organisme de mesurer la valeur de la variable. En cas de dépassement de l'intervalle, l'organisme peut alors déclencher des mécanismes de rétro inhibition.
 
 !!! note
-    Il existe certain mécanismes de rétro activation.
+    Il existe certains mécanismes de rétro activation.
 
 __Acclimatation__ processus graduel qui conduit à l'adoption de nouvelles valeurs de référence.

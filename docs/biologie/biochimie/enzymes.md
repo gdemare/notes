@@ -61,7 +61,7 @@ __Apoenzyme__ enzyme sans son coenzyme.
 	* Les exopeptidases (coupent aux extrémités).
 	* Les endopeptidases (coupent à l'intérieur).
 
-#### Les endopeptidases
+#### Endopeptidases
 
 Spécificité de...          | Trypsine         | Chymotrypsine | Endonucléase
 ---------------------------|------------------|----------------|------------------
@@ -73,7 +73,7 @@ Stéréospécificité          | L                | L             | D
 
 __Palindrome__ séquence dont le sens est indépendant de celui de lecture.
 
-#### Les exopeptidases
+#### Exopeptidases
 
 Spécificité de...          | Aminopeptidase | Carboxypeptidase
 ---------------------------|----------------|------------------
@@ -169,7 +169,7 @@ Le modèle de Briggs-Haldane suppose que $[ES] = c$ avec $c$ une constante.
 
 $v = \frac{k_{cat} \cdot [E_0] \cdot [S]}{K_m + [S]}$
 
-### Les inhibiteurs de l'activité enzymatique
+### Inhibiteur
 
 Les inhibiteurs permettent à la cellule de contrôler la vitesse de réaction pour s'adapter à ses besoins métaboliques en modulant l'activité enzymatique.
 
@@ -194,20 +194,20 @@ Site bloqué par l'inhibiteur                                     | Reconnaissan
 !!! note
 	Il existe d'autres inhibiteurs hybrides.
 
-#### Inhibiteur compétitif
+#### Compétitif
 
 L'inhibiteur compétitif se lie sur le site réactionnel de l'enzyme à la place d'un substrat. Cela se traduit par une diminution de l'affinité du substrat avec l'enzyme.
 
 $v_i = \frac{v_{\max} \cdot [S]}{K_m \cdot (1 + \frac{[i]}{K_i}) + [S]} = \frac{v_{\max} \cdot [S]}{K_{mI} + [S]}$
 
 !!! note
-	On modifie la reconnaissance $K_{m} \lt K'_m = K_m \cdot (1 + \frac{[i]}{K_i})$
+	On modifie la reconnaissance $K_m \lt K'_m = K_m \cdot (1 + \frac{[i]}{K_i})$
 
 La constante d'inhibition :
 
 $K_i = \frac{K_m \cdot [I]}{K_{mI} - K_m}$ avec $K_i$ est la quantité d'inhibiteurs nécessaire pour complétement arrêter la réaction. L'inhibition peut être levée en ajoutant du substrat.
 
-#### Inhibiteur non compétitif
+#### Non compétitif
 
 $v_{maxI} = \frac{v_{\max}}{1 + \frac{[i]}{K_i}}$
 
@@ -218,7 +218,7 @@ $v_i = \frac{v_{\max}}{1 + \frac{[i]}{K_i}} \cdot \frac{[S]}{K_m + [S]} = \frac{
 
 $K_i = \frac{v_{\max I} \cdot [I]}{v_{\max} - v_{\max I}}$
 
-### Effet du pH et de la température
+###  Température et pH
 
 Les enzymes sont sensibles aux conditions de l'environnement notamment à cause de leur structure moléculaire, une enzyme possède des AA :
 
@@ -229,7 +229,7 @@ Un organisme fabrique plusieurs enzymes légèrement différentes qui répondent
 
 __Isoenzyme__ enzyme qui fonctionne de manière optimale dans des conditions physicochimiques différentes.
 
-#### Effet du pH 
+#### pH 
 
 Le changement de pH modifie l'activité de l'enzyme car cela modifie les AA polaires notamment la cystéine et les AA chargés impliqués sur le site de reconnaissance et de catalyse.
 
@@ -238,7 +238,7 @@ Rappel : Si le $pH \gt pK_a + 1$ alors l'espèce sera déprotonée à 90%.
 !!! note
 	Il est possible de déterminer les AA impliqués dans la reconnaissance et la catalyse en jouant sur le pH.
 
-#### Effet de la température
+#### Température
 
 L'augmentation de la température a deux effets antagonistes sur les
 enzymes :
@@ -256,11 +256,11 @@ Les enzymes sont stabilisées par :
 !!! note
 	Les métaux lourds sont des inhibiteurs toxiques.
 
-### Intéraction ligand récepteur
+### Ligand-récepteur
 
 On considère le ligand comme la molécule qui se déplace et qui interagit avec une autre molécule, appelée récepteur. Le recepteur se trouve souvent à l'intérieur de la cellule.
 
-#### Les ligands en biologie
+#### Type de ligands
 
 En biologie, la position du recpteur dépend du type de ligands. Ils sont situés :
 

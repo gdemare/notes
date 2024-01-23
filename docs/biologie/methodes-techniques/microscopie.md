@@ -27,9 +27,9 @@ Réaction avec la liqueur de Fehling (bleu passa au rouge).
 
 Source photons ou électron.
 
-### Microscopie optique ou photonique
+###  Optique ou photonique
 
-### Microscopie électronique
+### Electronique
 
 Il existe deux grands types de microscope électronique :
 

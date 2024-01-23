@@ -1,4 +1,4 @@
-## La respiration cellulaire
+## Respiration cellulaire
 
 La respiration cellulaire consiste à extraire l'énergie du acétyl-CoA en utilisant du dioxygène pour recharger l'ADP en ATP. Elle a lieu dans les mitochondries et est composée :
 
@@ -33,7 +33,7 @@ Le cycle de l'acide citrique a comme substrat l'acétyl-coA. Il est produit à p
 !!! note
     Une partie de l'acétyl-coA est modifiée pour produire certains acides aminés.
 
-## Le cycle de l'acide citrique (ou cycle de Krebs)
+## Cycle de l'acide citrique (ou cycle de Krebs)
 
 Le cycle de l'acide citrique qui produit $2 \times ATP$, 3x NADH, $1 \times FADH_2$. Ces deux derniers serviront notamment à la phosphorylation oxydative. Le cycle libère deux $CO_2$.
 
@@ -55,7 +55,7 @@ La phosphorylation oxydative est l'étape qui produit 90% de l'ATP. Il est compo
 
 ### Chaine de transport
 
-Les électrons sont apportés à la chaine de transport par le NAHD (et le $FADH_2$) puis ils sont transférés par une succession de transporteurs dont le niveau d'électronégativité augmente au fur et à mesure ce qui a pour effet de les attirer et de libérer de progressivement l'énergie. L'élément le plus électronégatif, le dioxygène, se trouve en bout de chaine. Il se combine avec quatre protons (H^+^) et quatre électrons pour former deux molécules d'eau. Durant leur trajet, l'énergie totale libérée est de $-222 kJ \cdot mol^{-1}$.
+Les électrons sont apportés à la chaine de transport par le NAHD (et le $FADH_2$) puis ils sont transférés par une succession de transporteurs dont le niveau d'électronégativité augmente au fur et à mesure ce qui a pour effet de les attirer et de libérer de progressivement l'énergie. L'élément le plus électronégatif, le dioxygène, se trouve en bout de chaine. Il se combine avec quatre protons ($H^+$) et quatre électrons pour former deux molécules d'eau. Durant leur trajet, l'énergie totale libérée est de $-222 kJ \cdot mol^{-1}$.
 
 !!! note
     En absence de dioxygène, l'accepteur final peut être substitué par l'ion sulfate $SO_4^{2-}$ qui se combine pour former du $H_2S$ (qui confère une odeur d'œuf pourri). C'est la respiration anaérobie.
@@ -103,7 +103,7 @@ La glycolyse a un rendement de 34% comparativement au moteur de voiture qui est 
 !!! note
     Une partie de l'énergie est dissipée sous forme de chaleur n'est pas totalement perdue puisqu'elle sert au maintien de notre température corporelle.
 
-# Métabolisme du glucose
+## Métabolisme du glucose
 
 Le sucre entre dans la fabrication de nombreux constituants comme les graisses, les aa, les nucléosides.
 
@@ -117,7 +117,7 @@ Le glucose circule dans les cellules par diffusion facilitée grâce à des tran
 * La glycolyse pour produire du pyruvate grâce à l'enzyme exokinase.
 * Etre déphosphorylé par une glucose-6-phosphatase présente dans le foie et les reins pour redevenir du glucose et être relâché dans le sang pour maintenir la glycémie. La régulation de la glucose-6-phosphatase se fait par une hormone, le glucagon.
 
-## Les sources de glucose
+### Les sources de glucose
 
 Le glucose-6-phosphate peut être fabriqué à partir de la dégradation de :
 
@@ -151,7 +151,7 @@ Plusieurs précurseurs peuvent servir de substrats :
 
 Trois organes sont capables de réaliser la glycogenèse : le foie (principalement), les reins et l'intestin.
 
-## La glycolyse
+### La glycolyse
 
 La glycolyse est l'ensemble des réactions qui permet de transformer le glucose-6-phosphate en deux pyruvates : $C_6H_{12}O_6 \longrightarrow 2 C_3H_3O_3^-$
 
@@ -186,11 +186,11 @@ La fermentation est le prolongement de la glycolyse : le pyruvate est transform�
 * Alcoolique qui produit de l'éthanol $C_3 H_3O_3^- \rightarrow C_2 H_4O + - CO_2 \rightarrow CH_5 OH$.
 * Lactique qui produit du lactate $C_3H_3O_3^- \rightarrow C_3 H_5O_3^-$.
 
-Dans la fermentation alcoolique, le pyruvate libère de,mux CO~2~ avant d'être réduit contrairement à la fermentation lactique où il directement réduit.
+Dans la fermentation alcoolique, le pyruvate libère deux $CO_2$ avant d'être réduit contrairement à la fermentation lactique où il directement réduit.
 
 __Effet de Crabtree__ La concentration de glucose régule les enzymes de la respiration. Lorsqu'elle est trop élevée, ces dernières sont inhibées. C'est notamment le cas pour les levures. C'est ce phénomène qui est exploité dans la vinification lorsque le raisin est cueilli bien mur pour être riche en sucre.
 
-### Fermentation lactique
+### Lactique
 
 Les cellules musculaires produisent de l'ATP en utilisant la fermentation lactique lorsque l'oxygène vient à manquer. C'est notamment le cas lorsque l'on débute une activité physique. Le lactate est ensuite transporté au foie pour être converti en pyruvate.
 
@@ -200,52 +200,17 @@ Il existe trois types de fermentation lactique :
 
 | Fermentation   | Déchets métaboliques       | Espèces         |
 |----------------|----------------------------|-----------------|
-| Homolactique   | H^+^                       | streptocoques   |
-| Hétérolactique | CO~2~ et H^+^              | lactobacilles   |
+| Homolactique   | $H^+$                       | streptocoques   |
+| Hétérolactique | $CO_2$ et $H^+$              | lactobacilles   |
 | Acéto-lactique | acide lactique et acétique | bifidobacterium |
 
 !!! note
     La fermentation lactique est utilisée dans la production du fromage.
 
-### La fermentation alcoolique
+### Alcoolique
 
 La fermentation alcoolique peut être prolongée par la fermentation acétique qui sert à produire du vinaigre.
 
-# Le métabolisme associé aux lipides
-
-La digestion et l'assimilation des lipides a lieu :
-
-1. Au cours de la digestion, les triglycérides découpés en acides gras et le glycérol et les autres molécules liposolubles comme le cholestérol traversent la paroi des cellules intestinales, les entérocytes.
-2. À l'intérieur de la cellule, les acides gras et le glycérol s'assemblent pour former des triglycérides.
-3. Les lipides sont entourés par un complexe formé de lipides et de lipoprotéines, appelé chylomicron, pour permettre leur transport.
-4. Les chylomicrons, appelés LDL, sont acheminés vers les tissus pour la production d'énergie et le stockage (adipocyte).
-5. Les chylomicrons qui n'ont pas été utilisés, appelés HDL, sont traités par le foie.
-
-Les chylomicrons sont stabilisés par des apolipoprotéines, un complexe.
-
-Chylomicrons (CM) structure de protéines et de lipides formant une vésicule et entourant les triglycérides.
-
-### Stockage et libération des acides gras
-
-Les acides gras sont stockés dans les cellules adipeuses. Des lipases présentes sur la membrane plasmique du côté du lumen des veines libèrent les lipides des chylomicrons qui, à cause de leur propriétés hydrophobes, vont dans les adipocytes.
-
-La libération des lipides survient en réponse à certaines hormones, par exemple, l'adrénaline qui transportée dans le sang par une protéine l'albumine.
-
-## Production d'énergie à partir d'acides gras
-
-Les acides gras peuvent être transformés en acétyl-coA pour servir de substrat à la respiration cellulaire. Cette réaction a lieu dans la mitochondrie et se déroule suivant :
-
-1. Les AG sont activés par l'ajout d'un Co pour former de l'acyl-CoA.
-2. La translocation de l'acyl-coA dans les mitochondries càd le passage de la membrane mitochondirenne. Elle a lieu grâce à une translocase. L'acétyl-coA est transporté par un carnitimn.
-3. L'acyl-coA est transformé en acétyl-coA par une réaction de Beta-oxydation qui se déroule en quatre étapes :
-
-    1.  La perte de deux carbones et la réduction d'un $FAD^+$.
-    2.  Hydratation.
-    3.  La réduction d'un $NAD^+$.
-    4.  La coupure (thiolyse) par CoA.
-
-!!! note
-    Un acide gras contient 4 fois plus d'énergie d'une molécule de glucose. C'est la raison pour laquelle il est plus difficile de perdre de la graisse.
 
 # Les méthodes d'études des protéines
 
@@ -308,7 +273,7 @@ Il existe plusieurs types d'électrophorèse :
 
 L'électrophorèse 2D consiste à réaliser une séparation :
 
-* en fonction du point isoélectrique (IEF)
+* en fonction du point isoélectrique (IEF).
 * par la taille.
 
 ## Méthode révélation 

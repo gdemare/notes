@@ -17,9 +17,14 @@ Les principales différences entre l'ADN et l'ARN sont :
 
 PBase Glucose
 
+Acide nuclétique    | Glucose             |
+--------------------|
+ADN                 | Désoxyribose       |
+ARN                 | Ribose
+
 |               | ADN                 | ARN         |
 |---------------|---------------------|-------------|
-| Glucose       | Désoxyribonucléique | Ribose      |
+| Glucose       |  |       |
 | Base          | A, C, G, Thymine    | A, C, G, Uracile
 | Nbre de brins | Double              | Simple      |
 
@@ -50,8 +55,7 @@ Les deux règles de Chargaff :
 * Les individus d'une espèce possèdent le même rapport de bases.
 * Les bases s'associent $A = T$ et $G = C$. Elles sont complémentaires.
 
-Pour les compter on utilise souvent l'unité Mpb (Million paires de
-base).
+Pour les compter on utilise souvent l'unité Mpb (Million paires de base).
 
 $$densité\ génétique = \frac{nbre\ de\ gènes}{nbre\ de\ Mpb}$$
 
@@ -76,9 +80,9 @@ Malgré de petites différences, les individus d'une même espèce possèdent un
 
 L'ADN et l'ARN peuvent être :
 
-* Circulaire
-* Linéaire
-* Segmenté
+* circulaire.
+* linéaire.
+* segmenté.
 
 En fonction du nombre de brin :
 
@@ -88,7 +92,7 @@ En fonction du nombre de brin :
 !!! note
     Toutes les combinaisons d'ARN et d'ADN sont possibles chez les Virus.
 
-## Structure de l'ADN
+## Conformation
 
 Un nucléotide est composé de :
 
@@ -99,8 +103,7 @@ Une base azotée
 !!! note
     Le désoxyribose est un ribose ayant perdu un groupement OH sur le carbone 2.
 
-Les bases se classent en deux catégories en fonction de leur
-précurseur :
+Les bases se classent en deux catégories en fonction de leur précurseur :
 
 * Pyrimidiques (cytosine, uracile, thymine).
 * Puriques (adénine, guanine).
@@ -117,8 +120,8 @@ Chez les Bactéries, le chromosome peut avoir deux conformations :
 
 Chez les Eucaryotes, l'ADN est accompagné de protéines qui permet sa compaction dans la cellule. Ils forment un complexe qui prend la forme d'un chromosome appelé ADN génomique. L'ADN est :
 
-1.  est enroulé autour d'histone de façon répétitive qui forme une alternance entre un solénoïde et un nucléosome.
-2.  Boucles de chromatine • Rosettes de boucles
+1. est enroulé autour d'histone de façon répétitive qui forme une alternance entre un solénoïde et un nucléosome.
+2. Boucles de chromatine • Rosettes de boucles
 
 L'ARN est soumis à un appariement spontané et local de type :
 
@@ -134,7 +137,7 @@ L'ARN est soumis à un appariement spontané et local de type :
 * M messager.
 * sn pour petits nucléaires.
 
-# La conformation de l'ADN
+## Conformation de l'ADN
 
 !!! note
     Par convention, lorsque l'on représente un brin d'ADN on commence toujours par le groupe phosphate c'est-à-dire l'extrémité 5'.
@@ -149,16 +152,14 @@ L'ADN hybridé peut adopter naturellement trois conformations :
 * A
 * Z
 
-L'hélice Beta est la structure la plus présente car c'est la plus
-stable. Un tour d'hélice est formé par 10 bases d'ADN et mesure 3.4nm de
-hauteur et à un diamètre de 20A.
+L'hélice Beta est la structure la plus présente car c'est la plus stable. Un tour d'hélice est formé par 10 bases d'ADN et mesure 3.4nm de hauteur et à un diamètre de 20A.
 
-# Organisation du génome
+## Organisation du génome
 
-## Les différences entre les organismes
+### Différences entre les organismes
 
 !!! note
-    La complexité d\'un organisme n\'est pas liée à la taille du génome. Par exemple, le poisson rouge possède 60 chromosomes alors que l'Homme n'en a que 46.
+    La complexité d'un organisme n'est pas liée à la taille du génome. Par exemple, le poisson rouge possède 60 chromosomes alors que l'Homme n'en a que 46.
 
 ## Les types d'ADN
 
@@ -167,7 +168,7 @@ On distingue deux types d'ADN :
 * 37,5% génique (codant).
 * 62,5% intergénique (non codant).
 
-### L'ADN génique 
+### Génique 
 
 L'ADN génique est composé de :
 
@@ -177,13 +178,12 @@ L'ADN génique est composé de :
 !!! note
     L'homme possède environ 20 000 gènes.
 
-### L'ADN intergénique
+### Intergénique
 
 L'ADN intergénique est composé de portions d'ADN :
 
 * Répétées
-* Introns qui sont les portions d'ADN transcrites en ARN mais retirées lors de
-l'épissage.
+* Introns qui sont les portions d'ADN transcrites en ARN mais retirées lors de l'épissage.
 * Non codant unique.
 
 L'ADN répété est composé de :
@@ -193,15 +193,14 @@ L'ADN répété est composé de :
 
 __Transposon__ élément mobile du génome.
 
-__Transposase__ enzyme qui réalise le déplacement des transposons. Elle
-extrait le transposon de l'ADN.
+__Transposase__ enzyme qui réalise le déplacement des transposons. Elle extrait le transposon de l'ADN.
 
 Il existe deux types de transpositions :
 
 * Conservative (transfert à autre endroit).
 * Réplicative (réplique l'exemplaire).
 
-### L'ADN satellite structuraux
+### Satellite structuraux
 
 __Centromère__ centre du chromosome (50 à 200 bases).
 
@@ -211,12 +210,9 @@ __ADN microsatellite__ motif réparti sur tout le chromosome (1 à 6 bases).
 
 __Génome extra chromosomique__ génome situé en dehors du chromosome.
 
-# ARN
+## ARN
 
-[L'ARN d'une partie de l'ADN et toutes les séquences d'ARN ne sont pas
-traduites en protéine. Les sites non codants seront notamment ceux se
-trouvant aux deux extrémités 5' et 3' qui entourent la région
-traduite.]{.mark}
+L'ARN d'une partie de l'ADN et toutes les séquences d'ARN ne sont pas traduites en protéine. Les sites non codants seront notamment ceux se trouvant aux deux extrémités 5' et 3' qui entourent la région traduite.
 
 __Cistron__ région qui code une protéine.
 
@@ -225,6 +221,8 @@ Il existe des différences entre importantes entre les deux types de cellule. Un
 * Plusieurs protéines chez les Eucaryotes (Gènes polycistroniques)
 * Une seule protéine chez les Procaryotes (Gène monocistronique).
 
+### Les types d'ARN
+
 Quatre types d'ARN sont produits par les cellules :
 
 * R pour ribosomal (95%).
@@ -232,10 +230,9 @@ Quatre types d'ARN sont produits par les cellules :
 * T pour transfert. Ils servent de clé pour traduire l'ARN en acides aminées.
 * I pour interférent. Ce sont de petites amorces d'ARN capable de s'hybrider avec un brin d'ARN.
 
-### ARN interférent 
+#### Interférent 
 
-endogène méthode de régulation de l'expression génétique. infèrent rend
-la séquence inactive 22nucleotides
+__Endogène__ méthode de régulation de l'expression génétique. infèrent rend la séquence inactive 22 nucleotides.
 
 \+ plus mécanisme de destruction tous les ARN messagers non spécifique.
 initialement évolutif moyen de défense contre les virus. ARN interférant
@@ -243,7 +240,7 @@ endogènes
 
 Hybridation puis prise en charge complexe protéique clive d'ARNm/ ARN
 
-## La structure de l'ARN
+### Structure
 
 L'ARN adopte une structure dans l'espace en plusieurs étapes :
 
@@ -256,11 +253,11 @@ La structure secondaire est liée à un appariement local entre les bases. Certa
 * Boucle (quelques nucléotides)
 * Tige double (100 à 1000 bases)
 
-## Interactions ARN protéines
+### Interactions ARN protéines
 
 L'ARN peut interagir avec les protéines pour former des complexes comme le complexe ribonucléoprotéique.
 
-Complexe ribonucléoprotéiques complexe formé d'un ARNr (18S) et de 21 protéines.
+__Complexe ribonucléoprotéique__ complexe formé d'un ARNr (18S) et de 21 protéines.
 
 ## Les conséquences des mutations
 
@@ -277,7 +274,7 @@ Les mutations de substitution peuvent être :
 * Silencieuse (la redondance des codons permet de conserver l'aa)
 * Non-sens (introduit un codant non-stop)
 
-# Réplication de l'ADN
+## Réplication de l'ADN
 
 La réplication de l'ADN se fait en plusieurs étapes :
 
@@ -295,7 +292,7 @@ Durant l'ensemble du processus des protéines vont agirent simultanément :
 * Topoisomérase va réguler les tensions exercées par la formation des yeux de réplication. Un des brins est cassé et déroulé avant d'être reformé.
 * Lorsque les brins sont séparés, ils ont tendance à créer des apparaimments locaux. La Protéine Single Strand Bingling empêche leurs formations.
 
-## Ouverture de l'ADN caténaire
+## Ouverture de l
 
 La réplication de l'ADN débute par la séparation des deux brins d'ADN par un complexe enzymatique. Cela a lieu dans des zones riches en paire de bases AT qui sont plus faciles à séparés.
 
@@ -311,8 +308,8 @@ La réplication s'effectue aux quatre extrémités de l'œil au niveau des fourc
 
 Comme la polymérisation se fait toujours de l'extrémité 5' vers le 3' de manière successive et de manière antiparallèle, chaque fourche possède un :
 
-* Brin précoce
-* Brin tardif ou retardé
+* brin précoce.
+* brin tardif ou retardé.
 
 !!! note
     L'ajout des bases sur le brin tardif se fait de façon discontinues, par itération.
@@ -336,8 +333,8 @@ Dans le premier cas, une enzyme ajoute une amorce pour que la réplication est l
 
 Les étapes d'ajout de nouvelles bases sont les suivantes :
 
-1.  Ajout d'un précurseur N-triphosphate (3 phosphates - dNTP) avec la base complémentaire.
-2.  Création de la liaison par fission des deux phosphates.
+1. Ajout d'un précurseur N-triphosphate (3 phosphates - dNTP) avec la base complémentaire.
+2. Création de la liaison par fission des deux phosphates.
 
 Cas du brin tardif
 
@@ -350,34 +347,26 @@ __AND primase__ type d'ARN polymérase qui synthétise l'amorce d'ARN nécessair
 !!! note 
     Les ARN polymérases n'ont pas besoin d'une amorce càd d'extrémité 3' pour ajouter des nucléotides.
 
-Le brin obtenu est un mélange d'ARN et d'ADN appelé brin
-néo-synthétique. L'enzyme RNHASE H coupe les liaisons des amorces des
-fragments d'Okazaki et les enlèvent pour permettre à l'ADN polymérase de
-venir ajouter la base correspondante. Ensuite une ligase relira les
-morceaux d'ADN entre eux.
+Le brin obtenu est un mélange d'ARN et d'ADN appelé brin néo-synthétique. L'enzyme RNHASE H coupe les liaisons des amorces des fragments d'Okazaki et les enlèvent pour permettre à l'ADN polymérase de venir ajouter la base correspondante. Ensuite une ligase relira les morceaux d'ADN entre eux.
 
-Ligase protéine qui relie les morceaux d'ADN entre eux.
+__Ligase__ protéine qui relie les morceaux d'ADN entre eux.
 
 ### L'extrémité 5'
 
-L'ADN polymérase est incapable de répliquer l'extrémité 5'. C'est une
-télomérase qui viendra ajouter une séquence ARN complémentaire. La
-séquence est connue à l'avance car elle est de type répliqué en tandem.
+L'ADN polymérase est incapable de répliquer l'extrémité 5'. C'est une télomérase qui viendra ajouter une séquence ARN complémentaire. La séquence est connue à l'avance car elle est de type répliqué en tandem.
 
-Télomérase enzyme qui contient un brin d'ARN contient un brin
-complémentaire de l'extrémité 5'.
+__Télomérase__ enzyme qui contient un brin d'ARN contient un brin complémentaire de l'extrémité 5'.
 
-[Remarque :]{.underline} Pour les eucaryotes, l'extrémité 5' au niveau
-du télomère subira un raccourcissement à chaque réplication.
+!!! note
+    Pour les eucaryotes, l'extrémité 5' au niveau du télomère subira un raccourcissement à chaque réplication.
 
 Ce mécanisme a été identifié comme un de ceux lié au vieillissement.
 
 ## Erreur de réplication
 
-Lorsqu'une erreur de réplication se produit, l'ajout des bases s'arrête
-à cause du mésappariement des bases.
+Lorsqu'une erreur de réplication se produit, l'ajout des bases s'arrête à cause du mésappariement des bases.
 
-Exonucléase enzyme qui coupe l'extrémité où l'erreur s'est produite.
+__Exonucléase__ enzyme qui coupe l'extrémité où l'erreur s'est produite.
 
 # Réparation de l'ADN
 
@@ -400,85 +389,69 @@ La substitution provoque un mésappariement des bases. On dit qu'elle est de :
 
 ## Réparation lors de la duplication - Mismatch repear (MMR)
 
-Les étapes ci-dessous sont celles qui se déroulent chez les procaryotes.
-Une version plus complète à lieu chez les organismes eucaryotes.
+Les étapes ci-dessous sont celles qui se déroulent chez les procaryotes. Une version plus complète à lieu chez les organismes eucaryotes.
 
-1.  MutS, une enzyme parcourt la double hélice d'ADN. Lorsqu'elle
-    détecte un mésappariement des bases, elle ci fixe.
-
-2.  MutL et MutH sont recrutés. Ils coupent la liaison phosphodiester et
-    retire le nucléotide défectueux du nouveau brin. Seul celui
-    d'origine est méthylé.
-
-3.  ADN polymérase repère la brèche et ajoute le nucléotide
-    correspondant à la base parallèle.
+1. MutS, une enzyme parcourt la double hélice d'ADN. Lorsqu'elle détecte un mésappariement des bases, elle ci fixe.
+2. MutL et MutH sont recrutés. Ils coupent la liaison phosphodiester et retire le nucléotide défectueux du nouveau brin. Seul celui d'origine est méthylé.
+3. ADN polymérase repère la brèche et ajoute le nucléotide correspondant à la base parallèle.
 
 ## Dommages liés à l'oxydation, la méthylation et l'hydrogénisation
 
-Dépurination perte de la base à cause d'une réaction d'hydrolyse.
+__Dépurination__ perte de la base à cause d'une réaction d'hydrolyse.
 
-Désamination la cytosine est remplacée par un uracile.
+__Désamination__ la cytosine est remplacée par un uracile.
 
-Les radiations provoquent des cassures du squelette sucre phosphate et
-la formation de liaisons entre deux thymines successives du même brin.
+Les radiations provoquent des cassures du squelette sucre phosphate et la formation de liaisons entre deux thymines successives du même brin.
 
 Les étapes principales de la réparation :
 
 1.  Reconnaissance de la séquence endommagée.
-
 2.  Césure
-
 3.  Élimination
-
 4.  Réparation par polymérisation
 
 Deux mécanismes principaux :
 
-| BER Base Excision Repair | NER Nucléotide Excision Repair |
-|--------------------------|--------------------------------|
-| Limiter à une base       | Plusieurs bases                |
+* BER Base Excision Repair qui est limité à une base.
+* NER Nucléotide Excision Repair qui peut agir sur plusieurs bases.
 
 ### BER
 
-1.  ADN glycosylase extrait la base en laissant le sucre et le
-    phosphate.
-
+1.  ADN glycosylase extrait la base en laissant le sucre et le phosphate.
 2.  Le site de la base manquante est appelé site AP.
-
 3.  AP endonucléase phosphodiestérase retire le nucléotide.
-
 4.  ADN polymérase ajoute une nouvelle base.
-
 5.  ADN ligase relie deux brins d'ADN.
 
 ### NER
 
-1.  Nucléase rompt la liaison phosphodiester à l'extrémité de la
-    séquence à retirer.
-
+1.  Nucléase rompt la liaison phosphodiester à l'extrémité de la séquence à retirer.
 2.  ADN hélicase rompt les liaisons des bases appareillées.
-
 3.  ADN polymérase et ADN ligase
 
 ## Les mutations
 
 Il existe plusieurs types de mutations :
 
-|              |          |           |
-|--------------|----------|-----------|
-| Substitution | Délétion | Insertion |
+* Substitution
+* Délétion
+* Insertion
 
-# Différence entre les procaryotes et les eucaryotes
+## Différence entre Procaryotes et Eucaryotes
+
+Comparaison de l'ADN entre les procaryotes et les Eucaryotes :
+
+| Type de cellules    | Bactéries               | Eucaryotes            |
+|---------------------|-------------------------|-----------------------|
+| Type d'ADN          | circulaire, bicaténaire | Linéaire, bicaténaire |
+| Nbre de chromosomes | Unique                  | Plusieurs             |
+| ADN annexe          | Plasmides               |                       |
 
 ### Procaryote
 
-Les procaryotes possèdent un seul chromosome circulaire avec des gènes
-non morcelés.
+Les procaryotes possèdent un seul chromosome circulaire avec des gènes non morcelés.
 
-Plasmide molécule d'ADN en plus de celle chromosomique qui est non
-essentielle à la survie de l'organisme. Elle est présente uniquement
-chez les bactéries. C'est elle qui est impliquée dans le transfère
-horizontal.
+__Plasmide__ molécule d'ADN en plus de celle chromosomique qui est non essentielle à la survie de l'organisme. Elle est présente uniquement chez les bactéries. C'est elle qui est impliquée dans le transfère horizontal.
 
 ### Eucaryote
 
@@ -491,15 +464,5 @@ La réplication de l'ADN diffère entre :
 | Région de réplication | ORS        | ARS       |
 | Nbre de régions       | 1          | Plusieurs |
 
-Comparaison de l'ADN entre les procaryotes et les Eucaryotes :
 
-| Type de cellules    | Bactéries               | Eucaryotes            |
-|---------------------|-------------------------|-----------------------|
-| Type d'ADN          | circulaire, bicaténaire | Linéaire, bicaténaire |
-| Nbre de chromosomes | Unique                  | Plusieurs             |
-| ADN annexe          | Plasmides               |                       |
-
-Généralement le substrat d'une fonction métabolique est un facteur de
-transcription conduisant traduction de l'ARN polycistronique (codant
-pour plusieurs protéines).
-
+Généralement le substrat d'une fonction métabolique est un facteur de transcription conduisant traduction de l'ARN polycistronique (codant pour plusieurs protéines).

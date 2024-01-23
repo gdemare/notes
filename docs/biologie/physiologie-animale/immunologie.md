@@ -3,48 +3,30 @@ Le corps est protégé par deux types d'immunité :
 * Inné. Son origine est ancienne. Elle reconnait un nombre limité de pathogènes.
 * Adaptative. Son apparition dans l'histoire de l'évolution est plus récente que le système inné. Il permet à un individu d'apprendre à lutter contre des corps étrangers 
 
-## Les cellules du système immunitaire
+## Orgine des cellules immunitaires
 
 Les cellules du système immunitaire sont issues de cellules souches de la moelle osseuse. Elles donneront naissances à deux grandes lignées de cellules :
 
-* Lymphocytes impliqués dans l'immunité adaptative
-* Myélocytes impliqués dans l'immunité innée (et adaptative).
+* lymphocytes impliqués dans l'immunité adaptative.
+* myélocytes impliqués dans l'immunité innée (et adaptative).
 
 !!! note
     L'immunité adaptative ne se déclenche lorsque l'infection atteint une valeur seuil.
 
-# Le système inné
+## Système inné
 
 L'immunité inné résulte de l'apprentissage génétique de la lutte contre les organismes infectieux. Elle a été transmise et enrichie au cours de l'évolution.
 
-## Les myélocytes
+### Types de cellules
+
+#### Myélocytes
 
 __Leucocytes__ cellules produites par la moelle osseuse présente dans le sang. Elles sont impliquées dans le système immunitaire.
 
-Les cellules du système immunitaire inné se trouvent :
+Les cellules du système immunitaire inné se trouvent dans :
 
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Dans le sang (leucocytes)</th>
-<th>Dans les tissus épithéliales</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Monocytes</p>
-<p>Éosinophiles</p>
-<p>Neutrophiles</p></td>
-<td><p>Cellules dendritiques</p>
-<p>Mastocytes</p>
-<p>Macrophages</p></td>
-</tr>
-</tbody>
-</table>
+* le sang (leucocytes) : monocytes, éosinophiles, neutrophiles.
+* les tissus épithéliales : cellules dendritiques, mastocytes, macrophages.
 
 Les monocytes se transforment lorsqu'ils passent dans les tissus en :
 
@@ -54,11 +36,11 @@ Les monocytes se transforment lorsqu'ils passent dans les tissus en :
 !!! note 
     Les macrophages sont également responsables de la dégradation des cellules mortes.
 
-### Les cellules dendritiques
+#### Cellules dendritiques
 
-Les cellules dendritiques font la jonction entre le système immunitaire inné et adaptif en apportant les antigènes aux lymphocytes T naïfs (par opposition à mature). Elles capturent des macromolécules sur le site d'infections et migrent vers les tissus lymphoïdes.
+Les cellules dendritiques font la jonction entre le système immunitaire inné et adaptif en apportant les antigènes aux lymphocytes T naïfs (par opposition à mature). Elles capturent des macromolécules sur le site de l'infections et migrent vers les tissus lymphoïdes.
 
-## Le mécanisme du système immunitaire inné
+### Mécanisme du système immunitaire inné
 
 __Épithélial__ tissu de revêtement et des glandes constitués de cellules jointives reposant sur une lame basale.
 
@@ -74,22 +56,21 @@ La réaction immunitaire se déclenche généralement lors du franchissement de 
 
 3. La vasodilations permet aux leucocytes de traverser la paroi et d'aller sur le site d'infecté. C'est ce que l'on appelle la réaction inflammatoire.
 
-__Diapédèse__ mécanisme de franchissement de la barrière endothéliale par
-les leucocytes.
+__Diapédèse__ mécanisme de franchissement de la barrière endothéliale par les leucocytes.
 
-Les chimiokines traversent les cellules endothéliales et pénètrent dans les vaisseaux sanguins. Leur présence sert à activer les leucocytes. Une fois capter, les récepteurs deviennent sensibles aux sélectines et aux intégrines.
+Les chimiokines traversent les cellules endothéliales et pénètrent dans les vaisseaux sanguins. Leur présence sert à activer les leucocytes. Une fois capté, les récepteurs deviennent sensibles aux sélectines et aux intégrines.
 
-Les leucocytes peuvent alors se fixer à leur substrat situé à la surface des cellules endothéliales. Une fois accroché, il traverse la paroi et entre sur le lieu de l'inflammation.
+Les leucocytes peuvent alors se fixer à leur substrat situé à la surface des cellules endothéliales. Une fois accroché, ils traversent la paroi et entrent sur le lieu de l'inflammation.
 
 __Chimiotactisme__ phénomène d'attraction des phagocytes par différentes molécules dont les chimiokines.
 
-## Les étapes de la phagocytose par les macrophages 
+### Etapes de la phagocytose 
 
-Le mécanisme et les étapes de la phagocytose :
+La phagocytose est réalisé par les macrophages. Le mécanisme et les étapes de la phagocytose :
 
-1. Reconnaissance
-2. Induction de la phagocytose
-3. Dégradation
+1. Reconnaissance.
+2. Induction de la phagocytose.
+3. Dégradation.
 4. Rejet des déchets dans le milieu extracellulaire.
 
 ## Détection de l'activité anormale
@@ -107,14 +88,14 @@ Les cellules de l'immunité innée s'activent ou augmentent leur activité lorsq
 La détection a lieu grâce à des récepteurs membranaires appelé Pattern
 Recognition Receptor.
 
-### Résistance des pathogènes au système immunitaire inné
+### Résistance des pathogènes
 
 Certains pathogènes ont développés des résistances au système immunitaire inné :
 
 * Certaines bactéries sont entourées d'une capsule qui empêchent leur reconnaissance.
 * Un résistance à la destruction notamment aux lysosomes.
 
-## Le système immunitaire adaptatif
+## Système immunitaire adaptatif
 
 Le système immunitaire adaptatif concerne uniquement les vertébrés. Il est matérialisé par les lymphocytes. Le pathogène est reconnu par l'intermédiaire de récepteurs d'antigènes présent à la surface des lymphocytes. Ces cellules sont spécifiques c'est-à-dire qu'ils ne réagissent qu'a un seul agent pathogène.
 
@@ -146,7 +127,7 @@ __Épitope__ partie de l'antigène qui se lie au récepteur.
 
 __Immunité humorale__ immunité donnée par les molécules et non par les cellules (par opposition à cellulaire).
 
-### Généralités sur les récepteurs des lymphocytes
+#### Récepteurs des lymphocytes
 
 En moyenne, chaque lymphocyte possède 100 000 récepteurs de reconnaissance ancrés dans la membrane plasmique.
 
@@ -158,7 +139,7 @@ Les lymphocytes qui réagissent aux antigènes du soi sont éliminés avant de d
 
 La sélection des lymphocytes se fait par l'association des récepteurs membranaires avec un antigène qui est présenté par les cellules dendritiques.
 
-## Activation des lymphocytes
+### Activation des lymphocytes
 
 Un lymphocyte s'active lorsqu'un antigène vient se fixer sur un de ses récepteurs. Il entre alors dans une phase de clonage. Les lymphocytes produits deviendront soit :
 
@@ -167,33 +148,32 @@ Un lymphocyte s'active lorsqu'un antigène vient se fixer sur un de ses récepte
 
 __Cellules effectrices__ cellules qui combattent l'antigène.
 
-Cette phase de multiplication permet de donner naissance à partir d'un lymphocyte B à la présence de 10^5^ à 10^6^. \
+Cette phase de multiplication permet de donner naissance à partir d'un lymphocyte B à la présence de $10^5$ à $10^6$.
 
-__Amplification clonale__ processus de réplication des lymphocytes à la
-suite de leur activation.
+__Amplification clonale__ processus de réplication des lymphocytes à la suite de leur activation.
 
 Les cellules mémoires persistent longtemps dans l'organisme. Elles permettront une réponse immunitaire plus rapidement en cas de nouvelles expositions au même pathogène. Lors de la :
 
-1. Première exposition, il faut entre 10-17 jours 
-2. Seconde exposition 2-7 jours |
+1. première exposition, il faut entre 10-17 jours.
+2. seconde exposition 2-7 jours.
 
-## Les lymphocytes B
+#### Les lymphocytes B
 
 Les lymphocytes B deviennent actifs lorsqu'un antigène est présenté par :
 
-* La présence directe avec le pathogène
-* Un lymphocyte T CD4 helper.
+* La présence directe avec le pathogène.
+* un lymphocyte T CD4 helper.
 
-Les lymphocytes B Les cellules effectrices des lymphocytes B sont les plasmocytes. Elles produisent une version soluble des récepteurs membranaires appelée anticorps qu'elles relâchent dans le milieu extracellulaire. Leur appareil de Golgi est extrêmement développé. Il occupe une surface importante dans la cellule.
+Les cellules effectrices des lymphocytes B sont les plasmocytes. Elles produisent une version soluble des récepteurs membranaires appelée anticorps qu'elles relâchent dans le milieu extracellulaire. Leur appareil de Golgi est extrêmement développé. Il occupe une surface importante dans la cellule.
 
 Les plasmocytes sont dépourvus de récepteurs membranaires. Ils vivent entre trois et cinq jours.
 
 Les anticorps se lient aux pathogènes pour permettre de :
 
-* Favoriser la reconnaissance des pathogènes et l'opsonisation, aide à la phagocytose.
-* Aider à contenir les pathogènes en les agglomérant. Chaque récepteur est capable de se lier à de deux antigènes.
-* Neutraliser les pathogènes. Ils empêchent les pathogènes (comme les virus) de rentrer dans une cellule hôte.
-* Provoquer la destruction du pathogène grâce à l'association de protéines (ce processus est appelé système du complément). Certaines protéines viennent s'associer aux anticorps pour former un complexe d'attaque membranaire qui perse la membrane du pathogène et provoque sa mort.
+* favoriser la reconnaissance des pathogènes et l'opsonisation, aide à la phagocytose.
+* aider à contenir les pathogènes en les agglomérant. Chaque récepteur est capable de se lier à de deux antigènes.
+* neutraliser les pathogènes. Ils empêchent les pathogènes (comme les virus) de rentrer dans une cellule hôte.
+* provoquer la destruction du pathogène grâce à l'association de protéines (ce processus est appelé système du complément). Certaines protéines viennent s'associer aux anticorps pour former un complexe d'attaque membranaire qui perce la membrane du pathogène et provoque sa mort.
 
 __Anticorps__ (ou immunoglobuline Ig ou BCR) version du récepteur membranaire soluble (libre dans le milieu extracellulaire). Il est capable de réagir avec un antigène.
 
@@ -208,13 +188,13 @@ Chaque récepteur est composé de quatre chaines peptidiques :
 
 Chaque chaine est composée de deux régions :
 
-* Constante 
-* Variable
+* constante. 
+* variable.
 
-Les parties variables sont sous divisées en région
+Les parties variables sont sous divisées en région :
 
-* De structure généralement peu variable.
-* Hypervariables où se situent les acides aminés qui interagissent avec l'antigène. Elles sont appelées CDR.
+* de structure généralement peu variable.
+* hypervariables où se situent les acides aminés qui interagissent avec l'antigène. Elles sont appelées CDR.
 
 Il existe cinq types d'anticorps ayant des fonctions (opsonisation, neutralisation) et des localisations spécifiques formées par la combinaison de deux types de chaines légères (Kappa et Alpha) et de cinq types de chaines lourdes (γ, δ, α, μ et ε) :
 
@@ -224,7 +204,7 @@ Il existe cinq types d'anticorps ayant des fonctions (opsonisation, neutralisati
 * IgG existent en quatre formes. Ils constituent la majorité des anticorps lors d'une réponse immunitaire. Ils sont les seuls capables de circuler dans le fœtus et de lui conférer une immunité passive.
 * IgM exprimés à la surface des lymphocytes B et en pentamère. Ils ont une haute affinité et sont synthétisée particulièrement au début de la réaction humorale.
 
-## Les lymphocytes T
+### Les lymphocytes T
 
 L'activation des lymphocytes se fait par la présentation d'un antigène au niveau des CMH par une cellule présentatrice d'antigène notamment par une cellule dendritique.
 
@@ -235,7 +215,7 @@ Il existe deux types de cellules chez les lymphocytes T en fonction du type de r
 
 ### Activation des LT et cascade signalisation
 
-Des voies métaboliques peuvent être déclenchées dans les LT par la réponse à trois types de signal :
+Des voies métaboliques peuvent être déclenchées dans les LT par la réponse à trois types de signaux :
 
 * Un antigène : le lymphocyte T devient actif.
 * Une molécule de co-stimulation (uniquement pour les LT matures) qui stimule la production du LT ou l'inhibe. Ce mécanisme permet :
@@ -252,12 +232,12 @@ Des voies métaboliques peuvent être déclenchées dans les LT par la réponse 
 
 Lorsqu'ils sont activés, les LT auxiliaires se différencient en :
 
-* Activé (appartient aux LT effectrices)
-* À mémoire
+* activé (appartient aux LT effectrices).
+* à mémoire.
 
 ### Les LT cytotoxiques
 
-Les LT cytotoxiques injectent des produits toxiques qui altèrent la membrane de la cellule hôte infectée et provoque l'apoptose.
+Les LT cytotoxiques injectent des produits toxiques qui altèrent la membrane de la cellule hôte infectée et provoquent l'apoptose.
 
 __Apoptose__ (ou mort cellulaire programmée) processus par lequel une cellule déclenche son autodestruction en réponse à un signal.
 
@@ -273,7 +253,7 @@ L'extrémité forme le site de fixation et ne peut se lier qu'à un seul antigè
 
 Le lymphocyte actif présent sur ses récepteurs TCR un peptide antigénique.
 
-# Tolérance immunitaire
+## Tolérance immunitaire
 
 Le système immunitaire maintient une absence de réponse aux antigènes du soi grâce à deux types de tolérance :
 
@@ -288,13 +268,13 @@ __Auto-immunité__ état de non-tolérance à ses propres constituant. Le systè
 
 __Immunodépression__ état de non-réponse immunitaire à un antigène.
 
-## Le soi et le non soi
+### Soi et non soi
 
 Les cellules du soi sont identifiées grâce à des récepteurs présents sur leur membrane que l'on appelle complexe majeur d'histocompatibilité (CMH) propre à chaque individu (hormis chez les vrais jumeaux). Ces récepteurs se nomment HLA chez l'Homme. Les cellules qui ne possèdent pas la bonne version du récepteur sont considérées par le système immunitaire comme appartenant au non soi.
 
 C'est parce que les cellules cancéreuses ne sont pas reconnues comme un corps étranger qu'elles ne sont pas détruites par l'organisme et qu'elles peuvent proliférer.
 
-### La tolérance centrale
+#### Tolérance centrale
 
 La tolérance centrale est le processus d\'élimination des lymphocytes T et B qui réagissent au soi, c'est-à-dire possédant des auto-antigènes. Ce processus est appelé processus de maturation des précurseurs des lymphocytes. Il élimine les lymphocytes qui ont une affinité forte et moyenne au CMH-peptidique du soi soit en :
 
@@ -322,16 +302,16 @@ Changer de région constante en fonction du somatique hyper-mutation
 
 changer de type de partie constante pour produire un autre type d'anticorps.
 
-### Tolérance périphérique
+#### Tolérance périphérique
 
 Cette deuxième étape de la tolérance permet d'éliminer les 30% restant de lymphocytes auto réactifs. A la reconnaissance de l'autoantigène, les lymphocytes sont inactivés définitivement par les lymphocytes T régulateurs.
 
-## Auto-immunité : causes et origine
+## Maladies autoimmunes
 
 Elle peut être provoquée par des facteurs :
 
-* Génétiques.
-* Environnementaux.
+* génétiques.
+* environnementaux.
 
 On a deux types de facteurs environnementaux :
 
@@ -352,7 +332,7 @@ Paradoxalement, certaines pathogènes peuvent avoir pour effet de :
 * Libération d'autoantigène, de cytokine inflammatoire d'éléments intracellulaire activité les cellules dendritiques prolifération des lymphocytes T auto réactifs.
 * Effet adjuvant : Certains pathogènes induisent la production de cytokines et de molécules co-stimulatrices qui pourraient entraîner la présentation de peptides du soi sous forme immunogénique.
 
-### Traitement des maladies auto-immune
+### Traitement des maladies auto-immunes
 
 Il n'existe aucun traitement curatif mais on a recours à plusieurs méthodes pour limiter la réponse auto-immunes par l'utilisation de :
 
@@ -360,27 +340,26 @@ Il n'existe aucun traitement curatif mais on a recours à plusieurs méthodes po
 * anticorps thérapeutiques qui bloque les récepteurs. la production de cytokine au niveau des lymphocytes naïfs. La prolifération des lymphocytes est alors bloquée.
 * immunodépresseur qui bloque la production de lymphocytes.
 
-## Le cas des greffes
+### Les greffes
 
 Il existe 3 types de greffes :
 
-* Autogreffe (donneur et receveur sont la même personne)
-* Allogreffe (donneur et receveur sont de la même espèce)
-* Xénogreffe (donneur et receveur appartiennent à des espèces différentes).
+* autogreffe, le donneur et le receveur sont la même personne.
+* allogreffe, le donneur et le receveur sont de la même espèce.
+* aénogreffe, le donneur et receveur appartiennent à des espèces différentes.
 
-Allo-immunité réponse immunitaire dirigée contre les antigènes du greffon (allo-antigènes) qui aboutit à la mort du greffon c'est-à-dire au rejet de la greffe. Les antigènes des allogreffes (=allo antigènes) qui constituent les cibles principales du rejet sont les protéines du CMH (complexe majeur d'histocompatibilité).
+__Allo-immunité__ réponse immunitaire dirigée contre les antigènes du greffon (allo-antigènes) qui aboutit à la mort du greffon c'est-à-dire au rejet de la greffe. Les antigènes des allogreffes (=allo antigènes) qui constituent les cibles principales du rejet sont les protéines du CMH (complexe majeur d'histocompatibilité).
 
-### L'allogreffe
+#### Allogreffe
 
-La reconnaissance des allo antigènes par les lymphocytes T allo réactifs
-peut être :
+La reconnaissance des allo antigènes par les lymphocytes T allo réactifs peut être :
 
 * directe (CPA du donneur).
 * indirecte (CPA du receveur qui présente des antigènes du donneur).
 
 __Cellule auto réactive__ cellule qui reconnait les autoantigènes.
 
-### Rejet du greffon
+#### Rejet du greffon
 
 Il existe 3 types de rejets :
 
@@ -388,11 +367,11 @@ Il existe 3 types de rejets :
 * Aigu : Lymphocytes T et B dirigés contre le CMH du greffon.
 * Chronique : Inflammation chronique liée aux cytokines inflammatoires.
 
-# Complexe majeur d'histocompatibilité (CMH)
+## Complexe majeur d'histocompatibilité (CMH)
 
 Les CMH sont les protéines qui servent à faire la différence entre les cellules du soi et du non-soi. Elles sont uniques entre chaque individu sauf chez les vrais jumeaux.
 
-## Structure du CMH
+### Structure
 
 Les CMH sont des molécules de présentation antigénique. Il en existe
 deux types de CMH : 
@@ -427,13 +406,13 @@ Lorsqu'une cellule est infectée ou qu'elle devient tumorale son métabolisme es
 
 Il existe trois situations qui permettent aux cellules malades d'échapper à leur reconnaissance par les lymphocytes T :
 
-* Isolement des CMH dans la cellule.
-* L'inactivation des CMH.
-* Lors de l'appareillage du CMH avec un lymphocyte, la cellule produit des molécules qui inhibent l'activité des lymphocytes.
+* isolement des CMH dans la cellule.
+* l'inactivation des CMH.
+* lors de l'appareillage du CMH avec un lymphocyte, la cellule produit des molécules qui inhibent l'activité des lymphocytes.
 
-## L'efficacité des lymphocytes est croissance dans le temps
+## Efficacité des lymphocytes 
 
-La fixation entre les récepteurs cellulaire et les CMH est graduelle. On parle de degré d'affinité entre les deux protéines. Lors d'une infection, le degré d'affinité entre le complexe de vérification et les lymphocytes augmente au cours du temps. Si, grâce aux mécanismes qui provoquent les mutations dans la séquence qui codent pour les parties variables des CR, un nouveau lymphocyte apparait par hasard avec un degré d'affinité plus élevé avec l'antigène, ils se multipliera plus vite et envahira la population de lymphocytes qui combat l'infection.
+L'efficacité des lymphocytes en activité est croissante dans le temps. La fixation entre les récepteurs cellulaire et les CMH est graduelle. On parle de degré d'affinité entre les deux protéines. Lors d'une infection, le degré d'affinité entre le complexe de vérification et les lymphocytes augmente au cours du temps. Si, grâce aux mécanismes qui provoquent les mutations dans la séquence qui codent pour les parties variables des CR, un nouveau lymphocyte apparait par hasard avec un degré d'affinité plus élevé avec l'antigène, ils se multipliera plus vite et envahira la population de lymphocytes qui combat l'infection.
 
 ## Les réactions allergiques
 

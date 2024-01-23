@@ -224,7 +224,7 @@ $\mu = \frac{n}{t}$ avec
 !!! note
     Le temps de génération correspond au temps nécessaire pour doubler l'effectif de la colonie.
 
-Pour linéariser la croissance on utilise le log.
+Pour linéariser la croissance on utilise le $\log$.
 
 Calcul de la pente $g = \frac{Do}{Do \times 2 \times nb\ heures}$
 
@@ -233,7 +233,7 @@ Attention Les paramètres de la fonction sont à déterminer uniquement pour la 
 La biomasse (mg/L) masse à $t_0$. Elle est égale à $M = x_{\max} - x_{0}$
 
 Rendement de croissance :
-$y = \frac{masse\ \ de\ micro - organismes\ mg/L}{masse\ de\ substrat\ consommé\ g/L}$
+$y = \frac{masse\ de\ micro - organismes\ mg/L}{masse\ de\ substrat\ consommé\ g/L}$
 
 Les paramètres qui impactent le plus la croissance bactérienne sont le pH, la pression, la présence d'oxygène, la température, les radiation.
 

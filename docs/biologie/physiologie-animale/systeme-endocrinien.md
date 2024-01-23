@@ -1,29 +1,29 @@
 Les Animaux possèdent deux systèmes de communication et de régulation de l'organisme, le système :
 
-* Endocrinien
-* Nerveux
+* endocrinien.
+* nerveux.
 
 !!! note
-    Les deux systèmes interagissent de façon étroite.
+    Les deux systèmes interagissent étroitement.
 
 ## Le système endocrinien
 
-Les Animaux sécrètent dans le liquide extracellulaire des molécules appelées hormones qui leur servent d'intermédiaires pour réguler leur métabolisme et pour assurer la coordination du développement des parties de leur corps.
+Les Animaux sécrètent dans le liquide extracellulaire des molécules appelées hormones qui servent d'intermédiaire pour réguler leur métabolisme et assurer la coordination du développement des parties de leur corps.
 
 Le système endocrinien est principalement impliqué dans la régulation de :
 
-* La reproduction
-* Le développement
-* Le métabolisme énergétique
-* La croissance
-* Le comportement
+* la reproduction.
+* le développement.
+* le métabolisme énergétique.
+* la croissance.
+* le comportement.
 
-Chaque hormone est reconnue par un récepteur spécifique que possèdent des cellules dites cibles. L'activation du récepteur par l'hormone déclenche des réactions au sein de la cellule.
+Chaque hormone est reconnue par un récepteur spécifique que possède des cellules dites cibles. L'activation du récepteur par l'hormone déclenche des réactions au sein de la cellule.
 
 Les modes de transmission entre les cellules animales sont classés en fonction :
 
-* Du type de cellules sécrétrices.
-* De la voie empruntée pour atteindre la cible.
+* du type de cellules sécrétrices.
+* de la voie empruntée pour atteindre la cible.
 
 Les types des communications dans le corps :
 
@@ -167,49 +167,24 @@ Les cellules endocrines sont présentes dans le corps :
 </tbody>
 </table>
 
-Il existe trois types d'hormones classés en fonction de leur précurseur :
+### Les types d'hormones
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 36%" />
-<col style="width: 38%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Type</th>
-<th>Précurseur</th>
-<th>Solubilité</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Polypeptides</td>
-<td>Acides aminés</td>
-<td>hydrosoluble</td>
-</tr>
-<tr class="even">
-<td>Stéroïdes</td>
-<td>Cholestérol</td>
-<td>hydrophobe</td>
-</tr>
-<tr class="odd">
-<td>Amine</td>
-<td><p>Tyrosine ou tryptophane</p>
-<p>(acide aminé)</p></td>
-<td>hydrosoluble/hydrophobe</td>
-</tr>
-</tbody>
-</table>
+Il existe trois types d'hormones classées en fonction de leur précurseur :
 
-### Les hormones hydrophobes
+Type	 	 | Précurseur 				| Solubilité
+-------------|--------------------------|---
+Polypeptides | Acides aminées 			| Hydrosoluble
+Stéroïdes 	 | Cholestérol 				| Hydrophobe
+Amine 		 | Tyrosine ou tryptophane 	| Hydrosoluble/hydrophobe
+
+#### Hydrophobes
 
 1. Les hormones hydrophobes sont sécrétées dans le milieu extracellulaire par exocytose.
 2. Elles sont acheminées par des protéines de transport qui les rendent solubles et leur permet d'être acheminées par voie sanguine dans la région où se trouvent les cellules cibles.
 3. Le complexe se désolidarise et les hormones traversent les membranes pour aller se fixer sur des récepteurs situés soit dans le noyau, soit dans le cytosol.
 4. Transcription génétique
 
-### Les hormones solubles
+#### Solubles
 
 Les hormones solubles ne peuvent pas traverser les membranes. Elles se fixent sur des récepteurs de la membrane plasmique.
 
@@ -221,54 +196,53 @@ Le diabète est une maladie dû à un disfonctionnement dans la production ou de
 
 Il existe deux formes de diabètes :
 
-* Type 1 : Les cellules pancréatiques ne sécrètent plus suffisamment d'insuline. Cela peut être dû à une destruction des cellules pancréatique par le système immunitaire.
+* Type 1 : Les cellules pancréatiques ne sécrètent plus suffisamment d'insuline. Cela peut être dû à une destruction des cellules pancréatiques par le système immunitaire.
 * Type 2 : les cellules n'arrivent pas à absorber suffisamment le sucre présent dans le sang. La sédentarisation et l'obésité pourrait jouer un rôle déterminant dans l'apparition de cette maladie.
 
 __Glycémie__ concentration de glucose.
 
 ## Les voies des hormones
 
-La voie des hormones hydrosolubles
+__Transduction du signal__ conversion d'un signal en réponse intracellulaire.
 
-Transduction du signal conversion d'un signal en réponse
-intracellulaire.
+!!! note
+	Les hormones liposolubles provoquent généralement une modification de l'expression génétique.
 
-Liposoluble généralement une modification de l'expression génétique
+### Hormones hydrosolubles
 
 L'hormone pénètre dans le cytosol où elle se lie avec une protéine. Le complexe peut alors rentrer dans le noyau interagissent avec une protéine de liaison à la transcription.
 
 Des effets combinés dans tous l'organisme.
 
-Les réponses cellulaires peuvent varier en fonction
+Les réponses cellulaires peuvent varier en fonction du type de :
 
-* Du type de récepteurs cible.
-* Du type de cellule.
+* récepteurs cible.
+* cellules.
 
-### Exemple d'une hormone hydrosoluble : l'adrénaline
+!!! example 
+	L'adrénaline  est une hormone hydrosoluble produite en cas de stress. Elle cible des récepteurs membranaire de type G :
 
-L'adrénaline est une hormone hydrosoluble produite en cas de stress. Elle cible des récepteurs membranaire de type G :
+	* $\beta$ du foie provoque une augmentation de l'énergie disponible dans le sang en :
 
-* $\beta$ du foie provoque une augmentation de l'énergie disponible dans le sang en :
+    	* Activant des enzymes qui dégradent le glycogène et relâchent du sucre dans le sang.
+    	* Inactivant les enzymes qui synthétisent le glycogène.
 
-    * Activant des enzymes qui dégradent le glycogène et relâchent du sucre dans le sang.
-    * Inactivant les enzymes qui synthétisent le glycogène.
+	* $\Beta$ des vaisseaux sanguins des muscles squelettiques provoquant leur dilatation.
+	* Α des vaisseaux des muscles intestinaux provoquant leur constriction.
 
-* $\Beta$ des vaisseaux sanguins des muscles squelettiques provoquant leur dilatation.
-* Α des vaisseaux des muscles intestinaux provoquant leur constriction.
+## Coordination du système hormonal et nerveux
 
-## La coordination des activités du système hormonal et du système nerveux
-
-Les activités du système sont en partie régulées par une glande situé dans l'encéphale : l'hypothalamus. Il exerce une régulation hormonale en fonction des informations sur les conditions du milieu qu'il reçoit du système nerveux.
+Les activités du système hormonales sont en partie régulées par une glande située dans l'encéphale : l'hypothalamus. Il exerce une régulation hormonale en fonction des informations sur les conditions du milieu qu'il reçoit du système nerveux.
 
 !!! example
-    Les informations transmise par les neurones sur les changements saisonniers déclenchent la libération d'hormones qui provoque l'apparition de comportements sexuelles et la fonctionnement des organes sexuels durant la période de reproduction.
+    Les informations transmises par les neurones sur les changements saisonniers déclenchent la libération d'hormones qui provoque l'apparition de comportements sexuelles et le fonctionnement des organes sexuels durant la période de reproduction.
 
 L'hypothalamus contrôle les activités d'une glande située en dessous appelé hypophyse. Elle est composée de deux lobes :
 
 * Le neurohypophyse situé à l'avant. Il emmagasine deux types d'hormones fabriquées par l'hypothalamus.
 * L'adénohypophyse situé à l'arrière. Il sécrète des hormones en fonction l'hypothalamus.
 
-### Les hormones neurohypophysaires
+### Hormones neurohypophysaires
 
 Les cellules sécrétoires de l'hypothalamus produisent deux types d'hormones à destination du neurohypophyse :
 
@@ -307,11 +281,11 @@ L'hypothalamus libère des hormones par un réseau de veines qui va directement 
 !!! note
     Toutes les hormones adénohypophysaires sont régulées par au moins une libérine.
 
-Régule
+Régule :
 
-* Le métabolisme.
-* La reproduction.
-* L'osmorégulation.
+* le métabolisme.
+* la reproduction.
+* l'osmorégulation.
 
 ## Les principales glandes chez les vertébrés
 
