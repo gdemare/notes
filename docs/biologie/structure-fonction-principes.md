@@ -6,9 +6,9 @@ Les formes des organes sont adaptées à leur fonction.
 
 La sélection naturelle a favorisé l'apparition et la perpétuation de formes qui améliorent la capacité de survie des individus qui les possèdent notamment pour :
 
-* Lutter contre les infections.
-* Se reproduire.
-* Se procurer les nutriments.
+* lutter contre les infections.
+* se reproduire.
+* se procurer les nutriments.
 
 ## Plan d'organisation
 

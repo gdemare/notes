@@ -81,7 +81,7 @@ La chromatographie est un ensemble de méthodes qui permet de séparer les prot�
 * Sur couche mince.
 
 !!! note
-    il existe une chromatographie qui utilise des anticorps à la place des ions.
+    Il existe une chromatographie qui utilise des anticorps à la place des ions.
 
 ### Exclusion
 
@@ -95,8 +95,8 @@ K_a coefficient de partage : $K_{a} = \frac{v_{élué} - v_{mort}}{v_{total} - 
 
 Les protéines sont mises dans une colonne échangeuse avec des billes qui possèdent une charge opposée à la protéine d'intérêt. Les protéines sont détachées progressivement par plusieurs lavages (le solvant est appelé analyte). Il casse les interactions faibles càd de type :
 
-* Hydrogènes
-* Van Deer Val
+* Hydrogènes.
+* Van Deer Val.
 
 ## Électrophorèse
 
