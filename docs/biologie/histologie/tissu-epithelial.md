@@ -233,80 +233,47 @@ glandes :
 * Acineuse
 * Composée
 
-GLANDE SIMPLE : Une seule portion sécrétrice, glande tubuleuse (tube)
-simple, glande tubuleuse simple contournée et la glande tubuleuse
-ramifié au niveau de la partie sécrétrice uniquement (ex : estomac).
+GLANDE SIMPLE : Une seule portion sécrétrice, glande tubuleuse (tube) simple, glande tubuleuse simple contournée et la glande tubuleuse ramifié au niveau de la partie sécrétrice uniquement (ex : estomac).
 
-Glande acineuse (forme de boule) simple, alvéolaire ou Glande acineuse
-simple ramifiés (= Plusieurs acini sécrétoires vident leur contenu dans
-un canal excréteur unique foré de l'épithélium stratifié entourer de
-poil.
+Glande acineuse (forme de boule) simple, alvéolaire ou Glande acineuse simple ramifiés (= Plusieurs acini sécrétoires vident leur contenu dans un canal excréteur unique foré de l'épithélium stratifié entourer de poil.
 
-Glande acineuse composée = Nombreux acini se collectent dans un
-mini-canal. Ces canaux se drainent dans un système de canaux excréteurs
+Glande acineuse composée = Nombreux acini se collectent dans un mini-canal. Ces canaux se drainent dans un système de canaux excréteurs
 
-Glandes tubulo-acineuse composé (cas de la glande salivaire sous
-maxillaire)
+Glandes tubulo-acineuse composé (cas de la glande salivaire sous maxillaire)
 
-La glande tubulo = sécrète le mucus alors que glande acineuse = sécrète
-protéine.
+La glande tubulo = sécrète le mucus alors que glande acineuse = sécrète protéine.
 
-Les glandes sont en général des organes composés de plusieurs lobes
-délimités par des lobules.
+Les glandes sont en général des organes composés de plusieurs lobes délimités par des lobules.
 
-On trouve les acini qui sécrète dans le tubule intercalaire qui lui-même
-va se jeter dans le canal strié qui va se jeter dans le canal
-intra-lobulaire. Ces canaux sortent du lobule et on trouve des canal
-intra-lobulaire se jette dans un canal lobaire (plusieurs couche de
-cellule). Tout ça parce que c'est proportionnel au volume à déplacer et
-donc la paroi va être forte donc on doit aug le volume du tube pour dim
-pression.
+On trouve les acini qui sécrète dans le tubule intercalaire qui lui-même va se jeter dans le canal strié qui va se jeter dans le canal intra-lobulaire. Ces canaux sortent du lobule et on trouve des canal intra-lobulaire se jette dans un canal lobaire (plusieurs couche de cellule). Tout ça parce que c'est proportionnel au volume à déplacer et donc la paroi va être forte donc on doit aug le volume du tube pour dim pression.
 
 Type et mode de sécrétion exocrine.
 
-Glandes séreuses : sécrétion riche en protéines, stockées dans des
-granules de zymogène : organisation ultra structurale cellulaire
-particulière. EX : glande parotides l'amylase salivaire : pancréas.
+Glandes séreuses : sécrétion riche en protéines, stockées dans des granules de zymogène : organisation ultra structurale cellulaire particulière. EX : glande parotides l'amylase salivaire : pancréas.
 
-Les glandes muqueuses : sécrétion du mucus, riche en glucides,
-glycoprotéines et eau détectables par la coloration PAS. EX : glandes...
+Les glandes muqueuses : sécrétion du mucus, riche en glucides, glycoprotéines et eau détectables par la coloration PAS. EX : glandes...
 
 ### La sécrétion
 
 La libération peut se faire par :
 
-|                             |           |
-|-----------------------------|-----------|
-| Détérioration de la cellule | Exocytose |
+* Détérioration de la cellule
+* Exocytose
 
-Les glandes endocrines libèrent des hormones dans le sang de deux
-types :
+Les glandes endocrines libèrent des hormones dans le sang de deux types :
 
--   Hydrosolubles ce sont des peptides, polypeptides ou protéines. Elles
-    ne peuvent pas traverser la membrane cellulaire d'elles-mêmes, elles
-    ont besoin de récepteurs membranaires qui déclenchent une
-    transduction.
+* Hydrosolubles ce sont des peptides, polypeptides ou protéines. Elles ne peuvent pas traverser la membrane cellulaire d'elles-mêmes, elles ont besoin de récepteurs membranaires qui déclenchent une transduction.
+* Liposolubles : ce sont de stéroïdes (= provient du cholestérol). Elles peuvent traverser la membrane cellule R d'elles-mêmes, et elles sont la plupart du temps reconnues par des récepteurs nucléaires.
 
--   Liposolubles : ce sont de stéroïdes (= provient du cholestérol).
-    Elles peuvent traverser la membrane cellule R d'elles-mêmes, et
-    elles sont la plupart du temps reconnues par des récepteurs
-    nucléaires.
+Trabéculaire cellule entourée de capillaire sanguin (exemple : hypophyse, l'adénohypophyse, surrénales, foie).
 
-Trabéculaire cellule entourée de capillaire sanguin (exemple :
-hypophyse, l'adénohypophyse, surrénales, foie).
+Glandes dépourvues de canaux dont les produits sont libérés directement dans le sang.
 
-Glandes dépourvues de canaux dont les produits sont libérés directement
-dans le sang.
-
-Organisée en massifs ou cordons de cellules sécrétrices entourés par un
-réseau de petits vaisseaux sanguins.
+Organisée en massifs ou cordons de cellules sécrétrices entourés par un réseau de petits vaisseaux sanguins.
 
 Glande endocrine vésiculaire : la thyroïde.
 
-Emmagasine l'hormone produite dans une cavité sphérique entourée de
-cellules sécrétrices appelée vésicule. La sécrétion de l'hormone suppose
-sa réabsorption à partir de la lumière vers l'espace interstitiel puis
-sa diffusion dans les capillaires.
+Emmagasine l'hormone produite dans une cavité sphérique entourée de cellules sécrétrices appelée vésicule. La sécrétion de l'hormone suppose sa réabsorption à partir de la lumière vers l'espace interstitiel puis sa diffusion dans les capillaires.
 
 Glande endocrine insulaire : Îlot de Langerhans dans une
 
@@ -314,20 +281,13 @@ Glande endocrine insulaire : Îlot de Langerhans dans une
 
 Étapes de la sécrétion de protéines par les glandes séreuses.
 
-1.  Captation et transport d'AA de la MEC.
+1. Captation et transport d'AA de la MEC.
+2. Synthèse protéique au niveau du REG
+3. Transport des protéines vers l'app de Golgi et modification post traductionnelles, glycolisation.
+4. Formation des vacuoles de sécrétions par bourgeonnement du trans-golgi.
+6. Migration et stockage ou libération / exocytose des grains de zymogène de façon constitutive ou régulée par un stimulus.
 
-2.  Synthèse protéique au niveau du REG
-
-3.  Transport des protéines vers l'app de Golgi et modification post
-    traductionnelles, glycolisation.
-
-4.  Formation des vacuoles de sécrétions par bourgeonnement du
-    trans-golgi.
-
-Zymogène enzyme non fonctionnel dont l'action sera
-
-6° Migration et stockage ou libération / exocytose des grains de
-zymogène de façon constitutive ou régulée par un stimulus.
+__Zymogène__ enzyme non fonctionnel dont l'action sera
 
 Particularités des cellules sécrétrices de stéroïdes.
 
@@ -343,9 +303,6 @@ Pas d'organite de stockage et de phénomènes morphologiques observables.
 
 Régulation de la synthèse et excrétion.
 
--   Nerveuse par des synapses neuro-glandulaires
-
--   Hormonale
-
--   Musculaire -- par les cellules myoépithéliales bordant les acini
-    (ex : sécrétion de lait par la glande mammaire).
+* Nerveuse par des synapses neuro-glandulaires
+* Hormonale
+* Musculaire -- par les cellules myoépithéliales bordant les acini (ex : sécrétion de lait par la glande mammaire).
