@@ -1,20 +1,17 @@
-Métabolisme primaire (par opposition à métabolisme secondaire) nécessaire à la survie d'une cellule.
-
-### Structure d'un chloroplaste
+__Métabolisme primaire__ (par opposition à métabolisme secondaire) métabolisme nécessaire à la survie d'une cellule.
 
 La photosynthèse est composée de deux phases :
 
 * Photochimique. Elle doit permettre de produire de l'énergie par l'utilisation de la lumière et de l'eau sous forme de NADPH et de l'ATP pour les besoins de la plante et la fixation du carbone.
-* Le cycle de fixation du carbone ou de fabrication des glucides
-    appelé cycle de Calvin. Il a lieu dans le stroma.
+* Le cycle de fixation du carbone ou de fabrication des glucides appelé cycle de Calvin. Il a lieu dans le stroma.
 
 !!! note
     NADP ressemble au NAD avec un groupement phosphate.
 
 Il existe deux types de photosynthèse en présence ou de l'absence d'oxygène :
 
-* photosynthèse oxygénique
-* photosynthèse anoxygénique $2H_2O + CO_2 \rightarrow O_2 + H_2O + CH_2O$
+* photosynthèse oxygénique.
+* photosynthèse anoxygénique $2H_2O + CO_2 \rightarrow O_2 + H_2O + CH_2O$.
 
 ## Phytochimique
 
@@ -30,17 +27,17 @@ Les photosystèmes sont formés :
 * D'un complexe du centre réactionnel. Il est constitué de deux molécules de chlorophylles de type a sans magnésium. Grâce à l'énergie lumineuse, elles perdent un électron qu'elles regagner en oxydant une molécule d'eau ou en plastocyanine.
 * De plusieurs complexes collecteurs de lumière constitués d'environ 200 à 300 pigments. Ils élargissent le spectre et la surface de collecte de la lumière du centre réactionnel.
 
-Les pigments sont des molécules spécialisées pour capter la lumière
+Les pigments sont des molécules spécialisées pour capter la lumière.
 
 ## Les pigments
 
 Le spectre de lumière exploitée lors de la photosynthèse est contraint
 par l'utilisation de longueurs d'ondes :
 
-* Supérieures à 380nm. En dessous, la lumière est filtrée par l'atmosphère et est néfaste pour les cellules.
+* Supérieures à 380nm. En dessous, la lumière est filtrée par l'atmosphère et, est néfaste pour les cellules.
 * Inférieures à 750nm. Au-dessus, les ondes sont absorbées par l'eau, un constituant présent en grande quantité dans les organismes.
 
-Radiation photosynthétique active ensemble des longueurs d'ondes utilisées par la plante.
+__Radiation photosynthétique active__ ensemble des longueurs d'ondes utilisées par la plante.
 
 ### Fonctionnement
 
@@ -50,28 +47,30 @@ La photosynthèse débute lorsqu'un pigment absorbe un photon. Un de ses électr
     L'énergie d'un photon est sa longueur d'onde. Les photons verts ne sont pas absorbés car leur énergie ne correspond pas à la différence.
 
 !!! note
-    Chaque molécule n'est capable d'absorber que des longueurs d'onde précises.
+    Chaque molécule n'est capable d'absorber que des longueurs d'ondes précises.
 
 L'état excité est un état instable. Les électrons reviennent à l'état fondamental en libérant le surplus d'énergie sous forme :
 
-* De chaleur.
-* De lumière. Par exemple, un concentré de chlorophylle émet de la lumière rouge avec une longueur d'onde plus grande que le photon reçu (fluorescence).
+* de chaleur.
+* de lumière. La chlorophylle émet de la lumière rouge (fluorescence).
 
-Les pigments sont regroupés au sein de structure appelée antenne collectrice. Il existe deux grandes familles de pigments :
+Les pigments sont regroupés au sein de structures appelées antennes collectrices. Il existe deux grandes familles de pigments :
 
-* Chlorophylle
-* Caroténoïde
+* chlorophylle.
+* caroténoïde.
 
-Les algues utilisent des pigments supplémentaires pour réaliser la photosynthèse car le milieu aquatique modifie les propriétés de la lumière. Ils sont formés de complexe protéines et de pigments associés à des phycobiliprotéines appelé phycobiline.
+!!! note
+    Les algues utilisent des pigments supplémentaires pour réaliser la photosynthèse car le milieu aquatique modifie les propriétés de la lumière. Ils sont formés de complexe protéines et de pigments associés à des phycobiliprotéines appelé phycobiline.
 
 ### Caroténoïdes
 
-Les caroténoïdes sont des pigments additionnels qui aident à capter :
+Les caroténoïdes sont des molécules lipophiles présentes dans les membranes des thylakoïdes. Elles sont fabriquées dans les plastes à partir de terpènes. Leur pic d'absorption se situe à 450 nm et elles servent de pigments additionnels en aidant à capter :
 
-* L'énergie lumineuse.
-* À la photoprotection en dissipant le surplus d'énergie. Elle évite la formation de molécules oxydantes dangereuses dû à l'interaction entre les photons et l'oxygène qui peuvent.
+* l'énergie lumineuse.
+* à la photoprotection en dissipant le surplus d'énergie. Elle évite la formation de molécules oxydantes dangereuses dû à l'interaction entre les photons et l'oxygène.
 
-Les caroténoïdes sont des molécules lipophiles présentes dans les membranes des thylakoïdes. Elles sont fabriquées dans les plastes à partir de terpènes. Leur pic d'absorption se situe à 450 nm. Leur structure est apparentée aux pigments présent dans notre œil.
+!!! note
+    La structure des caroténoïdes est apparentée aux pigments présent dans notre œil.
 
 ### Chlorophylles
 
@@ -95,15 +94,16 @@ Un changement de l'état énergétique se produit dans la molécule de chlorophy
 
 Il existe trois possibilités pour revenir à l'état initial càd pour dissiper l'énergie et revenir à une configuration stable :
 
-* Fluorescence càd par l'émission d'un photon de plus faible énergie que celui reçu.
-* Par résonnance. L'énergie est transférée à la molécule suivante.
-* Photochimie càd en cédant un électron.
+* fluorescence càd par l'émission d'un photon de plus faible énergie que celui reçu.
+* par résonnance. L'énergie est transférée à la molécule suivante.
+* photochimie càd en cédant un électron.
 
 Fluorescent produit de la lumière.
 
 Phosphorescence restitue l'énergie lumineuse sous une autre fréquence généralement visible.
 
-C'est parce que la chlorophylle est associée à d'autres protéines dans la cellule qu'elle n'émet pas de lumière.
+!!! note
+    C'est parce que la chlorophylle est associée à d'autres protéines dans la cellule qu'elle n'émet pas de lumière.
 
 ## Phase photochimique
 
@@ -119,18 +119,17 @@ La photosynthèse se déroule d'abord, dans le photosystème II où a lieu la p
 4. L'accepteur primaire du photosystème cède son électron à la chaine de transport constitués d'une succession de plastoquinones (Pq), puis d'un complexe de cytochromes.
 
 !!! note 
-    les cytochromes sont aussi appelés cycle Q et réalise le transfert de $H^+$ du stroma vers la lumière des thylakoïdes.
+    Les cytochromes sont aussi appelés cycle Q et réalise le transfert de $H^+$ du stroma vers la lumière des thylakoïdes.
 
-5. La plastocyanine (Pc), une molécule mobile, transfert les électrons au photosystème I. Dans le photosystème I pour produire du NADPH :
+5. La plastocyanine (Pc), une molécule mobile, transfert les électrons au photosystème I. Dans le photosystème I pour produire du NADPH.
 6. L'énergie lumineuse active PSI de la même façon que PSII pour remonter l'énergie de l'électron.
 7. L'électron est transféré à la ferrédoxine (Fd) puis à l'$NADP^+$ réductase qui catalyse le $NADP^+$ en NADPH au niveau du stroma. Cela contribue également à la baisse de la concentration de $H^+$ dans le stroma.
 
-Photolyse de l'eau dissociation d'une molécule d'eau par la lumière.
+__Photolyse de l'eau__ dissociation d'une molécule d'eau par la lumière.
 
 Dans la photosynthèse oxygénique, le $CO_2$ joue le rôle d'accepteur d'électrons. Il est possible de réaliser la photosynthèse sans $CO_2$ en utilisant un autre réducteur comme $Fe^{3+}$.
 
-Rendement de la phosphorylation acyclique
-Cela correspond à l’ATP produit par nombre d’électrons générer au départ.
+__Rendement de la phosphorylation acyclique__ rapport entre le nombre d'ATP produit et le nombre d’électrons générer au départ.
 
 La lyse de l’eau $2 H_2O \Rightarrow O_2 + 4 H^+ + 4é$ Par électron, le cytochrome transfert entre 4 à $8 H^+$ du stroma vers le lumen.
 
@@ -144,8 +143,8 @@ Conclusion : Le rendement est  $\frac{ATP}{4é} = \frac{ATP}{H^+} \cdot \frac{H
 
 La phase photochimique a lieu en deux étapes. Elles sont commencées par un photosystème qui agissent successivement et qui sont le lieu de la conversion de l'énergie lumineuse en chimique en réalisant une réduction :
 
-* Le photosystème II (P680).
-* Le photosystème I (P700).
+* le photosystème II (P680).
+* le photosystème I (P700).
 
 !!! note
     Les herbicides sont des inhibiteurs de la chaîne de transport des électrons.
@@ -163,7 +162,7 @@ La longueur d'onde pour réaliser une oxydation de l'eau est comprise entre 660 
     * Des pigments associés grâce à des protéines d'amarrage.
     * De protéines périphériques (ou distale).
 
-* Un centre réactionnel composé de deux sous unités dimère D1 et D2.
+* Un centre réactionnel composé de deux sous unités associées en dimère D1 et D2.
 * Un complexe d'oxydation de l'eau situé dans la lumière des thylakoïdes associé à un atome de manganèse (Mn).
 
 Le fonction du site réactionnel
@@ -181,8 +180,8 @@ $$4 H^+ + 4é + CO_2 \rightarrow CH_2O + H_2O$$
 
 Il est constitué de :
 
-* Une antenne collectrice.
-* Un centre réactionnel constitué d'un dimère de chlorophylle.
+* une antenne collectrice.
+* un centre réactionnel constitué d'un dimère de chlorophylle.
 
 ### Coordination de l'activité
 
@@ -215,8 +214,8 @@ Produit des molécules à 3 atomes de carbones 3 phosphoglycéraldéhyde (PGAL) 
 
 L'acidification du lumen est utilisée pour synthétiser de l'ATP. Les protons servent à créer à activer des ATP synthase, une machine moléculaire. Elle possède deux domaines :
 
-* Intra membranaire
-* Extra membranaire (dans le stroma)
+* intra membranaire.
+* extra membranaire (dans le stroma).
 
 La structure diffère légèrement entre les espèces mais le principe reste le même. Le rotor poussé par les protons modifie successivement des trois sites de catalyse en changeant leur conformation. Il passe d'ouvert, à relâché, puis à fermer.
 
@@ -226,8 +225,8 @@ Les protons font tournés le rotor qui entraine le stator là ou trois sites de 
 
 L'efficacité de la photosynthèse dépend de :
 
-* La lumière
-* La concentration de $CO_2$
+* La lumière.
+* La concentration de $CO_2$.
 
 !!! note
     Le facteur limitant dans l'activité de photosynthèse est le $CO_2$ qui ne constitue que 3% de l'air.
@@ -237,12 +236,12 @@ __Photosynthèse net__ production d'oxygène moins sa consommation par la respir
 !!! note
     La photosynthèse net se mesure en suivant l'évolution de la concentration de $CO_2$ ou celle d'$O_2$.
 
-Point de compensation seuil à partir duquel la photosynthèse net devient positive.
+__Point de compensation__ seuil à partir duquel la photosynthèse net devient positive.
 
 Les plantes ne sont pas toutes efficaces pour réaliser la photosynthèse. Cela dépend de leur mode de vie. On distingue les plantes :
 
-* D'ombre.
-* De lumière.
+* d'ombre.
+* de lumière.
 
 !!! note
     Les plantes d'ombre ont un point de compensation inférieur à celle de lumière mais leur valeur maximale est inférieure.
@@ -291,9 +290,9 @@ La rubisco est l'enzyme la plus présente sur Terre, elle représente 50% de la 
 
 L'enzyme a beaucoup plus d'affinité pour le $CO_2$ que pour le $O_2$. La probabilité de liaison avec le substrat dépend de la concentration en $CO_2$. On considère qu'en condition standard un 1/3 du temps elle fixe du $O_2$ ce qui réduit jusqu'à 50% l'activité photosynthétique des plantes en région tempérée.
 
-Point de compensation rapport entre la concentration de $O_2$ et $CO_2$ produite.
+__Point de compensation__ rapport entre la concentration de $O_2$ et $CO_2$ produite.
 
-Photorespiration processus qui produit du $CO_2$ et qui dépend de la lumière.
+__Photorespiration__ processus qui produit du $CO_2$ et qui dépend de la lumière.
 
 La concentration du $CO_2$ et d'$O_2$ dans les feuilles est directement à la solubilité des gaz qui dépend de :
 
@@ -313,8 +312,8 @@ Le glycolate (2-polycate) qui est exploité dans la respiration cellulaire. Il e
 
 La respiration constitue pour la plante à la fois :
 
-* Un cout énergétique
-* Une perte de carbone
+* un coût énergétique.
+* une perte de carbone.
 
 Les raisons qui expliquent la présence de ce mécanisme :
 
@@ -353,8 +352,8 @@ Le métabolisme acide des crassulacées ou CAM concerne les plantes vivant dans 
 
 Chez les cactus, la tige est devenue l'organe photosynthétique de la plante au détriment des feuilles qui ont soit :
 
-* Disparu
-* Se sont transformées en épines, des organes de défense.
+* disparu.
+* se sont transformées en épines, des organes de défense.
 
 L'ouverture des stomates a lieu lorsque les températures ne sont pas trop élevées notamment la nuit. Le $CO_2$ est fixé sur un oxaloacétate qui devient un malate puis stocké sous forme d'acide malique dans la vacuole. Le jour, le $CO_2$ est libéré et l'oxaloacétate est retransformé en amidon.
 

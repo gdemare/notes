@@ -39,9 +39,9 @@ Le cycle de l'acide citrique qui produit $2 \times ATP$, 3x NADH, $1 \times FADH
 
 Le cycle se déroule en huit étapes avec notamment :
 
-1. L'acétyl-coA est ajouté à une molécule d'oxaloacétate pour produire du citrate.
-2. Les électrons sont apportés au $NAD^+$ par la déshydrogénase qui devient du NADH.
-3. Le malate est retransformé en oxaloacétate et du NADH est produit.
+1. l'acétyl-coA est ajouté à une molécule d'oxaloacétate pour produire du citrate.
+2. les électrons sont apportés au $NAD^+$ par la déshydrogénase qui devient du NADH.
+3. le malate est retransformé en oxaloacétate et du NADH est produit.
 
 !!! note
     Le $NAD^+$ est un dérivé de la vitamine $B_3$.
@@ -60,10 +60,10 @@ Les électrons sont apportés à la chaine de transport par le NAHD (et le $FADH
 !!! note
     En absence de dioxygène, l'accepteur final peut être substitué par l'ion sulfate $SO_4^{2-}$ qui se combine pour former du $H_2S$ (qui confère une odeur d'œuf pourri). C'est la respiration anaérobie.
 
-Les chaines de transport d'électrons sont enchâssées dans :
+Les chaines de transport d'électrons sont enchâssées chez:
 
-* Eucaryotes dans la membrane des mitochondries.
-* Procaryotes dans la membrane plasmique.
+* eucaryotes dans la membrane des mitochondries.
+* procaryotes dans la membrane plasmique.
 
 La chaine de transport est constituée d'une succession de complexes multiprotéiques qui contient les accepteurs et qui sont associés à des groupements non protéiques appelés prosthétiques.
 

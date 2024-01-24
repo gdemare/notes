@@ -10,7 +10,7 @@ Un acide est une molécule capable de gagner un proton ($H^+$). Il est dit disso
 !!! note
     Un acide ou une base sont dits forts s'ils réagissent totalement avec l'eau.
 
-__Autoprotolyse__ capacité entre deux même molécules d'échanger un proton
+__Autoprotolyse__ capacité entre deux même molécules d'échanger un proton.
 
 !!! example
     $2 H_2O \rightleftharpoons H_3 O^+ + HO^-$.

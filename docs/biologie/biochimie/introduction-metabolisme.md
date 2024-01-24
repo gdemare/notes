@@ -155,43 +155,41 @@ Certaines protéines sont de type allostérique (allo signifie autre) car la ré
 
 La plupart sont composées de plusieurs sous unités de protéines avec chacune un site actif. L'enzyme oscille entre deux états, actif et inactif, à cause de sa structure. Un inhibiteur ou un activateur peut venir stabiliser une des formes.
 
-Les protéines allostériques sont peu répandues et difficiles à identifier car les molécules qui les régules ont une faible affinité.
+Les protéines allostériques sont peu répandues et difficiles à identifier car les molécules qui les régulent, ont une faible affinité.
 
 Coopérativité la fixation d'un substrat stabilise l'enzyme et augmente son affinité avec le substrat. Cela permet, par exemple, à l'hémoglobine de fixer l'$O_2$, là où il présent en forte concentration, plus rapidement et efficacement. Inversement, de le libérer dans les tissus, là où elle est faible.
 
 Certaines enzymes allo stériques présentent un phénome de rétro inhibition. La présence du produit finale ralenti ou arrête une voie métabolique.
 
-
 -------------------
-
 
 # Introduction au métabolisme
 
 La cascade de signalisation est le mécanisme par lequel une cellule répond à un signal (chimique, électrique...). Elle aboutit à la réalisation d'activités cellulaires, par exemple, la synthèse de protéines. Elle se compose de trois phases :
 
-1. La réception du signal extra-cellulaire par un récepteur.
-2. La réalisation de voies de transduction càd d'un ensemble de processus cellulaires.
-3. La réponse cellulaire.
+1. la réception du signal extra-cellulaire par un récepteur.
+2. la réalisation de voies de transduction càd d'un ensemble de processus cellulaires.
+3. la réponse cellulaire.
 
 __État stationnaire__ les concentrations en composés restent stables. Elles sont maintenues par la cellule grâce à des échanges de matière et d'énergie.
 
 Pour fonctionner, les cellules ont besoin d'énergie qu'elles extraient soit de :
 
-* La dégradation de molécules (chimiotrophe).
-* La photosynthèse (phototrophe).
+* la dégradation de molécules (chimiotrophe).
+* la photosynthèse (phototrophe).
 
 L'énergie libérée est stockée dans un nombre réduit de molécules telles que l'ATP ou NADPH. L'énergie chimiques pourra être libérée pour servir à :
 
-* Créer des liaisons et fabriquer des molécules plus complexes à partir de plus simples.
-* Lutter contre l'entropie (par exemple, en maintien un gradient chimique).
+* créer des liaisons et fabriquer des molécules plus complexes à partir de plus simples.
+* lutter contre l'entropie (par exemple, en maintien un gradient chimique).
 
 ### Les molécules de stockage de l'énergie
 
 Les molécules riches en énergie sont :
 
 * l'ATP.
-* Les nucléotides triphosphate.
-* Les dérivés nicotinamides.
+* les nucléotides triphosphate.
+* les dérivés nicotinamides.
 
 L'ATP est formée d'un adénine et d'un ribose (adénosine) et de plusieurs groupements phosphates.
 

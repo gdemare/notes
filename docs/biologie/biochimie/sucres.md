@@ -107,8 +107,8 @@ La structure de glucose se transforme au contact d'un solvant polaire comme l'ea
 
 Par exemple chez les hexoses (6 carbones), la conformation adoptée par le :
 
-* Glucoses (pyrane) Alpha-D-Glucopyranose.
-* Fructose (furane) Beta-D-Fructofuranose.
+* glucoses (pyrane) Alpha-D-Glucopyranose.
+* fructose (furane) Beta-D-Fructofuranose.
 
 ### Formation d'un cycle dans l'eau
 
@@ -159,7 +159,7 @@ Pour nommer une enzyme, substrat (la molécule) + ase (exemple : Alpha glucosid
 
 Pouvoir sucrant (gout sucré) :
 
-* 100% saccharose (molécule de référence), 114% fructose
+* 100% saccharose (molécule de référence), 114% fructose.
 * Édulcorant : Aspartame 200% acesulfame 200%
 
 ## Les polyosides du vivant
