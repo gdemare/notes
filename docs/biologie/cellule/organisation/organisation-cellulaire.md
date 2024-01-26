@@ -11,8 +11,8 @@ La plus petite unité de la matière capable de réaliser cette tâche est la ce
 
 Les cellules ont besoin d'un apport d'énergie pour réaliser les échanges de matière avec l'environnement extérieur où :
 
-* Elle prélève les molécules dont elle a besoin directement et celles utiles pour synthétiser ses composants.
-* Elle rejette les molécules dont elle n'a pas besoin.
+* Elles prélèvent les molécules dont elle a besoin directement et celles utiles pour synthétiser ses composants.
+* Elle rejettent les molécules dont elles n'ont pas besoin.
 
 !!! note
     Les besoins de la cellule évoluent dans le temps.
@@ -52,11 +52,11 @@ L'apparition de compartiments a été cruciale dans l'évolution des cellules eu
 
 ## Cytosol
 
-Cytoplasme totalité du volume cellulaire mise à part le noyau.
+__Cytoplasme__ totalité du volume cellulaire mise à part le noyau.
 
-Cytosol (ou hyaloplasme) intérieur de la cellule à l'exception des organites.
+__Cytosol (ou hyaloplasme)__ intérieur de la cellule à l'exception des organites.
 
-Composition de la masse du cytosol
+Composition de la masse du cytosol :
 
 * 85% d'eau.
 * 9% protéine.
@@ -65,14 +65,14 @@ Majoritairement organise en complexe
 
 Le cytosol est le lieu de :
 
-* Nombreuses réactions chimiques du métabolisme.
-* De la synthèse des protéines via les ribosomes libres.
-* Lieu de stockage de l'énergie comme le glycogène.
+* nombreuses réactions chimiques du métabolisme.
+* de la synthèse des protéines via les ribosomes libres.
+* lieu de stockage de l'énergie comme le glycogène.
 
 ### Stockage de l'énergie
 
 Lieu de stockage de l'énergie sous la forme de :
 
-* ATP
-* lipidiques triglycérides, Gouttelette
-* Sucre, Rosette de glycogènes
+* ATP.
+* lipidiques triglycérides sous la forme de gouttelettes
+* sucre et osette de glycogènes.

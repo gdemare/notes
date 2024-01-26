@@ -1,3 +1,5 @@
+__Cascade de signalisation__ (ou voie de signalisation) série de réactions chimiques initiée par un stimuli. Les différentes étapes peuvent permettre de moduler très précisément la réponse cellulaire.
+
 La régulation du métabolisme se fait par la régulation de :
 
 * La synthèse d'enzymes qui régulée par l'expression génique.

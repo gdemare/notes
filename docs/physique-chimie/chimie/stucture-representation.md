@@ -1,6 +1,6 @@
 ## Insaturation
 
-$\frac{2 \cdot n_{IV} + n -}{2}$
+$\frac{2 \cdot n_{IV} + n_I - n_{III}}{2}$
 
 Avec :
 

@@ -83,7 +83,8 @@ nav:
         - "Enzymes" : biologie/biochimie/enzymes.md
         - "Etude des protéines" : biologie/methodes-techniques/etude_proteines.md
     - Bioinformatique :
-      - "Séquençage" : biologie/bioinformatique/alignement-sequence.md
+        - "Aligner des séquences" : biologie/bioinformatique/aligner-sequences.md
+        - "Rechercher des séquences" : biologie/bioinformatique/rechercher-sequences.md
     - "Cellule et tissus" :
       - "Structure et fonctions" : biologie/structure-fonction-principes.md
       - "Histologie" :
@@ -181,6 +182,12 @@ nav:
         - "ACP" : data-science/reduction-dimensions/ACP.md
         - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
         - "Positionnement multidimensionnel" : data-science/reduction-dimensions/positionnement-multidimensionnel.md
+  - Histoire :
+    - Futur : histoire/anticipation.md
+    - Frise chronologique : histoire/chronologie.md
+    - Sapiens : histoire/sapiens.md
+    - "Le propre de l'Homme" :
+      - "L'écriture" : histoire/ecriture.md
   - Mathématique :
     - "Symboles et notation" : mathematique/mathematique.md
     - Arithmétique :  mathematique/arithmetique.md
@@ -211,6 +218,9 @@ nav:
     - Physique :
       - Physique : physique-chimie/physique/physique.md
       - Optique : physique-chimie/physique/optique.md
+      - "Physique classique" : physique-chimie/physique-classique.md
+      - "Physique quantique" : physique-chimie/physique/physique-quantique.md
+      - "Les atomes" : physique-chimie/physique/atomes.md
   - Autres :
     - Anglais :
       - Conjugaison : autres/anglais/conjugaison.md

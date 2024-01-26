@@ -1,3 +1,33 @@
+Rappel : une protéine dispose d'une extrémité NH notée N-ter et COOH notée C-ter.
+
+Tous les moteurs moléculaires nécessitent de l'ATP pour fonctionner. Ils sont formés de chaines :
+
+* lourdes qui portent le domaine moteur
+* légères qui ont une fonction régulatrice et structurale.
+
+__Kinase__ (par opposition au phosphatase) protéine capable de transférer un groupement phosphate.
+
+__ATPase__ protéine qui hydrolyse ou synthétise de l'ATP.
+
+Le cytosquelette assure le maintien de la forme de la cellule. Il joue un rôle majeur dans de nombreux mécanismes cellulaires :
+
+* La mobilité cellulaire
+* La division cellulaire
+* Le transport intracellulaire
+* L'organisation de la cellule
+
+Il est formé par trois réseaux (diamètre) :
+
+* Microtubule (24 nm)
+* Filament d'actine (7-9 nm)
+* Filament intermédiaire (10 nm)
+
+La polymérisation ne nécessite pas d'énergie contrairement au désassemblage des sous-unités.
+
+Les microtubules et les filaments d'actine sont orientés. Il dispose d'une extrémité dite + avec une activité de polymérisation et dépolymérisation plus importante.
+
+Les microtubules sont beaucoup instables.
+
 Le cytosquelette joue un rôle dans :
 
 * Le déplacement cellulaire :
@@ -12,8 +42,7 @@ Le cytosquelette joue un rôle dans :
 
 * Activité cellulaire dans la séparation des chromosomes.
 
-Le cytosquelette est un ensemble de polymères protéiques dont on
-distingue trois catégories en fonction de leur épaisseur
+Le cytosquelette est un ensemble de polymères protéiques. Il en existe trois types : 
 
 | Microtubules | Filaments intermédiaires | Microfilaments |
 |--------------|--------------------------|----------------|
@@ -25,19 +54,18 @@ cours de la vie de la cellule. Il se monte et se démonte.
 
 ## Microtubules
 
-### Fonctions principales
+### Fonctions
 
-* Maintien de la forme cellulaire (charpente résistante à la compression).
-* Mobilité cellulaire (ils sont l'une des composantes des cils et des flagelles)
-* Séparation des chromosomes lors de la division cellulaire. Ils sont responsables de la formation du fuseau mitotique durant la mitose.
-* Utilisé par les organites pour se déplacer dans la cellule via des protéines motrices.
+Les fonctions des microtubules sont :
+
+* le maintien de la forme cellulaire. Ils forment une charpente résistante à la compression.
+* la mobilité cellulaire. Ils sont les composants des cils et des flagelles.
+* la séparation des chromosomes lors de la division cellulaire. Ils sont responsables de la formation du fuseau mitotique durant la mitose.
+* l'organisation cellulaire. Les organites se déplacent dans la cellule via des protéines motrices accrochées aux microtubules.
 
 ### Structure
 
-* Cylindres creux diamètre 25nm.
-* Longueur de 200nm 25um (longueur de la cellule).
-
-Composition : la tubuline (protéine structurale) alpha et beta.
+Les microtubules sont des cylindres creux d'un diamètre 25nm qui mesure entre 200nm et 25um (longueur de la cellule). Ils sont composés de tubuline (une protéine structurale) de type $\alpha$ et $\beta$.
 
 L'agencement des molécules créé deux extrémités différentes. L'extrémité plus accumule et libère jusqu'à 4 fois plus rapidement les éléments que celle moins.
 
@@ -45,7 +73,9 @@ __Centrosome__ centre organisateur des microtubules.
 
 La polymérisation de la tubuline se fait par la fixation de GTP qui sera hydrolysé en GDP pour être dépolymérisé.
 
-### Maps (microtubule associates proteins)
+### Protéines associées
+
+Les protéines associées aux microtubules sont appelées protéines Maps (microtubule associates proteins).
 
 Deux complexes protéiques se déplacent le long des filaments d'actine :
 
@@ -54,16 +84,13 @@ Deux complexes protéiques se déplacent le long des filaments d'actine :
 
 Ils permettent l'accrochage et le déplacement des vésicules dans le cytosol.
 
-La kinésine se déplace en hydrolysant de l'ATP. Elle est impliquée pour
-stabiliser les microtubules polaires au niveau de leurs extrémités «plus ».
+La kinésine se déplace en hydrolysant de l'ATP. Elle est impliquée pour stabiliser les microtubules polaires au niveau de leurs extrémités «plus ».
 
-Les dynéines sont responsables de la fixation des microtubules astraux à
-la membrane plasmique.
+Les dynéines sont responsables de la fixation des microtubules astraux à la membrane plasmique.
 
 ## Filaments intermédiaires
 
-Les filaments intermédiaires sont les plus stables et dépendent du type
-cellulaire.
+Les filaments intermédiaires sont les plus stables et dépendent du type cellulaire.
 
 ### Fonctions principales
 
@@ -105,7 +132,7 @@ L'actine représente 10% des protéines des cellules.
 L'actine est présente sous deux formes dans la cellule :
 
 * monomère (actine Globulaire).
-*polymère = filament (actine Fibrillaire).
+* polymère = filament (actine Fibrillaire).
 
 Le diamètre de l'actine F est d'environ 5 à 7nm. 
 
@@ -127,37 +154,6 @@ déplacement cellulaire chez certaines bactéries.
 
 --------
 
-Rappel : une protéine dispose d'une extrémité NH notée N-ter et COOH notée C-ter.
-
-Tous les moteurs moléculaires nécessitent de l'ATP pour fonctionner. Ils sont formés de chaines :
-
-* lourdes qui portent le domaine moteur
-* légères qui ont une fonction régulatrice et structurale.
-
-Cascade de signalisation (ou voie de signalisation) série de réactions chimiques initiée par un stimuli. Les différentes étapes peuvent permettre de moduler très précisément la réponse cellulaire.
-
-Kinase (par opposition au phosphatase) protéine capable de transférer un groupement phosphate.
-
-ATPase protéine qui hydrolyse ou synthétise de l'ATP.
-
-Le cytosquelette assure le maintien de la forme de la cellule. Il joue un rôle majeur dans de nombreux mécanismes cellulaires :
-
-* La mobilité cellulaire
-* La division cellulaire
-* Le transport intracellulaire
-* L'organisation de la cellule
-
-Il est formé par trois réseaux (diamètre) :
-
-* Microtubule (24 nm)
-* Filament d'actine (7-9 nm)
-* Filament intermédiaire (10 nm)
-
-La polymérisation ne nécessite pas d'énergie contrairement au désassemblage des sous-unités.
-
-Les microtubules et les filaments d'actine sont orientés. Il dispose d'une extrémité dite + avec une activité de polymérisation et dépolymérisation plus importante.
-
-Les microtubules sont beaucoup instables.
 
 # Les microtubules
 
@@ -269,7 +265,8 @@ ou MAPs motrice :
 * Les dynéines qui se déplacent vers l'extrémité --.
 * Les kinésines qui se déplacent vers l'extrémité +.
 
-Par exemple, les neurotransmetteurs relâchés au niveau des synapses sont synthétisés dans le soma du neurone. Ils sont acheminés par un transport vésiculaire qui se déplace le long des microtubules de l'extrémité -- vers celle +. Les vésicules sont équipées de kinésines et dynéines. Leur déplacement se fait par l'activation de l'une des deux protéines en fonction des protéines structurales associées aux microtubules. Elles sont régulées par phosphorylation.
+!!! example
+    Les neurotransmetteurs relâchés au niveau des synapses sont synthétisés dans le soma du neurone. Ils sont acheminés par un transport vésiculaire qui se déplace le long des microtubules de l'extrémité - vers celle +. Les vésicules sont équipées de kinésines et dynéines. Leur déplacement se fait par l'activation de l'une des deux protéines en fonction des protéines structurales associées aux microtubules. Elles sont régulées par phosphorylation.
 
 !!! note
     Certaines kinésines sont des promoteurs de catastrophe.

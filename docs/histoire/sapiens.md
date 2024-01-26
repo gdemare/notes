@@ -1,6 +1,6 @@
 Il y a 6 millions d'année vivait le dernier ancêtre commun aux humains et aux chimpanzés.
 
-Aujourd'hui, le seul représentant de la branche humaine encore présent sur Terre est Homo Sapiens.
+Aujourd'hui, le seul représentant de la branche humaine sur Terre est Homo Sapiens.
 
 ## Physionomie
 
@@ -24,27 +24,31 @@ L'acquisition d'un tel organe a contraint nos ancêtres a passer plus de temps �
 
 ### La bipédie
 
-L'acquisition de la posture debout a permis à nos ancêtres inspecter la savane devenu un atout pour distinguer plus facilement : 
+L'acquisition de la posture debout a permis à nos ancêtres inspecter la savane devenu un atout :
 
-* la nourriture.
-* les dangers potentiels.
+* pour distinguer plus facilement : 
 
-Ce changement de posture a rendu disponible nos mains comme saisir des objets. Elles se sont développées concentrant les nerfs muscles développés.
+    * la nourriture.
+    * surveiller les dangers potentiels.
 
-Les premiers outils découverts datent d'environ 2,5 millions d'années. Pour les archéologues, les outils sont Les archéologues se fit à la présence d'outils pour déterminer la présence des hommes.
+* a rendu disponible nos mains comme saisir des objets. Elles se sont développées concentrant les nerfs muscles développés. Les premiers outils découverts datent d'environ 2,5 millions d'années.
 
+!!! note
+    Pour les archéologues, la  est caractérisé  Les archéologues se fit à la présence d'outils pour déterminer la présence des hommes.
+
+Le passage d'un 
 Squelette est l'héritage d'un ancêtre tétra Le squelette n'est pas adapté à la marche à deux pieds Il s'est développé pour supporter cet nouvel posture 
 Cou rigide et les hanches ont subi réduction de la largeur du bassin
+
+#### Naissance prématurée
 
 Cette transformation a compliqué l'accouchement rendant cet acte de plus en plus dangereux pour la mère La tête des bébés de plus en plus grosse Favorisé les femelles avec un accouchement plus précoce
 
 Ce sont les mères qui accouché de nouveaux nées prématuré ont eu plus de chance de survivre.
+   
+* La raison pour laquelle les nouvelles nées humains naissent avec un système vital sous développé par rapport à d'autres espèces.
 
-La raison pour laquelle les nouvelles nées humains naissent avec un système vital sous développé par rapport à d'autres espèces.
-
-Les bébés de plus en plus élevé un nourrisson devenu l'affaire de la tribu.
-
-Cet contribuée à favoriser la création de liens sociaux forts et la sociabilisation entre les membres d'une même tribu.
+Nouveau née demande plus d'attention dépendent complétement des parents pour survivre. Cette dépendance aurait conduit à la nécessité l'implication de toutes la tribu pour d'élever les nourrissons et ainsi cela aurait favoriser la création de liens sociaux forts et la sociabilisation entre les membres.
 
 ### Régime alimentaire
 
@@ -53,47 +57,44 @@ Le régime alimentaire de nos ancêtres était
 * principalement végétarien.
 * un petit peu carnivore par la consommage d'insectes, de petits mammifères tout en étant charognards.
 
-
 !!! note
     Les premiers outils retrouvés étaient destinés à casser les os pour accéder à la moelle.
 
-C'est vers 900 000 ans que nos ancêtres deviennent des chasseurs réguliers et vers 100 000 qu'ils acquièrent le statu de super prédateurs
+C'est vers 900 000 ans que nos ancêtres deviennent des chasseurs réguliers et vers 100 000 qu'ils acquièrent le statut de super prédateurs
 
-Le passage d'une espèce du milieu de la chaine alimentaire à celui de super prédateur s'est fait dans un temps extrêmement rapide à l'échelle de l'évolution qui n'a pas suffi à l'apparition d'un contre poids écologique et à l'adaptation nos processus mentaux à notre nouveau statut.
+Le passage d'une espèce du milieu de la chaine alimentaire à celui de super prédateur s'est fait dans un temps extrêmement rapide à l'échelle de l'évolution qui n'a pas suffi à :
+* l'apparition d'un contre poids écologique
+* à l'adaptation nos processus mentaux à notre nouveau statut.
 
 Nous avons conservé les dispositions mentales qui nous d'anxiété et de peur qui nous rendent particulièrement cruel dangereux.
 
 ### Le feu
 
-Le feu a eu un rôle particulièrement important dans l'évolution du genre Homo. Les premiers trace de son utilisation par des communautés humaines remontent à 800 000 ans.
-
-* Se chauffer
-* Comme une arme
-* Une protection contre les prédateurs
-* cuisine
+Le feu a eu un rôle particulièrement important dans l'évolution du genre Homo. Les premiers trace de son utilisation par des communautés humaines remontent à 800 000 ans. Il a permis notamment :
+ 
+* se chauffer.
+* d'arme et de se protéger des prédateurs.
+* l'apparition de la cuisine.
+* de prolonger articifiellement la durée des jours et 
 
 #### Cuisine 
 
-C'est la cuisine qui a été responsable des
-
 La cuisine a été grandement contribué à l'alimentation des humains et nous a comblé les besoins en énergie de notre cerveau en :
 
-* Rendant les aliments plus faciles à digérer et à mastiquer.
-* Rendant certaines nourritures comestibles.
-* Éliminer les parasites
+* rendant les aliments plus faciles à digérer et à mastiquer. Plus petit intestin et dents libérer de l'énergie Cerveau recevoir plus d'énergie
+* rendant certaines nourritures comestibles.
+* éliminer les parasites.
 
 Le temps consacré à l'alimentation à fortement chuté. Aujourd'hui, nous avons besoin de de moins d'une heure pour nous nourrir tandis que plus proche cousin un chimpanzé accorde en moyenne 5h à cette activité.
 
-Plus petit intestin et dents libérer de l'énergie Cerveau recevoir plus d'énergie
-
 ## Mondialisation de Sapiens
 
-Il y a deux 2 millions d'années plusieurs espèces d'Homo ont quitté le bassin d'Afrique de l'Ouest pour aller s'installer en Asie et en Europe dont notamment :
+Il y a deux 2 millions d'années plusieurs espèces d'Homo ont quitté le bassin d'Afrique de l'Ouest pour aller s'installer :
 
-* en Europe et Asie occidental était Neandertal
-* Homo erectus Asie oriental
+* en Europe et Asie occidental pour Neandertal.
+* Asie oriental pour Homo erectus.
 
-C'est vers 150 000 ans qu'Homo Sapiens est apparu en Afrique.
+Vers 150 000 ans qu'Homo Sapiens est apparu en Afrique.
 
 Vers 100 000 ans, nos ancêtres ont tenté de se disperser.
 
@@ -101,26 +102,32 @@ Une deuxième tentative eu lieu 70 000 ans qui cette fois-ci abouti à la dispa
 
 Les raisons exactes de la disparition de nos frères et sœurs sont inconnues. Deux théories
 
-* Hybridation
-* Remplacement
+* hybridation.
+* remplacement.
 
-Des hybridations ont été possibles car on retrouve
+### Hybridation 
 
-* 4% du génome de Neandertal de l'ADN chez les hommes vivant en Europe et Asie occidentale
+Des hybridations entre les différentes espèces humaines ont été eu lieu :
+
+* 4% du génome de Neandertal de l'ADN chez les hommes vivant en Europe et Asie occidentale.
 * 6% Denisova chez les habitants de Malaisie et d'Australie
 
-Même si des mélanges ont existé, il n'était probablement pas courant.
+!!! note
+    Même si des mélanges ont existé, il n'était probablement pas courant.
 
-Les arguments en faveur de la théorie du remplacement sont les suivant :
+### Remplacement
 
-* La tolérance n'a jamais été le propre de Sapiens notamment lorsque l'on sait que des différences de couleurs de peau et même de croyance sont capables de conduire à des discriminations et des génocides.
-* Les tribus de Sapiens étaient plus performant pour se nourrir et qu'ils ont capté les ressources nécessaires aux autres groupes humains pour survivre les poussant ainsi à disparaitre.
+Les arguments en faveur de la théorie du remplacement sont :
 
-On suppose qu'à l'origine de la réussite de Sapiens sur les autres espèces humaines, il y a une révolution cognitive car aucune différence n'a été trouvé entre les outils produits par les différents groupes humains.
-
-C'est seulement vers 30 000 ans que les premiers bateaux, arcs, coutures, habits sont apparu.
+* La tolérance n'a jamais été le propre de Sapiens notamment lorsque des différences de couleurs de peau et de croyance conduisent à des discriminations et des génocides.
+* Les tribus de Sapiens étaient plus performants pour se nourrir. capter les ressources nécessaires aux détriments des Ils ont capté les ressources nécessaires aux autres groupes humains pour survivre les poussant ainsi à disparaitre.
 
 ## Révolution cognitive
+
+On suppose qu'à l'origine de la réussite de Sapiens sur les autres espèces humaines, il y a une révolution cognitive car aucune différence dans les outils produits par les différents groupes humains n'a été trouvé.
+
+!!! note    
+    C'est vers 30 000 ans que les premiers bateaux, arcs, coutures, habits sont apparu.
 
 Les chercheurs supposent qu'une mutation génétique à modifier en profondeur l'architecture de notre cerveau.
 
@@ -129,6 +136,10 @@ Elle aurait permis à sapiens de développer
 * un langage extrêmement souple qu'il lui permet de communiquer une infinité d'informations avec un nombre limité d'unités.
 * Une réalité imaginée et objective. Cette première permet à des personnes d'accorder autant d'importance à l'existence de faits réels que de fictions.
 
+
+### Les primates
+
+Les homos appartiennent 
 Chez les primates
 
 Les relations entre les individus sont complexes et elles se
@@ -148,41 +159,33 @@ Permis aux groupes d'homo sapiens de coopérer à un
 
 Coopération flexible large croyance
 
-Imagination collective auraient permis aux groupes de sapiens de
-coopérer de manière flexible
+Imagination collective auraient permis aux groupes de sapiens de coopérer de manière flexible
 
-Lorsqu'il lui suffit de changer de fiction pour modifier son
-comportement.
+Lorsqu'il lui suffit de changer de fiction pour modifier son comportement.
 
 Cela se particulièrement ses besoins à de nouveaux défis.
 
 Durant 2 millions d'années les outils ont évolué.
 
-Les premières traces d'échange retrouvé ne concerne que des groupes
-humains sapiens.
+Les premières traces d'échange retrouvé ne concerne que des groupes humains sapiens.
 
-Pour pouvoir faire un système de troc entre différents groupes humains,
-il faut avoir confiance existe dans croire.
+Pour pouvoir faire un système de troc entre différents groupes humains, il faut avoir confiance existe dans croire.
 
 Histoire
 
 Développement et évolution culturelle.
 
-Biologie se sépare l'histoire notre génome est adapté pour survivre
-calorie disponible nourriture obésité
+Biologie se sépare l'histoire notre génome est adapté pour survivre calorie disponible nourriture obésité
 
-Vie 70 12 peu d'élément objet en bois cuir qui n'ont pas résister à
-l'épreuve du temps
+Vie 70 12 peu d'élément objet en bois cuir qui n'ont pas résister à l'épreuve du temps
 
 ### Les structures sociales dans les tribus de chasseurs cueilleurs
 
 Certaines tribus se composaient de plusieurs groupes.
 
-Les bandes de chasseurs-cueilleurs formé une grande diversité de
-sociétés humaines
+Les bandes de chasseurs-cueilleurs formé une grande diversité de sociétés humaines
 
-La violence très présente) certains endroits mais varié dans le temps et
-dans l'espace
+La violence très présente certains endroits mais varié dans le temps et dans l'espace
 
 ### Sapiens dépasse les limites Afro-Eurasie
 
@@ -193,70 +196,63 @@ Australie vers par bateau
 
 Relation avec la nature
 
-4 000 le seul endroit où les mammouths vivent encore est sur l'ile de
-Wrangel
+!!! note
+    Il y a encore 4 000 les derniers mammouths vivaient encore est sur l'ile de Wrangel jusqu'a l'arrivé de l'Homme.
 
-Les animaux avec des cycles de reproduction long n'ont pas survécu à
-leur rencontre avec sapiens. Ils ont probablement été par la chasse
+Les animaux avec des cycles de reproduction long n'ont pas survécu à leur rencontre avec sapiens. Ils ont probablement été exterminé par :
 
-En Australie
-
-Les feux post agriculture réduit la végétation
-
-Changement climatique
+* la chasse.
+* Les feux post agriculture réduit la végétation
+* changement climatique
 
 Pas de méfiance des animaux qui vivait
 
-16 États Unis niveau des mers relié l'Asie à l'Amérique
 
-Sapiens s'est aventuré dans des contré ou aucun groupe humain ne s'était
-aventuré. Les conditions climatiques froid.
+### Conquête de l'amérique
 
-Pression démographique
+16 000 États Unis niveau des mers relié l'Asie à l'Amérique
 
-Source de nourriture (en suivant les troupeaux).
+Sapiens s'est aventuré dans des contré ou aucun groupe humain ne s'était aventuré. Les conditions climatiques froid.
+
+* pression démographique.
+* suivre des source de nourriture, par exemple, des troupeaux.
 
 14 000 ans arrivent en Alaska.
 
-11 000 réchauffements ouvrent un passage
+11 000 réchauffements ouvrent un passage vers le reste de l'amérique.
 
-## Révolution de l'Agriculture
+## L'Agriculture
 
-La révolution agricole a eu lieu 9 500 et 8500 ans à peu près au même
-moment dans plusieurs endroits du globe (Asie, Moyenne orient,
-Amérique).
+La révolution agricole a eu lieu 9 500 et 8500 ans à peu près au même moment dans plusieurs endroits du globe (Asie, Moyenne orient, Amérique).
 
 | 9 9000 ans | 8 000 ans     | 4 000 ans | 3 500 ans |
 |------------|---------------|-----------|-----------|
 | Chèvre blé | Lentille pois | Cheval    | vignes    |
 
-Comparait aux nombres d'espèces présentes dans la nature, seul un faible
-nombre a pu être domestiqué car peu d'espèces si prêtes. Elles ont un
-rôle puisque 90% des calories que nous absorbons mangeons proviennent
-des espèces domestiquées par nos ancêtres pendant la révolution
-agriculture.
+Comparait aux nombres d'espèces présentes dans la nature, seul un faible nombre a pu être domestiqué car peu d'espèces si prêtes. Elles ont un rôle puisque 90% des calories que nous absorbons mangeons proviennent des espèces domestiquées par nos ancêtres pendant la révolution agriculture.
 
 ### La naissance de l'agriculture, l'histoire du blé
 
-Comment expliquer qu'une herbe insignifiante comme le blé soit devenu
-l'espèce végétale terrestre la plus abondante de la planète ?
+Comment expliquer qu'une herbe insignifiante comme le blé soit devenu l'espèce végétale terrestre la plus abondante de la planète ?
 
-Comment la culture est devenue une activité permanente ? Deux scénarios
-sont possibles pour expliquer son origine soit :
+Comment la culture est devenue une activité permanente ? Deux scénarios sont possibles pour expliquer son origine soit :
 
-| Lié à la spécialisation | Culturelle |
-|-------------------------|------------|
+* lié à la spécialisation.
+* culturelle.
 
-Vers 18 000 ans, le climat mondial s'est réchauffé. Les conditions idéales à croissance et à la multiplication du blé.
+Vers 18 000 ans, le climat mondial s'est réchauffé et les conditions idéales à croissance et à la multiplication du blé.
+
+#### Spécialisation
 
 Les gens ont commencé à en consommer de plus en plus car il constitué une ressource abondante. Sa récolte requière du travail de ramassage ils ont contribué à la dispersion des graines notamment à proximité des lieux de vie. Chaque année lorsque les groupes humains revenaient, ils trouvaient de plus de blés et les groupes humains s'établirent de plus longtemps pour en bénéficier.
 
-**Ou**
+#### Culturel
 
 Certaines sociétés pré agricultrice se sont installées de plus en plus longtemps pour bâtir des temples. Ils ont commencé à cultiver les plantes locales pour subvenir à leur besoin nutritionnel. Des analyses génétiques suggèrent que le blé domestique est Gobekli Tepe un village où l'on a découvert des temples datant avant l'agriculture.
 
-Ils firent un certain nombre de découvertes qui permettaient de produire d'augmenter la production. Il se rendirent compte qu'ils pouvaient exercer un certain contrôle la récolte dépendaient du travail fourni.
-C'est l'illusion d'une perspective de vie de plus en plus facile au fur et à mesure des amélioration apportées.
+Ils firent un certain nombre de découvertes qui permettaient d'augmenter la production. Il se rendirent compte qu'ils pouvaient exercer un certain contrôle la récolte dépendaient du travail fourni.
+
+L'illusion d'une perspective de vie de plus en plus facile au fur et à mesure des amélioration apportées.
 
 Enlever les mauvaises herbes, semer les graines, les semer plus profondément.
 
@@ -266,64 +262,55 @@ Multiplication de la production alimentaire par surface
 
 ### L'agriculture apporta la sédentarité 
 
-Protection contre les animaux sauvage, le froid la pluie
+* Protection contre les animaux sauvage, le froid la pluie
+* probablement une augmentation de la violence car les possessions se sont accrus.
+* Les femmes eurent plus d'enfants et plusieurs à la fois car elles ne furent plus soumises à la contrainte de devoir se déplacer périodiquement.
 
-Possession créée de la violence
+Lorsque la population a été atteinte une certaine taille, le retour en arrière fut impossible.
 
-Les femmes eurent plus d'enfants et plusieurs à la fois car elles ne furent plus soumises à la contrainte de devoir se déplacer périodiquement.
+#### Démographie
 
-Les enfants deviendraient la main d'œuvre de demain
-
-Les bébés demandent peu de nourriture un peu de bouilli et les enfants deviennent la main d'œuvre de demain. 1/3 avant 20 ans
+Les enfants deviendraient la main d'œuvre de demain. Les bébés demandent peu de nourriture un peu de bouilli et les enfants deviennent la main d'œuvre de demain. 1/3 avant 20 ans
 
 Pour compenser les morts de plus en plus d'enfants
 
-Lorsque la population a été atteinte une certaine taille, le retour en arrière fut impossible.
 
 Mode luxueux deviennent nécessité et engendre des obligations. Le luxe devenait acquis
 
 Plus s'en passer
 
-Facilité réduire temps gagner du temps plus fréquent moins réfléchi
-perdant prend plus de temps
+Facilité réduire temps gagner du temps plus fréquent moins réfléchi perdant prend plus de temps
 
-Élevage
+#### Élevage
 
 Deux scénarios possibles :
 
-Chasse des vieux et malades pour permettre au troupeau de continuer
-gestion durable des ressources en viande
+* Chasse des vieux et malades pour permettre au troupeau de continuer gestion durable des ressources en viande.
+* Défendre contre les prédateurs
 
-Défendre contre les prédateurs
-
-Gros limiter les pour ne garder que les individus les plus soumis et les
-moins curieux.
+Gros limiter les pour ne garder que les individus les plus soumis et les moins curieux.
 
 Certaines bêtes ont été capturée et enfermé dans des enclos.
 
 Des captures puit sélection des mêmes critères pour la procréation
 
-Volution de la poule des bovins cochon mouton
+Evolution de la poule des bovins cochon mouton
 
 ### Agriculture et élevage
 
-Si l'on évalue le succès au nombre de copies d'ADN d'une espèce présente sur Terre. La révolution de l'agriculture fut une réussite pour les
-plantes et les animaux domestiqués et les hommes.
+Si l'on évalue le succès au nombre de copies d'ADN d'une espèce présente sur Terre. La révolution de l'agriculture fut une réussite pour les plantes et les animaux domestiqués et les hommes.
 
-Mais contrairement aux végétaux, les animaux
+Mais contrairement aux végétaux, les animaux sont dotés de sensibilités 
 
 L'élevage produisit les créatures misérables qui n'ont jamais vécu, abattu optimale pour profit économique. À l'état sauvage qui ont une durée de vie de plusieurs dizaines d'année
 
 Annihilé nature instinct social diminution de l'agression sexualité contenu liberté
 
-Les groupes humains gens dans des conditions pires. D'un régime alimentaire extrêmement varié. Certaines populations ont réduit leur alimentation à un seul aliment blé riz pomme de terre Touché par la famine naissance des problèmes de santé lié au travail de la terre et à
-l'alimentation (carries).
+#### Conséquences
 
-L'agriculture
+Les groupes humains gens dans des conditions pires. D'un régime alimentaire extrêmement varié. Certaines populations ont réduit leur alimentation à un seul aliment blé riz pomme de terre Touché par la famine naissance des problèmes de santé lié au travail de la terre et à l'alimentation (carries).
 
-L'humanité a atteint un point de non-retour. Les lieux de vie
-
-Attachement aux biens
+Création de lieux de vie permanent et attachement aux biens
 
 Travaillé tout au long de l'année pour une courte période de récolte.
 
@@ -337,8 +324,7 @@ Importance en plus de pour évoluer en nombre
 
 Travailler pour assurer la sécurité future
 
-Le surplus à servie de combustible pour permettre à la politique, aux
-savants et à la philosophie.
+Le surplus à servie de combustible pour permettre à la politique, aux savants et à la philosophie.
 
 Le stress fonder politique système social
 
@@ -352,9 +338,7 @@ Besoin de liens par des mythes.
 
 2 250 1^er^ empire avec des millions de
 
-1000 on a 5000 méga empire qui forme un réseau de coopération de masse
-dont l'ordre réside par les croyances que par les connaissances
-personnels.
+1000 on a 5000 méga empire qui forme un réseau de coopération de masse dont l'ordre réside par les croyances que par les connaissances personnels.
 
 L'ordre imaginaire se matérialise
 
@@ -365,50 +349,37 @@ Inter conscience partager par plusieurs qui permet la coopération
 
 Règle disposer d'une information partagée
 
-Pour les animaux sociaux, cette information se situe dans les gènes
-(fourmi abeille).
+Pour les animaux sociaux, cette information se situe dans les gènes (fourmi abeille).
 
 Le cerveau stocker
 
 Capacité limité
 
-Le décés d'un indivud la disparition de l'information et perte et copie
-peut fidéle
+Le décés d'un indivud la disparition de l'information et perte et copie peut fidéle
 
-Le type d'information n'est adapté aux cerveaux développés pour les
-chasseurs cueilleurs.
+Le type d'information n'est adapté aux cerveaux développés pour les chasseurs cueilleurs.
 
-Entre 3 500 et 3 000 les sumériens social aider à dépasser les limites
-du cerveau
+Entre 3 500 et 3 000 les sumériens social aider à dépasser les limites du cerveau
 
 Écriture de données mathématiques
 
-A l'époque, ne constituait pas une priorité. La lecture étant réservée
-qu'a un nombre de personnes extrêmement restreint.
+A l'époque, ne constituait pas une priorité. La lecture étant réservée qu'a un nombre de personnes extrêmement restreint.
 
 Il mire au point un système d'écriture partiel pour conserver les
-informations qui permettent d'administrer liés par exemple aux taxes,
-aux possessions matériels, ...
+informations qui permettent d'administrer liés par exemple aux taxes, aux possessions matériels, ...
 
-Parallèlement, pour les mêmes motifs, les sociétés pré incas mirent au
-point un système qui utilisé la tapisserie appelé quipu.
+Parallèlement, pour les mêmes motifs, les sociétés pré incas mirent au point un système qui utilisé la tapisserie appelé quipu.
 
 3000 2500 l'ajout de signes système d'écriture complet.
 
-Au début, l'information était facilement développée des moyens qui
-permettent et récupérer efficacement l'information. de cataloguer
+Au début, l'information était facilement développée des moyens qui permettent et récupérer efficacement l'information. de cataloguer
 
 L'accumulation d'informations a fait naître de nouvelles problématiques.
 
-Aucune différence significative de comportements n'a été découverte
-entre les races humaines. Si cela avait été le cas, les hiérarchies
-entre les groupes humains entre les groupes humains se seraient
-perpétuées dans le temps sans connaître de profonds bouleversements.
-Seule la biologie pourrait expliquer les différences et pas l'Histoire
-car ce que la biologie explique ne peut pas varier.
+Aucune différence significative de comportements n'a été découverte entre les races humaines. Si cela avait été le cas, les hiérarchies entre les groupes humains entre les groupes humains se seraient perpétuées dans le temps sans connaître de profonds bouleversements.
+Seule la biologie pourrait expliquer les différences et pas l'Histoire car ce que la biologie explique ne peut pas varier.
 
-Nou ne savons pas pourquoi les femmes ont toujours eu le mauvais rôle
-dans toutes les sociétés humaines.
+Nou ne savons pas pourquoi les femmes ont toujours eu le mauvais rôle dans toutes les sociétés humaines.
 
 | Homme | Violent                                            | Plus fort                                |
 |------------------------|------------------------|------------------------|
@@ -416,16 +387,11 @@ dans toutes les sociétés humaines.
 
 Dissonance cognitives
 
-Toutes les cultures portent leurs contradictions. C'est en essayant de
-les concilier que né la nouveauté et l'inattendu.
+Toutes les cultures portent leurs contradictions. C'est en essayant de les concilier que né la nouveauté et l'inattendu.
 
-L'histoire humaine suit une direction qui est celle de la convergence
-des cultures humaines vers un méga unité. Aujourd'hui, tous les membres
-de la méga culture partagent un ensemble de visions communes qui coexistent au travers de multiples modes de vie s'influence
-réciproquement.
+L'histoire humaine suit une direction qui est celle de la convergence des cultures humaines vers un méga unité. Aujourd'hui, tous les membres de la méga culture partagent un ensemble de visions communes qui coexistent au travers de multiples modes de vie s'influence réciproquement.
 
-On considère que la naissance de cette culture universelle fut la conséquence de la entre les zones géographiques par la colonisation du
-dernier endroit isolé la Tasmanie.
+On considère que la naissance de cette culture universelle fut la conséquence de la entre les zones géographiques par la colonisation du dernier endroit isolé la Tasmanie.
 
 L'exemple le plus remarquable fut celle de l'adoption d'aliments d'origine mexicaine dans de nombreuse traditions Africo-Eurasienne comme des tomates, du cacao et du pigment.
 
@@ -449,13 +415,12 @@ marchandises.
 La meilleure solution trouvée fut l'invention de la monnaie.
 
 La monnaie c'est une échelle de valeur d'échange de biens et de
-services. Le succès de l'argent réside tout le monde en veux dont tout
-le monde est près à en accepter en échange de biens et de services.
+services. Le succès de l'argent réside tout le monde en veux dont tout le monde est près à en accepter en échange de biens et de services.
 Monnaie besoin de pouvoir être conserver transportable
 
 Système de confiance globale
 
-1^ère^ monnaie sumérienne vers 3000 ans grains volume de la valeur
+1ère monnaie sumérienne vers 3000 ans grains volume de la valeur
 inhérente consommé
 
 Convertibilité confiance
@@ -464,8 +429,7 @@ Loi du marché ne se prête pas aux états d'âmes et aux qualités morales.
 
 Confiance se matérialise seulement en monnaie.
 
-Il facilite la coopération mais effroi lorsqu'elle n'est pas à cause de
-son pouvoir de corruption.
+Il facilite la coopération mais effroi lorsqu'elle n'est pas à cause de son pouvoir de corruption.
 
 Les empires
 
