@@ -6,7 +6,7 @@ Indépendamment de leur poids, deux objets tombent à la même vitesse.
 
 ### Relativité restreinte
 
-$$E = m \cdot c^2}$$
+$$E = m \cdot c^2$$
 
 L'énergie peut être transformé en masse càd en objets physiques.
 
