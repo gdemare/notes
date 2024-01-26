@@ -63,6 +63,7 @@ Le régime alimentaire de nos ancêtres était
 C'est vers 900 000 ans que nos ancêtres deviennent des chasseurs réguliers et vers 100 000 qu'ils acquièrent le statut de super prédateurs
 
 Le passage d'une espèce du milieu de la chaine alimentaire à celui de super prédateur s'est fait dans un temps extrêmement rapide à l'échelle de l'évolution qui n'a pas suffi à :
+
 * l'apparition d'un contre poids écologique
 * à l'adaptation nos processus mentaux à notre nouveau statut.
 
@@ -72,10 +73,10 @@ Nous avons conservé les dispositions mentales qui nous d'anxiété et de peur q
 
 Le feu a eu un rôle particulièrement important dans l'évolution du genre Homo. Les premiers trace de son utilisation par des communautés humaines remontent à 800 000 ans. Il a permis notamment :
  
-* se chauffer.
-* d'arme et de se protéger des prédateurs.
+* se chauffer et de permettre l'installation dans des régions avec des climats plus froids.
+* d'être utilisé comme une arme et de se protéger des prédateurs.
 * l'apparition de la cuisine.
-* de prolonger articifiellement la durée des jours et 
+* de prolonger articifiellement la durée des jours. L'apparition d'une nouvelle periode de veille autour du foyer.
 
 #### Cuisine 
 
@@ -151,15 +152,15 @@ Les commérages
 
 Commérage coopération à plus grande échelle
 
-Histoire
+### Les histoires fictives
 
-Sapien aurait les autres espèces humaines grâce à
+Sapien aurait etadiqué les autres espèces humaines grâce à sa capacité à collaborer 
 
 Permis aux groupes d'homo sapiens de coopérer à un
 
 Coopération flexible large croyance
 
-Imagination collective auraient permis aux groupes de sapiens de coopérer de manière flexible
+La mise en place d'une imagination collective autour d'histoires fictives auraient permis aux groupes de sapiens de coopérer de manière plus efficace et flexible.
 
 Lorsqu'il lui suffit de changer de fiction pour modifier son comportement.
 
@@ -175,7 +176,7 @@ Histoire
 
 Développement et évolution culturelle.
 
-Biologie se sépare l'histoire notre génome est adapté pour survivre calorie disponible nourriture obésité
+Biologie se sépare l'histoire notre génome est adapté pour survivre calorie disponible nourriture obésité.
 
 Vie 70 12 peu d'élément objet en bois cuir qui n'ont pas résister à l'épreuve du temps
 
@@ -183,14 +184,13 @@ Vie 70 12 peu d'élément objet en bois cuir qui n'ont pas résister à l'épreu
 
 Certaines tribus se composaient de plusieurs groupes.
 
-Les bandes de chasseurs-cueilleurs formé une grande diversité de sociétés humaines
+Les bandes de chasseurs-cueilleurs formaient une grande diversité de sociétés humaines
 
-La violence très présente certains endroits mais varié dans le temps et dans l'espace
+La violence était très présente certains endroits mais elle a beaucoup variée au cours dans le temps et dans l'espace.
 
 ### Sapiens dépasse les limites Afro-Eurasie
 
-Premier animal terrestre à charger de continents sans adaptation
-physiologique
+Sapiens est le remier animal terrestre à avoir changer de continents avoir dû attendre l'apparition de nouvelles caracteristisues physiologiques.
 
 Australie vers par bateau
 
@@ -201,41 +201,40 @@ Relation avec la nature
 
 Les animaux avec des cycles de reproduction long n'ont pas survécu à leur rencontre avec sapiens. Ils ont probablement été exterminé par :
 
-* la chasse.
-* Les feux post agriculture réduit la végétation
-* changement climatique
-
-Pas de méfiance des animaux qui vivait
-
+* la chasse notamment lorsque certaines especes qui n'etaient pas habituées à la présence humaine n'étaient pas méfiantes comme pour la mégafaune australienne.
+* Les feux post agriculture réduit la végétation et modifier les ecosystemes.
+* le changement climatique.
 
 ### Conquête de l'amérique
 
-16 000 États Unis niveau des mers relié l'Asie à l'Amérique
+Vers 16 000 ans, les États Unis niveau des mers relié l'Asie à l'Amérique
 
-Sapiens s'est aventuré dans des contré ou aucun groupe humain ne s'était aventuré. Les conditions climatiques froid.
+Sapiens s'est aventuré dans des contrés ou aucun groupe humain ne s'était aventuré. Les conditions climatiques y etaient froides et defavorables mais plusieurs raisons peuvent expliquer ces migrations : 
 
-* pression démographique.
-* suivre des source de nourriture, par exemple, des troupeaux.
+* la pression démographique.
+* le suivie de source de nourriture telles des troupeaux.
 
-14 000 ans arrivent en Alaska.
-
-11 000 réchauffements ouvrent un passage vers le reste de l'amérique.
+Il y a 14 000 ans, les premiers hommes arrivent en Alaska et vers 11 000 ans, le réchauffements ouvrent un passage vers le reste de l'amérique.
 
 ## L'Agriculture
 
 La révolution agricole a eu lieu 9 500 et 8500 ans à peu près au même moment dans plusieurs endroits du globe (Asie, Moyenne orient, Amérique).
 
-| 9 9000 ans | 8 000 ans     | 4 000 ans | 3 500 ans |
-|------------|---------------|-----------|-----------|
-| Chèvre blé | Lentille pois | Cheval    | vignes    |
+Date       | Espèces domestiquées
+-----------|----
+9 900 ans  | Chèvre, blé
+8 000 ans  | Lentille pois
+4 000 ans  | Cheval
+3 500 ans  | Vigne
 
-Comparait aux nombres d'espèces présentes dans la nature, seul un faible nombre a pu être domestiqué car peu d'espèces si prêtes. Elles ont un rôle puisque 90% des calories que nous absorbons mangeons proviennent des espèces domestiquées par nos ancêtres pendant la révolution agriculture.
+Comparé aux nombres d'espèces présentes dans la nature, seul un faible nombre a pu être domestiqué car peu d'espèces si prêtes.
+Elles occupent la majorité part majoritaire de notre alimentation puisque nous y puisons 90% des calories de la nourriture des espèces domestiquées par nos ancêtres pendant la révolution agriculture.
 
 ### La naissance de l'agriculture, l'histoire du blé
 
-Comment expliquer qu'une herbe insignifiante comme le blé soit devenu l'espèce végétale terrestre la plus abondante de la planète ?
+Comment expliquer qu'une herbe insignifiante comme le blé soit devenu l'espèce végétale terrestre la plus abondante de la planète ? Comment la culture est devenue une activité permanente ?
 
-Comment la culture est devenue une activité permanente ? Deux scénarios sont possibles pour expliquer son origine soit :
+Deux scénarios sont possibles pour expliquer son origine soit :
 
 * lié à la spécialisation.
 * culturelle.
@@ -244,13 +243,14 @@ Vers 18 000 ans, le climat mondial s'est réchauffé et les conditions idéales
 
 #### Spécialisation
 
-Les gens ont commencé à en consommer de plus en plus car il constitué une ressource abondante. Sa récolte requière du travail de ramassage ils ont contribué à la dispersion des graines notamment à proximité des lieux de vie. Chaque année lorsque les groupes humains revenaient, ils trouvaient de plus de blés et les groupes humains s'établirent de plus longtemps pour en bénéficier.
+Les gens ont commencé à en consommer de plus en plus car il constitué une ressource abondante. Durant sa recolte, une partie des grains 
+Sa récolte requière du travail de ramassage ils ont contribué à la dispersion des graines notamment à proximité des lieux de vie. Chaque année lorsque les groupes humains revenaient, ils trouvaient de plus de blés et les groupes humains s'établirent de plus longtemps pour en bénéficier.
 
 #### Culturel
 
-Certaines sociétés pré agricultrice se sont installées de plus en plus longtemps pour bâtir des temples. Ils ont commencé à cultiver les plantes locales pour subvenir à leur besoin nutritionnel. Des analyses génétiques suggèrent que le blé domestique est Gobekli Tepe un village où l'on a découvert des temples datant avant l'agriculture.
+Certaines sociétés pré agricultrices se sont installées de plus en plus longtemps pour bâtir des temples. Ils ont commencé à cultiver les plantes locales pour subvenir à leur besoin nutritionnel. Des analyses génétiques suggèrent que le blé domestique est originaire du village de Gobekli Tepe où des temples datant d'avant la periode agricole ont ete mis au jour.
 
-Ils firent un certain nombre de découvertes qui permettaient d'augmenter la production. Il se rendirent compte qu'ils pouvaient exercer un certain contrôle la récolte dépendaient du travail fourni.
+Nos ancetres firent un certain nombre de découvertes qui leurd permirent d'augmenter la production. Il se rendirent compte qu'ils pouvaient exercer un certain contrôle la récolte dépendaient du travail fourni.
 
 L'illusion d'une perspective de vie de plus en plus facile au fur et à mesure des amélioration apportées.
 
