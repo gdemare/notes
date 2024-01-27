@@ -1,4 +1,8 @@
-## Les protéines
+100 000 protéines différentes dans le génome humain.
+
+environ 200 aa.
+
+__Interactome__ ensemble des interactions protéines protéines qui ont lieu dans la cellule à un moment donnée.
 
 __Transloquer__ déplacer d'un endroit à un autre.
 
@@ -95,7 +99,7 @@ Les protéines du RE sont :
 * Transportées vers l'appareil de Golgi.
 * Résidantes du RE si elles possèdent la séquence KDEL.
 
-!! note
+!!! note
     KDEL interagit avec des récepteurs KDER.
 
 L'exocytose du RE se fait par un système protéines type clé-serrure.
@@ -130,7 +134,6 @@ Des polypeptides assemblés sans que les ribosomes ne soient solicités??? Et ou
 
 Ces peptides sont synthétisés par des synthétases massives organisées en chaînes de montage; certaines sont des complexes multimériques, d'autres de grandes protéines. Ces enzymes sont modulaires et contiennent une série d'unités fonctionnelles qui peuvent lier un acide aminé libre, l'activer sous forme de thioester, et le coupler au polypeptide grandissant. Chaque module a une taille de 1000-1200 acides aminés, rendant certains de ces enzymes vraiment énormes: une unique protéine de 15 281 résidus (pour une masse de 1,7 MDal!!!) est responsable de la synthèse de la cyclosporine, un immunorépresseur qui ne contient que... 11 résidus!
 
-
 ----------------------------
 
 Les protéines (étymologie "au premier rang") sont des polymères d'acides aminés (aa) qui jouent de nombreux rôles notamment dans :
@@ -139,6 +142,7 @@ Les protéines (étymologie "au premier rang") sont des polymères d'acides amin
 * La réalisation et la régulation de processus biologiques (la défense, la signalisation, le transport, le mouvement).
 
 Les acides aminés sont structurés autour d'un atome de carbone appelé alpha entouré par :
+
 * un groupe aminé (-NH2)
 * un groupe acide carboxylique (-COOH), un atome d'hydrogène
 * d'une chaîne latérale qui différe en fonction du type d'acides aminés.
@@ -165,8 +169,6 @@ C'est la structure 3D qui confère la fonction de la protéine.
 __Polypeptide__ chaine d'acides aminés.
 
 Une protéine est une chaine composée, en moyenne, de 50 acides aminées appelée chaine peptidique.
-
-
 
 ## Chaine principale 
 
@@ -364,9 +366,10 @@ applique un courant électrique sur les deux extrémités de la feuille.
 Les protéines se trouveront plus ou moins proche des bornes en fonction
 de leur charge.
 
-| **Borne chargée**                 | **Anode +**      | **Cathode -**     |
-|-----------------------------------|------------------|-------------------|
-| **Attire les protéines chargées** | Anion (chargé -) | Cation (chargé +) |
+Borne   | Charge de la borne
+--------|----
+Anode   | +                         
+Cathode | -
 
 Taille
 
