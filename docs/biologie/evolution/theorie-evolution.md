@@ -31,11 +31,11 @@ Grec Platon
 
 ## Mécanismes d'isolement **reproducteur**
 
-|                   |                                                                 |                                                                             |
-|--------------------|-------------------|----------------------------------|
-| Pré copulatoire   | Ce qui empêcher la rencontre entre deux partenaires potentiels. |                                                                             |
-| Post copulatoires | **Prézygotiques**                                               | Couple formé mais impossibilité de former un zygote par fusion des gamètes. |
-|                   | **Postzygotiques**                                              | Mauvais développement du zygote                                             |
+* Pré copulatoireCe qu. i empêcher la rencontre entre deux partenaires potentiels.
+* Post copulatoires :
+    
+    * Prézygotiques Couple formé mais impossibilité de former un zygote par fusion des gamètes. 
+    * Postzygotiques  Mauvais développement du zygote
 
 ## Mécanisme de pré copulatoire
 
@@ -58,52 +58,45 @@ Isolement de type :
 
 ### Postzygotiques
 
-Incompatibilités de type
+Incompatibilités de type : 
 
-<table>
-<colgroup>
-<col style="width: 26%" />
-<col style="width: 73%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Cytoplasmiques</td>
-<td>Le zygote n’arrive pas à dialoguer avec les organelles ce qui
-provoquent la mort de la cellule.</td>
-</tr>
-<tr class="even">
-<td>Stérilité hybride</td>
-<td><p>Les incompatibilités génétiques dans le noyau empêchent la
-fabrication des gamètes viables.</p>
-<p>Loi de Haldane</p></td>
-</tr>
-<tr class="odd">
-<td>Faiblesse hybride</td>
-<td>Les incompatibilités génotypiques empêchent le développement complet
-de l’individu.</td>
-</tr>
-</tbody>
-</table>
+* Cytoplasmique. Le zygote n’arrive pas à dialoguer avec les organelles ce qui provoquent la mort de la cellule.
+* Stérilité hybride : les incompatibilités génétiques dans le noyau empêchent la fabrication des gamètes viables.
+* Faiblesse hybride (loi de Haldane ) Les incompatibilités génotypiques empêchent le développement complet de l’individu.
 
-__Hétérogamétique__ cette définition s'applique chez les organismes où le
-déterminisme du sexe se fait grâce à des chromosomes sexuels.
+__Hétérogamétique__ le déterminisme sexuel est lié à des chromosomes sexuels.
 
-Loi de Haldane Pour les espèces hétérogamétiques, si un des deux sexes
-est stérile, cela sera toujours celui des individus hétérozygotes.
-
-Organelle mitochondrie, plaste.
+Loi de Haldane Pour les espèces hétérogamétiques, si un des deux sexes est stérile, cela sera toujours celui des individus hétérozygotes.
 
 ## Théorie de l'évolution
 
-La descendance avec modifications favorise certain individu dans unenvironnement donnée. Les individus les plus avantagé auront tendance à laisser plus de descendants.
+# Sur les epaules de Darwin, E1, La theorie de l'evolution de Charles Darwin 2020-04-09
 
-Pour Wallace, l'environnement joue uniquement un rôle de filtre.
+La theorie de l'evolution de Charles Darwin a transforme notre representation du monde vivant. Avant elle, le monde etait un espace figé ou Dieu avait attribue a l'Homme une place centrale. 
 
-Pour Darwin, l'environnement et le mode de vie joue un rôle complémentaire dans l'hérédité.
+Les sources qui ont inspirées Darwin pour l'élaboration de la théorie de l'évolution furent :
 
-Les lois de l'hérédité seront redécouvertes 18 ans après la mort Darwin.
+* un livre de Charles Layel dans lequel il propose que les reliefs present sur Terre sont beaucoup plus ancienne que ce que suggère la Bible. Ils sont du à de petites modifications sur une longue periode. C'est leur accumulation qui à permis l'apparition de formations geologiques aussi complexes que les montagnes.
+* la loi du marche d'Adam Smith qui decrit comment un ordre complexe emerge d'un grand nombre d'actions de ventes et d'achats.
+* de Maltus qui était un pretre et un statisticien qui cherchait un moyen d'errdiquer la pauvreté. Il proposera notamment de laisser mourrir les pauvres car ils ont tendance a faire trop d'enfants par rapport a la quantite de ressources disponibles. Seul les plus adaptes survivent.
+* La mode  elevages. Sur la facon dont l'heredite a ete utiliser articiellement pour creer de la diversite. En reproduisant certains individus pour leur caracteristique, l'Homme a cree des varietes tres differentes de l'espece d'origine. 
 
-La découverte de l'ADN, le support de l'information génétique, se fera beaucoup plus tard. Elle permettra notamment de confirmer la parenté entre tous les êtres vivants.
+La theorie de l'evolution est : Dans un environnement ou les ressources sont limitees les differences individuelles considerees comme avantageuses pour l'alimentation ou la reproduction favoriseront certains individus. Ils auront une descendance plus nombreuse et ses differences se transmetteront a une partie de leurs enfants. S'il l'on considere une echelle temporelle suffisament longue, les petites modifications engendreront la diversite des especes. 
+
+!!! note
+    La theorie de l'evolution a ete et reste un sujet de contreverse qui a eu d'importantes implications philosophiques et religieuses sur la place de l'Homme dans l'Univers. Freud l'evoquera comme une blessure de l'humanite. Au cours de l'histoire, elle a etait utilisee pour justifier la discrimination et la colonisation des peuples.
+
+La descendance avec modifications favorise certain individu dans un environnement donnée. Les individus les plus avantagé auront tendance à laisser plus de descendants.
+
+!!! note
+    La différence principale entre la théorie de Wallace et celle de Darwin est que pour le premier, l'environnement joue uniquement un rôle de filtre et le second que l'environnement et le mode de vie joue un rôle complémentaire dans l'hérédité.
+
+!!! note
+    Les lois de l'hérédité seront redécouvertes 18 ans après la mort Darwin (redécouverte des lois de Mendel) et la découverte de l'ADN, le support de l'information génétique, se fera beaucoup plus tard. Elle permettra notamment de confirmer la parenté entre tous les êtres vivants.
+
+### Le propre de l'Homme
+
+La question de l'origine de l'Homme sera dans un premier temps Il enumere chaque caracteristique consideree comme le propre de l'Homme, comme la notion de beaute, la culture, l'affection. Pour chacun, il demontre l'existence de premisce chez d'autres etre vivants et il conclue qu'il existe bien une difference de degre et non de nature entre l'Homme et les autres especes si bien que l'Homme est bien issue de la theorie de l'evolution.  
 
 ## Théorie du gène égoïste (Richard Dawkins)
 
@@ -145,7 +138,7 @@ Ce raisonnement permettrait notamment d'expliquer la présence de comportement a
 
 La variabilité d'un caractère noté $V = V_{génétique} + V_{milieu} + V_{interaction}$
 
-Nuage de points : les génotypes des descendants représentés en fonction de ceux parentaux avec droite de régression
+Nuage de points : les génotypes des descendants représentés en fonction de ceux parentaux avec droite de régression.
 
 Héritabilité d'un caractère noté $h^2 = \frac{V_{génétique}}{V_{total}}$ interprété la proportion de génétique.
 
@@ -177,8 +170,6 @@ La sélection entre les individus est faite :
 </tbody>
 </table>
 
-__Sélection disruptive__ spécialisation entraine la création de groupes
-différents.
+__Sélection disruptive__ spécialisation entraine la création de groupes différents.
 
-__Radiation adaptative__ création de nombreuses espèces à partir d'une
-seule.
+__Radiation adaptative__ création de nombreuses espèces à partir d'une seule.
