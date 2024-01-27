@@ -218,7 +218,7 @@ Il y a 14 000 ans, les premiers hommes arrivent en Alaska et vers 11 000 ans, 
 
 ## L'Agriculture
 
-La révolution agricole a eu lieu 9 500 et 8500 ans à peu près au même moment dans plusieurs endroits du globe (Asie, Moyenne orient, Amérique).
+La révolution agricole a eu lieu 9 500 et 8 500 ans à peu près au même moment dans plusieurs régions du globe.
 
 Date       | Espèces domestiquées
 -----------|----
@@ -227,10 +227,9 @@ Date       | Espèces domestiquées
 4 000 ans  | Cheval
 3 500 ans  | Vigne
 
-Comparé aux nombres d'espèces présentes dans la nature, seul un faible nombre a pu être domestiqué car peu d'espèces si prêtes.
-Elles occupent la majorité part majoritaire de notre alimentation puisque nous y puisons 90% des calories de la nourriture des espèces domestiquées par nos ancêtres pendant la révolution agriculture.
+Comparé aux nombres d'espèces présentes dans la nature, seul un faible nombre a pu être domestiqué car peu d'espèces si prêtes. Elles occupent la majorité de notre alimentation puisque nous y puisons 90% des calories dans la nourriture issues d'espèces domestiquées par nos ancêtres pendant la révolution agriculture.
 
-### La naissance de l'agriculture, l'histoire du blé
+### Le blé
 
 Comment expliquer qu'une herbe insignifiante comme le blé soit devenu l'espèce végétale terrestre la plus abondante de la planète ? Comment la culture est devenue une activité permanente ?
 
@@ -260,20 +259,23 @@ Au fur et à mesure, le temps qu'il consacrèrent à la culture augmenta jusqu'�
 
 Multiplication de la production alimentaire par surface
 
-### L'agriculture apporta la sédentarité 
+### Sédentarité
 
-* Protection contre les animaux sauvage, le froid la pluie
+L'agriculture apporta la sédentarité. Elle contribua à
+
+* la construction d'abris qui protection contre les animaux sauvage, le froid la pluie.
 * probablement une augmentation de la violence car les possessions se sont accrus.
-* Les femmes eurent plus d'enfants et plusieurs à la fois car elles ne furent plus soumises à la contrainte de devoir se déplacer périodiquement.
+* les femmes eurent plus d'enfants et plusieurs à la fois car elles ne furent plus soumises à la contrainte de devoir se déplacer périodiquement.
 
-Lorsque la population a été atteinte une certaine taille, le retour en arrière fut impossible.
+Lorsque la population a été atteinte une certaine taille, le retour à l'état de tribus nomades ne fut plus possible.
 
 #### Démographie
 
-Les enfants deviendraient la main d'œuvre de demain. Les bébés demandent peu de nourriture un peu de bouilli et les enfants deviennent la main d'œuvre de demain. 1/3 avant 20 ans
+Les enfants deviendraient la main d'œuvre de demain. Les bébés demandent peu de nourriture un peu de bouilli et les enfants deviennent la main d'œuvre de demain.
+
+Environ 1/3 des enfants mourraient avant d'atteindre 20 ans.
 
 Pour compenser les morts de plus en plus d'enfants
-
 
 Mode luxueux deviennent nécessité et engendre des obligations. Le luxe devenait acquis
 
@@ -286,8 +288,9 @@ Facilité réduire temps gagner du temps plus fréquent moins réfléchi perdant
 Deux scénarios possibles :
 
 * Chasse des vieux et malades pour permettre au troupeau de continuer gestion durable des ressources en viande.
-* Défendre contre les prédateurs
+* Défendre contre les prédateurs.
 
+L
 Gros limiter les pour ne garder que les individus les plus soumis et les moins curieux.
 
 Certaines bêtes ont été capturée et enfermé dans des enclos.
@@ -364,7 +367,7 @@ Entre 3 500 et 3 000 les sumériens social aider à dépasser les limites du c
 Écriture de données mathématiques
 
 A l'époque, ne constituait pas une priorité. La lecture étant réservée qu'a un nombre de personnes extrêmement restreint.
-
+Les premiers systèmes d'écriture ont été développé pour conserver des informations a
 Il mire au point un système d'écriture partiel pour conserver les
 informations qui permettent d'administrer liés par exemple aux taxes, aux possessions matériels, ...
 

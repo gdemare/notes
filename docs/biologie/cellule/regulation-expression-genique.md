@@ -2,7 +2,7 @@ __Cascade de signalisation__ (ou voie de signalisation) série de réactions chi
 
 La régulation du métabolisme se fait par la régulation de :
 
-* La synthèse d'enzymes qui régulée par l'expression génique.
+* La synthèse d'enzymes régulée par l'expression génique.
 * L'activité des enzymes.
 
 ## Les Bactéries
@@ -14,11 +14,11 @@ Les organismes unicellulaires s'adaptent aux conditions du milieu en modulant la
 
 ### L'opéron
 
-__Opéron__ groupe de gènes transcrit qui contient la majorité du temps toutes les instructions de fabrication de l'ensemble des enzymes nécessaire à l'accomplissement d'une activité métabolique.
+__Opéron__ groupe de gènes transcrit qui contient la majorité du temps toutes les instructions de fabrication des enzymes nécessaires à l'accomplissement d'une activité métabolique.
 
 La transcription de l'opéron est contrôlée par une séquence d'ADN unique appelée promoteur.
 
-__Promoteur__ site de fixation de l'ARN polymérase à l'ADN. La liaison est nécessaire pour débuter la transcription.
+__Promoteur__ site de fixation de l'ARN polymérase à l'ADN. Cette intéraction est nécessaire pour débuter la transcription.
 
 Il existe deux types d'opérons en fonction de l'état par défaut dans lequel ils sont :
 
@@ -32,13 +32,16 @@ La régulation est dite :
 
 ### Opérateur inductible
 
-Un gène avec un opérateur actif est naturellement transcrit en ARNm. Il peut être inactivé par une protéine qui vient se fixer sur l'opéron et l'ARN polymérase de se fixer et ainsi la transcription. Cette protéine est appelée répresseur.
+Un gène avec un opérateur actif est naturellement transcrit en ARNm. Il peut être inactivé par une protéine appelée répresseur qui vient se fixer sur : 
+
+* l'opéron.
+* l'ARN polymérase.
 
 Le répresseur est codé par un autre séquence d'ADN avec un promoteur généralement moins strict. Souvent, il s'active lorsqu'il se lie avec le produit du gène qu'il bloque. Il va alors se fixer sur le ARN polymérase et empêcher la transcription.
 
 Le répresseur peut être inactivé par une molécule appelé inducteur.
 
-__Corépresseur (également coactivateur)__ molécule nécessaire à l'activation du récepteur.
+__Corépresseur__  (également coactivateur) molécule nécessaire à l'activation du récepteur.
 
 !!! note
     Les liaisons sont réversibles.
@@ -48,13 +51,13 @@ __Allostérique__ propriété d'une enzyme dont l'activité est modifiée par la
 __Activateur__ protéine qui se lie à l'ADN et qui stimule la transcription.
 
 !!! note
-    L'action conjuguéE d'activateurs et de répresseurs permet à la cellule de régler précisément la vitesse de production des enzymes.
+    L'action conjuguée d'activateurs et de répresseurs permet à la cellule de régler précisément la vitesse de production des enzymes.
 
 ## Les Eucaryotes
 
 Chez les organismes pluricellulaires, toutes les cellules d'un individu partagent le même génome mais elles ont une utilisation très différentes de leurs gènes en fonction de leur rôle.
 
-Les cellules humaines expriment simultanément et au maximum 20% de leurs gènes. Chaque cellule doit utiliser un sous ensemble de gènes uniques qui correspond au rôle qu'elle doit accomplir.
+Les cellules humaines expriment simultanément au maximum 20% de leurs gènes. Chaque cellule doit utiliser un sous ensemble de gènes uniques qui correspond au rôle qu'elle doit accomplir.
 
 __Expression génique différentielle__
 
@@ -62,10 +65,10 @@ La régulation de l'expression génétique peut avoir lieu :
 
 * au moment de la transcription :
 
-    * Avant la transcription.
-    * La vitesse de transcription.
-    
-* Après la transcription
+    * avant la transcription.
+    * la vitesse de transcription.
+
+* après la transcription
 
     * L’épissage.
     * La maturation.
@@ -74,19 +77,19 @@ La régulation de l'expression génétique peut avoir lieu :
 
 Tous l'ADN n'est pas accessible à la transcription par la cellule notamment lorsque :
 
-* Il est condensé càd sous forme d'hétérochromatine.
-* Il est méthylé.
+* il est condensé càd sous forme d'hétérochromatine.
+* il est méthylé.
 
-### L'hétérochromatine
+### Hétérochromatine
 
 Une partie de l'ADN est présent sous forme d'hétérochromatine, une forme condensée qui n'est que rarement utilisée. Elle peut être décondensée par la cellule par l'acétylation (ajout d'un groupement $-COCH_3$) des histones.
 
 !!! note
     Les chromosomes ne sont pas totalement dispersés aléatoirement dans le noyau. Certains sites inter et intra chromosomique sont rassemblés et forment des régions riches en ARN et en protéines régulatrices. C'est sites sont appelés usines à transcription.
 
-### L'ADN méthylé
+### ADN méthylé
 
-L'ADN peut être rendu inactif par l'ajout de groupement méthyle (-CH3) sur la chromatide par une enzyme. Cet état est réversible mais la méthylation n'est que rarement supprimée. En cas de division cellulaire, la méthylation sera transmise aux cellules filles.
+L'ADN peut être rendu inactif par l'ajout de groupements méthyles (-CH3) sur la chromatide par une enzyme. Cet état est réversible mais la méthylation n'est que rarement supprimée. En cas de division cellulaire, la méthylation sera transmise aux cellules filles.
 
 Ainsi, l'ensemble des cellules issues d'une cellule mère partageront une utilisation communes des gènes.
 
@@ -96,38 +99,38 @@ Ainsi, l'ensemble des cellules issues d'une cellule mère partageront une utilis
 !!! note 
     La méthylation serait responsable de la transmission de caractères épigénétiques des parents aux enfants.
 
-## La régulation de l'initiation de la transcription
+## Régulation de l'initiation de la transcription
 
 Le promoteur est associé à de nombreuses séquences régulatrices appelées éléments de contrôle. Les éléments de contrôle (ou régulateur) sont dits :
 
-* Proximaux s'ils sont à proximité du promoteur.
-* Distaux s'ils sont loin du promoteur appelé également amplificateur.
+* proximaux s'ils sont à proximité du promoteur.
+* distaux s'ils sont loin du promoteur. Ils sont également appelés amplificateur.
 
 !!! note
     Les élément de contrôle distaux peuvent être situés en amont, en aval ou à l'intérieur d'un intron.
 
 Chaque amplificateur n'est associé qu'a un seul gène.
 
-__Amplification__ élément de contrôle site de liaison de facteurs de transcription amplificateur.
+__Amplificateur__ élément de contrôle site de liaison de facteurs de transcription amplificateur.
 
-Les éléments de contrôle sont des sites de l'ADN où viennent se fixer des protéines appelé facteurs de transcription qui agissent sur la vitesse de déplacement de l'ARN polymérase c'est-à-dire la vitesse de transcription.
+Les éléments de contrôle sont des sites de l'ADN où viennent se fixer des protéines appelées facteurs de transcription qui agissent sur la vitesse de déplacement de l'ARN polymérase c'est-à-dire la vitesse de transcription.
 
 __Facteur de transcription__ protéine qui vient se fixer sur les éléments de contrôle pour réguler la transcription. Elle agit directement sur la chromatide.
 
 Les facteurs de transcription sont classés en deux catégories :
 
-* Généraux (nécessaire à la transcription).
-* Spécifique (régule la vitesse activateur répresseur).
+* généraux (nécessaire à la transcription).
+* spécifique (régule la vitesse activateur répresseur).
 
-Les facteurs de transcription sont formés par
+Les facteurs de transcription sont formés par :
 
-* Un domaine de liaison qui est le site de liaison avec l'ADN (les éléments de contrôle).
-* Un ou plusieurs domaines d'activation.
+* un domaine de liaison qui est le site de liaison avec l'ADN (les éléments de contrôle).
+* un ou plusieurs domaines d'activation.
 
 Les domaines d'activation se lient soit :
 
-* Aux protéines régulatrices.
-* Aux composantes du mécanisme de transcription (les facteurs de transcriptions généraux ou des protéines médiatrices).
+* aux protéines régulatrices.
+* aux composantes du mécanisme de transcription (les facteurs de transcriptions généraux ou des protéines médiatrices).
 
 Les facteurs de transcriptions agissent soit comme :
 

@@ -373,8 +373,7 @@ Les CMH sont les protéines qui servent à faire la différence entre les cellul
 
 ### Structure
 
-Les CMH sont des molécules de présentation antigénique. Il en existe
-deux types de CMH : 
+Les CMH sont des molécules de présentation antigénique. Il en existe deux types de CMH : 
 
 * CMH I présent à la surface de toutes les cellules sauf chez quelques types comme les globules rouges. Les chaines peptidiques sont issues de la dégradation de protéines du milieu intracellulaire càd de protéines synthétisées par la cellule.
 * CMH II présent à la surface des cellules immunitaires (cellules dendritiques, lymphocytes, macrophages...). Les chaines peptidiques sont issues de la dégradation de protéines provenant du milieu extracellulaire phagocytées et dégradées.

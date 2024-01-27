@@ -11,46 +11,26 @@ __ATPase__ protéine qui hydrolyse ou synthétise de l'ATP.
 
 Le cytosquelette assure le maintien de la forme de la cellule. Il joue un rôle majeur dans de nombreux mécanismes cellulaires :
 
-* La mobilité cellulaire
-* La division cellulaire
-* Le transport intracellulaire
-* L'organisation de la cellule
+* la mobilité cellulaire.
+* la division cellulaire notamment durant a séparation des chromosomes.
+* le transport intracellulaire.
+* l'organisation de la cellule notamment dans le maintien de la forme de la cellule.
 
 Il est formé par trois réseaux (diamètre) :
 
-* Microtubule (24 nm)
-* Filament d'actine (7-9 nm)
-* Filament intermédiaire (10 nm)
+* Microtubule (24 nm).
+* Filament d'actine (7-9 nm).
+* Filament intermédiaire (10 nm).
 
-La polymérisation ne nécessite pas d'énergie contrairement au désassemblage des sous-unités.
+Ils sont constitués d'un ensemble de polymères protéiques dont la polymérisation ne nécessite pas d'énergie contrairement au désassemblage des sous-unités.
 
 Les microtubules et les filaments d'actine sont orientés. Il dispose d'une extrémité dite + avec une activité de polymérisation et dépolymérisation plus importante.
 
-Les microtubules sont beaucoup instables.
+!!! note
+    Les microtubules sont beaucoup instables.
 
-Le cytosquelette joue un rôle dans :
-
-* Le déplacement cellulaire :
-
-    * Intercellulaire des organites.
-    * Mouvement cellulaire.
-
-* Organisation de la cellule
-
-    * Soutien et maintien de la forme de la cellule
-    * Point d'ancrage aux éléments
-
-* Activité cellulaire dans la séparation des chromosomes.
-
-Le cytosquelette est un ensemble de polymères protéiques. Il en existe trois types : 
-
-| Microtubules | Filaments intermédiaires | Microfilaments |
-|--------------|--------------------------|----------------|
-| Épais        | Moyen                    | Fin            |
-| 25 nm        | 8 à 12 nm                | 7 nm           |
-
-Contrairement au squelette osseux, le squelette cellulaire évolue au
-cours de la vie de la cellule. Il se monte et se démonte.
+!!! note
+    Contrairement au squelette osseux, le squelette cellulaire évolue au cours de la vie de la cellule. Il se monte et se démonte.
 
 ## Microtubules
 
@@ -60,12 +40,12 @@ Les fonctions des microtubules sont :
 
 * le maintien de la forme cellulaire. Ils forment une charpente résistante à la compression.
 * la mobilité cellulaire. Ils sont les composants des cils et des flagelles.
-* la séparation des chromosomes lors de la division cellulaire. Ils sont responsables de la formation du fuseau mitotique durant la mitose.
+* la séparation des chromosomes lors de la division cellulaire. Ils sont responsables de la formation du fuseau mitotique.
 * l'organisation cellulaire. Les organites se déplacent dans la cellule via des protéines motrices accrochées aux microtubules.
 
 ### Structure
 
-Les microtubules sont des cylindres creux d'un diamètre 25nm qui mesure entre 200nm et 25um (longueur de la cellule). Ils sont composés de tubuline (une protéine structurale) de type $\alpha$ et $\beta$.
+Les microtubules sont des cylindres creux d'un diamètre 25nm qui mesurent entre 200nm et 25um soit la longueur de la cellule. Ils sont composés de tubuline, une protéine structurale, de type $\alpha$ et $\beta$.
 
 L'agencement des molécules créé deux extrémités différentes. L'extrémité plus accumule et libère jusqu'à 4 fois plus rapidement les éléments que celle moins.
 
@@ -94,7 +74,7 @@ Les filaments intermédiaires sont les plus stables et dépendent du type cellul
 
 ### Fonctions principales
 
-* Maintien de la forme cellulaire (éléments supportant la tension)
+* Maintien de la forme cellulaire (éléments supportant la tension).
 * Fixation du noyau et de certains organites
 * Formation de la lamina nucléaire
 
@@ -121,11 +101,11 @@ L'actine représente 10% des protéines des cellules.
 
 ### Fonctions principales
 
-* Maintien de la forme cellulaire (éléments supportant la tension)
-* Modification de la forme cellulaire
-* Contraction musculaire
-* Cyclose motilité cellulaire (au moment de la formation des pseudopodes, des microfilaments d'actine aidés de filaments de myosine poussent le cytoplasme contre la membrane plasmique et déplacent ainsi la cellule)
-* Formation du sillon de division cellulaire (Cytocinèse ou cytodiérèse)
+* Maintien de la forme cellulaire (éléments supportant la tension).
+* Modification de la forme cellulaire.
+* Contraction musculaire.
+* Cyclose motilité cellulaire (au moment de la formation des pseudopodes, des microfilaments d'actine aidés de filaments de myosine poussent le cytoplasme contre la membrane plasmique et déplacent ainsi la cellule).
+* Formation du sillon de division cellulaire (cytocinèse ou cytodiérèse).
 
 ### Structure
 
@@ -259,8 +239,7 @@ Quelques grandes fonctions de microtubules :
 
 ## Les moteurs moléculaires
 
-Il existe deux types de moteurs moléculaires associés aux microtubules
-ou MAPs motrice :
+Il existe deux types de moteurs moléculaires associés aux microtubules ou MAPs motrice :
 
 * Les dynéines qui se déplacent vers l'extrémité --.
 * Les kinésines qui se déplacent vers l'extrémité +.
@@ -387,7 +366,7 @@ L'actine F est organisé par des protéines qui confèrent à l'ensemble une str
 
 * Les uns le long des autres :
 
-    * Serré parallèle lorsqu'ils sont orientés dans le même sens. 
+    * Serré parallèle lorsqu'ils sont orientés dans le même sens
     * Faisceau contractiles lorsqu'ils sont orientés en polarité inverse.
 
 * Réseau où les filament sont enchevêtrés : 
