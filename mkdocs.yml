@@ -84,6 +84,7 @@ nav:
         - "Etude des protéines" : biologie/methodes-techniques/etude_proteines.md
     - Bioinformatique :
         - "Aligner des séquences" : biologie/bioinformatique/aligner-sequences.md
+        - "Génomique" : biologie/bioinformatique/genomique.md
         - "Rechercher des séquences" : biologie/bioinformatique/rechercher-sequences.md
     - "Cellule et tissus" :
       - "Structure et fonctions" : biologie/structure-fonction-principes.md
