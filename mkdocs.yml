@@ -150,7 +150,6 @@ nav:
         - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
   - "Data Science" :
     - "Ressources" : data-science/ressources_data.md
-    - "A voir" : data-science/a-voir.md
     - "Dictionnaire Statistique" : data-science/dictionnaire-statistique.md
     - "Données non structurées" :
       - "Cartographie" : data-science/cartographie.md
