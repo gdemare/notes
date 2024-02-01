@@ -7,6 +7,9 @@ __Germinative__ adjectif pour indiquer une activité de division cellulaire.
 
 En biologie, la vie est le processus durant lequel un organisme renouvelle ses constituants en permanence c'est-à-dire de sa naissance à sa mort.
 
+!!! note
+    Le corps humain possède  de l'ordre de $10^{13} cellules.$ 
+
 La plus petite unité de la matière capable de réaliser cette tâche est la cellule. Ainsi, elle est considérée comme l'unité de base du vivant.
 
 Les cellules ont besoin d'un apport d'énergie pour réaliser les échanges de matière avec l'environnement extérieur où :
