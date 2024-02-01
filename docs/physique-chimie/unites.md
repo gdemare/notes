@@ -11,8 +11,8 @@ Centi 				| c 				| $10^2$
 Milli 				| m 				| $10^3$
 Micro 				| μ 				| $10^6$
 Nano  				| n 				| $10^9$
-Pico  				| p 				| $10^12$
-Femto  				| f 				| $10^15$
+Pico  				| p 				| $10^{12}$
+Femto  				| f 				| $10^{15}$
 
 
 ## Les unités
