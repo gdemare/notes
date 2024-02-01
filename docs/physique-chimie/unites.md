@@ -1,16 +1,19 @@
-## Unité et conversion
+## Unité du système international
 
 Unité 				| Symbole			| Grandeur
 --------------------|-------------------|-------
-kilo 				| k 				| $10^{- 3}$ 
-Hecto				| h 				| $10^{- 2}$
-Déca 				| da 				| $10^{- 1}$ 
+kilo 				| k 				| $10^{-3}$ 
+Hecto				| h 				| $10^{-2}$
+Déca 				| da 				| $10^{-1}$ 
 Unité				|  					| $10^0 = 1$
 Déci  				| d 				| $10^1$
 Centi 				| c 				| $10^2$
 Milli 				| m 				| $10^3$
 Micro 				| μ 				| $10^6$
 Nano  				| n 				| $10^9$
+Pico  				| p 				| $10^12$
+Femto  				| f 				| $10^15$
+
 
 ## Les unités
 
