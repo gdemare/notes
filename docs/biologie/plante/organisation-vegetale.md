@@ -81,9 +81,7 @@ Les étapes de la mise en place du métaxylème. Ce processus conduit à la
 mort des cellules.
 
 1.  Perforation des parois où le conduit passera.
-
 2.  Rigidification de la paroi par des dépôts de lignines
-
 3.  Dégradation des organites restants.
 
 [Rmq :]{.underline} Seule la paroi secondaire subsiste.
@@ -98,24 +96,18 @@ un tube.
 
 Les étapes de la mise en place de vaisseaux du phloème
 
-1.  Division cellulaire qui donne naissance à deux cellules : une petite
-    et une grande.
-
-2.  Agrandissement des plasmodesmes pour permettre le passage de la sève
-    élaborée. La nouvelle structure s'appelle crible.
-
-3.  Dégradation des organiques de la grande cellule mais conservation de
-    la petite qui se charge de produire les molécules nécessaire sa
-    survie de sa grande sœur.
+1. Division cellulaire qui donne naissance à deux cellules : une petite et une grande.
+2. Agrandissement des plasmodesmes pour permettre le passage de la sève élaborée. La nouvelle structure s'appelle crible.
+3. Dégradation des organiques de la grande cellule mais conservation de la petite qui se charge de produire les molécules nécessaire sa survie de sa grande sœur.
 
 ### Les tissus fondamentaux
 
 Les tissus fondamentaux sont des tissus de remplissage. Certaines
 parties peuvent être spécialisées notamment dans :
 
-|             |                  |            |
-|-------------|------------------|------------|
-| Le stockage | La photosynthèse | Le soutien |
+* Le stockage
+* La photosynthèse
+* Le soutien
 
 On trouve principalement trois tissus fondamentaux qui sont :
 
@@ -183,9 +175,8 @@ Méat espace entre les cellules dans le parenchyme.
 
 En fonction de leur position dans la plante :
 
-|                                                        |                                                        |
-|------------------------------------|------------------------------------|
-| Moelle, se situe à l'intérieur du cylindre vasculaire. | Cortex, ce situe à l'extérieur du cylindre vasculaire. |
+* Moelle, se situe à l'intérieur du cylindre vasculaire.
+* Cortex, ce situe à l'extérieur du cylindre vasculaire. |
 
 ### Tissus sécréteurs
 

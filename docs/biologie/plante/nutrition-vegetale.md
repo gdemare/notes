@@ -272,6 +272,17 @@ Les électrons sont apportés par huit molécules de ferrédoxine.
 
 En présence de dioxygène, la nitrogénase est inhibée irréversiblement.
 
+Bactérie humidité, pH,  
+Les plantes entretiennent les bactéries 
+Amonium contrôle de l’assimilation
+Nitrate la plante ne contrôle pas sont assymilation convient bien au foret ou l’azote est peut présent. 
+Terre composition agile/limon/sable
+La symbiose entre plante et chimiotrophes (bacterie) diminue lorsque la concentration d’azote augmente car en cas de la plante consacre entre 15% et 35% de l’energie produite par la photosynhtèse aux bactéries.
+Aggradation
+Fouragere riche en azote
+Reseau mycelium transmet des eau mineraux
+
+
 ## Nitrification
 
 La nitrification est réalisée par des bactéries du groupe de
@@ -333,3 +344,47 @@ La réduction de l'azote en ammonium se fait par l'utilisation de pouvoir réduc
 
 * Glutamine synthétase $NH_4^+$ sur un glutamate pour produire un glutamine.
 * Le glutamine sert de de nombreuses voies de synthèse notamment dans celle de la production de glutamate par la GOGAT.
+
+### Photosynthèse
+
+Les plantes
+Le rendement de la photosynthèse n’est pas suffisant pour permettre le mouvement notamment quand l’organisme est gros.
+La paroi qui entoure les cellules végétales est un caractère hérité des plastes qui assure la protection de la cellule.
+La vacuole est un espace de stockage qui est les déchets  
+Les plantes fixatrices d’azotes appartiennent toutes à la famille des Rosidés. Cette capacité est apparue plusieurs fois au sein de cette branche du vivant en prenant plusieurs formes. Cela suggère que cette famille possède une prédisposition génétique à établir une symbiose avec les bactéries fixatrices d’azotes. La capacité du vivant a réinventé l’existant sous une nouvelle forme.
+Il semblerait que l’arrivée des plantes sur la terre ferme fut permise par la symbiose avec des champignons du genre des gloméromycètes.
+On trouve aujourd’hui des plantes qui n’ont pas besoin n’établissent pas de symbiose avec les mycorhizes. Elles vivent principalement :
+
+* En milieu hostile ou ils ne peuvent survivre. Exemple mousse dans des endroits désertiques.
+* En milieux riche où ils ne sont pas nécessaires choux
+* En milieux pionnier ou les champignons ne sont pas encore présent.
+
+470 milliard La symbiose des début à conduit à un emballement + photosynthèse + de glucides pour les champignons + de minéraux disponibles pour les plantes
+Taux de o2 <15% 30% actuellement 21%
+Les animaux ont pu devenir + grand 
+
+370 Milliard d’années animaux sortir de l’eau
+
+
+Les ectomycorhizes sont des champignons qui se vivent autour de la racine. Ils permettent notamment :
+•	Augmenter la surface d’absorption de la plante.
+•	Filtrer les molécules toxiques.
+Filtrer les molécules toxiques
+Pour filtrer les molécules toxiques, les champignons ont recours à deux stratégies :
+•	Rejetant activement.
+•	Séquestrant dans une zone spécialisée de la cellule, la vacuole.
+!!! note
+Certaines espèces qui vivent dans des zones polluées sont toxiques car lorsqu’elles sont consommées le contenue de leur vacuole est libérée.
+« Les ennemies de mes ennemies sont mes amis » 
+Sécrètent des antibiotiques permet à la plante de notamment pour éloigner les parasites et les prédateurs et pour attirer les organismes bénéfiques comme pour se connecter aux réseaux mycorhiziens qui relient les plantes.
+Le réseau entre les plantes est créé par l’intermédiaire des champignons. Ils constituent probablement un avantage pour le champignon qui disposent d’un de multiples sources de carbones et ainsi qui ne dépend pas d’un seul individu pour se nourrir. Ce réseau permet pour les plantes :
+•	Le passage de molécules entre les plantes notamment des substances qu’elles libèrent en cas d’attaques.
+•	De consacrer moins de matière dans le développement des racines. Dans certains cas le diamètre des racines peut être diviser par 1 000.
+__Néotyphodium__ champignons qui vivent dans les tissus de leur hôte sans provoquer de dommage. Il dépend de leur hôte pour se reproduire sans dommage et confère un avantage à la plante.
+
+
+Rhizosphère l’environnement à proximité des racines constitue un écosystème différent du milieu environnant. Les Bactéries et les champignons libèrent des molécules qui interagissent avec la régulation de l’expression génétique de la plante. Elles peuvent par exemple contrôler la germination ou la floraison.
+!!! exemple
+L’absence de bactéries diminue par deux le taux de germination du soja.
+!!! note
+Toutes les plantes ne sont pas capables de vivre en absence de microbes.

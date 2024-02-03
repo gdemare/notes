@@ -246,6 +246,13 @@ __Sélection positive__ (par opposition sélection négative) sélection par la 
 
 Pour coopérer, les cellules sécrètent des molécules de signalisation qui attirent les cellules voisines. Elles forment alors des structures comme des filaments ou des biofilms avec des organisation complexes qui permettent aux nutriments atteindre les cellules intérieures et aux déchets métaboliques d'être expulsés.
 
+Comportements bactériens
+Certains comportements bactériens n’ont lieu que lorsqu’il confère un avantage. Par exemple, lorsqu’ils sont suffisamment nombreux dans le milieu.
+Par exemple : 
+•	Les yeux des certaines espèces de calamars sont bioluminescents grâce à des colonies de bactéries qui produisent de la lumière qu’une fois une certaine densité atteinte. Le calamar contrôle en expulsant 95% de la colonie une fois sa période d’activité terminé de façon à ce qu’a la fin de son temps de repos le reste de la colonie se soit suffisamment développer pour émettre de nouveau de la lumière.
+•	Même mécanisme par exemple, la production de certaines substances se fait uniquement lorsqu’une certaine densité est atteinte sinon la quantité produite ne serait pas suffisante pour atteindre le seuil d’efficacité càd le niveau de concentration où la molécule devient efficace (par exemple certains antibiotique).
+
+
 ## Les bactéries et les hommes
 
 Notre intestin contient entre 500 et 1000 espèces de bactéries. Certaines sont capables d'émettre des signaux chimiques qui activent les gènes qui fabriquent les vaisseaux sanguins.

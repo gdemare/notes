@@ -22,6 +22,22 @@ Chez l'homme moderne, le cerveau représente 3% volume du corps et consomme 25% 
 
 L'acquisition d'un tel organe a contraint nos ancêtres a passer plus de temps à rechercher de la nourriture
 
+### Le striatum
+
+Le striatum est une region du cerveau presente chez les mamifere qui est le declencheur principal des actions. Depuis son apparation, il y a 500 millions d'annees, il a constituer un avange evolutif pour la survie car il libere une hormone du plaisir nommee la dopamine lorsque l individu realisent les renforceurs primaires :
+
+* se nourri
+* se reproduire
+* collecte des informations sur son environnement
+* dominer ses semblables
+* preserver ses ressources energetique.
+
+Au cours de son histoire, l'Homme a utilise ses extraordinaires capacites mentale pour le satisfaire. Il a developpe un arsenal d'objet toujours plus complexe pour satisfaire l'appetit insatiale de son striatum. Aujourd'hui, il menace les autres etres vivants en surexploitant les ressources naturelles, poluant,...
+
+Les etudes scientifiques demontrent que les activites humaines sont a l'orgine d'une crise ecologique et climatique majeure qui pesera sur les generations futures. Pourtant, il ne fait rien car le striatum est pratique la devalorisation temporelle c'est lorsque le present est privilegie au detriment du futur meme si les consequences sont negatives.
+
+Il existe des moyens pour courtcircuiter son emprise sur nos comportements. Par exemple, la culture permettrai de changer les criteres de reussites sociales faire changer les comportements. La mediation est une bonne alternative car elle permet de diminuer l'impact du striatum au quotidien en accordant plus d'importance au cortex frontal ou siege notre conscience.
+
 ### La bipédie
 
 L'acquisition de la posture debout a permis à nos ancêtres inspecter la savane devenu un atout :
@@ -68,6 +84,13 @@ Le passage d'une espèce du milieu de la chaine alimentaire à celui de super pr
 * à l'adaptation nos processus mentaux à notre nouveau statut.
 
 Nous avons conservé les dispositions mentales qui nous d'anxiété et de peur qui nous rendent particulièrement cruel dangereux.
+
+Les microbes et le développement des sociétés humaines
+Nous dépendons des bactéries pour synthétiser certaines vitamines.
+Les microbes ont été un élément important dans le développement de la sédentarité des sociétés humaines : 
+•	Ils ont rendu comestibles des aliments notamment des graines.
+•	Permis la conservation d’aliments par leur transformation (fromage, bière…).
+
 
 ### Le feu
 

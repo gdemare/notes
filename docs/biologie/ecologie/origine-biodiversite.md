@@ -918,3 +918,16 @@ végétation dominante qui les peuplent :
 
 __Écotone__ zone de transition entre deux écosystèmes. C'est souvent une
 zone ou vivent une grande diversité d'espèces.
+
+Les pathogènes permettent à des espèces de partager la même niche écologique. Par exemple, densité des espèces dans les forêts tropicales spécificités des pathogènes. Rétroaction microbienne. La présence d’une plante favorise plus les pathogènes que les symbiontes
+Souté d’une espèce dépend de la rétroaction microbienne
+Succession passage d’une espèce à une autre.
+Beaucoup plus de domestication animale en Eurasie par rapport à l’Amérique.
+Insecte transporter un symbionte comme un champignon pour aider à attaque un arbre ou le cultiver sur un plante causa la mort de cette dernière.
+Symbiose impliquée dans la protection nutrition
+Endosymbiose symbiose où l’un des partenaires est enfermé dans l’autre
+Chez les insectes, 20% des bactéries sont héréditaires.
+Les symbioses sont classées en deux catégories :
+•	Primaire tous les individus les possèdent
+•	Secondaire seul quelques possibilité d’échange entre les espèces.
+Différents avantages divers en fonction du type mais également des désavantages exemple perte de facilité.

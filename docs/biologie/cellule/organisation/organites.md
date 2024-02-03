@@ -1,3 +1,10 @@
+Phagocytose capacité propre aux Eucaryotes indigestion … à la symbiose. Décupler les possibilités notamment d’acquérir de nouvelles voies métaboliques. Les symbiontes ont co-évolué s’influencent mutuellement deviennent dépendant transfert horizontal et coévolution fusionnelle.
+Mitochondrie couple fidèle presque jamais séparé.
+Plaste gain perte et secondaire tertiaire.
+Nous avons plusieurs ancêtre (espèces) qui se sont fondu en une seule.
+10 000 milliard de cellule chacune contient en moyenne 100 mitochondries.
+
+
 ## Les mitochondries
 
 Les mitochondries mesurent entre 0.5 et 2 µm.Elles servent principalement à produire :
