@@ -239,7 +239,9 @@ Sapiens s'est aventuré dans des contrés ou aucun groupe humain ne s'était ave
 
 Il y a 14 000 ans, les premiers hommes arrivent en Alaska et vers 11 000 ans, le réchauffements ouvrent un passage vers le reste de l'amérique.
 
-## L'Agriculture
+## Abandon du mode de vie des chasseurs cueilleurs
+
+### L'Agriculture
 
 La révolution agricole a eu lieu 9 500 et 8 500 ans à peu près au même moment dans plusieurs régions du globe.
 
@@ -252,7 +254,16 @@ Date       | Espèces domestiquées
 
 Comparé aux nombres d'espèces présentes dans la nature, seul un faible nombre a pu être domestiqué car peu d'espèces si prêtes. Elles occupent la majorité de notre alimentation puisque nous y puisons 90% des calories dans la nourriture issues d'espèces domestiquées par nos ancêtres pendant la révolution agriculture.
 
-### Le blé
+L'agriculture apporta la sédentarité. Elle contribua à :
+
+* la construction d'abris qui protection contre les animaux sauvage, le froid, la pluie.
+* une augmentation de la violence car les possessions se sont accrus.
+* les femmes eurent plus d'enfants et plusieurs à la fois car elles ne furent plus soumises à la contrainte de devoir se déplacer périodiquement.
+
+!!! note
+   Malgré qu'envrion 1/3 des enfants mourraient avant d'atteindre 20 ans, les enfants qui deviendront la main d'œuvre de demain demandent peu de nourriture et les femmes eurent plus d'enfants ce qui compensait largement le nombre de mort. 
+
+### Exemple : le blé
 
 Comment expliquer qu'une herbe insignifiante comme le blé soit devenu l'espèce végétale terrestre la plus abondante de la planète ? Comment la culture est devenue une activité permanente ?
 
@@ -282,57 +293,23 @@ Au fur et à mesure, le temps qu'il consacrèrent à la culture augmenta jusqu'�
 
 Multiplication de la production alimentaire par surface
 
-### Sédentarité
+### Conséquences
 
-L'agriculture apporta la sédentarité. Elle contribua à
+Si l'on évalue le succès au nombre de copies d'ADN d'une espèce présente sur Terre. La révolution de l'agriculture fut une réussite pour les plantes, les animaux domestiqués et les hommes.
+Mais contrairement aux végétaux, les animaux sont dotés de sensibilités et l'élevage a conduit à produire les créatures misérables qui sont abattues et sélectionnées pour dans le cadre de la recherhce d'un profit économique optimale.
 
-* la construction d'abris qui protection contre les animaux sauvage, le froid la pluie.
-* probablement une augmentation de la violence car les possessions se sont accrus.
-* les femmes eurent plus d'enfants et plusieurs à la fois car elles ne furent plus soumises à la contrainte de devoir se déplacer périodiquement.
+!!! note
+   À l'état sauvage, les animaux d'élevages ont une durée de vie de plusieurs dizaines d'année.
 
-Lorsque la population a été atteinte une certaine taille, le retour à l'état de tribus nomades ne fut plus possible.
 
-#### Démographie
+Lorsque la population a été atteinte une certaine taille, le retour à l'état de tribus nomades fut impossible car l'environnement ne contenait plus les ressources nécessaires pour répondre aux besoins du nombre d'individus.
 
-Les enfants deviendraient la main d'œuvre de demain. Les bébés demandent peu de nourriture un peu de bouilli et les enfants deviennent la main d'œuvre de demain.
-
-Environ 1/3 des enfants mourraient avant d'atteindre 20 ans.
-
-Pour compenser les morts de plus en plus d'enfants
-
-Mode luxueux deviennent nécessité et engendre des obligations. Le luxe devenait acquis
+La 
+ode luxueux deviennent nécessité et engendre des obligations. Le luxe devenait acquis
 
 Plus s'en passer
 
 Facilité réduire temps gagner du temps plus fréquent moins réfléchi perdant prend plus de temps
-
-#### Élevage
-
-Deux scénarios possibles :
-
-* Chasse des vieux et malades pour permettre au troupeau de continuer gestion durable des ressources en viande.
-* Défendre contre les prédateurs.
-
-L
-Gros limiter les pour ne garder que les individus les plus soumis et les moins curieux.
-
-Certaines bêtes ont été capturée et enfermé dans des enclos.
-
-Des captures puit sélection des mêmes critères pour la procréation
-
-Evolution de la poule des bovins cochon mouton
-
-### Agriculture et élevage
-
-Si l'on évalue le succès au nombre de copies d'ADN d'une espèce présente sur Terre. La révolution de l'agriculture fut une réussite pour les plantes et les animaux domestiqués et les hommes.
-
-Mais contrairement aux végétaux, les animaux sont dotés de sensibilités 
-
-L'élevage produisit les créatures misérables qui n'ont jamais vécu, abattu optimale pour profit économique. À l'état sauvage qui ont une durée de vie de plusieurs dizaines d'année
-
-Annihilé nature instinct social diminution de l'agression sexualité contenu liberté
-
-#### Conséquences
 
 Les groupes humains gens dans des conditions pires. D'un régime alimentaire extrêmement varié. Certaines populations ont réduit leur alimentation à un seul aliment blé riz pomme de terre Touché par la famine naissance des problèmes de santé lié au travail de la terre et à l'alimentation (carries).
 
@@ -352,6 +329,26 @@ Travailler pour assurer la sécurité future
 
 Le surplus à servie de combustible pour permettre à la politique, aux savants et à la philosophie.
 
+## L'élevage
+
+Deux scénarios possibles pour expliquer l'apparition de l'élevage :
+
+* Chasse des vieux et malades pour permettre au troupeau de continuer gestion durable des ressources en viande.
+* Défendre contre les prédateurs.
+
+L'homme a ensuite opéré à une sélection consciente des individus les plus avantageux pour ses besoins à savoir :
+
+* les plus gros.
+* les individus les plus soumis et les moins curieux càd les plus facile à surveiller.
+* A anniler l'instinct càd la social, diminuer de l'agressivité et la sexualité.
+
+Certaines bêtes ont été capturée et enfermées dans des enclos puis sélectionnées pour procréer en suivant les mêmes critères. Le temps des générations a alors conduit à l'apparition des animaux modernes tels que la poule, les bovins et les cochons ou les moutons.
+
+
+-------
+
+### Premières civilisations
+
 Le stress fonder politique système social
 
 Besoin de liens par des mythes.
@@ -362,7 +359,7 @@ Besoin de liens par des mythes.
 
 3 100 réuni partie basse du Nil en 2gypte.
 
-2 250 1^er^ empire avec des millions de
+2 250 1er empire avec des millions de
 
 1000 on a 5000 méga empire qui forme un réseau de coopération de masse dont l'ordre réside par les croyances que par les connaissances personnels.
 
@@ -377,15 +374,105 @@ Règle disposer d'une information partagée
 
 Pour les animaux sociaux, cette information se situe dans les gènes (fourmi abeille).
 
-Le cerveau stocker
+Le cerveau est limité dans sa capacité à stocker durablement de l'information :
 
-Capacité limité
+* elle disparailt au décès de l'individu
+* la mémoire peut ne pas être fidéle.
+* certains types d'information ne sont pas adaptés aux cerveaux développés pour les chasseurs cueilleurs.
 
-Le décés d'un indivud la disparition de l'information et perte et copie peut fidéle
+Pour faire fasse à ces difficultés est née apparu les premiers systèmes d'écritures entre 3 500 et 3 000 qui ont permis de dépasser les limites du cervau.
 
-Le type d'information n'est adapté aux cerveaux développés pour les chasseurs cueilleurs.
+Entre 3 500 et 3 000 les sumériens social aider à dépasser les limites du cerveau par l'utilisation de l'écriture 
 
-Entre 3 500 et 3 000 les sumériens social aider à dépasser les limites du cerveau
+Au début, l'information était facilement développée des moyens qui permettent et récupérer efficacement l'information. de cataloguer
+
+L'accumulation d'informations a fait naître de nouvelles problématiques.
+
+A noté que 
+Aucune différence significative de comportements n'a été découverte entre les races humaines. Si cela avait été le cas, les hiérarchies entre les groupes humains entre les groupes humains se seraient perpétuées dans le temps sans connaître de profonds bouleversements.
+
+Seule la biologie pourrait expliquer les différences et pas l'Histoire car ce que la biologie explique ne peut pas varier.
+
+### La position des femmes
+
+Nous ne savons pas pourquoi les femmes ont toujours eu le mauvais rôle dans les sociétés humaines. D'un point de vue évolutif, l'apparition d'hommes plus violents et plus forts aurait dû s'acoompagner par l'apparition d'un contre poids évolutif comme par :
+
+* un renforcement de la coorpération entre les femelles :
+   
+   * chez les chimpanzées, les femelles constituent une force dans l'élection du mâle dominant. 
+   * chez les éléphants, les groupes sont dirigés par des matriarches et les males sont exclus sauf au moment de la période de reproduction. 
+
+* un développement de la manipulation.
+
+Dissonance cognitives
+
+Toutes les cultures portent leurs contradictions. C'est en essayant de les concilier que né la nouveauté et l'inattendu.
+
+## Vers une culture universelle
+
+L'histoire humaine suit une direction qui est celle de la convergence des cultures humaines vers un méga unité. Aujourd'hui, tous les membres de la méga culture partagent un ensemble de visions communes qui coexistent au travers de multiples modes de vie et qui s'influencent réciproquement.
+
+On considère que la naissance de cette culture universelle fut la conséquence de la entre les zones géographiques par la colonisation du dernier endroit isolé la Tasmanie.
+
+L'exemple le plus remarquable fut celle de l'adoption d'aliments d'origine mexicaine dans de nombreuse traditions Africo-Eurasienne comme des tomates, du cacao et du pigment.
+
+Probablement de deux facteurs majeurs :
+
+* Les empires accéléraient cette tendance globale.
+* L'apparition de monnaies qui a permis d'augmenter considérablement les échanges.
+
+### La spécialisation
+
+La spécialisation a conduit à l'apparition d'un marché d'échanges.
+
+Spécialiser avoir une expertise.
+
+Les courses de la spécialisation géographique
+
+Un lieu est naturellement propice à certaines cultures.
+
+Arrivé à un certain volume
+
+### La monnaie
+
+Il n'est plus possible pour un humain de connaître la valeur des marchandises.
+
+La meilleure solution trouvée fut l'invention de la monnaie.
+
+La monnaie c'est une échelle de valeur d'échange de biens et de services. Le succès de l'argent réside dans le fait que :
+* tout le monde en veut.
+* est prêt à en accepter en échange de biens et de services.
+
+Monnaie besoin de pouvoir être 
+
+* conserver
+* transportable
+
+Système de confiance globale
+
+!!! note
+
+   La 1ère monnaie sumérienne vers 3000 ans grains volume de la valeur inhérente consommé
+
+Convertibilité confiance
+
+Loi du marché ne se prête pas aux états d'âmes et aux qualités morales.
+
+Confiance se matérialise seulement en monnaie.
+
+Il facilite :
+
+* la coopération
+* la corruption .
+
+### Les empires
+
+Les empires ont contribué à réduire la diversité et à homogénéiser les cultures humaines.
+
+Importance
+
+
+-------------
 
 Écriture de données mathématiques
 
@@ -396,69 +483,4 @@ informations qui permettent d'administrer liés par exemple aux taxes, aux posse
 
 Parallèlement, pour les mêmes motifs, les sociétés pré incas mirent au point un système qui utilisé la tapisserie appelé quipu.
 
-3000 2500 l'ajout de signes système d'écriture complet.
-
-Au début, l'information était facilement développée des moyens qui permettent et récupérer efficacement l'information. de cataloguer
-
-L'accumulation d'informations a fait naître de nouvelles problématiques.
-
-Aucune différence significative de comportements n'a été découverte entre les races humaines. Si cela avait été le cas, les hiérarchies entre les groupes humains entre les groupes humains se seraient perpétuées dans le temps sans connaître de profonds bouleversements.
-Seule la biologie pourrait expliquer les différences et pas l'Histoire car ce que la biologie explique ne peut pas varier.
-
-Nou ne savons pas pourquoi les femmes ont toujours eu le mauvais rôle dans toutes les sociétés humaines.
-
-| Homme | Violent                                            | Plus fort                                |
-|------------------------|------------------------|------------------------|
-| Femme | Apparition de matriarchie comme chez les éléphants | Développer les capacités de manipulation |
-
-Dissonance cognitives
-
-Toutes les cultures portent leurs contradictions. C'est en essayant de les concilier que né la nouveauté et l'inattendu.
-
-L'histoire humaine suit une direction qui est celle de la convergence des cultures humaines vers un méga unité. Aujourd'hui, tous les membres de la méga culture partagent un ensemble de visions communes qui coexistent au travers de multiples modes de vie s'influence réciproquement.
-
-On considère que la naissance de cette culture universelle fut la conséquence de la entre les zones géographiques par la colonisation du dernier endroit isolé la Tasmanie.
-
-L'exemple le plus remarquable fut celle de l'adoption d'aliments d'origine mexicaine dans de nombreuse traditions Africo-Eurasienne comme des tomates, du cacao et du pigment.
-
-Probablement de deux facteurs majeurs :
-
-Les empires accéléraient cette tendance globale et l'apparition de monnaies qui a permis d'augmenter considérablement les échanges.
-
-Spécialisation
-
-La spécialisation a conduit à l'apparition d'un marché d'échanges.
-Spécialiser avoir une expertise. Les courses de la spécialisation
-géographique
-
-Un lieu est naturellement propice à certaines cultures.
-
-Arrivé à un certain volume
-
-Il n'est plus possible pour un humain de connaître la valeur des
-marchandises.
-
-La meilleure solution trouvée fut l'invention de la monnaie.
-
-La monnaie c'est une échelle de valeur d'échange de biens et de
-services. Le succès de l'argent réside tout le monde en veux dont tout le monde est près à en accepter en échange de biens et de services.
-Monnaie besoin de pouvoir être conserver transportable
-
-Système de confiance globale
-
-1ère monnaie sumérienne vers 3000 ans grains volume de la valeur
-inhérente consommé
-
-Convertibilité confiance
-
-Loi du marché ne se prête pas aux états d'âmes et aux qualités morales.
-
-Confiance se matérialise seulement en monnaie.
-
-Il facilite la coopération mais effroi lorsqu'elle n'est pas à cause de son pouvoir de corruption.
-
-Les empires
-
-Les empires ont contribué à réduire la diversité et à homogénéiser les cultures humaines.
-
-Importance
+Vers 3000 2500 l'ajout de signes système d'écriture complet.
