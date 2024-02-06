@@ -1,34 +1,53 @@
-Nous vivons une epoque ou contruit autour du concept d'humanisme. Elle débute a la revolution francaise. Elle est formalisee dans la declaration des droits de l Homme. Elle a triomphe dans le monde. L'être humain est au centre des preocupations, il dispose d'un droit à la vie et la mort est considère comme une chose non souhaitable. Avec le temps, notre comprehension du monde a évolue. La connaissance a permise d'éradiauer les trois menaces qui pesaient sur la vie :
+Nous vivons une époque construite autour du concept d'humanisme.
+
+Elle débute a la révolution francaise. Elle est formalisée dans la déclaration des droits de l Homme. Elle a triomphé dans le monde. 
+
+* la dignité humaine càd que chaque personne mérite d'être traitée avec respectée et dignité idépendamment de ce qu'elle ou représente (origine, religion, etc).
+* la liberté de pensée et d'expression comme la possibilité de débatre et d'exprimer des idées sans crainte d'être cencurée.
+* l'éducation comme un moyen de développement personnel et d'émancipation.
+* la recherche de la vérité et du progrès càd la recherche de la vérité par la raison et la science et le rejet des suppertision et des prégugés.
+* l'empathie et la compassion càd qu'il encourage à se soucier de l'autre.
+
+L'être humain est au centre des préocupations, il dispose d'un droit à la vie et la mort est considère comme une chose non souhaitable. Avec le temps, notre comprehension du monde a évolue. La connaissance a permis d'éradiauer les trois menaces qui pesaient sur la vie et qui constituaient une part importante d'incertitude pour le futur.:
 
 * les épidemie.
 * les guerres.
 * la famine.
 
-Elles constituaient une part importante d'incertitude pour le futur. 
+Maintenant, l'Humanité s'est lancée dans la quête de :
 
-L'Humanité s'est lance dans la quête de l'immortalité, la divination et le bonheur. Notre comprehension du monde semble indique que l'immortalité et le bonheur sont liés des problêmes techniques physiologiques. Trois voies s'offrent à lui pour y arriver :
+* l'immortalité.
+* la divination.
+* le bonheur.
+*
+* Notre comprehension du monde semble indique que l'immortalité et le bonheur sont liés des problêmes techniques physiologiques. Trois voies s'offrent à lui pour y arriver :
 
 * le génie biologique.
 * les cyborgs.
-* les etres non organiques.
+* les êtres non organiques.
 
-Certains traités d'éthiques limitent l'utilisation de technologie pour modifier l'Humain. Il arrivera un moment ou elle seront utiliser pour nous ameliorer.
+!!! note
+    Certains traités d'éthiques limitent l'utilisation des technologies pour modifier l'Humain mais il arrivera un moment où elles seront utilisées pour nous améliorer.
 
 !!! example
     En Coree du Sud, les etudiants ont detourne l'usage d'un medicament pour doper leurs capacites mentales.
     Certains milliardaires investissent des interfaces entre les ordinateurs et le cerveau.
 
-L'Homme étudie de l'Histoire pour comprendre les choix qui s'offrent à lui et éviter les erreurs de reproduire les erreurs passées.
-Predire l'Histoire a toujours etait un echec.
+L'Homme étudie l'Histoire pour comprendre les choix qui s'offrent à lui et éviter de reproduire les erreurs passées sauf que jusqu'a maintenant prédire l'Histoire a toujours était un échec.
 
-Les théories économiques, sociale et politiques ne peuvent plus fonctionner lorsqu'elles ont été enoncées car elles changent la realisations de l'événement en éveillant les consciences.
+Généralement lorsqu'elles sont énoncées Les théories économiques, sociale et politiques ne peuvent plus fonctionner lorsqu'elles ont été enoncées car elles changent la realisations de l'événement en éveillant les consciences.
 
 !!! example
-    Les gouvernements ont pris des mesures pour éviter la révolution prolétère prédite par Karl Max.
+    Les gouvernements ont pris des mesures pour éviter la révolution des prolétères prédite par Karl Max.
 
-L'augmentation de la connaissance est une source de la complexification des systèmes. Les marchés financiers n'ont cesse de devenir des environnements de plus en plus étranges. La connaissance a permis aux acteurs d'anticiper l'évolution des tendances des marchés qui ont eux même modifier le marche.
+L'augmentation de la connaissance est une source de la complexification des systèmes. Les marchés financiers deviennet des environnements de plus en plus étranges. La connaissance a permis aux acteurs d'anticiper l'évolution des tendances des marchés qui ont eux même modifier le marche.
 
-Notre manière de pensées est conditionnée par notre époque.
+
+
+Notre manière de penser est conditionnée :
+
+* par notre époque.
+* notre langage qui 
 
 !!! note
     Le gazon est un élément superflu qui demande du travail. Cette mode est apparue au 17ème siècle chez les pourvus comme signe de richesse extérieur pour montrer qu'il était capable d'avoir des dépenses non utiles.  
