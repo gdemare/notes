@@ -1,14 +1,12 @@
 Les végétaux perçoivent et réagissent aux stimulus internes et externes.
 
-Animaux réagissent en s'approchant des favorables et s'éloignant des
-néfaste.
+Animaux réagissent en s'approchant des favorables et s'éloignant des néfastes.
 
 Plante immobile en modifiant leur croissance et leur développement
 
 Différence importante en morphologie entre les individus.
 
-Étoilement tige blanche sans feuilles pour éviter endommager limiter la
-dépense d'énergie sans produire de la chrolophylele
+Étoilement tige blanche sans feuilles pour éviter endommager limiter la dépense d'énergie sans produire de la chrolophylele
 
 Peu évaporation racine
 
@@ -26,17 +24,14 @@ Rapport entre les hormones qui détermine les réponse cellulaires
 
 Éthyline gaz provoque la perte de feuilles
 
-A l'époque des lampadaire à gaz les arbres situé à porximité perdaient
-leur feuilles.
+A l'époque des lampadaire à gaz les arbres situé à porximité perdaient leurs feuilles.
 
 Murissement
 
-NB pourquoi un fruit mur permet le murrismeent des autres méthide
-commerciale exploité cette propriété. Exemple inexpression du gène pour
-choisir quand le fruit doit murir.
+!!! note
+  Pourquoi un fruit mur permet le murrismeent des autres méthide commerciale exploité cette propriété. Exemple inexpression du gène pour choisir quand le fruit doit murir.
 
-Lumière facteur particulièrement important pour la survie la croissance
-plante sensible la direction intensité longueur d'onde (plus important)
+Lumière facteur particulièrement important pour la survie la croissance plante sensible la direction intensité longueur d'onde (plus important)
 
 2 groupes de phorécepteurs plus
 
@@ -44,15 +39,13 @@ plante sensible la direction intensité longueur d'onde (plus important)
 
 Phtorécepteur sensible à la lumière blueue crytochrome
 
-Phytocrhome rouge
+Phytochrome rouge
 
-Oscillation des processus subissent des variation au cours du jour en
-réaction au changement de température et d'humidité luminiosité
+Oscillation des processus subissent des variation au cours du jour en réaction au changement de température et d'humidité luminiosité
 
-Cycle physiologique 24h rythme circadien entre 21h et 26h qui se
-synchronise grâce à des événements externes.
+Cycle physiologique 24h rythme circadien entre 21h et 26h qui se synchronise grâce à des événements externes.
 
-Photopériodisme longueur d'onde de la nuit.
+__Photopériodisme__ longueur d'onde de la nuit.
 
 Équilibre entre deux formes d'un même récepteur.
 
