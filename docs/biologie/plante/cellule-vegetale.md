@@ -128,7 +128,7 @@ En cas de stress, les cellules augmentent le nombre d'autophagie.
 
 # La paroi
 
-Protoplaste cellule végétale sans paroi.
+__Protoplaste__ cellule végétale sans paroi.
 
 ## Les rôles de la paroi
 
@@ -192,10 +192,10 @@ Les méats permettent les passages de fluides (exemple : eau, air).
 
 La paroi primaire est composée de :
 
-* Pectine 25%
-* Hemicellulose 25%
-* Cellulose 25%
-* Autres
+* Pectine 25%.
+* Hemicellulose 25%.
+* Cellulose 25%.
+* Autres.
 
 Les pectines, l'hémicellulose, la cellulose sont des polysaccarides pariétaux c'est-à-dire des molécules dérivées du glucose.
 
@@ -209,8 +209,7 @@ La cellulose constitue la charpente pariétale (ossature de la paroi). Elle conf
 
 La cellulose est un polymère de sucre :
 
-Glycosyltransférases (CESA) protéine transmembranaire qui produit la
-cellulose.
+Glycosyltransférases (CESA) protéine transmembranaire qui produit la cellulose.
 
 Les fibres de celluloses sont associées en hexamère pour former des microfibrilles également associées en rosette. L'ensemble se déplacent sur la surface de la cellule pour former une structure ordonnée.
 
@@ -226,8 +225,8 @@ L'hémicellulose forme un réseau qui confère à la structure une résistance �
 
 Hémicellulose polymère dont l'axe principal est composé soit de
 
-* Xylose (pour les plantes dicotylédones)
-* Glucose
+* Xylose (pour les plantes dicotylédones).
+* Glucose.
 
 Le xylane est composé de la même molécule que la cellulose ce qui lui permet de s'associer facilement avec les microfibrilles.
 
@@ -237,7 +236,9 @@ Il est produit au niveau du Réticulum Endoplasmique ruGueux (REG) et expulsé d
 
 Les pectines permettent :
 
-L'adhésion cellulaire | Contrôle de la porosité (rend la paroi hydrophile). | Contrôle des molécules chargées.
+* L'adhésion cellulaire.
+* Contrôle de la porosité (rend la paroi hydrophile).
+* Contrôle des molécules chargées.
 
 Les pectines sont les constituants principaux de la lamelle moyenne. Ils se présentent sous forme de gel et ils sont produits au niveau du REG puis expulsés par exocytose. Ils sont composés d'un mélange de polysaccharides (sucres) branchés et forme un milieu très hydrophile.
 
@@ -247,10 +248,10 @@ Il existe 3 polysaccharides pectiques présent dans toutes les parois primaires�
 
 Quelques protéines pariétales notables :
 
-* Hydroxyprolines (HRGP)
+* Hydroxyprolines (HRGP).
 * Qui inhibe la plasticité du réseau polysaccharidique à la fin de la croissance cellulaire.
-* Thréonines (HTRGP)
-* Qui renforce de manière irréversible la paroi en formant des ponts iso di-tyrosines
+* Thréonines (HTRGP).
+* Qui renforce de manière irréversible la paroi en formant des ponts iso di-tyrosines.
 
 Arabino-galactates (AGPs), Glycine (GRP), Prolines (PRP).
 
@@ -259,27 +260,27 @@ Arabino-galactates (AGPs), Glycine (GRP), Prolines (PRP).
 La croissance de la plante est le résultat d'au moins un des mécanismes
 suivants :
 
-* La multiplication des cellules
-* L'agrandissement de la taille des cellules
+* la multiplication des cellules.
+* l'agrandissement de la taille des cellules.
 
 ### Division cellulaire
 
 __Méristème__ tissu végétal indifférencié dont les cellules sont capables de
-se multiplier par mitose. Il assure la formation de nouveaux
+se multiplier par mitose. Il assure la formation de nouveaux :
 
-Tissus (histogenèse)
-Organes (organogenèse).
+* Tissus (histogenèse)
+* Organes (organogenèse).
 
 Il en existe de deux types de cellules méristématiques, les méristèmes :
 
-* Racinaires
-* Caulinaires
+* racinaires
+* caulinaires
 
 Les cellules indifférenciées possèdent des :
 
-|              |            |              |
-|--------------|------------|--------------|
-| Pro vacuoles | Proplastes | Plasmodesmes |
+* provacuoles.
+* proplastes.
+* plasmodesmes.
 
 ### Agrandissement des cellules (la théorie de la croissance acide)
 
@@ -332,9 +333,9 @@ Type deux substances sont ajoutées à la paroi :
 
 La lignine est le 2ème polymère le plus abondant sur Terre. Il confère à la plante :
 
-* Un port dressé
-* Une conductance de la sève vers les parties aériennes
-* Une structure rigide et cassante |
+* Un port dressé.
+* Une conductance de la sève vers les parties aériennes.
+* Une structure rigide et cassante.
 
 C'est elle qui donne une couleur jaune marron au bois.
 
@@ -392,21 +393,19 @@ Les parties aériennes de la plante sont recouvertes de cire et de cutine pour 
 
 La subérine est une molécule imperméabilisante et protectrice qui est notamment utiliser :
 
-* Au niveau de la bande de Caspy
+* Au niveau de la bande de Caspy. Elle forme un endoderme c'est dire une paroi interne qui bloque l'apoplasme. Toutes les échanges doivent passer par les cellules.
 * En cas d'abscission.
-
-La bande de Caspy forme un endoderme c'est dire une paroi interne qui bloque l'apoplasme. Toutes les échanges doivent passer par les cellules.
-
+* 
 # Circulation et les échanges chimiques entre des cellules végétales
 
 La sève riche en minéraux remonte vers les parties aériennes de la plante par les vaisseaux de xylème et celle riche en énergie descend vers les racines par ceux du phloème.
 
 ### Plasmodesme
 
-Plasmodesme structure qui relie les cytoplasmes et régulent les échanges en ne laissant circuler que les petites molécules. |
+__Plasmodesme__ structure qui relie les cytoplasmes et régulent les échanges en ne laissant circuler que les petites molécules. |
 
 L'ensemble des plasmodesmes forment un continuum entre les cytoplasmes des cellules appelé symplasme.
 
-Symplasme continuum entre les cytoplasmes.
+__Symplasme__ continuum entre les cytoplasmes.
 
-Apoplasme Continuum vide entre les parois.
+__Apoplasme__ Continuum vide entre les parois.
