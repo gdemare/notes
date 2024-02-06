@@ -14,7 +14,7 @@ L'Humanité s'est lance dans la quête de l'immortalité, la divination et le bo
 
 Certains traités d'éthiques limitent l'utilisation de technologie pour modifier l'Humain. Il arrivera un moment ou elle seront utiliser pour nous ameliorer.
 
-!!! example, 
+!!! example
     En Coree du Sud, les etudiants ont detourne l'usage d'un medicament pour doper leurs capacites mentales.
     Certains milliardaires investissent des interfaces entre les ordinateurs et le cerveau.
 
@@ -28,9 +28,10 @@ Les théories économiques, sociale et politiques ne peuvent plus fonctionner lo
 
 L'augmentation de la connaissance est une source de la complexification des systèmes. Les marchés financiers n'ont cesse de devenir des environnements de plus en plus étranges. La connaissance a permis aux acteurs d'anticiper l'évolution des tendances des marchés qui ont eux même modifier le marche.
 
-Notre manière de pensées est conditionnée par notre epoque.
+Notre manière de pensées est conditionnée par notre époque.
 
-Le gazon est un héritage du 17ème siècle. 
+!!! note
+    Le gazon est un élément superflu qui demande du travail. Cette mode est apparue au 17ème siècle chez les pourvus comme signe de richesse extérieur pour montrer qu'il était capable d'avoir des dépenses non utiles.  
 
 ### Croyances et modes de vie
 
