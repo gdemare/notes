@@ -1,4 +1,4 @@
-Année	        | Evenement 
+Année	          | Evenement 
 ----------------|---
 1 500           | Révolution scientifique
 -10 000         | Homo sapiens est la derniere espece humaine vivante sur terre.
@@ -16,8 +16,9 @@ Année	        | Evenement
 -65 000 000	    | Apparition des chauves souris.
 -66 000 000	    | Collision avec une meteorite au Yucantan
 -130 000 000    | Apparition des abeilles.
--800 000 000    | naissance des premiers animaux.
--750 000 000	| Fragementation de Rodinia
+-370 000 000    | Les premiers animaux deviennent terrestres.
+-800 000 000    | Naissance des premiers animaux.
+-750 000 000	  | Fragementation de Rodinia
 -1 100 000 000	| Formation du super continent Rodinia
 -3 500 000 000	| association des atomes formant de grandes molecules qui conrespond a la naissance d'orgnaisme, c'est apparition de la vie :  la biologie.
 -13 449 700 000	| Combinaison de la matiere et de l'energie sous la forme d'atome puis de molecule : chimie.
