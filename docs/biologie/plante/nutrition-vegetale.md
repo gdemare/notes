@@ -7,9 +7,9 @@ Les plasmodesmes permettent des échanges entre les cellules comme de l'ARN et d
 
 Dans les plantes, trois voies où circulent les molécules :
 
-* Symplasmique à l'intérieur des parois.
-* Transcellulaire, la traverser par la paroi.
-* Apoplasmique à l'extérieur des parois.
+* symplasmique à l'intérieur des parois.
+* transcellulaire, la traverser par la paroi.
+* apoplasmique à l'extérieur des parois.
 
 C'est la membrane plasmique régule les échanges de substances.
 
@@ -19,10 +19,10 @@ Le potentiel électrique des cellules est généré par le gradient de H^+^ cont
 
 La diffusion d'eau à travers la membrane plasmique se fait par :
 
-* Diffusion
-* Les aquaporines
+* diffusion
+* les aquaporines
 
-La perméabilité des aquaporines est régulée par la concentration de $Ca^{2+}$ ou le pH. Ce mécanisme rapide à l'échelle cellulaire est trop lent à celle de l'organisme. Par exemple, pour un séquoia il faudrait plusieurs siècles pour qu'une molécule d'eau atteigne le sommet de l'arbre.
+La perméabilité des aquaporines est régulée par la concentration de $Ca^{2+}$ et le pH. Ce mécanisme rapide à l'échelle cellulaire est trop lent à celle de l'organisme. Par exemple, pour un séquoia il faudrait plusieurs siècles pour qu'une molécule d'eau atteigne le sommet de l'arbre.
 
 Sur les longues distances, le courant de masse déplace l'eau sous l'effet d'un gradient de pression. L'absence de structure dans les vaisseaux du xylème et phloème facilite le passage du courant.
 
@@ -30,9 +30,9 @@ La montée de l'eau et des minéraux absorbés par les racines dans le xylème j
 
 Les minéraux entrent dans la racine au niveau des extrémités notamment par les poils absorbants. Ils sont chargés dans la stèle au niveau de l'endoderme, comme la bande Caspary chez Dicotylédone, par un transport actif qui les concentre. Ce système actif de pompage permet de :
 
-* Sélectionner les minéraux.
-* Empêcher les molécules de retourner dans le sol.
-* Bloquer les substances toxiques.
+* sélectionner les minéraux.
+* empêcher les molécules de retourner dans le sol.
+* bloquer les substances toxiques.
 
 !!! note
     Dans les arbres avec de larges vaisseaux l'eau peut monter entre 24km/h à 72 km/h.
@@ -67,13 +67,13 @@ Pour que l'eau entre dans la plante il faut que le potentiel hydrique
 des racines soit inférieur à celui du sol
 $\psi _{plante} \lt \psi _{environnement}$. Les plantes doivent créer les conditions adéquates pour permettre à l'eau et aux minéraux de rentrer dans la racine.
 
-[Rmq :]{.underline} Les plantes classées dans trois catégories en fonction de leur tolérance à la concentration de molécules osmotiquement actives dans le sol. Pour attirer l'eau elles sont capables d'accumuler une forte concentration d'osmolites. (Halophyte \> Glycophyte résistant
-\> Glycophyte sensible).
+!!! note 
+    Les plantes peuvent être classées dans trois catégories en fonction de leur tolérance à la concentration de molécules osmotiquement actives dans le sol car pour pouvoir attirer l'eau, elles doivent être capables d'accumuler une forte concentration d'osmolites : Halophyte > Glycophyte résistante > Glycophyte sensible.
 
 Le potentiel hydrique dépend de :
 
-* La constitution du sol
-* La taille des particules
+* la constitution du sol.
+* la taille des particules.
 
 !!! note
     Plus la particule est petite plus l'eau sera retenue par le sol.
@@ -83,8 +83,7 @@ La tension exercée par une particule est :
 $$\psi _m = \frac{- 2 \cdot T}{r}$$
 
 * $r$ le rayon en $m$.
-* $T$ la tension superficielle
-en Mpa.
+* $T$ la tension superficielle en Mpa.
 
 Un sol est constitué de la combinaison de trois éléments :
 
@@ -100,9 +99,9 @@ __Humus__ couche supérieure créée et entretenue par la décomposition de la m
 
 De plus, l'humus :
 
-* Retient l'eau.
-* Est friable et aérée.
-* Riche en matière organique.
+* retient l'eau.
+* est friable et aérée.
+* riche en matière organique.
 
 L'absorption de l'eau a lieu au niveau de la racine au niveau de la zone pilifère. Les poils absorbants multiplient par 100 la surface du rhizoderme avec le substrat.
 
@@ -157,10 +156,9 @@ Les stomates sont des ouvertures qui régulent la circulation des gaz. Ils sont 
 
 Ils doivent permettre d'équilibrer les besoins en eau avec ceux de la photosynthèse.
 
-Hydathode stomate aquifère. 
+__Hydathode__ stomate aquifère. 
 
-L'importante surface et le faible volume des feuilles facilitent les échanges gazeux de la photosynthèse (libérer du $O_2$ et absorber du $CO_2$). Les importants besoins en eau sont une conséquence des échanges
-gazeux. 95% de l'eau est perdue
+L'importante surface et le faible volume des feuilles facilitent les échanges gazeux de la photosynthèse (libérer du $O_2$ et absorber du $CO_2$). Les importants besoins en eau sont une conséquence des échanges gazeux. 95% de l'eau est perdue
 
 !!! note
     La transpiration a un effet de refroidissement qui permet d'éviter la dénaturation de protéines.
@@ -211,13 +209,11 @@ Par exemple, en cas de manque d'eau, les cellules de la racine sécrètent une h
 
 ### Adaptation au stress hydrique
 
-Certaines plantes ont un métabolisme particulier appelé métabolisme d'acide des Crassulacées (CAM). Elles ouvrent leurs stomates la nuit et emmagasinent le $CO_2$ sous forme d'acide organique qu'elles utilisent la journée pour la photosynthèse. Elles évitent ainsi la perte d'eau
-lorsqu'il fait trop chaud.
+Certaines plantes ont un métabolisme particulier appelé métabolisme d'acide des Crassulacées (CAM). Elles ouvrent leurs stomates la nuit et emmagasinent le $CO_2$ sous forme d'acide organique qu'elles utilisent la journée pour la photosynthèse. Elles évitent ainsi la perte d'eau lorsqu'il fait trop chaud.
 
 # Le transport des glucides par le phloème
 
-Le transport des produits de la photosynthèse est appelé translocation. Il va des organes producteurs vers les organes consommateurs (ou cibles) les plus proches. Ces derniers varient en fonction de la saison et sont
-notamment :
+Le transport des produits de la photosynthèse est appelé translocation. Il va des organes producteurs vers les organes consommateurs (ou cibles) les plus proches. Ces derniers varient en fonction de la saison et sont notamment :
 
 * Les parties qui ont besoin d'énergie notamment les zones de croissances (méristèmes).
 * Les régions de stockage.
@@ -234,11 +230,10 @@ Les vaisseaux du xylème et du phloème étant à proximité, l'eau entre fortem
 
 # L'azote
 
-L'azote est un macroélément et un composant essentiel pour les êtres vivants. Chez les plantes, son absorption se fait au niveau de la racine par un transport actif. La concentration dans la plante étant plus forte que dans le sol. Les plantes sont capables d'assimiler l'azote sous deux
-formes :
+L'azote est un macroélément et un composant essentiel pour les êtres vivants. Chez les plantes, son absorption se fait au niveau de la racine par un transport actif. La concentration dans la plante étant plus forte que dans le sol. Les plantes sont capables d'assimiler l'azote sous deux formes :
 
 * Ion nitrate $NO_3^-$
-* Ion ammonium $NH_4^+$ ou Ammoniac $NH_3$ |
+* Ion ammonium $NH_4^+$ ou Ammoniac $NH_3$
 
 Pour l'ion nitrate, la plante a besoin de réaliser une réduction en $NH_4^+$ en avant de pouvoir l'utiliser.
 
@@ -270,7 +265,8 @@ $$N_2 + 8H^+ + 8é \rightarrow 2NH_3 + H_2 + 16ATP$$
 
 Les électrons sont apportés par huit molécules de ferrédoxine.
 
-En présence de dioxygène, la nitrogénase est inhibée irréversiblement.
+!!! note
+    En présence de dioxygène, la nitrogénase est inhibée irréversiblement.
 
 Bactérie humidité, pH,  
 Les plantes entretiennent les bactéries 
@@ -282,11 +278,7 @@ Aggradation
 Fouragere riche en azote
 Reseau mycelium transmet des eau mineraux
 
-
 ## Nitrification
-
-La nitrification est réalisée par des bactéries du groupe de
-protéobactéries. Elles sont de type Gram négatif.
 
 Ces réactions se réalisent sur la membrane :
 
@@ -295,7 +287,10 @@ Bactérie     | Description  | Réaction
 Nitrosomonas | Ammoniac en nitrite | $$NH_3 + O_2 \rightarrow NO_2^- + 3 H^+ + 2é$$
 Nitrobacter  | Nitrite en nitrate  | $$NO_2^- + H_2O \rightarrow NO_3^- +2 H^+ + 2é$$
 
-Lithotrophe assimile les minéraux organiques.
+!!! note
+    La nitrification est réalisée par des bactéries du groupe de protéobactéries. Elles sont de type Gram négatif.
+
+__Lithotrophe__ assimile les minéraux organiques.
 
 ### Dénitrification dissimilatrice
 
@@ -348,43 +343,56 @@ La réduction de l'azote en ammonium se fait par l'utilisation de pouvoir réduc
 ### Photosynthèse
 
 Les plantes
+
 Le rendement de la photosynthèse n’est pas suffisant pour permettre le mouvement notamment quand l’organisme est gros.
+
 La paroi qui entoure les cellules végétales est un caractère hérité des plastes qui assure la protection de la cellule.
 La vacuole est un espace de stockage qui est les déchets  
-Les plantes fixatrices d’azotes appartiennent toutes à la famille des Rosidés. Cette capacité est apparue plusieurs fois au sein de cette branche du vivant en prenant plusieurs formes. Cela suggère que cette famille possède une prédisposition génétique à établir une symbiose avec les bactéries fixatrices d’azotes. La capacité du vivant a réinventé l’existant sous une nouvelle forme.
+Les plantes fixatrices d’azotes appartiennent toutes à la famille des Rosidés. Cette capacité est apparue plusieurs fois au sein de cette branche du vivant en prenant plusieurs formes. Cela suggère que cette famille possède une prédisposition génétique à établir une symbiose avec les bactéries fixatrices d’azotes. La capacité du vivant a réinventer l’existant sous une nouvelle forme.
 Il semblerait que l’arrivée des plantes sur la terre ferme fut permise par la symbiose avec des champignons du genre des gloméromycètes.
-On trouve aujourd’hui des plantes qui n’ont pas besoin n’établissent pas de symbiose avec les mycorhizes. Elles vivent principalement :
+On trouve aujourd’hui des plantes qui n’ont pas besoin et n’établissent pas de symbiose avec les mycorhizes. Elles vivent principalement dans des milieux :
 
-* En milieu hostile ou ils ne peuvent survivre. Exemple mousse dans des endroits désertiques.
-* En milieux riche où ils ne sont pas nécessaires choux
-* En milieux pionnier ou les champignons ne sont pas encore présent.
+* hostiles ou les champingons ne peuvent survivre comme c'est le cas chez certaines espèces de mousses qui vivent dans des endroits désertiques.
+* riches où ils ne sont pas nécessaires choux
+* pionnier où les champignons ne sont pas encore présent.
 
 470 milliard La symbiose des début à conduit à un emballement + photosynthèse + de glucides pour les champignons + de minéraux disponibles pour les plantes
-Taux de o2 <15% 30% actuellement 21%
-Les animaux ont pu devenir + grand 
+Taux de $O_2 \lt 15%$, il a atteint 30% actuellement 21%.
+!!!
+    L'augmentation de la concentration de $O_2$ a notamment permis aux animaux de devenir plus grand.
 
-370 Milliard d’années animaux sortir de l’eau
+## Symbiose
 
+Les ectomycorhizes sont des champignons qui se vivent autour de la racine. Ils permettent :
 
-Les ectomycorhizes sont des champignons qui se vivent autour de la racine. Ils permettent notamment :
-•	Augmenter la surface d’absorption de la plante.
-•	Filtrer les molécules toxiques.
-Filtrer les molécules toxiques
+* d'augmenter la surface d’absorption de la plante.
+* de filtrer les molécules toxiques.
+
 Pour filtrer les molécules toxiques, les champignons ont recours à deux stratégies :
-•	Rejetant activement.
-•	Séquestrant dans une zone spécialisée de la cellule, la vacuole.
+* de rejet actif.
+* en séquestrant les substances toxiques dans la vacuole de la plante.
+ 
 !!! note
-Certaines espèces qui vivent dans des zones polluées sont toxiques car lorsqu’elles sont consommées le contenue de leur vacuole est libérée.
+    Certaines espèces qui vivent dans des zones polluées sont toxiques car lorsqu’elles sont consommées le contenue de leur vacuole est libérée.
+
 « Les ennemies de mes ennemies sont mes amis » 
-Sécrètent des antibiotiques permet à la plante de notamment pour éloigner les parasites et les prédateurs et pour attirer les organismes bénéfiques comme pour se connecter aux réseaux mycorhiziens qui relient les plantes.
+
+Les plantes sécrètent 
+
+* des antibiotiques qui permettent d'éloigner les parasites et les prédateurs
+* des molécules qui  attirent les organismes bénéfiques comme certaines substances qui favorise la connexion aux réseaux mycorhiziens.
+
 Le réseau entre les plantes est créé par l’intermédiaire des champignons. Ils constituent probablement un avantage pour le champignon qui disposent d’un de multiples sources de carbones et ainsi qui ne dépend pas d’un seul individu pour se nourrir. Ce réseau permet pour les plantes :
-•	Le passage de molécules entre les plantes notamment des substances qu’elles libèrent en cas d’attaques.
-•	De consacrer moins de matière dans le développement des racines. Dans certains cas le diamètre des racines peut être diviser par 1 000.
+
+* Le passage de molécules entre les plantes notamment des substances qu’elles libèrent en cas d’attaques.
+* De consacrer moins de matière dans le développement des racines. Dans certains cas le diamètre des racines peut être diviser par 1 000.
+
 __Néotyphodium__ champignons qui vivent dans les tissus de leur hôte sans provoquer de dommage. Il dépend de leur hôte pour se reproduire sans dommage et confère un avantage à la plante.
 
-
 Rhizosphère l’environnement à proximité des racines constitue un écosystème différent du milieu environnant. Les Bactéries et les champignons libèrent des molécules qui interagissent avec la régulation de l’expression génétique de la plante. Elles peuvent par exemple contrôler la germination ou la floraison.
-!!! exemple
-L’absence de bactéries diminue par deux le taux de germination du soja.
+
+!!! example
+    L’absence de bactéries diminue par deux le taux de germination du soja.
+
 !!! note
-Toutes les plantes ne sont pas capables de vivre en absence de microbes.
+    Toutes les plantes ne sont pas capables de vivre en absence de microbes.
