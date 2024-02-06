@@ -13,7 +13,7 @@ Dans les plantes, trois voies où circulent les molécules :
 
 C'est la membrane plasmique régule les échanges de substances.
 
-Le potentiel électrique des cellules est généré par le gradient de H^+^ contrairement aux animaux où c'est essentiellement Na^+^. Les stimulus électriques joueraient également un rôle dans la communication cellulaire.
+Le potentiel électrique des cellules est généré par le gradient de $H^+$ contrairement aux animaux où c'est essentiellement $Na^+$. Les stimulus électriques joueraient également un rôle dans la communication cellulaire.
 
 # Le transport de l'eau
 
