@@ -16,10 +16,8 @@ Le maintien d'un milieu interne à un coût énergétique d'autant plus importan
 
 Il existe deux manières pour maintenir un équilibre hydrique :
 
-| Osmotolérance                                                 | osmorégulation                                |
-|------------------------------------|------------------------------------|
-| Ayant la même osmolarité que leur environnement               | Régule leur osmolarité                        |
-| Plutôt les animaux qui vivent dans un milieu aquatique stable | Concerne les animaux d'eau douce et terrestre |
+* Osmotolérance ayant la même osmolarité que leur environnement Régule leur osmolarité.
+* Osmorégulation plutôt les animaux qui vivent dans un milieu aquatique stable Concerne les animaux d'eau douce et terrestre.
 
 Les invertébrés marins sont souvent de type osmotolérant.
 
@@ -27,21 +25,20 @@ Pour les Vertébrés marins osmorégulateur, l'océan est un milieu déshydratan
 
 Chez les chondrichtyen, le milieu intracellulaire est hyper-osmotique à cause de l'accumulation des déchets métaboliques comme l'urée qui ne sont pas éliminé de leur organisme. Il en résulte une entré d'eau qui est évacuée par leur organes.
 
-Pour les organismes dulcicoles milieu hypotonique ce qui provoque une entrer et une perte de solutés compensé par l'apport par la nourriture. Possède des cellules spécialisées transport actif pour maintenir une
-concentration.
+Pour les organismes dulcicoles milieu hypotonique ce qui provoque une entrer et une perte de solutés compensé par l'apport par la nourriture. Possède des cellules spécialisées transport actif pour maintenir une concentration.
 
 Saumon est capable de modifier la taille des cellules sécrétrices de sel grâce à une hormone.
 
 Milieu aquatique précaire animaux survivre à un asséchement grâce à un état
 
-Hydrobiose état d'inactivité où l'organisme perd l'eau.
+__Hydrobiose__ état d'inactivité où l'organisme perd l'eau.
 
 ## Vivre en milieu terrestre
 
 Les animaux terrestre sont menacés par la déshydratation. Un homme meurt lorsqu'il a perdu 12% de son eau. L'évolution a fait apparaitre des adaptations de type :
 
-* Physiologique comme la cuticule chez les Insectes.
-* Comportementales période d'activité la nuit
+* physiologique comme la cuticule chez les Insectes.
+* comportementales période d'activité la nuit.
 
 Les pertes dû à l'évaporation, dans les selles et l'urine sont comblées par la respiration cellulaire et l'alimentation.
 
@@ -82,16 +79,16 @@ Jusqu'à 30% structure appelée épithélium de transport échange contrecourant
 
 Lorsque les AA sont dégradés ou transformés en sucre, il y a formation d'ammoniac ($NH_3$), un composé toxique qui inhibe la phosphorylation oxydative.
 
-L'ammoniac est une substance peu soluble. Elle nécessite beaucoup d'eau pour être expulsée. Il est généralement expulsé :
+L'ammoniac est une substance peu soluble. Il nécessite beaucoup d'eau pour être expulsée. Il est généralement expulsé :
 
 * par diffusion chez les espèces aquatiques. Par exemple, les poissons l'expulsent par les branchies.
-* Convertie en substances moins dangereuses notamment chez les espèces terrestres comme :
+* convertie en substances moins dangereuses notamment chez les espèces terrestres comme :
 
-    * En urée chez les Mammifères.
-    * En Acide urique chez les Oiseaux et les Reptiles.
+    * en urée chez les Mammifères.
+    * en acide urique chez les Oiseaux et les Reptiles.
 
 !!! note
-    Certaine espèces semi aquatiques excrété l'ammoniac dans l'eau et urée terrestre (grenouille).
+    Certaine espèces semi aquatiques excrétent l'ammoniac dans l'eau et l'urée terrestre (grenouille).
 
 L'ammoniac est converti en urée au niveau du foie : $2NH_3 + CO_2$.
 
@@ -104,7 +101,7 @@ Chez les oiseaux, l'urée subit une deuxième transformation qui conduit à la f
 
 Hyper-osmotique dépend de la disposition des tubules
 
-Corrélation entre la longueur de l\'anse et le milieu
+Corrélation entre la longueur de l'anse et le milieu
 
 pas dépend d'hormone antidiurétique cerveau 'hypophyse) hypothalamus
 récepteur surveillant
@@ -149,8 +146,8 @@ La capacité des tubules à créer une urine hyper-osmotique par rapport
 
 Néphrons :
 
-* Corticaux s'avancent peu.
-* Juxtamédullaire s'enfonce profondément dans le médulla.
+* corticaux s'avancent peu.
+* juxtamédullaire s'enfonce profondément dans le médulla.
 
 La composition en molécules osmotiques peut être 4x plus concentré 300mosmol/L 1200
 
@@ -158,11 +155,9 @@ Hyper-osmotique dépend de la disposition des tubules
 
 Corrélation entre la longueur de l\'anse et le milieu.
 
-Hyper-osmotique trop de sels ou hypo 70 pas dépend d'hormone
-antidiurétique cerveau 'hypophyse) hypothalamus récepteur surveillant
+Hyper-osmotique trop de sels ou hypo 70 pas dépend d'hormone antidiurétique cerveau 'hypophyse) hypothalamus récepteur surveillant
 
-L'ADH est une hormone sécrété au niveau de l'hypothalamus appelée
-hormone antidiurétique. Une augmentation de sa concentration augmente l'absorption d'eau au niveau des reins. L'alcool agit comme un inhibiteur de cette hormone.
+L'ADH est une hormone sécrété au niveau de l'hypothalamus appelée hormone antidiurétique. Une augmentation de sa concentration augmente l'absorption d'eau au niveau des reins. L'alcool agit comme un inhibiteur de cette hormone.
 
 Diurétique substance qui augmente le volume d'urine expulsé.
 
