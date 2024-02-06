@@ -593,3 +593,1107 @@ La complexification du cerveau chez les mammifères a donné lieu à :
 
 !!! note
     La quantité de substance blanche augmente plus rapidement que la substance grise.
+
+-----
+neurobio S2
+# Physiologie
+
+Milieu intérieur milieu extracellulaire.
+
+|                | Pluricellulaire                     | Unicellulaire |
+|----------------|-------------------------------------|---------------|
+| Milieu ambiant | Milieu intérieur ou extracellulaire | Environnement |
+
+Les cellules se regroupent en tissus. Il en existe de quatre types :
+
+-   Épithélial : revêtements et glandes constitués de cellules jointives
+    reposant sur une lame basale (cellule morte).
+
+-   Musculaire responsable du mouvement des os et de certains organes.
+    Ils sont attachés aux pièces osseuses.
+
+-   Conjonctif soutien et remplissage.
+
+-   Nerveux (neurone et cellules gliales)
+
+Les niveaux d'organisation des cellules :
+
+Tissu ensemble de cellules ayant la même structure et accomplissant la
+même fonction.
+
+Organe ensemble de tissus de forme reconnaissable capable de remplir un
+ou plusieurs fonctions spécifiques.
+
+Système/appareil ensemble d'organes accomplissant une fonction (exemple
+appareil respiratoire).
+
+## Les systèmes majeurs du corps humain
+
+Il existe 11 systèmes majeurs dans le corps humain :
+
+-   Nerveux :
+
+-   Musculaire :
+
+-   Cardio-vasculaire :
+
+-   Respiratoire :
+
+-   Endocrinien (glandes) : les systèmes hormonaux du corps (sexuel,
+    glycémique, de la croissance).
+
+-   Osseux
+
+-   Tégumentaire (ongles, cheveux, peau) : protection des tissus
+    internes.
+
+-   Lymphatique et immunitaire :
+
+-   Digestif
+
+-   Urinaire
+
+-   Génital
+
+## Les régulateurs homéostatiques
+
+Les organes qui permettent l'homéostasie du corps :
+
+| Organes          | Rôles de régulation        |
+|------------------|----------------------------|
+| Reins            | Eau et sels minéraux       |
+| Peau             | Température                |
+| Foie et pancréas | Glycémie (glucose)         |
+| Poumon           | Pression partielle des gaz |
+
+## La composition du corps humain
+
+L'individu standard est défini comme une personne mesurant 1m70 et
+pesant 70kg.
+
+L'eau compose :
+
+|                  |             |             |
+|------------------|-------------|-------------|
+| Nourrisson (75%) | Femme (50%) | Homme (60%) |
+
+En vieillissant, les tissus se dessèchent et cette proportion diminue.
+
+L'eau se réparti dans le corps de la manière suivante :
+
+|                       |                       |                 |
+|-----------------------|-----------------------|-----------------|
+| Intracellulaire (77%) | Extracellulaire (33%) | Transcellulaire |
+
+Le milieu extracellulaire contient
+
+|                          |                        |
+|--------------------------|------------------------|
+| Liquide interstitiel 75% | Plasmatique (sang) 25% |
+
+Les tissus mous sont composés en moyenne de 70% d'eau dont :
+
+-   75% de la masse des muscles
+
+-   10% des tissus adipeux (graisse).
+
+### Mesurer le volume des liquides corporels
+
+L'idée est d'injecter une substance soluble dont on connait la quantité
+et de déduire le volume en fonction de sa concentration.
+
+Il est nécessaire d'attendre qu'il se répande dans le liquide considéré.
+
+En fonction de la réaction du corps :
+
+-   Le marqueur n'est pas éliminé. La concentration est la valeur à
+    l'état d'équilibre.
+
+-   Le marqueur est éliminé. La concentration est l'intersection entre
+    la droite de distribution et celle de l'élimination.
+
+Hématocrite volume occupé par les globules rouges.
+
+L'hématocrite représente 45% du volume sanguin.
+
+Plasma liquide restant après l'extraction des globules rouges. On
+l'obtient en réalisant une centrifugation.
+
+Le plasma contient notamment l'albumine.
+
+### Pression osmotique
+
+Soit deux compartiments sont séparés par une membrane perméable
+uniquement au solvant. Si l'un contient un soluté alors le solvant du
+milieu le moins concentré (hypotonique) va migrer vers celui le plus
+concentré (hypertonique).
+
+En biologie, ce phénomène se produit au niveau des cellules. Les deux
+compartiments sont le cytosol et le milieu extracellulaire séparés par
+la membrane plasmique.
+
+On mesure la concentration d'osmoles en utilisant le Mosmol (= mmol).
+
+Osmole molécule qui exerce un pouvoir d'attraction sur l'eau.
+
+Osmolarité concentration osmolaire.
+
+Hypotonique (opposition à hypertonique) pauvre en osmole.
+
+Les principales molécules osmotiques du corps sont le potassium (K^+^)
+et le sodium (Na^-^).
+
+## Le transport passif par différence électronique
+
+Les mouvements ioniques entre un milieu 1 et un milieu 2.
+
+La différence de potentiel électrique est donnée par l'équation de
+Nernst.
+
+<table>
+<colgroup>
+<col style="width: 49%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><span class="math display">$$\mathbf{E}\mathbf{=
+58.}\mathbf{log}\mathbf{(}\frac{\mathbf{\lbrack}\mathbf{C}_{\mathbf{1}}\mathbf{\rbrack}}{\mathbf{\lbrack}\mathbf{C}_{\mathbf{2}}\mathbf{\rbrack}}\mathbf{)}$$</span></td>
+<td><p>E tension d’équilibre (mV)</p>
+<p>C concentration (Mol)</p></td>
+</tr>
+</tbody>
+</table>
+
+L'intensité de cette force électrochimique (gradient électrochimique)
+correspond à la différence entre potentiel électrique du Milieu 1 et le
+potentiel d'équilibre de l'ion. Si le résultat est :
+
+|                   |                   |
+|-------------------|-------------------|
+| Positif (entrant) | Négatif (sortant) |
+
+L'intérieur de la membrane plasmique est chargé : -70mV.
+
+## Calcul de concentration
+
+|                                                                                                                                     |
+|------------------------------------------------------------------------|
+| Attention sur les % : en cas d'augmentation ou de diminution de x% alors il faut penser à faire (augmentation + quantité initiale). |
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>Méthode concentration : Pour les calculs de concentration, le
+mieux est de se ramener en volume</p>
+<p><span
+class="math display"><strong>c</strong><sub><strong>f</strong><strong>i</strong><strong>l</strong><strong>l</strong><strong>e</strong></sub><strong>v</strong><sub><strong>f</strong><strong>i</strong><strong>l</strong><strong>l</strong><strong>e</strong></sub><strong>+</strong><strong>c</strong><sub><strong>m</strong><strong>è</strong><strong>r</strong><strong>e</strong></sub><strong>v</strong><sub><strong>m</strong><strong>è</strong><strong>r</strong><strong>e</strong></sub><strong>=</strong><strong>c</strong><sub><strong>f</strong><strong>i</strong><strong>n</strong><strong>a</strong><strong>l</strong></sub><strong>v</strong><sub><strong>f</strong><strong>i</strong><strong>n</strong><strong>a</strong><strong>l</strong></sub></span></p></td>
+</tr>
+</tbody>
+</table>
+
+## Le transport vasculaire
+
+On distingue deux systèmes circulatoires dans le corps :
+
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 31%" />
+<col style="width: 49%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>La petite ou pulmonaire</th>
+<th>La grande ou systémique</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Rôle</td>
+<td>Oxygénation du sang</td>
+<td><p>Oxygénation</p>
+<p>Élimination des déchets du corps.</p></td>
+</tr>
+<tr class="even">
+<td>Composant</td>
+<td>Cœur-poumon</td>
+<td>Cœur-corps</td>
+</tr>
+</tbody>
+</table>
+
+C'est deux systèmes sont connectés au niveau du cœur.
+
+On possède trois types de canaux :
+
+|      | Veine                   | Capillaire      | Artère                 |
+|------|-------------------------|-----------------|------------------------|
+| Rôle | Apporte le sang au cœur | Zone d'échanges | Reçoit le sang du cœur |
+
+Des valves empêchent le sang de refouler.
+
+Valves tissues qui empêchent le sang de refouler.
+
+Les principaux canaux :
+
+-   Aorte (artère) Cœur → corps
+
+-   Cave (veine) Corps → cœur
+
+-   L'artère hépatique apporte les substances ingérées par l'intestin au
+    foie notamment pour l'élimination des substances toxiques.
+
+### Le cœur
+
+Le cœur est divisé en deux parties :
+
+|                                        |                                    |
+|------------------------------------|------------------------------------|
+| Droite qui reçoit le sang non oxygéné. | Gauche qui reçoit le sang oxygéné. |
+
+Chaque partie est composée de deux sous parties :
+
+|                           |                            |
+|---------------------------|----------------------------|
+| Oreillette reçoit le sang | Ventricule expulse le sang |
+
+Système coronaire système sanguin qui irrigue le cœur.
+
+## L'oxygénation des cellules
+
+L'oxygène est apporté aux cellules par l'hémoglobine qui peut se lier à
+quatre molécules d'oxygènes. L'oxygène est relâché dans les tissus grâce
+à la diminution de pression.
+
+[Rmq :]{.underline} La saturation en oxygène de l'hémoglobine est
+maximale au niveau des poumons.
+
+En cas de plus forte demande, plusieurs mécanismes permettent
+d'augmenter sa libération, càd de diminuer l'affinité de l'hémoglobine
+avec l'oxygène, notamment en :
+
+|                                                                                   |                           |                                 |
+|--------------------------------|---------------------|--------------------|
+| Diminuant le pH sanguin par la libération d'acide lactique et d'acide carbonique. | Augmentant la température | Augmentant la pression sanguine |
+
+[Rmq :]{.underline} c'est ce qui se produit lorsque l'on pratique une
+activité physique.
+
+### La produit d'énergie pendant l'effort physique
+
+Il existe trois voies métaboliques qui produisent des molécules d'ATP
+dans les cellules musculaires :
+
+<table>
+<colgroup>
+<col style="width: 24%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Voie</th>
+<th>Alactique</th>
+<th>Lactique</th>
+<th>Aérobie</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Type</td>
+<td>Anaérobie</td>
+<td>Anaérobie</td>
+<td>Aérobie</td>
+</tr>
+<tr class="even">
+<td>Substrat</td>
+<td><p>Créatine phosphate</p>
+<p>ADP</p></td>
+<td><p>ADP</p>
+<p>Glucose</p></td>
+<td><p>ADP</p>
+<p>Glucose</p></td>
+</tr>
+<tr class="odd">
+<td>Produits formés</td>
+<td><p>1 ATP</p>
+<p>Créatine</p></td>
+<td><p>2 ATP</p>
+<p>Acide lactique</p></td>
+<td><p>36 ATP</p>
+<p>H<sub>2</sub>O ; O<sub>2</sub></p></td>
+</tr>
+</tbody>
+</table>
+
+Comme pour la voie lactique, celle aérobie débute par la lyse d'une
+molécule de glucose qui produit deux ATP et deux pyruvates. Ces derniers
+sont utilisés dans les mitochondries et intégrés dans le cycle de Krebs
+pour produire 34 APT.
+
+![](media/image2.jpeg){width="3.875in" height="2.7381889763779528in"}
+
+# Neurologie
+
+## Généralités sur le système nerveux
+
+Le système nerveux (SN) est un ensemble de cellules du corps qui a pour
+fonction de recevoir et transmettre les informations du milieu
+environnant et intérieur pour s'adapter de manière consciente et
+inconsciente aux modifications.
+
+Il est composé de deux types de cellules :
+
+|                 |                            |
+|-----------------|----------------------------|
+| Neurones 10^13^ | Cellule gliales (10x plus) |
+
+Il comprend également :
+
+|                                   |                                                                   |
+|------------------------------------|------------------------------------|
+| Des réseaux de vaisseaux sanguins | Le liquide céphalo-rachidien localisé dans les cavités cérébrales |
+
+Le système nerveux se divise en deux entités :
+
+|                  |                       |
+|------------------|-----------------------|
+| SN Central (SNC) | SN Périphérique (SNP) |
+
+### Les cellules gliales
+
+Les cellules gliales ont pour rôle d'assurer le bon fonctionnement des
+neurones. Elles s'occupent de : 
+
+|         |        |          |         |
+|---------|--------|----------|---------|
+| Nourrir | Isoler | Soutenir | Réparer |
+
+Il existe cinq principaux types de cellules gliales :
+
+| Type               | Forme       | Rôle                                      |
+|----------------------|---------------|-----------------------------------|
+| Épendymaire        | Ronde       | Sécrète le LCR (liquide rachidien).       |
+| Astrocyte          | Étoile      | Nourrit, soutien et assure l'homéostasie. |
+| Microglie          | Petit       | Défend                                    |
+| Oligodendrocyte    | Asymétrique | Forme la gaine de myéline (SNC)           |
+| Cellule de Schwann | Asymétrique | Forme la gaine de myéline (SNP)           |
+
+[NB :]{.underline} l'homéostasie est le maintien des conditions du
+milieu environnant.
+
+## Le système nerveux central
+
+Dans le système nerveux central, on trouve :
+
+|                                         |                 |
+|-----------------------------------------|-----------------|
+| L'encéphale (cerveau + tronc cérébrale) | Moelle épinière |
+
+Le SNC est entouré d'un ensemble d'enveloppes appelées méninges.
+
+Acéphalie sans tête.
+
+### Les méninges
+
+Les méninges entourent tout le SNC. Ils sont composés de trois couches :
+
+1.  La dure mère collée à l'os. Elle est épaisse, résistante et de
+    nature fibreuse.
+
+2.  L'arachnoïde, fine, collée à la dure mère. Elle est invisible à
+    l'œil nu.
+
+3.  Un espace contenant du liquide céphalorachidien.
+
+4.  La pi mère collée au SNC. Elle pénètre dans les replis du SNC.
+
+Le faux cerveau est une extension de la dur mère qui sépare les
+hémisphères cérébraux.
+
+### Le cerveau
+
+Le cerveau est composé de deux parties :
+
+|               |                        |
+|---------------|------------------------|
+| Blanche axone | Grise corps cellulaire |
+
+[Nb :]{.underline} la couleur blanche est dû à la gaine de myéline.
+
+### Mise en place du SNC
+
+Le SNC est issu de la transformation de l'ectoderme (feuillet externe).
+
+Durant la phase embryonnaire, l'ectoderme va former un tube creux qui se
+subdivise :
+
+-   Rhombencéphale puis en myélencéphale et métencéphale à l'origine du
+    tronc cérébral.
+
+-   Mésencéphale à l'origine du tronc cérébral
+
+-   Prosencéphale puis en diencéphale et télencéphale à l'origine du
+    cerveau.
+
+> ![](media/image3.jpeg){width="1.9144411636045495in"
+> height="1.93043416447944in"}
+
+## Le système nerveux périphérique (SNP)
+
+Afférent qui apporte.
+
+Efférent conduisant vers.
+
+## La structure du cerveau
+
+Les mots utilisés pour décrire les formes du cerveau sont
+circonvolutions et scissures.
+
+Le cerveau est séparé par
+
+| Axe        | Zones séparées                             |
+|------------|--------------------------------------------|
+| Sagittal   | Deux hémisphères                           |
+| Coronal    | Avant/arrière au niveau du tronc cérébral. |
+| Horizontal | Dessus dessous                             |
+
+Les quatre lobes du cerveau :
+
+![](media/image4.png){width="3.0261439195100612in"
+height="2.038461286089239in"}
+
+La scissure de Rolando (sillon central) et latéral sépare le lobe
+frontal du reste du cerveau.
+
+### Le cortex
+
+Il est protégé par le cortex cérébral (dont l'étymologie signifie
+« écorce »)
+
+### Le liquide céphalorachidien (LCR)
+
+Le liquide céphalorachidien est sécrété par les épendymaires situés dans
+les ventricules dans des zones appelées plexus choroïdes. Il participe
+à :
+
+|                                          |                            |
+|------------------------------------------|----------------------------|
+| L'homéostasie et la protection cérébrale | Au transport des molécules |
+
+Chez l'Homme, il y en a environ 150 ml.
+
+Plexus choroïdes ensemble d'épendymaires qui sécrètent le LCR.
+
+Sa circulation et sa sécrétion se font au niveau de quatre cavités qui
+constituent les cavités ventriculaires. Le liquide sort par le quatrième
+ventricule.
+
+### La barrière hémato-encéphalique (BHE)
+
+La barrière hémato-encéphalique est assurée par les cellules
+endothéliale (un type de cellules gliales) qui filtrent les éléments du
+sang. Elle se trouve à la jonction des capillaires sanguins.
+
+### La circulation sanguine du SNC
+
+Chez l'Homme, le SNC consomme 20% de l'oxygène.
+
+## La moelle épinière
+
+La moelle épinière se compose en partie d'un cordon de tissus nerveux
+protégé par 31 vertèbres.
+
+La moelle épinière est divisée en cinq régions :
+
+-   Cervicale (8 paires de nerfs)
+
+-   Thoracique (12)
+
+-   Lombaire (5)
+
+-   Sacrée (5)
+
+-   Coccygienne (1)
+
+Partie rachidien (ou spinéen)
+
+La moelle épinière s'arrête au vertèbre 1 ou 2. Elle n'occupe pas toute
+la colonne vertébrale.
+
+Les 31 paires de nerfs rachidiens ou spinaux sont positionné sur une
+vertèbre et correspondent toute sauf une, à un dermatome c'est-à-dire
+une zone cutanée du corps.
+
+Dermatome zone qui correspondent à une partie cutanée.
+
+Le nerf 1 cervicale correspond à une zone profonde.
+
+Les informations :
+
+|                                             |                                                       |
+|------------------------------------|------------------------------------|
+| Sensorielles rentrent par la racine dorsale | Motrices quittent la moelle épinière par la ventrale. |
+
+### La circulation sanguine
+
+La circulation sanguine est assurée par deux systèmes complémentaires :
+
+|                                             |                          |
+|---------------------------------------------|--------------------------|
+| Spinal longitudinal (le long des vertèbres) | Radiculaire (horizontal) |
+
+## Système Nerveux Périphérique
+
+Le SNP est un ensemble de 43 nerfs rattachés au SNC :
+
+|                                           |                                         |
+|------------------------------------|------------------------------------|
+| 12 nerfs crâniens rattachés à l'encéphale | 31 nerfs rattachés à la moelle épinière |
+
+### Les nerfs crâniens
+
+Il y a 12 nerfs crâniens :
+
+|                        |                       |
+|------------------------|-----------------------|
+| 2 rattachés au cerveau | 10 au tronc cérébrale |
+
+Il est également possible de classer les nerfs en fonction de leur
+rôle :
+
+|              |           |          |
+|--------------|-----------|----------|
+| 3 sensoriels | 5 moteurs | 4 mixtes |
+
+Parmi ces 12 nerfs, 4 sont dit végétatifs (c'est-à-dire que l'on ne
+contrôle pas).
+
+### Système nerveux somatique (que l'on contrôle)
+
+Le corps cellulaire racine dorsal dans un ganglion
+
+Contrôle exercé monosynaptique
+
+### Système nerveux végétatif (ou viscéral)
+
+Le système nerveux végétatif est automne. Chaque nerf est constitué de 2
+neurones qui se relaient au niveau d'un ganglion.
+
+|                           |                            |
+|---------------------------|----------------------------|
+| Neurone pré ganglionnaire | Neurone post ganglionnaire |
+
+Le corps cellulaire du neurone pré ganglion se situe dans la colonne
+vertébrale. Seul l'axone en ressort.
+
+Il commence à la sortie de la colonne vertébrale donc seul l'axone de
+ces neurones appartiennent au SNP.
+
+Le système nerveux végétatif est composé de deux systèmes
+complémentaires :
+
+|                        |                                                              |
+|------------------------------------|------------------------------------|
+| Sympathique =\> excite | Parasympathique (« para » étym autour) =\> Régule (ralentie) |
+
+[NB :]{.underline} Tous les organes disposant de nerf parasympathique
+possèdent un nerf sympathique (la réciproque est fausse).
+
+Le système sympathique est notamment composé d'un système d'alerte
+responsable des réactions au stress.
+
+|                                                           | Sympathique                | Parasympathique                 |
+|-----------------------------|-------------------|------------------------|
+| **Neurone pré**                                           |                            |                                 |
+| *Position du corps cellulaire dans la colonne vertébrale* | Milieu                     | Tronc cérébrale ou en bas       |
+| *Neuro transmetteur*                                      | Acétylcholine              | Acétylcholine                   |
+| **Ganglion (relais)**                                     |                            |                                 |
+| *Position*                                                | À la sortie de la colonne. | Généralement à côté de l'organe |
+| **Neurone post**                                          |                            |                                 |
+| *Neuro transmetteur*                                      | Noradrénaline              | Acétylcholine                   |
+
+[Remarque :]{.underline} Le neurone post ganglionnaire des nerfs
+parasympathiques n'a pas de gaine de myéline.
+
+## Le système nerveux entérique (digestif)
+
+Il permet de contrôle les muscles intestinaux. 80% des communications
+avec le SNC circulent via le nerf vague.
+
+Le tube digestif est entouré de 2 couches de neurones (soit environ 100
+millions de neurones) appelées plexus :
+
+|              |             |
+|--------------|-------------|
+| Sous-muqueux | Myentérique |
+
+# Tronc cérébral
+
+Description du SNC du bas vers le haut
+
+### Parties issues du myélencéphale
+
+| Partie          | Impliquée dans             |
+|-----------------|----------------------------|
+| Bulbe rachidien |                            |
+| Noyaux du raphé | Phase d'éveille et sommeil |
+
+### Parties issues du métencéphale
+
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 69%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Partie</th>
+<th>Impliqué dans</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Le locus coeruleus</td>
+<td><p>Cycle veille-sommeil</p>
+<p>Permet le relâchement musculaire durant le rêve et le sommeil
+paradoxal</p></td>
+</tr>
+<tr class="even">
+<td>Le cervelet</td>
+<td><p>Les activités musculaires :</p>
+<ul>
+<li><p>Du mouvement volontaire global</p></li>
+<li><p>Tonique de la posture</p></li>
+<li><p>Réflexe du maintien de l’équilibre.</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Pont de Varole</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+[Rmq :]{.underline} c'est à partir du cervelet que l'on peut faire la
+distinction entre substance blanche et grise.
+
+### Parties issues du mésencéphale
+
+<table>
+<colgroup>
+<col style="width: 44%" />
+<col style="width: 55%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Partie</th>
+<th>Impliquée dans</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Pédoncules cérébraux</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aire tegmentale ventrale</td>
+<td>Circuit du plaisir et de la récompense (dopamine)</td>
+</tr>
+<tr class="odd">
+<td>Tectum mésencéphalique</td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Tegmentum</p>
+<p>ou Tubercules quadrijumeaux</p>
+<p>ou colliculus</p></td>
+<td><p>- Antérieurs reçoivent les informations visuelles</p>
+<p>- Postérieurs reçoivent les informations auditives</p></td>
+</tr>
+<tr class="odd">
+<td>Noyau rouge</td>
+<td>Contrôle de la tonicité</td>
+</tr>
+</tbody>
+</table>
+
+C'est le lieu également du contrôle de :
+
+|                              |                      |
+|------------------------------|----------------------|
+| La ventilation (respiration) | Du système cardiaque |
+
+La ventilation est commandée par deux systèmes :
+
+|             |              |
+|-------------|--------------|
+| Automatique | Émotionnelle |
+
+La respiration est assurée par deux types de neurones :
+
+|             |            |
+|-------------|------------|
+| Inspiration | Expiration |
+
+# Cerveau
+
+Le cerveau pèse en moyenne 1,4 Kg. Il est composé à 72% d'eau. Sa masse
+sèche contient :
+
+|                |                  |                |
+|----------------|------------------|----------------|
+| 50% de lipides | 40% de protéines | 1% de glucides |
+
+Les replis du cerveau sont appelées circonvolutions, elles augmentent la
+surface.
+
+Le cerveau s'organise en quatre parties principales appelées lobe :
+
+|         |          |           |          |
+|---------|----------|-----------|----------|
+| Frontal | Pariétal | Occipital | Temporal |
+
+## Les lobes
+
+### Le lob frontal
+
+Le lob frontal représente 1/3 du volume cérébral. Il est constitué de 3
+zones :
+
+|               |           |            |
+|---------------|-----------|------------|
+| Cortex moteur | Prémoteur | Préfrontal |
+
+Ils sont impliqués dans :
+
+|                                      |               |                |
+|--------------------------------------|---------------|----------------|
+| L'initialisation des ordres moteurs. | Planification | Autorégulation |
+
+### Le lobe pariétal
+
+|             |                   |                        |         |
+|-------------|-------------------|------------------------|---------|
+| Sensibilité | Conscience de soi | Perception sensorielle | Langage |
+
+### Le lobe occipital
+
+Le lobe occipital est essentiellement utilisé par la vision.
+
+### Le lope temporal
+
+Il est impliqué dans :
+
+|                   |                            |
+|-------------------|----------------------------|
+| La reconnaissance | L'audition et l\'olfaction |
+
+On trouve également
+
+| Partie     | Rôle                              |
+|------------|-----------------------------------|
+| Hippocampe | Mémoire                           |
+| Amygdale   | Réaction de peur et d'agressivité |
+| Wernicke   | Reconnaissance des mots           |
+
+## Diencéphale
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 74%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Partie</th>
+<th>Rôle</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Thalamus</td>
+<td><p>Intégration des informations sensorielles. Il les filtre et en
+amplifie certaines.</p>
+<p>Toutes les informations motrices passent par lui (relais).</p>
+<p>Formation de l’image du corps.</p></td>
+</tr>
+<tr class="even">
+<td>Hypothalamus</td>
+<td><p>Reçoit des informations des sens</p>
+<p>Communique avec le thalamus et les structures du système
+limbique.</p>
+<p>Régulation des grands comportements (faim, température corporelle,
+sexuel)</p></td>
+</tr>
+<tr class="odd">
+<td>Hypophyse</td>
+<td>Synthèse hormonale</td>
+</tr>
+<tr class="even">
+<td>Épiphyse ou glande pinéale</td>
+<td><p>Rythme biologique</p>
+<p>Synthèse de la mélatonine (hormone du cycle sommeil)</p></td>
+</tr>
+</tbody>
+</table>
+
+## Diencéphale et télencéphale
+
+[Les noyaux centraux entre le télencéphale motricité]{.mark}
+
+| Partie           | Rôle                            |
+|------------------|---------------------------------|
+| Noyau caudé      |                                 |
+| Striatum ventral | Qui contient le noyau accumbens |
+| Pallidum         |                                 |
+| Putamen          |                                 |
+
+Striatum ensemble formé par les noyaux lenticulaires (pallidum +
+putamen) et le noyau caudé. Il possède une région de voies de
+communication avec un aspect strié appelé nigro-strié.
+
+Lenticulaire région comprenant le pallidum et le putamen.
+
+## Télencéphale
+
+### Le système limbique
+
+Le système limbique est constitué de cortex et de noyaux. C'est
+l'interface entre les fonctions supérieures (comportements, mémoire,
+...) et les fonctions végétatives et réflexes (moteur, endocrinien,
+viscéral). Il est impliqué dans :
+
+-   Olfaction
+
+-   La formation des souvenirs à long terme
+
+-   L'organisation et la planification
+
+-   Les comportements instinctifs (soif, faim, vigilance)
+
+-   L'élaboration des émotions.
+
+Il est organisé en strates de neurones appelées cortex.
+
+<table>
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 71%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Partie</th>
+<th>Rôle</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Septum</td>
+<td>Contient notamment le noyau accumbens impliqué dans le circuit de la
+récompense.</td>
+</tr>
+<tr class="even">
+<td>Amygdale</td>
+<td>Contrôle des émotions. C’est le lieu de rencontre de nombreuses
+structures.</td>
+</tr>
+<tr class="odd">
+<td>Gyrus cingulaire ou cortex cingulaire</td>
+<td>Résolution de taches difficiles</td>
+</tr>
+<tr class="even">
+<td>Hippocampe</td>
+<td><p>Mémorisation à long terme.</p>
+<p>Les informations arrivent par l’aire entorhinale et sortent par le
+fornix. C’est un des seuls endroits où il se produit la genèse de
+neurones chez l’adulte</p></td>
+</tr>
+<tr class="odd">
+<td>Hypothalamus</td>
+<td><p>Mémoire</p>
+<p>Apprentissage spatial</p></td>
+</tr>
+<tr class="even">
+<td>Corps mamillaires</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### Le circuit de Papez
+
+Le circuit de Papez est impliqué dans :
+
+|                 |                            |
+|-----------------|----------------------------|
+| L'apprentissage | L'élaboration des émotions |
+
+Il est composé de :
+
+-   Hippocampe
+
+-   Corps mamillaire relié à l'hippocampe par le fornix
+
+-   Thalamus antérieur
+
+-   Cortex cingulaire
+
+-   Aire entorhinale
+
+## Schèma du cerveau
+
+### Coupe saggitale verticale
+
+![](media/image5.jpeg){width="5.104166666666667in"
+height="2.797483595800525in"}
+
+![](media/image6.jpeg){width="5.09375in" height="2.9583333333333335in"}
+
+### Coupe coronale verticale
+
+![](media/image7.jpeg){width="5.09375in" height="2.298431758530184in"}
+
+## Le cortex ou néo cortex
+
+Le cortex ou néo cortex est la substance grise qui entoure le cerveau.
+Elle est composée de 6 couches de cellules (de la plus externe vers la
+plus interne) :
+
+1.  Moléculaire
+
+2.  Granulaire externe
+
+3.  Cellules pyramidale petites
+
+4.  Granulaire interne
+
+5.  Pyramidales grandes
+
+6.  Cellule fusiformes polymorphes
+
+L'épaisseur des couches varie en fonction du rôle de la zone :
+
+<table>
+<colgroup>
+<col style="width: 49%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Rôle</th>
+<th>Structure</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Associative motrice et sensorielle </td>
+<td>6 couches égales</td>
+</tr>
+<tr class="even">
+<td>Moteur</td>
+<td><p>Granulaire peu développée</p>
+<p>Pyramidale développée</p></td>
+</tr>
+<tr class="odd">
+<td>Sensorielles</td>
+<td><p>Granulaire épaisse</p>
+<p>Peu pyramidale</p></td>
+</tr>
+</tbody>
+</table>
+
+## Dissymétrie fonctionnelle
+
+Le cerveau possède une symétrie anatomique mais une dissymétrie
+fonctionnelle. Pour échanger les informations, les zones cérébrales sont
+connectées par deux types de canaux :
+
+|                                                          |                                              |
+|------------------------------------|------------------------------------|
+| Faisceaux pour celles présentent dans le même hémisphère | Commissures pour celles les deux hémisphères |
+
+Les connexions emblématiques :
+
+-   La principale commissure est le corps calleux. Elle relie les lobes
+    frontaux et occipitales. Elle est composée de 800 millions d'axones
+
+-   Le faisceau arqué relie la zone du langage Broca à l'aire de
+    Wernicke.
+
+## Le neurone
+
+Schéma d'un neurone
+
+![](media/image8.png){width="3.3269225721784776in"
+height="1.7890485564304461in"}
+
+L'influe nerveux arrive par les dendrites puis est transmis par l'axone.
+
+### Le potentiel d'action d'un neurone
+
+Un neurone possède une charge négative de -70mv (potentiel de repos) qui
+s'explique par la présence plus nombreuse d'anion (ions -) dans le
+milieu intracellulaire.
+
+Dans un neurone, l'influx nerveux est la modification de la charge
+électrique :
+
+|                                           |                                                            |
+|------------------------------------|------------------------------------|
+| Temporaire càd durant une courte période. | Locale càd d'une toute petite partie du cytosol du neurone |
+
+Cette perturbation va se propager dans tout le neurone. La charge
+électrique dans le cytosol passe de -70mV à 35mV grâce à l'activation de
+pompes à sodium qui font entrer très rapidement une grande quantité de
+Na^+^ dans le neurone. L'augmentation du potentiel électrique active :
+
+|                                                                                                                  |                                                                         |
+|---------------------------------------|---------------------------------|
+| Les pompes à potassium (K^+^) locales qui viennent inhiber la charge en faisant sortir des ions K^+^ du neurone. | Les pompes à sodium voisines qui font entrer à leur tour des ions Na^+^ |
+
+L'activation et la désactivation des pompes ressemblent au déplacement
+d'une vague des dendrites vers l'axone.
+
+[NB :]{.underline} c'est pour cette raison que le sel (Na^+^) est une
+molécule importante pour le fonctionnement du cerveau. Une carence
+provoque un sous-développement des capacités cognitives de la personne
+qui est alors considérée idiote. Ce fut notamment le cas dans les
+régions pauvres en sel, comme chez les habitants des montagnes qui ont
+longtemps manqué de sel. On les qualifiait alors de « crétins des
+montagnes ».
+
+L'évènement qui provoque l'activation des premières pompes à sodium est
+l'activation de récepteurs par des neurotransmetteurs soit depuis :
+
+* La synapse d'un autre neurone.
+* Le stimulus d'un récepteur.
+
+L'intensité d'un signal est proportionnelle à la fréquence des
+impulsions électriques qui se propagent dans les neurones.
+
+----
+
+Certaines médicaments ont été détournés pour améliorer les performances cognitives comme l'apprentissage, la concentration :
+
+* la disponibilité (augmente la libération ou réduit la recapture) de neurotransmetteurs. Certains stimulants comme les amphétamines ou les traitements de l'hyperactivité.
+* le flux sanguin.
+* moduler certains processus neurologiques. 
+
+
+* L'apport en oxygène et en nutriments.
+* Eliminer les déchets.
+
+
+* Protéines
+* Fer dans les légumes à feuilles vertes.
+* B12 essentiellement dnas les produits d'origine animale. Il existe des aliments enrichis en B12 comme certaines cériales.
+* Zinc légumineuse
+
+Léguminseuse plante dont les fruits sont des gousses ou des pods. Elles sont riches en minéraux 
