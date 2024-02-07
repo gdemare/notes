@@ -9,38 +9,25 @@ __Nucléotide mono/di/triphosphate__ molécule formée d'un nucléoside et de n-
 
 L'information qui code pour la séquence d'acides aminées d'une protéine est stockée dans un gène. Pour qu'une protéine soit synthétisé, il faut :
 
-1. La transcription du gène en ARN Messager (ARNm).
-2. La traduction de l'ARNm en chaîne peptidique.
-3. La protéine adopte sa conformation fonctionnelle spontanément ou avec l'aide d'autres protéines.
+1. la transcription du gène en ARN Messager (ARNm).
+2. la traduction de l'ARNm en chaîne peptidique.
+3. la protéine adopte sa conformation fonctionnelle spontanément ou avec l'aide d'autres protéines.
 
 Les principales différences entre l'ADN et l'ARN sont :
 
 PBase Glucose
 
-Acide nuclétique    | Glucose             |
---------------------|
-ADN                 | Désoxyribose       |
-ARN                 | Ribose
-
-|               | ADN                 | ARN         |
-|---------------|---------------------|-------------|
-| Glucose       |  |       |
-| Base          | A, C, G, Thymine    | A, C, G, Uracile
-| Nbre de brins | Double              | Simple      |
+Acide nuclétique    | Glucose             | Base
+--------------------|---------------------|----
+ADN                 | Désoxyribose        | A, C, G, Thymine
+ARN                 | Ribose              | A, C, G, Uracile
 
 !!! note
-    La différence entre le sucre de l'ADN et de l'ARN porte sur un groupement OH sur le carbone 2. Le groupement empêche l'appareillement
-
-## **Nucléoside monophosphate**
-
-Phosphate + sucre b-désoxyribose + base azotée
-
-Les sucres sont :
-
-* Ribonucléotide pour l'ARN.
-* Désoxyribonucléique pour l'ADN.
+    La différence entre le sucre de l'ADN et de l'ARN porte sur le groupement OH sur le carbone 2 qui n'est pas présent dans l'ADN.
 
 ## Les bases
+
+Les bases sont comptés en millions paires de base (Mpb).
 
 Les bases sont des dérivées :
 
@@ -50,44 +37,31 @@ Les bases sont des dérivées :
 !!! note
     Pour l'ARN la thymine est remplacée par l'uracile.
 
-Les deux règles de Chargaff :
+!!! note
+    Les individus d'une espèce possèdent le même rapport de bases.
 
-* Les individus d'une espèce possèdent le même rapport de bases.
-* Les bases s'associent $A = T$ et $G = C$. Elles sont complémentaires.
+Les bases s'associent :
 
-Pour les compter on utilise souvent l'unité Mpb (Million paires de base).
+* A et T (2 Liaisons hydrogènes).
+* G et C (3 liaisons hydrogènes).
 
 $$densité\ génétique = \frac{nbre\ de\ gènes}{nbre\ de\ Mpb}$$
 
-Les deux couples ne sont pas autant stables :
-
-* A=T (2 Liaisons hydrogènes).
-* G=C (3 liaisons hydrogènes).
-
 Masse molaire des nucléotides ($g.mol^{-1}$) :
 
-|               | ARN | ADN |
-|---------------|-----|-----|
-| Monophosphate | 340 | 330 |
-| Triphostate   | 500 | 490 |
+Nucléotide    | ARN | ADN
+--------------|-----|-----
+Monophosphate | 340 | 330
+Triphostate   | 500 | 490
 
 ## L'ADN
 
 Malgré de petites différences, les individus d'une même espèce possèdent un plan d'organisation similaire. Leur plan de développement est donc :
 
-* Suffisamment souple pour expliquer la diversité des structures.
-* Il possède la capacité de répliquer.
+* suffisamment souple pour expliquer la diversité des structures.
+* possède la capacité de répliquer.
 
-L'ADN et l'ARN peuvent être :
-
-* circulaire.
-* linéaire.
-* segmenté.
-
-En fonction du nombre de brin :
-
-* monocaténaire.
-* bicaténaire.
+L'ADN et l'ARN peuvent être circulaire, linéaire ou segmenté.et les brins monocaténaire ou bicaténaire.
 
 !!! note
     Toutes les combinaisons d'ARN et d'ADN sont possibles chez les Virus.
@@ -148,11 +122,9 @@ __ADN bicaténaire__ ADN composé de deux brins.
 
 L'ADN hybridé peut adopter naturellement trois conformations :
 
-* Hélice-Beta (majoritaire)
-* A
-* Z
-
-L'hélice Beta est la structure la plus présente car c'est la plus stable. Un tour d'hélice est formé par 10 bases d'ADN et mesure 3.4nm de hauteur et à un diamètre de 20A.
+* Hélice-Beta. C'est la structure la plus présente car la plus stable. Un tour d'hélice est formé par 10 bases d'ADN et mesure 3.4nm de hauteur et à un diamètre de 20A.
+* A.
+* Z.
 
 ## Organisation du génome
 
@@ -165,15 +137,12 @@ L'hélice Beta est la structure la plus présente car c'est la plus stable. Un t
 
 On distingue deux types d'ADN :
 
-* 37,5% génique (codant).
+* 37,5% génique (codant) qui est composé de :
+
+    * 5% gènes.
+    * 95% gènes associés (séquences régulatrices et poubelles).
+
 * 62,5% intergénique (non codant).
-
-### Génique 
-
-L'ADN génique est composé de :
-
-* 5% gènes.
-* 95% gènes associés (séquences régulatrices et poubelles).
 
 !!! note
     L'homme possède environ 20 000 gènes.
@@ -182,14 +151,14 @@ L'ADN génique est composé de :
 
 L'ADN intergénique est composé de portions d'ADN :
 
-* Répétées
-* Introns qui sont les portions d'ADN transcrites en ARN mais retirées lors de l'épissage.
-* Non codant unique.
+* répétées.
+* introns qui sont les portions d'ADN transcrites en ARN mais retirées lors de l'épissage.
+* non codant unique.
 
-L'ADN répété est composé de :
+L'ADN répété est composé de répété :
 
-* Répété en tandem répété à la suite (satellite, minisatellite et microsatellite).
-* Répété dispersé présent 1 fois à différents endroits dans le chromosome (transposons, les rétrotransposons, les rétrovirus endogènes et les éléments nucléaires intercalés longs et courts).
+* en tandem répété à la suite (satellite, minisatellite et microsatellite).
+* dispersé présent une fois à différents endroits dans le chromosome (transposons, les rétrotransposons, les rétrovirus endogènes et les éléments nucléaires intercalés longs et courts).
 
 __Transposon__ élément mobile du génome.
 
@@ -197,8 +166,8 @@ __Transposase__ enzyme qui réalise le déplacement des transposons. Elle extrai
 
 Il existe deux types de transpositions :
 
-* Conservative (transfert à autre endroit).
-* Réplicative (réplique l'exemplaire).
+* conservative (transfert à autre endroit).
+* réplicative (réplique l'exemplaire).
 
 ### Satellite structuraux
 
@@ -218,10 +187,10 @@ __Cistron__ région qui code une protéine.
 
 Il existe des différences entre importantes entre les deux types de cellule. Une molécule d'ARN code pour :
 
-* Plusieurs protéines chez les Eucaryotes (Gènes polycistroniques)
-* Une seule protéine chez les Procaryotes (Gène monocistronique).
+* plusieurs protéines chez les Eucaryotes (Gènes polycistroniques).
+* une seule protéine chez les Procaryotes (Gène monocistronique).
 
-### Les types d'ARN
+### Types
 
 Quatre types d'ARN sont produits par les cellules :
 
@@ -230,7 +199,7 @@ Quatre types d'ARN sont produits par les cellules :
 * T pour transfert. Ils servent de clé pour traduire l'ARN en acides aminées.
 * I pour interférent. Ce sont de petites amorces d'ARN capable de s'hybrider avec un brin d'ARN.
 
-#### Interférent 
+#### ARN Interférent 
 
 __Endogène__ méthode de régulation de l'expression génétique. infèrent rend la séquence inactive 22 nucleotides.
 
@@ -244,14 +213,9 @@ Hybridation puis prise en charge complexe protéique clive d'ARNm/ ARN
 
 L'ARN adopte une structure dans l'espace en plusieurs étapes :
 
-* Primaire Séquence de base
-* Secondaire Appariement local
-* Tertiaire Repliement de la molécule
-
-La structure secondaire est liée à un appariement local entre les bases. Certaines zones complémentaires s'associent spontanément pour former des zones d'hybridation locales. Il existe deux types de structures secondaires :
-
-* Boucle (quelques nucléotides)
-* Tige double (100 à 1000 bases)
+* primaire Séquence de base
+* secondaire Appariement local La structure secondaire est liée à un appariement local entre les bases. Certaines zones complémentaires s'associent spontanément pour former des zones d'hybridation locales. Il existe deux types de structures secondaires ou boucle (quelques nucléotides) tige double (100 à 1000 bases)
+* tertiaire Repliement de la molécule
 
 ### Interactions ARN protéines
 
@@ -263,34 +227,34 @@ __Complexe ribonucléoprotéique__ complexe formé d'un ARNr (18S) et de 21 prot
 
 Il existe deux catégories principales de mutation :
 
-* Substitution
-* Ajout ou délétion
+* substitution
+* insertion ou délétion
 
 Les mutations par délétion ou insertion provoquent une modification importante du cadre de lecture (décalage de phase).
 
 Les mutations de substitution peuvent être :
 
-* Faux sens (change l'acide aminé)
-* Silencieuse (la redondance des codons permet de conserver l'aa)
-* Non-sens (introduit un codant non-stop)
+* faux sens (change l'acide aminé)
+* silencieuse (la redondance des codons permet de conserver l'aa)
+* non-sens (introduit un codant non-stop)
 
 ## Réplication de l'ADN
 
 La réplication de l'ADN se fait en plusieurs étapes :
 
-1.  Ouverture de la double hélice et positionnement de ADN polymérase.
-2.  Positionnement des enzymes de réplications aux quatre coins de l'œil de réplication.
-3.  Ajout des bases complémentaires
+1. Ouverture de la double hélice et positionnement de ADN polymérase.
+2. Positionnement des enzymes de réplications aux quatre coins de l'œil de réplication.
+3. Ajout des bases complémentaires
 
 La réplication de l'ADN implique deux catégories d'enzymes :
 
-* Endonucléase (couper à l'intérieur)
-* Exonucléase (couper à l'extrémité)
+* endonucléase (couper à l'intérieur)
+* exonucléase (couper à l'extrémité)
 
 Durant l'ensemble du processus des protéines vont agirent simultanément :
 
-* Topoisomérase va réguler les tensions exercées par la formation des yeux de réplication. Un des brins est cassé et déroulé avant d'être reformé.
-* Lorsque les brins sont séparés, ils ont tendance à créer des apparaimments locaux. La Protéine Single Strand Bingling empêche leurs formations.
+* topoisomérase va réguler les tensions exercées par la formation des yeux de réplication. Un des brins est cassé et déroulé avant d'être reformé.
+* lorsque les brins sont séparés, ils ont tendance à créer des apparaimments locaux. La Protéine Single Strand Bingling empêche leurs formations.
 
 ## Ouverture de l
 
@@ -405,10 +369,10 @@ Les radiations provoquent des cassures du squelette sucre phosphate et la format
 
 Les étapes principales de la réparation :
 
-1.  Reconnaissance de la séquence endommagée.
-2.  Césure
-3.  Élimination
-4.  Réparation par polymérisation
+1. reconnaissance de la séquence endommagée.
+2. césure
+3. élimination
+4. réparation par polymérisation
 
 Deux mécanismes principaux :
 
@@ -417,17 +381,17 @@ Deux mécanismes principaux :
 
 ### BER
 
-1.  ADN glycosylase extrait la base en laissant le sucre et le phosphate.
-2.  Le site de la base manquante est appelé site AP.
-3.  AP endonucléase phosphodiestérase retire le nucléotide.
-4.  ADN polymérase ajoute une nouvelle base.
-5.  ADN ligase relie deux brins d'ADN.
+1. ADN glycosylase extrait la base en laissant le sucre et le phosphate.
+2. Le site de la base manquante est appelé site AP.
+3. AP endonucléase phosphodiestérase retire le nucléotide.
+4. ADN polymérase ajoute une nouvelle base.
+5. ADN ligase relie deux brins d'ADN.
 
 ### NER
 
-1.  Nucléase rompt la liaison phosphodiester à l'extrémité de la séquence à retirer.
-2.  ADN hélicase rompt les liaisons des bases appareillées.
-3.  ADN polymérase et ADN ligase
+1. Nucléase rompt la liaison phosphodiester à l'extrémité de la séquence à retirer.
+2. ADN hélicase rompt les liaisons des bases appareillées.
+3. ADN polymérase et ADN ligase
 
 ## Les mutations
 

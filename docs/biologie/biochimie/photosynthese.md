@@ -2,8 +2,8 @@ __Métabolisme primaire__ (par opposition à métabolisme secondaire) métabolis
 
 La photosynthèse est composée de deux phases :
 
-* Photochimique. Elle doit permettre de produire de l'énergie par l'utilisation de la lumière et de l'eau sous forme de NADPH et de l'ATP pour les besoins de la plante et la fixation du carbone.
-* Le cycle de fixation du carbone ou de fabrication des glucides appelé cycle de Calvin. Il a lieu dans le stroma.
+* photochimique. Elle permet de produire de l'énergie en régénérant l'ATP et NADPH en utilisant la lumière et l'eau qui servira notamment pour la fixation du carbone.
+* le cycle de fixation du carbone ou de fabrication des glucides appelé cycle de Calvin. Il a lieu dans le stroma.
 
 !!! note
     NADP ressemble au NAD avec un groupement phosphate.
@@ -17,22 +17,20 @@ Il existe deux types de photosynthèse en présence ou de l'absence d'oxygène 
 
 La phase photochimique permet de produire à partir de la lumière :
 
-* Dans un premier temps un gradient $H^+$ dans la lumière des thylakoïdes qui sera utilisé pour fabriquer de l'ATP. Elle débute au niveau du photosystème II.
-* Un second temps du $NADP^+$ en NADPH. Son pouvoir réducteur en fait une molécule utilisée pour les réactions anaboliques. Le début est initialisé par le photosystème I.
-
-Les produits serviront notamment à produire des sucres, un des quatre principaux constituants du vivant.
+1. un gradient $H^+$ dans la lumière des thylakoïdes qui sera utilisé pour fabriquer de l'ATP. Elle débute au niveau du photosystème II.
+2. de trasnformer du $NADP^+$ en NADPH. Son pouvoir réducteur est alors utilisée pour les réactions anaboliques. La réaction débute au niveau du photosystème I.
 
 Les photosystèmes sont formés :
 
-* D'un complexe du centre réactionnel. Il est constitué de deux molécules de chlorophylles de type a sans magnésium. Grâce à l'énergie lumineuse, elles perdent un électron qu'elles regagner en oxydant une molécule d'eau ou en plastocyanine.
-* De plusieurs complexes collecteurs de lumière constitués d'environ 200 à 300 pigments. Ils élargissent le spectre et la surface de collecte de la lumière du centre réactionnel.
+* du complexe du centre réactionnel. Il est constitué de deux molécules de chlorophylle de type a sans magnésium. Grâce à l'énergie lumineuse, elles perdent un électron qu'elles regagner en oxydant une molécule d'eau ou en plastocyanine.
+* de plusieurs complexes collecteurs de lumière constitués d'environ 200 à 300 pigments. Ils élargissent le spectre et la surface de collecte de la lumière du centre réactionnel.
 
-Les pigments sont des molécules spécialisées pour capter la lumière.
+!!! note
+    Les pigments sont des molécules spécialisées pour capter la lumière.
 
 ## Les pigments
 
-Le spectre de lumière exploitée lors de la photosynthèse est contraint
-par l'utilisation de longueurs d'ondes :
+Le spectre de lumière exploitée lors de la photosynthèse est contraint par l'utilisation de longueurs d'ondes :
 
 * Supérieures à 380nm. En dessous, la lumière est filtrée par l'atmosphère et, est néfaste pour les cellules.
 * Inférieures à 750nm. Au-dessus, les ondes sont absorbées par l'eau, un constituant présent en grande quantité dans les organismes.
@@ -141,7 +139,7 @@ Conclusion : Le rendement est  $\frac{ATP}{4é} = \frac{ATP}{H^+} \cdot \frac{H
 
 ## Structure des photosystèmes
 
-La phase photochimique a lieu en deux étapes. Elles sont commencées par un photosystème qui agissent successivement et qui sont le lieu de la conversion de l'énergie lumineuse en chimique en réalisant une réduction :
+La phase photochimique a lieu en deux étapes. Elles commencent toute les deux au niveau du photosystème qui agissent successivement et qui sont le lieu de la conversion de l'énergie lumineuse en chimique en réalisant une réduction :
 
 * le photosystème II (P680).
 * le photosystème I (P700).
@@ -157,13 +155,13 @@ $$2 H_2O + énergie\ lumineuse \rightarrow O_2 + 4H^+ + 4é$$
 
 La longueur d'onde pour réaliser une oxydation de l'eau est comprise entre 660 et 680 nm. Il est composé de trois parties :
 
-* Une antenne collectrice de photons libre qui navigue dans la membrane des thylakoïdes et peut aller sur le complexe I. Il est composé de :
+* une antenne collectrice de photons libre qui navigue dans la membrane des thylakoïdes et peut aller sur le complexe I. Il est composé de :
 
-    * Des pigments associés grâce à des protéines d'amarrage.
-    * De protéines périphériques (ou distale).
+    * des pigments associés grâce à des protéines d'amarrage.
+    * de protéines périphériques (ou distales).
 
-* Un centre réactionnel composé de deux sous unités associées en dimère D1 et D2.
-* Un complexe d'oxydation de l'eau situé dans la lumière des thylakoïdes associé à un atome de manganèse (Mn).
+* un centre réactionnel composé de deux sous unités associées en dimère D1 et D2.
+* un complexe d'oxydation de l'eau situé dans la lumière des thylakoïdes associé à un atome de manganèse (Mn).
 
 Le fonction du site réactionnel
 
@@ -225,8 +223,8 @@ Les protons font tournés le rotor qui entraine le stator là ou trois sites de 
 
 L'efficacité de la photosynthèse dépend de :
 
-* La lumière.
-* La concentration de $CO_2$.
+* la lumière.
+* la concentration de $CO_2$.
 
 !!! note
     Le facteur limitant dans l'activité de photosynthèse est le $CO_2$ qui ne constitue que 3% de l'air.
@@ -274,8 +272,8 @@ La carboxylation est réalisée par la lumière par l'intermédiaire de la Rubis
 
 La réduction se déroule :
 
-1.  $APG \rightarrow ABPG$ Le transfert d'un groupement phosphate d'ATP vers APG.
-2.  $APG \rightarrow 2\ aldose\ PG$ La réduction de NADPH
+1. $APG \rightarrow ABPG$ le transfert d'un groupement phosphate d'ATP vers APG.
+2. $APG \rightarrow 2\ aldose\ PG$ la réduction de NADPH
 
 La régulation du cycle de Calvin se fait par
 
