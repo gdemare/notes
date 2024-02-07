@@ -239,8 +239,8 @@ Les activités du système hormonales sont en partie régulées par une glande s
 
 L'hypothalamus contrôle les activités d'une glande située en dessous appelé hypophyse. Elle est composée de deux lobes :
 
-* Le neurohypophyse situé à l'avant. Il emmagasine deux types d'hormones fabriquées par l'hypothalamus.
-* L'adénohypophyse situé à l'arrière. Il sécrète des hormones en fonction l'hypothalamus.
+* le neurohypophyse situé à l'avant. Il emmagasine deux types d'hormones fabriquées par l'hypothalamus.
+* l'adénohypophyse situé à l'arrière. Il sécrète des hormones en fonction l'hypothalamus.
 
 ### Hormones neurohypophysaires
 

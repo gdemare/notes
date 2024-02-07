@@ -5,12 +5,12 @@ Le muscle peut se décomposer :
 * Myofibrilles constitués par la superposition et de l'alternance de types de myofilaments :
 
     * minces formée de deux brins d'actines et d'un brin de protéines régulatrices en forme de tresse.
-    * Épais constitué de myosines.
+    * épais constitué de myosines.
 
 Les groupes de même types de myofilaments sont reliés entre eux en leur centre par :
 
-* La bande Z pour les minces.
-* La bande M pour les épais.
+* la bande Z pour les minces.
+* la bande M pour les épais.
 
 ### L'unité de base motrice : le sarcomère
 
@@ -80,16 +80,15 @@ Le filament de tropomyosine change alors de conformation et rend disponible l'ac
 
 L'énergie nécessaire à la contraction doit nécessairement être convertie sous forme d'ATP. La cellule dispose d'énergie sous forme :
 
-* D'ATP pour 6 secondes de contraction.
-* De phosphocréatine peut fournir entre 15 à 30 secondes.
-* De glycogène (qui représente 1% de la masse musculaire). L'énergie est libérée par la glycolyse et la respiration cellulaire.
+* d'ATP pour 6 secondes de contraction.
+* de phosphocréatine peut fournir entre 15 à 30 secondes.
+* de glycogène (qui représente 1% de la masse musculaire). L'énergie est libérée par la glycolyse et la respiration cellulaire.
 
 ## Le contrôle de la contraction musculaire
 
 La contraction musculaire est provoquée par la libération d'acétylcholine (un neurotransmetteur) par des neurones moteur. En se fixant aux récepteurs membranaire de la fibre musculaire, elle génère un potentiel d'action qui se propage dans le cytosol par des tubules transverses (appelés aussi tubules T) jusqu'au réticulum sarcoplasmique. Le potentiel déclenche l'activation de canaux tension-dépendant qui libèrent des ions $Ca^{2+}$ dans le cytosol.
 
-__Réticulum sarcoplasmique__ réticulum endoplasmique spécialisé dans le
-stockage des ions $Ca^{2+}$.
+__Réticulum sarcoplasmique__ réticulum endoplasmique spécialisé dans le stockage des ions $Ca^{2+}$.
 
 Une fois le potentiel dissipé, un transport actif transporte les ions $Ca^{2+}$ vers le réticulum sarcoplasmique.
 
@@ -100,8 +99,8 @@ Une fois le potentiel dissipé, un transport actif transporte les ions $Ca^{2+}$
 L'intensité de la contraction musculaire peut être modifiée en
 contrôlant :
 
-* La fréquence des contractions
-* Le nombre de fibres impliquées.
+* la fréquence des contractions.
+* le nombre de fibres impliquées.
 
 Si la fréquence est suffisamment rapide pour empêcher le relâchement des fibres entre chaque salve, les simulations s'additionnent en une seule contraction appelée tétanie.
 

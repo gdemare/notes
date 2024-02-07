@@ -1,11 +1,11 @@
-Les éléments dont ont besoins une cellule pour survivre dépend de son type. La sélection de types cellulaires se fait par la composition du milieu.
+Les éléments dont ont besoins une cellule pour survivre dépendent de son type. La sélection de types cellulaires se fait par la composition du milieu.
 
 ## Milieu de culture
 
 Le milieu est composé :
 
-* D'un milieu nutritif (généralement du DMEM). Certains nutriments vitaux comme le glutamate, un aa, ont une durée de demi-vie faible. Il faut soit en ajouter régulièrement soit utiliser des dérivés plus stables comme le GLutamax.
-* Du sérum animal (par exemple veau ou cheval) qui apporte de nombreuses molécules annexes comme des facteurs de croissances, des acides gras, du fer... Le sérum a une composition variable.
+* d'un milieu nutritif (généralement du DMEM). Certains nutriments vitaux comme le glutamate, un aa, ont une durée de demi-vie faible. Il faut soit en ajouter régulièrement soit utiliser des dérivés plus stables comme le GLutamax.
+* du sérum animal (par exemple de veau ou de cheval) qui apporte de nombreuses molécules annexes comme des facteurs de croissances, des acides gras, du fer... Le sérum a une composition variable.
 * Antibiotiques (comme la pénicillines et la streptomycine) pour prévenir du développement bactérien.
 
 Rappel : Osmolarité des cellules animales 300mOsmol/L.
@@ -15,24 +15,22 @@ __Lignée cellulaire__ cellule rendue immortelle.
 __Coat__ substrat qui facilite l'adhésion composant de la MEC appelé.
 
 !!! note
-    La glutamine est impliquée dans de nombreux processus notamment dans la fabrication des pyrimidines et de la purine (les précurseurs des nucléosides). Mais elle est extrêmement labile. Son temps de demi-vie est très faible et Trop délétère car il se transforme en ammoniac.
+    La glutamine est impliquée dans de nombreux processus notamment dans la fabrication des pyrimidines et de la purine (les précurseurs des nucléosides). Mais elle est extrêmement labile. Son temps de demi-vie est très faible et trop délétère car il se transforme en ammoniac.
 
 __Confluence__ proportion de cellules ayant adhérée au support. % de l'espace occupé par les cellules.
 
-pH tendance à basique en division importante pensez à acidifier le
-milieu. Dans les incubateurs, le pH est maintenu par la présence de
-CO~2~.
+pH tendance à basique en division importante pensez à acidifier le milieu. Dans les incubateurs, le pH est maintenu par la présence de $CO_2$.
 
 ## Isoler les cellules
 
 Pour isoler un type cellulaire, il existe deux techniques :
 
-* Par explant. Des cellules émergent de l'explant.
-* Par digestion enzymatique. On digère les composants pour dissocier les cellules et les isoler.
+* par explant. Des cellules émergent de l'explant.
+* par digestion enzymatique. On digère les composants pour dissocier les cellules et les isoler.
 
 L'amplification de la culture d'un type passe par la composition du milieu.
 
-1. Faire adhérer les cellules
+1. Faire adhérer les cellules.
 2. Migration et prolifération (dynamisme du cytosquelette, intégrine).
 
 !!! note
@@ -42,8 +40,8 @@ L'amplification de la culture d'un type passe par la composition du milieu.
 
 Pour conserver les cellules, elles sont congelées. Les paramètres à surveiller sont :
 
-* La vitesse de congélation qui vitesse d'apparition des cristaux augmentent intracellulaire.
-* Utiliser des agents de cryoprotecteurs comme le DMSO ou le glycérol qui abaisse le point de congélation de l'eau.
+* la vitesse de congélation qui vitesse d'apparition des cristaux augmentent intracellulaire.
+* utiliser des agents de cryoprotecteurs comme le DMSO ou le glycérol qui abaissent le point de congélation de l'eau.
 
 !!! note
     Les cristaux de glace sont constitués d'eau pur.
@@ -53,19 +51,18 @@ Pour conserver les cellules, elles sont congelées. Les paramètres à surveille
 
 Les cellules doivent être :
 
-* décongelées rapide pour limiter l'impact des cristaux
-* dilution pour limiter les effets du DMSO.
+* décongelées rapidement pour limiter l'impact des cristaux.
+* d pour limiter les effets du DMSO.
 
 ## Fluorescence
 
 ### La Green Fluorescence Protein (GFP)
 
-La GFP généralement est utilisé pour former un protéine chimérique est
-fabriqué vivo. Elle peut servir à
+La GFP généralement est utilisé pour former des protéines chimériques est fabriquée vivo. Elle peut servir à
 
-* Suivre le trajet de protéines dans la cellule.
-* Déterminer la localisation d'une protéine.
-* Mesure du pH.
+* suivre le trajet de protéines dans la cellule.
+* déterminer la localisation d'une protéine.
+* mesurer du pH.
 
 La GFP est composé de :
 
@@ -74,8 +71,8 @@ La GFP est composé de :
 
 La GFP présente plusieurs avantage :
 
-* Résistance à la modification du pH (protonation).
-* Résiste à la présence d'agents dénaturants.
+* résistance à la modification du pH (protonation).
+* résiste à la présence d'agents dénaturants.
 
 !!! warning
     Le pic d'excitation est situé à 395nm dans la lumière UV, ce qui peut endommager la cellule.
@@ -102,12 +99,12 @@ Pour estimer la mort cellulaire, on peut utiliser des substances comme :
 * Iodure de propidium, un intercalant d'ADN.
 * Annexine qui a une affinité avec les phosphatidylsérines. Elle est utilisée pour marquer l'apoptose.
 
-# Culture bactérienne
+## Culture bactérienne
 
-## Culture en milieu solide
+### En milieu solide
 
 Dilution puis étalement sur une boîte de pétri. Les boites doivent être incubées à l'envers pour éviter que les gouttes de condensation tombent et dispersent les colonies.
 
-## Culture en milieu liquide
+### En milieu liquide
 
 La culture en milieu liquide nécessite d'utiliser un agitateur pour faciliter les échanges gazeux.
