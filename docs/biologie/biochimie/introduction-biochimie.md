@@ -102,15 +102,15 @@ __Déshydratation__ perte d'une molécule d'eau pour créer une liaison covalent
 
 Les réactions chimiques peuvent être distinguées en
 
-* Anabolisme (synthèse de molécules)
-* Catabolisme (dégradation des molécules)
+* anabolisme (synthèse de molécules)
+* catabolisme (dégradation des molécules)
 
 ### Catabolisme
 
 Le catabolisme répond à deux objectifs
 
-* Détruire les protéines pour adapter l'état cellulaire.
-* Contribuer au renouvellement cellulaire.
+* détruire les protéines pour adapter l'état cellulaire.
+* contribuer au renouvellement cellulaire.
 
 Protéasomes (1% protéines cellulaires) complexe protéinique en forme de cylindre avec un site de catalytique au centre. Il est chargé de dégrader les protéines :
 
