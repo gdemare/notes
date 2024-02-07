@@ -1,9 +1,4 @@
-# Classification (taxonomie)
-
-En 2020, on était 1.5 millions d'espèces ont été décrites. On estime
-qu'il en reste ?? à découvrir.
-
-Les relations esp
+En 2020, on était 1.5 millions d'espèces ont été décrites. On estime qu'il en reste ?? à découvrir.
 
 ### Règle d'écriture des espèces
 
@@ -14,46 +9,37 @@ Domaine \> Règne \> Embranchement \> Classe \> Ordre \> Famille \> Genre
 
 La nomenclature binomiale permet de nommer les espèces :
 
-| *Genre*  | *espèce*   | Descripteur   |
-|----------|------------|---------------|
-| *Messor* | *barbarus* | (Linné, 1767) |
+*Genre*  | *espèce*   | Descripteur
+---------|------------|-------------
+*Messor* | *barbarus* | (Linné, 1767)
 
-[NB :]{.underline} en écriture manuscrite, on remplace l'italique par le
-surlignage.
+!!! note
+    En écriture manuscrite, on remplace l'italique par le surlignage.
 
-Les groupes para phylétique ne prennent pas de majuscules.
+Les groupes para phylétiques ne prennent pas de majuscules.
 
 ## Les principaux règnes 
 
-Le vivant se divise en trois domaines :
+Le vivant se divise en trois régnes :
 
-|           |        |          |
-|-----------|--------|----------|
-| Eucaryote | Archée | Bactérie |
+* Eucaryote
+* Archée
+* Bactérie
 
-Nb : les archées et les bactéries sont des procaryotes.
+!!! note
+    Les Archées et les Bactéries sont également appelé procaryotes.
 
 ## Les eucaryotes
 
 Les sept principaux règnes chez les cellules eucaryotes :
 
--   Plantes (plante terrestre)
-
--   Rhizaire morphologie amiboïde.
-
--   Hétérodontes (algues brunes) deux flagelles avec des structures
-    différentes.
-
--   Alvéolé vésicules sous membranaire (juste après la membrane
-    plasmique.
-
--   Excavés organisme unicellulaire et hétérotrophe qui possède une zone
-    creusée qui permet l'ingestion appelée cytostome.
-
--   Amœbozoaires
-
--   Opisthocontes (*Opisthokonta*) un unique flagelle postérieur. On y
-    trouve notamment les animaux et les champignons.
+* Plantes (plante terrestre)
+* Rhizaire morphologie amiboïde.
+* Hétérodontes (algues brunes) deux flagelles avec des structures différentes.
+* Alvéolé vésicules sous membranaire, juste après la membrane plasmique.
+* Excavés organisme unicellulaire et hétérotrophe qui possède une zone creusée qui permet l'ingestion appelée cytostome.
+* Amœbozoaires
+* Opisthocontes (*Opisthokonta*) un unique flagelle postérieur. On y trouve notamment les animaux et les champignons.
 
 Dans l'arbre du vivant, un groupe d'espèces est caractérisé de :
 
@@ -64,13 +50,11 @@ Dans l'arbre du vivant, un groupe d'espèces est caractérisé de :
 
 ### Vocabulaire
 
-Homologue caractère attribuable à un ancêtre.
+__Homologue__ caractère attribuable à un ancêtre.
 
-Analogue caractère acquis indépendamment. C'est lié à la convergence
-évolutive.
+__Analogue__ caractère acquis indépendamment. C'est lié à la convergence évolutive.
 
-Caractère dérivée (opposé caractère ancestral) caractère apparu après un
-ancêtre commun.
+__Caractère dérivée__ (opposé caractère ancestral) caractère apparu après un ancêtre commun.
 
 # La reproduction dans le vivant
 
@@ -79,24 +63,19 @@ cellules impliquées dans la multiplication.
 
 Il existe deux de reproduction dans le vivant :
 
-|                       |                |
-|-----------------------|----------------|
-| Sexué (recombinaison) | Asexué (copie) |
+* sexué (recombinaison).
+* asexué (copie).
 
-Le passage d'une cellule diploïde vers un cellule haploïde se fait par
-méiose. Ce mécanisme est :
+Le passage d'une cellule diploïde vers un cellule haploïde se fait par méiose. Ce mécanisme est :
 
-|              |               |
-|--------------|---------------|
-| Réductionnel | Équationnelle |
+* réductionnel
+* équationnelle
 
-Une cellule diploïde se divise successivement 2 fois en quatre cellules
-haploïdes appelées méiospores.
+Une cellule diploïde se divise successivement 2 fois en quatre cellules haploïdes appelées méiospores.
 
 ## Reproduction sexuée
 
-La reproduction sexuée est la fusion de deux cellule haploïdes appelées
-gamètes. Elle comprend 2 étapes :
+La reproduction sexuée est la fusion de deux cellule haploïdes appelées gamètes. Elle comprend 2 étapes :
 
 |                                |                                      |
 |--------------------------------|--------------------------------------|
@@ -106,12 +85,10 @@ La cellule obtenue est appelée zygote.
 
 Les gamètes peuvent être produites soit :
 
-|                           |             |
-|---------------------------|-------------|
-| Directement par la méiose | Gamétocyste |
+* Directement par la méiose
+* Gamétocyste
 
-Gamétocyste structure cellulaire qui produit et contient les cellules
-sexuelles (gamètes).
+__Gamétocyste__ structure cellulaire qui produit et contient les cellules sexuelles (gamètes).
 
 ## Reproduction asexuée
 
@@ -124,7 +101,8 @@ La reproduction asexué (ou copie) peut avoir lieu avec des cellules :
 | Qui produisent reproductrices                      | Gamétocyste | Sporocyste        |
 | Reproductrices produites                           | Gamète      | Spore             |
 
-[NB :]{.underline} un cyste est une cellule qui en contient plusieurs.
+!!! 
+    -cyste est une cellule qui en contient plusieurs.
 
 ### Nommer les cycles de vie
 
