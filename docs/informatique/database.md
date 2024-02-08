@@ -87,7 +87,7 @@ Non structurées | Image, son, vidéo
 
 Les types de tables :
 
-* De dimensions, table qui contient les informations décrivent l'enregistrement de la table de fait. Elles servent notamment à filtrer les données de la table de fait.
+* De dimensions, table qui contient les informations qui décrivent l'enregistrement de la table de fait. Elle sert notamment à filtrer les données de la table de fait.
 * De fait, table qui contient les indicateurs et les données mesurables sur les faits et les événements.
 
 !!! note
