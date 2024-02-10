@@ -87,7 +87,7 @@ Non structurées | Image, son, vidéo
 
 Les types de tables :
 
-* De dimensions, table qui contient les informations décrivent l'enregistrement de la table de fait. Elles servent notamment à filtrer les données de la table de fait.
+* De dimensions, table qui contient les informations qui décrivent l'enregistrement de la table de fait. Elle sert notamment à filtrer les données de la table de fait.
 * De fait, table qui contient les indicateurs et les données mesurables sur les faits et les événements.
 
 !!! note
@@ -105,12 +105,11 @@ Cela s'effectue en :
 
 Un modèle Conceptuel de Données est constitué de : 
 
-* Entité : objet à modéliser.
-* Entité est caractérisée par des propriétés.
+* Entité (objet à modéliser) est caractérisée par des propriétés.
 
-	* Si une des propriété est unique et discriminante, elle est nommée identifiant
-	* Un individu d'une entité s'appelle une occurence
-	* L'association est le lien entre les entités.
+	* si une des propriétés est unique et discriminante, elle est nommée identifiant.
+	* un individu d'une entité s'appelle une occurence.
+	* l'association est le lien entre les entités.
 
 ### Termes du domaine intéressants non définis
 
