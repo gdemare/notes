@@ -39,7 +39,7 @@ Cela signifie qu'à chaque instant $k$ % du produit A se transforme en B.
 Vitesse de disparition $2A \rightarrow B$
 
 Vitesse                             | Loi de vitesse
-------------------------------------|------------------------------------
+------------------------------------|----
 $v = \frac{d[B]}{dt} = - \frac{d[A]}{2 \times dt}$ | $v = k{[A]}^{2}$
 
 La vitesse de disparition de A est deux fois plus rapide que celle de B.

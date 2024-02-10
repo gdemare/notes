@@ -107,7 +107,7 @@ Les rôles du REL :
 
 #### Stockage des ions Ca2+
 
-Les ions $Ca^2+$ jouent un rôle de catalyseur important pour l'organisme par exemple dans la contraction musculaire.
+Les ions $Ca^{2+}$ jouent un rôle de catalyseur important pour l'organisme par exemple dans la contraction musculaire.
 
 Ils sont stockés dans le lumen du REL et expulsés vers le cytosol lorsque la cellule en a besoin.
 
@@ -127,7 +127,7 @@ Le manteau de protéines dénudation se dissocie de la membrane de la vésicule 
 
 La concentration de molécules est 1000 supérieurs à celle présente dans le lumen.
 
- Le REL est formé par des tubules branchés (d'un diamètre de 30 nm -- 60
+ Le REL est formé par des tubules branchés (d'un diamètre de 30 nm-60
 nm).
 
 Le transport vésiculaire sélectif implique les mêmes types de protéines de manteau que celle du transport non sélectif. C'est la différence de pH entre des deux lumens qui va modifier le comportement des protéines du manteau grâce à l'association avec des adaptines.

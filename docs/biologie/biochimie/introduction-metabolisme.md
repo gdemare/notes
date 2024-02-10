@@ -1,4 +1,19 @@
-Objectif : comprendre comment l'énergie et la matière circulent dans le vivant.
+L'objectif de l'étude du métabolisme est de comprendre comment l'énergie et la matière circulent dans le vivant.
+
+Le métabolisme possède deux composantes, les activités :
+
+* Anaboliques (synthèse de molécules).
+* Cataboliques (dégradation de molécules).
+
+L'activité anabolique consiste à additionner de petites molécules simples pour en former des plus complexes. Cette opération nécessite de l'énergie.
+
+!!! note
+    Une réaction thermodynamiquement impossible càd endergonique peut se dérouler si elle est couplée avec une réaction exergonique.
+
+Voie métabolique successions de réactions intermédiaires qui permettent d'obtenir un produit.
+
+!!! note
+    Certains intermédiaires servent dans plusieurs voies métaboliques.
 
 Le métabolisme se compose de deux types d'activité :
 
@@ -19,34 +34,7 @@ __Énergie__ capacité de changer la disposition de la matière.
 !!! note
     La lumière est un type d'énergie cinétique.
 
-## Réaction chimique
-
-__Réaction chimique__ processus de rupture des liaisons entre les réactifs et la formation de nouvelles liaisons qui donneront des produits. Elle a lieu lorsqu'au moins un des réactifs est instable. La réaction se produira de façon à redonner un certain niveau de stabilité moléculaire. Elle s'accompagnera toujours d'une perte d'énergie dissipé sous forme de chaleur.
-
-### Barrière énergétique 
-
-__Énergie d'activation__ énergie pour atteindre le niveau d'instabilité suffisant pour que la réaction puisse avoir lieu.
-
-Sans la barrière que forme les énergies d'activation, toutes les molécules complexe des cellules se décomposeraient spontanément en molécules simples.
-
-!!! example
-    La combustion est une réaction exergonique et spontanée mais il faut fournir de l'énergie (étincelle) pour démarrer la réaction càd permettre à une partie des molécules d'atteindre l'état de transition. L'énergie libérée par ces dernières est alors suffisante pour provoquer celles des molécules voisines.
-
-Pour qu'une réaction se produise, il faut qu'au moins une molécule soit suffisamment instable.
-
-### La chaleur
-
-L'énergie sous forme de chaleur augmente la vitesse de collision entre les molécules. Elle accélère toutes les réactions même celle non nécessaire. C'est pour cette raison que la température est importante pour les êtres vivants.
-
-## L'énergie dans la cellule
-
-Pour que les réactions puissent avoir lieu mais de manière contrôler, la cellule contrôlent les activités métaboliques par l'intermédiaire des enzymes.
-
-Les enzymes abaissent l'énergie d'activation de certaines réactions substrat réactifs sur lequel agit l'enzyme.
-
-__Catalyseur__ molécule qui augmente la vitesse de réaction.
-
-# Biochimie métabolique 
+ Biochimie métabolique 
 
 L'énergie utilisée par les cellules est extraite en brisant les liaisons chimiques entre les atomes. Avant d'être utilisé puis elle est stockée dans des molécules d'ATP. Utilise un intermédiaire.
 
@@ -61,11 +49,55 @@ Les cellules ont besoins d'énergie pour fonctionner notamment pour réaliser tr
 
 __Couplage d'énergie__ processus qui consiste à utiliser l'énergie dégagée par une réaction exothermique pour en déclencher une endothermique
 
-## Adénosine Three Phosphate (ATP)
+La cascade de signalisation est le mécanisme par lequel une cellule répond à un signal (chimique, électrique...). Elle aboutit à la réalisation d'activités cellulaires, par exemple, la synthèse de protéines. Elle se compose de trois phases :
+
+1. la réception du signal extra-cellulaire par un récepteur.
+2. la réalisation de voies de transduction càd d'un ensemble de processus cellulaires.
+3. la réponse cellulaire.
+
+__État stationnaire__ les concentrations en composés restent stables. Elles sont maintenues par la cellule grâce à des échanges de matière et d'énergie.
+
+Pour fonctionner, les cellules ont besoin d'énergie qu'elles extraient soit de :
+
+* la dégradation de molécules (chimiotrophe).
+* la photosynthèse (phototrophe).
+
+L'énergie libérée est stockée dans un nombre réduit de molécules telles que l'ATP ou NADPH. L'énergie chimiques pourra être libérée pour servir à :
+
+* créer des liaisons et fabriquer des molécules plus complexes à partir de plus simples.
+* lutter contre l'entropie (par exemple, en maintien un gradient chimique).
+
+## L'énergie
+
+### L'énergie dans la cellule
+
+Pour que les réactions puissent avoir lieu mais de manière contrôler, la cellule contrôlent les activités métaboliques par l'intermédiaire des enzymes.
+
+Les enzymes abaissent l'énergie d'activation de certaines réactions substrat réactifs sur lequel agit l'enzyme.
+
+__Catalyseur__ molécule qui augmente la vitesse de réaction.
+
+### Le stockage de l'énergie
+
+Les molécules riches en énergie sont :
+
+* l'ATP.
+* les nucléotides triphosphate.
+* les dérivés nicotinamides.
+
+L'ATP est formée d'un adénine et d'un ribose (adénosine) et de plusieurs groupements phosphates.
+
+La rupture d'une liaison phosphate-phosphate comme pour l'hydrolyse de l'ATP libère $G'^0 = 30,5 kJ \cdot mol^{-1} = 7 \cdot 3 kcal \cdot mol^{-1}$ en condition standard ($1atm$ et 25 C°) et $G'^0 = - 50$ $kJ \cdot mol^{-1}$ à
+37 °C.
+
+__Chimiosmose__ processus d'utilisation du gradient électronique pour effectuer un travail. C'est la chimiosmose qui permet la synthèse de
+l'ATP.
+
+Rendement biomasse formée (g)/substrat consommé
+
+### Adénosine Three Phosphate (ATP)
 
 L'ATP est la molécule la plus utilisées par les cellules pour stocker l'énergie.
-
-### L'énergie contenue dans l'ATP
 
 L'énergie libérée par une molécule d'ATP est dû :
 
@@ -77,11 +109,11 @@ Les trois charges négatives des groupements phosphates facilitent la libératio
 !!! note
     L'hydrolyse de l'ATP seul produit de la chaleur.
 
-### L'utilisation de l'ATP par la cellule
+#### Utilisation dans la  cellule
 
 L'énergie contenue dans l'ATP est libérée par une réaction d'hydrolyse qui produit un ADP et un Pi. Son utilisation se fait par l'intermédiaire d'enzymes. La réaction consiste à passer par un intermédiaire phosphorylé qui sera moins stable que la molécule originelle. Cela se produit par l'hydrolyse de l'ATP créer une liaison covalente entre un groupement phosphate et l'enzyme ou le réactif.
 
-### Production d'ATP
+#### Production
 
 La cellule régénère son stock d'ATP en dégradant des molécules dont le glucose qui est fabriquer par la respiration cellulaire des végétaux.
 
@@ -99,33 +131,72 @@ Les cellules peuvent produire de l'énergie par la dégradation demolécule prin
 !!! note
     Certains organismes sont capables des deux modes mais ils privilégient la respiration cellulaire lorsque c'est possible.
 
-# Les protéines
+
+## Les réactions chimiques
+
+Pour qu'une réaction chimique est lieu, il faut que les molécules atteignent un niveau d'énergie plus élevé que celui initial appelé état de transition. Les réactions principales sont :
+
+* l'hydrolyse (hydrolase).
+* l'addition et l'élimination.
+
+* Isomérisation (isomérase) transfert d'un groupement au sein d'une molécule.
+* Transfert de groupe (transférase) transfert d'un groupement entre deux molécules.
+* Oxydo-réduction (oxydoréductase). Elle utilise deux sortes de co-enzymes NADH et $FADH_2$.
+* Ligation (ligase) liaison entre deux substrats. Ce type de réaction nécessite de l'ATP.
+
+!!! note
+    Les réactions où l'état de transition est inférieur au niveau d'énergie sont spontanées et par définition, elles ont déjà eu lieu.
+
+Les réactions font intervenir des transporteurs.
+
+Particules échangées           | Transporteurs
+-------------------------------|---------------
+Groupement acyle (ex : cétone) | Coenzyme A
+Électrons                      | $NADH$; $FADH_2$
+Énergie                        | ATP
+
+### Les enzymes
+
+Les enzymes sont des protéines qui jouent le rôle de catalyseur. Elles servent à faciliter la réaction càd à augmenter sa vitesse en :
+
+* Diminuant la barrière énergétique de la réaction.
+* Facilitant la rencontre et le positionnement des groupements réactionnels.
+
+La régulation de l'activité métabolique peut se faire par :
+
+* La régulation de la quantité d'enzymes disponible. Elle dépend de l'activités de dégradation et de synthèse pré ou post traductionnelle.
+* La catalyse enzymatique. Par exemple, l'ajout de groupement sur certaines protéines permet de modifier l'activité de l'enzyme comme pour les enzymes digestives qui adoptent leur conformation active à la suite d'une coupure d'une partie de la chaine peptidique.
+* L'accessibilité du substrat. Par exemple, la quantité de glucose dans la cellule dépend du nombre de molécules phosphorylées.
+
+Les site de contrôle sont souvent des étapes irréversibles.
+
+---
 
 Certaines protéines sont des catalyseurs. Ce sont des molécules qui permet d'accélérer les réactions chimiques.
 
 En moyenne les protéines sont capables de catalyser jusqu'a 1000 réactions par seconde. Un léger changement de quantités peut avoir des répercussion importantes.
 
 !!! note
-    En 2015, 4 000 enzymes découvertes.
+    En 2015, 4 000 nouvelles enzymes ont été découvertes.
 
 Les enzymes agissent comme catalyseur de plusieurs façons en :
 
-* Diminuant l'énergie d'activation
-* Créant un microenvironnement, par exemple acide ou basique, favorable à la réaction.
-*  Étant participant à la réaction. Il y a modification de l'enzyme par la création d'une liaison covalente avec l'enzyme. A la fin de la réaction, l'enzyme retrouve sa forme initiale.
+* diminuant l'énergie d'activation
+* créant un microenvironnement, par exemple acide ou basique, favorable à la réaction.
+* participant à la réaction. Il y a modification de l'enzyme par la création d'une liaison covalente avec l'enzyme. A la fin de la réaction, l'enzyme retrouve sa forme initiale.
 
 La vitesse de réaction avec une enzyme peut être augmenter avec la température jusqu'à un certain point :
 
-* Les molécules sont alors trop agitées pour interagir.
-* L'enzyme se dénature et n'est plus capable de catalyser la réaction.
+* les molécules sont alors trop agitées pour interagir.
+* l'enzyme se dénature et n'est plus capable de catalyser la réaction.
 
 !!! note
     La température optimale des protéines humaines se situent entre 35 et 40°C.
 
 Pour fonctionner certaines enzymes ont besoins de s'associer à des autres molécules appelées cofacteurs de type :
 
-* Minéraux liés de façon covalente ou non.
-* D'autres molécules organiques (non protéique) par des liaisons temporaires. Le complexe s'appelle coenzyme.
+* minéraux liés de façon covalente ou non.
+* d'autres molécules organiques (non protéique) par des liaisons temporaires. Le complexe s'appelle coenzyme.
 
 Certaines enzymes d'une même réaction métabolique s'associent en complexe multienzymatique.
 
@@ -133,14 +204,13 @@ Certaines enzymes d'une même réaction métabolique s'associent en complexe mul
 
 Les enzymes besoins de la cellule éviter
 
- 
 * l'utilisation de l'énergie pour des réactions non essentielle
 * Diriger vers une voie particulière dans le cas d'un carrefour métabolique. Cette situation est présente quand un substrat peut être utilisé dans plusieurs réactions.
 
 L'activités enzymatique est régulée :
 
-* La synthèse de l'enzyme au niveau des gènes.
-* L'activité des enzymes existants (plus rapide chez les Eucaryotes).
+* la synthèse de l'enzyme au niveau des gènes.
+* l'activité des enzymes existants (plus rapide chez les Eucaryotes).
 
 ### Les inhibiteurs
 
@@ -161,69 +231,21 @@ Coopérativité la fixation d'un substrat stabilise l'enzyme et augmente son aff
 
 Certaines enzymes allo stériques présentent un phénome de rétro inhibition. La présence du produit finale ralenti ou arrête une voie métabolique.
 
--------------------
+#### Régulation de l'activité
 
-# Introduction au métabolisme
+Le rétrocontrôle enzymatique peut être :
 
-La cascade de signalisation est le mécanisme par lequel une cellule répond à un signal (chimique, électrique...). Elle aboutit à la réalisation d'activités cellulaires, par exemple, la synthèse de protéines. Elle se compose de trois phases :
+* Positif.
+* Négatif (ou inhibiteur).
 
-1. la réception du signal extra-cellulaire par un récepteur.
-2. la réalisation de voies de transduction càd d'un ensemble de processus cellulaires.
-3. la réponse cellulaire.
-
-__État stationnaire__ les concentrations en composés restent stables. Elles sont maintenues par la cellule grâce à des échanges de matière et d'énergie.
-
-Pour fonctionner, les cellules ont besoin d'énergie qu'elles extraient soit de :
-
-* la dégradation de molécules (chimiotrophe).
-* la photosynthèse (phototrophe).
-
-L'énergie libérée est stockée dans un nombre réduit de molécules telles que l'ATP ou NADPH. L'énergie chimiques pourra être libérée pour servir à :
-
-* créer des liaisons et fabriquer des molécules plus complexes à partir de plus simples.
-* lutter contre l'entropie (par exemple, en maintien un gradient chimique).
-
-### Les molécules de stockage de l'énergie
-
-Les molécules riches en énergie sont :
-
-* l'ATP.
-* les nucléotides triphosphate.
-* les dérivés nicotinamides.
-
-L'ATP est formée d'un adénine et d'un ribose (adénosine) et de plusieurs groupements phosphates.
-
-La rupture d'une liaison phosphate-phosphate comme pour l'hydrolyse de l'ATP libère $G'^0 = 30,5 kJ \cdot mol^{-1} = 7 \cdot 3 kcal \cdot mol^{-1}$ en condition standard ($1atm$ et 25 C°) et $G'^0 = - 50$ $kJ.{mol}^{- 1}$ à
-37 °C.
-
-__Chimiosmose__ processus d'utilisation du gradient électronique pour effectuer un travail. C'est la chimiosmose qui permet la synthèse de
-l'ATP.
-
-Rendement biomasse formée (g)/substrat consommé
-
-## Introduction aux réactions métaboliques
-
-Le métabolisme possède deux composantes, les activités :
-
-* Anaboliques (synthèse de molécules).
-* Cataboliques (dégradation de molécules).
-
-L'activité anabolique consiste à additionner de petites molécules simples pour en former des plus complexes. Cette opération nécessite de l'énergie.
-
-!!! note
-    Une réaction thermodynamiquement impossible càd endergonique peut se dérouler si elle est couplée avec une réaction exergonique.
-
-Voie métabolique successions de réactions intermédiaires qui permettent d'obtenir un produit.
-
-!!! note
-    Certains intermédiaires servent dans plusieurs voies métaboliques.
+L'inhibiteur peut être réversible ou irréversible. Dans le deuxième cas, site de liaison est permanent sur le site actif (compétitif) ou non (non compétitif).
 
 ## Compartimentation de l'organisme
 
 L'apparition des compartiments a permis :
 
-* De facilité la rencontre entre les substrats.
-* A des réactions antagonistes de pouvoir se dérouler au même moment dans la cellule.
+* de faciliter la rencontre entre les substrats.
+* à des réactions antagonistes de pouvoir se dérouler au même moment dans la cellule.
 
 On trouve des compartiments à la fois au niveau :
 
@@ -233,54 +255,7 @@ On trouve des compartiments à la fois au niveau :
 !!! note
     Il est possible de catégoriser les organes en fonction de leur rôle : utilisateur, de stockage ou synthétiseur.
 
-## Réaction
-
-Pour qu'une réaction chimique est lieu, il faut que les molécules atteignent un niveau d'énergie plus élevé que celui initial appelé état de transition. Les réactions principales sont :
-
-* l'hydrolyse (hydrolase).
-* l'addition et l'élimination.
-
-* Isomérisation (isomérase) transfert d'un groupement au sein d'une molécule.
-* Transfert de groupe (transférase) transfert d'un groupement entre deux molécules.
-* Oxydo-réduction (oxydoréductase). Elle utilise deux sortes de co-enzymes NADH et $FADH_2$.
-* Ligation (ligase) liaison entre deux substrats. Ce type de réaction nécessite de l'ATP.
-
-!!! note
-    Les réactions où l'état de transition est inférieur au niveau d'énergie sont spontanées et par définition, elles ont déjà eu lieu.
-
-Les réactions font intervenir des transporteurs.
-
-Particules échangées           | Transporteurs
--------------------------------|---------------
-Groupement acyle (ex : cétone) | Coenzyme A
-Électrons                      | NADH $FADH_2$
-Énergie                        | ATP
-
-### Les enzymes
-
-Les enzymes sont des protéines qui jouent le rôle de catalyseur. Elles servent à faciliter la réaction càd à augmenter sa vitesse en :
-
-* Diminuant la barrière énergétique de la réaction.
-* Facilitant la rencontre et le positionnement des groupements réactionnels.
-
-La régulation de l'activité métabolique peut se faire par :
-
-* La régulation de la quantité d'enzymes disponible. Elle dépend de l'activités de dégradation et de synthèse pré ou post traductionnelle.
-* La catalyse enzymatique. Par exemple, l'ajout de groupement sur certaines protéines permet de modifier l'activité de l'enzyme comme pour les enzymes digestives qui adoptent leur conformation active à la suite d'une coupure d'une partie de la chaine peptidique.
-* L'accessibilité du substrat. Par exemple, la quantité de glucose dans la cellule dépend du nombre de molécules phosphorylées.
-
-Les site de contrôle sont souvent des étapes irréversibles.
-
-### Régulation des enzymes
-
-Le rétrocontrôle enzymatique peut être :
-
-* Positif.
-* Négatif (ou inhibiteur).
-
-L'inhibiteur peut être réversible ou irréversible. Dans le deuxième cas, site de liaison est permanent sur le site actif (compétitif) ou non (non compétitif).
-
-## La catabolisme
+### La catabolisme
 
 Le catabolisme consiste en :
 

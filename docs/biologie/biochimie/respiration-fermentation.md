@@ -1,41 +1,65 @@
+
+### Respiration cellulaire
+
+La respiration cellulaire consiste à récupérer l'énergie produite par le dioxygène en présence d'hydrocarbure comme les lipides, les protéines et les glucides (dont fait partie le glucose). Ce dernier est le plus fréquemment utilisé dans nos cellules.
+
+$$molécules\ organiques + O_2 \rightarrow H_2O + CO_2 + énergie\ (ATP\ et\ chaleur)$$
+
+Lors de la réaction, des enzymes appelées déshydrogénases retirent deux hydrogènes avec leur électron. Ils vont parcourir une chaîne de transporteur dans la membrane mitochondriale interne à cause de leur attirance pour la charge positive qui se trouve dans l'espace intermembranaire. Les électrons vont être conduit à travers un circuit où il se déchargeront une partie de leur énergie sous forme d'énergie mécanique. C'est elle qui est utilisée par les transporteurs pour transférer un des deux protons vers l'espace intermembranaire et maintenir une différence de gradient.
+
+À l'arrivé, l'énergie du proton restant et les électrons rejoignent une molécule de $NAD^+$ (Nicotinamide Adénine Dinucléotide).
+
+À cause de la différence de charges, les protons présents dans l'espace intermembranaire vont vouloir regagner la matrice mitochondriale. Ils devront passer par une protéine appelée l'ATP synthase. À la manière d'un barrage, le proton va passer dans un interstice entre les deux parties de la protéine et entrainer la rotation d'un rotor. Ce mouvement va modifier la configuration du stator et provoquer la phosphorisation de l'ATD en ATP. Il faut entre 3 à 4 protons pour former une molécule ATP. Chaque protéine ATP synthétise en moyenne 100 ATP/sec.
+
+En conclusion, l'énergie est transférée en passant d'un état chimique à celui de gradient mécanique puis chimique.
+
+#### Transformation de l'ATD en ATP
+
+Le passage de la membrane externe se fait par les porines.
+
+Une protéine spécifique est chargée du passage de la membrane interne des molécules d'ATD en APT pour se faire, elle utilise la différence de gradient électronique. Elles échangent une molécule d'ATD qui contient 3 charges négatives avec une molécules d'ATP qui en contient 4.
+
+#### Production de chaleur, la thermogénèse
+
+Thermogénines protéines qui dissipent le gradient électronique sous forme de chaleur.
+
+Elles se concentrent dans les cellules proches des vaisseaux sanguins qui sont utilisés pour être répartir la chaleur dans tout le corps.
+
+
+------------
+
 ## Respiration cellulaire
 
-La respiration cellulaire consiste à extraire l'énergie du acétyl-CoA en utilisant du dioxygène pour recharger l'ADP en ATP. Elle a lieu dans les mitochondries et est composée :
+La respiration cellulaire consiste à extraire l'énergie du acétyl-CoA en utilisant du dioxygène pour recharger le stock d'ATP : $ADP + P \rightarrow  ATP$. Cette réaction a lieu dans les mitochondries et est composée :
 
-1. Du cycle de l'acide citrique (cycle de Krebs).
-2. De la phosphorylation oxydative.
-
-L'énergie stockée dans l'ATP pourra être libérée pour réaliser :
-
-* Les mouvements des flagelles
-* Le transport actif de solutés
-* La polymérisation
-* La contraction musculaire
+1. du cycle de l'acide citrique appelé aussi cycle de Krebs.
+2. de la phosphorylation oxydative.
 
 !!! note
-    La glycolyse est le mécanisme qui génère la majorité de l'acétyl-coA et donc de l'énergie dans les cellule aérobies. Une mole de glucose permet de produire en moyenne 32 moles ATP.
+    L'ATP disponible pourra être utilisé  par exemple, pour réaliser les mouvements des flagelles, le transport actif de solutés, la polymérisation, la contraction musculaire.
 
-### La mitochondrie
+La glycolyse est le mécanisme qui génère la majorité de l'acétyl-coA qui sera ensuite utiliser au cours de la respiration cellulaire. Une mole de glucose permet de produire en moyenne 32 moles ATP.
 
-La mitochondrie est composée de :
+!!! note
+    La glycolyse est le principale processus de production d'énergie pour les cellule aérobies.
 
-* Une membrane externe est perméable protéines canaux = porine, transporteur laisse passer les protéines (TOM et TIM).
-* Une membrane interne comportant de nombreux replie appeler crête qui augmente sa surface. C'est le lieu de la chaine respiratoire.
-* La matrice mitochondriale qui contient notamment de l'ADN et des ribosomes servant à la synthèse de protéines spécifiques.
+### Production d'acétyl-coA
 
-## Production d'acétyle coA pour le cycle de l'acide citrique
+Le cycle de l'acide citrique a comme substrat l'acétyl-coA. Il est produit à partir :
 
-Le cycle de l'acide citrique a comme substrat l'acétyl-coA. Il est produit à partir
-
-* De l'oxydation du glucose.
-* D'acide gras découpés en morceaux de deux carbones (groupement acétyle) au cours de la béta oxydation. Cela a lieu dans la mitochondrie. Au cours de cette réaction, il y a production de $FADH_2$.
+* de l'oxydation du glucose.
+* de la scission des acide gras en deux sous chaînes carbonés (groupement acétyle) au cours de la béta oxydation. Cette réaction a lieu dans la mitochondrie et permet également de produire de $FADH_2$.
 
 !!! note
     Une partie de l'acétyl-coA est modifiée pour produire certains acides aminés.
 
-## Cycle de l'acide citrique (ou cycle de Krebs)
+### Cycle de l'acide citrique
 
-Le cycle de l'acide citrique qui produit $2 \times ATP$, 3x NADH, $1 \times FADH_2$. Ces deux derniers serviront notamment à la phosphorylation oxydative. Le cycle libère deux $CO_2$.
+Le cycle de l'acide citrique permet de produire :
+
+* $2 \times ATP$.
+* $3 \times NADH$ et $1 \times FADH_2$ qui serviront notamment à la phosphorylation oxydative.
+* du $CO_2$ qui constitue un déchet de la réaction.
 
 Le cycle se déroule en huit étapes avec notamment :
 
@@ -46,14 +70,14 @@ Le cycle se déroule en huit étapes avec notamment :
 !!! note
     Le $NAD^+$ est un dérivé de la vitamine $B_3$.
 
-## Phosphorylation oxydative
+### Phosphorylation oxydative
 
 La phosphorylation oxydative est l'étape qui produit 90% de l'ATP. Il est composé de deux étapes :
 
-1. La chaine de transport d'électrons qui créer le gradient de $H^+$.
-2. La chimiosmose qui phosphoryle l'ADP en ATP.
+1. la chaine de transport d'électrons qui créer le gradient de $H^+$.
+2. la chimiosmose qui phosphoryle l'ADP en ATP.
 
-### Chaine de transport
+#### Chaine de transport
 
 Les électrons sont apportés à la chaine de transport par le NAHD (et le $FADH_2$) puis ils sont transférés par une succession de transporteurs dont le niveau d'électronégativité augmente au fur et à mesure ce qui a pour effet de les attirer et de libérer de progressivement l'énergie. L'élément le plus électronégatif, le dioxygène, se trouve en bout de chaine. Il se combine avec quatre protons ($H^+$) et quatre électrons pour former deux molécules d'eau. Durant leur trajet, l'énergie totale libérée est de $-222 kJ \cdot mol^{-1}$.
 
@@ -92,7 +116,7 @@ Le $FADH_2$ est transporté par les navettes G3P/DHAP.
 
 La phosphorylation oxydative utilise le gradient d'$H^+$ créé par les complexes de la chaine de transport dans l'espace intermembranaire. Le gradient ionique est ensuite dissipé pour régénérer au maximum entre 26 et 28 molécules d'ATP en négligeant les pertes et l'utilisation du gradient $H^+$ dans d'autres processus.
 
-## Libération de l'énergie par hydrolyse de l'ATP
+### Libération de l'énergie par hydrolyse de l'ATP
 
 Lors de l'hydrolyse de l'ATP en ADP+P, l'énergie est libérée est cinétique (thermique) par la répulsion des groupements
 
@@ -157,21 +181,21 @@ La glycolyse est l'ensemble des réactions qui permet de transformer le glucose-
 
 Le procédé nécessite un investissement deux molécules d'ATP pour être initié et génère 4 ATP et 2 NADH.
 
-La réaction consiste à :
+La réaction consiste :
 
-1. Ajout d'un groupement phosphate qui empêche la molécule de sucre de sortir de la cellule et qui la rend plus réactive. Cette étape nécessite l'utilisation d'un ATP et est catalysée par une hexokynase dans les cellules musculaires et une glucokynase dans le foie et le pancréas.
-2.  Transfert d'une groupement au sein de la molécule pour produire un fructose.
-3. Ajout d'un nouveau groupement phosphate. Cette étape nécessite l'utilisation d'un ATP et est catalysé par la phosphofructokinase.
-4. Clivage.
-5. Récupération et oxydation pour obtenir deux pyruvates.
+1. l'ajout d'un groupement phosphate qui empêche la molécule de sucre de sortir de la cellule et qui la rend plus réactive. Cette étape nécessite l'utilisation d'un ATP et est catalysée par une hexokynase dans les cellules musculaires et une glucokynase dans le foie et le pancréas.
+2. le transfert d'une groupement au sein de la molécule pour produire un fructose.
+3. l'jout d'un nouveau groupement phosphate. Cette étape nécessite l'utilisation d'un ATP et est catalysé par la phosphofructokinase.
+4. le clivage.
+5. la récupération et oxydation pour obtenir deux pyruvates.
 
 !!! note
     Le départ de la glycolyse est l'embranchement de nombreuses voies de synthèse comme celle qui conduit à produire du ribulose pour la fabrication des nucléotides ou des triglycérides.
 
 Les deux pyruvates peuvent ensuite servir dans :
 
-* Un prolongement de la glycolyse appelé fermentation
-* La respiration cellulaire
+* un prolongement de la glycolyse appelé fermentation.
+* la respiration cellulaire
 
 ### La respiration cellulaire
 
@@ -183,24 +207,29 @@ $$Pyruvate + CoA - SH + NAD^+ \rightarrow Acétyl - CoA + NADH + H^+$$
 
 La fermentation est le prolongement de la glycolyse : le pyruvate est transformé pour devenir un accepteur d'électron Elle permet de produire deux molécules d'ATP et régénérer le $NAD^+$ pour la glycolyse. Il existe deux types de fermentation :
 
-* Alcoolique qui produit de l'éthanol $C_3 H_3O_3^- \rightarrow C_2 H_4O + - CO_2 \rightarrow CH_5 OH$.
-* Lactique qui produit du lactate $C_3H_3O_3^- \rightarrow C_3 H_5O_3^-$.
+* alcoolique qui produit de l'éthanol $C_3 H_3O_3^- \rightarrow C_2 H_4O + - CO_2 \rightarrow CH_5 OH$.
+* lactique qui produit du lactate $C_3H_3O_3^- \rightarrow C_3 H_5O_3^-$.
 
-Dans la fermentation alcoolique, le pyruvate libère deux $CO_2$ avant d'être réduit contrairement à la fermentation lactique où il directement réduit.
+!!! note
+    Dans la fermentation alcoolique, le pyruvate libère deux $CO_2$ avant d'être réduit contrairement à la fermentation lactique où il directement réduit.
 
-__Effet de Crabtree__ La concentration de glucose régule les enzymes de la respiration. Lorsqu'elle est trop élevée, ces dernières sont inhibées. C'est notamment le cas pour les levures. C'est ce phénomène qui est exploité dans la vinification lorsque le raisin est cueilli bien mur pour être riche en sucre.
+__Effet de Crabtree__ la concentration de glucose régule les enzymes de la respiration. Lorsqu'elle est trop élevée, ces dernières sont inhibées. C'est notamment le cas pour les levures.
+
+!!! note
+    Ce phénomène est notamment exploité dans la vinification lorsque le raisin est cueilli bien mur pour être riche en sucre.
 
 ### Lactique
 
 Les cellules musculaires produisent de l'ATP en utilisant la fermentation lactique lorsque l'oxygène vient à manquer. C'est notamment le cas lorsque l'on débute une activité physique. Le lactate est ensuite transporté au foie pour être converti en pyruvate.
 
-Il semblerait que la glycolyse est une origine ancienne. Elle serait apparue avant que l'atmosphère est été saturé en dioxygène.
+!!! note
+    Il semblerait que la glycolyse est une origine ancienne. Elle serait apparue avant que l'atmosphère est été saturé en dioxygène.
 
 Il existe trois types de fermentation lactique :
 
-| Fermentation   | Déchets métaboliques       | Espèces         |
+Fermentation   | Déchets métaboliques       | Espèces         |
 |----------------|----------------------------|-----------------|
-| Homolactique   | $H^+$                       | streptocoques   |
+Homolactique   | $H^+$                       | streptocoques   |
 | Hétérolactique | $CO_2$ et $H^+$              | lactobacilles   |
 | Acéto-lactique | acide lactique et acétique | bifidobacterium |
 
@@ -210,127 +239,3 @@ Il existe trois types de fermentation lactique :
 ### Alcoolique
 
 La fermentation alcoolique peut être prolongée par la fermentation acétique qui sert à produire du vinaigre.
-
-
-# Les méthodes d'études des protéines
-
-Ces méthodes servent à identifier une protéine d'intérêt.
-
-Pour dénaturer (déplier) une protéine, il faut utiliser deux types de substances :
-
-* Des agents réducteurs qui suppriment les ponts disulfures
-* Des dénaturants de suppriment les liaisons non covalentes (hydrogène ou Van der Vaal).
-
-### Vocabulaire
-
-Ne pas utiliser le terme tache. On parlera de bande ou de spot.
-
-__Dialyse__ technique consistant à diminuer la concentration de molécules en créant un gradient chimique.
-
-__Chromatographie__ ensemble de méthodes qui permet la séparation de composants chimiques.
-
-__Lyophiliser__ méthode qui consiste à retirer l'eau d'un produit en le congelant puis en faisant évaporer la glace par une baisse de la pression.
-
-Westernblot (ou transfert de protéines) est une méthode combinatoire :
-
-1.  Électrophorèse sur gel.
-2.  Transfert sur une membrane.
-3.  Coloration des protéines.
-
-## Chromatographie
-
-Il existe quatre types de chromatographie :
-
-* d'exclusion qui sépare en fonction de la taille et de la forme appelé poids moléculaire en kDa.
-* d'affinité qui filtre par affinité avec un ligand. Les composés se détachent progressivement (élués).
-* d'échange d'ions. Des billes chargées retiennent les molécules d'intérêt et sont éluées progressivement.
-* Sur couche mince.
-
-!!! note
-    Il existe une chromatographie qui utilise des anticorps à la place des ions. 
-
-### Chromatographie d'exclusion
-
-Les molécules passent dans des billes percées. Plus la molécule est grosse plus vite elle sortira. On a une relation linéaire entre log de la taille en fonction du volume élué.
-
-$v_{mort}$ volume d'élution des plus grosses molécules, celles qui ne peuvent pas entrer dans les billes.
-
-$K_a$ coefficient de partage : $K_a = \frac{v_{élué} - v_{mort}}{v_{total} - v_{mort}}$.
-
-### Chromatographie d'échanges d'ions 
-
-Les protéines sont mises dans une colonne échangeuse avec des billes qui possèdent une charge opposée à la protéine d'intérêt. Les protéines sont détachées progressivement par plusieurs lavages (le solvant est appelé analyte) qui cassent les interactions faibles càd de type :
-
-* Hydrogènes
-* Van Deer Val
-
-## Électrophorèse
-
-Il existe plusieurs types d'électrophorèse :
-
-* En gel de polyacrylamide contenant du dodécysulfate de sodium (PAGE SDS) sépare par la taille.
-* Par focalisation isoélectrique (IEF) sépare par la charge électrique.
-
-L'électrophorèse 2D consiste à réaliser une séparation :
-
-* en fonction du point isoélectrique (IEF).
-* par la taille.
-
-## Méthode révélation 
-
-Pour révéler la présence de protéines, il est possible de colorer par :
-
-* Bleu de Coomassie (non spécifique)
-* Antigène (spécifique).
-
-__Épitope__ région de fixation de l'anticorps.
-
-## Purification de protéines
-
-__Activité spécifique__ activité de la protéine étudiée par rapport à la quantité de protéines présente.
-
-__Rendement__ activité de la protéine de l'étape par rapport à l'activité de départ.
-
-__Facteur de purification__ activité spécifique de l'étape par rapport à celle de départ.
-
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Rappel et synthèse de thermodynamique et de chimie en
-solution :</p>
-<p>Température en K = 273+T C°</p>
-<p><u>Vrai pour toutes réactions !!!!</u></p>
-<ul>
-<li><p>À l’équilibre càd quand les concentrations n’évoluent plus <span
-class="math inline">Δ<strong>G</strong><sup><strong>0</strong><strong>′</strong></sup> <strong>=</strong>  <strong>−</strong> <strong>R</strong><strong>T</strong><strong>.</strong><strong>l</strong><strong>n</strong>(<strong>K</strong><sub><strong>e</strong><strong>q</strong></sub>)</span></p></li>
-<li><p><span
-class="math inline">Δ<strong>G</strong><sup><strong>0</strong></sup><strong>=</strong>Δ<strong>G</strong><sup><strong>0</strong><sup><strong>′</strong></sup></sup> <strong>+</strong> <strong>R</strong><strong>T</strong><strong>.</strong><strong>l</strong><strong>n</strong>(<strong>K</strong>)</span></p></li>
-</ul>
-<p>En plus pour les réactions d’oxydoréduction</p>
-<ul>
-<li><p><span class="math inline">Δ<strong>E</strong></span> différence
-de potentiel entre le couple.</p></li>
-<li><p><span
-class="math inline">Δ<strong>G</strong> <strong>=</strong>  <strong>−</strong> <strong>n</strong><strong>.</strong><strong>F</strong><strong>.</strong>Δ<strong>E</strong></span>
-avec n le nbre d’électrons échangés.</p></li>
-</ul>
-<p>Le transport entre deux compartiments</p>
-<ul>
-<li><p><span
-class="math inline"><strong>μ</strong><sub><strong>i</strong></sub><strong>=</strong><strong>μ</strong><sub><strong>0</strong></sub> <strong>+</strong> <strong>R</strong><strong>.</strong><strong>T</strong><strong>.</strong><strong>ln</strong> [<strong>S</strong>] <strong>+</strong> <strong>z</strong><strong>.</strong><strong>F</strong><strong>.</strong><strong>E</strong> </span>(Equation
-de Nest) elle donne le potentiel.</p></li>
-<li><p><span class="math inline">$\mathbf{\mathrm{\Delta}G
-=}\mathbf{R.T.}\mathbf{\ln}\frac{\mathbf{final}}{\mathbf{initial}}\mathbf{+
-z.F.}\mathbf{E}_{\mathbf{membranaire}}$</span> avec E le potentiel entre
-les compartiements et z la charge de la particule échangée.</p></li>
-</ul>
-<p><u>NB :</u> les formules d’oxydoréduction et de Nerst se ressemblent
-car le premier est calculé grâce au deuxième.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>

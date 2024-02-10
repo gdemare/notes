@@ -120,7 +120,7 @@ La cyclisation des sucres se fait par l'ajout puis l'expulsion d'une molécule d
     * $\beta$ le groupement alcool est en haut sinon $\alpha$.
     * Par convention, les groupements à gauche sont dessinés en haut.
 
-Mutarotation apparition du carbone asymétrique α ou β.
+__Mutarotation__ apparition du carbone asymétrique α ou β.
 
 ### Oses modifiés
 
@@ -148,19 +148,12 @@ Trois oses à connaitre :
 
 On ajoute le suffixe -syl pour les molécules en début et milieu de chaine et -side pour celle en bout de chaine.
 
-### Dissociation des sucres associés en polyoside
+Les polymères de sucres peuvent être dissocier par l'utilisation d'une solution acide ou d'enzymes.
 
-Deux possibilités 
-
-* Mettre dans une solution acide (hydrolyse acide).
-* Utiliser des enzymes.
 
 Pour nommer une enzyme, substrat (la molécule) + ase (exemple : Alpha glucosidase)
 
-Pouvoir sucrant (gout sucré) :
-
-* 100% saccharose (molécule de référence), 114% fructose.
-* Édulcorant : Aspartame 200% acesulfame 200%
+__Pouvoir sucrant__ capacité d'une molécule à donner le goût sucré. La référence est le saccharose. Par exemple le fructose a un pouvoir sucrant de  114% et l'aspartame de 200%.
 
 ## Les polyosides du vivant
 

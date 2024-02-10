@@ -1,21 +1,17 @@
-Convention de nommage des cellules :
-
-* Cellule différenciée Fonction-cyte
-* Cellule juvénile Fonction-blaste
+!!! note
+    Par convention les cellules  différenciée sont appelé *fonction-cyte* et les cellule juvénile *fonction-blaste*.
 
 __Germinative__ adjectif pour indiquer une activité de division cellulaire.
 
-En biologie, la vie est le processus durant lequel un organisme renouvelle ses constituants en permanence c'est-à-dire de sa naissance à sa mort.
+En biologie, la vie est le processus durant lequel un organisme renouvelle ses constituants en permanence c'est-à-dire de sa naissance à sa mort. La plus petite unité de la matière capable de réaliser cette tâche est la cellule. Ainsi, elle est considérée comme l'unité de base du vivant.
 
 !!! note
-    Le corps humain possède  de l'ordre de $10^{13} cellules.$ 
-
-La plus petite unité de la matière capable de réaliser cette tâche est la cellule. Ainsi, elle est considérée comme l'unité de base du vivant.
+    Le corps humain possède de l'ordre de $10^{13}$ cellules.
 
 Les cellules ont besoin d'un apport d'énergie pour réaliser les échanges de matière avec l'environnement extérieur où :
 
-* Elles prélèvent les molécules dont elle a besoin directement et celles utiles pour synthétiser ses composants.
-* Elle rejettent les molécules dont elles n'ont pas besoin.
+* elles prélèvent les molécules dont elles ont besoin et celles utiles pour synthétiser leurs composants.
+* elle rejettent les molécules dont elles n'ont pas besoin.
 
 !!! note
     Les besoins de la cellule évoluent dans le temps.
@@ -23,6 +19,9 @@ Les cellules ont besoin d'un apport d'énergie pour réaliser les échanges de m
 Les cellules ont une petite taille pour faciliter le renouvellement de leurs constituants et les échanges avec le milieu extérieur. C'est la conséquence directe de la relation entre la surface et le volume qui est n'est pas linéaire.
 
 Il existe deux types de cellules :
+
+*
+* 
 
 <table>
 <colgroup>
@@ -53,29 +52,26 @@ Hypothèse : Pour se protéger, certaines cellules se sont regroupées et ont d
 
 L'apparition de compartiments a été cruciale dans l'évolution des cellules eucaryotes. Elle a permis à des réactions chimiques incompatibles de se réaliser simultanément. Au cours du temps, les compartiments que l'on appelle organites se sont spécialisés dans une ou plusieurs fonctions comme le noyau, le système endomembranaire, les mitochondries ou les lysosomes.
 
-## Cytosol
+Phagocytose capacité propre aux Eucaryotes indigestion … à la symbiose. Décupler les possibilités notamment d’acquérir de nouvelles voies métaboliques. Les symbiontes ont co-évolué s’influencent mutuellement deviennent dépendant transfert horizontal et coévolution fusionnelle.
+Mitochondrie couple fidèle presque jamais séparé.
+Plaste gain perte et secondaire tertiaire.
+Nous avons plusieurs ancêtre (espèces) qui se sont fondu en une seule.
+10 000 milliard de cellule chacune contient en moyenne 100 mitochondries.
 
-__Cytoplasme__ totalité du volume cellulaire mise à part le noyau.
+## La cellule eucaryote
 
-__Cytosol (ou hyaloplasme)__ intérieur de la cellule à l'exception des organites.
+### Les composants cellulaires
 
-Composition de la masse du cytosol :
-
-* 85% d'eau.
-* 9% protéine.
-
-Majoritairement organise en complexe
+#### Le cytosol
 
 Le cytosol est le lieu de :
 
 * nombreuses réactions chimiques du métabolisme.
 * de la synthèse des protéines via les ribosomes libres.
-* lieu de stockage de l'énergie comme le glycogène.
+* lieu de stockage de l'énergie sous forme d'ATP de goutelettes lipidiques et osette de glycogènes.
 
-### Stockage de l'énergie
+__Cytoplasme__ totalité du volume cellulaire mise à part le noyau.
 
-Lieu de stockage de l'énergie sous la forme de :
+__Cytosol (ou hyaloplasme)__ intérieur de la cellule à l'exception des organites.
 
-* ATP.
-* lipidiques triglycérides sous la forme de gouttelettes
-* sucre et osette de glycogènes.
+Sa masse est composé à 85% d'eau et 9% protéine.

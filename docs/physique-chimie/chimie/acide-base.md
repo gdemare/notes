@@ -38,7 +38,7 @@ On obtient :
 Cas             | Formule
 ----------------|-----------
 Base forte      | $pH = 14 + \log C_0$
-Base faible     | $pH = 7 + \frac{1}{2} ( pKa + \log C_0)$
+Base faible     | $pH = 7 + \frac{1}{2} \cdot (pKa + \log C_0)$
 Acide fort      | $pH = - \log C_0$
 Acide faible    | $pH = \frac{1}{2} (pKa - \log C_0)$
 
@@ -113,7 +113,7 @@ L'autoprotolyse de l'eau est négligeable lorsque la concentration des
 espèces est $C \gt 10^{-6} mol \cdot L^{-1}$, on a alors
 
 Type  | Fort $pK_a \lt 0$                        | Faible $pK_a \gt 14$   
-------|------------------------------------------|--
+------|------------------------------------------|---
 Acide | $pH = - \log c$                          | $pH = \frac{1}{2} \cdot (pK_a - \log c)$
 Base  | $pH = 14 + \log c$                       | $pH = \frac{1}{2} \cdot (14 + pK_a + \log c)$
 

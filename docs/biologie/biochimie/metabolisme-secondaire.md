@@ -1,4 +1,4 @@
-Métabolisme primaire (par opposition à métabolisme secondaire) nécessaire à la survie d'une cellule.
+__Métabolisme primaire__ (par opposition à métabolisme secondaire) nécessaire à la survie d'une cellule.
 
 __Métabolite__ molécule produite par le métabolisme.
 

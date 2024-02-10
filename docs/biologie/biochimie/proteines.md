@@ -404,14 +404,14 @@ Les protéines subissent des modifications chimiques de type covalente pendant e
 * protéolyse contrôlée.
 * L'ajout de groupements.
 
-Ces modifications peuvent servir :
+Ces modifications peuvent servir à :
 
 1. réguler de l'activité.
-2. à les rendre reconnaissable par l'ajout d'une étiquette par des partenaires ou à dégrader.
-3. à les ancrer dans une membrane.
-4. à les faire participer à des cascades de signalisation
-5. à leur adressage pour qu'elles se rendent au bon endroit dans la cellule
-6. à définir une identité immunologique (comme les groupes sanguins) etc, etc.
+2. les rendre reconnaissable par l'ajout d'une étiquette par des partenaires ou à dégrader.
+3. les ancrer dans une membrane.
+4. les faire participer à des cascades de signalisation
+5. les adressage pour qu'elles se rendent au bon endroit dans la cellule
+6. définir une identité immunologique (comme les groupes sanguins) etc, etc.
 
 ## Les fonctions des protéines 
 
@@ -467,11 +467,13 @@ Deux techniques :
 
 * calorimètres à balayage différentiel Differential Scanning Calorimetry (DSC) structure et interactions specifiques et non specifique. Le principe repose sur la comparaison des échanges de chaleur entre d'un échantillon et un milieu de référence en faisant varier la température.
 * calorimétrie à titrage isotherme (ITC) caractériser des intéractions. Le principe repose sur la mesure chaleur nécessaire au maintient de la température à une valeur constante.
+
 ----
 
-100 000 protéines différentes dans le génome humain.
+!!! note
+	Le génome humain permet d'exprimé environ 100 000 protéines différentes.
 
-environ 200 aa.
+La taille moyenne d'une protéine est de 200 aa.
 
 __Interactome__ ensemble des interactions protéines protéines qui ont lieu dans la cellule à un moment donnée.
 

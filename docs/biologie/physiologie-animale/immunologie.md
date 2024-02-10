@@ -36,9 +36,8 @@ Les monocytes se transforment lorsqu'ils passent dans les tissus en :
 !!! note 
     Les macrophages sont également responsables de la dégradation des cellules mortes.
 
-#### Cellules dendritiques
-
-Les cellules dendritiques font la jonction entre le système immunitaire inné et adaptif en apportant les antigènes aux lymphocytes T naïfs (par opposition à mature). Elles capturent des macromolécules sur le site de l'infections et migrent vers les tissus lymphoïdes.
+!!! note
+    Les cellules dendritiques font la jonction entre le système immunitaire inné et adaptif en apportant les antigènes aux lymphocytes T naïfs (par opposition à mature). Elles capturent des macromolécules sur le site de l'infections et migrent vers les tissus lymphoïdes.
 
 ### Mécanisme du système immunitaire inné
 
@@ -54,7 +53,7 @@ La réaction immunitaire se déclenche généralement lors du franchissement de 
     1. Les mastocytes libèrent de l'histamine qui provoque la dilation des vaisseaux sanguins. Les cellules endothéliales libèrent des médiateurs vasoactifs qui provoquent une dilatation des capillaires sanguins et une augmentation de leur perméabilité.
     2. Les macrophages et les cellules dendritiques libèrent des cytokines notamment des chimiokines, des interlokines et des prostaglandines qui attirent les leucocytes.
 
-3. La vasodilations permet aux leucocytes de traverser la paroi et d'aller sur le site d'infecté. C'est ce que l'on appelle la réaction inflammatoire.
+3. La vasodilations permet aux leucocytes de traverser la paroi et d'aller sur le site infecté. C'est ce que l'on appelle la réaction inflammatoire.
 
 __Diapédèse__ mécanisme de franchissement de la barrière endothéliale par les leucocytes.
 
@@ -85,8 +84,7 @@ Les cellules de l'immunité innée s'activent ou augmentent leur activité lorsq
 
 * Motifs moléculaires associés aux dégâts cellulaires (DAMP). Lorsqu'une cellule est endommagée, certaines molécules présentes uniquement dans le milieu intracellulaire peuvent se retrouver dans le milieu extracellulaire, par exemple l'ATP, urée, actine.
 
-La détection a lieu grâce à des récepteurs membranaires appelé Pattern
-Recognition Receptor.
+La détection a lieu grâce à des récepteurs membranaires appelé Pattern Recognition Receptor.
 
 ### Résistance des pathogènes
 
@@ -114,41 +112,43 @@ Plusieurs études réalisées sur des jumeaux ont montré que l'efficacité du s
 
 Les lymphocytes sont des cellules ovales avec un noyau de grande taille appartenant aux globules blancs (les leucocytes) qui sont produites dans la moelle osseuse. Il existe deux types de lymphocytes qui se distinguent notamment :
 
-      | Lymphocyte         | Lymphocyte    |
-|--------------------------|----------------------|------------------------|
-| Lieu de maturatio   | Moelle osseus      | Thymu |
-| Récepteu    | B cell receptor (BCR)      | T cell receptor (TCR) |
-| Forme des récepteur | En         | En    |
-| Nbre moyen dans l'organism  | 1 millio   | 10 million    |
-| Formes reconnues par les récepteurs | Sucres, protéines, lipides | Peptides antigéniques |
-| Lieu de reconnaissanc       | Extracellulair     | Intracellulaire       |
+Caractéristiques        | Lymphocyte         | Lymphocyte
+------------------------|--------------------|----
+Lieu de maturation      | Moelle osseus      | Thymu
+Type de récepteurs      | B cell receptor (BCR) | T cell receptor (TCR)
+Nbre de cellules        | $10^6$             | $10^7$
+**Récepteurs**           |                    |
+Forme                   | En         | En    |
+Molécules reconnues     | Sucres, protéines, lipides | Peptides antigéniques
+Lieu de reconnaissance  | Extracellulaire     | Intracellulaire
 
 __Épitope__ partie de l'antigène qui se lie au récepteur.
 
 __Immunité humorale__ immunité donnée par les molécules et non par les cellules (par opposition à cellulaire).
 
-#### Récepteurs des lymphocytes
+#### Les récepteurs
 
 En moyenne, chaque lymphocyte possède 100 000 récepteurs de reconnaissance ancrés dans la membrane plasmique.
 
 La présentation de l'antigène aux lymphocytes a lieu dans le système lymphatique par l'intermédiaire des CMH (complexe majeur d'histocompatibilité).
 
-Chaque récepteur est spécifique à un seul antigène. Leur production se fait par un mécanisme de réorganisation des gènes appelé recombinaison somatique. Certains segments d'ADN sont supprimés aléatoirement pour permettre de générer un nouveau gène. Ce mécanisme permet de produire une grande diversité de récepteurs (de l'ordre de 3,5x 10^6^).
-
-Les lymphocytes qui réagissent aux antigènes du soi sont éliminés avant de devenir mature. C'est ce que l'on appelle la tolérance au soi.
+Chaque récepteur est spécifique à un seul antigène. Leur production se fait par un mécanisme de réorganisation des gènes appelé recombinaison somatique. Certains segments d'ADN sont supprimés aléatoirement pour permettre de générer un nouveau gène. Ce mécanisme permet de produire une grande diversité de récepteurs (de l'ordre de $3,5\cdot 10^9$).
 
 La sélection des lymphocytes se fait par l'association des récepteurs membranaires avec un antigène qui est présenté par les cellules dendritiques.
 
+!!! note
+    Les lymphocytes qui réagissent aux antigènes du soi sont éliminés avant de devenir mature. C'est ce que l'on appelle la tolérance au soi.
+
 ### Activation des lymphocytes
 
-Un lymphocyte s'active lorsqu'un antigène vient se fixer sur un de ses récepteurs. Il entre alors dans une phase de clonage. Les lymphocytes produits deviendront soit :
+Un lymphocyte s'active lorsqu'un antigène vient se fixer sur un de ses récepteurs. Il entre alors dans une phase de clonage. Les lymphocytes produits deviendront soit des cellules :
 
-* Des cellules effectrices (plasmocytes).
-* Des cellules mémoires.
+* effectrices appelée plasmocytes.
+* mémoires.
 
 __Cellules effectrices__ cellules qui combattent l'antigène.
 
-Cette phase de multiplication permet de donner naissance à partir d'un lymphocyte B à la présence de $10^5$ à $10^6$.
+Cette phase de multiplication permet de donner naissance à partir d'un lymphocyte B à de $10^5$ à $10^6$ cellules.
 
 __Amplification clonale__ processus de réplication des lymphocytes à la suite de leur activation.
 
@@ -157,46 +157,43 @@ Les cellules mémoires persistent longtemps dans l'organisme. Elles permettront 
 1. première exposition, il faut entre 10-17 jours.
 2. seconde exposition 2-7 jours.
 
-#### Les lymphocytes B
+### Lymphocytes B
 
 Les lymphocytes B deviennent actifs lorsqu'un antigène est présenté par :
 
-* La présence directe avec le pathogène.
+* la présence directe avec le pathogène.
 * un lymphocyte T CD4 helper.
 
 Les cellules effectrices des lymphocytes B sont les plasmocytes. Elles produisent une version soluble des récepteurs membranaires appelée anticorps qu'elles relâchent dans le milieu extracellulaire. Leur appareil de Golgi est extrêmement développé. Il occupe une surface importante dans la cellule.
 
 Les plasmocytes sont dépourvus de récepteurs membranaires. Ils vivent entre trois et cinq jours.
 
-Les anticorps se lient aux pathogènes pour permettre de :
+#### Les anticorps
+
+Les anticorps se lient aux pathogènes pour :
 
 * favoriser la reconnaissance des pathogènes et l'opsonisation, aide à la phagocytose.
-* aider à contenir les pathogènes en les agglomérant. Chaque récepteur est capable de se lier à de deux antigènes.
+* aider à contenir les pathogènes en les agglomérant. Chaque récepteur est capable de se lier à deux antigènes.
 * neutraliser les pathogènes. Ils empêchent les pathogènes (comme les virus) de rentrer dans une cellule hôte.
 * provoquer la destruction du pathogène grâce à l'association de protéines (ce processus est appelé système du complément). Certaines protéines viennent s'associer aux anticorps pour former un complexe d'attaque membranaire qui perce la membrane du pathogène et provoque sa mort.
 
 __Anticorps__ (ou immunoglobuline Ig ou BCR) version du récepteur membranaire soluble (libre dans le milieu extracellulaire). Il est capable de réagir avec un antigène.
 
-### La structure des récepteurs des lymphocytes B (BCR), les anticorps
+##### Structure
 
-Les récepteurs d'antigènes des lymphocytes B sont en forme de Y appelé motifs immunoglobulines G (Ig G). On trouve deux 2 sites de reconnaissance identiques à chaque extrémité.
+Les récepteurs d'antigènes des lymphocytes B sont en forme de Y appelé motifs immunoglobulines G (Ig G). On trouve deux sites de reconnaissance identiques à chaque extrémité.
 
 Chaque récepteur est composé de quatre chaines peptidiques :
 
 * 2 sont dites lourdes. Elles sont ancrées à la membrane plasmique.
 * 2 légères.
 
-Chaque chaine est composée de deux régions :
-
-* constante. 
-* variable.
-
-Les parties variables sont sous divisées en région :
+Chaque chaine est composée de deux régions constante et variable. Les parties variables sont sous divisées en région :
 
 * de structure généralement peu variable.
 * hypervariables où se situent les acides aminés qui interagissent avec l'antigène. Elles sont appelées CDR.
 
-Il existe cinq types d'anticorps ayant des fonctions (opsonisation, neutralisation) et des localisations spécifiques formées par la combinaison de deux types de chaines légères (Kappa et Alpha) et de cinq types de chaines lourdes (γ, δ, α, μ et ε) :
+Il existe cinq types d'anticorps ayant des fonctions (opsonisation, neutralisation) et des localisations spécifiques formées par la combinaison de deux types de chaines légères (Kappa et Alpha) et de cinq types de chaines lourdes ($\gamma$ , $\sigma$, $\alpha$, $\mu$ et $\epsilon$) :
 
 * IgA localisés principalement dans les muqueuses et l'appareil urogénitale. Ils préviennent des pathogènes.
 * IgD sont des récepteurs des cellules B qui n'ont pas été exposées à un antigène. Active les basophiles et mastocyte pour produire des molécules antibactériennes.
@@ -204,7 +201,7 @@ Il existe cinq types d'anticorps ayant des fonctions (opsonisation, neutralisati
 * IgG existent en quatre formes. Ils constituent la majorité des anticorps lors d'une réponse immunitaire. Ils sont les seuls capables de circuler dans le fœtus et de lui conférer une immunité passive.
 * IgM exprimés à la surface des lymphocytes B et en pentamère. Ils ont une haute affinité et sont synthétisée particulièrement au début de la réaction humorale.
 
-### Les lymphocytes T
+### Lymphocytes T
 
 L'activation des lymphocytes se fait par la présentation d'un antigène au niveau des CMH par une cellule présentatrice d'antigène notamment par une cellule dendritique.
 
@@ -213,27 +210,22 @@ Il existe deux types de cellules chez les lymphocytes T en fonction du type de r
 * LT auxiliaire équipé des CD4.
 * LT cytotoxique équipé des CD8.
 
-### Activation des LT et cascade signalisation
+### Activation et cascade signalisation
 
 Des voies métaboliques peuvent être déclenchées dans les LT par la réponse à trois types de signaux :
 
-* Un antigène : le lymphocyte T devient actif.
-* Une molécule de co-stimulation (uniquement pour les LT matures) qui stimule la production du LT ou l'inhibe. Ce mécanisme permet :
-* de contrôler le nombre de lymphocytes actifs présents dans l'organisme.
-* responsables de la tolérance au soi en désactivant les LT auto-réactifs.
-* Pour les LT helper (ou LT auxiliaire ou LT CD4^+^), des molécules de type cytokines sécrétées par les cellules dendritiques qui contribuent au devenir des lymphocytes T :
+* un antigène. Le lymphocyte T devient actif.
+* Une molécule de co-stimulation (uniquement pour les LT matures) qui stimule ou inhibe la production du LT. Ce mécanisme :
+
+    * permet de contrôler le nombre de lymphocytes actifs présents dans l'organisme.
+    * est responsables de la tolérance au soi en désactivant les LT auto-réactifs.
+
+* Pour les LT helper (ou LT auxiliaire ou LT $CD4^+$), des molécules de type cytokines sécrétées par les cellules dendritiques qui contribuent au devenir des lymphocytes T :
 
     * $LT_4\ 1$ en réponse à l'interleukine 12 (noté Il-12) qui activeront les macrophages et les $LT\ CD8^+$ (la prolifération et l'activité).
     * $LT_4\ 2$ en réponse à Il-4. Ils produiront des interleukines 4 qui stimuleront la prolifération des LB et leur activité.
     * $LT_4\ 3$ ou régulateur en réponse à l'interleukine 17, 21, 22 ou Tumor Growth Factor noté TGF qui inhibe la réponse immunitaire.
     * Contribuent à la mobilisation des polynucléaires neutrophiles, un type de leucocytes.
-
-### Les LT auxiliaires 
-
-Lorsqu'ils sont activés, les LT auxiliaires se différencient en :
-
-* activé (appartient aux LT effectrices).
-* à mémoire.
 
 ### Les LT cytotoxiques
 
@@ -245,7 +237,9 @@ __Apoptose__ (ou mort cellulaire programmée) processus par lequel une cellule d
 2. Vérification de la présence d'antigène à l'intérieur de la cellule.
 3. Si la présence a été trouvée. Le LT déclenche une voie métabolique dans la cellule amarrée qui conduit à son apoptose.
 
-### La structure des récepteurs des lymphocytes T (TCR)
+#### Les récepteurs (TCR) 
+
+##### Structure 
 
 Les récepteurs des lymphocytes T sont constitués de deux chaines peptidiques $\alpha$ et $\beta$.
 
@@ -253,14 +247,15 @@ L'extrémité forme le site de fixation et ne peut se lier qu'à un seul antigè
 
 Le lymphocyte actif présent sur ses récepteurs TCR un peptide antigénique.
 
-## Tolérance immunitaire
+## La tolérance immunitaire
 
 Le système immunitaire maintient une absence de réponse aux antigènes du soi grâce à deux types de tolérance :
 
-* Centrale
-* Périphérique
+* centrale.
+* périphérique.
 
-L'échec de la tolérance centrale ou périphérique peut aboutir à une auto-immunité c'est-à-dire une maladie auto-immune.
+!!! note
+    L'échec de la tolérance centrale ou périphérique peut aboutir à une auto-immunité c'est-à-dire une maladie auto-immune.
 
 __Auto-antigène__ antigène du soi.
 
@@ -274,7 +269,7 @@ Les cellules du soi sont identifiées grâce à des récepteurs présents sur le
 
 C'est parce que les cellules cancéreuses ne sont pas reconnues comme un corps étranger qu'elles ne sont pas détruites par l'organisme et qu'elles peuvent proliférer.
 
-#### Tolérance centrale
+### Tolérance centrale
 
 La tolérance centrale est le processus d\'élimination des lymphocytes T et B qui réagissent au soi, c'est-à-dire possédant des auto-antigènes. Ce processus est appelé processus de maturation des précurseurs des lymphocytes. Il élimine les lymphocytes qui ont une affinité forte et moyenne au CMH-peptidique du soi soit en :
 
@@ -293,30 +288,28 @@ la variabilité des récepteurs
 
 La variabilité des anticorps est lié à :
 
-* Les imprécisions dans la jonction entre les
-* La combinaison L et H chaînes.
-* Le réarrangement des gènes
-* Un taux de mutation augmenté.
+* les imprécisions dans la jonction entre les
+* la combinaison L et H chaînes.
+* le réarrangement des gènes
+* un taux de mutation augmenté.
 
 Changer de région constante en fonction du somatique hyper-mutation
 
 changer de type de partie constante pour produire un autre type d'anticorps.
 
-#### Tolérance périphérique
+### Tolérance périphérique
 
 Cette deuxième étape de la tolérance permet d'éliminer les 30% restant de lymphocytes auto réactifs. A la reconnaissance de l'autoantigène, les lymphocytes sont inactivés définitivement par les lymphocytes T régulateurs.
 
-## Maladies autoimmunes
+### Maladies auto-immunes
 
 Elle peut être provoquée par des facteurs :
 
 * génétiques.
-* environnementaux.
+* environnementaux avec deux types de facteurs environnementaux :
 
-On a deux types de facteurs environnementaux :
-
-* Xénobiotiques : U.V, cigarette...
-* Les pathogènes.
+    * xénobiotiques : U.V, cigarette...
+    * les pathogènes.
 
 ### Les pathogènes 
 
@@ -388,18 +381,18 @@ Le complexe de vérification des CMH des lymphocytes :
 * B est le B-cell receptor (BCR).
 * T est le T-cell receptor (TCR).
 
-## Présentation des antigènes et activation des lymphocytes
+### Présentation des antigènes
 
 Les CMH servent aux lymphocytes T à contrôler les cellules :
 
 * CMH I sont reconnus par les LT équipés des complexes de contrôle de type CD8.
 * CMH II sont reconnus par les LT équipés de CD4.
 
-### Les lymphocytes LT4 (CD8)
+#### Les lymphocytes LT4 (CD8)
 
 Les PAMP phagocytés par les cellules dendritiques sont présentés sur les CMH II puis apportés aux lymphocytes. Si un lymphocyte a suffisamment d'affinité avec le CMH II alors il deviendra actif et se mettra à proliférer. Une partie de ses descendants ira combattre l'infection. 
 
-## Combat de l'infection par les lymphocytes 
+### Combat de l'infection par les lymphocytes 
 
 Lorsqu'une cellule est infectée ou qu'elle devient tumorale son métabolisme est modifié. Elle produira des protéines non habituelles qui lorsqu'elles seront dégradées, apparaitront à la surface des CMH. Ils serviront de marques, de repères qui la signaleront comme ayant une activité anormale et permettront aux lymphocytes effectrices d'identifier la cellule et de la détruire. 
 
@@ -409,7 +402,7 @@ Il existe trois situations qui permettent aux cellules malades d'échapper à le
 * l'inactivation des CMH.
 * lors de l'appareillage du CMH avec un lymphocyte, la cellule produit des molécules qui inhibent l'activité des lymphocytes.
 
-## Efficacité des lymphocytes 
+### Efficacité des lymphocytes 
 
 L'efficacité des lymphocytes en activité est croissante dans le temps. La fixation entre les récepteurs cellulaire et les CMH est graduelle. On parle de degré d'affinité entre les deux protéines. Lors d'une infection, le degré d'affinité entre le complexe de vérification et les lymphocytes augmente au cours du temps. Si, grâce aux mécanismes qui provoquent les mutations dans la séquence qui codent pour les parties variables des CR, un nouveau lymphocyte apparait par hasard avec un degré d'affinité plus élevé avec l'antigène, ils se multipliera plus vite et envahira la population de lymphocytes qui combat l'infection.
 

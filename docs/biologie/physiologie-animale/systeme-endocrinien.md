@@ -8,7 +8,10 @@ Les Animaux possèdent deux systèmes de communication et de régulation de l'or
 
 ## Le système endocrinien
 
-Les Animaux sécrètent dans le liquide extracellulaire des molécules appelées hormones qui servent d'intermédiaire pour réguler leur métabolisme et assurer la coordination du développement des parties de leur corps.
+Les Animaux sécrètent dans le liquide extracellulaire des molécules appelées hormones qui servent d'intermédiaires pour :
+
+* réguler leur métabolisme.
+* assurer la coordination du développement des parties de leur corps.
 
 Le système endocrinien est principalement impliqué dans la régulation de :
 
@@ -18,7 +21,7 @@ Le système endocrinien est principalement impliqué dans la régulation de :
 * la croissance.
 * le comportement.
 
-Chaque hormone est reconnue par un récepteur spécifique que possède des cellules dites cibles. L'activation du récepteur par l'hormone déclenche des réactions au sein de la cellule.
+Chaque hormone est reconnue par un récepteur spécifique que possède les cellules dites cibles. L'activation du récepteur par l'hormone déclenche des réactions au sein de la cellule.
 
 Les modes de transmission entre les cellules animales sont classés en fonction :
 
@@ -138,34 +141,8 @@ Les types des communications dans le corps :
 
 Les cellules endocrines sont présentes dans le corps :
 
-<table>
-<colgroup>
-<col style="width: 34%" />
-<col style="width: 65%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>De manière disparate</th>
-<th>Regroupées en tissu appelé glande endocrine</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Thymus</p>
-<p>Cœur</p>
-<p>Foie</p>
-<p>Reins</p>
-<p>Intestin grêle</p></td>
-<td><p>Hypothalamus</p>
-<p>Corps pinéal</p>
-<p>Glande thyroïde</p>
-<p>Glande parathyroïde</p>
-<p>Glandes surrénales</p>
-<p>Pancréas</p>
-<p>Ovaire/testicule</p></td>
-</tr>
-</tbody>
-</table>
+* de manière disparate (thymus, cœur, foie, reins, intestin grêle).
+* regroupées en tissu appelé glande endocrine (hypothalamus, corps pinéal, glande thyroïde, glande parathyroïde, glandes surrénales, pancréas, ovaire/testicule).
 
 ### Les types d'hormones
 
@@ -181,8 +158,8 @@ Amine 		 | Tyrosine ou tryptophane 	| Hydrosoluble/hydrophobe
 
 1. Les hormones hydrophobes sont sécrétées dans le milieu extracellulaire par exocytose.
 2. Elles sont acheminées par des protéines de transport qui les rendent solubles et leur permet d'être acheminées par voie sanguine dans la région où se trouvent les cellules cibles.
-3. Le complexe se désolidarise et les hormones traversent les membranes pour aller se fixer sur des récepteurs situés soit dans le noyau, soit dans le cytosol.
-4. Transcription génétique
+3. Le complexe se désolidarise et les hormones traversent les membranes pour aller se fixer sur des récepteurs situés soit dans le noyau ou dans le cytosol.
+4. Transcription génétique.
 
 #### Solubles
 
@@ -220,7 +197,7 @@ Les réponses cellulaires peuvent varier en fonction du type de :
 * cellules.
 
 !!! example 
-	L'adrénaline  est une hormone hydrosoluble produite en cas de stress. Elle cible des récepteurs membranaire de type G :
+	L'adrénaline est une hormone hydrosoluble produite en cas de stress. Elle cible des récepteurs membranaire de type G :
 
 	* $\beta$ du foie provoque une augmentation de l'énergie disponible dans le sang en :
 
@@ -232,7 +209,7 @@ Les réponses cellulaires peuvent varier en fonction du type de :
 
 ## Coordination du système hormonal et nerveux
 
-Les activités du système hormonales sont en partie régulées par une glande située dans l'encéphale : l'hypothalamus. Il exerce une régulation hormonale en fonction des informations sur les conditions du milieu qu'il reçoit du système nerveux.
+Les activités du système hormonal sont en partie régulées par une glande située dans l'encéphale : l'hypothalamus. Il exerce une régulation hormonale en fonction des informations sur les conditions du milieu qu'il reçoit du système nerveux.
 
 !!! example
     Les informations transmises par les neurones sur les changements saisonniers déclenchent la libération d'hormones qui provoque l'apparition de comportements sexuelles et le fonctionnement des organes sexuels durant la période de reproduction.

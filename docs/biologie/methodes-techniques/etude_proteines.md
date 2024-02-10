@@ -15,7 +15,7 @@ __Protéine de ménage__ protéine dont le niveau d'expression ne varie pas entr
 
 Tampons :
 
-## La localisation
+## Localiser
 
 La localisation d'une protéine peut être détecter :
 
@@ -23,7 +23,7 @@ La localisation d'une protéine peut être détecter :
 * En isolant les organites cellulaires (noyau, mitochondries...) puis en vérifiant la présence de la protéine.
 * En utilisation des anticorps.
 
-## Supprimer l'expression d'une protéine
+## Supprimer l'expression
 
 Pour supprimer la présence d'une protéine, il est possible d'avoir
 recours à :
@@ -31,7 +31,7 @@ recours à :
 * L'utilisation un individu mutant avec un gène KO codant pour la protéine d'intérêt.
 * De l'ARN interfèrent qui s'hybride avec l'ARNm de la protéine d'intérêt. Il empêche sa synthèse par les ribosomes et conduit à sa destruction.
 
-## Dénaturer une protéine
+## Dénaturer
 
 Pour dénaturer (déplier) une protéine, il faut utiliser deux types de substances :
 
@@ -43,7 +43,7 @@ Les dénaturant les plus couramment utilisé sont le SDS et l'urée.
 !!! note 
     Les ponts disulfures ne sont pas alternés par les dénaturants.
 
-## Concentration des protéines
+## Purifier et séparer les protéines
 
 Un dosage est une méthode qui permet de calculer la concentration d'un composé dans un échantillon.
 
@@ -51,7 +51,26 @@ Un dosage est une méthode qui permet de calculer la concentration d'un composé
 * La méthode de Bradford (gamme de BSA colorée au bleu de Coomassie)
 * Méthode BioCinchoninic acid Assay (BCA)
 
-### Absorbance
+### Isoler une protéine d'intérêt
+
+Un anticorps dirigé vers une des protéines est associé à des billes d'agarose. La solution composée des billes et des enzymes sont centrifugées. Le complexe, plus lourd, se retrouve au fond du tube.
+
+## Électrophorèse
+
+Il existe plusieurs types d'électrophorèse :
+
+* En gel de polyacrylamide contenant du dodécysulfate de sodium (PAGE-SDS). Ce dernier sert, avec le pH, à la linéariser les protéines.
+* Par focalisation isoélectrique (IEF) sépare par la charge électrique.
+
+L'électrophorèse 2D consiste à réaliser une séparation :
+
+* en fonction du point isoélectrique (IEF) en faisant un gradient de pH sur gel.
+* par la taille.
+
+Un tampon de charge laemmli est ajouté aux protéines pour suivre le
+front de migration.
+
+## Mesurer la concentration
 
 La concentration des protéines peut être mesurer en déterminant l'absorption des noyau phénol du tryptophane et de tyrosines à la longueur d'onde 280nm.
 
@@ -71,49 +90,13 @@ Le dosage colorimétrique des protéines se fait à 562 nm. La réaction se fait
 !!! warning
     Incompatible avec des agents réducteurs et chélatants.
 
-## Chromatographie
+## Par spectrométrie
 
-La chromatographie est un ensemble de méthodes qui permet de séparer les protéines en fonction de leurs propriétés chimiques. Il existe quatre types de chromatographie :
+La spectrométrie permet de :
 
-* d'exclusion qui sépare en fonction de la taille et de la forme appelé poids moléculaire en kDa.
-* D'affinité qui filtre par affinité avec un ligand. Les composés se détachent progressivement (élués).
-* D'échange d'ions. Des billes chargées retiennent les molécules par leur charge. Elles sont ensuite éluées progressivement par leur charge.
-* Sur couche mince.
+* quantifier une protéine.
 
-!!! note
-    Il existe une chromatographie qui utilise des anticorps à la place des ions.
-
-### Exclusion
-
-Les molécules passent dans des billes percées. Plus la molécule est grosse plus vite elle sortira. On a une relation linéaire entre log de la taille en fonction du volume élué.
-
-$v_{mort}$ volume d'élution des plus grosses molécules, celles qui ne peuvent pas entrer dans les billes.
-
-K_a coefficient de partage : $K_{a} = \frac{v_{élué} - v_{mort}}{v_{total} - v_{mort}}$.
-
-### Echanges d'ions 
-
-Les protéines sont mises dans une colonne échangeuse avec des billes qui possèdent une charge opposée à la protéine d'intérêt. Les protéines sont détachées progressivement par plusieurs lavages (le solvant est appelé analyte). Il casse les interactions faibles càd de type :
-
-* Hydrogènes.
-* Van Deer Val.
-
-## Électrophorèse
-
-Il existe plusieurs types d'électrophorèse :
-
-* En gel de polyacrylamide contenant du dodécysulfate de sodium (PAGE-SDS). Ce dernier sert, avec le pH, à la linéariser les protéines.
-* Par focalisation isoélectrique (IEF) sépare par la charge électrique.
-
-L'électrophorèse 2D consiste à réaliser une séparation :
-
-* en fonction du point isoélectrique (IEF) en faisant un gradient de pH sur gel.
-* par la taille.
-
-Un tampon de charge laemmli est ajouté aux protéines pour suivre le
-front de migration.
-
-## Révéler les protéines
+## Révéler une protéine
 
 Pour révéler la présence de protéines, il est possible de les colorer
 par :
@@ -127,16 +110,40 @@ __Épitope__ région de fixation de l'anticorps.
 
 __Facteur de purification__ activité spécifique de l'étape par rapport à celle de départ.
 
-### Isoler une protéine d'intérêt
+## Purification de protéines
 
-Un anticorps dirigé vers une des protéines est associé à des billes d'agarose. La solution composée des billes et des enzymes sont centrifugées. Le complexe, plus lourd, se retrouve au fond du tube.
+__Activité spécifique__ activité de la protéine étudiée par rapport à la quantité de protéines présente.
 
-## Spectrométrie de masse
+__Rendement__ activité de la protéine de l'étape par rapport à l'activité de départ.
+
+__Facteur de purification__ activité spécifique de l'étape par rapport à celle de départ.
+
+
+réactions d’oxydoréduction
+différence de potentiel entre le couple.
+$\Delta = - n \cdot F \cdot \Delta E$
+
+avec :
+
+* $n$ le nbre d’électrons échangés.
+
+
+$\Delta G
+= R \cdot T \cdot \ln{\frac{final}{initial}}+ z \cdot F \cdot E_{membranaire}$ avec :
+
+* $E$ le potentiel entre les compartiements.
+* $z$ la charge de la particule échangée.
+
+
+!!! note
+    les formules d’oxydoréduction et de Nerst se ressemblent car le premier est calculé grâce au deuxième.
+
+## Protéomique
 
 La spectrométrie permet de :
 
-* Quantifier une protéine.
-* Inventaire des protéines présentes.
+* quantifier une protéine.
+* inventaire des protéines présentes.
 
 ### Exemples
 
@@ -175,6 +182,13 @@ Il existe deux méthodes principales pour identifier une protéine d'intérêt 
 !!! warning
     Ces méthodes permettent de réaliser une quantification mais elles ont tendance à
 
+Pour révéler la présence de protéines, il est possible de colorer par :
+
+* Bleu de Coomassie (non spécifique)
+* Antigène (spécifique).
+
+__Épitope__ région de fixation de l'anticorps.
+
 ### Westernblot
 
 Le Westernblot est une méthode combinatoire :
@@ -196,7 +210,9 @@ Avantage : test simple, facile d\'emploi et peu coûteux
 
 Inconvénients : ça réalisation dépend des anticorps disponibles sur le marché.
 
-## Mesurer l'activité enzymatique
+## Les enzymes
+
+### Mesurer l'activité enzymatique
 
 Comparer la concentration au départ et à la fin soit du :
 
@@ -216,3 +232,41 @@ généralement recours à :
 
 * Un réducteur (DTT agent fort qui peut altérer les chaines peptidiques ou TECP agent faible).
 * Une substance qui réagit avec les atomes de souffres comme l'iodoacétamide qui provoque une alkylation.
+
+--------------
+
+# Les méthodes d'études des protéines
+
+Ces méthodes servent à identifier une protéine d'intérêt.
+
+Pour dénaturer (déplier) une protéine, il faut utiliser deux types de substances :
+
+* Des agents réducteurs qui suppriment les ponts disulfures
+* Des dénaturants de suppriment les liaisons non covalentes (hydrogène ou Van der Vaal).
+
+### Vocabulaire
+
+Ne pas utiliser le terme tache. On parlera de bande ou de spot.
+
+
+
+Westernblot (ou transfert de protéines) est une méthode combinatoire :
+
+1. Électrophorèse sur gel.
+2. Transfert sur une membrane.
+3. Coloration des protéines.
+
+## Électrophorèse
+
+Il existe plusieurs types d'électrophorèse :
+
+* En gel de polyacrylamide contenant du dodécysulfate de sodium (PAGE SDS) sépare par la taille.
+* Par focalisation isoélectrique (IEF) sépare par la charge électrique.
+
+L'électrophorèse 2D consiste à réaliser une séparation :
+
+* en fonction du point isoélectrique (IEF).
+* par la taille.
+
+
+

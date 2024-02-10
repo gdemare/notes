@@ -1,8 +1,6 @@
-__Métabolisme primaire__ (par opposition à métabolisme secondaire) métabolisme nécessaire à la survie d'une cellule.
-
 La photosynthèse est composée de deux phases :
 
-* photochimique. Elle permet de produire de l'énergie en régénérant l'ATP et NADPH en utilisant la lumière et l'eau qui servira notamment pour la fixation du carbone.
+* photochimique. Elle permet de régénérer l'ATP et NADPH en utilisant la lumière et l'eau. L'énergie sous forme d'ATP et NADPH servira notamment pour la fixation du carbone.
 * le cycle de fixation du carbone ou de fabrication des glucides appelé cycle de Calvin. Il a lieu dans le stroma.
 
 !!! note
@@ -13,7 +11,7 @@ Il existe deux types de photosynthèse en présence ou de l'absence d'oxygène 
 * photosynthèse oxygénique.
 * photosynthèse anoxygénique $2H_2O + CO_2 \rightarrow O_2 + H_2O + CH_2O$.
 
-## Phytochimique
+## Phase photochimique
 
 La phase photochimique permet de produire à partir de la lumière :
 
@@ -28,21 +26,28 @@ Les photosystèmes sont formés :
 !!! note
     Les pigments sont des molécules spécialisées pour capter la lumière.
 
-## Les pigments
+### Les pigments
 
 Le spectre de lumière exploitée lors de la photosynthèse est contraint par l'utilisation de longueurs d'ondes :
 
-* Supérieures à 380nm. En dessous, la lumière est filtrée par l'atmosphère et, est néfaste pour les cellules.
-* Inférieures à 750nm. Au-dessus, les ondes sont absorbées par l'eau, un constituant présent en grande quantité dans les organismes.
+* $\gt 380nm$. En dessous, la lumière est :
+    
+    * filtrée par l'atmosphèreest
+    * néfaste pour les cellules.
+
+* $\lt 750nm$. Au-dessus, les ondes sont absorbées par l'eau, un constituant présent en grande quantité dans les organismes.
 
 __Radiation photosynthétique active__ ensemble des longueurs d'ondes utilisées par la plante.
 
-### Fonctionnement
+#### Fonctionnement
 
 La photosynthèse débute lorsqu'un pigment absorbe un photon. Un de ses électrons passe sur une orbitale avec une énergie potentielle plus élevée. Pour être absorbé, les photons doivent apporter l'énergie équivalent à la différence d'énergie entre l'état fondamental et excité.
 
 !!! note
-    L'énergie d'un photon est sa longueur d'onde. Les photons verts ne sont pas absorbés car leur énergie ne correspond pas à la différence.
+    L'énergie d'un photon dépend de sa longueur d'onde.
+
+!!! note
+    Les photons verts ne sont pas absorbés car leur énergie ne correspond pas à la différence.
 
 !!! note
     Chaque molécule n'est capable d'absorber que des longueurs d'ondes précises.
@@ -54,28 +59,28 @@ L'état excité est un état instable. Les électrons reviennent à l'état fond
 
 Les pigments sont regroupés au sein de structures appelées antennes collectrices. Il existe deux grandes familles de pigments :
 
-* chlorophylle.
-* caroténoïde.
+* la chlorophylle.
+* les caroténoïdes.
 
 !!! note
-    Les algues utilisent des pigments supplémentaires pour réaliser la photosynthèse car le milieu aquatique modifie les propriétés de la lumière. Ils sont formés de complexe protéines et de pigments associés à des phycobiliprotéines appelé phycobiline.
+    Les algues utilisent des pigments supplémentaires pour réaliser la photosynthèse car le milieu aquatique car l'eau modifie les propriétés de la lumière. Ils sont formés de complexe protéines et de pigments associés à des phycobiliprotéines appelé phycobiline.
 
-### Caroténoïdes
+#### Caroténoïdes
 
-Les caroténoïdes sont des molécules lipophiles présentes dans les membranes des thylakoïdes. Elles sont fabriquées dans les plastes à partir de terpènes. Leur pic d'absorption se situe à 450 nm et elles servent de pigments additionnels en aidant à capter :
+Les caroténoïdes sont des molécules lipophiles présentes dans les membranes des thylakoïdes. Elles sont fabriquées dans les plastes à partir de terpènes. Leur pic d'absorption se situe à 450 nm et elles servent de pigments additionnels pour :
 
-* l'énergie lumineuse.
-* à la photoprotection en dissipant le surplus d'énergie. Elle évite la formation de molécules oxydantes dangereuses dû à l'interaction entre les photons et l'oxygène.
+* capter la lumière.
+* à la photoprotection. Elles dissipent le surplus d'énergie ce qui limite la formation de molécules oxydantes dangereuses dû à l'interaction entre les photons et l'oxygène.
 
 !!! note
     La structure des caroténoïdes est apparentée aux pigments présent dans notre œil.
 
-### Chlorophylles
+#### Chlorophylles
 
 Les pigments chlorophylliens sont composés :
 
-* Un noyau porphyrine hydrophile qui enserre un ion magnésium ($Mg^{2+}$) dans le stroma.
-* Une queue phytol hydrophobe qui est ancrée dans la membrane des thylakoïdes.
+* un noyau porphyrine hydrophile qui enserre un ion magnésium ($Mg^{2+}$). Il est situé le stroma.
+* Une queue phytol hydrophobe ancrée dans la membrane des thylakoïdes.
 
 Il existe quatre types de chlorophylle :
 
@@ -86,35 +91,37 @@ B (454 nm)                        | Plantes et algues vertes
 C1 et c2                          | Algues brunes
 D                                 | Algues rouges
 
-Les différences de comportement des types de chlorophylle face à la lumière dépendent des groupements situés autour du noyau. Par exemple, pour les deux types de chlorophylles les plus présentes càd a et b, la différence de pics d'absorption s'explique par la substitution d'un groupement $-CH_3$ par un $-CHO$.
+!!! note
+    Les différences de comportement des types de chlorophylle face à la lumière dépendent des groupements situés autour du noyau. Par exemple, pour les deux types de chlorophylles les plus présentes càd a et b, la différence de pics d'absorption s'explique par la substitution d'un groupement $-CH_3$ par un $-CHO$.
 
-Un changement de l'état énergétique se produit dans la molécule de chlorophylle entre en contact avec un photon bleu ou rouge. Si le photon est de couleur bleu, elle libère le surplus d'énergie sous forme de chaleur pour se ramener à un photon rouge.
+Un changement de l'état énergétique se produit quand la molécule de chlorophylle entre en contact avec un photon bleu ou rouge. Si le photon est de couleur bleu, elle libère le surplus d'énergie sous forme de chaleur et se ramene à l'état obtenu avec un photon rouge.
 
-Il existe trois possibilités pour revenir à l'état initial càd pour dissiper l'énergie et revenir à une configuration stable :
+Il existe trois possibilités pour revenir à l'état initial càd à un état stable. Il est possible de dissiper l'énergie par :
 
 * fluorescence càd par l'émission d'un photon de plus faible énergie que celui reçu.
-* par résonnance. L'énergie est transférée à la molécule suivante.
+* résonnance. L'énergie est transférée à la molécule suivante.
 * photochimie càd en cédant un électron.
 
-Fluorescent produit de la lumière.
+!!! note
+    La fluorescent produit de la lumière.
 
-Phosphorescence restitue l'énergie lumineuse sous une autre fréquence généralement visible.
+__Phosphorescence__ fluorescence avec l'émission d'un photon dans le spectr visible.
 
 !!! note
     C'est parce que la chlorophylle est associée à d'autres protéines dans la cellule qu'elle n'émet pas de lumière.
 
-## Phase photochimique
+### Déroulement
 
 La photosynthèse se déroule d'abord, dans le photosystème II où a lieu la production du gradient de $H^+$ utilisé notamment pour la chimiosmose de l'ATP.
 
 1. Excitation des pigments par la lumière. L'énergie se propage vers le complexe du centre excitateur. L'électron excité transmet son état à un électron de la molécule voisine et retrouve son état fondamental.
 2. P680 transfert un électron à l'accepteur primaire. Il devient alors $P680^+$.
-3. Une enzyme construite autour de ions Mn (Manganèse) transfert les électrons de l'eau un par un vers $P680^+$ ($H_2O \rightarrow \frac{1}{2} O_2 + 2H^+ + 2é$) pour combler la charge manquante. La lyse de l'eau a lieu dans la lumière des thylakoïdes. 
+3. Une enzyme qvec des ions Mn (Manganèse) transfert les électrons de l'eau un par un vers $P680^+$ ($H_2O \rightarrow \frac{1}{2} O_2 + 2H^+ + 2é$) pour combler la charge manquante. La lyse de l'eau a lieu dans la lumière des thylakoïdes. 
 
 !!! note 
-    $P680^+$ est l'oxydant biologique le plus fort. Le centre accepte successivement 4 électrons pour oxyder l'$O_2$.
+    $P680^+$ est l'oxydant biologique le plus fort. Le centre accepte successivement 4 électrons d'oyxde deux $H_2O$ en $O_2$.
 
-4. L'accepteur primaire du photosystème cède son électron à la chaine de transport constitués d'une succession de plastoquinones (Pq), puis d'un complexe de cytochromes.
+4. L'accepteur primaire du photosystème cède son électron à la chaine de transport constituée d'une succession de plastoquinones (Pq), puis d'un complexe de cytochromes.
 
 !!! note 
     Les cytochromes sont aussi appelés cycle Q et réalise le transfert de $H^+$ du stroma vers la lumière des thylakoïdes.
@@ -137,7 +144,7 @@ Bilan : Nombre de protons maximum généré $4 H^+ + 4 \times 8 H^+ = 40 H^+$ s
 
 Conclusion : Le rendement est  $\frac{ATP}{4é} = \frac{ATP}{H^+} \cdot \frac{H^+}{4é} = \frac{1}{3,33} \cdot \frac{40}{4} = 3$
 
-## Structure des photosystèmes
+#### Structure des photosystèmes
 
 La phase photochimique a lieu en deux étapes. Elles commencent toute les deux au niveau du photosystème qui agissent successivement et qui sont le lieu de la conversion de l'énergie lumineuse en chimique en réalisant une réduction :
 
@@ -147,7 +154,7 @@ La phase photochimique a lieu en deux étapes. Elles commencent toute les deux a
 !!! note
     Les herbicides sont des inhibiteurs de la chaîne de transport des électrons.
 
-### Photosystème II
+##### Photosystème II
 
 Le photosystème II réalise la réaction :
 
@@ -170,7 +177,7 @@ Le fonction du site réactionnel
 3. Retiré les électrons complexe d'oxydation vient compenser la perte.
 4. Quatre électrons de l'oxydation de l'eau viennent un à un produit 3 émissions de photons pour l'étape est lieu.
 
-### Photosystème I
+##### Photosystème I
 
 Le photosystème I réalise la réaction :
 
@@ -181,11 +188,11 @@ Il est constitué de :
 * une antenne collectrice.
 * un centre réactionnel constitué d'un dimère de chlorophylle.
 
-### Coordination de l'activité
+##### Coordination de l'activité
 
 Le deux photosystèmes fonctionnent successivement et à vitesse similaire. Leur activité est coordonnée par l'intermédiaire de la concentration de plastoquinone ( $PQH_2$ ) qui est le produit et le substrat des deux réactions.
 
-## Transport cyclique du photosystème I
+#### Transport cyclique du photosystème I
 
 Le transport cyclique est PSI le transport cyclique (circuit fermé).
 
@@ -208,7 +215,7 @@ Produit des molécules à 3 atomes de carbones 3 phosphoglycéraldéhyde (PGAL) 
 2. Enzyme ribulose di phosphate carboxylase/oxygénase. Elle catalyse la réaction mais ne distingue pas le $CO_2$ du $O_2$. Dans.
 3. C'est l'enzyme la plus abondante sur Terre.
 
-## Synthèse d'ATP
+#### Synthèse d'ATP
 
 L'acidification du lumen est utilisée pour synthétiser de l'ATP. Les protons servent à créer à activer des ATP synthase, une machine moléculaire. Elle possède deux domaines :
 
@@ -219,7 +226,7 @@ La structure diffère légèrement entre les espèces mais le principe reste le 
 
 Les protons font tournés le rotor qui entraine le stator là ou trois sites de catalyse de l'ATP. Un tour nécessite 10 protons et produit une molécule d'ATP. Une ATP synthase tourne 130 fois par seconde.
 
-## Efficacité de la photosynthèse
+#### Efficacité de la photosynthèse
 
 L'efficacité de la photosynthèse dépend de :
 
@@ -259,7 +266,7 @@ La phase est composée de trois parties :
 1. Carboxylation. La fixation du $CO_2$ sur une molécule organique.
 2. Réduction. 1/6 du produit quitte le cycle sous forme de sucre et 5/6 est utilisé pour régénérer le substrat.
 
-### Carboxylation
+#### Carboxylation
 
 La carboxylation est réalisée par la lumière par l'intermédiaire de la Rubisco dont l'activité dépend :
 
@@ -268,7 +275,7 @@ La carboxylation est réalisée par la lumière par l'intermédiaire de la Rubis
 * De la concentration de $CO_2$ augmente active.
 * La fixation d'une protéine activatrice, la RubisCo activase, sur la RubisCo transforme le groupement $NH_3^+$ d'une lysine en $N-COO^-$ lorsque le milieu est basique. Sans elle, la RubisCo ne fonctionne pas.
 
-### Réduction
+#### Réduction
 
 La réduction se déroule :
 
@@ -279,7 +286,7 @@ La régulation du cycle de Calvin se fait par
 
 Inhibiteur : DCMU et DTT utilisé en laboratoire qui bloque la chaine de transfert d'électrons.
 
-## Photorespiration : le cycle du C2 du glycolate
+### Photorespiration : le cycle du C2 du glycolate
 
 La rubisco est l'enzyme la plus présente sur Terre, elle représente 50% de la proportion des molécules foliaires. Son nom vient de 1,5 rubilose bi phosphate carboxylase/oxygénase abrégé en RubisCo. Elle est bifonctionnelle. Elle fixe sur un ribose bi phosphate soit :
 
@@ -318,7 +325,7 @@ Les raisons qui expliquent la présence de ce mécanisme :
 * un héritage de l'évolution. Lorsque la photosynthèse est apparue, l'atmosphère était dépourvue en $O_2$. Il n'était pas nécessaire que la RubisCo distingue $O_2$ et $CO_2$. Or la photosynthèse a changé la composition atmosphérique faisant passer la quantité d'oxygène d'une valeur négligeable à 21% et le $CO_2$ à 0,3%. Ainsi le problème serait apparu après.
 * Photoprotection. Lors de fortes chaleurs ou en condition de manque d'eau les stomates sont fermés pour limiter l'évaporation. La lumière continue de faire fonctionner les systèmes photosynthétiques même lorsque la concentration de $CO_2$ trop faible. C'est le $O_2$ qui réduit générant du $O_2^-$, une molécule très réactive pouvant altérer les molécules voisines. La respiration servirait à maintenir du $CO_2$ dans la plante éviter la formation de $O_2^-$.
 
-## Métabolisme C4
+#### Métabolisme C4
 
 Le métabolisme C4 concerne 1500 espèces principalement tropicales ou subtropical et monocotylédone (par exemple, le maïs, la canne à sucre...).
 
@@ -344,7 +351,7 @@ Les enzymes importantes du métabolisme C4 :
 !!! note
     Le malate et la PEP sont des métabolites présent dans plusieurs voies métaboliques, comme la glycolyse pour la PEP.
 
-## Métabolisme CAM
+#### Métabolisme CAM
 
 Le métabolisme acide des crassulacées ou CAM concerne les plantes vivant dans des milieux extrêmement secs. Ce type de métabolisme est apparu plusieurs fois dans plusieurs familles d'espèces au cours de l'évolution, caractère analogue.
 
@@ -359,7 +366,7 @@ PEPcase active la PEP malate régulation précise.
 
 Malate déshydrogénase
 
-1.  Libération du $CO_2$ catalyse par l'enzyme malique à NADP.
+1. Libération du $CO_2$ catalyse par l'enzyme malique à NADP.
 
 !!! note
     Il y a compétition entre la PEPcase et la rubisco pour le $CO_2$. La relation de PEPcase se fait par la lumière grâce à l'intervention d'une kinase.
@@ -368,7 +375,7 @@ Le rendement des CAM est 50% inférieur au C3 et 66% à celui des C4.
 
 Certaines plantes sont CAM facultatives. Elles sont capables de changer de métabolique en fonction des conditions environnementales.
 
-# Utilisation des sucres
+### Utilisation des sucres
 
 Le produit du cycle de Calvin est le triose phosphate. Sa concentration augmente dans les mitochondries plus le cycle se réalise ce qui ralenti la vitesse réaction. L'enthalpie libre s'approche du minimum. Pour limiter le ralentissement, le triose phosphate est :
 
@@ -379,22 +386,3 @@ Les sucres sont alors disponibles pour le métabolisme et la synthèse de compos
 
 !!! note
     L'amidon est regroupé en grain.
-
-# Métabolisme secondaire
-
-__Métabolite__ molécule produite par le métabolisme.
-
-Les végétaux disposent d'un métabolisme non essentiel à leur survie appelé métabolisme secondaire (par opposition au métabolisme primaire qui est vital). Il existe d'importantes disparités entre les espèces.
-
-Plus de 200 000 métabolites associés au métabolisme secondaire ont été recensés. Ils servent principalement à :
-
-* Repousser les prédateurs ou les organismes nuisibles et se défendre contre les agressions.
-* Compétition entre et avec les autres plantes.
-* Favoriser la symbiose avec d'autres organismes (bactéries, champignons, pollinisateurs...)
-
-Il existe trois types de métabolites secondaires :
-
-* Composés phénoliques ou les polyphénols issus de la voie de l'acide shikimique et acétate/malonate sont synthétisés en réponse au stress.
-* Les alcaloïdes ou les composés azotés qui dérivent des acides aminés, sont généralement des molécules toxiques.
-* Les terpènes dérivés de l'isopentényl pyrophosphate (IPP), une molécule à 5C, sont de nature volatile et dégage une forte odeur qui sert notamment dans la protection.
-* Les glycosides qui contiennent une molécule de sucre.
