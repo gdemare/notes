@@ -18,9 +18,8 @@ Périphérique
 
 Organisation structurale :
 
--   Substance grise (corps cellulaires) et
-
--   substance blanche (prolongements)
+* Substance grise (corps cellulaires) et
+* substance blanche (prolongements)
 
 2 Caractéristiques principales :
 
