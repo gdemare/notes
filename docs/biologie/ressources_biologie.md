@@ -11,3 +11,7 @@
 ## Ecologie
 
 * [Infoclimat](https://www.infoclimat.fr/climatologie/annee/2023/nice-cote-d-azur/valeurs/07690.html) comparaison des conditions climatologiques avant et maintenant.
+
+## Bioinformatique
+
+* [Institut Francais de Bioinformatique](https://www.france-bioinformatique.fr/) site de la bioinformatique en France. Des outils de bioinformatique sont mis à disposition.
