@@ -109,14 +109,23 @@ nav:
         - "Potentiel cellulaire" : biologie/cellule/potentiel-cellulaire.md
         - "Régulation de l'expression génétique" : biologie/cellule/regulation-expression-genique.md
       - "Physologie animale" :
+        - "Physiolgoi" : biologie/physiologie-animale/physiologie.md
+        - "Circulation et échange gazeux" : biologie/physiologie-animale/circulation-echanges-gazeux.md
         - "Comportement" : biologie/physiologie-animale/comportement.md
         - "Nutrition" : biologie/physiologie-animale/nutrition-animaux.md
         - "Immunologie" : biologie/physiologie-animale/immunologie.md
         - "Muscle" : biologie/physiologie-animale/muscle.md
         - "Neurologie" : biologie/physiologie-animale/neurobiologie.md
         - "Osmorégulation et excrétion" : biologie/physiologie-animale/osmoregulation-excretion.md
+        - "Reproduction" : biologie/physiologie-animale/reproduction.md
+        - "Reprodctuion sexuée" : biologie/physiologie-animale/reproduction-sexue.md
         - "Système endorinien" : biologie/physiologie-animale/systeme-endocrinien.md
         - "Système nerveux" : biologie/physiologie-animale/systeme-nerveux.md
+      - Plante :
+        - "Cellule" : biologie/plante/cellule-vegetale.md
+        - "Nutrition" : biologie/plante/nutrition-vegetale.md
+        - "Organisation" : biologie/plante/organisation-vegetale.md
+        - "Reponses au stimuli" : biologie/plante/reponse-vegetaux.md
       - "Procaryotes et virus" :
         - Bactéries : biologie/cellule/bacteries.md
         - Virus : biologie/cellule/virus.md
@@ -138,9 +147,15 @@ nav:
         - "Phylogénie" : biologie/evolution/phylogenie.md
         - "Origine de la biodiversité" : biologie/ecologie/origine-biodiversite.md
         - "Théorie de l'évolution" : biologie/evolution/theorie-evolution.md
+      - Taxonomie :
+        - "Classification" : biologie/taxonomie/classification.md
+        - "Animaux" : biologie/taxonomie/animaux.md
+        - "Champignons" : biologie/taxonomie/champignons.md
+        - "Végétaux" : biologie/taxonomie/plantes.md 
     - "Matériels et méthodes" :
       - "Méthodes" :
         - "Généralités" : biologie/methodes-techniques/etude_biologie.md
+        - "Méthodes" : biologie/methodes-techniques/methodes.md
         - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
         - "Immunomarquage" : biologie/methodes-techniques/immunomarquage.md
       - "Matériels" :
@@ -155,6 +170,7 @@ nav:
       - "Cartographie" : data-science/cartographie.md
       - "Fouille de textes" : data-science/text-mining.md
       - "Traitement des images" : data-science/traitement-image.md
+      - "Traitement du signal" : data-science/traitement-signal.md
       - "Transformation des données" : data-science/transformation-donnees.md
     - "Modèles" :
       - "Modèles" : data-science/models/models.md
@@ -215,6 +231,7 @@ nav:
       - Thermodynamique : 
         - Thermodynamique : physique-chimie/chimie/thermodynamique.md
         - "Acide-base" : physique-chimie/chimie/acide-base.md
+      - "Réactions chimiques" : physique-chimie/chimie/reactions-chimiques.md
     - Physique :
       - Physique : physique-chimie/physique/physique.md
       - Optique : physique-chimie/physique/optique.md
@@ -222,6 +239,8 @@ nav:
       - "Physique quantique" : physique-chimie/physique/physique-quantique.md
       - "Les atomes" : physique-chimie/physique/atomes.md
   - Autres :
+  
+    - Démocratie : autres/démocratie.md
     - Anglais :
       - Conjugaison : autres/anglais/conjugaison.md
       - Grammaire : autres/anglais/grammaire.md
