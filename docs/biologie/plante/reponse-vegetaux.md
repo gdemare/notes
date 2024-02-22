@@ -1,16 +1,17 @@
 Les végétaux perçoivent et réagissent aux stimulus internes et externes.
 
-Animaux réagissent en s'approchant des favorables et s'éloignant des néfastes.
+!!! note
+	Contrairement aux Animaux, les plantes de peuvent pas réagir en s'approchant de conditions favorables et s'éloignant de celles qui sont néfastes.
 
-Plante immobile en modifiant leur croissance et leur développement
+Pour les Plantes immobiles en modifiant leur croissance et leur développement
 
 Différence importante en morphologie entre les individus.
 
-Étoilement tige blanche sans feuilles pour éviter endommager limiter la dépense d'énergie sans produire de la chrolophylele
+__Étoilement__ tige blanche sans feuilles pour éviter endommager limiter la dépense d'énergie sans produire de la chrolophyle.
 
 Peu évaporation racine
 
-Lumière importante changement biochimique
+Lumière importante dans les changements biochimiques
 
 Verdissement
 
@@ -18,20 +19,22 @@ Réaction de croissance orientée tropisme
 
 Différence de croissance de taille de cellules élongation
 
-Auxine horme de croissance herbicide et bouture.
+Rapport entre les hormones qui détermine les réponse cellulaires Hormones :
 
-Rapport entre les hormones qui détermine les réponse cellulaires
-
-Éthyline gaz provoque la perte de feuilles
-
-A l'époque des lampadaire à gaz les arbres situé à porximité perdaient leurs feuilles.
-
-Murissement
+* L'auxine horme de croissance herbicide et bouture.
+* L'éthylène qui est un gaz provoque le vieiellessement des cellules végétales. Il provoque notamment la perte de feuilles et le murissement des fruits.
 
 !!! note
-  Pourquoi un fruit mur permet le murrismeent des autres méthide commerciale exploité cette propriété. Exemple inexpression du gène pour choisir quand le fruit doit murir.
+	A l'époque, les arbres situés à proximité des lampadaires à gaz perdaient leurs feuilles.
 
-Lumière facteur particulièrement important pour la survie la croissance plante sensible la direction intensité longueur d'onde (plus important)
+!!! note
+	Le murrissement des fruits est décidé en controlant la présence d'éthylène ce qui agit sur l'inexpression du gène et permet de choisir quand le fruit doit murir. Cela permet par exemple d'avoir des pommes toute  l'annéee en les stockant dans des engards sous vides. 
+
+Lumière facteur particulièrement important pour la survie la croissance plante qui sont sensible :
+
+* sa direction.
+* son intensité.
+* sa longueur d'onde. C'est le facteur le plus important.
 
 2 groupes de phorécepteurs plus
 
