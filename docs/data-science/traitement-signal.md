@@ -29,8 +29,15 @@ Utiliser :
 
 La fonction d'Allan permet de déterminer le bruit à un certain taux de moyennage (taille de la fenêtre).
 
+### Signaux périodiques
 
-### Transformation de Fourrier 
+__Amplitude__ force
+
+__Fréquence__ nbre d’ondulations par seconde.
+
+__Phase__ façon dont l’onde sinusoïdale est décalée dans le temps,
+
+#### Transformation de Fourrier 
 
 Le graphique est l'amplitude en fonction de la fréquence de chaque signau élémentaire.
 
