@@ -1,3 +1,32 @@
+Isotope deux atomes qui possèdent le même nombre de protons mais un nombre de neutrons différent.
+Chaque atome possède une signature photonique (lumineuse) unique.
+
+
+Structure des molécules
+Les liaisons entre les atomes pour former des molécules se matérialisent par le partage des électrons. Pour comprendre comment les molécules sont fabriquées il faut étudier la configuration des électrons des atomes.
+Configuration électronique des atomes
+La position d’un électron autour d’un atome est défini par :
+𝒏 nombre quantique. 𝒍 < 𝑛 nbre quantique secondaire	𝒎 ≤ |𝑙| nbre quantique magnétique.
+𝒎𝒔 ou 𝒔 𝑠𝑝𝑖𝑛 = ±0.5
+ 
+Le tableau périodique permet une lecture
+ 
+Rayon atomique Distance entre le noyau et le nuage électronique. C’est un peu l’équivalent de la gravité.
+Plus un atome contient de charges positives et moins il a d’électrons plus a tendance à les garder à proximité de son noyau.	 
+Energie d’ionisation (ici première) (opposé d’affinité électronique) énergie requise pour arracher un électron. A →A^++e	
+Affinité électronique quantité d’énergie dégagée à la suite de la capture d’un électron. Elle est maximale lorsque la couche est complètement remplie.	
+Électronégativité capacité d’un atome à attirer des électrons notamment pour compléter ses couches. 	
+Stabilité atomique
+Un atome a tendance à prendre la configuration électronique qui lui donne un niveau de stabilité maximal. La stabilité est atteinte dans les conditions suivantes par ordre de stabilité décroissant) :
+	La couche en cours de remplissage totalement pleine ou totalement vide.
+	La couche en cours de remplissage semi complète avec un électron dans chaque case et leur spin dans le même sens.
+Remarque : la configuration la plus stable correspond à la configuration électronique du gaz rare le plus proche.
+ 
+Pour atteindre cet état, l’atome peut gagner ou en perdre des électrons c’est-à-dire former des ions.
+Lorsque l’on répartit les électrons sur les couches, il faut inverser 4S et 3D.
+Les électrons qui n’appartiennent pas à des doublets (case)
+Valence nbre d’électrons libres n’appartenant pas à des doublets.
+Hypervalence même nombre quantique principal pour partager ses électrons (par exemple : C, P, Na.)
 
 ## Intéraction moléculaires
 
