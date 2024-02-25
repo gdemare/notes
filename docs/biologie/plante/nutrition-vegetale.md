@@ -1,5 +1,4 @@
-__Apoplaste__ extérieur des membranes plasmiques et des vaisseaux du xylème.
-Le fluide qui s'y trouve s'appelle apoplasme.
+__Apoplaste__ extérieur des membranes plasmiques et des vaisseaux du xylème. Le fluide qui s'y trouve s'appelle apoplasme.
 
 __Symplaste__ intérieur des membranes plasmiques. Il comprend l'ensemble des cytosols relié aux cellules voisines par les plasmodesmes. Le fluide qui s'y trouve s'appelle symplasme.
 
@@ -8,19 +7,20 @@ Les plasmodesmes permettent des échanges entre les cellules comme de l'ARN et d
 Dans les plantes, trois voies où circulent les molécules :
 
 * symplasmique à l'intérieur des parois.
-* transcellulaire, la traverser par la paroi.
+* transcellulaire pour celles qui  traversent la paroi.
 * apoplasmique à l'extérieur des parois.
 
-C'est la membrane plasmique régule les échanges de substances.
+!!! note
+    La membrane plasmique régule le passage de nombreuses substances.
 
 Le potentiel électrique des cellules est généré par le gradient de $H^+$ contrairement aux animaux où c'est essentiellement $Na^+$. Les stimulus électriques joueraient également un rôle dans la communication cellulaire.
 
-# Le transport de l'eau
+## Le transport de l'eau
 
 La diffusion d'eau à travers la membrane plasmique se fait par :
 
-* diffusion
-* les aquaporines
+* diffusion.
+* les aquaporines.
 
 La perméabilité des aquaporines est régulée par la concentration de $Ca^{2+}$ et le pH. Ce mécanisme rapide à l'échelle cellulaire est trop lent à celle de l'organisme. Par exemple, pour un séquoia il faudrait plusieurs siècles pour qu'une molécule d'eau atteigne le sommet de l'arbre.
 
@@ -294,8 +294,7 @@ __Lithotrophe__ assimile les minéraux organiques.
 
 ### Dénitrification dissimilatrice
 
-La dénitrification dissimilatrice est le processus de réduction du nitrate en nitrite. Elle est réalisée par certaines bactéries en condition anaérobie. Le nitrate est utilisé comme l'accepteur terminal
-d'électrons.
+La dénitrification dissimilatrice est le processus de réduction du nitrate en nitrite. Elle est réalisée par certaines bactéries en condition anaérobie. Le nitrate est utilisé comme l'accepteur terminal d'électrons.
 
 D'importantes quantités de $N_2O$ présents dans les sols sont issues de la dénitrification dissimilatrice bactérienne.
 
@@ -358,7 +357,8 @@ On trouve aujourd’hui des plantes qui n’ont pas besoin et n’établissent p
 
 470 milliard La symbiose des début à conduit à un emballement + photosynthèse + de glucides pour les champignons + de minéraux disponibles pour les plantes
 Taux de $O_2 \lt 15%$, il a atteint 30% actuellement 21%.
-!!!
+
+!!! note
     L'augmentation de la concentration de $O_2$ a notamment permis aux animaux de devenir plus grand.
 
 ## Symbiose

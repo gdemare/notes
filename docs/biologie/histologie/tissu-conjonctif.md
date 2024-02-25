@@ -167,8 +167,7 @@ Le collagène forme une superfamille de glycoprotéines fibreuses extracellulair
 
 TABLEAU RECAP :
 
-[Rmq :]{.underline} Elles se colorent uniquement par l'orcéine
-alcoolique.
+[Rmq :]{.underline} Elles se colorent uniquement par l'orcéine alcoolique.
 
 ### Fibres élastiques 
 

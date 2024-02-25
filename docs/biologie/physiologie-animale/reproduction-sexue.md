@@ -1,9 +1,7 @@
-La reproductions sexuée est le processus de fusion de deux gamètes
-haploïdes en un zygote diploïde. En générale :
+La reproductions sexuée est le processus de fusion de deux gamètes haploïdes en un zygote diploïde. En générale :
 
--   Le gamète femelle est gros et immobile ovule
-
--   Le gamète male est petit et possède un flagelle.
+* le gamète femelle est gros et immobile ovule
+* le gamète male est petit et possède un flagelle.
 
 Ce mode de reproduction est celui de la majorité des animaux.
 
@@ -11,73 +9,44 @@ Isogamie (opposition à anisogamie) gamète identique.
 
 ## Émergence de la reproduction sexuée
 
-L'émergence de la reproduction sexuée est une énigme. Un individus
-produira deux fois moins de descendants car il faut un couple pour que
-la reproduction est lieu.
+L'émergence de la reproduction sexuée est une énigme. Un individus produira deux fois moins de descendants car il faut un couple pour que la reproduction est lieu.
 
-Son apparition et sa conservation au cours de l'évolution aurait été
-permise car elle favoriserait la recombinaison génétique. Elle
-faciliterait la sélectionner les caractères adaptées à l'environnement
-et l'élimination des gènes nuisibles.
+Son apparition et sa conservation au cours de l'évolution aurait été permise car elle favoriserait la recombinaison génétique. Elle faciliterait la sélectionner les caractères adaptées à l'environnement et l'élimination des gènes nuisibles.
 
-La recombinaisons accélère l'adaptation uniquement si le taux de
-mutation est plus élevé et que la population est petite.
+La recombinaisons accélère l'adaptation uniquement si le taux de mutation est plus élevé et que la population est petite.
 
 La reproduction sexuée crée de nouvelles difficultés :
 
-|                                  |                                       |
-|----------------------------------|---------------------------------------|
-| La rencontre entre les individus | Des organes sexuels mâles et femelles |
+* la rencontre entre les individus.
+* des organes sexuels mâles et femelles.
 
 ### L'apparition des spermatozoïdes et des ovules
 
-L'apparition des ovules auraient précédée celles des spermatozoïdes.
-Étant plus gros, plus robuste et avec des réserves de nutriments, ils
-auraient été favorisés par la sélection naturelle.
+L'apparition des ovules auraient précédée celles des spermatozoïdes. Étant plus gros, plus robuste et avec des réserves de nutriments, ils auraient été favorisés par la sélection naturelle.
 
 # Appareils reproducteurs, gamétogénèse et fécondation chez l'Homme
 
-Gonade organe de production des gamètes. Ils vont par paire et sont chez
-les hommes, les testicules et chez les femmes, les ovaires.
+Gonade organe de production des gamètes. Ils vont par paire et sont chez les hommes, les testicules et chez les femmes, les ovaires.
 
 ## La méiose
 
 Il existe trois cycles de développement :
 
--   Chez les Animaux, les gamètes sont les seules cellules haploïdes.
-    Elles deviennent haploïdes juste avant la fécondation et fusionnent
-    pour former une cellule diploïde appelée zygote. Ce dernier se
-    divise par mitose.
+* chez les Animaux, les gamètes sont les seules cellules haploïdes. Elles deviennent haploïdes juste avant la fécondation et fusionnent pour former une cellule diploïde appelée zygote. Ce dernier se divise par mitose.
+* chez les végétaux et algues, il est appelé alternance des générations. Il est constitué d'une succession d'une phase multicellulaire haploïde et diploïde. Le gamétophyte peut être soit inclus soit autonome.
+* chez les Protistes, les eumycètes et certaines algues, la méiose a directement lieu directement après la formation du zygote diploïde. Les organismes multicellulaires sont haploïdes.
 
--   Chez les végétaux et algues, il est appelé alternance des
-    générations. Il est constitué d'une succession d'une phase
-    multicellulaire haploïde et diploïde. Le gamétophyte peut être soit
-    inclus soit autonome.
+La méiose est le processus de formation de cellules haploïde à partir de cellule diploïde. Il semble qu'à l'origine la méiose soit une mitose incomplète. Elle est constituée d'étape de réplication, comme pour la mitose, suivie de deux divisions successives. La méiose est un processus :
 
--   Chez les Protistes, les eumycètes et certaines algues, la méiose a
-    directement lieu directement après la formation du zygote diploïde.
-    Les organismes multicellulaires sont haploïdes.
-
-La méiose est le processus de formation de cellules haploïde à partir de
-cellule diploïde. Il semble qu'à l'origine la méiose soit une mitose
-incomplète. Elle est constituée d'étape de réplication, comme pour la
-mitose, suivie de deux divisions successives. La méiose est un
-processus :
-
-1.  Réductionnel. Les deux cellules haploïdes ont des chromatides sœurs
-    qui sont différentes.
-
-2.  Équatorial. Il amène à la formation de quatre cellules haploïdes
-    génétiquement différentes, l'une par rapport à l'autre mais aussi
-    par rapport à la cellule mère.
+1. réductionnel. Les deux cellules haploïdes ont des chromatides sœurs qui sont différentes.
+2. équatorial. Il amène à la formation de quatre cellules haploïdes génétiquement différentes, l'une par rapport à l'autre mais aussi par rapport à la cellule mère.
 
 Les étapes de la méiose :
 
 Prophase :
 
-1.  Condensation des chromosomes
-
-2.  Synapsis. Les chromosomes homologues s'apparient sur leur longueur
+1. Condensation des chromosomes
+2. Synapsis. Les chromosomes homologues s'apparient sur leur longueur
     grâce au complexe synaptonémal. Enjambement processus de
     recombinaison génétique entre les chromosomes de même type par
     échange de segment d'ADN entre les chromatides.
@@ -121,94 +90,55 @@ et nourricières qui forment le follicule. Chaque ovogonies (2n) ne
 donnera qu'un seul ovocyte. Les autres cellules filles produites durant
 la méiose appelées globules polaires, dégénéreront.
 
-A la puberté, la folliculostimulante, une hormone provoque
-périodiquement l'ovulation.
+A la puberté, la folliculostimulante, une hormone provoque périodiquement l'ovulation.
 
-1.  Un petit nombre de follicules entre en croissance. Un seul ovocyte
-    arrive à maturité.
+1. un petit nombre de follicules entre en croissance. Un seul ovocyte arrive à maturité.
+2. l'ovocyte continu sa croissance jusqu'en métaphase II.
+3. le follicule à maturité se rompt et libère l'ovocyte secondaire toujours entouré d'une couche de follicule. Le follicule restant dans l'ovaire se transforme en corps jaune.
+4. si l'ovocyte n'est pas fécondé, le corps jaune dégénère et provoque l'ovulation.
 
-2.  L'ovocyte continu sa croissance jusqu'en métaphase II.
+La menstruation correspond au détachement périodique des muqueuses de l'utérus, l'endomètre, un tissu très vascularisé qui doit permettre l'implantation d'un embryon.
 
-3.  Le follicule à maturité se rompt et libère l'ovocyte secondaire
-    toujours entouré d'une couche de follicule. Le follicule restant
-    dans l'ovaire se transforme en corps jaune.
-
-4.  Si l'ovocyte n'est pas fécondé, le corps jaune dégénère et provoque
-    l'ovulation.
-
-La menstruation correspond au détachement périodique des muqueuses de
-l'utérus, l'endomètre, un tissu très vascularisé qui doit permettre
-l'implantation d'un embryon.
-
-Ovulation processus de libération des ovules matures.
+__Ovulation__ processus de libération des ovules matures.
 
 ## Les spermatozoïdes
 
-### L'appareil reproducteur mâle
-
-![](media/image3.jpeg){width="5.095138888888889in"
-height="2.2618055555555556in"}
-
-![](media/image4.jpeg){width="3.6055293088363953in"
-height="2.5357141294838144in"}
-
 ### La spermatogénèse
 
-Les cellules primordiales sont les spermatogonies. Elles sont localisées
-dans les testicules, dans la paroi des tubes séminifères. Au fur et à
-mesure de la transformation des spermatogonies en spermatozoïdes, elles
-se rapprochent de la lumière des tubes séminifères.
+Les cellules primordiales sont les spermatogonies. Elles sont localisées dans les testicules, dans la paroi des tubes séminifères. Au fur et à mesure de la transformation des spermatogonies en spermatozoïdes, elles se rapprochent de la lumière des tubes séminifères.
 
-Leur formation se fait à une température inférieure de 2°C à celle du
-corps. C'est pourquoi les testicules sont situés à l'extérieur et
-protégés par le scrotum.
+Leur formation se fait à une température inférieure de 2°C à celle du corps. C'est pourquoi les testicules sont situés à l'extérieur et protégés par le scrotum.
 
-Les spermatozoïdes sont éjaculés avec du liquide sécrété par trois
-glandes :
+Les spermatozoïdes sont éjaculés avec du liquide sécrété par trois glandes :
 
--   Vésicules séminales composé notamment de fructose, une source
-    d'énergie et une enzyme de coagulation.
-
--   La prostate avec une enzyme anticoagulante et des substances
-    nutritives pour les spermatozoïdes.
-
--   Glandes bulbo urétrales qui produit un liquide clair qui neutralise
-    l'acidité des résidus d'urine.
+* vésicules séminales composé notamment de fructose, une source d'énergie et une enzyme de coagulation.
+* la prostate avec une enzyme anticoagulante et des substances nutritives pour les spermatozoïdes
+* glandes bulbo urétrales qui produit un liquide clair qui neutralise l'acidité des résidus d'urine.
 
 # Fécondation
 
-Puberté période pendant laquelle l'appareil reproducteur devient
-fonctionnel.
+Puberté période pendant laquelle l'appareil reproducteur devient fonctionnel.
 
-Les gamètes sont des versions réduites des cellules somatiques pour que
-l'union de deux gamètes confère à l'enfant est le même nombre de
-chromosomes que celui de ses parents.
+Les gamètes sont des versions réduites des cellules somatiques pour que l'union de deux gamètes confère à l'enfant est le même nombre de chromosomes que celui de ses parents.
 
-Les cycles de reproduction pour un espèce sont déterminés par les
-hormones dont la synthèse dépend de déclencheurs environnementaux comme
-la température ou la photopériode.
+Les cycles de reproduction pour un espèce sont déterminés par les hormones dont la synthèse dépend de déclencheurs environnementaux comme la température ou la photopériode.
 
 ## Rencontre et choix des individus
 
 La fécondation nécessite deux individus or cela pose deux difficultés :
 
-|                                 |                        |
-|---------------------------------|------------------------|
-| De la rencontre d'un partenaire | Du choix du partenaire |
+* de la rencontre d'un partenaire
+* du choix du partenaire
 
-Phéromone substance chimique volatile excrétée par un individu pour
-modifier le comportement ou la physionomie de ses congénères.
+Phéromone substance chimique volatile excrétée par un individu pour modifier le comportement ou la physionomie de ses congénères.
 
-Pour faciliter la probabilité de reproduction, certaines espèces
-ont développé :
+Pour faciliter la probabilité de reproduction, certaines espèces ont développé :
 
--   Hermaphrodisme (successif ou simultané). L'hermaphrodisme successif
-    peut être en fonction de l'environnement ou cyclique
+* hermaphrodisme (successif ou simultané). L'hermaphrodisme successif peut être en fonction de l'environnement ou cyclique
+* parthénogénèse.
 
--   Parthénogénèse.
-
-[Rmq :]{.underline} l'hermaphrodisme est généralement d'une fécondation
-croisée (allofécondation).
+!!! note
+    L'hermaphrodisme est généralement d'une fécondation croisée (allofécondation).
 
 ## Fécondation
 
@@ -228,18 +158,13 @@ soins parentaux.
 
 L'orifice de la femelle est une ouverture soit :
 
--   Spécialisée : vagin.
-
--   En commun avec les voies digestives : cloaques.
+* spécialisée : vagin.
+* en commun avec les voies digestives : cloaques.
 
 La fécondation interne peut être :
 
--   Directe. Dans ce cas, elle a besoin d'organes reproducteurs
-    compatibles (hectocotyle chez les céphalopodes, pénis, ptérygopodes
-    chez les requins).
-
--   Indirecte. Par exemple, la femelle récupère les spermatozoïdes et
-    les met dans une poche.
+* directe. Dans ce cas, elle a besoin d'organes reproducteurs compatibles (hectocotyle chez les céphalopodes, pénis, ptérygopodes chez les requins).
+* indirecte. Par exemple, la femelle récupère les spermatozoïdes et les met dans une poche.
 
 ### Fécondation externe 
 
@@ -247,69 +172,40 @@ La fécondation externe nécessite généralement un milieu humide.
 
 ## La fécondation chez les mammifères
 
-La fécondation n'a lieu qu'au moment de l'ovulation. Les glaires
-cervicales qui protègent l'utérus deviennent liquide pour permettre aux
-spermatozoïdes d'entrer dans l'utérus où se trouve l'ovule.
+La fécondation n'a lieu qu'au moment de l'ovulation. Les glaires cervicales qui protègent l'utérus deviennent liquide pour permettre aux spermatozoïdes d'entrer dans l'utérus où se trouve l'ovule.
 
-Capacitation processus qui rend actif les spermatozoïdes. Il a lieu à
-l'entrée de l'utérus.
+__Capacitation__ processus qui rend actif les spermatozoïdes. Il a lieu à l'entrée de l'utérus.
 
-1.  Le sperme est éjaculé dans le vagin avec des substances qui
-    provoquent des contractions musculaires au niveau de l'utérus.
+1. le sperme est éjaculé dans le vagin avec des substances qui provoquent des contractions musculaires au niveau de l'utérus.
+2. les spermatozoïdes rentrés (environ 1%) dans l'utérus se dirigent vers l'ovule mature. Ils sont attirés par des substances appelées chimiotactismes. L'épithélium cillé de l'utérus aide à leur déplacement.
+3. environ 200 spermatozoïdes atteignent l'ovocyte secondaire. Ils libèrent des substances qui dissout la couche folliculaire.
+4. les spermatozoïdes qui atteignent la zone pellucide, sécrètent leur acrosome, une vésicule qui contient des substances qui dissolvent la zone pellucide.
+5. le premier spermatozoïde fusionne sa membranes plasmique avec celle de l'ovocyte.
+6. directement, l'ovocyte libère par exocytose le contenu des granules corticaux. C'est la réaction corticale.
+7. le noyau est libéré dans l'ovocyte secondaire.
 
-2.  Les spermatozoïdes rentrés (environ 1%) dans l'utérus se dirigent
-    vers l'ovule mature. Ils sont attirés par des substances appelées
-    chimiotactismes. L'épithélium cillé de l'utérus aide à leur
-    déplacement.
-
-3.  Environ 200 spermatozoïdes atteignent l'ovocyte secondaire. Ils
-    libèrent des substances qui dissout la couche folliculaire.
-
-4.  Les spermatozoïdes qui atteignent la zone pellucide, sécrètent leur
-    acrosome, une vésicule qui contient des substances qui dissolvent la
-    zone pellucide.
-
-5.  Le premier spermatozoïde fusionne sa membranes plasmique avec celle
-    de l'ovocyte.
-
-6.  Directement, l'ovocyte libère par exocytose le contenu des granules
-    corticaux. C'est la réaction corticale.
-
-7.  Le noyau est libéré dans l'ovocyte secondaire.
-
-L'ovocyte entame sa méiose et libère le deuxième globule polaire qui
-contient une chromatides par chromosome (n).
+L'ovocyte entame sa méiose et libère le deuxième globule polaire qui contient une chromatides par chromosome (n).
 
 ## Vocabulaire
 
-Protérandrie ou protandrie (opposition protérogynie ou protogynie)
-hermaphrodisme successif où l'individu est d'abord mâle puis femelle.
+Protérandrie ou protandrie (opposition protérogynie ou protogynie) hermaphrodisme successif où l'individu est d'abord mâle puis femelle.
 
 Polygynie (opposition polyandrie) un male féconde plusieurs femelles.
 
 # Protection et nutrition de l'embryon
 
-Embryogénèse processus de formation d\'un organisme pluricellulaire à
-partir d'un zygote.
+Embryogénèse processus de formation d\'un organisme pluricellulaire à partir d'un zygote.
 
-L'embryon est un individu qui n'est pas complètement fonctionnel. Il a
-besoin :
+L'embryon est un individu qui n'est pas complètement fonctionnel. Il a besoin :
 
--   D'être protégé.
-
--   De recevoir les ressources nécessaires à son développement.
+* d'être protégé.
+* de recevoir les ressources nécessaires à son développement.
 
 Les différents modes de développement embryonnaire :
 
--   Oviparité la fécondation a lieu en interne. L'embryon est pondu et
-    se développe à l'extérieur de la femelle dans un œuf.
-
--   Ovuliparité l'ovule non fécondé est émis dans le milieu où aura lieu
-    la fécondation.
-
--   Pseudo vivipare les œufs ou l'embryon sont incubés dans des cavités
-    non génitales. poche spécialisée ou pas (bouche, sacs vocaux,
-    estomacs...)
+* oviparité la fécondation a lieu en interne. L'embryon est pondu et se développe à l'extérieur de la femelle dans un œuf.
+* ovuliparité l'ovule non fécondé est émis dans le milieu où aura lieu la fécondation.
+* pseudo vivipare les œufs ou l'embryon sont incubés dans des cavités non génitales. poche spécialisée ou pas (bouche, sacs vocaux, estomacs...)
 
 -   Vivipare espèce dont l'embryon se développe dans le corps d'un de
     ses parents (généralement la mère). développement embryonnaire dans
@@ -328,8 +224,7 @@ Les types de nutrition sont :
 -   Par la mère appelé maternotrophie (ou matrotrophe) :
 
     -   Hémotrophie l'embryon se nourrit du sang maternel grâce à une
-        interaction qui a lieu au niveau du placenta ou du «
-        pseudo-placenta ».
+        interaction qui a lieu au niveau du placenta ou du « pseudo-placenta ».
 
     -   Histotrophie l'embryon dégrade des tissus maternels ou des
         sécrétions utérines. C'est le cas chez les mammifères au moment
@@ -360,17 +255,12 @@ un pseudo placenta.
 
 ## Différenciation du sexe des individus
 
-L'ovogénèse est le programme par défaut du développement embryonnaire.
-La différenciation en testicules ne se fait quand présence d'une
-hormone, l'androgène.
+L'ovogénèse est le programme par défaut du développement embryonnaire. La différenciation en testicules ne se fait quand présence d'une hormone, l'androgène.
 
-Pour les organismes gonochorismes, les mécanismes qui détermine le sexe
-peuvent être :
+Pour les organismes gonochorismes, les mécanismes qui détermine le sexe peuvent être :
 
--   Labile càd par des facteurs externes, par exemple environnementaux
-    ou sociaux.
-
--   Génétique. Si le sexe est déterminé par la mère \[mâle/femelle\]
+* labile càd par des facteurs externes, par exemple environnementaux ou sociaux.
+* génétique. Si le sexe est déterminé par la mère \[mâle/femelle\]
     (ZZ/ZW) ou par le père (XY/XX).
 
 ## Vocabulaire de merde 
@@ -381,8 +271,7 @@ sexe.
 Intersexualité coexistence des caractères des deux sexes dans un même
 organe ou une même région du corps. Les individus sont souvent stériles.
 
-Néoténie aptitude à la reproduction chez des animaux gardant une forme
-larvaire.
+Néoténie aptitude à la reproduction chez des animaux gardant une forme larvaire.
 
 Sémelparité (opposition itéroparité) individu se reproduit une seule
 fois.
@@ -529,18 +418,11 @@ Le développement embryonnaire se compose de stades successifs :
 
 1.  Fécondation.
 
-2.  Segmentation. Le zygote devient un embryon multicellulaire en forme
-    de sphère creuse appelée blastula.
+2.  Segmentation. Le zygote devient un embryon multicellulaire en forme de sphère creuse appelée blastula.
+3. Gastrulation. Le blastula se replie sur lui-même pour donner un embryon à trois feuillets.
+4. Organogénèse. Un changement général de position et de forme des cellules qui se structurent en tissus et en organes rudimentaires.
 
-3.  Gastrulation. Le blastula se replie sur lui-même pour donner un
-    embryon à trois feuillets.
-
-4.  Organogénèse. Un changement général de position et de forme des
-    cellules qui se structurent en tissus et en organes rudimentaires.
-
-Malgré la diversité des plans d'organisation des animaux, ils partagent
-plusieurs mécanismes d'expression génétique qui conduisent les cellules
-à leur destiné.
+Malgré la diversité des plans d'organisation des animaux, ils partagent plusieurs mécanismes d'expression génétique qui conduisent les cellules à leur destiné.
 
 ## Les stades du développement embryonnaire
 
@@ -553,22 +435,14 @@ débute avec la division cellulaire.
 La surface de l'ovocyte est recouverte d'une couche protectrice que le
 spermatozoïde doit dissoudre.
 
-Des molécules à la surface du spermatozoïde se lient à des récepteurs de
-surface de l'ovocyte pour :
+Des molécules à la surface du spermatozoïde se lient à des récepteurs de surface de l'ovocyte pour :
 
--   Vérifier la compatibilité du spermatozoïde avec l'ovocyte notamment
-    pour éviter les croisements inter espèces qui seraient non viable.
-    Ce risque est particulièrement élevé dans le cas de fécondations
-    externes.
+* vérifier la compatibilité du spermatozoïde avec l'ovocyte notamment pour éviter les croisements inter espèces qui seraient non viable. Ce risque est particulièrement élevé dans le cas de fécondations externes.
+* déclencher des voies qui bloquent l'entrée d'autres spermatozoïdes (pour éviter la polyspermie).
 
--   Déclencher des voies qui bloquent l'entrée d'autres spermatozoïdes
-    (pour éviter la polyspermie).
+Chez certaines espèces, les ovocytes sont arrêtés à un certain stade de la méiose et reprennent alors leur développement après la fécondation.
 
-Chez certaines espèces, les ovocytes sont arrêtés à un certain stade de
-la méiose et reprennent alors leur développement après la fécondation.
-
-Réaction corticale processus qui permet d'éviter la polyspermie. Lorsque
-l'ovocyte est entré en réaction corticale on parle d'ovocyte de second
+Réaction corticale processus qui permet d'éviter la polyspermie. Lorsque l'ovocyte est entré en réaction corticale on parle d'ovocyte de second
 ordre.
 
 **Chez l'oursin**
@@ -615,9 +489,7 @@ qui attirent les spermatozoïdes.
 8.  Le zygote se divise pour devenir avec deux pôles. On trouve les
     mésomères puis les macromères et les micromères.
 
-```{=html}
-<!-- -->
-```
+
 1.  Stade blastula (sphère creuse).
 
 2.  Stade gastrula. La gastrulation a lieu au niveau du pôle végétatif.
@@ -830,8 +702,7 @@ totale, radiaire et inégale.</p></td>
 
 ## La gestation (ou grossesse) 
 
-Chez l'humain, la durée de gestation est de 266 jours. Elle vari
-énormément entre les espèces, de 21 jours chez les rongeurs à elle
+Chez l'humain, la durée de gestation est de 266 jours. Elle vari énormément entre les espèces, de 21 jours chez les rongeurs à elle
 atteint 600 jours chez les éléphants.
 
 La gestation s'accompagne d'importants changements pour le fœtus et la

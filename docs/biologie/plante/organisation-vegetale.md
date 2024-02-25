@@ -1,24 +1,24 @@
 Les Végétaux peuvent être classés en fonction de leur durée de leur cycle de vie :
 
-* Annuelle : d'un an ou moins annuelles.
-* Bisannuelles : de deux ans avec généralement la production des graines la deuxièmes années.
-* Pérennes (ou vivaces) de plus de deux ans à plusieurs milliers d'années.
+* annuelle : d'un an ou moins annuelles.
+* bisannuelles : de deux ans avec généralement la production des graines la deuxièmes années.
+* pérennes (ou vivaces) de plus de deux ans à plusieurs milliers d'années.
 
-# Structure des végétaux
+## Structure des végétaux
 
 Pour pouvoir prélever les ressources nécessaire à leur survie, leur développement et leur reproduction, les plantes sont composées de deux systèmes :
 
-* Racinaire, qui permet de puiser dans le sol, l'eau et les minéraux. Il est formé par les racines.
-* Caulinaire, qui permet de capter dans l'air, la lumière et le $CO_2$. Il est formé par les tiges et les feuilles.
+* racinaire, qui permet de puiser dans le sol, l'eau et les minéraux. Il est formé par les racines.
+* caulinaire, qui permet de capter dans l'air, la lumière et le $CO_2$. Il est formé par les tiges et les feuilles.
 
 !!! note
     Les deux systèmes ont besoins d'échanger mutuellement leurs ressources.
 
 Les feuilles, les tiges et les racines forment les trois principaux organes des plantes. Ils sont constitués de trois types de tissus :
 
-* De revêtement qui protége la plante de son environnement.
-* Conducteurs qui servent au transport de la plante.
-* Fondamentaux.
+* de revêtement qui protége la plante de son environnement.
+* conducteurs qui servent au transport de la plante.
+* fondamentaux.
 
 !!! note
     Chaque catégorie de tissus forme un corps continu mais leurs caractéristiques varient en fonction de leur position au sein de la plante.
@@ -267,7 +267,7 @@ La stèle est composée :
 La tige permet d'élever :
 
 * les feuilles vers la lumière.
-* Les organes reproducteurs pour faciliter la reproduction et dispersion des graines.
+* les organes reproducteurs pour faciliter la reproduction et la dispersion des graines.
 
 Elle forme une structure segmentée et répétitive appelé phytomère. Chaque segment composé :
 
@@ -715,7 +715,7 @@ Les stratégies principales que les plantes ont mis en place pour répondre aux 
 
 __Bloom explosion__ subite de la végétation.
 
-Plante décidue, caduque ou caducifoliée plante qui perd ses feuilles. Cette stratégie est de type évitement et dormance. Elle est présente à la fois chez des plantes de milieux arides ou soumis au froid et au gel.
+__Plante décidue__ (ou caduque ou caducifoliée) plante qui perd ses feuilles. Cette stratégie est de type évitement et dormance. Elle est présente à la fois chez des plantes de milieux arides ou soumis au froid et au gel.
 
 Les adaptations des sclérophytes pour survivre en milieu chaud et sec :
 
@@ -763,68 +763,65 @@ Aphyllie plante qui caractérisée par l'absence de feuille, la photosynthèse a
 
 ## Aux milieux froids et soumis au gel
 
-Phénologie étude de l'apparition des événements périodiques.
+__Phénologie__ étude de l'apparition des événements périodiques.
 
 Orophyte plantes dont la répartition se limite aux collines et aux montagnes.
 
 Les trois principales stratégies de survie au gel développées par les végétaux sont :
 
-* La prévention
+* La prévention, par exemple, en augmentant la concentration de minéraux diminuer la température de solidification.
 * Survie
 * Survie aux effets secondaires du gels
 
 __Hydathode__ ouverture qui permettent d'évacuer l'eau.
 
-Exemple : Concentration de minéraux diminue la température pour
-
 ## Plantes avec des modes de vie particuliers
 
-Pyrophyte plante adaptée au feu.
+__Pyrophyte__ plante adaptée au feu.
 
 ### Les épiphytes
 
-Épiphyte plante qui pousse sur la partie aérienne d'une autre espèce. L'hôte est appelé phorophyte.
+__Épiphyte__ plante qui pousse sur la partie aérienne d'une autre espèce. L'hôte est appelé phorophyte.
 
 Les épyphytes sont soumises à de nouvelles contraintes qui les ont poussé à adopter de nouveaux modes de vie. Par exemple, les Orchidées épiphytes ont développées:
 
-* Velamen couche celluaire qui recouvre les racines. Elle absorbe l'humidité présente dans l'air à la manière d'une éponge.
-* Des racines photosynthétiques.
+* velamen couche celluaire qui recouvre les racines. Elle absorbe l'humidité présente dans l'air à la manière d'une éponge.
+* des racines photosynthétiques.
 
 ### Les plantes parasites
 
 On distingue deux types de parasitisme chez les plantes :
 
-* Obligatoire (holoparasite)
-* Facultatif (hémiparasite)
+* obligatoire (holoparasite)
+* facultatif (hémiparasite)
 
 !!! note
     Les holoparasites sont des plantes qui ont perdu lacapacité de photosynthèse.
 
-Épirhizes plante qui utilise les racines d'une autre espèce.
+__Épirhize__ plante qui utilise les racines d'une autre espèce.
 
 ## Les adaptations au stress biotiques
 
 Les plantes ont développé des organes qui leur permettent de se protéger des prédateurs que constituent notamment les animaux :
 
-* Épine organe transformé en piquant : tiges, rameaux secondaires... ou feuilles, stipules, ...
-* Aiguillon Excroissance sous-épidermique dure et pointue sur la tige ou sur les bords des feuilles.
-* Trichome cellule épidermique allongée en forme de poils pouvant gêner le déplacement des petits insectes herbivores.
-* Poils urticants cellule épidermique allongée en forme de poils pouvant contenir un ou plusieurs composés toxiques contre les herbivores.
+* épines organe transformé en piquant : tiges, rameaux secondaires... ou feuilles, stipules, ...
+* aiguillon Excroissance sous-épidermique dure et pointue sur la tige ou sur les bords des feuilles.
+* trichome cellule épidermique allongée en forme de poils pouvant gêner le déplacement des petits insectes herbivores.
+* poils urticants cellule épidermique allongée en forme de poils pouvant contenir un ou plusieurs composés toxiques contre les herbivores.
 
 # Organisation générale des plantes à fleur
 
 On distingue deux grands moments dans la vie des plantes à fleur caractérisées par la présence ou l'absence de fleurs, les phases :
 
-* Végétative (absence)
-* Reproductives (présence)
+* végétative (absence)
+* reproductives (présence)
 
 ## La floraison
 
-L'apparition des fleurs et des feuilles a lieu sur les méristèmes
-apicaux caulinaires :
+L'apparition des fleurs et des feuilles a lieu sur les méristèmes apicaux caulinaires :
 
-* Végétatif (feuille tige et racine)
-* Reproducteur (fleur)
+* végétatif (feuille tige et racine)
+* reproducteur (fleur)
 
 Le méristème se développe en trois phases :
 
@@ -860,7 +857,7 @@ La floraison peut être contrôler par d'autres facteurs comme :
 </tbody>
 </table>
 
-Vernalisation exposition au froid indispensable à la floraison.
+__Vernalisation__ exposition au froid indispensable à la floraison.
 
 ## Structure de la fleur
 
@@ -919,7 +916,7 @@ Les types de plantes :
 </tbody>
 </table>
 
-Éperon corolle ou calice en forme de tube qui contient le nectar.
+__Éperon__ corolle ou calice en forme de tube qui contient le nectar.
 
 ### Androcée (les étamines)
 
@@ -953,7 +950,7 @@ L'apparition du fruit a lieu après la fécondation des ovules. Elle doit perm
 * L'ovule se transforme en graine : embryone, albumen (réserve nutritive) et tégument (tissu enveloppe) .
 * L'ovaire se transforme en péricarpe : endocarpe (noyau, coque de lignine), mésocarpe (chair) et épicarpe (généralement la peau du fruit). 
 
-Chez certains fruits, la métamorphose de l'ovaire en péricarpe peu s'accompagner du remplissage de l'espace des ovaires et enserrer les graines. On parle alors de drupe comme pour la pêche (par opposition à akène où la graine est libre comme chez la noisette).  
+Chez certains fruits, la métamorphose de l'ovaire en péricarpe peut s'accompagner du remplissage de l'espace des ovaires et enserrer les graines. On parle alors de drupe comme pour la pêche (par opposition à akène où la graine est libre comme chez la noisette).  
 
 On distingue les fruits en fonction de leur capacité à s'ouvrir et libérer la graine lorsque cette dernière est arrivée à maturité appelée déhiscent (par opposition à indéhiscent). 
 
@@ -970,7 +967,7 @@ La transformation de l'ovaire est de type :
 * Akène la graine est libre (elle n'est pas collée au péricarpe) Ex : noisette, artichaut (akène plumeux).
 * Drupe si la graine n'est pas libre (coincé par le péricarpe) Ex : pêche.
 
-Samare akène muni d'une excroissance en forme d\'aile membraneuse formée par le péricarpe. Elle permet la dispersion des graines par le vent.
+__Samare__ akène muni d'une excroissance en forme d'aile membraneuse formée par le péricarpe. Elle permet la dispersion des graines par le vent.
 
 Piridion réceptacle devenant charnu soudé à l'ovaire (courgette ou pomme).
 
@@ -1018,9 +1015,9 @@ Péricarpe paroi du fruit issue de la transformation de la paroi de l'ovaire.
 
 Graine ovule transformé après la fécondation.
 
-* Pépin, graine entourée d'une gelée résultant de la transformation du tégument.
-* Gousse un seul carpelle contenant plusieurs ovules.
-* Drupe, endocarpe sclérifié. 
+* pépin, graine entourée d'une gelée résultant de la transformation du tégument.
+* gousse un seul carpelle contenant plusieurs ovules.
+* érupe, endocarpe sclérifié. 
 
 Caryopse contenant une seule graine avec péricarpe totalement adhérer a la graine (exemple : le blés, maïs\...) 
 

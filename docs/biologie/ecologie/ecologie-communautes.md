@@ -6,24 +6,21 @@ Facteurs qui influent sur l'abondance (le nombre) et les types d'espèces.
 
 Le classement des interactions interspécifiques :
 
-* Nuisible
-* Utile
-* Sans conséquences
+* nuisible.
+* utile.
+* sans conséquences.
 
-Les limites précises ne sont pas parfaitement définies.
+!!! note
+    Les limites précises ne sont pas parfaitement définies.
 
 Compétition /prédation /hebovirisme symbiose (parasitisme, mutualisme, commensalisme).
 
 Effet sur la survie et la reproduction.
 
-La diversité des espèces d'une communauté est évoluée par deux aspects
+La diversité des espèces d'une communauté est évoluée par deux aspects :
 
-La richesse d'espèces Nombre d'espèces différentes
-
-Abondance relative
-
-Indice de diversité de Shannon $H = - \sum {p_{esp} \cdot \ln p_{esp}}$
-avec $p_{esp}$ la fréquence relative.
+* la richesse d'espèces nombre d'espèces différentes
+* L'abondance relative entre les espèces. Par exemple, il est possible d'utiliser l'indice de diversité de Shannon $H = - \sum {p_{esp} \cdot \ln p_{esp}}$ avec $p_{esp}$ la fréquence relative.
 
 La stabilité et la productivité des communautés semble être plus d'une
 
@@ -31,17 +28,15 @@ Résistance aux espèces envahissantes. L'hypothèse plus diversité accaparent 
 
 Pas au trophique maximum 7 niveaux généralement 5 hypothèse limite :
 
-Énergétique la perte d'énergie entre les niveaux 10%
+* Énergétique la perte d'énergie entre les niveaux 10%
 
 Selon cette hypothèse, les réseaux les plus productifs capables de fixer production synthétiques.
 
-Stabilité dynamique
-
-Plus la chaîne est élaborée mois elle est stable
+Stabilité dynamique plus la chaîne est élaborée mois elle est stable
 
 Des baisses de productivité au niveau les plus bas
 
-À des répercutions importantes ur les prédateurs
+À des répercutions importantes sur les prédateurs
 
 La vitesse de récupération des prédateur est lente. Homme cahine simple imprévisible.
 
@@ -63,15 +58,13 @@ Espèces dominantes = espèces les plus nombreuses (en nombre ou en biomasse)
 
 Raisons hypothèse :
 
-Exploiter mieux les ressources
-
-Évite les prédateurs et les maladies.
-
-Espèces clés peu nombreuse
+* exploiter mieux les ressources
+* éviter les prédateurs et les maladies.
+* espèces clés peu nombreuses.
 
 Conditionne la structure de la communauté
 
-Ingénieur d'écosystème modifient radicalement le milieu physiques (exemple castor).
+__Ingénieur d'écosystème__ espèces qui modifient radicalement le milieu physiques (exemple castor).
 
 Détermination escendante V-\> H
 
@@ -83,7 +76,10 @@ Diminuer les prédateurs pour augmenter la biomasse au niveau inférieur
 
 Les espèces modifient le milieu qu'elle habitent et permet à de nouvelles espèces de croitre succession écologique.
 
-Deux facteurs qui influent le plus sur l'abondance et sur la diversité des espèces la lumière et l'eau.
+Deux facteurs qui influent le plus sur l'abondance et sur la diversité des espèces :
+
+* la lumière
+* l'eau.
 
 Il existe une corrélation entre richesse végétale et animale
 
@@ -91,9 +87,9 @@ Plus la région d'une communauté est étendue et plus le nombre d'espèces est 
 
 Hypothèse est qu'il existe de plus nombreux habitats.
 
-Pour les îles plus, elles sont grandes et situées proche du continent plus
-il y a d'espèces.
+Pour les îles plus, elles sont grandes et situées proche du continent plus il y a d'espèces.
 
 Les agents pathogènes modifient en profondeur les communautés
 
-Agent zoonotique responsable ¾ des maladies.
+!!! note
+    Les agents zoonotiques sont responsables de ¾ des maladies.

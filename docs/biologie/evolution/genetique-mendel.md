@@ -2,10 +2,10 @@ __Génétique__ science qui a pour objet l'étude des mécanismes qui aboutissen
 
 __Espèce__ groupe d'individus potentiellement interfécond qui se reproduise entre eux.
 
-La génétique est composée de plusieurs domaines d'études :
+La génétique est composée de plusieurs domaines d'études, la génétique :
 
-* FFormelleL'étude des lois de transmissions des caractères. 
-* MoléculaireMécanismes moléculaires de conservation et transmission des gènes
+* formelle qui s'intéresse aux lois de la transmission des caractères. 
+* moléculaire qui s'intéresse au mécanismes moléculaires de conservation et transmission des gènes.
 
 On distingue les caractères en deux catégories :
 
@@ -27,9 +27,10 @@ __Individu__ somme des caractères d'un être vivant.
 
 ## Lois de Mendel
 
+Les lois de Mendel stipulent :
 
-* Uniformité : chaque individu possède deux caractères.</td>
-* Indépendance : les caractères sont indépendants (brassage interchromosomique).
+* l'uniformité. Chaque individu possède deux versions d'un même caractère càd deux allèles pour un même gène.
+* l'indépendance. Les caractères sont réparti ondindépendants (brassage interchromosomique).
 * Disjonction : une seule version du caractère possédée par chaque parent est
 transmise (durant la méiose).
 
@@ -134,32 +135,30 @@ Phénotype dominant phénotype produit par l'allèle dominante.
 </tbody>
 </table>
 
-Génération homogène tous les individus d'une génération possèdent le même phénotype.
+__Génération homogène__ tous les individus d'une génération possèdent le même phénotype.
 
-Paire incomplète (en opposition à paire complète) c'est notamment les case des Y/X.
+__Paire incomplète__ (en opposition à paire complète) c'est notamment les case des Y/X.
 
 ## Chromosomes sexuels
 
-Hérédité en zigzague Elle concerne uniquement les caractères sexuels le caractère dépend d'un seul parent.
+__Hérédité en zigzague__ Elle concerne uniquement les caractères sexuels le caractère dépend d'un seul parent.
 
 !!! note
     C'est souvent le mâle ne transmet pas de gènes pour le caractère étudié.
 
 ## Liaison génétique
 
-Lorsque les gènes sont sur deux chromosomes distincts, la présence de l'un est indépendante par rapport à l'autre.
+Lorsque les gènes sont sur deux chromosomes distincts, la présence de l'un est indépendante de l'autre.
 
-Mais lorsqu'ils se situent sur le même chromosome, il peut exister un lien.
+Mais lorsqu'ils se situent sur le même chromosome, il peut exister un lien. Cette probabilité vari et est liée à un mécanisme de recombinaison appelé brassage génétique qui a lieu durant la méiose.
 
-Cette probabilité vari et est directement lié à un mécanisme de recombinaison appelé brassage génétique qui a lieu durant la méiose.
-
-Liaison génétique deux gènes proches sur un chromosome ont tendance à être transmis ensemble lors brassage génétique.
+__Liaison génétique__ deux gènes proches sur un chromosome ont tendance à être transmis ensemble lors brassage génétique.
 
 !!! note
     Si deux gènes sont indépendants alors il se peut qu'ils soient sur :
 
-* Deux chromosomes différents.
-* Sur le même chromosome.
+    * deux chromosomes différents.
+    * sur le même chromosome mais grâce à la recombinaison génétique, ils sont répartis équibrobablement durant la méiose.
 
 Lorsqu'ils sont sur le même chromosome, cela peut être dû aux faites que les recombinaisons génétiques séparent les gènes comme s'ils étaient indépendants.
 

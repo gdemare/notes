@@ -1,6 +1,6 @@
-Les niveaux d'organisation des cellules :
+Les cellules sont organisés :
 
-1. Ttissu ensemble de cellules ayant la même structure et accomplissant la même fonction.
+1. les ttissu ensemble de cellules ayant la même structure et accomplissant la même fonction.
 2. organe ensemble de tissus de forme reconnaissable capable de remplir un ou plusieurs fonctions spécifiques.
 3. système/appareil ensemble d'organes accomplissant une fonction par exemple l'appareil respiratoire.
 

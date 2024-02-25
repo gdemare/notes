@@ -136,14 +136,10 @@ Le transport vésiculaire sélectif implique les mêmes types de protéines de m
 
 Toutes les protéines résidentes du RE ne peuvent pas quitter.
 
-Les protéines et les molécules du RE sont acheminés dans le Golgi puis
-elles sont renvoyées dans le RE grâce au transport rétrograde. Le pH
-étant plus faible dans Golgi que dans le RE va activer La différence de
-pH active certaines enzymes qui fonctionne grâce à la différence de pH.
+Les protéines et les molécules du RE sont acheminés dans le Golgi puis elles sont renvoyées dans le RE grâce au transport rétrograde. Le pH étant plus faible dans Golgi que dans le RE va activer La différence de pH active certaines enzymes qui fonctionne grâce à la différence de pH.
 Activent certaines protéines.
 
-C'est le récepteur KDEL qui assure le transport antérograde ramène les
-protéines dans le RE. Il s'active et se désactive en fonction du pH.
+C'est le récepteur KDEL qui assure le transport antérograde ramène les protéines dans le RE. Il s'active et se désactive en fonction du pH.
 
 ## L'appareil de Golgi
 
@@ -151,9 +147,9 @@ Le pH du lumen diminue à chaque étape de transfert du RE à l'appareil de Golg
 
 Le rôle de l'appareil de Golgi :
 
-* Adresser les protéines vers la bonne destination.
-* Acheminement des phosphatases acides vers les lysosomes.
-* Glycosylation des protéines membranaires.
+* adresser les protéines vers la bonne destination.
+* acheminemer des phosphatases acides vers les lysosomes.
+* glycosylation des protéines membranaires.
 
 L'appareil de Golgi se situe souvent près du noyau
 
@@ -185,8 +181,7 @@ Certaines sécrétions sont libérées rapidement et en grande quantité à la s
 
 ## Lysosomes
 
-Les lysosomes interviennent pour dégrader et recycler des molécules dans
-la cellule.
+Les lysosomes interviennent pour dégrader et recycler des molécules dans la cellule.
 
 Ils sont impliqués dans :
 
@@ -196,8 +191,7 @@ Ils sont impliqués dans :
 !!! note
 	Les lysosomes transportent notamment les molécules dangereuses pour la cellule.
 
-Le trafic vésiculaire est bidirectionnel entre le réseau transgolgien et
-les endosomes.
+Le trafic vésiculaire est bidirectionnel entre le réseau transgolgien et les endosomes.
 
 L'action maximale des enzymes dégradatives est atteinte à pH 5.
 

@@ -1,9 +1,7 @@
-# Le tissu musculaire
-
 Il existe trois types de tissus musculaires :
 
-* Muscle strié/muscle squelettique/muscle volontaire : Responsable du maintien de la posture et du mouvement volontaire (+ œsophage, langue)
-* Muscle lisse (appelé aussi viscéral ou involontaire). Composante musculaire responsable de la contraction involontaire des viscères : vaisseaux sanguins, tractus gastro-intestinal, utérus, vessie, sous le contrôle du système nerveux autonome et des hormones
+* muscle strié ou squelettique ou volontaire : Responsable du maintien de la posture et du mouvement volontaire (+ œsophage, langue)
+* Muscle lisse ou viscéral ou involontaire. Composante musculaire responsable de la contraction involontaire des viscères : vaisseaux sanguins, tractus gastro-intestinal, utérus, vessie, sous le contrôle du système nerveux autonome et des hormones
 * Muscle cardiaque.
 
 ## Muscle squelettique strié
@@ -12,11 +10,11 @@ Les muscles squelettiques servent principalement au maintien de la posture et a
 
 Ils sont :
 
-* Contractilité : capacité de se contracter en réponse à une stimulation appropriée.
-* Extensibilité : faculté d\'étirement,
-* Élasticité : reprise de la forme initiale du muscle quand la contraction cesse.
-* Excitabilité : faculté de percevoir une stimulation et d'y répondre.
-* Tonicité : propriété du muscle à être dans un état de tension permanent = tonus musculaire.
+* contractilité : capacité de se contracter en réponse à une stimulation appropriée.
+* extensibilité : faculté d\'étirement,
+* élasticité : reprise de la forme initiale du muscle quand la contraction cesse.
+* excitabilité : faculté de percevoir une stimulation et d'y répondre.
+* tonicité : propriété du muscle à être dans un état de tension permanent = tonus musculaire.
 
 __Épimysium__ entoure dans son ensemble le muscle formé de groupes de faisceaux.
 
@@ -77,4 +75,3 @@ Lors de l'excitation de la membrane, calcium sort de la membrane et est libéré
 La phospholamban est la protéine qui contrôle le calcium l'activité d'une hormone thyroïdienne peut altérer le fonctionnement.
 
 Connaitre les schémas
-

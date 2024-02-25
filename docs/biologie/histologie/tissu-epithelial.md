@@ -1,9 +1,7 @@
+Un épithélium est un tissu constitué de cellules cohésives. Il sont de :
 
-Un épithélium est un tissu constitué de cellules cohésives qui sont
-soit :
-
-* Revêtement. Bordent les surface de l'organisme (peau, tube digestif ou respiratoire, les canaux excrétoires) protection.
-* Glandulaire. Elles composent les unités fonctionnelles des glandes sécrétoires.
+* revêtement. Il borde et protége les surfaces de l'organisme (peau, tube digestif ou respiratoire, les canaux excrétoires) .
+* glande. Il compose les unités fonctionnelles des glandes sécrétoires.
 
 Les épithéliums servent principalement :
 
@@ -13,12 +11,12 @@ Les épithéliums servent principalement :
 * Glissement entre les surfaces (mésothélium),
 * Transport de matériel vers l'extérieur (par les cils : respiration, absorption, reproduction).
 
-Caractéristiques :
+Les éptihéliums sont caractérisés par être :
 
-* Non vascularisé. Il est nourri par diffusion à travers la MEC
-* La cohésion du tissu est assurée par des molécules d'adhésion
-* La polarité cellulaire qui se retrouve au niveau tissulaire (un côté en contact avec milieu externe et interne).
-* L'expression de filaments intermédiaires de cytokératine (20 aine de protéines marquage de kératine permet de mettre en évidence le tissu épithéliale).
+* non vascularisé. Il est nourri par diffusion à travers la MEC.
+* la cohésion du tissu est assurée par des molécules d'adhésion.
+* la polarité cellulaire avec deux cotés une au contact du milieu externe et l'autre avec le milieu interne.
+* l'expression de filaments intermédiaires de cytokératine. (20 aine de protéines marquage de kératine permet de mettre en évidence le tissu épithéliale).
 
 ## La cohésion du tissu
 

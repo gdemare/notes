@@ -23,30 +23,25 @@ Par exemple, les forêts ont un PPN faible et les prairies ont PPN élevé.
 
 PNette écosystème - PPB respiration de tous les organismes.
 
-Les facteurs limitants de la productivité primaire sont pour les
-milieux :
+Les facteurs limitants de la productivité primaire sont pour les milieux :
 
--   Aquatiques, la lumière qui décroit rapidement avec l'augmentation de
-    la profondeur pas de diminution en fonction de la latitude.
+* Aquatiques, la lumière qui décroit rapidement avec l'augmentation de la profondeur pas de diminution en fonction de la latitude.
 
 Nutriment limitant le type vari principalement azoté dans les océans
 
 phosphate (aussi fer) dans les milieux dulcicoles
 
-Terrestre température humidité car elle favorise la croissance des
-végétaux.
+Terrestre température humidité car elle favorise la croissance des végétaux.
 
-Phosphate plutôt les zones lessivées pH basique (notamment désert) sous
-forme précipité et inaccessible
+Phosphate plutôt les zones lessivées pH basique (notamment désert) sous forme précipité et inaccessible
 
-Productivité secondaire la quantité d'énergie consommé qui est
-transformée en biomasse càd en chair ou en descendants.
+Productivité secondaire la quantité d'énergie consommé qui est transformée en biomasse càd en chair ou en descendants.
 
 Le reste est perdu :
 
-* Par respiration.
-* Non digéré (majeur).
-* Sous forme de chaleur notamment par les détritivores.
+* par respiration.
+* non digéré (majeur).
+* sous forme de chaleur notamment par les détritivores.
 
 __Efficacité écologique__ % d'énergie assimilée (qui ne pas excrété dans les excréments) qui sert pour la croissance de biomasse càd qui n'est utilisé dans la respiration cellulaire.
 
@@ -65,11 +60,9 @@ Il existe une exception, le phytoplancton qui a un temps de génération suffisa
 
 L'estimation des capacités limites de la Terre dépendent
 
-Notre régime alimentaire détermine les ressources disponibles. Il dé
-végétariennes viande estimation des capacités limites de la Terre.
+Notre régime alimentaire détermine les ressources disponibles. Il dé végétariennes viande estimation des capacités limites de la Terre.
 
-Les éléments qui constituent les organismes sont verrouillés en
-permanence :
+Les éléments qui constituent les organismes sont verrouillés en permanence :
 
 Organisme meurt décomposé
 

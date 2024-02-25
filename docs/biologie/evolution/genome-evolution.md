@@ -1,51 +1,24 @@
 L'étude et la comparaison des génomes doivent pouvoir rendre compte en partie des différences entre organisme et des caractéristiques de chaque espèce.
 
-Caryotype ensemble des chromosomes d'une cellule disposé par pair et classe.
+__Caryotype__ ensemble des chromosomes d'une cellule disposé par pair et classe.
 
 Le séquençage de l'ADN est réalisé par :
 
-1.  Le clonage des séquences d'ADN.
-2.  La fragmentation de l'ADN.
-3.  Analyse des petits morceaux de séquences.
-4.  Regroupement des parties grâce aux extrémités qui se chevauchent.
+1. le clonage des séquences d'ADN.
+2. la fragmentation de l'ADN.
+3. analyse des petits morceaux de séquences.
+4. regroupement des parties grâce aux extrémités qui se chevauchent.
 
 La taille moyenne des génomes en Mb (million paires de bases) entre :
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>Nombre de Mb</th>
-<th>Nb de gènes</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Bactérie</td>
-<td>1 et 6</td>
-<td>1 500 et 7 500</td>
-</tr>
-<tr class="even">
-<td>Eucaryote</td>
-<td>12 000 et 670 000</td>
-<td>5 000 et 40 000</td>
-</tr>
-<tr class="odd">
-<td><ul>
-<li><p>Homme</p></li>
-</ul></td>
-<td>3 000</td>
-<td>&lt;21 000</td>
-</tr>
-</tbody>
-</table>
+Régne       | Nombre de Mb      | Nb de gènes
+------------|-------------------|----
+Bactérie    | 1 et 6            | 1 500 et 7 500
+Eucaryote   | 12 000 et 670 000 | 5 000 et 40 000
+Homme       | 3 000             | 21 000
 
-Le nombre de gènes ne suffit pas à expliquer la complexité d'un organisme.
+!!! note
+    Le nombre de gènes ne suffit pas à expliquer la complexité d'un organisme.
 
 L'épissage peut faire aboutir à des protéines différentes un gène peut coder plusieurs protéines. Certains gènes peuvent exprimer jusqu'à 100 protéines différentes sans
 
@@ -64,9 +37,9 @@ Le génome humain
 |            | ADN répétitif non apparentés aux éléments transposables   | 14%  |
 |            | ADN répétitif apparentés aux éléments transposables       | 44%  |
 
-Exon région des gènes qui codent pour les protéines (ARNm), en ARNt ou en ARNr.
+__Exon__ région des gènes qui code pour les protéines (ARNm), en ARNt ou en ARNr.
 
-Pseudo gène ancien gène devenu non fonctionnelle à la suite de l'accumulation de mutations.
+__Pseudo gène__ ancien gène devenu non fonctionnelle à la suite de l'accumulation de mutations.
 
 Chez les plantes, les éléments mobiles peuvent représenter Jusqu'à 75% du génome.
 
@@ -76,26 +49,26 @@ __Élément génétique__ transposable portions d'ADN capable de se déplacer.
 
 Les séquences apparentées aux éléments transposables comprennent :
 
-* Les éléments transposables.
-* Les éléments transposables qui ont perdu la capacité de se déplacer.
+* les éléments transposables.
+* les éléments transposables qui ont perdu la capacité de se déplacer.
 
 ## Les éléments transposables
 
 Il existe deux types de séquences transposables chez les Eucaryotes :
 
-* Les transposons.
-* Les rétrotransposons.
+* les transposons.
+* les rétrotransposons.
 
 !!! note
-    Chez les eucaryotes, la majorité des éléments transposables sont de type rétrotransposon.
+    Chez les eucaryotes, la majorité des éléments transposables sont des rétrotransposons.
 
 ### Les transposons
 
 Les transposons peuvent réaliser deux types de couper/coller ou la duplication.
 
-L'enzyme qui réalise la transposition est appelée transposase. Les éléments génétiques transposables sont déplacés au cours d'un processus appelé transposition. Le site d'origine est rapproché de celui de destination par des enzymes. L'ADN est ensuite découpé et rattaché sans jamais être séparé complétement des brins.
+L'enzyme qui réalise la transposition est appelée transporase. Les éléments génétiques transposables sont déplacés au cours d'un processus appelé transposition. Le site d'origine est rapproché de celui de destination par des enzymes. L'ADN est ensuite découpé et rattaché sans jamais être séparé complétement des brins.
 
-On estime qu'environ 17% du génome est issue d'un type de transposons nommé L1 qui a une vitesse de transposition faible. L1 contient une séquence qui empêchent l'ARN polymérase de progresser.
+On estime qu'environ 17% du génome est issu d'un type de transposons nommé L1 qui a une vitesse de transposition faible. L1 contient une séquence qui empêchent l'ARN polymérase de progresser.
 
 ### Les rétrotransposons
 
@@ -108,14 +81,14 @@ Les rétrotransposons ne peuvent réaliser que des duplications. L'ADN est trans
 
 Les éléments transposables devenus non mobile sont des éléments transposables qui ont perdu la capacité de se déplacer.
 
-* Environ 10% du génome humain est constitué de la duplication d'une séquence de 300 nucléotides appelé Alu qui est devenu trop courte pour se répliquer.
+* environ 10% du génome humain est constitué de la duplication d'une séquence de 300 nucléotides appelé Alu qui est devenu trop courte pour se répliquer.
 * ADN répétitif 5 à 6% sont des duplications de longues séquences répétitives. Comprenant entre 10 000 et 30 000 bases.
 * 3% ADN de constitué de simples séquences formé d'une quinzaine de bases.
 
 On trouve les séquences répétitives essentiellement dans :
 
-* Les télomères
-* Les centromères |
+* les télomères.
+* les centromères.
 
 Plusieurs hypothèses suggèrent que les séquences d'ADN simples répétitives ont une fonction structurale importante :
 
@@ -136,9 +109,8 @@ Famille de gènes identiques
 
 Augènes
 
-|                                  |                                                                |
-|------------------------------------|------------------------------------|
-| 50% code pour une seule protéine | 50% code pour plusieurs protéines appelé séquence multigénique |
+* 50% code pour une seule protéine.
+* 50% code pour plusieurs protéines appelé séquence multigénique.
 
 L'autre moitié se compose de séquences multigéniques qui code pour de la séquence d'une même protéines. Cela concerne notamment les protéines dont a besoin en quantité la cellule pour fonctionner comme celle qui codent les ribosomes.
 
@@ -183,10 +155,10 @@ L'étude des différences et des gènes semblables renseigne sur la parenté ent
 
 L'études des génomes cherchent pour parti à déterminer :
 
-* Quelles caractéristiques définissent le propre d'une espèce par rapport aux autres notamment celles apparentées comme c'est le cas entre l'Homme et le chimpanzé.
-* La comparaison des génomes nous permet de comprendre les spectres de variations génomiques entre les humains.
+* quelles caractéristiques définissent le propre d'une espèce par rapport aux autres notamment celles apparentées comme c'est le cas entre l'Homme et le chimpanzé.
+* la comparaison des génomes nous permet de comprendre les spectres de variations génomiques entre les humains.
 
 La diversité entre les êtres humains résulte de :
 
-* Polymorphismes mononucléotides.
-* Du nombre de copies pour certains gènes.
+* polymorphismes mononucléotides.
+* du nombre de copies pour certains gènes.

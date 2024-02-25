@@ -1,4 +1,4 @@
-Il existe 600 000 et 6 000 000 espèces de champignons. 60 000 ont été décrit et seulement 1 500 en milieu marin.
+Il existe 600 000 et 6 000 000 espèces de champignons. 60 000 ont été décrit dont seulement 1 500 en milieu marin.
 
 !!! note
     Certains organismes autrefois classés dans les champignons ont changé de groupe taxonomique, mais ils ont conservé leur ancien nom « mycète ».

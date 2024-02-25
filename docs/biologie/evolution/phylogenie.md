@@ -41,8 +41,8 @@ d'un génome.
 
 Il existe de 2 types de gènes homologues :
 
-* Orthologie, présent chez des espèces différentes.
-* Paralogue, gènes issus de la duplication d'un gène. Ils forment un groupe de gènes apparentés.
+* orthologie, présent chez des espèces différentes.
+* paralogue, gènes issus de la duplication d'un gène. Ils forment un groupe de gènes apparentés.
 
 !!! example
     Les récepteurs olfactifs sont issus de la duplication d'un gène et de la mutation des différentes copies. La structure des récepteurs a été modifié les rendant sensibles à d'autres types de molécules.
