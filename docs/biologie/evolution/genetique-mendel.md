@@ -1,6 +1,6 @@
 __Génétique__ science qui a pour objet l'étude des mécanismes qui aboutissent l'apparition d'un nouvel individu.
 
-__Espèce__ groupe d'individus potentiellement interfécond qui se reproduise entre eux.
+__Espèce__ groupe d'individus potentiellement interfécond qui se reproduit entre eux.
 
 La génétique est composée de plusieurs domaines d'études, la génétique :
 
@@ -15,9 +15,7 @@ On distingue les caractères en deux catégories :
 !!! note
     Les dernières découvertes en épigénétique suggèrent que la frontière entre l'inné et l'acquis n'est pas aussi tranchée qu'elle n'y parait.
 
-## Présentation et caractère indépendant
-
-### L'origine des caractères
+## L'origine des caractères
 
 Aujourd'hui, on sait que les gènes sont le support de l'information génétique. Ils permettent de fabriquer des protéines qui possèdent des propriétés qui se traduisent parfois par l'apparition de caractères.
 
@@ -42,14 +40,15 @@ Les ratios pour justifier les gènes dominance/récidivité
 
 ## Type d'expérience
 
-|                                |                    |                  |
-|--------------------------------|--------------------|------------------|
-| **Nbre de caractères étudiés** | 1 (Monohybridisme) | 2 (Dihybridisme) |
+* Nbre de caractères étudiés :
 
-|                           |                   |             |
-|---------------------------|-------------------|-------------|
-| Nbre d'allèles            | Hétérozygote      | Homozygote  |
-| Lors de l'autofécondation | Hybride (non obs) | Lignée pure |
+    * 1 (Monohybridisme)
+    * 2 (Dihybridisme)
+
+* Nbre d'allèles & Lors de l'autofécondation:
+
+    * Hétérozygote Hybride (non obs)
+    * Homozygote Lignée pure 
 
 | Facteur héréditaire/Trait | Gène                      | Caractère         |
 |---------------------------|---------------------------|-------------------|

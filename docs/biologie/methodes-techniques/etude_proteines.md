@@ -1,8 +1,8 @@
 Les principales informations à déterminer sur une protéine :
 
-* Localisation
-* Rôle
-* Quantité
+* localisation
+* rôle
+* quantité
 
 Aussi : les protéines avec lesquelles elle interagit,
 

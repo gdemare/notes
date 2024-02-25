@@ -1,6 +1,7 @@
 Pour toutes les expériences, il faut avoir :
-* Dans les échantillons tester, il faut un échantillon de référence (ou témoin) qui sert de repère pour comparer les résultats aux autres conditions expérimentales.
-* Des étapes de vérifications comme vérifier la présence de ses cellules au microscope ou réaliser des contrôles :
+
+* dans les échantillons tester, il faut un échantillon de référence (ou témoin) qui sert de repère pour comparer les résultats aux autres conditions expérimentales.
+* des étapes de vérifications comme vérifier la présence de ses cellules au microscope ou réaliser des contrôles :
 
     * Négatif la condition n'est pas présente. Elle ne doit pas être détectée.
     * Positif condition expérimentale certifiée. Sa présence est assurée.
@@ -15,8 +16,7 @@ __Réplica technique__ plusieurs analyses d'un même échantillon.
 
 ## Fabrication d'une gamme
 
-Échantillon artificiel constitué une gamme permet de s'assurer que la
-gamme contiendra la valeur de tous les échantillons.
+Échantillon artificiel constitué une gamme permet de s'assurer que la gamme contiendra la valeur de tous les échantillons.
 
 Noter les noms des échantillons sur les parois et pas sur les couvertes pour éviter les problèmes de sens.
 

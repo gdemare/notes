@@ -1,7 +1,7 @@
 Le muscle peut se décomposer :
 
-* En faisceau qui est une unique cellule avec plusieurs noyaux. Elle est issue de la fusion de plusieurs cellules.
-* Fibres musculaires.
+1. En faisceau qui est une unique cellule avec plusieurs noyaux. Elle est issue de la fusion de plusieurs cellules.
+2. Fibres musculaires.
 * Myofibrilles constitués par la superposition et de l'alternance de types de myofilaments :
 
     * minces formée de deux brins d'actines et d'un brin de protéines régulatrices en forme de tresse.

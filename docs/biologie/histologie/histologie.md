@@ -20,7 +20,7 @@ __Desmosome__ jonctions intercellulaires.
 
 Kératine fil intercellulaire renforce la jonction
 
-Les cellules s'aplatissement de l\'intérieur vers l\'extérieur.
+Les cellules s'aplatissement de l'intérieur vers l'extérieur.
 
 La couche cornée s'appelle aussi couche desquamant.
 

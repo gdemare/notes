@@ -44,7 +44,7 @@ Il existe des excroissances épidermiques des tiges appelé trichome qui servent
 
 Il existe deux types de tissus conducteurs qui servent au transport des substance chez les plantes, ceux du :
 
-* xylème qui transporte l'eau et les nutriments (sève brute)
+* xylème qui transporte la sève brute composée d'eau et les nutriments.
 * phloème qui transporte les glucides (sève élaborée)
 
 __Stèle__ ensemble des tissus conducteurs.
@@ -335,19 +335,11 @@ Chaque nervure est entourée d'une gaine péri fasciculaire càd un renforcement
 
 La feuille est formée de trois parties :
 
-* Limbe partie large et peu épaisse spécialisée dans la photosynthèse.
-* Pétiole l'extension qui relie la limbe à la tige.
-* Gaine point d'ancrage du pétiole à la tige. On y trouve parfois des stipules, des pseudo feuilles.
+* limbe partie large et peu épaisse spécialisée dans la photosynthèse.
+* pétiole l'extension qui relie la limbe à la tige.
+* gaine point d'ancrage du pétiole à la tige. On y trouve parfois des stipules, des pseudo feuilles.
 
-### Organisation des feuilles autour de la tige
-
-L'emplacement des feuilles sur la tige permet d'optimiser la quantité de lumière reçue sur chaque feuille. On distingue trois types de structures :
-
-* alternée : une seule feuille par nœud.
-* opposée : deux feuilles par nœud séparés par un angle de 180°.
-* verticillée, plus de deux feuilles par nœud.
-
-__Phyllotaxie__ positionnement des feuilles.
+L'emplacement des feuilles sur la tige permet d'optimiser la quantité de lumière reçue sur chaque feuille.
 
 ## Cotylédon
 
@@ -486,8 +478,6 @@ L'embryon se trouve au centre du cotylédon.
 | [Tige]{.mark}       | [Hypocotyle]{.mark}               | [Épicotyle]{.mark}                    |
 | [Cotylédons]{.mark} | [Sous la première feuille]{.mark} | [entre la tige et les racines]{.mark} |
 
-Chez les végétaux qui produisent des graines, l'embryon contenu dans le cotylédon ne possèdent pas d'organes. Ils commenceront à apparaitre au moment de la germination en fonction de l'environnement pour
-
 Il existe deux types de cotylédons en fonction de la position au moment de la germination :
 
 * Épigé il est érigé dans les airs et participe à la photosynthèse.
@@ -516,9 +506,9 @@ Les végétaux sont capables de dédifférencier leurs cellules. Cela leur conf�
 
 La croissance primaire s'effectue à l'extrémité de la racine au niveau de trois zones qui se chevauchent, les zones de :
 
-* Division cellulaire (dont fait partie le méristème)
-* Allongement cellulaire
-* Différenciation cellulaire
+* division cellulaire (dont fait partie le méristème)
+* allongement cellulaire
+* différenciation cellulaire
 
 !!! note
     C'est l'allongement cellulaire qui contribue le plusà l'augmentation de la longueur de la racine.
@@ -1019,7 +1009,7 @@ Graine ovule transformé après la fécondation.
 * gousse un seul carpelle contenant plusieurs ovules.
 * érupe, endocarpe sclérifié. 
 
-Caryopse contenant une seule graine avec péricarpe totalement adhérer a la graine (exemple : le blés, maïs\...) 
+Caryopse contenant une seule graine avec péricarpe totalement adhérer a la graine (exemple : le blé, maïs\...) 
 
 Capsule un seul carpelle avec au moins trois axes de déhiscence. 
 
