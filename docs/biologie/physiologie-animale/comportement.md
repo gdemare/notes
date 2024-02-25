@@ -1,23 +1,23 @@
 Chez les Animaux, le comportement est un constituant essentiel à la survie et à la reproduction. Il est ainsi soumis à une importante sélection naturelle.
 
-Tous milieux naturels présentes des variations spatiales où les changements se produisent beaucoup rapidement que ceux génomiques.
+Tous milieux naturels présentes des variations spatiales où les changements se produisent beaucoup rapidement que ceux génomiques. 
 
 L'étude du comportement s'intéresse :
 
-* Aux causes immédiates, aux raisons d'être (contexte évolutif) et aux stimulus.
-* Aux variations possibles et à l'influence de l'expérience dans son expression.
+* aux causes immédiates, aux raisons d'être (contexte évolutif) et aux stimulus.
+* aux variations possibles et à l'influence de l'expérience dans son expression.
 
 __Séquence stéréotypée__ suite d'actes instinctifs, invariables et non apprise déclenchées par un stimulus externe.
 
 On distingue deux grands types de comportements :
 
-* Fixé ou invariable
-* Variable
+* fixé ou invariable
+* variable
 
 Les comportements variables peuvent présenter un degré :
 
-* Innée
-* Apprentissage
+* innée
+* apprentissage
 
 ## Les stimulus environnementaux
 
@@ -26,7 +26,7 @@ Les comportements variables peuvent présenter un degré :
 De nombreux comportements sont liés à des rythmes biologiques (horloge circadienne, circannuelle).
 
 !!! example
-    Les comportements liés à la reproduction chez le crabe violoniste se sont synchronisés au calendrier lunaire car les marées qui emportent ses œufs au large à l'abris des prédateurs sont influencés par la position de la lune.
+    Les comportements liés à la reproduction chez le crabe violoniste  sont synchronisés avec le calendrier lunaire car ce sont les marées qui emportent ses œufs au large à l'abris des prédateurs sont influencés par la position de la lune.
 
 ## Les comportements sociaux 
 
@@ -71,15 +71,15 @@ __Apprentissage social__ appris en observant les autres individus.
 
 La plupart des comportements concernent directement soit :
 
-* La reproduction
-* L'alimentation
+* la reproduction.
+* l'alimentation.
 
 ### L'alimentation
 
 Les comportements liés à la quête de nourriture sont issus d'un compromis visant à minimiser :
 
-* Le rapport temps/énergie, effort/énergie.
-* Les risques liées prédation.
+* le rapport temps/énergie, effort/énergie.
+* les risques liées prédation.
 
 Ils sont susceptibles d'évoluer durant la vie de l'individu en fonction de l'expérience acquise, de l'environnement, et ses relations avec les autres êtres vivants.
 

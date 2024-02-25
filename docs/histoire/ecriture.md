@@ -5,7 +5,7 @@ Pour que l'écriture puisse exister, il faut qu'il y est :
 * une trace physique sur un support qui résiste au passage du temps.
 * quelqu'un qui puisse en faire ressurgir le message.
 
-Partout où l'écriture est née, elle a fait appel à la vue et au touché.
+Partout où l'écriture est née, elle a fait appel à deux sens, la vue et au touché.
 
 !!! note
 	Certaines écritures sont lues avec des sens différents de la vue comme le braille avec le touché qui restent majortairement par des gens ayant une déficiance visuelle.
@@ -28,10 +28,10 @@ Paralèllement, nos ancêtres se sont mis à lire les trâces laisser par les an
 
 Les premiers trâces d'écriture découvertes remontent à l'époque de la sédentarisation et l'apparition des premiers villages d'agriculteurs. Lors les premiers villes cités sont fondées en Mésopotamie, en Chine ou en Amérique, il est devenu nécessaire de pouvoir stocker des informations et pouvoir les mobiliser en cas de besoins pour par exemple connaitre le propriétaire d'une parcelle. Ors au cours de l'évolution, le cerveau humain n'a pas été conçu pour stocker ce type d'informations. Le cerveau pose de nombreux problèmes de fiabilité, de pérénité que de . 
 
-La première trace d'écriture découverte à ce jour a été faite dans le croissant fertile en Mésopotamie. Sur une galette d'argile a été tracée avec un stylo en bois dont le contenu correspondrait de nos jours un reçu. Les premières écris sont essentiellement des données économiques car :
+La première trace d'écriture découverte à ce jour a été faite dans le croissant fertile en Mésopotamie. Sur une galette d'argile a été tracée avec un stylo en bois dont le contenu correspond à un reçu. Les premières écris sont essentiellement des données économiques car :
 
-* les supports n'étaient pas appropriés pour accueillir de long texte.
-* le nombre potentiel de lecteurs été très faible.
+* les supports n'étaient pas appropriés pour accueillir de longs textes.
+* le nombre potentiel de lecteurs était très faible.
 
 Les caractères utilisés sont une représentation visuelle et simplifiée de ce qu'ils évoquent. Ils se limitent à de simples informations descriptives. 
 

@@ -207,7 +207,7 @@ Le corps humain est incapable de produire des lipides avec des chaines insaturé
 
 Trois acides gras à connaitre :
 
-| **Lipides**      | **Nom court** | **Nom UICPA**               |
+| Lipides      | Nom court | Nom UICPA               |
 |------------------|---------------|-----------------------------|
 | Acide palmitique | C16:0         | Acide hexadécanoïque        |
 | Acide stéarique  | C18:0         | Acide octadécanoïque        |

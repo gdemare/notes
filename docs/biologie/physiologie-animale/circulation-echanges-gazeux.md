@@ -1,27 +1,22 @@
-Une des fonctions vitales pour les organismes est de pouvoir échanger
-des substances avec le milieu extérieur. Ces échanges ont lieu au niveau
-des cellules par la diffusion. La diffusion est un phénomène physique
-qui dépend de plusieurs variables. Elle est suffisamment efficace pour
-les organismes unicellulaire pour avoir lieu au niveau de la membrane
-plasmique pour permettre, par exemple l'acheminement du $O_2$ et des
-nutriment et l'expulsion du $CO_2$.
+Une des fonctions vitales pour les organismes est de pouvoir échanger des substances avec le milieu extérieur. Ces échanges ont lieu au niveau des cellules par la diffusion. La diffusion est un phénomène physique qui dépend de plusieurs variables. Elle est suffisamment efficace pour les organismes unicellulaires pour avoir lieu au niveau de la membrane plasmique pour permettre, par exemple l'acheminement du $O_2$ et des nutriments et, l'expulsion du $CO_2$.
 
-Pour les organismes multicellulaires, le temps de diffusions des substances n'est pas assez rapide. Cela constitue une contrainte que l'on retrouve dans les plans d'organisation :
+Pour les organismes multicellulaires, le temps de diffusion des substances n'est pas assez rapide. Cela constitue une contrainte que l'on retrouve dans les plans d'organisation :
 
 * soit toutes les cellules en contact avec le milieu. Cavité gastro vasculaire chez les organismes aquatiques 2 couches de cellules. Une interne qui tapisse la cavité gastro vasculaire. Toutes les cellules en contact avec le milieu les nutriments digérés dans la cavité vers les cellules externes.
-* Lorsqu'il y a plusieurs couches de cellules la diffusion est trop lentes. Ils ont généralement recours à deux systèmes :
+* lorsqu'il y a plusieurs couches de cellules la diffusion est trop lentes. Ils ont généralement recours à deux systèmes :
 
     * de transport.
     * circulatoire.
 
-Ils sont généralement associés et contribue au maintien de l'homéostasie.
-
-# Les systèmes de transport et circulatoire
+!!! note
+    C'est deux système sont généralement associés et contribue au maintien de l'homéostasie.
 
 Un liquide circule dans un système cardiovasculaire. Il fait la jonction entre les cellules et les tissus spécialisés dans l'échange avec le milieu externe pour :
 
 * absorber les nutriments et des gaz.
 * expulser les déchets.
+
+## Type de systèmes cardiovasculaires
 
 Le système circulatoire et de transport est composé de :
 
@@ -29,37 +24,36 @@ Le système circulatoire et de transport est composé de :
 * un liquide.
 * une pompe musculaire appelée cœur.
 
-Plusieurs systèmes sont apparus au cours de l'évolution répondant aux contraintes des organismes. Les deux principaux sont le système cardiovasculaire avec leurs avantages :
+Plusieurs systèmes sont apparus au cours de l'évolution pour répondre aux contraintes des organismes. Les deux principaux systèmes cardiovasculaire sont le système :
 
 * ouvert comme chez la plupart des arthropodes et des mollusques.
 * clos comme chez les céphalopodes, les annélides et les vertébrés.
 
 Par rapport au système ouvert le système clos est :
 
-* plus efficace car il permet de maintenir une pression hydrostatique forte. Ce qui permet aux animaux d'être plus gros et actif.
+* plus efficace car il permet de maintenir une pression hydrostatique forte ce qui permet aux animaux d'être plus gros et actif.
 * consomme plus d'énergie.
 * adapter pour réguler la distribution du sang aux divers parties de l'organisme en fonction des besoins.
 
-### Le système cardiovasculaire ouvert
+### Ouvert
 
-L'hémolymphe est un liquide de même composition que le liquide inertiel
-
-qui entoure les cellules. Les organes sont situés dans des cavités appelées sinus où a lieu les échanges.
+L'hémolymphe est un liquide de même composition que le liquide inertiel qui entoure les cellules. Les organes sont situés dans des cavités appelées sinus où ont lieu les échanges.
 
 * lorsque le cœurs se relâche l'hémolymphe rentre.
-* les valves se ferment lorsque le cœur se contracte
+* les valves se ferment lorsque le cœur se contracte.
 
-Les mouvements du corps compriment les sinus ce qui aident à la circulation.
+Les mouvements du corps compriment les sinus ce qui aide à la circulation.
 
-Le système cardiovasculaire ouvert permet d'autres fonctions. Par exemple, il permet aux araignées d'étirer leur patte.
+!!! note
+    Le système cardiovasculaire ouvert permet d'autres fonctions. Par exemple, il permet aux araignées d'étirer leur patte.
 
-### Le système cardiovasculaire clos
+### Clos ou fermé
 
 Dans le système clos, le liquide qui circule dans un réseau de vaisseaux est le sang. Sa composition est différente du liquide interstitiel.
 
-# Organisation des systèmes chez les Vertébrés
+## Le système cardiovasculaire chez les Vertébrés
 
-Un réseau de vaisseaux sanguins d'une longueur de 100 000km (deux fois la circonférence de la Terre) formé par un endothélium, une couche simple de cellules. Elles sont lisses ce qui limite la résistance et elles sont entourés de divers couches en fonction du type de vaisseaux et de leur rôle :
+Un réseau de vaisseaux sanguins d'une longueur de 100 000km (deux fois la circonférence de la Terre) formé par un endothélium, une couche simple de cellules. Elles sont lisses ce qui limite la résistance et elles sont entourées de divers couches en fonction du type de vaisseaux et de leur rôle :
 
 * les artères du cœur vers les organes. Ils se divisent en artérioles.
 * les capillaires microscopique paroi fine et poreuse. C'est le lieu de la diffusion et les échanges de substances. Son diamètre est un peu plus grand que celui des globules rouge.
@@ -68,25 +62,34 @@ Un réseau de vaisseaux sanguins d'une longueur de 100 000km (deux fois la circ
 !!! note
     Il existe quelques exception de veines qui acheminent le sang de capillaires vers d'autres organes comme la veine porte hépatique de l'intestin au foie.
 
-Le sang irrigue entre 5 et 10% des capillaires du corps à chaque instant. Seul les capillaires de l'encéphale, du cœur et du foie et des reins sont utilisés en permanence.
+Le sang irrigue entre 5 et 10% des capillaires du corps à chaque instant.
 
-Le faible niveau d'irrigation est compensé par le nombre important de capillaires qui aliment chaque tissus et de répondre aux besoins de chaque cellule. Les capillaires utilisés varient en fonction des besoins de l'organisme.
+!!! note
+    Seul les capillaires de l'encéphale, du cœur et du foie et des reins sont utilisés en permanence.
+
+Le faible niveau d'irrigation est compensé par le nombre important de capillaires qui alimente chaque tissu et de répondre aux besoins de chaque cellule.
+
+!!! note
+    Les capillaires utilisés varient en fonction des besoins de l'organisme.
 
 À chaque inspiration, la veine cave des poumons est dilatée pour permettre la fixation du $O_2$.
 
 ### Les capillaires
 
-Une couche de cellules épithéliale sur une membrane de basale.
+Une couche de cellules épithéliales sur une membrane de basale.
 
 Les capillaire forment des lits capillaires qui passent à proximité de chaque cellule du corps. Les capillaires convergent vers les veinules puis ces dernières vers les veines.
 
 Diffusion simple exocytose pore intercellulaire
 
-2 forces opposées régulent les échanges pression sanguine pression osmotique par des protéines.
+Deux forces opposées régulent les échanges pression sanguine pression osmotique par des protéines.
 
-Chaque jour entre 4 à 8 L de sang est perdu par les capillaires. Les protéines et le liquide de perdu reviennent par le système lymphatique au niveau de la veine cave supérieure. Cette connexion sert également à acheminer les lipides de l'intestin au sang.
+Chaque jour, entre 4 à 8 L de sang est perdu par les capillaires. Les protéines et le liquide de perdu reviennent par le système lymphatique au niveau de la veine cave supérieure. Cette connexion sert également à acheminer les lipides de l'intestin au sang.
 
-Des anneaux de muscles appelé sphincter précapillaire se trouvent à l'entrée des capillaires. Ils permettent de réguler l'entrer des capillaires. Certains facteurs chimiques, comme l'histamine, qui provoque leur ouverture et la dilatation pour que les globules puissent se rendre sur le lieu d'infection.
+Des anneaux de muscles appelés sphincter précapillaire se trouvent à l'entrée des capillaires. Ils permettent de réguler l'entré des capillaires.
+
+!!! note
+    Certains facteurs chimiques, comme l'histamine, provoque leur ouverture et la dilatation pour que les globules puissent se rendre sur le lieu d'infection.
 
 __Nœuds lymphatiques__ organe qui filtre la lymphe. Ils détruisent les Bactéries et les virus qui peuvent être présent.
 
@@ -107,17 +110,17 @@ Les veines et les artères sont entourés de couche :
 * externe de tissus conjonctif élastique pour reprendre sa forme.
 * interne fibre musculaire lisse.
 
-|       | Artère                | Veine                  |
-|-------|-----------------------|------------------------|
-| Paroi | Épaisse et résistante | Fine (1/3 de l'artère) |
+Type de capillaire  | Paroi
+--------------------|---
+Artère              | Épaisse et résistante
+Veine               | Fine (1/3 de l'artère)
 
 Les artères possèdent une paroi épaisse et résistante pour résister au forte et maintenir la pression même quand le cœur se relâche.
 
-La constriction et la dilatation est assurées par des muscles lisses
-régulé par :
+La constriction et la dilatation son assurées par des muscles lisses régulé par :
 
-* les influx nerveux
-* des hormones
+* les influx nerveux.
+* des hormones.
 
 Les veines possèdent des valvules qui permettent de maintenir une circulation unidirectionnelle même lors de basse pression.
 
@@ -125,22 +128,21 @@ Les veines possèdent des valvules qui permettent de maintenir une circulation u
 
 Pour rappel, le flux se fait de la pression la plus forte vers la plus faible.
 
-1. À la sortie du cœur, la pression est maximale (appelée pression systolique). pression à la sortie du cœur. La pression produite par le cœur étire les artères qui s'étire et reprennent leur forme.
-
+1. À la sortie du cœur, la pression est maximale (appelée pression systolique). La pression produite par le cœur étire les artères qui s'étire et reprennent leur forme.
 2. Sa vitesse ralentie lorsqu'il entre dans les artérioles car le diamètre de l'artère est plus petit que celui de la somme des artérioles.
-
-3. Même chose au niveau des même capillaires. Le sang circule 500 plus lentement pour permettre aux échanges d'avoir lieu. La résistance créer par les petits capillaires est compensée par le cœur.
-
+3. Même chose au niveau des même capillaires. Le sang circule 500 plus lentement pour permettre aux échanges d'avoir lieu. La résistance créée par les petits capillaires est compensée par le cœur.
 4. Il accélère de nouveau au niveau des veines. La pression est alors minimale et est appelé pression diastolique.
 
 !!! note
     Le pouls est le gonflement des artères provoqué par le blocage du sang au niveau des artérioles. Les artères s'étirent
 
-La pression est contrôlée en plus au niveau des muscles lisses par les phénomène de vasoconstriction et vasodilatation.
+La pression est contrôlée en plus au niveau des muscles lisses par les phénomènes de vasoconstriction et vasodilatation.
 
 __Gravitation__ pression pour faire monter le sang dans les parties les plus hautes.
 
-Insuffisance cardiaque lorsque l'on interrompt brutalement une activité physique, le cœur peut avoir du mal à composer la baisse de pression dû à l'arrêt des mouvements. Il peut alors avoir lieu un arrêt cardiaque.
+__Insuffisance cardiaque__
+
+lorsque l'on interrompt brutalement une activité physique, le cœur peut avoir du mal à composer la baisse de pression dû à l'arrêt des mouvements. Il peut alors avoir lieu un arrêt cardiaque.
 
 Régulation artériole par la contraction des muscles lisses
 
@@ -169,7 +171,7 @@ Les cellules du sang sont :
 
 Les globules rouges des Mammifères ne possèdent pas de noyau ce qui leurs permet de contenir plus d'hémoglobine, en moyenne 250 millions par cellule. Leur durée de vie est d'environ 120 jours.
 
-L'hémoglobine est une protéines avec de quatre ions Fe^2+^. Chacun est capable de fixer une molécule de $O_2$.
+L'hémoglobine est une protéines avec de quatre ions $Fe^{2+}$. Chacun est capable de fixer une molécule de $O_2$.
 
 Les globules rouges produisent leur énergie grâce à un métabolisme anaérobie. Sinon, ils consommeraient l'oxygène transporté.
 

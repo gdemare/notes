@@ -16,15 +16,15 @@ $\delta G =$ degré d'avancement $\frac{\delta E}{}$ dérivé = 0 minimum d'éne
 
 Les enzymes sont des catalyseurs naturels qui fonctionnent dans des conditions particulières (souvent dans les conditions physiologiques du corps). Ce sont en générale des protéines (mais aussi des ARN) impliquées dans le métabolisme c'est-à-dire qui ont une activité :
 
-* Anabolisme (synthèse).
-* Catabolisme (dégradation).
+* anabolisme (synthèse).
+* catabolisme (dégradation).
 
 __Catalyseur__ substance qui augmente la vitesse d'une réaction chimique sans participer ou modifier la réaction.
 
-Elles sont caractérisées par :
+Les enzymes sont caractérisées par :
 
-* Leur efficacité.
-* Leur spécificité vis-à-vis du substrat.
+* leur efficacité.
+* leur spécificité vis-à-vis du substrat.
 
 !!! note 
 	Le nom a été donné par Pasteur qui a découvert un composé issu de levure qu'il a utilisé pour transformer le surcre en alcool. Il a nommé ce composé enzyme, en- "dans" et -zyme "levure". 
@@ -42,30 +42,30 @@ __Site actif__ site de l'enzyme qui se lie au substrat. Elle est composée au ma
 
 L'enzyme facilite la réaction en :
 
-* Orientant le substrat ce qui permet de rendre accessibles les sites de réactions.
-* Le rapprochement entre plusieurs substrats.
-* Stabiliser l'état de transition en modifiant la forme du substrat.
+* orientant le substrat ce qui permet de rendre accessibles les sites de réactions.
+* rapprochant entre plusieurs substrats.
+* stabilisant l'état de transition en modifiant la forme du substrat.
 
-D'autres molécules peuvent participer à l'action des enzymes comme :
+D'autres molécules peuvent participer à l'action des enzymes appelé cofacteurs qui sont des substances non protéiques dont ont besoin les enzymes pour fonctionner.
+* les coenzyme qui sont descofacteur non protéique mais d'origine organique.
 
-* Cofacteur substance non protéiques dont ont besoin les enzymes pour fonctionner.
-* Coenzyme cofacteur non protéique mais d'origine organique.
-
-__Apoenzyme__ enzyme sans son coenzyme.
+__Apoenzyme__ enzyme sans sa coenzyme.
 
 !!! note
 	Pour les réactions anaboliques, il faut fournir de l'énergie pour que la réaction est lieu en brisant les molécules d'ATP.
 
 ### Les catégories d'enzymes
 
-* Oxydo-réductases, transfert d'électrons généralement par l'utilisation d'atomes d'oxygènes.
-* Réaction de liaison :
+Les enzymes sont classés en fonction du type de réactions qu'elles sont capables de catalyser :
 
-	* Transférase d'un groupement chimique.
-	* Lyase catalyse (avec les ligases qui utilisent de l'énergie).
+* oxydo-réductases qui transfert des électrons généralement par l'utilisation d'atomes d'oxygènes.
+* réaction de liaison :
 
-* Hydrolases coupe une liaison covalente avec une molécule d'eau.
-* Isomérase transforme en isomère.
+	* Transférase qui transfère un groupement chimique.
+	* lyase qui catalyse une réaction de liaison. Celles qui utilisent de l'énergie sont appelés ligases.
+
+* hydrolase qui coupe une liaison covalente avec une molécule d'eau.
+* isomérase qui transforme en isomère.
 
 !!! note
 	L'enzyme dispose d'un matricule qui correspond la catégorie et au type de réactions catalysées.
@@ -73,8 +73,8 @@ __Apoenzyme__ enzyme sans son coenzyme.
 !!! example
 	La première étape de la digestion consiste à dénaturer les protéines grâce à la mise en place d'un milieu avec un pH 2. Elles sont ensuite dégradées par deux types d'enzymes de type catabolique qui agissent simultanément :
 
-	* Les exopeptidases (coupent aux extrémités).
-	* Les endopeptidases (coupent à l'intérieur).
+	* les exopeptidases (coupent aux extrémités).
+	* les endopeptidases (coupent à l'intérieur).
 
 #### Endopeptidases
 
@@ -100,7 +100,8 @@ Stéréospécificité          | L              | L
 
 ===================================================
 
-## Cinétique enzymatique 
+## Cinétique enzymatique
+
 !!! note
 	La cinétique càd les réactions sans enzymes sont présentes dans la partie chimie.
 
@@ -115,7 +116,7 @@ __Etat stationnaire__ la quantité d'enzymes liées et non liées est constante.
 
 L'enzyme forme un complexe avec le substrat avec des liaisons :
 
-* Hydrogène
+* hydrogène
 * Van der Val
 
 $[E] + [S] \rightleftarrows [ES] \rightarrow [E] + [P]$
@@ -141,12 +142,12 @@ Les deux modèles principaux pour modéliser la vitesse de réaction en présenc
 
 Le modèle de Michealis-Menten suppose l'existence d'un état d'équilibre réactionnel entre le substrat et l'enzyme. Il existe ainsi un $k_{cat} \ll k_{-1}$.
 
-* $K_{m} = \frac{[E] \cdot [S]}{[ES]} = \frac{k_{- 1} + k_{cat}}{k_1}$ avec $K_m$ constante d'état stationnaire en $mol.L^{-1}$
+* $K_m = \frac{[E] \cdot [S]}{[ES]} = \frac{k_{- 1} + k_{cat}}{k_1}$ avec $K_m$ constante d'état stationnaire en $mol \cdot L^{-1}$
 
-Pour déterminer la vitesse, car on est incapable de mesurer la concentration de $[ES]$. L'astuce de Michaelis-Menten consiste à écrire $v = k_{2}[ES]\frac{[E_0]}{[E_0]}$ et d'exprimer $[E_0]$ en fonction de $[ES]$ :
+Pour déterminer la vitesse, car on est incapable de mesurer la concentration de $[ES]$. L'astuce de Michaelis-Menten consiste à écrire $v = k_2 \cdot [ES] \frac{[E_0]}{[E_0]}$ et d'exprimer $[E_0]$ en fonction de $[ES]$ :
 
 * $[E_0] = [E] + [ES]$
-* $[E] = K_m\frac{[ES]}{[S]}$
+* $[E] = K_m \frac{[ES]}{[S]}$
 
 On obtient alors pour la vitesse (équation de) $v = \frac{k_{cat}[E_0][S]}{K_m + [S]}$
 
@@ -227,7 +228,7 @@ $K_i = \frac{K_m \cdot [I]}{K_{mI} - K_m}$ avec $K_i$ est la quantité d'inhibit
 $v_{maxI} = \frac{v_{\max}}{1 + \frac{[i]}{K_i}}$
 
 !!! note
-	L'inhibiteur rend l'enzyme moins efficace (efficacité catalytique) ( $v_{\max}$ plus petit).
+	L'inhibiteur rend l'enzyme moins efficace (efficacité catalytique) ($v_{\max}$ plus petit).
 
 $v_i = \frac{v_{\max}}{1 + \frac{[i]}{K_i}} \cdot \frac{[S]}{K_m + [S]} = \frac{v_{\max I}[S]}{K_m + [S]}$
 
@@ -279,8 +280,8 @@ On considère le ligand comme la molécule qui se déplace et qui interagit avec
 
 En biologie, la position du recpteur dépend du type de ligands. Ils sont situés :
 
-* À l'extérieur de la cellule si le ligand est hydrosoluble.
-* A l'intérieur de la cellule si le ligand est liposoluble.
+* à l'extérieur de la cellule si le ligand est hydrosoluble.
+* à l'intérieur de la cellule si le ligand est liposoluble.
 
 !!! note 
 	Le récepteur est parfois appelé site de reconnaissance.
@@ -293,8 +294,8 @@ Les principaux récepteurs en biologie sont :
 
 En fonction du type d'action que provoque le ligand, on dit qu'il est :
 
-* Agoniste lorsqu'il active/déclenche.
-* Antagoniste lorsqu'il bloque l'activité.
+* agoniste lorsqu'il active/déclenche.
+* antagoniste lorsqu'il bloque l'activité.
 
 #### Formalisation de l'interaction ligand récepteur 
 
@@ -307,13 +308,13 @@ On note pour :
 
 À l'équilibre la vitesse d'association est égale à celle de dissociation. Les concentrations des différentes espèces chimiques n'évoluent plus. On a :
 
-* La constante d'affinité à l'équilibre $k_d = \frac{k_{diss}}{k_{ass}} = \frac{[L] \cdot [R]}{[LR]}$
-* La quantité de récepteurs $[R_0] = [R] + [RL]$
+* la constante d'affinité à l'équilibre $k_d = \frac{k_{diss}}{k_{ass}} = \frac{[L] \cdot [R]}{[LR]}$
+* la quantité de récepteurs $[R_0] = [R] + [RL]$
 
-On obtient alors :
+On obtient alors pour :
 
-* Concentration de $[RL] = \frac{[R_0] \cdot [L]}{K_d + [L]}$
-* Proportion de $\frac{[RL]}{[R_0]} = \frac{[L]}{K_d + [L]}$
+* la concentration de $[RL] = \frac{[R_0] \cdot [L]}{K_d + [L]}$
+* la proportion de $\frac{[RL]}{[R_0]} = \frac{[L]}{K_d + [L]}$
 
 !!! note
 	Lorsque $RL = \frac{[R_0]}{2}$ on a $K_d = L$.

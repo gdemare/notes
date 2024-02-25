@@ -215,7 +215,7 @@ Il existe deux types de cellules chez les lymphocytes T en fonction du type de r
 Des voies métaboliques peuvent être déclenchées dans les LT par la réponse à trois types de signaux :
 
 * un antigène. Le lymphocyte T devient actif.
-* Une molécule de co-stimulation (uniquement pour les LT matures) qui stimule ou inhibe la production du LT. Ce mécanisme :
+* une molécule de co-stimulation (uniquement pour les LT matures) qui stimule ou inhibe la production du LT. Ce mécanisme :
 
     * permet de contrôler le nombre de lymphocytes actifs présents dans l'organisme.
     * est responsables de la tolérance au soi en désactivant les LT auto-réactifs.

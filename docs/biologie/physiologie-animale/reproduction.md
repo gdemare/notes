@@ -17,8 +17,6 @@ plasmides.
 
 ## Vocabulaire de la reproduction 
 
-Ontogénèse croissance d'un organisme passant par des phases de
-différenciation cellulaire conduisant à la fabrication d'organes.
 
 Uniparentale un individu seul produit des descendants.
 
@@ -26,12 +24,9 @@ Uniparentale un individu seul produit des descendants.
 
 La reproduction asexuée peut être de type :
 
--   Scissiparité un individu se scinde en deux individus avec une phase
-    de régénération (ontogénèse).
-
--   Bourgeonnement formation à partir d'une excroissance.
-
--   Lâché de cellules.
+* scissiparité un individu se scinde en deux individus avec une phase de régénération (ontogénèse).
+* bourgeonnement formation à partir d'une excroissance.
+* lâché de cellules.
 
 -   Fragmentation. Un individu se scinde en deux parties, chacune
     continuant à vivre l'une indépendant. La séparation est liée à une

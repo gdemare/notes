@@ -1,26 +1,39 @@
-Nous vivons une époque construite autour du concept d'humanisme.
+### Etude de l'Histoire et anticipitation
 
-Elle débute a la révolution francaise. Elle est formalisée dans la déclaration des droits de l Homme. Elle a triomphé dans le monde. 
+L'Homme étudie l'Histoire pour comprendre les choix qui s'offrent à lui et éviter de reproduire les erreurs passées sauf que jusqu'à maintenant prédire l'Histoire a toujours était un échec.
 
-* la dignité humaine càd que chaque personne mérite d'être traitée avec respectée et dignité idépendamment de ce qu'elle ou représente (origine, religion, etc).
-* la liberté de pensée et d'expression comme la possibilité de débatre et d'exprimer des idées sans crainte d'être cencurée.
-* l'éducation comme un moyen de développement personnel et d'émancipation.
-* la recherche de la vérité et du progrès càd la recherche de la vérité par la raison et la science et le rejet des suppertision et des prégugés.
-* l'empathie et la compassion càd qu'il encourage à se soucier de l'autre.
+Généralement lorsqu'elles sont énoncées Les théories économiques, sociale et politiques ne peuvent plus fonctionner lorsqu'elles ont été enoncées car elles changent la realisations de l'événement en éveillant les consciences.
 
-L'être humain est au centre des préocupations, il dispose d'un droit à la vie et la mort est considère comme une chose non souhaitable. Avec le temps, notre comprehension du monde a évolue. La connaissance a permis d'éradiauer les trois menaces qui pesaient sur la vie et qui constituaient une part importante d'incertitude pour le futur.:
+!!! example
+    Les gouvernements ont pris des mesures pour éviter la révolution des prolétères prédite par Karl Max.
+
+
+### Humanisme
+
+Nous vivons une époque construite autour du concept d'humanisme qui s'est construite avec la déclaration des droits de l'Homme formalisé durant la révolution française. Elle a peu a peu était adopté par tous les pays du monde. Elle place l'être humain au centre de ces préoccupations et considère que : 
+
+* chaque personne mérite d'être traitée avec respectée et dignité idépendamment de ce qu'elle ou représente (origine, religion, etc).
+* la liberté de pensée et d'expression est essentielle càd la possibilité de débatre et d'exprimer des idées sans crainte d'être cencuré.
+* l'éducation est un moyen de développement personnel et d'émancipation.
+* la recherche de la vérité et du progrès par la science permettra le rejet des suppertision et des prégugés.
+* elle encourage l'empathie et la compassion càd à se soucier de l'autre.
+
+L'humanisme a acquis grâce La connaissance a permis d'éradiauer les trois menaces qui pesaient sur la vie et qui constituaient une part importante d'incertitude pour le futur.:
 
 * les épidemie.
 * les guerres.
 * la famine.
 
-Maintenant, l'Humanité s'est lancée dans la quête de :
+L'Humanité s'intéresse maitenant à la recherche de :
 
 * l'immortalité.
 * la divination.
 * le bonheur.
-*
-* Notre comprehension du monde semble indique que l'immortalité et le bonheur sont liés des problêmes techniques physiologiques. Trois voies s'offrent à lui pour y arriver :
+
+!!! note
+    Notre comprehension du monde semble indique que l'immortalité et le bonheur sont liés des problêmes techniques physiologiques.
+
+Trois voies sont explorées :
 
 * le génie biologique.
 * les cyborgs.
@@ -30,19 +43,9 @@ Maintenant, l'Humanité s'est lancée dans la quête de :
     Certains traités d'éthiques limitent l'utilisation des technologies pour modifier l'Humain mais il arrivera un moment où elles seront utilisées pour nous améliorer.
 
 !!! example
-    En Coree du Sud, les etudiants ont detourne l'usage d'un medicament pour doper leurs capacites mentales.
-    Certains milliardaires investissent des interfaces entre les ordinateurs et le cerveau.
-
-L'Homme étudie l'Histoire pour comprendre les choix qui s'offrent à lui et éviter de reproduire les erreurs passées sauf que jusqu'a maintenant prédire l'Histoire a toujours était un échec.
-
-Généralement lorsqu'elles sont énoncées Les théories économiques, sociale et politiques ne peuvent plus fonctionner lorsqu'elles ont été enoncées car elles changent la realisations de l'événement en éveillant les consciences.
-
-!!! example
-    Les gouvernements ont pris des mesures pour éviter la révolution des prolétères prédite par Karl Max.
+    En Coree du Sud, les etudiants ont détourné l'usage d'un medicament pour doper leurs capacites mentales.
 
 L'augmentation de la connaissance est une source de la complexification des systèmes. Les marchés financiers deviennet des environnements de plus en plus étranges. La connaissance a permis aux acteurs d'anticiper l'évolution des tendances des marchés qui ont eux même modifier le marche.
-
-
 
 Notre manière de penser est conditionnée :
 
@@ -54,7 +57,7 @@ Notre manière de penser est conditionnée :
 
 ### Croyances et modes de vie
 
-Les croyance humaines ont evoluees avec les modes de vies. A l'époque, les chasseurs cueilleurs avaient des croyances animistes.
+Les croyance humaines ont évoluées avec les modes de vie. A l'époque, les chasseurs cueilleurs avaient des croyances animistes.
 
 Ils communiquaients directement avec les animaux et les plantes lorsqu'ils en avaient besoin.
 

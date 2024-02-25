@@ -1,28 +1,23 @@
 L'objectif de l'étude du métabolisme est de comprendre comment l'énergie et la matière circulent dans le vivant.
 
-Le métabolisme possède deux composantes, les activités :
+Le métabolisme se compose de deux types d'activité :
 
-* Anaboliques (synthèse de molécules).
-* Cataboliques (dégradation de molécules).
+* anabolisme qui correspond à la synthèse de molécules
+* catabolisme qui correspond à la dégradation de molécules.
 
 L'activité anabolique consiste à additionner de petites molécules simples pour en former des plus complexes. Cette opération nécessite de l'énergie.
 
 !!! note
     Une réaction thermodynamiquement impossible càd endergonique peut se dérouler si elle est couplée avec une réaction exergonique.
 
-Voie métabolique successions de réactions intermédiaires qui permettent d'obtenir un produit.
+__Voie métabolique__ succession d'étapes au cours desquelles une molécule subit une suite de réactions intermédiaires pour synthétiser un produit.
 
 !!! note
     Certains intermédiaires servent dans plusieurs voies métaboliques.
 
-Le métabolisme se compose de deux types d'activité :
+__Voie métabolique__ séquence  est modifiée.
 
-* Anabolisme qui correspond à la synthèse de molécules
-* Catabolisme qui correspond à la dégradation de molécules.
-
-__Voie métabolique__ séquence d'étapes au cours desquelles une même molécule est modifiée.
-
-La cellule a besoin de gérer les ressources
+La cellule a besoin de gérer les ressources :
 
 * matérielles.
 * énrrgétiques.
@@ -34,20 +29,18 @@ __Énergie__ capacité de changer la disposition de la matière.
 !!! note
     La lumière est un type d'énergie cinétique.
 
- Biochimie métabolique 
-
 L'énergie utilisée par les cellules est extraite en brisant les liaisons chimiques entre les atomes. Avant d'être utilisé puis elle est stockée dans des molécules d'ATP. Utilise un intermédiaire.
 
 Les cellules ont besoins d'énergie pour fonctionner notamment pour réaliser trois types de travail c'est-à-dire de :
 
-* Chimique : la synthèse de molécules plus complexe.
-* Transport : qui va dans le sens opposé.
-* Mécanique : changement de forme, battement des cils, mouvement.
+* chimique : la synthèse de molécules plus complexe.
+* transport : qui va dans le sens opposé.
+* mécanique : changement de forme, battement des cils, mouvement.
 
 !!! note
     L'énergie pénètre sous forme de lumière dans un écosystème et le quitte sous forme de chaleur.
 
-__Couplage d'énergie__ processus qui consiste à utiliser l'énergie dégagée par une réaction exothermique pour en déclencher une endothermique
+__Couplage d'énergie__ processus qui consiste à utiliser l'énergie dégagée par une réaction exothermique pour en déclencher une endothermique.
 
 La cascade de signalisation est le mécanisme par lequel une cellule répond à un signal (chimique, électrique...). Elle aboutit à la réalisation d'activités cellulaires, par exemple, la synthèse de protéines. Elle se compose de trois phases :
 
@@ -90,10 +83,9 @@ L'ATP est formée d'un adénine et d'un ribose (adénosine) et de plusieurs grou
 La rupture d'une liaison phosphate-phosphate comme pour l'hydrolyse de l'ATP libère $G'^0 = 30,5 kJ \cdot mol^{-1} = 7 \cdot 3 kcal \cdot mol^{-1}$ en condition standard ($1atm$ et 25 C°) et $G'^0 = - 50$ $kJ \cdot mol^{-1}$ à
 37 °C.
 
-__Chimiosmose__ processus d'utilisation du gradient électronique pour effectuer un travail. C'est la chimiosmose qui permet la synthèse de
-l'ATP.
+__Chimiosmose__ processus d'utilisation du gradient électronique pour effectuer un travail. C'est la chimiosmose qui permet la synthèse de l'ATP.
 
-Rendement biomasse formée (g)/substrat consommé
+__Rendement__ biomasse formée (g)/substrat consommé
 
 ### Adénosine Three Phosphate (ATP)
 
@@ -101,10 +93,10 @@ L'ATP est la molécule la plus utilisées par les cellules pour stocker l'énerg
 
 L'énergie libérée par une molécule d'ATP est dû :
 
-* À la rupture de la liaison phosphate par hydrolyse ( $54,4 kJ \cdot mol^{-1}$ ).
-* Au réarrangement des électrons et de leur orbitales.
+* à la rupture de la liaison phosphate par hydrolyse ( $54,4 kJ \cdot mol^{-1}$ ).
+* au réarrangement des électrons et de leur orbitale.
 
-Les trois charges négatives des groupements phosphates facilitent la libération de l'énergie stockée dans l'ATP en contribuant à une certaine instabilité moléculaire. Ainsi l'énergie d'activation pour provoquer la rupture du groupement phosphate est suffisamment élevée pour ne pas se produire spontanément et faible pour être accessible via l'interaction avec les autres molécules notamment les enzymes.
+Les trois charges négatives des groupements phosphates facilitent la libération de l'énergie stockée dans l'ATP en contribuant à une instabilité moléculaire. Ainsi l'énergie d'activation pour provoquer la rupture du groupement phosphate est suffisamment élevée pour ne pas se produire spontanément et faible pour être accessible via l'interaction avec les autres molécules notamment les enzymes.
 
 !!! note
     L'hydrolyse de l'ATP seul produit de la chaleur.
@@ -130,7 +122,6 @@ Les cellules peuvent produire de l'énergie par la dégradation demolécule prin
 
 !!! note
     Certains organismes sont capables des deux modes mais ils privilégient la respiration cellulaire lorsque c'est possible.
-
 
 ## Les réactions chimiques
 
@@ -235,8 +226,8 @@ Certaines enzymes allo stériques présentent un phénome de rétro inhibition. 
 
 Le rétrocontrôle enzymatique peut être :
 
-* Positif.
-* Négatif (ou inhibiteur).
+* positif.
+* négatif (ou inhibiteur).
 
 L'inhibiteur peut être réversible ou irréversible. Dans le deuxième cas, site de liaison est permanent sur le site actif (compétitif) ou non (non compétitif).
 
@@ -249,8 +240,8 @@ L'apparition des compartiments a permis :
 
 On trouve des compartiments à la fois au niveau :
 
-* Cellulaire (Cellulaire mitochondrie, cytosol, lysosome, REL, peroxysome).
-* Tissulaire (par exemple, le foie produit du glucose).
+* cellulaire (Cellulaire mitochondrie, cytosol, lysosome, REL, peroxysome).
+* tissulaire (par exemple, le foie produit du glucose).
 
 !!! note
     Il est possible de catégoriser les organes en fonction de leur rôle : utilisateur, de stockage ou synthétiseur.
@@ -261,14 +252,14 @@ Le catabolisme consiste en :
 
 1. La dégradation de macromolécules en petites unités :
 
-    * Les lipides en acide gras et glycérols par les lipases.
-    * Les protéines en acide aminées par les protéases (appelé aussi peptidases). Elles subissent une dénaturation par la diminution du pH pour pouvoir être dégradées.
-    * Les polysaccharides (polymère de sucres) en glucose et sucres simples par les glycosidases.
+    * les lipides en acide gras et glycérols par les lipases.
+    * les protéines en acide aminées par les protéases (appelé aussi peptidases). Elles subissent une dénaturation par la diminution du pH pour pouvoir être dégradées.
+    * les polysaccharides (polymère de sucres) en glucose et sucres simples par les glycosidases.
 
 2. Une partie des plus petites unités est transformée en un nombre restreint de molécules appelées métabolites comme le pyruvate ou l'acétyl-coA. Par exemple :
 
     * l'oxydation complète de l'acétyl-coA sert à produire les molécules énergétiques notamment l'ATP au cours du cycle de l'acide citrique et de la phosphorylation oxydative.
-    * Le pyruvate sera utilisé dans la fermentation alcoolique, la respiration aérobie et la production de lactate dans les cellules musculaires.
+    * le pyruvate sera utilisé dans la fermentation alcoolique, la respiration aérobie et la production de lactate dans les cellules musculaires.
 
 !!! note
     Seuls les nucléotides issus de la dégradation de ADN, ARN par les nucléases ne peuvent pas être utilisés pour fabriquer de l'énergie.

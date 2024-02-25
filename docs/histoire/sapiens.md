@@ -11,12 +11,9 @@ Les deux traits biologiques distinguent les êtres humains de la plupart des aut
 
 ### Le cerveau
 
-Notre cerveau est 6x plus gros que celui autres mammifères du même gabarit : 
+Notre cerveau est 6 fois plus volumineux que celui des autres mammifères du même gabarit : 
 
-1. Il y a 2 millions d'années, notre cerveau est devenu trois fois plus gros par rapport aux autres animaux du même gabarit. Le volume de notre cerveau mais on ignore les raisons d'un tel changement notamment car possède un gros cerveau précentes des désavantages : 
-
-* consomme beaucoup d'énergie.
-que cela a lieu au détriment des autres organes comme les muscles.
+1. il y a 2 millions d'années, notre cerveau est devenu trois fois plus gros par rapport à celui des autres animaux du même gabarit mais les raisons de ce changement restent inconnues car un gros cerveau précentes d'importants désavantages évolutifs : il consomme beaucoup d'énergie et son développement se fait au détriment des autres organes comme les muscles.
 
 Chez l'homme moderne, le cerveau représente 3% volume du corps et consomme 25% de l'énergie contre en moyenne 8% chez les autres animaux.
 
@@ -24,19 +21,19 @@ L'acquisition d'un tel organe a contraint nos ancêtres a passer plus de temps �
 
 ### Le striatum
 
-Le striatum est une region du cerveau presente chez les mamifere qui est le declencheur principal des actions. Depuis son apparation, il y a 500 millions d'annees, il a constituer un avange evolutif pour la survie car il libere une hormone du plaisir nommee la dopamine lorsque l individu realisent les renforceurs primaires :
+Le striatum est une région du cerveau présente chez les mammifère qui est le déclencheur principal des actions. Depuis son apparation, il y a 500 millions d'annees, il a constituer un avange évolutif pour la survie car il libère une hormone du plaisir nommée la dopamine lorsque l'individu realise au moins un des renforceurs primaires :
 
-* se nourri
-* se reproduire
-* collecte des informations sur son environnement
-* dominer ses semblables
-* preserver ses ressources energetique.
+* se nourrir.
+* se reproduire.
+* collecter des informations sur son environnement.
+* dominer ses semblables.
+* préserver ses ressources énergetique.
 
-Au cours de son histoire, l'Homme a utilise ses extraordinaires capacites mentale pour le satisfaire. Il a developpe un arsenal d'objet toujours plus complexe pour satisfaire l'appetit insatiale de son striatum. Aujourd'hui, il menace les autres etres vivants en surexploitant les ressources naturelles, poluant,...
+Au cours de son histoire, l'Homme a utilisé ses extraordinaires capacités mentale pour satisfaire son striatum en développant un arsenal d'objets toujours plus complexe. Aujourd'hui, il menace les autres êtres vivants en surexploitant les ressources naturelles, polluant,...
 
-Les etudes scientifiques demontrent que les activites humaines sont a l'orgine d'une crise ecologique et climatique majeure qui pesera sur les generations futures. Pourtant, il ne fait rien car le striatum est pratique la devalorisation temporelle c'est lorsque le present est privilegie au detriment du futur meme si les consequences sont negatives.
+Les études scientifiques démontrent que les activites humaines sont à l'orgine d'une crise écologique et climatique majeure qui pesera sur les génerations futures. Pourtant, il ne fait rien car le striatum est pratique la dévalorisation temporelle c'est lorsque le présent est privilegié au détriment du futur même si les consequences sont negatives.
 
-Il existe des moyens pour courtcircuiter son emprise sur nos comportements. Par exemple, la culture permettrai de changer les criteres de reussites sociales faire changer les comportements. La mediation est une bonne alternative car elle permet de diminuer l'impact du striatum au quotidien en accordant plus d'importance au cortex frontal ou siege notre conscience.
+Il existe des moyens pour courtcircuiter son emprise sur nos comportements. Par exemple, la culture permettrai de changer les critères de réussites sociales faire changer les comportements. La médiation est une bonne alternative car elle permet de diminuer l'impact du striatum au quotidien en accordant plus d'importance au cortex frontal ou siège notre conscience.
 
 ### La bipédie
 
@@ -50,72 +47,72 @@ L'acquisition de la posture debout a permis à nos ancêtres inspecter la savane
 * a rendu disponible nos mains comme saisir des objets. Elles se sont développées concentrant les nerfs muscles développés. Les premiers outils découverts datent d'environ 2,5 millions d'années.
 
 !!! note
-    Pour les archéologues, la  est caractérisé  Les archéologues se fit à la présence d'outils pour déterminer la présence des hommes.
+    Pour les archéologues, la présence d'hominidé est  caractérisé par la présence d'outils.
 
-Le passage d'un 
-Squelette est l'héritage d'un ancêtre tétra Le squelette n'est pas adapté à la marche à deux pieds Il s'est développé pour supporter cet nouvel posture 
+Le passage d'un squelette est l'héritage d'un ancêtre tétra Le squelette n'est pas adapté à la marche à deux pieds Il s'est développé pour supporter cet nouvel posture 
 Cou rigide et les hanches ont subi réduction de la largeur du bassin
 
 #### Naissance prématurée
 
-Cette transformation a compliqué l'accouchement rendant cet acte de plus en plus dangereux pour la mère La tête des bébés de plus en plus grosse Favorisé les femelles avec un accouchement plus précoce
+L'adoption de la bipédie a compliqué l'accouchement rendant en le rendant plus dangereux pour la mère. La tête des bébés étant par la même occasion de plus en plus grosse, les femelles e plus en plus grosse Favorisé les femelles avec un accouchement plus précoce
 
 Ce sont les mères qui accouché de nouveaux nées prématuré ont eu plus de chance de survivre.
    
-* La raison pour laquelle les nouvelles nées humains naissent avec un système vital sous développé par rapport à d'autres espèces.
+!!! note
+    C'est la raison pour laquelle les nouveaux nées humains naissent avec un système vital sous développé par rapport aux autres espèces.
 
-Nouveau née demande plus d'attention dépendent complétement des parents pour survivre. Cette dépendance aurait conduit à la nécessité l'implication de toutes la tribu pour d'élever les nourrissons et ainsi cela aurait favoriser la création de liens sociaux forts et la sociabilisation entre les membres.
+Les nouveaux nées ont demandé plus d'attention dépendent complétement des parents pour survivre. Cette dépendance aurait conduit à la nécessité l'implication de toutes la tribu pour d'élever les nourrissons et ainsi cela aurait favoriser la création de liens sociaux forts et la sociabilisation entre les membres.
 
 ### Régime alimentaire
 
-Le régime alimentaire de nos ancêtres était 
+Le régime alimentaire de nos ancêtres était :
 
 * principalement végétarien.
-* un petit peu carnivore par la consommage d'insectes, de petits mammifères tout en étant charognards.
+* carnivore ponctuellement et de facons opportuniste.
 
 !!! note
     Les premiers outils retrouvés étaient destinés à casser les os pour accéder à la moelle.
 
-C'est vers 900 000 ans que nos ancêtres deviennent des chasseurs réguliers et vers 100 000 qu'ils acquièrent le statut de super prédateurs
+C'est vers 900 000 ans que nos ancêtres deviennent des chasseurs réguliers et vers 100 000 qu'ils acquièrent le statut de super prédateurs.
 
 Le passage d'une espèce du milieu de la chaine alimentaire à celui de super prédateur s'est fait dans un temps extrêmement rapide à l'échelle de l'évolution qui n'a pas suffi à :
 
-* l'apparition d'un contre poids écologique
-* à l'adaptation nos processus mentaux à notre nouveau statut.
+* l'apparition d'un contre poids écologique.
+* l'adaptation nos processus mentaux à notre nouveau statut.
 
-Nous avons conservé les dispositions mentales qui nous d'anxiété et de peur qui nous rendent particulièrement cruel dangereux.
+Nous avons conservé les dispositions mentales d'anxiété et de peur qui nous rendent particulièrement cruel dangereux.
 
 Les microbes et le développement des sociétés humaines
 Nous dépendons des bactéries pour synthétiser certaines vitamines.
 Les microbes ont été un élément important dans le développement de la sédentarité des sociétés humaines : 
-•	Ils ont rendu comestibles des aliments notamment des graines.
-•	Permis la conservation d’aliments par leur transformation (fromage, bière…).
 
+* Ils ont rendu comestibles des aliments notamment des graines.
+* Permis la conservation d’aliments par leur transformation (fromage, bière…).
 
 ### Le feu
 
-Le feu a eu un rôle particulièrement important dans l'évolution du genre Homo. Les premiers trace de son utilisation par des communautés humaines remontent à 800 000 ans. Il a permis notamment :
+Le feu a eu un rôle particulièrement important dans l'évolution du genre Homo. Les premiers traces de son utilisation par des communautés humaines remontent à 800 000 ans. Il a permis notamment :
  
 * se chauffer et de permettre l'installation dans des régions avec des climats plus froids.
 * d'être utilisé comme une arme et de se protéger des prédateurs.
 * l'apparition de la cuisine.
-* de prolonger articifiellement la durée des jours. L'apparition d'une nouvelle periode de veille autour du foyer.
+* de prolonger articifiellement la durée des jours et l'apparition d'une nouvelle période de veille qui avait lieu autour du foyer.
 
 #### Cuisine 
 
-La cuisine a été grandement contribué à l'alimentation des humains et nous a comblé les besoins en énergie de notre cerveau en :
+La cuisine a grandement contribué à l'alimentation des humains et nous a comblé les besoins en énergie de notre cerveau en :
 
 * rendant les aliments plus faciles à digérer et à mastiquer. Plus petit intestin et dents libérer de l'énergie Cerveau recevoir plus d'énergie
 * rendant certaines nourritures comestibles.
 * éliminer les parasites.
 
-Le temps consacré à l'alimentation à fortement chuté. Aujourd'hui, nous avons besoin de de moins d'une heure pour nous nourrir tandis que plus proche cousin un chimpanzé accorde en moyenne 5h à cette activité.
+Le temps consacré à l'alimentation à fortement chuté. Aujourd'hui, nous avons besoin de de moins d'une heure pour nous nourrir tandis chez les chimpanzés accorde en moyenne 5h à cette activité.
 
 ## Mondialisation de Sapiens
 
-Il y a deux 2 millions d'années plusieurs espèces d'Homo ont quitté le bassin d'Afrique de l'Ouest pour aller s'installer :
+Il y a deux millions d'années plusieurs espèces d'Homo ont quittées le bassin d'Afrique de l'Ouest pour aller s'installer en :
 
-* en Europe et Asie occidental pour Neandertal.
+* Europe et Asie occidental pour Neandertal.
 * Asie oriental pour Homo erectus.
 
 Vers 150 000 ans qu'Homo Sapiens est apparu en Afrique.
@@ -143,23 +140,22 @@ Des hybridations entre les différentes espèces humaines ont été eu lieu :
 
 Les arguments en faveur de la théorie du remplacement sont :
 
-* La tolérance n'a jamais été le propre de Sapiens notamment lorsque des différences de couleurs de peau et de croyance conduisent à des discriminations et des génocides.
-* Les tribus de Sapiens étaient plus performants pour se nourrir. capter les ressources nécessaires aux détriments des Ils ont capté les ressources nécessaires aux autres groupes humains pour survivre les poussant ainsi à disparaitre.
+* la tolérance n'a jamais été le propre de Sapiens notamment lorsque des différences de couleurs de peau et de croyances conduisent à des discriminations et des génocides.
+* les tribus de Sapiens étaient plus performants pour se nourrir. Elle auraient capté plus efficacement les ressources aux détriments des autres groupes humains.
 
 ## Révolution cognitive
 
 On suppose qu'à l'origine de la réussite de Sapiens sur les autres espèces humaines, il y a une révolution cognitive car aucune différence dans les outils produits par les différents groupes humains n'a été trouvé.
 
 !!! note    
-    C'est vers 30 000 ans que les premiers bateaux, arcs, coutures, habits sont apparu.
+    C'est vers 30 000 ans que les premiers bateaux, arcs, coutures, habits sont apparus.
 
 Les chercheurs supposent qu'une mutation génétique à modifier en profondeur l'architecture de notre cerveau.
 
-Elle aurait permis à sapiens de développer
+Elle aurait permis à sapiens de développer :
 
-* un langage extrêmement souple qu'il lui permet de communiquer une infinité d'informations avec un nombre limité d'unités.
-* Une réalité imaginée et objective. Cette première permet à des personnes d'accorder autant d'importance à l'existence de faits réels que de fictions.
-
+* un langage plus souple qu'il lui aurait permis de communiquer une infinité d'informations avec un nombre limité d'unités.
+* une réalité imaginée et objective. Cette première permet à des personnes d'accorder autant d'importance à l'existence de faits réels que de fictions.
 
 ### Les primates
 
@@ -177,7 +173,7 @@ Commérage coopération à plus grande échelle
 
 ### Les histoires fictives
 
-Sapien aurait etadiqué les autres espèces humaines grâce à sa capacité à collaborer 
+Sapien aurait erradiqué les autres espèces humaines grâce à sa capacité à collaborer 
 
 Permis aux groupes d'homo sapiens de coopérer à un
 
@@ -209,7 +205,7 @@ Certaines tribus se composaient de plusieurs groupes.
 
 Les bandes de chasseurs-cueilleurs formaient une grande diversité de sociétés humaines
 
-La violence était très présente certains endroits mais elle a beaucoup variée au cours dans le temps et dans l'espace.
+La violence était très présente certains endroits mais elle a beaucoup variée dans le temps et dans l'espace.
 
 ### Sapiens dépasse les limites Afro-Eurasie
 
@@ -283,7 +279,7 @@ Sa récolte requière du travail de ramassage ils ont contribué à la dispersio
 
 Certaines sociétés pré agricultrices se sont installées de plus en plus longtemps pour bâtir des temples. Ils ont commencé à cultiver les plantes locales pour subvenir à leur besoin nutritionnel. Des analyses génétiques suggèrent que le blé domestique est originaire du village de Gobekli Tepe où des temples datant d'avant la periode agricole ont ete mis au jour.
 
-Nos ancetres firent un certain nombre de découvertes qui leurd permirent d'augmenter la production. Il se rendirent compte qu'ils pouvaient exercer un certain contrôle la récolte dépendaient du travail fourni.
+Nos ancêtres firent un certain nombre de découvertes qui leurd permirent d'augmenter la production. Il se rendirent compte qu'ils pouvaient exercer un certain contrôle la récolte dépendaient du travail fourni.
 
 L'illusion d'une perspective de vie de plus en plus facile au fur et à mesure des amélioration apportées.
 
@@ -300,7 +296,6 @@ Mais contrairement aux végétaux, les animaux sont dotés de sensibilités et l
 
 !!! note
    À l'état sauvage, les animaux d'élevages ont une durée de vie de plusieurs dizaines d'année.
-
 
 Lorsque la population a été atteinte une certaine taille, le retour à l'état de tribus nomades fut impossible car l'environnement ne contenait plus les ressources nécessaires pour répondre aux besoins du nombre d'individus.
 
@@ -343,7 +338,6 @@ L'homme a ensuite opéré à une sélection consciente des individus les plus av
 * A anniler l'instinct càd la social, diminuer de l'agressivité et la sexualité.
 
 Certaines bêtes ont été capturée et enfermées dans des enclos puis sélectionnées pour procréer en suivant les mêmes critères. Le temps des générations a alors conduit à l'apparition des animaux modernes tels que la poule, les bovins et les cochons ou les moutons.
-
 
 -------
 
@@ -451,7 +445,6 @@ Monnaie besoin de pouvoir être
 Système de confiance globale
 
 !!! note
-
    La 1ère monnaie sumérienne vers 3000 ans grains volume de la valeur inhérente consommé
 
 Convertibilité confiance
@@ -471,15 +464,13 @@ Les empires ont contribué à réduire la diversité et à homogénéiser les cu
 
 Importance
 
-
 -------------
 
 Écriture de données mathématiques
 
-A l'époque, ne constituait pas une priorité. La lecture étant réservée qu'a un nombre de personnes extrêmement restreint.
+A l'époque, ne constituait pas une priorité. La lecture étant réservée qu'a un nombre restreint de personnes.
 Les premiers systèmes d'écriture ont été développé pour conserver des informations a
-Il mire au point un système d'écriture partiel pour conserver les
-informations qui permettent d'administrer liés par exemple aux taxes, aux possessions matériels, ...
+Il mire au point un système d'écriture partiel pour conserver les informations qui permettent d'administrer liés par exemple aux taxes, aux possessions matériels, ...
 
 Parallèlement, pour les mêmes motifs, les sociétés pré incas mirent au point un système qui utilisé la tapisserie appelé quipu.
 
