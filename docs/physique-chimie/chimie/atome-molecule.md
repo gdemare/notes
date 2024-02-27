@@ -17,14 +17,6 @@ Energie d’ionisation (ici première) (opposé d’affinité électronique) én
 Affinité électronique quantité d’énergie dégagée à la suite de la capture d’un électron. Elle est maximale lorsque la couche est complètement remplie.	
 Électronégativité capacité d’un atome à attirer des électrons notamment pour compléter ses couches. 	Cutoff seuil au delà duquel les intéractions entre les particules sont négligées. Un cutoff de distance est souvent défini pour exclure les interactions à longue porté.
 
-L'énergie potentielle est la somme de :
-
-* $\sum{k \cdot (l-l_0)^2$ qui correspond à la
-* à la torsion des liaisons entre les atomes.
-* 
-
-* les intéreact
-
 Stabilité atomique
 Un atome a tendance à prendre la configuration électronique qui lui donne un niveau de stabilité maximal. La stabilité est atteinte dans les conditions suivantes par ordre de stabilité décroissant) :
 	La couche en cours de remplissage totalement pleine ou totalement vide.
@@ -100,8 +92,8 @@ Cutoff seuil au delà duquel les intéractions entre les particules sont néglig
 
 L'énergie potentielle est la somme de :
 
-* $\sum{k \cdot (l-l_0)^2$ qui correspond à la
-* à la torsion des liaisons entre les atomes.
-* 
+* La variation dans la longueur de la liaison covante $\sum{k \cdot (l-l_0)^2}$.
+* La torsion des liaisons entre les atomes. 
 
-* les intéreact
+* Le couplage de la position des orbites.
+* Les intéractions électrostatiques.
