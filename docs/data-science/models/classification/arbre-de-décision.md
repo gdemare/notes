@@ -16,7 +16,7 @@ Peu sensible aux valeurs extrêmes   |
 
 ### Critère pour la création d'un embranchement
 
-Gain d'information 
+Gain d'information : 
 
 Les principaux critères pour la sélection des variables et la formation d'un embranchement sont :
 
@@ -39,9 +39,8 @@ Les principaux critères pour la sélection des variables et la formation d'un e
 
 ### Méthode C4.5
 
-SI Split Information
-
-GR  Gain Ratio
+* SI Split Information
+* GR  Gain Ratio
 
 #### CART
 
@@ -52,10 +51,11 @@ Pour prédire généralement  :
 
 ### Sélection des variables - Élagage de l'arbre
 
-* Coefficient de complexité.
+Il existe plusieurs critères pour déterminer qunand élaguer notre arbre :
 
-* Effetif minimum dans chaque noeud ou la hauteur maximale.
-* p-valeur, jusqu'a obtenir des variables indépendantes.
+* le coefficient de complexité.
+* un effetif minimum dans chaque noeud ou la hauteur maximale.
+* en utilisant un p-valeur, jusqu'a obtenir des variables indépendantes.
 
 #### Coefficient de complexité
 
