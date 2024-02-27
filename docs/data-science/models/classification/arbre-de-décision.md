@@ -30,8 +30,12 @@ Les principaux critères pour la sélection des variables et la formation d'un e
 #### Méthode ID3
 
 1. Calculer l'entropie sur l'ensemble des données  $H(S) = - \sum_{c_i \in C}{P(c_i) \cdot \log P(c_i)}$ avec $P(c_i)$ la fréquence pour chaque modalité.
-2. Le gain d'information sur le sous ensemble en utilisant une variable $IG = H(S) - \sum_{S_j}{P(S) \cdot H(S_jk)}$. 
-3. La varible avec le gain d'information maximum est gardé.
+2. Le gain d'information sur le sous ensemble en utilisant une variable $IG = H(S) - \sum_{S_j}{P(S) \cdot H(S_jk)}$ avec :
+    
+    * $H(S)$ l'entropie ou le gain de Gini.
+    * $P(S)$ la proportion d'individus pour chaque feuille par rapport à l'effectif de celle parent.
+    
+4. La varible avec le gain d'information maximum est gardé.
 
 ### Méthode C4.5
 
@@ -65,7 +69,10 @@ Avec :
 
 ## Forêt aléatoire
 
-Une forêt aléatoire est un ensemble d'arbres de décision construit avec des variables et des échantillons selectionnés aléaloirement.
+Une forêt aléatoire est un ensemble d'arbres de décision construit avec une selection aléaloire :
+
+* des variables.
+* des échantillons .
 
 Avantages                           | Inconvénients
 ------------------------------------|---
