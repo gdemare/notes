@@ -33,6 +33,7 @@ Pred quanti | Pred quali | Critère de mesure de l'erreur         | Formule
 ------------|------------|---------------------------------------|---
 _           | X          | Entropie croisée pour les catégories  | $- \sum y \cdot \log(p) + (1−y) \cdot \log (1−p)$
 X           | _          | Erreur quadratique moyenne (MSE)      | $E[(y_i - \hat{y}_i)]$
+X           | _          | Racine carré de l'erreur moyenne (RMSE) | $\sqrt{E[(y_i - \hat{y}_i)]}$
 X           | _          | Erreur absolue moyenne (MAE)          | $E[ | y_i - \hat{y}_i | ]$
 
 ### Qualitatif
