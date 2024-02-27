@@ -35,7 +35,7 @@ Les principaux critères pour la sélection des variables et la formation d'un e
     * $H(S)$ l'entropie ou le gain de Gini.
     * $P(S)$ la proportion d'individus pour chaque feuille par rapport à l'effectif de celle parent.
     
-4. La varible avec le gain d'information maximum est gardé.
+4. La variable utilisée est celle avec le gain d'information maximum.
 
 ### Méthode C4.5
 
