@@ -15,7 +15,16 @@ Rayon atomique Distance entre le noyau et le nuage électronique. C’est un peu
 Plus un atome contient de charges positives et moins il a d’électrons plus a tendance à les garder à proximité de son noyau.	 
 Energie d’ionisation (ici première) (opposé d’affinité électronique) énergie requise pour arracher un électron. A →A^++e	
 Affinité électronique quantité d’énergie dégagée à la suite de la capture d’un électron. Elle est maximale lorsque la couche est complètement remplie.	
-Électronégativité capacité d’un atome à attirer des électrons notamment pour compléter ses couches. 	
+Électronégativité capacité d’un atome à attirer des électrons notamment pour compléter ses couches. 	Cutoff seuil au delà duquel les intéractions entre les particules sont négligées. Un cutoff de distance est souvent défini pour exclure les interactions à longue porté.
+
+L'énergie potentielle est la somme de :
+
+* $\sum{k \cdot (l-l_0)^2$ qui correspond à la
+* à la torsion des liaisons entre les atomes.
+* 
+
+* les intéreact
+
 Stabilité atomique
 Un atome a tendance à prendre la configuration électronique qui lui donne un niveau de stabilité maximal. La stabilité est atteinte dans les conditions suivantes par ordre de stabilité décroissant) :
 	La couche en cours de remplissage totalement pleine ou totalement vide.
@@ -86,3 +95,13 @@ Champs de force permet de calculer l'énergie potentielle. Il faut réaliser de 
 1. caluler l'énergie potientielle et la minimiser avec $V$ l'énergie potentielle.
 2. Déterminer la force à appliquer à la molécule càd le vecteur de déplacement de la molécule qui correspond à la direction qui minimise l'énergie (potentielle) du système $\sum{\vec{F}} = - \frac{\partial V}{\partial r_i}$ 
 3. Calcul de la nouvelle position atomique à partir de la position de la molècule et du vecteur de déplacement. 
+
+Cutoff seuil au delà duquel les intéractions entre les particules sont négligées. Un cutoff de distance est souvent défini pour exclure les interactions à longue porté.
+
+L'énergie potentielle est la somme de :
+
+* $\sum{k \cdot (l-l_0)^2$ qui correspond à la
+* à la torsion des liaisons entre les atomes.
+* 
+
+* les intéreact
