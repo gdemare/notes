@@ -1,9 +1,9 @@
 Le principe des régressions linéaires, logistiques,... est de créer une équation de type  $z(x) = \sum{a_i \cdot x_i} + b = \hat{y}$ avec $y$ la variable à prédire et $x_i$ les variables explicatives (appelées aussi descripteurs).
 
-Les variables explicatives doivent être quantitative. 
+Les variables explicatives doivent être quantitatives. 
 
 !!! note
-    Il est possible d'utiliser des variables qualitatives en les transformant en variable binéaire.
+    Il est possible d'utiliser des variables qualitatives en les transformant en variables binéaires.
 
 Avantages       | Inconvénients
 ----------------|---
@@ -12,22 +12,22 @@ Interprétable   |
 
 Pour créer une régression, il faut :
 
-1. Préparer ses données (éliminer les variables trop corrélées, les combinaison linéaire et à variance nulle).
-2. Créer le modèle.
-3. Vérifier les conditions d'application du modèle notamment les propriétés des résidus.
+1. préparer ses données car sinon le modèle peut ne pas converger càd qu'il n'est pas possible de déterminer la valeur des coeffients.
+2. créer le modèle.
+3. vérifier les conditions d'application du modèle notamment les propriétés des résidus.
 
 Les principales types de régression sont :
 
-* Linéaire pour prédire une variable quantitative.
-* Logistique pour prédire une variable qualitative.
+* linéaires pour prédire une variable quantitative.
+* logistiques pour prédire une variable qualitative.
 
 ### Préparation des données
 
-Il faut éviter le tri dans les variables qui pourront être utilisées car sinon le modèle peut ne pas converger ce qui singifie que le modèle n'arrive pas à déterminer les paramètres. Il faut retirer les variables :
-
-* trop corrélées.
-* les combinaisons linéaires.
-* à variance nulle.
+Il faut éviter le tri dans les variables à utiliser dans le modèle. Il faut éliminer :
+     
+ * les variables trop corrélées.
+ * les combinaison linéaires.
+ * les variables à variance nulle.
 
 !!! warning
     Cette étape est nécessaire même en utilisant des algorithmes de choix qui choisissent les variables.
@@ -76,15 +76,12 @@ $$p(X) = \frac{1}{1 + e^{- z(x)}}$$
 !!! note
     La régression logistique peut être utilisée pour des classificateurs à mulitples modalités en créant un modèle pour chaque modalité.
 
-La classificaiton des individus se fait en définissant un seuil (souvent 0.5) pour l'attribution à l'une ou l'autre des deux classes.
+La classification des individus se fait en définissant un seuil (souvent 0.5) pour l'attribution à l'une ou l'autre des deux classes.
 
 ### Variable significatives
 
-Test de la déviance = test global
-Test de Wald = test pour chaque variable
-
-### Validité
-
+* Test de Wald pour tester si le coefficient est égale à 0 càd la significité de chaque variable.
+* Test de la déviance qui permet d'évaluer les variables explicatives dans le modèle ont un effet global significatif sur le modèle. Le test compare le modèle avec le modèle réduit (uniquement avec l'intercept).
 * Test t de Student (h0 : aucune variable n’est significative).
 
 ## Partial Least Squares (PLS)
