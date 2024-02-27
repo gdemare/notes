@@ -81,9 +81,8 @@ La somme des moments est équivalent à une force que l'on représente par une f
 !!! note
     Les dipôles sont à l'origine des liaisons d'hydrogènes.
 
-Champs de force permet de calculer l'énergie potentielle.
+Champs de force permet de calculer l'énergie potentielle. Il faut réaliser de par répétition :
 
-
-1. Energie potientielle, qui correspond à l'opposé des forces $\sum{\vec{F}} = - \frac{\partial V}{\partial r_i}$.
-Avec $V$ l'énergie potentielle.
-2. Calcul de la nouvelle position atomiques.
+1. caluler l'énergie potientielle et la minimiser avec $V$ l'énergie potentielle.
+2. Déterminer la force à appliquer à la molécule càd le vecteur de déplacement de la molécule qui correspond à la direction qui minimise l'énergie (potentielle) du système $\sum{\vec{F}} = - \frac{\partial V}{\partial r_i}$ 
+3. Calcul de la nouvelle position atomique à partir de la position de la molècule et du vecteur de déplacement. 
