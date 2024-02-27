@@ -65,7 +65,10 @@ Avec :
 
 ## Forêt aléatoire
 
-Une forêt aléatoire est un ensemble d'arbres de décision construit avec des variables et des échantillons selectionnés aléaloirement.
+Une forêt aléatoire est un ensemble d'arbres de décision construit avec une selection aléaloire :
+
+* des variables.
+* des échantillons .
 
 Avantages                           | Inconvénients
 ------------------------------------|---
