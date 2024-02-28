@@ -39,7 +39,7 @@ On note n le nombre d'individus du jeu de test : $n = a + b + c + d$.
 
 Pour un classificateur binaire, les critères principaux sont utilisés pour évaluer le modèle dépendent de la matrice de confusion. Ils sont :
 
-* la sensibilité (qui est la capacité a trouver tous les individus vrai (bien classé) parmi ce qui le sont (vrai mal classé). La sensibilité est également appelé ou la sélectivité ou taux de vrai positif ou rappel (recall).
+* la sensibilité (qui est la capacité a trouver tous les individus vrai (bien classé) parmi ce qui le sont (vrai mal classé). La sensibilité est également appelé la sélectivité ou taux de vrai positif ou rappel (recall).
 * la spécificité est qui est la capacité a trouver tous les individus faux parmi ce qui le sont.
 * la précision qui la proportion d'individus bien classée.
 
