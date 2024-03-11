@@ -294,6 +294,7 @@ Démonstration :
 Les activités humaines ont rendu le flux génétique plus présent et courant qu'il ne l'était.
 
 !!! note
-    Point méthode : 
+    Point méthode :
+    
     * il est parfois plus simple de faire les calculs de probabilité de l'événement inverse.
     * penser toujours au fait que $q = 1 - p$ notamment pour déterminer les paramètres initiaux pour obtenir un équilibre.
