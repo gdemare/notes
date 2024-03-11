@@ -38,6 +38,9 @@ Les ratios pour justifier les gènes dominance/récidivité
 |----------------|--------------|
 | 3 :1           | 9 :3 :3 :1   |
 
+!!! note
+    Mendel a pu déterminer les lois de l'hérédité en utisant une espèce qui pouvait s'autoféconder et ainsi obtenir des lignée pures.
+
 ## Type d'expérience
 
 * Nbre de caractères étudiés :
