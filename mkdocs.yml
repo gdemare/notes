@@ -239,7 +239,8 @@ nav:
       - "Physique quantique" : physique-chimie/physique/physique-quantique.md
       - "Les atomes" : physique-chimie/physique/atomes.md
   - Autres :
-  
+
+    - "Indicateurs cinétiques" : autre/indicateurs-cinetiques.md
     - Démocratie : autres/démocratie.md
     - Anglais :
       - Conjugaison : autres/anglais/conjugaison.md
