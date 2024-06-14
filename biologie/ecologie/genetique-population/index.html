@@ -1,0 +1,6596 @@
+
+<!doctype html>
+<html lang="fr" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../evolution/genetique-mendel/">
+      
+      
+        <link rel="next" href="../../evolution/genome-evolution/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.26">
+    
+    
+      
+        <title>Génétique des populations - Notes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.6543a935.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/_mkdocstrings.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#vocabulaire" class="md-skip">
+          Aller au contenu
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="En-tête">
+    <a href="../../.." title="Notes" class="md-header__button md-logo" aria-label="Notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Notes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Génétique des populations
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Rechercher" placeholder="Rechercher" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Recherche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Effacer" aria-label="Effacer" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initialisation de la recherche
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/gdemare/notes/" title="Aller au dépôt" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    gdemare/notes
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Onglets" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../ressources_biologie/" class="md-tabs__link">
+          
+  
+  Biologie
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../data-science/ressources_data/" class="md-tabs__link">
+          
+  
+  Data Science
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../histoire/anticipation/" class="md-tabs__link">
+          
+  
+  Histoire
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../mathematique/mathematique/" class="md-tabs__link">
+          
+  
+  Mathématique
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../physique-chimie/unites/" class="md-tabs__link">
+          
+  
+  Physique Chimie
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../autres/d%C3%A9mocratie/" class="md-tabs__link">
+          
+  
+  Autres
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Notes" class="md-nav__button md-logo" aria-label="Notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Notes
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/gdemare/notes/" title="Aller au dépôt" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    gdemare/notes
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Biologie
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Biologie
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ressources_biologie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ressources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_2" id="__nav_1_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Biochimie et biomol
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            Biochimie et biomol
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_2_1" id="__nav_1_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Biomolécules simples
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Biomolécules simples
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/introduction-biochimie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Panorama
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/lipides/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lipides
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/sucres/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sucres
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_2_2" id="__nav_1_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    ADN et ARN
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            ADN et ARN
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/ADN-ARN/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ADN et ARN
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/ADN-ARN-synthese/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Synthèse ADN et ARN 
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/etude_acide_nucleique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Etude ARN ADN
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/etude_pcr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    PCR
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_2_3" id="__nav_1_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Métabolisme
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Métabolisme
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/introduction-metabolisme/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction au métabolisme
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/respiration-fermentation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Respiration et fermentation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/metabolisme-secondaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Métabolisme secondaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/photosynthese/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Photosynthèse
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/reactivite-chimique-biologie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Réactivité chimique en biologie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_2_4" id="__nav_1_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Protéines
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Protéines
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/proteines/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Généralités
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../biochimie/enzymes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Enzymes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/etude_proteines/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Etude des protéines
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_3" id="__nav_1_3_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Bioinformatique
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Bioinformatique
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bioinformatique/aligner-sequences/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aligner des séquences
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bioinformatique/genomique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Génomique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bioinformatique/rechercher-sequences/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rechercher des séquences
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_4" id="__nav_1_4_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Cellule et tissus
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            Cellule et tissus
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../structure-fonction-principes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Structure et fonctions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_4_2" id="__nav_1_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Histologie
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Histologie
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../histologie/histologie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histologie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../histologie/tissu-conjonctif/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tissu conjonctif
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../histologie/tissu-epithelial/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tissu épithélial
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../histologie/tissu-musculaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tissu musculaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../histologie/tissu-nerveux/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tissu nerveux
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_4_3" id="__nav_1_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Organisation cellulaire
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Organisation cellulaire
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/organisation/organisation-cellulaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Organisation cellulaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/organisation/cytosquelette/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cytosquelette
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/organisation/mec-jonctions-cellulaires/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MEC et jonctions cellulaires
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/organisation/membrane-plasmique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Membrane plasmique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/organisation/noyau/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Noyau
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/organisation/organites/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Organites
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/organisation/systeme-endomembranaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Système endomembranaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_4_4" id="__nav_1_4_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Biologie cellulaire
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            Biologie cellulaire
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/communication-cellulaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Communication cellulaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/cycle-cellulaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cycle cellulaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/mort-cellulaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mort cellulaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/potentiel-cellulaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Potentiel cellulaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/regulation-expression-genique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Régulation de l'expression génétique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_4_5" id="__nav_1_4_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Physologie animale
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            Physologie animale
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/physiologie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physiolgoi
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/circulation-echanges-gazeux/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Circulation et échange gazeux
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/comportement/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Comportement
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/nutrition-animaux/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nutrition
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/immunologie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Immunologie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/muscle/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Muscle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/neurobiologie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Neurologie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/osmoregulation-excretion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Osmorégulation et excrétion
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/reproduction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reproduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/reproduction-sexue/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reprodctuion sexuée
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/systeme-endocrinien/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Système endorinien
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../physiologie-animale/systeme-nerveux/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Système nerveux
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_4_6" id="__nav_1_4_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Plante
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_4_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4_6">
+            <span class="md-nav__icon md-icon"></span>
+            Plante
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../plante/cellule-vegetale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cellule
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../plante/nutrition-vegetale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nutrition
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../plante/organisation-vegetale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Organisation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../plante/reponse-vegetaux/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reponses au stimuli
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_4_7" id="__nav_1_4_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Procaryotes et virus
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_4_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4_7">
+            <span class="md-nav__icon md-icon"></span>
+            Procaryotes et virus
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/bacteries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bactéries
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cellule/virus/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Virus
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_4_8" id="__nav_1_4_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Techniques
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_4_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_4_8">
+            <span class="md-nav__icon md-icon"></span>
+            Techniques
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/clonage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Clonage
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/culture-cellulaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Culture cellulaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/clonage_genie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Génie génétique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/histologie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histologie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_1_5" id="__nav_1_5_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Ecologie
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ecologie
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_5_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_5_1" id="__nav_1_5_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Populations et communautés
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            Populations et communautés
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../biologie-conservation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Biologie de la conservation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ecologie-communautes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ecologie des communautés
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ecosysteme-ecologie-restauration/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ecosystème et écologie de la restauration
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../evolution-population/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Evolution des populations
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_5_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_1_5_2" id="__nav_1_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Evolution
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_5_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Evolution
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evolution/genetique-mendel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Génétique Mendel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Génétique des populations
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Génétique des populations
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vocabulaire" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vocabulaire
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objectifs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objectifs
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Objectifs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#les-indicateurs-de-diversite" class="md-nav__link">
+    <span class="md-ellipsis">
+      Les indicateurs de diversité
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frequences-alleliques" class="md-nav__link">
+    <span class="md-ellipsis">
+      Fréquences alléliques
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Fréquences alléliques">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lequilibre" class="md-nav__link">
+    <span class="md-ellipsis">
+      L'équilibre
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mutation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mutation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#derive-genetique" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dérive génétique
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#les-rencontres-non-aleatoires-entre-les-gametes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Les rencontres non aléatoires entre les gamètes
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Les rencontres non aléatoires entre les gamètes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#autofecondation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Autofécondation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#consanguinite" class="md-nav__link">
+    <span class="md-ellipsis">
+      Consanguinité
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#la-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      La sélection
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selection-naturelle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sélection naturelle
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selection-sexuelle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sélection sexuelle
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#migration" class="md-nav__link">
+    <span class="md-ellipsis">
+      Migration
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evolution/genome-evolution/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Génome évolution
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evolution/phylogenie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Phylogénie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../origine-biodiversite/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Origine de la biodiversité
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evolution/theorie-evolution/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Théorie de l'évolution
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_5_3" id="__nav_1_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Taxonomie
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Taxonomie
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../taxonomie/classification/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Classification
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../taxonomie/animaux/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Animaux
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../taxonomie/champignons/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Champignons
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../taxonomie/plantes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Végétaux
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_6" id="__nav_1_6_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Matériels et méthodes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_6">
+            <span class="md-nav__icon md-icon"></span>
+            Matériels et méthodes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_6_1" id="__nav_1_6_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Méthodes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_6_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            Méthodes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/etude_biologie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Généralités
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/methodes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Méthodes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/introduction-biologie-experiementale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction biologie expérimentale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/immunomarquage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Immunomarquage
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_1_6_2" id="__nav_1_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Matériels
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Matériels
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/microscopie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Microscopie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/imagerie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Imagerie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/RMN/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RMN
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methodes-techniques/spectrometrie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Spectrométrie de masse
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Data Science
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Data Science
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/ressources_data/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ressources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/dictionnaire-statistique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dictionnaire Statistique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Données non structurées
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Données non structurées
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/cartographie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cartographie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/text-mining/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fouille de textes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/traitement-image/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Traitement des images
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/traitement-signal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Traitement du signal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/transformation-donnees/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Transformation des données
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modèles
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Modèles
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/models/models/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modèles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/models/echantillionnage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Echantillionnage
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/models/indicateurs-couts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Coût & critères
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/models/classification-all/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Type classification
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/models/regression-all/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Type régression
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_6" id="__nav_2_4_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Classification
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_4_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_6">
+            <span class="md-nav__icon md-icon"></span>
+            Classification
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/models/classification/arbre-de-d%C3%A9cision/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arbre de décision & forêt aléatoire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_7" id="__nav_2_4_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Mixtes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_4_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_7">
+            <span class="md-nav__icon md-icon"></span>
+            Mixtes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/models/regression/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Régression
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_8" id="__nav_2_4_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Réseaux de neurones
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_4_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_8">
+            <span class="md-nav__icon md-icon"></span>
+            Réseaux de neurones
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/models/reseaux-neurones/reseaux-neurones/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Réseaux de neurones
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/models/reseaux-neurones/couche-convulsive/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Couches convulsives
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Descriptions des données
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Descriptions des données
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5_1" id="__nav_2_5_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Cluestering
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            Cluestering
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/clustering/cluestering/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cluestering
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/clustering/clustering-variables/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cluestering des variables
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/clustering/CAH/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CAH
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/clustering/CDH/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CFH
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/clustering/centres-mobiles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Centres mobiles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5_2" id="__nav_2_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Réduction de dimensions
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Réduction de dimensions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/reduction-dimensions/reduction-dimension/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Réduction de dimensions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/reduction-dimensions/AFC-ACM/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AFC et ACM
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/reduction-dimensions/ACP/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ACP
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/reduction-dimensions/analyse-discriminante/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Analyse discriminante
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../data-science/reduction-dimensions/positionnement-multidimensionnel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Positionnement multidimensionnel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Histoire
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Histoire
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../histoire/anticipation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Futur
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../histoire/chronologie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Frise chronologique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../histoire/sapiens/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sapiens
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Le propre de l'Homme
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Le propre de l'Homme
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../histoire/ecriture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    L'écriture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Mathématique
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Mathématique
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/mathematique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Symboles et notation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/arithmetique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Arithmétique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/geometrie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Geométrie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/matrice/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matrice
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_5" id="__nav_4_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Analyse
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            Analyse
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/analyse/optimisation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Optimisation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/analyse/algorithmique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Algorithmie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_5_3" id="__nav_4_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fonctions
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Fonctions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/analyse/equation-differentielle/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Equation différentielle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/analyse/definition-derives-primitives-limites/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Définition, dérivé, primitive, limite
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/analyse/fonctions-remarquables/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fonctions remarquables
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_6" id="__nav_4_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Statistique
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_6">
+            <span class="md-nav__icon md-icon"></span>
+            Statistique
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/statistique/probabilite/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Probabilité
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_6_2" id="__nav_4_6_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Statistique
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Statistique
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/statistique/statistique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statistique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/statistique/graphiques/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Graphique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/statistique/tests-statistiques/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tests statistiques
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematique/statistique/probabilite-statistique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Probabilité et statistique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Physique Chimie
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Physique Chimie
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/unites/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Unité
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Chimie
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Chimie
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/chimie/cinetique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cinétique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/chimie/stucture-representation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Structure & représentation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2_3" id="__nav_5_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Thermodynamique
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Thermodynamique
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/chimie/thermodynamique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thermodynamique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/chimie/acide-base/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Acide-base
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/chimie/reactions-chimiques/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Réactions chimiques
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Physique
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Physique
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/physique/physique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/physique/optique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Optique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/physique-classique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physique classique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/physique/physique-quantique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physique quantique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/physique/atomes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Les atomes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Autres
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Autres
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/d%C3%A9mocratie/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Démocratie
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/se-connaitre/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Se connaitre
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Anglais
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Anglais
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/anglais/conjugaison/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conjugaison
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/anglais/grammaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grammaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/anglais/ortographe-vocabulaire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ortographe et vocabulaire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Informatique
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            Informatique
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../informatique/database/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Base de données
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../informatique/markdown-math/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Math jax
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../informatique/reseau/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Réseau
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_5" id="__nav_6_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ressources
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ressources
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/ressources/emploi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Emploi
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/ressources/location/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Location
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_6" id="__nav_6_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Communication
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_6">
+            <span class="md-nav__icon md-icon"></span>
+            Communication
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/communication/entretien-embauche/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Candidater
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/communication/gestion-projet/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gestion de projet
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/communication/rhetorique/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rhétorique
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_7" id="__nav_6_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Finance
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_7">
+            <span class="md-nav__icon md-icon"></span>
+            Finance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../autres/epargne/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Epargne
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vocabulaire" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vocabulaire
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objectifs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objectifs
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Objectifs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#les-indicateurs-de-diversite" class="md-nav__link">
+    <span class="md-ellipsis">
+      Les indicateurs de diversité
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frequences-alleliques" class="md-nav__link">
+    <span class="md-ellipsis">
+      Fréquences alléliques
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Fréquences alléliques">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lequilibre" class="md-nav__link">
+    <span class="md-ellipsis">
+      L'équilibre
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mutation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mutation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#derive-genetique" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dérive génétique
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#les-rencontres-non-aleatoires-entre-les-gametes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Les rencontres non aléatoires entre les gamètes
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Les rencontres non aléatoires entre les gamètes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#autofecondation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Autofécondation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#consanguinite" class="md-nav__link">
+    <span class="md-ellipsis">
+      Consanguinité
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#la-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      La sélection
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selection-naturelle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sélection naturelle
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selection-sexuelle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sélection sexuelle
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#migration" class="md-nav__link">
+    <span class="md-ellipsis">
+      Migration
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/gdemare/notes/edit/main/docs/biologie/ecologie/genetique-population.md" title="Editer cette page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/gdemare/notes/raw/main/docs/biologie/ecologie/genetique-population.md" title="Consulter la source de cette page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
+    </a>
+  
+
+
+  <h1>Génétique des populations</h1>
+
+<h2 id="vocabulaire">Vocabulaire</h2>
+<p><strong>Norme de réaction</strong> ensemble des phénotypes observés en faisant varier les conditions environnementales pour un génotype.</p>
+<p><strong>Plasticité phénotypique</strong> capacité d'un organisme à exprimer différents phénotypes à partir d'un génotype donné selon l'environnement.</p>
+<p><strong>Locus (pluriel loci)</strong> position fixe, localisation d'un gène ou d'un marqueur génétique.</p>
+<p><strong>Caractère</strong> variable, aspect d'un organisme qui peut être analysé.</p>
+<p><strong>Génotype</strong> différentes valeurs pour un caractère c'est-à-dire l'ensemble des allèles qui code un caractère donné.</p>
+<p><strong>Gène</strong> unité d'information qui code pour un caractère donné.</p>
+<p><strong>Cline</strong> évolution graduelle d'un caractère en fonction de l'axe géographique. Il y a une corrélation entre la latitude et la fréquence de l'allèle.</p>
+<p><strong>Population</strong> groupe d'individus d'une même espèce qui vive dans la même zone géographique, se reproduise et engendre une descendance féconde. Les individus d'une population sont fortement apparentés.</p>
+<p><strong>Patrimoine génétique (ou pool génétique ou fond génétique)</strong> composition génétique d'une population.</p>
+<p>Lorsqu'un seul allèle est présent dans une population on dit que l'allèle est fixé (par opposition à polymorphisme).</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Il n'existe pas de hiérarchies entre les allèles mais entre les phénotypes. Ainsi, on dira qu'un phénotype <span class="arithmatex">\([A]\)</span> est dominant sur <span class="arithmatex">\([a]\)</span>.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Un allèle dominant ne s'exprime pas toujours. Il peut être caractérisé par l'absence d'expression.</p>
+</div>
+<h2 id="objectifs">Objectifs</h2>
+<p>La génétique des populations s'intéresse à l'histoire des populations. En comprenant leur dynamique passée, on peut prévoir leur évolution future.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>C'est utile pour anticiper les pertes de diversité génétique et prévenir les risques liés à la consanguinité en organisant par exemple des réintroductions pour maintenir un certain niveau de diversité génétique dans la population.</p>
+</div>
+<h3 id="les-indicateurs-de-diversite">Les indicateurs de diversité</h3>
+<ul>
+<li>Taux d'allèles hétérozygotes.</li>
+<li>Taux de polymorphisme fréquence d'individus hétérozygotes.</li>
+</ul>
+<h2 id="frequences-alleliques">Fréquences alléliques</h2>
+<p>Estimation de la fréquence des différents allèles présent dans la population</p>
+<p>La variation génétique des individus au sein d'une population est dû à la reproduction sexuée. Elle est responsable du brassage génétique à trois niveaux entre :</p>
+<ul>
+<li>Les séquences d'un même chromosome (crossover).</li>
+<li>Les chromosomes (lors de l'assortiment des chromosomes).</li>
+<li>Les parentes (fécondation).</li>
+</ul>
+<p>La population correspond à l'ensemble des allèles.</p>
+<table>
+<thead>
+<tr>
+<th>Allèles</th>
+<th>Fréquence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td><span class="arithmatex">\(P_n\)</span></td>
+</tr>
+<tr>
+<td>a</td>
+<td><span class="arithmatex">\(Q_n\)</span></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Zygotes formés</th>
+<th>Fréquence (tot = 100%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AA</td>
+<td><span class="arithmatex">\(P_n^2\)</span></td>
+</tr>
+<tr>
+<td>Aa</td>
+<td><span class="arithmatex">\(2P_n \cdot Q_n\)</span></td>
+</tr>
+<tr>
+<td>aa</td>
+<td><span class="arithmatex">\(Q_n^2\)</span></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Allèles</th>
+<th>Fréq à la génération +1 (tot = 100%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td><span class="arithmatex">\(P_n^2 + P_n \cdot Q_n = P_n \cdot (P_n + Q_n)\)</span></td>
+</tr>
+<tr>
+<td>a</td>
+<td><span class="arithmatex">\(Q_n^2 + P_n \cdot Q_n\)</span></td>
+</tr>
+</tbody>
+</table>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Pour une population N d'individus diploïdes, l'ensemble des allèles <span class="arithmatex">\(2N\)</span>.</p>
+</div>
+<p>Population allélique = fréquence allélique.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>Pour une population avec N individus de phénotype et avec comme allèles possibles A et B, la fréquence allélique de A : <span class="arithmatex">\(f(A)\)</span>.</p>
+</div>
+<p>Point méthode : calcul des fréquences alléliques</p>
+<table>
+<thead>
+<tr>
+<th>Génotype</th>
+<th>Effectif</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AA</td>
+<td>35</td>
+</tr>
+<tr>
+<td>AB</td>
+<td>40</td>
+</tr>
+<tr>
+<td>BB</td>
+<td>25</td>
+</tr>
+</tbody>
+</table>
+<p>Calcul des fréquences alléliques <span class="arithmatex">\(\mathbf{Freq}(A) = \frac{2 \cdot n_{AA} + n_{AB}}{2\cdot N} = \frac{2 \cdot 35 + 40}{200} = 0,55\)</span></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Dans le cas où le phénotype intermédiaire n'existe pas, on peut calculer les fréquences alléliques en faisant l'hypothèse que la population est à l'équilibre.</p>
+</div>
+<h3 id="lequilibre">L'équilibre</h3>
+<p>L'équilibre est stable si l'état des paramètres n'évolue plus càd que les fréquences alléliques sont constantes. Ainsi, à chaque génération, on retrouve les fréquences de départ des allèles, ce qui correspond mathématiquement à <span class="arithmatex">\(\Delta P = P_{n + 1} - P_n = 0\)</span>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Généralement une population est à l'équilibre uniquement sur certains gènes précis.</p>
+</div>
+<p>Cela stipule que la recombinaison allélique et la ségrégation mendélienne sont indépendantes. Un allèle a une chance identique d'être présent à la génération suivante.</p>
+<p>Dans la réalité, il existe de multiples causes qui peuvent modifier les fréquences alléliques d'une génération à l'autre :</p>
+<ul>
+<li>Les mutations dans les cellules germinales (gamètes).</li>
+<li>La dérive génétique. Cela correspond au « tirage au sort » lors de la formation des gamètes qui peut ne pas être représentatif de la population.</li>
+<li>Lorsque la rencontre entre les deux gamètes n'est pas aléatoire.</li>
+<li>Des différences de taux de survie et de fécondité en fonction des allèles. C'est ce que l'on appelle la valeur sélective.</li>
+<li>Les migrations avec des fréquences alléliques différentes de la population étudiée.</li>
+</ul>
+<p><strong>Distorsion de ségrégation miotique</strong> groupe de gènes souvent situé sur le même chromosome transmis ensemble qui confère un avantage sélectif. Par exemple, l'absence de ce groupe entraine la mortalité du gamète.</p>
+<p>En fonction du nombre d'allèles, on qualifiera l'équilibre de :</p>
+<ul>
+<li>Polymorphe (plusieurs allèles)</li>
+<li>Monomorphe (1 seul allèles).</li>
+</ul>
+<p>Pour vérifier si une population est à l'équilibre :</p>
+<ol>
+<li>Calculer les effectifs théoriques.</li>
+<li>Comparer les résultats attendus avec les fréquences réelles <span class="arithmatex">\(X^2 = \sum{\frac{(eff\ théor. - eff\ obser)^2}{eff\ théor}}\)</span>.</li>
+<li>
+<p>Pour cela on utilise un test statistique :</p>
+<ul>
+<li><span class="arithmatex">\(H_0\)</span> les résultats théoriques sont conformes à ceux obtenus.</li>
+<li><span class="arithmatex">\(H_1\)</span> les résultats théoriques ne sont pas conformes à ce obtenus.</li>
+</ul>
+</li>
+</ol>
+<p>Utilisation du test du Khi-2 :</p>
+<ul>
+<li>Le degré de liberté : nombre de paramètres indépendants, c'est le nombre d'allèles pour un gène -1 car la somme des fréquences alléliques est égale à 1.</li>
+<li><span class="arithmatex">\(\alpha\)</span> le taux d'erreur accepté : probabilité de rejeter <span class="arithmatex">\(H_0\)</span> alors que c'est vrai.</li>
+<li><span class="arithmatex">\(\beta\)</span> probabilité d'accepter <span class="arithmatex">\(H_0\)</span> alors que c'est faux.</li>
+</ul>
+<p>Si <span class="arithmatex">\(X^2 \lt X^2(\alpha)\)</span>, on dira alors que l'on ne rejette pas <span class="arithmatex">\(H_0\)</span>. La population est à l'équilibre.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Généralement, on calcul à partir des fréquences alléliques observées les phénotypes théoriques à obtenir si la population est à l'équilibre. On vérifie ensuite que la conformité des résultats en utilisant le test du Khi-2.</p>
+</div>
+<h3 id="mutation">Mutation</h3>
+<p>On parle notamment du taux de mutation par gamète et par génération.</p>
+<p>Pour un allèle A de fréquence <span class="arithmatex">\(P_n\)</span> avec un taux de mutation <span class="arithmatex">\(u\)</span>, sa fréquence à la génération suivante est</p>
+<div class="arithmatex">\[P_{n + 1} = P_n - u \cdot P_n\]</div>
+<p>Les mutations récurrentes influencent peu les fréquences alléliques seules. Combinées avec d'autres facteurs évolutifs (environnement...), elles permettent de créer la variabilité initiale.</p>
+<p><strong>Taux mutation reverse</strong> taux de mutation qui annule la mutation.</p>
+<p>Le taux de mutation chez les Végétaux et les Animaux est d'environ 1 pour 100 000 gènes.</p>
+<h3 id="derive-genetique">Dérive génétique</h3>
+<p><strong>Dérive génétique</strong> fluctuation aléatoire des fréquences alléliques d'une
+génération à une autre. Elle n'est pas prédictible.</p>
+<p>Les effets de la dérive génétique sont particulièrement importants sur les populations avec de petits effectifs comme lorsqu'un groupe d'individus fonde une nouvelle population. La dérive peut alors provoquer l'accumulation d'allèles néfastes pour la survie de la population.</p>
+<p>Ces changements de fréquences ont un impact important sur les populations de faibles effectifs et particulièrement vulnérables à l'apparition de mutants même si elles sont rares.</p>
+<p><strong>Effet fondateur</strong> perte de la diversité génétique qui se produit lorsqu'un petit nombre d'individus fonde une nouvelle population.</p>
+<p><strong>Effet goulot</strong> réduction radicale du nombre d'individus d'une population et ainsi de sa diversité génétique à la suite d'une catastrophe.</p>
+<p>[La théorie neutraliste]{.mark}</p>
+<p>La probabilité de substitution d'un allèle</p>
+<p>On cherche à déterminer pour un individu quelqu'une à quelle fréquence il y a de posséder chaque type d'allèles.</p>
+<ul>
+<li>Déterminer les génotypes possibles.</li>
+<li>Déduire les fréquences des allèles en utilisant le phénotype double récessif et les identités remarquables.</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>La dérive génétique entraine une diminution des allèles et donc de la variabilité génétique.</p>
+</div>
+<p>Elle est d'autant plus rapide pour les populations de faibles effectifs.</p>
+<h3 id="les-rencontres-non-aleatoires-entre-les-gametes">Les rencontres non aléatoires entre les gamètes</h3>
+<p>On parlera de pangamie lorsque les gamètes se rencontrent au hasard (et de panmixie pour les rencontres entre les individus).</p>
+<p>Les causes de croisements non-panmixie peuvent être dû à :</p>
+<ul>
+<li>Autofécondation</li>
+<li>Consanguinité (de choix, de position ou dû au faible effectif)</li>
+<li>Homogamie (et hétérogamie) c'est lorsqu'un individu a tendance à se reproduire avec un partenaire avec qui, il partage le même phénotype.</li>
+</ul>
+<h4 id="autofecondation">Autofécondation</h4>
+<p>À l'équilibre, on aura uniquement des homozygotes car même si l'individu est hétérozygote (Aa), ces descendants auront 50% de chance de conserver l'hétérozygote : <span class="arithmatex">\(1 = \frac{1}{4} \cdot AA + \frac{1}{2} \cdot Aa + \frac{1}{4} \cdot aa\)</span></p>
+<p>La probabilité d'hétérozygote diminue de moitié à chaque génération : <span class="arithmatex">\(H_{n + 1} = 0,5 \cdot H_n\)</span></p>
+<p>La perte des hétérozygotes est extrêmement rapide et tout le génome est concerné.</p>
+<div class="arithmatex">\[A_n = A_0 + H_0 \cdot (1 − 0, 5)^n \cdot 0,5\]</div>
+<p>Avec : </p>
+<ul>
+<li><span class="arithmatex">\(A_0\)</span> la fréquence d’homozygotes AA dans la population.</li>
+<li><span class="arithmatex">\(H_0\)</span> la fréquence d’hétérozygotes Aa dans la population.</li>
+</ul>
+<p>Ainsi, sur le long terme (c'est-à-dire quand <span class="arithmatex">\(n\)</span> tend vers <span class="arithmatex">\(+ \infty\)</span>), les fréquences alléliques ne changent pas.</p>
+<p>Dans la Nature et notamment chez les plantes, il existe des mécanismes d'auto-incompatibilité qui permettent de prévenir en partie l'autofécondation.</p>
+<h4 id="consanguinite">Consanguinité</h4>
+<p>Les principales causes de consanguinité sont :</p>
+<ul>
+<li>Des facteurs culturels pour les hommes.</li>
+<li>L'absence de choix de partenaires les populations avec peu d'individus.</li>
+</ul>
+<p>Un individu est autozygote s'il possède pour un gène deux allèles identiques issue d'un unique ancêtre.</p>
+<p><strong>Parenté</strong> deux individus partageant au moins un ancêtre commun. </p>
+<p><strong>Coefficient de parenté</strong> probabilité qu'un allèle à un locus soit identique entre deux individus. Cela revient à calculer le coefficent de consanguinité pour un descendant fictif entre ces deux individus.</p>
+<p><strong>Consanguinité</strong> individu issu d'un croisement de deux individus apparentés. </p>
+<p>Le coefficient de consanguinité noté <span class="arithmatex">\(f_i\)</span> issu d'un croisement de deux individus apparentés. C'est le pourcentage de gènes autozygotes pour un individu.</p>
+<p>Soit A a deux descendants : B et C. On sait que A possède pour F~a~ de gènes identiques (autozygotes).</p>
+<p>Quelle est la probabilité de trouver des gènes identiques entre C et B ?</p>
+<ul>
+<li>Pour les gènes non identique (<span class="arithmatex">\(1-F_a\)</span>), on a une chance sur deux de transmettre le même gène à ses descendants <span class="arithmatex">\(\frac{1}{2} \cdot (1 - F_a)\)</span>.</li>
+<li>Pour les gènes identiques <span class="arithmatex">\(F_a\)</span>, on a 100% de chance de retrouver le gène chez les descendants <span class="arithmatex">\(F_a\)</span>.</li>
+</ul>
+<p>La proportions de gènes communs entre B et C est
+<span class="arithmatex">\(\frac{1}{2} \cdot (1 - F_a) + F_a = \frac{1}{2} \cdot (1 + F_a)\)</span></p>
+<h3 id="la-selection">La sélection</h3>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>C'est le phénotype qui est soumis à la sélection et indirectement le génotype.</p>
+</div>
+<p>Le nombre moyen de descendants viables et fertiles dépend du taux de :</p>
+<ul>
+<li>Survie (valeur adaptative).</li>
+<li>Fécondité (valeur sélective).</li>
+</ul>
+<p><strong>Valeur sélective (ou fitness)</strong> nombre moyen de descendants viables et fertiles laissé par cet individu.</p>
+<p><strong>Valeur adaptative</strong> contribution d'un individu à la génération suivante en nombre de descendants.</p>
+<p>Par convention, la valeur sélective maximale est 1.</p>
+<div class="arithmatex">\[valeur\ sélective\ absolue = \frac{Nbre\ de\ descendants}{Fertilité}\]</div>
+<div class="arithmatex">\[valeur\ sélective\ relative = \frac{valeur\ sélective\ absolue}{valeur\ sélective\ absolue\ maximum}\]</div>
+<p>Soit deux allèles A et a de fréquences respectives <span class="arithmatex">\((p,q)\)</span> pouvant donner les génotype AA, Aa et aa ayant pour valeur sélective <span class="arithmatex">\(w_1\)</span>, <span class="arithmatex">\(w_2\)</span>, <span class="arithmatex">\(w_3\)</span>.</p>
+<p>On note <span class="arithmatex">\(w = w_1 \cdot p^2 + 2 \cdot w_2 \cdot p \cdot q + w_3 \cdot q^2\)</span> . Pour obtenir les fréquences alléliques ont a besoin de diviser par <span class="arithmatex">\(w\)</span>.</p>
+<div class="arithmatex">\[\Delta p = p_{n + 1} - p_n = \frac{p \cdot q}{w} \cdot [(w_1 - w_2) \cdot p + (w_2 - w_3) \cdot q]\]</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>La formule se démontre facilement. Il faut penser à <span class="arithmatex">\(p = 1 - q\)</span>.</p>
+</div>
+<p><strong>Superdominance</strong> la valeur sélective de l'hétérozygote est supérieure à celles des homozygotes. Elle prend la valeur de référence càd 1.</p>
+<h2 id="selection-naturelle">Sélection naturelle</h2>
+<p>Pour un caractère donné, la sélection naturelle conduit soit à favoriser :</p>
+<ul>
+<li>un extrême. On parle de sélection directionnelle.</li>
+<li>les extrêmes sont avantagés par rapport au phénotype intermédiaire. On parle de sélection divergente ou disruptive.</li>
+<li>Le phénotype intermédiaire est favorisé. Toutes déviations sont désavantagées. On parle de sélection stabilisante ou normalisante.</li>
+</ul>
+<h2 id="selection-sexuelle">Sélection sexuelle</h2>
+<p>La sélection sexuelle peut donner lieu à un dimorphisme :</p>
+<ul>
+<li>Intrasexuelle (entre les individus du même sexe). Cela donne souvent lieu à un mâle dominant qui dispose d'un groupe de femelles. La dominance s'établie souvent au cours de parade ou de lutte entre les individus du même sexe.</li>
+<li>Sélection intersexuelle : sélection par un des sexes sur l'autre. C'est généralement la femelle qui choisit le partenaire qui maximise le nombre de caractères indicateurs de « bons gènes ».</li>
+</ul>
+<h2 id="migration">Migration</h2>
+<p><strong>Flux génétique</strong> échange d'allèles entre des populations.</p>
+<p>Le flux génétique tend à diminuer les différences génétiques entre les populations.</p>
+<p>L'évolution de la fréquence allélique peut être modéliser par une suite <span class="arithmatex">\(u_n = a \cdot u_n + b \leftrightarrow u_n = a^n \cdot ( u_0 - r) + r\)</span></p>
+<p>Démonstration :</p>
+<ol>
+<li>on pose <span class="arithmatex">\(r = \frac{b}{1 - a}\)</span> et <span class="arithmatex">\(v_n = u_n − r\)</span>.</li>
+<li>En développant <span class="arithmatex">\(u_n = a \cdot (v_n + r) + b\)</span>.</li>
+<li>On démontre que <span class="arithmatex">\(u_n = a^n \cdot (u_0 − r) + r\)</span> est une suite arithmétique.</li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Les flux génétiques peuvent empêcher les populations de s'adapter pleinement à un environnement en empêchant la sélection naturelle de s'exercer. L'arrivé d'allèles de populations étrangères empêche la diminution de la fréquence des allèles désavantageux. Cela peut également être l'inverse, les flux génétiques peuvent permettre à des allèles de se répendre rapidement.</p>
+</div>
+<p>Les activités humaines ont rendu le flux génétique plus présent et courant qu'il ne l'était.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Point méthode :</p>
+<ul>
+<li>il est parfois plus simple de faire les calculs de probabilité de l'événement inverse.</li>
+<li>penser toujours au fait que <span class="arithmatex">\(q = 1 - p\)</span> notamment pour déterminer les paramètres initiaux pour obtenir un équilibre.</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Dernière mise à jour">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 14, 2024</span>
+  </span>
+
+    
+    
+    
+    
+  </aside>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Retour en haut de la page
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["content.action.edit", "content.action.view", "content.tabs.link", "content.code.copy", "content.tabs.link - toc.integrate", "header.autohide", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version": "S\u00e9lectionner la version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.ad660dcc.min.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>
