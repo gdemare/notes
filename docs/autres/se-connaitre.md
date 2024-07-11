@@ -1,12 +1,27 @@
-apprendre a se connaitre :
-traits de personnalitas intra extravertie, besoin échants de calme de déplacement, de changement ou de routine ?
-motivations argent ou boulot passion, quete de sens autonomie, ouverture sécurité, innovation,  évolution promotion
-activités extrapro type d'acitvité et ce quelle m'approte.
-situation perosnnelles temps bénévole, sport
+Apprendre à se connaitre consiste à déterminer :
 
-* quelles sont les compétences à développer ?
+* ses traits de personnalitas : intra- ou extravertie.
+* ses besoins échants : de calme, de déplacement, de changement ou d'entraves à la routine.
+* ses vecteur de motivations : l'argent, le boulot-passion, la quête de sens, l'autonomie, l'ouverture, la sécurité, l'innovation, l'évolution (promotion).
+* les activités extraprofessionnelles qui me sont importantes notamment le type d'activités et ce que qu'elles m'apportent.
+* sa situation perosnnelles notamment le temps consacrer aux différents types d'activités : le bénévola, le sport...
 
-Projet : compétences, points forts, points bloquants, contacts, contraintes personnelles
+* Quelles sont les compétences à développer ?
 
-préparer un entretien de carrière Je serai enthousiame à l'idée de 
-accroitre mes compétence et approter, partager mon expérience
+### Se positionner sur un projet
+
+Faire lien soi avec les compétences et les ressources consiste à identifier :
+
+* mes points forts.
+* les points bloquants.
+* des contacts.
+* les contraintes personnelles.
+
+### Entretien de carrière
+
+Préparer un entretien de carrière.
+
+"Je serai enthousiame à l'idée de ..." :
+
+* affrondir mes compétence en ...
+* partager mon expérience en ...
