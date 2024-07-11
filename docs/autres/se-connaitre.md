@@ -25,3 +25,12 @@ Préparer un entretien de carrière.
 
 * affrondir mes compétence en ...
 * partager mon expérience en ...
+
+### Méthode de retour d'expérience
+
+Méthode DESC :
+
+1. Décrire exprimer les faits objectivement.
+2. Exprimer son ressenti face à la situation.
+3. Spécifier les solutions .
+4. Conclure sur une note positive.
