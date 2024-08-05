@@ -11,6 +11,11 @@
 
     * `{ width=50% }` préciser la largeur.
 
+* `[comment]: <> (commentaire)` ajouter un commentaire dans le code markdown qui ne sera pas affiché.
+
+!!! wanring 
+   Pour les parenthèses présentes dans les commentaires, les faire précéder de `\`.
+
 ## Bloc code
 
 Colorer le code.
