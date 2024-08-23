@@ -33,10 +33,10 @@ __Pseudogènes__ génes condant pour des protéines non fonctionnelles. Ils sont
 !!! exemple
 	La séquences qui donnaient pour les récepteurs aux phéromones VNO est devenues non fonctionnels mais est encore transcrit en ARN. Dans le génomes humains, il y a 400 gènes codant pour les récepteurs olfactifs et 600 pseudogènes associés. 
 
-Organes vestigiaux organe qui ont perdu leur fonction mais qui sont présent dans l'organismes.
+__Organe vestigial__ organe qui ont perdu leur fonction mais qui sont présent dans l'organismes.
 
 !!! example
-	Chez l'Homme, l'appendice est un organe vestigiaux.
+	Chez l'Homme, l'appendice est un organe vestigial.
 
 ### Neuro
 
