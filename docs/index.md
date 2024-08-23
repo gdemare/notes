@@ -37,3 +37,10 @@ Organes vestigiaux organe qui ont perdu leur fonction mais qui sont présent dan
 
 !!! example
   Chez l'Homme, l'appendice est un organe vestigiaux.
+
+### Neuro
+
+GABA a active des transporteurs qui font entrer des $Cl^-$ ce qui diminue la tension du milieu intracellulaire (par rapport au milieu extracellulaire). La différence pour attendre le seuil d'excitation est alors plus élevée.
+Lorsque GABA est activé, les neurones sont moins suceptibles d'être activés. Les transpoteurs ioniques font entré du Cl- ou sortir du K+ ce qui diminue le potentiel du neurone K+ utilisé pour l'atteindre le seuil d'excitation. 
+
+Tension potentiel du milieu. Une charge positive va toujours du potentiel le plus élevé vers le plus faible.
