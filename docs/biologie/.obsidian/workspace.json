@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "f9a3f49a61e1c8bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6beabd77e993cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f30be8bc438de200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plante/Photosynthèse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "320ee6d5bf87f68b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3dfb3d3bc400940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5db148e6255f0edc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3096cdc7abbc00d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42ec5c9650f033a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43b80ab0e198095f",
+    "type": "split",
+    "children": [
+      {
+        "id": "770ed6e37e237659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d52cda209f2ccc03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plante/Photosynthèse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "989c22d0d9a5187e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plante/Photosynthèse.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30ce2aaa01220a00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67cb81120380552d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plante/Photosynthèse.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "f30be8bc438de200",
+  "lastOpenFiles": [
+    "Plante/Régulation de l'hydrotranspiration.md",
+    "Plante/Photosynthèse.md",
+    "Plante/Organe/Feuille.md",
+    "Plante/organisation-vegetale.md",
+    "Plante/Nutrition végétale.md",
+    "Ecologie/Biologie_de_la_conservation.md",
+    "biochimie/Reactivite_chimique_en_biologie.md",
+    "bioinformatique/Genomique.md",
+    "Cellule/Communication cellulaire.md",
+    "Evolution/Evolution des génomes.md",
+    "Evolution/genetique-mendel.md",
+    "Evolution/phylogenie.md",
+    "Evolution/Théorie du gène égoïste.md",
+    "Evolution/Théorie de l'évolution de Darwin.md",
+    "Cellule/Organisation cellulaire/mec-jonctions-cellulaires.md",
+    "Cellule/Organisation cellulaire/organisation-cellulaire.md",
+    "methodes-techniques/etude_proteines.md",
+    "methodes-techniques/etude_acide_nucleique.md",
+    "methodes-techniques/histologie/Coloration.md",
+    "Physiologie animale/Système cardiovasculaire/Sang.md",
+    "Méthodes/PCR quantitative.md",
+    "Cellule/Mort cellulaire.md",
+    "Physiologie animale/Système immunitaire/Greffe.md",
+    "methodes-techniques/Génie génétique/Génie génétique.md",
+    "bioinformatique/Aligner des séquences.md"
+  ]
+}

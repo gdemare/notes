@@ -75,49 +75,11 @@ Technique d'étude de séparation moléculaires :
 
 Techniques d'étude des protéines :
 
-Technique           | Objectif et principe
---------------------|-----------------------------------------------
-Chromatographie     | Ensemble de techniques ayant pour but de séparer les composées.
-Immunoprécipitation | Montrer que deux protéines s'associent.
-Western blot        | vérifier la présence des deux protéines.
-
-# L'analyse des résultats en biologie
-
-Vocabulaire
-Témoin &amp; référence &amp; standard
-Contrôle
-Inhiber/favoriser
-Perturber
-Direct/Indirect
-Indirect se réfère à une substance qui agit sur une voie de
-signalisation.
-Progressive/instantané
-Organiser/désorganiser
-Compétition
-Localisation
-Endogène exogène
-
-## Étude de documents (méthode)
-
-1. Partir de la pathologie
-2. Technique utilisée en précisant s\'il s\'agit :
-
-    * d'une approche macro ou microscopique.
-    * de conditions expérimentales in vivo ou in vitro. Attention il faut nuancer les résultats car il peut exister d\'importantes différences entre ces deux conditions.
-
-3. Déterminer le témoin.
-4. Objectif (à mettre sous forme de question) Quel est l'objectif de l'expérience ? À quelle question les chercheurs souhaitent répondre ? À formuler sous forme d'une question.
-5. Résultats/observation : décrire les résultats. Il faut commencer par l'expérience témoin.
-6. Interprétation. D'après ce que je sais....
-7. Réponse à la question posée de façon explicite.
-8. Proposer des hypothèses pour expliquer le résultat.
-
-!!! note 
-    Pour la rédaction, l'objectif doit apparaitre avant la technique utilisée.
-
-!!! warning 
-    Il faut nuancer les résultats car il peut exister d'importantes différences entre les conditions expérimentales in vivo et in vitro.
-
+| Technique           | Objectif et principe                                            |
+| ------------------- | --------------------------------------------------------------- |
+| Chromatographie     | Ensemble de techniques ayant pour but de séparer les composées. |
+| Immunoprécipitation | Montrer que deux protéines s'associent.                         |
+| Western blot        | vérifier la présence des deux protéines.                        |
 # Méthodes d'étude du rôle d'un type cellulaire
 
 Pour déterminer le rôle d'un type cellulaire, on détruit le type cellulaire étudié. Il existe deux méthodes, l'utilisation :
@@ -131,7 +93,6 @@ Pour déterminer le rôle d'un type cellulaire, on détruit le type cellulaire �
 __PFU__ méthode pour mesurer la quantité de molécules virales. Lors
 d'expériences, les quantités virales utilisées sont définies autour de
 celles qui conduit à un taux de mortalité de 50%.
-
 # Les principales méthodes
 
 * Blot détection d'une protéines ou d'un polymère d'acide nucléique spécifique.
@@ -148,7 +109,6 @@ Migration sur gel SDS-Page
 La migration permet en plus de créer des échantillons avec des protéines d'une gamme de taille restreinte.
 
 Dénaturation des protéines qui sera utile pour faciliter le découpage en peptides.
-
 ## Découpage des protéines en peptides
 
 Rétablir les paramètres chimiques optimales pour que les endopeptidases soit le plus efficace. Dans l'idéale il faudrait qu'elle lyse tous les séquences reconnues.
@@ -160,52 +120,12 @@ Trypsine coupe aux niveaux des aa cycliques.
 Des différences existent entre les enzymes en termes d'efficacité et de spécificité. Autrement spécifique. Elle coupe en sauf
 
 Utilisation d'urée favorise l'activité de la trypsine.
-
-## Chromatographie
-
-Fractionne l'échantillon de départ
-
-Gradient particulièrement utilisée affinité notamment pour les complexes protéiques.
-
-Propriété physique des molécules
-
-Par ce pourrait servir à identifier une erreur
-
-Affinité
-
-* Biotine (vitamine B8) avec le strept.
-* Du nickel avec l'histidine.
-* Hydrophobe avec des chaines carbonées. De grande taille pour les petites molécules et petite avec les grandes molécules pour
-* grandes molécules non polaire avec de petites chaines carbonées (sinon les molécules restent collées).
-
-Baisse pH et solvant.
-
-Haute pression sur appareil ? micro-taille paramètre
-
-75nm taille échantillon
-
-Avantage
-
-Pb : utilisation sels étape d'élimination des sels.
-
-Électrophorèse (taille point isoélectrique)
-
-Poids moléculaires apparent
-
-Deux types de HPLC :
-
-Mobile : polaire (inverse apolaire)
-
-Stationnaire : apolaire (inverse polaire avec la silice)
-
-Molécules sortent en premier : polaire
-
 ## Quantification des protéines
 
-Il existe plusieurs méthodes mon quantifié l'ADN :
+Il existe plusieurs méthodes [[etude_proteines]] mon quantifié l'ADN :
 
 * L'électrophorèse
-* La spectrométrie de masse.
+* La [[Spectrométre de masse]].
 
 Limite de l'électrophorèse (visualiser modification post traductionnelle) pas très reproductible.
 

@@ -3,10 +3,10 @@
 
 Quatre catégories de tissus :
 
-* Musculaire
-* Nerveux
-* Conjonctif
-* Épithélial
+* [[Tissu musculaire]]
+* [[Tissu nerveux]]
+* [[Tissu conjonctif]]
+* [[Tissu épithelial]]
 
 La peau extérieure est composée de trois couches :
 
@@ -29,7 +29,6 @@ Matrice extracellulaire est composé de
 * Fibre protéines qui procure de l'adhérence
 * Protéoglycanes/glycosaminoglycanes
 * Acide hyaluronique
-
 ## Derme 
 
 Fibroblaste cellules qui produisent un réseau de fibre de deux types :
@@ -71,10 +70,10 @@ Anatomie (organisme, systèmes et appareil composition de plusieurs organes) MET
 
 Il existe quatre types de tissus :
 
-* Conjonctifs. Le sang est consiédéré comme un tissus conjonctif liquide.
-* Épithéliaux.
-* musculaires.
-* Nerveux.
+* [[Tissu conjonctif]]. Le sang est consiédéré comme un tissus conjonctif liquide.
+* [[Tissu épithelial]].
+* [[Tissu musculaire]].
+* [[Tissu nerveux]].
 
 !!! note
     les cellules souches et cellules germinales n'appartiennent à aucun de ces types.
@@ -88,7 +87,7 @@ Il existe quatre types de tissus :
 
 L'Histoire a vécu 3 révolutions :
 
-1. La microscopie optique avec la théorie cellulaire. Grossissement X1000, coupes fixés & coloré qui a permis la compréhension de l'architecture globale des cellules et des tissus.
+1. La [[microscopie]] optique avec la théorie cellulaire. Grossissement X1000, coupes fixés & coloré qui a permis la compréhension de l'architecture globale des cellules et des tissus.
 2. La microscopie électronique a permis de décrire l'ultrastructure des organites intracellulaires (les jonctions, la mitochondries, le RE...).
 3. La biologie moléculaire a permis de comprendre les constitutions moléculaires et le typage moléculaires des tumeurs.
 
@@ -102,7 +101,7 @@ Colorations traditionnelles basées sur les charges des composants intracellulai
 
 Histochimie utilise des réactifs connus pour réagir avec des constituants cellulaires définis : lipides, glycogène, ADN...
 
-Immuno- histochimie utilise des anticorps dirigés contre des constituants cellulaires spécifiques et marqués par un fluorochrome, une enzyme, de l'or colloïdal...
+Immuno- histochimie utilise des anticorps dirigés contre des constituants cellulaires spécifiques et marqués par un fluorochrome, une enzyme, de l'or colloïdal... [[Immunomarquage]]
 
 Hybridation in situ utilise des sondes d'ADN ou ARN monocaténaire marquées pour localiser les ARN intracellulaires.
 

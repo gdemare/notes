@@ -22,7 +22,7 @@ Les groupes para phylétiques ne prennent pas de majuscules.
 
 Le vivant se divise en trois régnes :
 
-* Eucaryote
+* Eucaryote : [[animaux]], [[champignons]], [[plantes]]
 * Archée
 * Bactérie
 

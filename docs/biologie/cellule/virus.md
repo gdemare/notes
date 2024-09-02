@@ -118,13 +118,9 @@ Les dégâts à long terme de l'infection d'un virus dépendent du type de cellu
 ## Protection et remède curatif contre les virus
 
 Les êtres vivants ont développé des mécanismes de protection pour lutter contre l'infection virale. Les bactéries fabriquent des enzymes de restriction qui identifient et détruisent l'ADN viral.
-
-
-
 ### Soigner une infection virale
 
 Une fois qu'un organisme est infecté, il est difficile de le soigner. Il existe des solutions comme l'utilisation de faux nucléosides pour limiter la réplication du virus mais qui ne sont pas exemptes d'effets indésirables.
-
 ## Trois exemples de virus
 
 ### Virus du SIDA

@@ -9,7 +9,6 @@ Caractéristique des interactions entre les êtres vivants
 | Réciproque    | Non réciproque                  |
 |---------------|---------------------------------|
 | Type symbiose | ↑ des proies = ↑ des prédateurs |
-
 __Fitness__ nbre de descendants viables/fertiles produit par un individu.
 
 __Habitat__ portion où une espèce vit. Les espèces peuvent être classées en fonction de leurs habitats.
@@ -18,7 +17,6 @@ Les espèces peuvent être distinguées en deux groupes :
 
 * Endémique.
 * Cosmopolite.
-
 ## Écosystème
 
 __Écosystème__ ensemble des interactions qu'entretient un organisme.
@@ -74,7 +72,6 @@ Avec différentes échelles
 __Conditions__ variables physico-chimiques qui permettent la vie d'un organisme.
 
 __Diversité__ quantité de variabilité dans un système.
-
 # Facteurs écologiques et réponses des organismes
 
 ## Facteurs écologiques
@@ -142,9 +139,7 @@ Valence capacité à tolérer les variations d'un facteur.
 | Intensité des variations | Faible   | Moyenne | Fort    |
 |--------------------------|----------|---------|---------|
 |                          | Sténoèce | Mesoèce | Euryèce |
-
 __Sténothermes (opposition eurytherme)__ organismes qui ont évolués dans des conditions de température stable.
-
 ### Facteur limitant
 
 Le facteur le proche d'un extremum est appelé facteur limitant.
@@ -161,7 +156,6 @@ La présence et la performance d'un organisme dans un lieu donné dépend :
 
 * Conditions physico chimiques appelées aussi contraintes.
 * Ressources accessibles.
-
 ## Les réponses des organismes aux modifications du milieu
 
 L'adaptation des organismes est observable à deux échelles temporelles :
@@ -172,9 +166,9 @@ L'adaptation des organismes est observable à deux échelles temporelles :
 Qui se manifeste chez les organismes par des modifications
 
 | Morphologiques                                 | Physiologiques        | Comportementales |
-|----------------------------|---------------------|------------------------|
+| ---------------------------------------------- | --------------------- | ---------------- |
 | Fonctionnement local càd au niveau d'un organe | Fonctionnement global |                  |
-
+|                                                |                       |                  |
 ### Adaptations liées à la température
 
 Homéotherme organisme qui conserve une température interne constante
@@ -825,7 +819,8 @@ Les consommateurs décomposent notamment la matière pour produire de l'énergie
 
 Dans les milieux oxygénés, les consommateurs dégradent les molécules organiques par oxydation :
 
-$$C_6H_{12}O_6 + 6 O_6 \rightarrow 6 HO_2 + 6 CO_2 + energie\ accumulé\ dans\ 36\ molé\ d'ATP$$
+$$C_6H_{12}O_6 + 6 O_6 \rightarrow 6 HO_2 + 6 CO_2 + energie\ accumulé\ dans\ 36\ molé\ d'ATP
+$$
 
 NB : L'énergie diminue à chaque transfert. Une partie d'elle étant
 dissipée sous forme de chaleur.
@@ -840,9 +835,8 @@ L'énergie disponible à chaque niveau trophique est liée notamment à
 Typiquement entre 5 et 20%, on estime qu'environ 10% du niveau inférieur
 est présent à celui supérieur.
 
-|                                       |                                                                                            |
-|------------------------------------|------------------------------------|
-| Temps moyen de résidence de l'énergie | $$\frac{\mathbf{biomasse\ (g/m²)}}{\mathbf{productivité\ nette\ }\mathbf{\ (g/m²/an)\ }}$$ |
+Temps moyen de résidence de l'énergie
+$$\frac{\mathbf{biomasse\ (g/m²)}}{\mathbf{productivité\ nette\ }\mathbf{\ (g/m²/an)\ }}$$ |
 
 # Les biomes aquatiques
 
@@ -869,9 +863,6 @@ __Zone euphotique__ profondeur à laquelle la lumière ne pénètre plus.
 ## Eaux douces
 
 Généralement les eaux douces sont de type :
-
-
-
 
 |                   | Oligotrophe | Eutrophe  |
 |-------------------|-------------|-----------|

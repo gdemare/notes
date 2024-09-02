@@ -9,13 +9,12 @@ __Caractère ancestral__ (ou dérivé) spécificité exclusive à un groupe d'es
 Certaines caractéristiques que partagent tous les êtres vivants suggèrent une origine commune à la Vie. La diversité des formes, des tailles, des organisation sont le résultat de l'accumulation de petites modifications apparu spontanément chez certains individus et leur ayant permis de laisser plus descendants dans un milieu donné. L'évolution se présente comme un processus graduel à la constitué de graduel.
 
 On reconstitue l'histoire évolutive du vivant en supposant que plus deux espèces se ressemblent, plus la probabilité qu'elles sont divergées récemment. Cependant, certains caractères dit analogues sont le résultat d'une convergent évolutive.
-
 ## Les arbres phylogénétiques
 
 Les arbres phylogénétiques sont une représentation des relations de parentés entre les espèces en fonction du temps. Ils sont construits suivant deux principes :
 
-* Parcimonie maximale (le moins de données possible).
-* Probabilité (le plus probable).
+* parcimonie maximale (le moins de données possible).
+* probabilité (le plus probable).
 
 L'arbre retenu est celui qui minimise le nombre de changements génotypiques et le nombre de caractères dérivés.
 

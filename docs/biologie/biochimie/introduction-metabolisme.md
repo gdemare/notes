@@ -59,70 +59,6 @@ L'énergie libérée est stockée dans un nombre réduit de molécules telles qu
 
 * créer des liaisons et fabriquer des molécules plus complexes à partir de plus simples.
 * lutter contre l'entropie (par exemple, en maintien un gradient chimique).
-
-## L'énergie
-
-### L'énergie dans la cellule
-
-Pour que les réactions puissent avoir lieu mais de manière contrôler, la cellule contrôlent les activités métaboliques par l'intermédiaire des enzymes.
-
-Les enzymes abaissent l'énergie d'activation de certaines réactions substrat réactifs sur lequel agit l'enzyme.
-
-__Catalyseur__ molécule qui augmente la vitesse de réaction.
-
-### Le stockage de l'énergie
-
-Les molécules riches en énergie sont :
-
-* l'ATP.
-* les nucléotides triphosphate.
-* les dérivés nicotinamides.
-
-L'ATP est formée d'un adénine et d'un ribose (adénosine) et de plusieurs groupements phosphates.
-
-La rupture d'une liaison phosphate-phosphate comme pour l'hydrolyse de l'ATP libère $G'^0 = 30,5 kJ \cdot mol^{-1} = 7 \cdot 3 kcal \cdot mol^{-1}$ en condition standard ($1atm$ et 25 C°) et $G'^0 = - 50$ $kJ \cdot mol^{-1}$ à
-37 °C.
-
-__Chimiosmose__ processus d'utilisation du gradient électronique pour effectuer un travail. C'est la chimiosmose qui permet la synthèse de l'ATP.
-
-__Rendement__ biomasse formée (g)/substrat consommé
-
-### Adénosine Three Phosphate (ATP)
-
-L'ATP est la molécule la plus utilisées par les cellules pour stocker l'énergie.
-
-L'énergie libérée par une molécule d'ATP est dû :
-
-* à la rupture de la liaison phosphate par hydrolyse ( $54,4 kJ \cdot mol^{-1}$ ).
-* au réarrangement des électrons et de leur orbitale.
-
-Les trois charges négatives des groupements phosphates facilitent la libération de l'énergie stockée dans l'ATP en contribuant à une instabilité moléculaire. Ainsi l'énergie d'activation pour provoquer la rupture du groupement phosphate est suffisamment élevée pour ne pas se produire spontanément et faible pour être accessible via l'interaction avec les autres molécules notamment les enzymes.
-
-!!! note
-    L'hydrolyse de l'ATP seul produit de la chaleur.
-
-#### Utilisation dans la  cellule
-
-L'énergie contenue dans l'ATP est libérée par une réaction d'hydrolyse qui produit un ADP et un Pi. Son utilisation se fait par l'intermédiaire d'enzymes. La réaction consiste à passer par un intermédiaire phosphorylé qui sera moins stable que la molécule originelle. Cela se produit par l'hydrolyse de l'ATP créer une liaison covalente entre un groupement phosphate et l'enzyme ou le réactif.
-
-#### Production
-
-La cellule régénère son stock d'ATP en dégradant des molécules dont le glucose qui est fabriquer par la respiration cellulaire des végétaux.
-
-!!! note
-    Pour réaliser la catalyse la cellule a besoin de dépenser de l'ATP.
-
-!!! note
-    Une cellule musculaire renouvelle en une minute tout son stock d'ATP soit environ 10 millions de molécules.
-
-Les cellules peuvent produire de l'énergie par la dégradation demolécule principalement en utilisant deux modes qui dépendent de l'environnement :
-
-* La respiration cellulaire (présence de $O_2$).
-* La fermentation (absence de $O_2$).
-
-!!! note
-    Certains organismes sont capables des deux modes mais ils privilégient la respiration cellulaire lorsque c'est possible.
-
 ## Les réactions chimiques
 
 Pour qu'une réaction chimique est lieu, il faut que les molécules atteignent un niveau d'énergie plus élevé que celui initial appelé état de transition. Les réactions principales sont :
@@ -145,10 +81,9 @@ Particules échangées           | Transporteurs
 Groupement acyle (ex : cétone) | Coenzyme A
 Électrons                      | $NADH$; $FADH_2$
 Énergie                        | ATP
-
 ### Les enzymes
 
-Les enzymes sont des protéines qui jouent le rôle de catalyseur. Elles servent à faciliter la réaction càd à augmenter sa vitesse en :
+Les [[Enzymes]] sont des protéines qui jouent le rôle de catalyseur. Elles servent à faciliter la réaction càd à augmenter sa vitesse en :
 
 * Diminuant la barrière énergétique de la réaction.
 * Facilitant la rencontre et le positionnement des groupements réactionnels.
@@ -209,7 +144,6 @@ Les inhibiteurs de type non compétitif agissent en déformant l'enzyme pour la 
 
 !!! example
     Certains inhibiteurs sont utilisés comme antibiotiques pour bloquer le site de protéines spécifiques. Par exemple, la pénicilline bloque chez les Bactéries, une enzyme impliquée dans la fabrication de la paroi.
-
 ### Protéine allostérique
 
 Certaines protéines sont de type allostérique (allo signifie autre) car la régulation se fait par la liaison d'une molécule sur un site différent du site actif.
@@ -221,7 +155,6 @@ Les protéines allostériques sont peu répandues et difficiles à identifier ca
 Coopérativité la fixation d'un substrat stabilise l'enzyme et augmente son affinité avec le substrat. Cela permet, par exemple, à l'hémoglobine de fixer l'$O_2$, là où il présent en forte concentration, plus rapidement et efficacement. Inversement, de le libérer dans les tissus, là où elle est faible.
 
 Certaines enzymes allo stériques présentent un phénome de rétro inhibition. La présence du produit finale ralenti ou arrête une voie métabolique.
-
 #### Régulation de l'activité
 
 Le rétrocontrôle enzymatique peut être :
@@ -245,7 +178,6 @@ On trouve des compartiments à la fois au niveau :
 
 !!! note
     Il est possible de catégoriser les organes en fonction de leur rôle : utilisateur, de stockage ou synthétiseur.
-
 ### La catabolisme
 
 Le catabolisme consiste en :

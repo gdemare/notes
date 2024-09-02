@@ -7,15 +7,13 @@ Les formes des organes sont adaptées à leur fonction.
 La sélection naturelle a favorisé l'apparition et la perpétuation de formes qui améliorent la capacité de survie des individus qui les possèdent notamment pour :
 
 * lutter contre les infections.
-* se reproduire.
-* se procurer les nutriments.
-
+* se reproduire [[reproduction]].
+* se procurer les nutriments [[nutrition-animaux]].
 ## Plan d'organisation
 
 La diversité des plans d'organisation corporelle est limitée par les lois de la physique. Dans certains cas, les contraintes du milieu ont imposé à la sélection naturelle a adopté la même la forme comme c'est le cas pour l'apparence fusiforme des animaux aquatiques.
 
 En tenant compte des contraintes physique ont peu estimer les limites biologiques et l'organisation en considérant la taille et la forme de ce dernier.
-
 ## Les échanges avec l'environnement
 
 Pour tous les êtres vivants, la capacité à pouvoir réaliser des échanges avec l'environnement constituent la principale limite à la taille d'un organisme car les cellules ont besoins :
@@ -37,7 +35,7 @@ Chez les plus gros organismes, l'utilisation de liquides circulatoires et inters
 
 ## Stabilité du milieu
 
-L'apparition de systèmes complexes ont permis de maintenir un milieu intercellulaire stable notamment dans des milieux où les paramètres physico-chimique varient énormément comme sur la terre ferme.
+L'apparition de systèmes complexes ont permis de maintenir un milieu intercellulaire stable ([[Osmorégulation et excrétion]])notamment dans des milieux où les paramètres physico-chimique varient énormément comme sur la terre ferme.
 
 ## La coordination des activités des différentes parties du corps
 
@@ -92,7 +90,6 @@ Les cellules de même structure et de même fonction sont regroupées en tissus.
 * Conjonctif.
 * Nerveux.
 * Musculaire.
-
 ### Epithélial
 
 Les tissus épithéliaux sont constitués de cellules jointives serrées. Elles forment des barrières. L'épithélium est polarisé, une face :

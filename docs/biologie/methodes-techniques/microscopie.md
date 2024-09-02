@@ -1,30 +1,4 @@
-Ordre de grandeurs des cellules
-
-| Type de cellules | Taille en μm ($10^{-6}m$) |
-|------------------|----------------------|
-| Végétale         | 100                  |
-| Animale          | 10                   |
-| Bactérienne      | 1                    |
-| Virus            | 0,25                 |
-
-## Les colorations
-
-Les tissus sont colorés grâce aux réactions acido-basiques. Il existe
-deux types de coloration :
-
-* Bleue colore les acides (exemple : le bleu de méthyle).
-* Rouge colore les bases.
-
-ADN, collagène
-
-Il existe des mélanges de ces deux solutions appelés trichrome de Masson.
-
-Mettre en évidence des propriétés de réducteur
-
-Réaction avec la liqueur de Fehling (bleu passa au rouge).
-
-## Microscopie
-
+[[Ordre de grandeurs]]
 Source photons ou électron.
 
 ###  Optique ou photonique
@@ -44,7 +18,6 @@ Généralement en ajout des métaux lourds pour augmenter la
 * Ultra structure visible distingue les organites
 * Les électrons traversent la coupe
 * Noir/blanc
-
 ## Les schémas 
 
 Un schéma doit contenir :
@@ -52,7 +25,6 @@ Un schéma doit contenir :
 * Titre
 * Phylogénie
 * Grossissement et échelle
-
 ### Le titre
 
 Le titre doit contenir les éléments suivants :
