@@ -1,4 +1,4 @@
-# Classification non supervisee (Cluestering) 
+# Classification non supervisee (Clustering) 
 
 Obj : Grouper les individus ou les variables avec des caractéristiques proches. 
 

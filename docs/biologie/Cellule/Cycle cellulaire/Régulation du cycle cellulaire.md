@@ -1,11 +1,9 @@
-
 Chez les plante et les animaux, la division cellulaire est contrôlée pour avoir lieu aux moments judicieux. Les conditions de déclenchements varient de façon importante en fonction du type cellulaire les événements.
 
 !!! note
     Chez l'adultes, 25 millions de cellules se divisent chaque seconde.
 
 La division est déclenchée par la présence de substances dans le cytosol. Cette propriété a été démontrée en contraignant une cellule en quiescence à entrer en division suite la fusion avec une cellule en phase S.
-
 ### Points de contrôles
 
 Des mécanismes de régulation indépendant coordonnent et déclenchent les événements. Des étapes de vérification peuvent interrompre le cycle. Elles sont appelées point de contrôle. Ils peuvent bloquer le cycle cellulaire et le reprendre à la suite de certains signaux généralement internes.

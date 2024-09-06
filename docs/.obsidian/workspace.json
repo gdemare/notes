@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data science/clustering/cluestering.md",
+                "file": "physique chimie/physique/optique.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data science/clustering/cluestering.md",
+                "file": "physique chimie/physique/optique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data science/clustering/cluestering.md",
+                "file": "physique chimie/physique/optique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data science/clustering/cluestering.md"
+                "file": "physique chimie/physique/optique.md"
               }
             }
           }
@@ -146,35 +146,37 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e899eaed5bfcd13e",
+  "active": "87dc442f218cc64f",
   "lastOpenFiles": [
-    "data science/clustering/clustering de variables.md",
-    "politique/énergie en France.md",
-    "politique/magasins discount.md",
-    "histoire/anticipation.md",
-    "biologie/Physiologie animale/osmorégulation et excrétion.md",
-    "biologie/Physiologie animale/circulation et échanges gazeux.md",
-    "data science/modèles/classification-all.md",
-    "data science/modèles/échantillionnage.md",
-    "data science/modèles/modèle de données.md",
-    "data science/modèles/regression-all.md",
-    "data science/modèles/classification/espérance-maximisation.md",
-    "biologie/structure-fonction-principes.md",
-    "biologie/cellule/virus.md",
+    "data science/à voir.md",
+    "biologie/structure fonctions et principes.md",
+    "biologie/évolution/théorie du gène égoïste.md",
+    "biologie/évolution/théorie de l évolution.md",
+    "biologie/évolution/génétique mendélienne.md",
+    "biologie/évolution/évolution des génomes.md",
+    "biologie/matériel et méthodes/méthodes/blot.md",
+    "biologie/matériel et méthodes",
+    "biologie/matériel et méthodes/méthodes/chromatographie.md",
+    "biologie/matériel et méthodes/méthodes/dénaturation.md",
+    "biologie/matériel et méthodes/méthodes/électrophorèse.md",
+    "biologie/matériel et méthodes/méthodes/immunomarquage.md",
+    "biologie/matériel et méthodes/méthodes/PCR.md",
+    "biologie/matériel et méthodes/méthodes/PCR quantitative.md",
+    "biologie/matériel et méthodes/méthodes/Spectrométre de masse.md",
+    "biologie/matériel et méthodes/méthodes/Résonance Magnétique Nucléaire.md",
+    "biologie/eucaryote/plante/réponses des végétaux aux stimuli.md",
+    "biologie/eucaryote/plante/transport hydrique.md",
+    "biologie/eucaryote/plante/régulation de l'hydrotranspiration.md",
+    "biologie/eucaryote/plante/photosynthèse.md",
+    "biologie/eucaryote/plante/organisation végétale.md",
+    "biologie/eucaryote/plante/nutrition végétale.md",
+    "biologie/eucaryote/plante/adaptation des végétaux.md",
+    "biologie/eucaryote/plante/azote.md",
+    "biologie/cellule/cycle cellulaire/régulation du cycle cellulaire.md",
+    "biologie/écologie/origine de la biodiversité.md",
+    "biologie/écologie/biologie de la conservation.md",
+    "biologie/eucaryote",
     "biologie/biochimie/biochimie",
-    "biologie/cellule/cycle cellulaire.md",
-    "biologie/cellule/mort cellulaire.md",
-    "biologie/cellule/potentiel cellulaire.md",
-    "biologie/cellule/régulation de l expression génique.md",
-    "autres/se connaitre.md",
-    "autres/ressources/location.md",
-    "autres/ressources/emploi.md",
-    "autres/communication/rhétorique.md",
-    "autres/communication/gestion de projet.md",
-    "autres/communication/entretien d embauche.md",
-    "autres/anglais/ortographe et vocabulaire.md",
-    "biologie/bioinformatique/aligner des séquences.md",
-    "biologie/bioinformatique/trouver des séquences proches.md",
     "biologie/biochimie/acides nuclétiques"
   ]
 }
