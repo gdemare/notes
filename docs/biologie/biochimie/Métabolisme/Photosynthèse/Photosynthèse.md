@@ -15,7 +15,7 @@ Il existe deux types de photosynthèse en présence ou de l'absence d'oxygène 
 
 La phase photochimique permet de produire à partir de la lumière :
 
-1. un gradient $H^+$ dans la lumière des thylakoïdes qui sera utilisé pour fabriquer de l'ATP par la [[phosphorylation_oxydative]]. Elle débute au niveau du photosystème II.
+1. un gradient $H^+$ dans la lumière des thylakoïdes qui sera utilisé pour fabriquer de l'ATP par la [[phosphorylation oxydative]]. Elle débute au niveau du photosystème II.
 2. de transformer du $NADP^+$ en NADPH. Son pouvoir réducteur est utile pour les réactions anaboliques. La réaction débute au niveau du photosystème I.
 
 Les photosystèmes sont formés :

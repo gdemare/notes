@@ -1,4 +1,4 @@
-Les variables sont considérées comme indépendantes. On prend la classe avec le maximum de vraissemblance.
+Les variables sont considérées comme indépendantes. On prend la classe avec le maximum de vraisemblance.
 
 Le classificateur baysien peut utiliser des variables : 
 

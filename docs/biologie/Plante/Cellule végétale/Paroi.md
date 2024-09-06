@@ -1,4 +1,4 @@
-[[Cellule végétale]]
+[[cellule_végétale]]
 
 __Protoplaste__ cellule végétale sans paroi.
 

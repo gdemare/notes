@@ -51,7 +51,7 @@ La cellule régénère son stock d'ATP en dégradant des molécules dont le gluc
 
 Les cellules peuvent produire de l'énergie par la dégradation de molécules principalement en utilisant deux modes qui dépendent de l'environnement :
 
-* La [[respiration_cellulaire]] (présence de $O_2$).
+* La [[respiration cellulaire]] (présence de $O_2$).
 * La [[fermentation]] (absence de $O_2$).
 
 !!! note

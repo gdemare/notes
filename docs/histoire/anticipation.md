@@ -1,4 +1,4 @@
-### Etude de l'Histoire et anticipitation
+### Etude de l'Histoire et anticipation
 
 L'Homme étudie l'Histoire pour comprendre les choix qui s'offrent à lui et éviter de reproduire les erreurs passées sauf que jusqu'à maintenant prédire l'Histoire a toujours était un échec.
 

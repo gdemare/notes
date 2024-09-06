@@ -1,4 +1,4 @@
-[[Cellule végétale]]
+[[cellule_végétale]]
 
 # Les plastes
 

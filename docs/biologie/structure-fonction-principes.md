@@ -35,7 +35,7 @@ Chez les plus gros organismes, l'utilisation de liquides circulatoires et inters
 
 ## Stabilité du milieu
 
-L'apparition de systèmes complexes ont permis de maintenir un milieu intercellulaire stable ([[Osmorégulation et excrétion]])notamment dans des milieux où les paramètres physico-chimique varient énormément comme sur la terre ferme.
+L'apparition de systèmes complexes ont permis de maintenir un milieu intercellulaire stable ([[osmorégulation et excrétion]])notamment dans des milieux où les paramètres physico-chimique varient énormément comme sur la terre ferme.
 
 ## La coordination des activités des différentes parties du corps
 

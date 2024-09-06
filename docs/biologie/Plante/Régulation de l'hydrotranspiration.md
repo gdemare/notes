@@ -2,7 +2,7 @@
 
 Les stomates sont des ouvertures qui régulent la circulation des gaz. Ils sont impliqués dans deux mécanismes principaux :
 
-* la [[biologie/biochimie/Métabolisme/Photosynthèse/photosynthèse|photosynthèse]] en régulant les échanges gazeux.
+* la [[biologie/biochimie/métabolisme/photosynthèse/photosynthèse|photosynthèse]] en régulant les échanges gazeux.
 * la montée des minéraux.
 
 Ils doivent permettre d'équilibrer les besoins en eau avec ceux de la photosynthèse.

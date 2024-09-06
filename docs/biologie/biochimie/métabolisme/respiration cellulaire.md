@@ -1,4 +1,3 @@
-
 La respiration cellulaire consiste à récupérer l'énergie produite par le dioxygène en présence d'hydrocarbure comme les lipides, les protéines et les glucides (dont fait partie le glucose). Ce dernier est le plus fréquemment utilisé dans nos cellules.
 
 $$molécules\ organiques + O_2 \rightarrow H_2O + CO_2 + énergie\ (ATP\ et\ chaleur)$$

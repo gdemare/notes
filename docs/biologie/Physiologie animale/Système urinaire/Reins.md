@@ -1,6 +1,6 @@
 ## Les reins
 
-[[Osmorégulation et excrétion]]
+[[osmorégulation et excrétion]]
 # Le maintien du milieu interne
 
 La régulation se fait autour d'une valeur de référence qui peut varier au cours du temps. Des récepteurs permettent à l'organisme de mesurer la valeur de la variable. En cas de dépassement de l'intervalle, l'organisme peut alors déclencher des mécanismes de rétro inhibition. La diversité des environnements dans lesquels vivent les organismes à adaptation des réponses qu'imposent les différents environnements.

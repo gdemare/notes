@@ -10,7 +10,6 @@ $h = 6,626 \cdot 10^{-34} J \cdot s$ constante de Plank.
 Quantité minimum d'énergie.
 
 $E = h \cdot \mu$
-
 ### Effet photoélectrique
 
 Un métal éclairé avec une lumière :

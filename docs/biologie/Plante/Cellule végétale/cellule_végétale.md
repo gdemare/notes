@@ -1,10 +1,6 @@
 __Étiole__ plante qui pousse en absence de lumière.
 
 __Plasmolyse__ état d'une cellule dans lequel la paroi est décollée de la membrane par le retrait de l'eau.
-
-
-
-
 ## Acheminement des protéines cytoplasmiques vers la vacuole
 
 Une partie des protéines est directement produite dans la vacuole.

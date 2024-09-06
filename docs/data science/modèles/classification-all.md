@@ -1,6 +1,5 @@
 La "classification" (anglais) est un ensemble de méthodes qui permet de prédire une variable qualitative appelée classe. L'objectif est de générer une probabilité d'appartenance à une classe. 
 
-
 ## Méthodes
 
 * Classificateur binaire :
@@ -51,6 +50,5 @@ Il n'est pas possible de comparait les modèles par leur sensibilité, précisio
 
 La courbe de ROC permet d'évaluer la performance de modèles à classification binaire. On ne s'intéresse qu'aux individus classées comme vraies. Elle représente la sensibilité en fonction de 1 - la sélectivité.
 
-_Area Under the Curve (AUC)_ aire sous la courbe de ROC.
-
+__Area Under the Curve (AUC)__ aire sous la courbe de ROC.
 ### Courbe de Lift (courbe de gain)

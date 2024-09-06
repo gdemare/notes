@@ -10,14 +10,14 @@ Il existe 11 systèmes majeurs dans le corps humain :
 
 * [[Système nerveux]]
 * musculaire [[muscle]]
-* cardio-vasculaire [[circulation-echanges-gazeux]]
+* cardio-vasculaire [[circulation et échanges gazeux]]
 * respiratoire :
 * [[systeme-endocrinien]] (glandes) : les systèmes hormonaux du corps (sexuel, glycémique, de la croissance).
 * osseux
 * tégumentaire (ongles, cheveux, peau) : protection des tissus internes.
 * lymphatique et immunitaire :
 * digestif
-* urinaire [[Osmorégulation et excrétion]]
+* urinaire [[osmorégulation et excrétion]]
 * génital [[reproduction-sexue]]
 
 ## Les régulateurs homéostatiques
