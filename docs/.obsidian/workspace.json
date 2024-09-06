@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed65304dee8f3f95",
+        "id": "4a70f2e3037e497f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb49d5464caa593c",
+            "id": "e899eaed5bfcd13e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "politique/démocratie.md",
+                "file": "data-science/clustering/les_centres_mobiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "politique/démocratie.md",
+                "file": "data-science/clustering/les_centres_mobiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "politique/démocratie.md",
+                "file": "data-science/clustering/les_centres_mobiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "politique/démocratie.md"
+                "file": "data-science/clustering/les_centres_mobiles.md"
               }
             }
           }
@@ -146,6 +146,34 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "bb49d5464caa593c",
-  "lastOpenFiles": []
+  "active": "e899eaed5bfcd13e",
+  "lastOpenFiles": [
+    "data-science/clustering/cluestering.md",
+    "data-science/clustering/les_centres_mobiles.md",
+    "data-science/clustering/clustering-variables.md",
+    "informatique/database.md",
+    "informatique/réseau.md",
+    "informatique/markdown_math.md",
+    "politique/politique.md",
+    "politique/démocratie.md",
+    "politique/magasins_discount.md",
+    "politique/Marché_énergie_France.md",
+    "politique/Pesticides.md",
+    "data-science/transformation-donnees.md",
+    "data-science/traitement-signal.md",
+    "data-science/traitement-signal_2.md",
+    "biologie/biochimie/sucres.md",
+    "biologie/biochimie/Reactivite_chimique_en_biologie.md",
+    "biologie/biochimie/lipides.md",
+    "biologie/biochimie/introduction_metabolisme.md",
+    "biologie/biochimie/introduction_biochimie.md",
+    "biologie/biochimie/énergie.md",
+    "biologie/biochimie/Composition_des_êtres_vivants.md",
+    "biologie/biochimie/Protéines/protéines.md",
+    "biologie/biochimie/Protéines/conformation.md",
+    "biologie/biochimie/Protéines/Enzymes/types_enzymes.md",
+    "biologie/biochimie/Protéines/Enzymes/régulation_enzymatique.md",
+    "biologie/biochimie/Protéines/Enzymes/ligands_et_récepteurs.md",
+    "biologie/biochimie/acides_nuclétiques"
+  ]
 }

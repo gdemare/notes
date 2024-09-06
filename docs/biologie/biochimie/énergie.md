@@ -4,7 +4,7 @@
 
 Pour que les réactions puissent avoir lieu mais de manière contrôler, la cellule contrôlent les activités métaboliques par l'intermédiaire des enzymes.
 
-Les [[Enzymes]] abaissent l'énergie d'activation de certaines réactions substrat réactifs sur lequel agit l'enzyme.
+Les [[enzymes]] abaissent l'énergie d'activation de certaines réactions substrat réactifs sur lequel agit l'enzyme.
 
 __Catalyseur__ molécule qui augmente la vitesse de réaction.
 ### Le stockage de l'énergie
@@ -51,8 +51,8 @@ La cellule régénère son stock d'ATP en dégradant des molécules dont le gluc
 
 Les cellules peuvent produire de l'énergie par la dégradation de molécules principalement en utilisant deux modes qui dépendent de l'environnement :
 
-* La [[Respiration cellulaire]] (présence de $O_2$).
-* La [[Fermentation]] (absence de $O_2$).
+* La [[respiration_cellulaire]] (présence de $O_2$).
+* La [[fermentation]] (absence de $O_2$).
 
 !!! note
     Certains organismes sont capables des deux modes mais ils privilégient la respiration cellulaire lorsque c'est possible.

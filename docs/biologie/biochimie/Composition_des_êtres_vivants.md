@@ -15,11 +15,11 @@ Les êtres vivants sont constitués de deux grands types de molécules de :
 
 * De trois polymères : 
     
-    * l'[[ADN-ARN]] constitutés par les acides nucléiques.
-    * les [[Sucres]].
-    * les [[Protéines]] constituées par les acides aminés. 
+    * l'[[ADN_ARN]] constitutés par les acides nucléiques.
+    * les [[sucres]].
+    * les [[protéines]] constituées par les acides aminés. 
 
-* [[Lipides]].
+* [[lipides]].
 
 Les polymères sont des séquences d'unités, de molécules appelées monomères, répétés plusieurs fois.
 

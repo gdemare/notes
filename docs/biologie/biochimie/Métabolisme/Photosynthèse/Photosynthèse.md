@@ -15,7 +15,7 @@ Il existe deux types de photosynthèse en présence ou de l'absence d'oxygène 
 
 La phase photochimique permet de produire à partir de la lumière :
 
-1. un gradient $H^+$ dans la lumière des thylakoïdes qui sera utilisé pour fabriquer de l'ATP par la [[Phosphorylation oxydative]]. Elle débute au niveau du photosystème II.
+1. un gradient $H^+$ dans la lumière des thylakoïdes qui sera utilisé pour fabriquer de l'ATP par la [[phosphorylation_oxydative]]. Elle débute au niveau du photosystème II.
 2. de transformer du $NADP^+$ en NADPH. Son pouvoir réducteur est utile pour les réactions anaboliques. La réaction débute au niveau du photosystème I.
 
 Les photosystèmes sont formés :
@@ -24,13 +24,13 @@ Les photosystèmes sont formés :
 * de plusieurs complexes collecteurs de lumière constitués d'environ 200 à 300 pigments. Ils élargissent le spectre et la surface de collecte de la lumière du centre réactionnel.
 
 !!! note
-    Les [[Pigments]] sont des molécules spécialisées pour capter la lumière.
+    Les [[pigments]] sont des molécules spécialisées pour capter la lumière.
 
 ### Déroulement
 
 La photosynthèse se déroule d'abord, dans le photosystème II où a lieu la production du gradient de $H^+$ utilisé notamment pour la chimiosmose de l'ATP.
 
-1. Excitation des [[Pigments]] par la lumière. L'énergie se propage vers le complexe du centre excitateur. L'électron excité transmet son état à un électron de la molécule voisine et retrouve son état fondamental.
+1. Excitation des [[pigments]] par la lumière. L'énergie se propage vers le complexe du centre excitateur. L'électron excité transmet son état à un électron de la molécule voisine et retrouve son état fondamental.
 2. P680 transfert un électron à l'accepteur primaire. Il devient alors $P680^+$.
 3. Une enzyme avec des ions Mn (Manganèse) transfert les électrons de l'eau un par un vers $P680^+$ ($H_2O \rightarrow \frac{1}{2} O_2 + 2H^+ + 2é$) pour combler la charge manquante. La lyse de l'eau a lieu dans la lumière des thylakoïdes. 
 

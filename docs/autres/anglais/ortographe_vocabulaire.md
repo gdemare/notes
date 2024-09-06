@@ -2,17 +2,16 @@
 
 Les mots identiques en français et en anglais :
 
-
-Terminaison française | Exemples
-----------------------|----------------
--ible                 | Possible, predictible
--able                 | Table, confortable, remarkable, acceptable
--ent                  | Different, evident, recent, present
--ant                  | Important, constant
--ence                 | Difference, preference, experience
--ance                 | Importance
--ion                  | Opinion, condition, position
--al                   | Normal, mineral, animal, special
+| Terminaison française | Exemples                                   |
+| --------------------- | ------------------------------------------ |
+| -ible                 | Possible, predictible                      |
+| -able                 | Table, confortable, remarkable, acceptable |
+| -ent                  | Different, evident, recent, present        |
+| -ant                  | Important, constant                        |
+| -ence                 | Difference, preference, experience         |
+| -ance                 | Importance                                 |
+| -ion                  | Opinion, condition, position               |
+| -al                   | Normal, mineral, animal, special           |
 
 
 !!! warning 

@@ -1,4 +1,4 @@
-[[Enzymes]]
+[[enzymes]]
 
 !!! note
 	La cinétique càd les réactions sans enzymes sont présentes dans la partie chimie.

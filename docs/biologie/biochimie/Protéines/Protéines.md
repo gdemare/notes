@@ -1,4 +1,4 @@
-[[Enzymes]]
+[[enzymes]]
 A ajouter
 Certains codons sont priviligiés pour coder pour un aa. On retrouve ces préférences dans la fréquence de ARNt présent dans les cellules. avantage économique et augmente la efficacité et rapidité de la traduction.
 Cette information est a prendre en compte lorsque l’on cherche a exprimer dans un autre organisme en remplacant les codons peu favorisé par ce qui le sont.

@@ -1,0 +1,261 @@
+site_name: Notes
+repo_url: https://github.com/gdemare/notes/
+repo_name: gdemare/notes
+edit_uri: edit/main/docs/
+
+# mkdocs.yml
+theme:
+  language: fr
+  name: "material"
+  features:
+    - content.action.edit # bouton edit
+    - content.action.view # bouton voir
+    - content.tabs.link
+    - content.code.copy
+    - content.tabs.link 
+     - toc.integrate # réuni le plan et le sommaire
+    - header.autohide
+    - navigation.tabs #onglet
+    - navigation.tabs.sticky #menu avec les onglets tout le temps visible
+    - navigation.sections # section dans le menu a gauche
+    # - navigation.expand # menu a gauche déroulant ouvert apr défaut
+    - navigation.path # affiche le chemin au début de la page.
+    - navigation.top # bouton pour remonter en haut
+    # - navigation.indexes # pour avoir une page d'index dans chaque partie
+  palette:
+      scheme: slate
+      primary: indigo
+      accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+    
+  theme:
+    icon:
+      edit: material/pencil
+
+plugins:
+  - search # barre de rechercher
+  - mkdocstrings
+  - glightbox #pour les images
+  - git-revision-date-localized: #pour avoir la date de maj 
+      type: date
+
+markdown_extensions:
+  - pymdownx.superfences #ajouter box, notes warning, ...
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details # créer des éléments masquables
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - tables
+  - pymdownx.tasklist #ajouter les task lists
+  - pymdownx.magiclink # transforme les liens en éléments cliquables.
+  
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Biologie :
+    - "Ressources" : biologie/ressources_biologie.md
+    - "Biochimie et biomol" :
+      - "Biomolécules simples" :
+        - "Panorama" : biologie/biochimie/introduction-biochimie.md
+        - "Lipides" : biologie/biochimie/lipides.md
+        - "Sucres" : biologie/biochimie/sucres.md
+      - "ADN et ARN" :
+        - "ADN et ARN" : biologie/biochimie/ADN-ARN.md
+        - "Synthèse ADN et ARN " : biologie/cellule/ADN-ARN-synthese.md
+        - "Etude ARN ADN" : biologie/methodes-techniques/etude_acide_nucleique.md
+        - "PCR" : biologie/methodes-techniques/etude_pcr.md
+      - "Métabolisme" :
+        - "Introduction au métabolisme" : biologie/biochimie/introduction-metabolisme.md
+        - "Respiration et fermentation" : biologie/biochimie/respiration-fermentation.md
+        - "Métabolisme secondaire" : biologie/biochimie/metabolisme-secondaire.md
+        - "Photosynthèse" : biologie/biochimie/photosynthese.md
+        - "Réactivité chimique en biologie" : biologie/biochimie/reactivite-chimique-biologie.md
+      - "Protéines" :
+        - "Généralités": biologie/biochimie/proteines.md
+        - "Enzymes" : biologie/biochimie/enzymes.md
+        - "Etude des protéines" : biologie/methodes-techniques/etude_proteines.md
+    - Bioinformatique :
+        - "Aligner des séquences" : biologie/bioinformatique/aligner-sequences.md
+        - "Génomique" : biologie/bioinformatique/genomique.md
+        - "Rechercher des séquences" : biologie/bioinformatique/rechercher-sequences.md
+    - "Cellule et tissus" :
+      - "Structure et fonctions" : biologie/structure-fonction-principes.md
+      - "Histologie" :
+        - "Histologie" : biologie/histologie/histologie.md
+        - "Tissu conjonctif" : biologie/histologie/tissu-conjonctif.md
+        - "Tissu épithélial" : biologie/histologie/tissu-epithelial.md
+        - "Tissu musculaire" : biologie/histologie/tissu-musculaire.md
+        - "Tissu nerveux" : biologie/histologie/tissu-nerveux.md
+      - "Organisation cellulaire" :
+        - "Organisation cellulaire" : biologie/cellule/organisation/organisation-cellulaire.md
+        - "Cytosquelette" : biologie/cellule/organisation/cytosquelette.md
+        - "MEC et jonctions cellulaires" : biologie/cellule/organisation/mec-jonctions-cellulaires.md
+        - "Membrane plasmique" : biologie/cellule/organisation/membrane-plasmique.md
+        - "Noyau" : biologie/cellule/organisation/noyau.md
+        - "Organites" : biologie/cellule/organisation/organites.md
+        - "Système endomembranaire" : biologie/cellule/organisation/systeme-endomembranaire.md
+      - "Biologie cellulaire" :
+        - "Communication cellulaire" : biologie/cellule/communication-cellulaire.md
+        - "Cycle cellulaire" : biologie/cellule/cycle-cellulaire.md
+        - "Mort cellulaire" : biologie/cellule/mort-cellulaire.md
+        - "Potentiel cellulaire" : biologie/cellule/potentiel-cellulaire.md
+        - "Régulation de l'expression génétique" : biologie/cellule/regulation-expression-genique.md
+      - "Physologie animale" :
+        - "Physiolgoi" : biologie/physiologie-animale/physiologie.md
+        - "Circulation et échange gazeux" : biologie/physiologie-animale/circulation-echanges-gazeux.md
+        - "Comportement" : biologie/physiologie-animale/comportement.md
+        - "Nutrition" : biologie/physiologie-animale/nutrition-animaux.md
+        - "Immunologie" : biologie/physiologie-animale/immunologie.md
+        - "Muscle" : biologie/physiologie-animale/muscle.md
+        - "Neurologie" : biologie/physiologie-animale/neurobiologie.md
+        - "Osmorégulation et excrétion" : biologie/physiologie-animale/osmoregulation-excretion.md
+        - "Reproduction" : biologie/physiologie-animale/reproduction.md
+        - "Reprodctuion sexuée" : biologie/physiologie-animale/reproduction-sexue.md
+        - "Système endorinien" : biologie/physiologie-animale/systeme-endocrinien.md
+        - "Système nerveux" : biologie/physiologie-animale/systeme-nerveux.md
+      - Plante :
+        - "Cellule" : biologie/plante/cellule-vegetale.md
+        - "Nutrition" : biologie/plante/nutrition-vegetale.md
+        - "Organisation" : biologie/plante/organisation-vegetale.md
+        - "Reponses au stimuli" : biologie/plante/reponse-vegetaux.md
+      - "Procaryotes et virus" :
+        - Bactéries : biologie/cellule/bacteries.md
+        - Virus : biologie/cellule/virus.md
+      - "Techniques" :
+        - "Clonage" : biologie/methodes-techniques/clonage.md
+        - "Culture cellulaire" : biologie/methodes-techniques/culture-cellulaire.md
+        - "Génie génétique" : biologie/methodes-techniques/clonage_genie.md
+        - "Histologie" : biologie/methodes-techniques/histologie.md
+    - Ecologie :
+      - "Populations et communautés" :
+        - "Biologie de la conservation" : biologie/ecologie/biologie-conservation.md
+        - "Ecologie des communautés" : biologie/ecologie/ecologie-communautes.md
+        - "Ecosystème et écologie de la restauration" : biologie/ecologie/ecosysteme-ecologie-restauration.md
+        - "Evolution des populations" : biologie/ecologie/evolution-population.md
+      - Evolution :
+        - "Génétique Mendel" : biologie/evolution/genetique-mendel.md
+        - "Génétique des populations" : biologie/ecologie/genetique-population.md
+        - "Génome évolution" : biologie/evolution/genome-evolution.md
+        - "Phylogénie" : biologie/evolution/phylogenie.md
+        - "Origine de la biodiversité" : biologie/ecologie/origine-biodiversite.md
+        - "Théorie de l'évolution" : biologie/evolution/theorie-evolution.md
+      - Taxonomie :
+        - "Classification" : biologie/taxonomie/classification.md
+        - "Animaux" : biologie/taxonomie/animaux.md
+        - "Champignons" : biologie/taxonomie/champignons.md
+        - "Végétaux" : biologie/taxonomie/plantes.md 
+    - "Matériels et méthodes" :
+      - "Méthodes" :
+        - "Généralités" : biologie/methodes-techniques/etude_biologie.md
+        - "Méthodes" : biologie/methodes-techniques/methodes.md
+        - "Introduction biologie expérimentale" : biologie/methodes-techniques/introduction-biologie-experiementale.md
+        - "Immunomarquage" : biologie/methodes-techniques/immunomarquage.md
+      - "Matériels" :
+        - "Microscopie" : biologie/methodes-techniques/microscopie.md
+        - "Imagerie" : biologie/methodes-techniques/imagerie.md
+        - "RMN" :  biologie/methodes-techniques/RMN.md
+        - "Spectrométrie de masse" : biologie/methodes-techniques/spectrometrie.md
+  - "Data Science" :
+    - "Ressources" : data-science/ressources_data.md
+    - "Dictionnaire Statistique" : data-science/dictionnaire-statistique.md
+    - "Données non structurées" :
+      - "Cartographie" : data-science/cartographie.md
+      - "Fouille de textes" : data-science/text-mining.md
+      - "Traitement des images" : data-science/traitement-image.md
+      - "Traitement du signal" : data-science/traitement-signal.md
+      - "Transformation des données" : data-science/transformation-donnees.md
+    - "Modèles" :
+      - "Modèles" : data-science/models/models.md
+      - "Echantillionnage" : data-science/models/echantillionnage.md
+      - "Coût & critères" : data-science/models/indicateurs-couts.md
+      - "Type classification" : data-science/models/classification-all.md
+      - "Type régression" : data-science/models/regression-all.md
+      - "Classification" : 
+        - "Arbre de décision & forêt aléatoire" : data-science/models/classification/arbre-de-décision.md
+      - "Mixtes" : 
+        - "Régression" : data-science/models/regression.md
+      - "Réseaux de neurones" :
+        - "Réseaux de neurones" : data-science/models/reseaux-neurones/reseaux-neurones.md
+        - "Couches convulsives" : data-science/models/reseaux-neurones/couche-convulsive.md
+    - "Descriptions des données" :
+      - Cluestering : 
+        - Cluestering : data-science/clustering/cluestering.md
+        - "Cluestering des variables" : data-science/clustering/clustering-variables.md
+        - "CAH" : data-science/clustering/CAH.md
+        - "CFH" : data-science/clustering/CDH.md
+        - "Centres mobiles" : data-science/clustering/centres-mobiles.md
+      - "Réduction de dimensions" :
+        - "Réduction de dimensions" : data-science/reduction-dimensions/reduction-dimension.md
+        - "AFC et ACM" : data-science/reduction-dimensions/AFC-ACM.md
+        - "ACP" : data-science/reduction-dimensions/ACP.md
+        - "Analyse discriminante" : data-science/reduction-dimensions/analyse-discriminante.md
+        - "Positionnement multidimensionnel" : data-science/reduction-dimensions/positionnement-multidimensionnel.md
+  - Histoire :
+    - Futur : histoire/anticipation.md
+    - Frise chronologique : histoire/chronologie.md
+    - Sapiens : histoire/sapiens.md
+    - "Le propre de l'Homme" :
+      - "L'écriture" : histoire/ecriture.md
+  - Mathématique :
+    - "Symboles et notation" : mathematique/mathematique.md
+    - Arithmétique :  mathematique/arithmetique.md
+    - Geométrie :  mathematique/geometrie.md
+    - Matrice : mathematique/matrice.md
+    - Analyse :
+      - "Optimisation" : mathematique/analyse/optimisation.md
+      - "Algorithmie" :  mathematique/analyse/algorithmique.md
+      - "Fonctions" :
+        - "Equation différentielle" : mathematique/analyse/equation-differentielle.md
+        - "Définition, dérivé, primitive, limite" : mathematique/analyse/definition-derives-primitives-limites.md
+        - "Fonctions remarquables" : mathematique/analyse/fonctions-remarquables.md
+    - "Statistique" : 
+      - Probabilité : mathematique/statistique/probabilite.md
+      - Statistique : 
+        - Statistique : mathematique/statistique/statistique.md
+        - Graphique : mathematique/statistique/graphiques.md
+        - "Tests statistiques" : mathematique/statistique/tests-statistiques.md
+      - "Probabilité et statistique" : mathematique/statistique/probabilite-statistique.md
+  - 'Physique Chimie' :
+    - "Unité" :  physique-chimie/unites.md
+    - Chimie :
+      - "Cinétique" : physique-chimie/chimie/cinetique.md
+      - "Structure & représentation" : physique-chimie/chimie/stucture-representation.md
+      - Thermodynamique : 
+        - Thermodynamique : physique-chimie/chimie/thermodynamique.md
+        - "Acide-base" : physique-chimie/chimie/acide-base.md
+      - "Réactions chimiques" : physique-chimie/chimie/reactions-chimiques.md
+    - Physique :
+      - Physique : physique-chimie/physique/physique.md
+      - Optique : physique-chimie/physique/optique.md
+      - "Physique classique" : physique-chimie/physique-classique.md
+      - "Physique quantique" : physique-chimie/physique/physique-quantique.md
+      - "Les atomes" : physique-chimie/physique/atomes.md
+  - Autres :
+
+    - Démocratie : autres/démocratie.md
+    - "Se connaitre" : autres/se-connaitre.md
+    - Anglais :
+      - Conjugaison : autres/anglais/conjugaison.md
+      - Grammaire : autres/anglais/grammaire.md
+      - "Ortographe et vocabulaire" : autres/anglais/ortographe-vocabulaire.md
+    - Informatique :
+        - "Base de données" : informatique/database.md
+        - "Math jax" : informatique/markdown-math.md
+        - "Réseau" : informatique/reseau.md
+    - Ressources :
+        - Emploi : autres/ressources/emploi.md
+        - Location : autres/ressources/location.md
+    - Communication :
+      - Candidater : autres/communication/entretien-embauche.md
+      - "Gestion de projet" : autres/communication/gestion-projet.md
+      - Rhétorique : autres/communication/rhetorique.md
+    - Finance : 
+      - Epargne : autres/epargne.md 

@@ -2,7 +2,7 @@ __Cascade de signalisation__ (ou voie de signalisation) série de réactions chi
 
 La régulation du métabolisme se fait par la régulation de :
 
-* La synthèse d'[[Enzymes]] régulée par l'expression génique.
+* La synthèse d'[[enzymes]] régulée par l'expression génique.
 * L'activité des enzymes.
 ## Les Bactéries
 

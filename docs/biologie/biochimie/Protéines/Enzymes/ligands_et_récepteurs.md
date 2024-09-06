@@ -1,4 +1,4 @@
-[[Enzymes]]
+[[enzymes]]
 On considère le ligand comme la molécule qui se déplace et qui interagit avec une autre molécule, appelée récepteur. Le recepteur se trouve souvent à l'intérieur de la cellule.
 
 #### Type de ligands

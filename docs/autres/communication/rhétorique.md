@@ -1,7 +1,7 @@
-| Acronyme | Latin | Signification |
-|---|---|---|
-| i.e	| id est | càd | 
-| e.g. | exempli gratia | par exemple |
+| Acronyme | Latin          | Signification |     |
+| -------- | -------------- | ------------- | --- |
+| i.e      | id est         | càd           |     |
+| e.g.     | exempli gratia | par exemple   |     |
 
 
 La rhétorique 

@@ -1,9 +1,8 @@
-
 ## Lipides vrais
 
 Estérification
 
-$$Acidegras + alcool \rightarrow Ester + H_{2}O$$
+$$Acide\ gras + alcool \rightarrow Ester + H_{2}O$$
 
 On appelle « vrai lipide » une molécule de glycérol avec des acides gras. La liaison est fabriquée par une réaction d'estérification du groupement
 

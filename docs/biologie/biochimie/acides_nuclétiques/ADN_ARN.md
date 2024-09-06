@@ -25,7 +25,7 @@ ARN                 | Ribose              | A, C, G, Uracile
 !!! note
     La différence entre le sucre de l'ADN et de l'ARN porte sur le groupement OH sur le carbone 2 qui n'est pas présent dans l'ADN.
 
-[[ADN-ARN]]
+[[ADN_ARN]]
 ## Les bases
 
 Les bases sont comptés en millions paires de base (Mpb).
@@ -170,5 +170,5 @@ Comparaison de l'ADN entre les procaryotes et les Eucaryotes :
 | Nbre de chromosomes | Unique                  | Plusieurs             |
 | ADN annexe          | Plasmides               |                       |
 
-* [[Génomes chez les Eucaryotes]]
-* [[Génomes chez les Procaryotes]]
+* [[génomes _eucaryotes]]
+* [[génomes_procaryotes]]

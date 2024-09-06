@@ -1,6 +1,6 @@
 ## Les feuilles 
 
-Les feuilles sont le principale organe de la [[photosynthèse]] de la plante. Le processus requière du $CO_2$ et libère de l'$O_2$. Les molécules circulent par des ouvertures appelées ostioles. Elles sont formées par deux cellules, le stomate.
+Les feuilles sont le principale organe de la [[biologie/Plante/Photosynthèse]] de la plante. Le processus requière du $CO_2$ et libère de l'$O_2$. Les molécules circulent par des ouvertures appelées ostioles. Elles sont formées par deux cellules, le stomate.
 
 !!! note
     Lorsque la chaleur est trop importante, les stomates se ferment pour limiter l'évaporation.

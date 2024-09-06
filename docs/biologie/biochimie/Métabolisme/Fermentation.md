@@ -1,5 +1,3 @@
-## La fermentation
-
 La fermentation est le prolongement de la glycolyse : le pyruvate est transformé pour devenir un accepteur d'électron Elle permet de produire deux molécules d'ATP et régénérer le $NAD^+$ pour la glycolyse. Il existe deux types de fermentation :
 
 * alcoolique qui produit de l'éthanol $C_3 H_3O_3^- \rightarrow C_2 H_4O + - CO_2 \rightarrow CH_5 OH$.

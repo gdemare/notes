@@ -1,4 +1,4 @@
-[[Protéines]]
+[[protéines]]
 Les principales informations à déterminer sur une protéine :
 
 * localisation
