@@ -1,8 +1,8 @@
 ### Etude de l'Histoire et anticipation
 
-L'Homme étudie l'Histoire pour comprendre les choix qui s'offrent à lui et éviter de reproduire les erreurs passées sauf que jusqu'à maintenant prédire l'Histoire a toujours était un échec.
+L'Homme étudie l'Histoire pour comprendre les choix qui s'offrent à lui et éviter de reproduire les erreurs passées sauf que jusqu'à maintenant prédire l'Histoire a toujours été un échec.
 
-Généralement lorsqu'elles sont énoncées Les théories économiques, sociale et politiques ne peuvent plus fonctionner lorsqu'elles ont été enoncées car elles changent la realisations de l'événement en éveillant les consciences.
+Généralement lorsqu'elles sont énoncées les théories économiques, sociales et politiques ne peuvent plus fonctionner car elles changent la réalisations de l'événement en éveillant les consciences.
 
 !!! example
     Les gouvernements ont pris des mesures pour éviter la révolution des prolétères prédite par Karl Max.
@@ -10,28 +10,28 @@ Généralement lorsqu'elles sont énoncées Les théories économiques, sociale 
 
 ### Humanisme
 
-Nous vivons une époque construite autour du concept d'humanisme qui s'est construite avec la déclaration des droits de l'Homme formalisé durant la révolution française. Elle a peu a peu était adopté par tous les pays du monde. Elle place l'être humain au centre de ces préoccupations et considère que : 
+Nous vivons une époque construite autour du concept d'humanisme. Elle prend pour base la déclaration des droits de l'Homme formalisée durant la révolution française et qui a peu a peu été adoptée par tous les pays du monde. Elle place l'être humain au centre de ces préoccupations et considère que : 
 
-* chaque personne mérite d'être traitée avec respectée et dignité idépendamment de ce qu'elle ou représente (origine, religion, etc).
-* la liberté de pensée et d'expression est essentielle càd la possibilité de débatre et d'exprimer des idées sans crainte d'être cencuré.
+* chaque personne mérite d'être traitée avec respectée et dignité idépendamment de ce qu'elle est ou représente (origine, religion, etc).
+* la liberté de pensée et d'expression est essentielle càd la possibilité de débattre et d'exprimer des idées sans crainte d'être cencuré.
 * l'éducation est un moyen de développement personnel et d'émancipation.
-* la recherche de la vérité et du progrès par la science permettra le rejet des suppertision et des prégugés.
+* la recherche de la vérité et du progrès par la science permettra le rejet des superstitions et des prégugés.
 * elle encourage l'empathie et la compassion càd à se soucier de l'autre.
 
-L'humanisme a acquis grâce La connaissance a permis d'éradiauer les trois menaces qui pesaient sur la vie et qui constituaient une part importante d'incertitude pour le futur.:
+L'humanisme a permis grâce à la connaissance d'éradiauer les trois menaces qui pesaient sur la vie et qui constituaient une part importante d'incertitude pour le futur.:
 
 * les épidemie.
 * les guerres.
 * la famine.
 
-L'Humanité s'intéresse maitenant à la recherche de :
+L'Humanité s'intéresse maintenant à la recherche de :
 
 * l'immortalité.
 * la divination.
 * le bonheur.
 
 !!! note
-    Notre comprehension du monde semble indique que l'immortalité et le bonheur sont liés des problêmes techniques physiologiques.
+    Notre comprehension du monde semble indiquer que l'immortalité et le bonheur sont liés des problêmes techniques physiologiques.
 
 Trois voies sont explorées :
 
@@ -43,9 +43,9 @@ Trois voies sont explorées :
     Certains traités d'éthiques limitent l'utilisation des technologies pour modifier l'Humain mais il arrivera un moment où elles seront utilisées pour nous améliorer.
 
 !!! example
-    En Coree du Sud, les etudiants ont détourné l'usage d'un medicament pour doper leurs capacites mentales.
+    En Corée du Sud, les étudiants ont détourné l'usage d'un medicament pour doper leurs capacités cognitives.
 
-L'augmentation de la connaissance est une source de la complexification des systèmes. Les marchés financiers deviennet des environnements de plus en plus étranges. La connaissance a permis aux acteurs d'anticiper l'évolution des tendances des marchés qui ont eux même modifier le marche.
+L'augmentation de la connaissance est une source de la complexification des systèmes. Les marchés financiers deviennent des environnements de plus en plus étranges. La connaissance a permis aux acteurs d'anticiper l'évolution des tendances des marchés qui ont eux même modifier le marché.
 
 Notre manière de penser est conditionnée :
 
@@ -61,11 +61,11 @@ Les croyance humaines ont évoluées avec les modes de vie. A l'époque, les cha
 
 Ils communiquaients directement avec les animaux et les plantes lorsqu'ils en avaient besoin.
 
-Quand le monde est passe a des sociétés agricoles, l'Homme ne dependait plus de la nature sauvage pour vivre. Il n'a pas les connaissances des forces à l'oeuvre. Lorsque la météo n'était pas bonne pour les récoltes ou que son village. était frappe par une épidemie.
+Quand le monde est passe a des sociétés agricoles, l'Homme ne dependait plus de la nature sauvage pour vivre. Il n'a pas les connaissances des forces à l'oeuvre. Lorsque la météo n'était pas bonne pour les récoltes ou que les villages étaient frappés par une épidemie.
 
 Il a imaginé une entité spirituelle qu'il nomma Dieu.
 
-Dieu était à la fois la cause de ses malheurs et de ses bonheurs. En échange de faveurs, Dieu sera clément avec les Hommes. L'intermediaire entre l'Homme et la nature devient Dieu.
+Dieu était à la fois la cause de ses malheurs et de ses bonheurs. En échange de faveurs, Dieu sera clément avec les Hommes. L'intermediaire entre l'Homme et la Nature devient Dieu.
 
 Ce passage d'un mode de vie de chasseurs cueilleurs à l'agricole est présent dans le mythe d'Adan et d'Eve.
 
