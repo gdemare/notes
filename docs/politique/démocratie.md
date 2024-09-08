@@ -1,7 +1,7 @@
 Le politique se distingue en trois branches principales, le pouvoir :
 
-* législatif : élaboration et l'adoption des lois. proposent, examinent et votent sur les projets de loi.
-* exécutif : chargé de mettre en oeuvre et faire appliquer les lois.
+* législatif : élaboration et l'adoption des lois : propose, examine et vote sur les projets de loi.
+* exécutif : chargé de mettre en oeuvre et de faire appliquer les lois.
 * judiciaire qui consiste à interpréter et appliquer les lois. L'application de la loi se fait par les juges et les tribunaux.
 
 __Constitution__ document juridique qui détermine :
@@ -13,7 +13,7 @@ __Constitution__ document juridique qui détermine :
 __Suffrage universelle__ tous les citoyens adultes disposent du droit de vote.
 
 !!! note
-    Il existe des systèmes alternatif au suffrage universel comme le vote par classement, appelé également vote préférentiel ou vote alternatif. Il s'agit d'une méthode de vote dans laquelle les électeurs classent les candidats par ordre de préférence.
+    Il existe des systèmes alternatifs au suffrage universel comme le vote par classement, appelé également vote préférentiel ou vote alternatif. Il s'agit d'une méthode de vote dans laquelle les électeurs classent les candidats par ordre de préférence.
 
 ## La démocratie en France
 
@@ -34,9 +34,9 @@ __Suffrage universelle__ tous les citoyens adultes disposent du droit de vote.
 __Projet de loi__ proposition de loi.
 
 !!! note
-    Le dernier mot revient à l'assemblé national
+    Le dernier mot revient à l'assemblée nationale.
 
-__Amendement__ proposition de modifications accompagnée par une discussion. Les amendements sont ensuite votés pour être adoptés. 
+__Amendement__ proposition de modifications accompagnée par une discussion. Les amendements doivent ensuite être votés pour être adoptés. 
 
 __49.3__ article de loi qui permet d'adopter une loi sans le vote du parlement. 
 
@@ -44,8 +44,8 @@ __49.3__ article de loi qui permet d'adopter une loi sans le vote du parlement.
 
 #### Le gouvernement
 
-* le président qui prend les mesures concrètes pour faire respecter la loi et les décisions de justice, par exemple en mobilisant les forces de l'ordre.
-**onctions principales** :
+* le président prend les mesures concrètes pour faire respecter la loi et les décisions de justice, par exemple en mobilisant les forces de l'ordre.
+**Fonctions principales** :
 
 - Nomme le Premier ministre.
 - Peut dissoudre l'Assemblée nationale.
@@ -63,8 +63,8 @@ Gouvernement est composé de ministres. Le premier - propose les ministres qui s
 
 Le parlement est composé de deux chambres :
 
-* l'assemblé nationale élue par les citoyens.
-* le Sénat élue par les réprésentants de la nation.
+* l'assemblée nationale élue par les citoyens.
+* le Sénat élu par les réprésentants de la nation.
 
 Fonctions principales :
 - Vote les lois.
@@ -77,12 +77,12 @@ Fonctions principales :
 
 Les parlements sont responsable  :
 
-* créer des commissions d'enquêtes 
+* créer des commissions d'enquêtes.
 
 __Commission mixte paritaire__ commission composé de sénateurs et de députés.
 ##### Le sénat
 
-Le sénat examine les projets de lois adoptés par l'assemblée. Il peut modifier le texte et alors le projet est renvoyer vers l'assemblée nationale. Renouvellemnt par motié
+Le sénat examine les projets de lois adoptés par l'assemblée. Il peut modifier le texte. Le projet est alors renvoyer vers l'assemblée nationale. Renouvellement par moitié
 
 - Participe au processus législatif.
 - Représente les collectivités territoriales de la République.
@@ -107,10 +107,10 @@ Les principales institution qui incarne l'Union Européenne sont :
 
 * Le parlement européen.  est l'institution représentative des citoyens de l'Union européenne. Les membres du Parlement européen sont élus au suffrage universel direct pour un mandat de cinq ans. Il partage :
 
-    * le pouvoir législatif avec le Conseil de l'Union européenne
+    * le pouvoir législatif avec le Conseil de l'Union européenne.
     * a également un rôle de supervision des autres institutions de l'UE.
 
-* Conseil de l'Union européenne : Également appelé "Conseil des ministres", il représente les gouvernements des États membres.
+* Conseil de l'Union européenne : Également appelé "Conseil des ministres", il représente les gouvernements des États membres. Il exerce :
 
     * le pouvoir législatif avec le Parlement européen
     * exerce des fonctions exécutives.
@@ -125,6 +125,6 @@ Les principales institution qui incarne l'Union Européenne sont :
 
     * la Cour de justice.
     * le Tribunal de l'Union européenne.
-    * des tribunaux spécialisés.
+    * de tribunaux spécialisés.
 
 * Cour des comptes européenne évalue la gestion financière.
