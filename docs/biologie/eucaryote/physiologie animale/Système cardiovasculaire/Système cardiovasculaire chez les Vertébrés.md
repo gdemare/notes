@@ -2,12 +2,12 @@
 
 Un réseau de vaisseaux sanguins d'une longueur de 100 000km (deux fois la circonférence de la Terre) formé par un endothélium, une couche simple de cellules. Elles sont lisses ce qui limite la résistance et elles sont entourées de divers couches en fonction du type de vaisseaux et de leur rôle :
 
-* les artères du cœur vers les organes. Ils se divisent en artérioles.
-* les capillaires microscopique paroi fine et poreuse. C'est le lieu de la diffusion et les échanges de substances. Son diamètre est un peu plus grand que celui des globules rouge.
-* les veines des organes vers le cœurs. Les veinules situés après les capillaire convergent vers les veines.
+* les artères qui achemine le sang du cœur vers les organes. Ils se divisent en artérioles.
+* les capillaires. Ils sont microscopiques avec une paroi fine et poreuse. C'est le lieu de la diffusion et les échanges de substances. Son diamètre est un peu plus grand que celui des globules rouges.
+* les veines qui vont des organes vers le cœurs. Les veinules situés après les capillaires convergent vers les veines.
 
 !!! note
-    Il existe quelques exception de veines qui acheminent le sang de capillaires vers d'autres organes comme la veine porte hépatique de l'intestin au foie.
+    Il existe quelques exceptions de veines qui acheminent le sang de capillaires vers d'autres organes comme la veine porte hépatique de l'intestin au foie.
 
 Le sang irrigue entre 5 et 10% des capillaires du corps à chaque instant.
 
