@@ -125,7 +125,7 @@ Utilisation d'urée favorise l'activité de la trypsine.
 Il existe plusieurs méthodes [[étude des protéines]] mon quantifié l'ADN :
 
 * L'électrophorèse
-* La [[Spectrométre de masse]].
+* La [[Spectromètre de Masse]].
 
 Limite de l'électrophorèse (visualiser modification post traductionnelle) pas très reproductible.
 

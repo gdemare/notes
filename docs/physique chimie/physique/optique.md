@@ -21,7 +21,6 @@ $\gamma = \frac{A'B'}{AB}$
 | Sens de l'image | Droite  | Inversée |
 |-----------------|---------|----------|
 | Grandissement   | Positif | Négatif  |
-
 ## Nature de l'image réelle/virtuelle
 
 __Stigmatique__ un point objet est associé à un unique point image.
@@ -71,7 +70,6 @@ Le dioptre est :
 
 * Convergent si $V \gt 0$.
 * Divergent si $V \lt 0$.
-
 ### Grandissement
 
 D'après Thalès, le grandissement
@@ -86,7 +84,6 @@ F (F') est le point par lequel passe les rayons qui forment une image (un objet)
 
 !!! example
 	La formation d'une image virtuelle à partir d'un objet AB.
-
 ## Lentille
 
 La vergence permet de déterminer la nature d'une lentille.
@@ -94,7 +91,6 @@ La vergence permet de déterminer la nature d'une lentille.
 La relation de conjuguaison est 
 
 $$V = \frac{1}{OA'} - \frac{1}{OA} = (n - 1) \cdot ( \frac{1}{OC_1} - \frac{1}{OC_2} )$$ 
-
 avec :
 
 * $V = \frac{1}{f'} = -\frac{1}{f}$
