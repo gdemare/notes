@@ -1,7 +1,7 @@
 La survie d'un organisme dépend pour partie de sa capacité à :
 
 * maintenir les concentrations en eau et en solutés de son milieu cellulaire.
-* se débarrasser de leur déchets métaboliques toxiques.
+* se débarrasser des déchets métaboliques toxiques.
 
 La diversité des environnements dans lesquels vivent les organismes à conduit à l'apparition de réponses différentes qui dépendent de de l'environnement.
 
@@ -18,22 +18,23 @@ Le maintien d'un milieu interne à un coût énergétique d'autant plus importan
 Il existe deux manières pour maintenir un équilibre hydrique :
 
 * osmotolérance ayant la même osmolarité que leur environnement Régule leur osmolarité.
-* osmorégulation plutôt les animaux qui vivent dans un milieu aquatique stable Concerne les animaux d'eau douce et terrestre.
+* osmorégulation qui concernent plutôt les animaux qui vivent dans un milieu aquatique stable Concerne les animaux d'eau douce et terrestre.
 
 Les invertébrés marins sont souvent de type osmotolérant.
 
-Pour les Vertébrés marins osmorégulateur, l'océan est un milieu déshydratant.
+Pour les Vertébrés marins osmorégulateurs, l'océan est un milieu déshydratant.
 
 !!! example
-    Chez les chondrichtyen, le milieu intracellulaire est hyper-osmotique à cause de l'accumulation des déchets métaboliques comme l'urée qui ne sont pas éliminés de leur organisme. Il en résulte une entré d'eau qui est évacuée par leur organes.
+    Chez les chondrichtyen, le milieu intracellulaire est hyper-osmotique à cause de l'accumulation des déchets métaboliques comme l'urée qui ne sont pas éliminés de leur organisme. Il en résulte une entré d'eau qui est évacuée par leurs organes.
 
-Pour les organismes dulcicoles milieu hypotonique ce qui provoque une entrer et une perte de solutés compensé par l'apport par la nourriture. Possède des cellules spécialisées transport actif pour maintenir une concentration.
+Pour les organismes dulcicoles milieu hypotonique ce qui provoque une entrée et une perte de solutés compensées par l'apport par la nourriture. Possède des cellules spécialisées transport actif pour maintenir une concentration.
 
 Saumon est capable de modifier la taille des cellules sécrétrices de sel grâce à une hormone.
 
 Milieu aquatique précaire animaux survivre à un asséchement grâce à un état
 
-__Hydrobiose__ état d'inactivité où l'organisme perd l'eau.
+__Hydrobiose__ état d'inactivité où l'organisme perd son 
+eau.
 
 ## Vivre en milieu terrestre
 
