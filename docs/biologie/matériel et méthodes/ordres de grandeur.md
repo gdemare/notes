@@ -6,3 +6,5 @@ Ordre de grandeurs des cellules
 | Animale          | 10                        |
 | Bactérienne      | 1                         |
 | Virus            | 0,25                      |
+| Noyau            | 5                         |
+| Microtubule      | 0,024                     |

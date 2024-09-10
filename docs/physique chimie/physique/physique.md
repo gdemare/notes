@@ -68,7 +68,7 @@ Noyau est stable si la force nucléaire est égale à la force de répulsion.
 
 Un déséquilibre conduit à une transmutation
 
-Radioactivité
+Radioactivité :
 
 * $\gamma$ émission d'un photon de très haute énergie.
 * $\alpha$ conduit à l'émission d'un noyau constitué de deux protons et de deux neutrons (hélium).
