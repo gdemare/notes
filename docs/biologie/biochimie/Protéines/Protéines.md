@@ -1,9 +1,9 @@
 [[enzymes]]
 A ajouter
-Certains codons sont priviligiés pour coder pour un aa. On retrouve ces préférences dans la fréquence de ARNt présent dans les cellules. avantage économique et augmente la efficacité et rapidité de la traduction.
-Cette information est a prendre en compte lorsque l’on cherche a exprimer dans un autre organisme en remplacant les codons peu favorisé par ce qui le sont.
-Généralement, les protéines sont synthétisé
-es peptides sont synthétisés par des synthétases massives organisées en chaînes de montage Des polypeptides assemblés sans que les ribosomes ne soient solicités??? Et oui, ça existe. Les peptides issus de la NRPS (non-ribosomal peptide synthesis) sont généralement assez courts, de deux à environ 50 acides aminés. Ces peptides ne sont pas codés par un gène, et ils ne sont pas limités aux vingt acides aminés de base. On y retrouve parfois des acides aminés de forme D, des variantes méthylées des acides habituels, des résidus hydroxylés ou glycosylés, des résidus jamais retrouvés dans les protéines, etc. Il arrive que la chaîne peptidique y soit cyclique, ou même branchée.
+Certains codons sont priviligiés pour coder pour un aa. Ces préférences se retrouvent dans la fréquence des ARNt présent dans les cellules. avantage économique et augmente l'efficacité et la rapidité de la traduction.
+Cette information est à prendre en compte lorsque l’on cherche à exprimer une protéine dans un organisme differents de celui d'origine en remplacant les codons peu favorisés par ce qui le sont.
+Généralement, les protéines sont synthétisées 
+es peptides sont synthétisés par des synthétases massives organisées en chaînes de montage Des polypeptides assemblés sans que les ribosomes ne soient solicités??? Et oui, ça existe. Les peptides issus de la NRPS (non-ribosomal peptide synthesis) sont généralement assez courts, de deux à environ 50 acides aminés. Ces peptides ne sont pas codés par un gène, et ils ne sont pas limités aux vingt acides aminés de base. On y retrouve parfois des acides aminés de forme D, des variantes méthylés des acides habituels, des résidus hydroxylés ou glycosylés, des résidus jamais retrouvés dans les protéines, etc. Il arrive que la chaîne peptidique y soit cyclique, ou même branchée.
 Ces peptides sont synthétisés par des synthétases massives organisées en chaînes de montage; certaines sont des complexes multimériques, d’autres de grandes protéines. Ces enzymes sont modulaires et contiennent une série d’unités fonctionnelles qui peuvent lier un acide aminé libre, l’activer sous forme de thioester, et le coupler au polypeptide grandissant. Chaque module a une taille de 1000-1200 acides aminés, rendant certains de ces enzymes vraiment énormes: une unique protéine de 15 281 résidus (pour une masse de 1,7 MDal!!!) est responsable de la synthèse de la cyclosporine, un immunorépresseur qui ne contient que… 11 résidus!
 Biochimie des protéines, cours exceptionnels sur les protéines
 Certains codons sont priviligiés pour coder pour un aa. On retrouve ces préférences dans la fréquence de ARNt présent dans les cellules. avantage économique et augmente la efficacité et rapidité de la traduction.
@@ -15,36 +15,52 @@ ________________________________________
 Les protéines (étymologie “au premier rang”) sont des polymères d’acides aminés (aa) qui jouent de nombreux rôles notamment dans :
 	La structure.
 	La réalisation et la régulation de processus biologiques (la défense, la signalisation, le transport, le mouvement).
-Les acides aminés sont structurés autour d’un atome de carbone appelé alpha entouré par : * un groupe aminé (-NH2) * un groupe acide carboxylique (-COOH), un atome d’hydrogène * d’une chaîne latérale qui différe en fonction du type d’acides aminés. La conformation des aa est de type L (par opposition à D) probablement car la forme L est plus présente naturellement.
+Les acides aminés sont structurés autour d’un atome de carbone appelé alpha entouré par :
+* un groupe aminé (-NH2)
+* un groupe acide carboxylique (-COOH), un atome d’hydrogène
+* d’une chaîne latérale qui différe en fonction du type d’acides aminés. La conformation des aa est de type L (par opposition à D) probablement car la forme L est plus présente naturellement.
 amphotère molécule à la fois donneuse et receveuse d’électrons.
-!!! note Certains acides aminés sont modifiés sont utilisés autrement que dans les protéines. Par exemple, la desmosine est une molécule non protéiques constituées de quatre lysines qui confère à l’élastine des propriétés élastiques. D’autres aa modifiées peuvent servir d’hormones, etc.
+
+!!! note
+   Certains acides aminés sont modifiés sont utilisés autrement que dans les protéines. Par exemple, la desmosine est une molécule non protéiques constituées de quatre lysines qui confère à l’élastine des propriétés élastiques. D’autres aa modifiées peuvent servir d’hormones, etc.
+
 Les propriétés physico-chimiques des protéines dépendent de :
-	La structure chimique càd des 20 acides aminés différents qui composent la séquence peptidique.
-	La séquence d’acides aminés càd l’ordre des acides aminés. L’ordre est donné par la séquence d’ADN.
+* la structure chimique càd des 20 acides aminés différents qui composent la séquence peptidique.
+* la séquence d’acides aminés càd l’ordre des acides aminés. L’ordre est donné par la séquence d’ADN.
+ 
 !!! note Le code génétique est extrêmement conservé dans la nature (trois nucélotides pour un codon, codon stop,…). La significiation de certains codons a évoluée.
 C’est la structure 3D qui confère la fonction de la protéine.
-!!! note Les protéines sont partout. Nous nous en vêtissons lorsque nous portons de la laine, du cuir ou de la soie. Ils sont certains médicements et de nombreuses recherches cherchent à imiter certaines fibres protéiques.
-Polypeptide chaine d’acides aminés.
+
+!!! note
+   Les protéines sont partout. Nous nous en vêtissons lorsque nous portons de la laine, du cuir ou de la soie. Ils sont certains médicaments et de nombreuses recherches cherchent à imiter certaines fibres protéiques.
+   
+__Polypeptide__ chaine d’acides aminés.
+
 Une protéine est une chaine composée, en moyenne, de 50 acides aminées appelée chaine peptidique.
+
 Chaine principale
 Les acides aminés
+
 Les protéines animales sont constitués de l’assemblage de 20 aa différents :
-	8aa hydrophobes dont la proline qui bloque les changements de conformation.
-	à pH physiologique :
-	7 aa polaires non chargés dont 3 sont des alcools et la cystéine qui est capable de créer une liaison covalente avec une autre cystéine : glycine, valine, leucine, isoleucine, phénylalanine, tryptosine, t, proline, cystéine.
-	5 aa chargés à pH physiologique : méthionine, sérine (chargé - à pKa = ),
+* 8aa hydrophobes dont la proline qui bloque les changements de conformation.
+* à pH physiologique :
+   * 7 aa polaires non chargés dont 3 sont des alcools et la cystéine qui est capable de créer une liaison covalente avec une autre cystéine : glycine, valine, leucine, isoleucine, phénylalanine, tryptosine, t, proline, cystéine.
+   * 5 aa chargés à pH physiologique : méthionine, sérine (chargé - à pKa = ),
 	2 aa négatifs (de type acide) : acide aspartique (pKa = 3,9), acide glutamique (pKa = 4,1).
 	3 aa positifs (de type base) : arginine (pKa = 12,5), sérine (pKa = 10,5), histidine (pKa = 6).
 !!! note Les ponts cystéines ne sont pas facilité dans le cytosol qui est un milieu réducteur contrairement au réticulum endoplasmique.
 Structure 3D et fonction des protéines
+
 Le repliement des protéines se fait en plusieurs étapes :
-	Primaire est la chaîne et l’ordre des aa.
-	Secondaire formation de repliements locaux en hélices, feuillets ou coudes.
-	Tertiaire l’agement stable dans l’esapce. comme les protéines sont une suite d’aa apolaires et polaires, le milieu modifie la conformation de la protéine. Les régions apolaires qui sont hydrophobes vont se regrouper à l’intérieur de la protéine tandis celles polaires qui ont une affinité avec l’eau seront exposés vers l’extérieur. La protéine aura un cœur hydrophobe et des boucles polaires ou chargées.
-	Quaternaire certaines protéines sont composées de plusieurs chaînes peptidiques.
-!!! note La séquence d’AA est nécessaire et suffisante pour donner la forme de la protéine.
+1. Primaire est la chaîne et l’ordre des aa.
+2. Secondaire formation de repliements locaux en hélices, feuillets ou coudes.
+3. Tertiaire l’agancement stable dans l’esapce. comme les protéines sont une suite d’aa apolaires et polaires, le milieu modifie la conformation de la protéine. Les régions apolaires qui sont hydrophobes vont se regrouper à l’intérieur de la protéine tandis celles polaires qui ont une affinité avec l’eau seront exposés vers l’extérieur. La protéine aura un cœur hydrophobe et des boucles polaires ou chargées.
+4. Quaternaire certaines protéines sont composées de plusieurs chaînes peptidiques.
+!!! note
+   La séquence d’AA est nécessaire et suffisante pour donner la forme de la protéine.
 Stéréochimie
-!!! note Le carbone asymétrique des aa utilisé par le vivant sont de type L et non pas de type D car le type L est plus répandu.
+!!! note
+   Le carbone asymétrique des aa utilisé par le vivant sont de type L et non pas de type D car le type L est plus répandu.
 La création de la liaison peptidiques entre les acides aminés demande de l’énergie produite par hydrolyse du GDT : GDT→GDP+Pi.
 Structure secondaire
 Hélice alpha :
@@ -94,33 +110,35 @@ La longueur d’onde d’émission donne une information :
 Aa	Longueur d’onde d’exicitation (nm)	Longueur d’onde d’émission (nm)
 Tryptophane (W)	295	330 (apolaire) -> 360 (polaire)
 Tyrosine (Y)	280	300 (apolaire) -> 330 (polaire)
-W + Y	280	
-Pharmacothérapie étudie les interactions moléculaires
+W + Y	280
+	
+__Pharmacothérapie__ domaine d' étude les interactions moléculaires.
+
 La microcalorimétrie pour mesurer la l’enthalpie et les changements de capacité thermique lors des réactions :
 Deux techniques :
-	calorimètres à balayage différentiel Differential Scanning Calorimetry (DSC) structure et interactions specifique et non specifique
-	calorimétrie à titrage isotherme (ITC) caractériser des intéractions.
+* calorimètres à balayage différentiel Differential Scanning Calorimetry (DSC) structure et interactions specifique et non specifique
+* calorimétrie à titrage isotherme (ITC) caractériser des intéractions.
 ________________________________________
 Méthodes pour l’étude des protéines
 Trois grandes catégories de méthodes pour sélectionner les protéines à étudier :
-	Chromatographie
-	Gel-filtration
-	Électrophorèse
-Dénaturation perte de la conformation initiale d’une molécule biologique. Les protéines dénaturées perdent souvent leur fonction.
-Dialyse méthode de purification.
+* Chromatographie
+* Gel-filtration
+* Électrophorèse
+__Dénaturation__ perte de la conformation initiale d’une molécule biologique. Les protéines dénaturées perdent souvent leur fonction.
+__Dialyse__ méthode de purification.
 Dénaturation des protéines
 La dénaturation pour les protéines consiste notamment à briser les liaisons disulfures (cystéine).
 La dénaturation peut être effectuée en :
-	Modifiant le pH.
-	Augmentant la température.
+  * par modification du pH.
+  * par augmentation de la température.
 La modification du pH aura pour conséquence de modifier les charges des aa chargés mais pas celles du cœur apolaire de l’enzyme.
 Chromatographie
 Trois types de chromatographies :
-	Sur gel qui consiste à filtrer par la taille.
-	D’échange d’ions qui consiste à filtrer par la charge.
-	D’affinité qui consiste à filtrer par le substrat.
+* sur gel qui consiste à filtrer par la taille.
+* d’échange d’ions qui consiste à filtrer par la charge.
+* d’affinité qui consiste à filtrer par le substrat.
 #### La chromatographie sur gel (ou d’exclusion sur gel)
-On fait circuler la solution dans une colonne échangeuse contenant des billes poreuses. Les grosses molécules sortiront rapidement tandis que les plus petites mettront beaucoup plus de temps.
+On fait circuler la solution dans une colonne échangeuse contenant des billes poreuses. Les grosses molécules sortent rapidement tandis que les plus petites mettront beaucoup plus de temps.
 #### La chromatographie d’échange d’ions
 L’idée est de faire adhérer les protéines chargées aux billes puis de les détacher en modifiant le pH jusqu’à atteindre le point isoélectrique de la protéine étudiée.
 Les billes sont fabriquées en résine avec un groupement
@@ -132,7 +150,7 @@ Séparer les protéines en fonction de la
 Taille (dénaturée)	Charge (non dénaturée)
 Gel	Papier
 Chargé
-On dépose les protéines en ligne au milieu d’une feuille de papier et on applique un courant électrique sur les deux extrémités de la feuille. Les protéines se trouveront plus ou moins proche des bornes en fonction de leur charge.
+On dépose les protéines en ligne au milieu d’une feuille de papier et un courant électrique on applique un courant electrique sur les deux extrémités de la feuille. Les protéines se trouveront plus ou moins proche des bornes en fonction de leur charge.
 Borne chargée	Anode +	Cathode -
 Attire les protéines chargées	Anion (chargé -)	Cation (chargé +)
 Taille
@@ -151,7 +169,7 @@ On utilise notamment de l’acide chlorhydrique.
 A ajouter
 Certains codons sont priviligiés pour coder pour un aa. On retrouve ces préférences dans la fréquence de ARNt présent dans les cellules. avantage économique et augmente la efficacité et rapidité de la traduction.
 Cette information est a prendre en compte lorsque l’on cherche a exprimer dans un autre organisme en remplacant les codons peu favorisé par ce qui le sont.
-Généralement, les protéines sont synthétisé
+Généralement, les protéines sont synthétisées
 es peptides sont synthétisés par des synthétases massives organisées en chaînes de montage Des polypeptides assemblés sans que les ribosomes ne soient solicités??? Et oui, ça existe. Les peptides issus de la NRPS (non-ribosomal peptide synthesis) sont généralement assez courts, de deux à environ 50 acides aminés. Ces peptides ne sont pas codés par un gène, et ils ne sont pas limités aux vingt acides aminés de base. On y retrouve parfois des acides aminés de forme D, des variantes méthylées des acides habituels, des résidus hydroxylés ou glycosylés, des résidus jamais retrouvés dans les protéines, etc. Il arrive que la chaîne peptidique y soit cyclique, ou même branchée.
 Ces peptides sont synthétisés par des synthétases massives organisées en chaînes de montage; certaines sont des complexes multimériques, d’autres de grandes protéines. Ces enzymes sont modulaires et contiennent une série d’unités fonctionnelles qui peuvent lier un acide aminé libre, l’activer sous forme de thioester, et le coupler au polypeptide grandissant. Chaque module a une taille de 1000-1200 acides aminés, rendant certains de ces enzymes vraiment énormes: une unique protéine de 15 281 résidus (pour une masse de 1,7 MDal!!!) est responsable de la synthèse de la cyclosporine, un immunorépresseur qui ne contient que… 11 résidus!
 Biochimie des protéines, cours exceptionnels sur les protéines
