@@ -49,7 +49,43 @@ répulsion à très courte échelle : deux molécules ne peuvent pas occuper la 
 interaction répulsive entre monomères 
 
 
-2nd coefficient de Vivel mesure de la force des intéractions.
+2nd coefficient de Vivel mesure de la force des interactions.
+
+* $A_2 \gt 0$ répulsions des monomères, la chaîne prend plus de place. $R = a \cdot N^{3/5}$
+* $A_2 = 0$ pas d'interaction $R = a \cdot N^{0.5}$
+* $A_2 \lt 0$ attraction de Wan Der Waal domine $R = a \cdot N^{1/3}$
+
+La valeur $A_2$ dépend du solvant. Si $A_2 \lt 0$ alors mauvais solvant.
+
+!!! note
+    $A_2$  est déterminé par la diffusion de la lumière.
+
+halogène, filament de tangstène chauffe et se vaposise + réagit avec un gaz.
+
+Rayonnement radiatif $\DeltaR = h \cdot \frac{c}{\alpha}$ longueur d'onde précise = spectre étroit
+
+lampe actuelle poudre fluorescente fluophore excité par du mercure chauffé qui émet dans l'UV.
+
+LASER est composé de deux éléments :
+
+* un milieu amplificateur qui augmente le nombre de photons luminescence et intensité.
+* cavité.
+
+Même phase, même direction 
+
+le passage du photon déclenche une émission stimulé désexicitation provoquer par le passage du photon. Emission de deux photons.
+
+Pompage monté des électrons dans l'état excité.
+
+luminescence (puissance)
+
+#### Les sources optiques
+
+Le soleil est un corps noir càd qui absorbe toute la lumière. La température du soleil en surface est de 6000°C rayonnement thermique dans le visible.
+
+Rayonnement thermique
+
+#### Sources de lumière
 
 
 
@@ -105,7 +141,7 @@ Aromatique propice à la fluorescence dans le visible.
 1. Photoblanchir
 2. utilisé des molécules modifie résiste au photoblanchiment.
 
-Longueur dondes différentes + filtres d'absorption
+Longueur d'ondes différentes + filtres d'absorption
 
 excitation séparés dans le temps
 déconvolution spectrale retraitement du signal.
@@ -114,3 +150,6 @@ PSF Point Spread Function revenir sur l'objet à partir de la fonction de transf
 
 Courte focale coupe optique qui filtre par l'ouverture.
 
+
+
+diaframme permet de limiter l'intensité lumineuse. 
