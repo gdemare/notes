@@ -8,10 +8,30 @@ Indépendamment de leur poids, deux objets tombent à la même vitesse.
 
 $$E = m \cdot c^2$$
 
-L'énergie peut être transformé en masse càd en objets physiques.
+Avec :
+
+* $E$ l'énergie en $J$.
+* $m$ la masse en [kg].
+* $c$ vitesse de la lumière dans le vide $m^2 \cdot s^{-2}$.
+
+
+
+L'énergie peut être transformée en masse càd en objets physiques.
 
 !!! note
 	L'accélérateur de particules créer de nouvelles particules à partir de collisions à des vitesses très élevées.
+
+!!! note
+	Les photons n'ont pas de masse et transmettent pourtant une énergie.
+
+$E = W \cdot t$
+
+Avec :
+
+* $W$ la puissance (l'énergie par le temps) en $W$.
+* $t$ le temps en $s$.
+
+
 
 Le temps ne s'écoule pas de la même manière pour tout le monde càd qu'il n'est pas immuable.
 
