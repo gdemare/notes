@@ -62,7 +62,7 @@ La valeur $A_2$ dépend du solvant. Si $A_2 \lt 0$ alors mauvais solvant.
 
 halogène, filament de tangstène chauffe et se vaposise + réagit avec un gaz.
 
-Rayonnement radiatif $\DeltaR = h \cdot \frac{c}{\alpha}$ longueur d'onde précise = spectre étroit
+Rayonnement radiatif $\Delta R = h \cdot \frac{c}{\lambda}$ longueur d'onde précise = spectre étroit
 
 lampe actuelle poudre fluorescente fluophore excité par du mercure chauffé qui émet dans l'UV.
 
@@ -84,6 +84,168 @@ luminescence (puissance)
 Le soleil est un corps noir càd qui absorbe toute la lumière. La température du soleil en surface est de 6000°C rayonnement thermique dans le visible.
 
 Rayonnement thermique
+halogène filament de tangstène chaffé qui se vaporise et réagit avec un gaz.
+
+Rayonnement radiatif $\Delta E = h \cdot \frac{c}{\lambda}$
+
+lampe actuelle poudre fluorescente excité par du mercure chauffé qui émet des UV.
+
+## Laser
+milieu amplificateur augmente le nombre de photons (augmente l'intensité et la luminescence).
+cavité
+
+Même phase et même direction 
+Le passage du photon déclenche une désexictation qui émet alors un nouveau photons (on parle d'émission stimulé).
+
+Pompage monter des électrons à l'état excité.
+
+
+
+ciel atmosphère qui diffuse la lumière bleu car l'intensité diffusé plus importante.
+
+cristaux liquide ordre global exemple alignement selon un axe diffusion de la lumière va varier en fonction de la direction.
+
+plasma niveau d'énergie suffisant pour libérer les électrons, neutrons protons.
+
+supercritique condition de pression, température extrême, propriétés gaz et liquide
+
+vibration infrarouge
+
+photon paquet d'énergie sous forme de lumière.
+phonon paquet d'énergie de vibration.
+
+conducteur bande conduction facole à atteindre
+
+lumière = 
+
+- onde chalo électrique Maxwell.
+- particule
+
+2 composants indépendantes notamment au niveau des phases (déphasage) et d'amplitude et, perpendiculaires mais dépendant au niveau de la période.
+
+Lumière polarisé même axe de la lumière et du filtre.
+Polarisé avec un filtre permet de "voir" des organisations de la matière car la matière joue le rôle de polariseur.
+
+Refraction diffusion de la lumière dans toutes les directions (différente diffusion).
+
+Couleur de l'or reflexion après le vert argent aluminium 90% du spectre visible.
+
+transmission de la lumière dépend de la polarisation lunette polarisé qui étudie les reflets.
+
+biréfringent sert à séparer les deux de l'onde de réflaction. en fonction de comment on regarder la matériaux pas la même transmission en fonction de la polarisation.
+
+lame à retard pour changr les phases càd déphaser.
+
+Lorsque un raoyon travers une matériaux il diminue exponentiellement il dépend de la longueur d'onde.
+$\epsilon_{\alpha} = \Delta F _{diffusé} + \Delta F _{absorbé}$
+
+Diffusion par les molécules perte d'intensité qui décroit avec $\frac{1}{\lambda_4}$
+
+perte pour le bleu beaucoup importante que le rouge.
+
+Diffusion à la même longueur d'onde.
+
+Perte d'énergie avec la production de phonons.
+
+Bleu complétement dispersé au crépuscule
+diffusion des particules = déplacement.
+
+Rayons X rayon d'électrons. L'appareil qui émet des rayons X est un syntotron accélérateur circulaire
+
+
+10^{-10} par rapport à 10^{-9}
+
+diffusion la lumière si molècule << $\lambda$
+
+petite différence entre l'onde du rayon incident diffusion $\Vert \vec{k} \Vert = \vert \frac{2 \cdot \Pi}{\lambda} \vert$
+
+Détecteurs module de contage des électrons.
+neutrons diffuseur élémentaire noyau
+photon molécule
+électron couche électronique des atomes
+
+résolution spatiale $\frac{1}{q}$ correspond à l'échelle d'observation
+$q = \frac{4 \cdot \Pi}{\lambda} \cdot \sin{\frac{\Theta}{2}}$
+
+!!! note
+	Echelle d'observation des petites avec les électrons et les neutrons.
+
+!!! note
+	Plus $\Theta$ est petit et plus la fenêtre d'observation est grande.
+
+Pour la lumière dépend de $\lambda, $20nm \le \frac{1}{q} \le 300nm$ car pour les photons, on aura $\frac{4 \cdot \Pi}{\lambda} \cdot n \cdot \sin{\frac{\theta}{2}}$
+
+Si le temp varie avec $q^2$ alors nous sommes en présence d'une molécule bi
+
+### Méthode de spectrocoscopie
+
+corrélation $<I_0>$ et $< I >$ corrélation de fluorescence. $g(w, t)$ fonction de corrélation.
+
+Volume de focalisation dépend du microscope généralement est de $0.2\mu m$ 
+
+$\frac{\lambda}{2 \cdot ON}$ fréquecne maximale (ou fréquence de coupure) après la décomposition de ka tâche de Airy avec la décomposition de Fourrier
+
+Théorème de Shannon
+
+$2f \lt f_e$ fréquence d'échantillionnage 
+La fréquence d'échantillionnage doit être supérieure à 2 fois la fréquence maximale pour conserver toute l'information. Cela revient à garder 3 points par période.
+
+Enregistrer une image il faut doubler la résolution de l'appareil
+
+$FFT$ Transformation de Fourrier spécificité des cartes graphiques
+
+!!! note
+	Dans la peinture, la représentation des étoiles avec des formes de croix est probablement dû à l'astigmatie.
+
+
+__pixel__ _picture element_.
+__resel__ resolution de l'élément.
+
+!!! note
+	Calculer la résolution nécessaire à chaque étape du système.
+
+__Photométrie__ mesure du nombre de photons.
+
+Energie d'un photon $E_{photon} = h \cdot \nu = h \cdot \frac{c}{\lambda _0}$
+
+__Lumens__ unité de mesure du flux photonique dans le visible.
+
+__Isotrope__ characterise un phénome qui va dans toutes les directions. 
+
+!!! note
+	La découpe des angles en degré ($360°$) car un degré correspond approximativement au déplacement du soleil dans le ciel. Le révolution soleil fait une révolution en 364 jours.
+
+### Calcul du flux visuel
+
+
+* $4 \cdot \Pi \cdot r^2$ surface d'une sphère.
+* $\Pi \cdot r \cdot r'$ surface d'une ellipse.
+
+$\frac{\Pi}{2}$ pour chaque unité de surface.
+
+Symétrie de révolution $\Omega = \Pi \cdot \sin^2{\alpha}$
+
+L'intensité d'un flux se définie comme un flux avec une énergie par temps avec une direction $J \cdot s^-1 \cdot sr^-1$
+
+La luminance c'est l'intensité de flux par unité de surface $L(x,y,z,\theta,\psi) = \frac{dI}{dS \cdot d\Omega}$ en $W \cdot sr^{-1} \cdot m^2$ 
+
+Etendue géométrique $G = S \cdot \Omega$
+avec :
+- $S$ la surface en $m^2$
+
+__alédo__ facteur de réflexion càd de la lumière diffusée $\rho = [0;1]$
+!!! note
+	Lorsque la surface absorbe toutes les photons $\rho = 1$
+	
+
+
+#### Calcul de l'angle solide
+
+L'angle solide se définie comme $\Omega = \frac{S}{d^2}$ en $sr$ (stéradian) avec 
+
+* $S$ la surface en $m^2$.
+* $d$ la distance en $m$.
+
 
 #### Sources de lumière
 
@@ -152,4 +314,15 @@ Courte focale coupe optique qui filtre par l'ouverture.
 
 
 
-diaframme permet de limiter l'intensité lumineuse. 
+diaframme permet de limiter l'intensité lumineuse. Une diminution de l'ouverture du diaframme permet de diminuer la résolution et d'augmenter la profondeur de champ car les angles utilisés sont plus petits (condition de Gauss).
+
+
+Tache d'Airy est un phénomène lié à la diffraction. est un étalement angulaire lorsque la fente à une taille proche de celle de l'objet. 
+
+$\sin{\theta} = \frac{\alpha}{a}$ avec $a$ la taille de la fente.
+
+$r = \frac{\alpha}{2 \cdot ON}$ résolution
+
+$ON = n \cdot \sin{\theta}$
+
+
