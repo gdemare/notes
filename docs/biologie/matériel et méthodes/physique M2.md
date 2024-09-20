@@ -152,10 +152,9 @@ diffusion des particules = déplacement.
 
 Rayons X rayon d'électrons. L'appareil qui émet des rayons X est un syntotron accélérateur circulaire
 
+$10^{-10}$ par rapport à $10^{-9}$
 
-10^{-10} par rapport à 10^{-9}
-
-diffusion la lumière si molècule << $\lambda$
+diffusion la lumière si molécule << $\lambda$
 
 petite différence entre l'onde du rayon incident diffusion $\Vert \vec{k} \Vert = \vert \frac{2 \cdot \Pi}{\lambda} \vert$
 
@@ -197,9 +196,14 @@ $FFT$ Transformation de Fourrier spécificité des cartes graphiques
 !!! note
 	Dans la peinture, la représentation des étoiles avec des formes de croix est probablement dû à l'astigmatie.
 
-
 __pixel__ _picture element_.
-__resel__ resolution de l'élément.
+__resel__ resolution par élément.
+
+!!! note
+	On détermine résolution par resel a partir du nombre de Shannon.
+
+!!! warning
+	Pour une image qui sont en $2D$ il faut bien penser à $2 \times 2$. 
 
 !!! note
 	Calculer la résolution nécessaire à chaque étape du système.
@@ -218,26 +222,15 @@ __Isotrope__ characterise un phénome qui va dans toutes les directions.
 ### Calcul du flux visuel
 
 
+$F = L \cdot \Omega \cdot S = L \cdot G$
+
+Rappel :
+
 * $4 \cdot \Pi \cdot r^2$ surface d'une sphère.
 * $\Pi \cdot r \cdot r'$ surface d'une ellipse.
+* $\frac{\Pi}{4} \cdot d$ surface d'un cercle.
 
 $\frac{\Pi}{2}$ pour chaque unité de surface.
-
-Symétrie de révolution $\Omega = \Pi \cdot \sin^2{\alpha}$
-
-L'intensité d'un flux se définie comme un flux avec une énergie par temps avec une direction $J \cdot s^-1 \cdot sr^-1$
-
-La luminance c'est l'intensité de flux par unité de surface $L(x,y,z,\theta,\psi) = \frac{dI}{dS \cdot d\Omega}$ en $W \cdot sr^{-1} \cdot m^2$ 
-
-Etendue géométrique $G = S \cdot \Omega$
-avec :
-- $S$ la surface en $m^2$
-
-__alédo__ facteur de réflexion càd de la lumière diffusée $\rho = [0;1]$
-!!! note
-	Lorsque la surface absorbe toutes les photons $\rho = 1$
-	
-
 
 #### Calcul de l'angle solide
 
@@ -246,8 +239,41 @@ L'angle solide se définie comme $\Omega = \frac{S}{d^2}$ en $sr$ (stéradian) a
 * $S$ la surface en $m^2$.
 * $d$ la distance en $m$.
 
+Symétrie de révolution $\Omega = \Pi \cdot \sin^2{\alpha}$ en $sr$.
 
-#### Sources de lumière
+$\Omega_1 = \frac{S_1}{d^2} \cdot \cos{\Omega}$
+
+$ON = n \cdot \sin{\alpha}$
+
+$\Omega_1 = \pi \cdot (\frac{ON}{n})^2$
+
+!!! warning
+	Dépend du référentiel choisi, source ou receveur.
+#### Etendu géométrique
+
+Etendue géométrique $G = S_2 \cdot \Omega_1 = S_1 \cdot \Omega_2$ avec :
+
+- $S$ la surface en $m^2$.
+
+!!! note 
+	L'étendue géométrique est la même entre les 2 à cause de l'angle solide.
+
+Element de résolution  $G = (\frac{\lambda}{2 \cdot ON})^2 \cdot \Pi \cdot ON^2 = \frac{\Pi}{4} \cdot \lambda ^2$
+#### Luminance et intensité du flux
+
+L'intensité d'un flux se définie comme un flux avec une énergie par temps avec une direction $J \cdot s^-1 \cdot sr^-1$
+
+La luminance c'est l'intensité de flux par unité de surface $L(x,y,z,\theta,\psi) = \frac{dI}{dS \cdot d\Omega}$ en $W \cdot sr^{-1} \cdot m^2$.
+
+$L = \frac{\rho \cdot E}{\Pi}$ en $W \cdot m^{-2} \cdot sr^{-1}$
+#### Diffusion de la lumière
+
+__albédo__ facteur de réflexion càd de la lumière diffusée $\rho = [0;1]$
+!!! note
+	Lorsque la surface absorbe toutes les photons $\rho = 1$
+
+
+Efficacité quantique nombre d'électrons arraché par photon.
 
 
 
