@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d71f249bebf88c40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan diaporama sujet alternance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "031eeb3483bdd80a",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie/matériel et méthodes/physique M2.md",
+                "file": "Plan diaporama sujet alternance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologie/matériel et méthodes/physique M2.md",
+                "file": "Plan diaporama sujet alternance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologie/matériel et méthodes/physique M2.md"
+                "file": "Plan diaporama sujet alternance.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e899eaed5bfcd13e",
+  "active": "d71f249bebf88c40",
   "lastOpenFiles": [
-    "biologie/matériel et méthodes/ordres de grandeur.md",
     "biologie/matériel et méthodes/physique M2.md",
+    "Plan diaporama sujet alternance.md",
+    "biologie/matériel et méthodes/ordres de grandeur.md",
     "biologie/évolution/évolution des génomes.md",
     "biologie/matériel et méthodes/méthodes/Spectromètre de Masse.md",
     "informatique/markdown.md",
@@ -174,7 +188,6 @@
     "biologie/matériel et méthodes/méthodes/blot.md",
     "biologie/matériel et méthodes",
     "biologie/matériel et méthodes/méthodes/chromatographie.md",
-    "biologie/matériel et méthodes/méthodes/dénaturation.md",
     "biologie/eucaryote",
     "biologie/biochimie/biochimie",
     "biologie/biochimie/acides nuclétiques"
