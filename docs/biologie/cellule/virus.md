@@ -1,9 +1,8 @@
-Les Virus sont une forme rudimentaires de cellules incapable de produire et de réaliser des activités métaboliques seul. Ils ont besoins de détourner une cellule pour se répliquer. Un virus isolé est inerte.
+Les Virus sont une forme rudimentaires de cellules incapables de produire et de réaliser des activités métaboliques seul. Ils ont besoins de détourner une cellule pour se répliquer. Un virus isolé est inerte.
 
 Les virus seraient apparus après les cellules. Ils seraient issus de la combinaison fortuite de débris cellulaires.
 
 C'est par l'intermédiaire des virus que d'importantes découvertes ont été faites sur la compréhension des mécanismes moléculaires et sur la synthèse des protéines.
-
 ## Physiologie des Virus
 
 Les Virus sont généralement constitués d'une ou plusieurs séquences d'acides nucléiques (ARN ou ADN) entourées d'une coque protéine et parfois recouverte d'une membrane.

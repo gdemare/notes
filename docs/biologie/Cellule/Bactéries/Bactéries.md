@@ -1,15 +1,8 @@
+[[ordres de grandeur]]
 __Microorganisme__ (microbe) organisme invisible à l'œil nu qui peut être observé au microscope.
 
 __Agent infectieux__ organisme capable d'engendrer des lésions ou des maladies.
 
-Ordre de taille des cellules :
-
-Régne         | Taille
---------------|--------
-Virus         | 0,1µm
-Bactérie      | 1µm
-cell animale  | 10µm
-cell végétale | 100µm
 ## Les Bactéries et les procaryotes
 
 Les procaryotes sont presque tous des organismes unicellulaires qui mesurent en moyenne entre 0,5 et 5um (contre 10 à 100um pour les Eucaryotes).

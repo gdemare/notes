@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/matériel et méthodes/physique M2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d71f249bebf88c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan diaporama sujet alternance.md",
+                "file": "biologie/évolution/évolution des génomes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan diaporama sujet alternance.md",
+                "file": "biologie/évolution/évolution des génomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan diaporama sujet alternance.md",
+                "file": "biologie/évolution/évolution des génomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan diaporama sujet alternance.md"
+                "file": "biologie/évolution/évolution des génomes.md"
               }
             }
           }
@@ -159,11 +146,24 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "d71f249bebf88c40",
+  "active": "e899eaed5bfcd13e",
   "lastOpenFiles": [
-    "biologie/matériel et méthodes/physique M2.md",
-    "Plan diaporama sujet alternance.md",
+    "biologie/eucaryote/plante/cellule végétale/cellule végétale.md",
+    "biologie/eucaryote/plante/cellule végétale/paroi.md",
+    "biologie/eucaryote/plante/cellule végétale/plastes.md",
+    "biologie/eucaryote/plante/cellule végétale/vacuole.md",
+    "biologie/eucaryote/physiologie animale/circulation et échanges gazeux.md",
+    "biologie/eucaryote/physiologie animale/Système urinaire/reins.md",
+    "biologie/eucaryote/physiologie animale/comportement.md",
+    "biologie/eucaryote/physiologie animale/muscle.md",
+    "biologie/eucaryote/physiologie animale/physiologie.md",
+    "biologie/eucaryote/physiologie animale/osmorégulation et excrétion.md",
+    "biologie/cellule/virus.md",
     "biologie/matériel et méthodes/ordres de grandeur.md",
+    "biologie/cellule/bactéries/Bactéries.md",
+    "index.md",
+    "Plan diaporama sujet alternance.md",
+    "biologie/matériel et méthodes/physique M2.md",
     "biologie/évolution/évolution des génomes.md",
     "biologie/matériel et méthodes/méthodes/Spectromètre de Masse.md",
     "informatique/markdown.md",
@@ -174,20 +174,7 @@
     "physique chimie/unités.md",
     "physique chimie/physique classique.md",
     "physique chimie/physique/optique.md",
-    "politique/Pesticides.md",
-    "biologie/biochimie/protéines/Protéines.md",
-    "physique chimie/physique/physique.md",
-    "mathématique/mathématique.md",
-    "mathématique/géometrie.md",
-    "biologie/matériel et méthodes/méthodes et techniques/microscopie.md",
-    "data science/à voir.md",
-    "biologie/structure fonctions et principes.md",
-    "biologie/évolution/théorie du gène égoïste.md",
-    "biologie/évolution/théorie de l évolution.md",
-    "biologie/évolution/génétique mendélienne.md",
-    "biologie/matériel et méthodes/méthodes/blot.md",
     "biologie/matériel et méthodes",
-    "biologie/matériel et méthodes/méthodes/chromatographie.md",
     "biologie/eucaryote",
     "biologie/biochimie/biochimie",
     "biologie/biochimie/acides nuclétiques"

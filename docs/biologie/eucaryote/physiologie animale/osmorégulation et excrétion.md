@@ -179,7 +179,7 @@ nombreuses façons qui a émergé et a été sélectionné au cours de
 l'évolution par la sélection naturelle pour traiter les déchets
 métaboliques et assurer le maintien du milieu interne.
 
-Le [[Reins]]
+Le [[reins]]
 
 Hyper-osomotique dépend de la disposition des tubules
 

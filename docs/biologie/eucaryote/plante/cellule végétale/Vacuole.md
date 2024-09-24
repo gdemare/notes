@@ -1,4 +1,4 @@
-[[cellule_végétale]]
+[[cellule végétale]]
 # La vacuole
 
 La vacuole sert à :

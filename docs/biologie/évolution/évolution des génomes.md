@@ -11,12 +11,11 @@ Le séquençage de l'ADN est réalisé par :
 
 La taille moyenne des génomes en Mb (million paires de bases) entre :
 
-Régne       | Nombre de Mb      | Nb de gènes
-------------|-------------------|----
-Bactérie    | 1 et 6            | 1 500 et 7 500
-Eucaryote   | 12 000 et 670 000 | 5 000 et 40 000
-Homme       | 3 000             | 21 000
-
+| Régne     | Nombre de Mb      | Nb de gènes     | Nb de protéines |
+| --------- | ----------------- | --------------- | --------------- |
+| Bactérie  | 1 et 6            | 1 500 et 7 500  |                 |
+| Eucaryote | 12 000 et 670 000 | 5 000 et 40 000 |                 |
+| Homme     | 3 000             | 21 000          | 23 000          |
 !!! note
     Le nombre de gènes ne suffit pas à expliquer la complexité d'un organisme.
 
@@ -44,7 +43,6 @@ __Pseudo gène__ ancien gène devenu non fonctionnelle à la suite de l'accumula
 Chez les plantes, les éléments mobiles peuvent représenter Jusqu'à 75% du génome.
 
 __Élément génétique__ transposable portions d'ADN capable de se déplacer.
-
 ## Les séquences apparentées aux éléments transposables
 
 Les séquences apparentées aux éléments transposables comprennent :
@@ -69,7 +67,6 @@ Les transposons peuvent réaliser deux types de couper/coller ou la duplication.
 L'enzyme qui réalise la transposition est appelée transporase. Les éléments génétiques transposables sont déplacés au cours d'un processus appelé transposition. Le site d'origine est rapproché de celui de destination par des enzymes. L'ADN est ensuite découpé et rattaché sans jamais être séparé complétement des brins.
 
 On estime qu'environ 17% du génome est issu d'un type de transposons nommé L1 qui a une vitesse de transposition faible. L1 contient une séquence qui empêchent l'ARN polymérase de progresser.
-
 ### Les rétrotransposons
 
 Les rétrotransposons ne peuvent réaliser que des duplications. L'ADN est transcrit en ARN retranscrit en ADN par une enzyme avant d'être inséré dans le génome.
@@ -94,7 +91,6 @@ Plusieurs hypothèses suggèrent que les séquences d'ADN simples répétitives 
 
 * Les télomères qui sont les extrémités des chromosomes sont reconnus par des enzymes qui viennent s'y fixer pour prévenir des fusion entre les chromosomes.
 * Les centromères forment la région de contact et répartition de chromatides un rôle important dans l'interphase et la
-
 # Les gènes et les séquences apparentées
 
 Les gènes et les séquences apparentées forment environ 25% du génome et sont constituées des :
@@ -145,7 +141,6 @@ Le mélange d'exons lors du brassage méiotique pourrait avoir contribué à l'a
 Il ne faut pas oublier que pour que la mutation soit héritable il faut qu'elle se produise dans les gamètes.
 
 La plupart des modifications ont des effets nuisibles mais si certaines avantageuses surviennent, elles se transmettront à la génération suivante.
-
 ## Études des différences génomique
 
 L'étude des différences et des gènes semblables renseigne sur la parenté entre les êtres vivants.

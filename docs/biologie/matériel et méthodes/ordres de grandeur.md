@@ -1,10 +1,10 @@
-Ordre de grandeurs des cellules
+| Type de cellules                  | Taille en μm ($10^{-6}m$) |
+| --------------------------------- | ------------------------- |
+| [[cellule végétale]]              | 100                       |
+| Animale                           | 10                        |
+| [[noyau]]                         | 5                         |
+| [[Bactéries]]                     | 1                         |
+| [[virus]]                         | 0,25                      |
+| Microtubules du [[cytosquelette]] | 0,024                     |
 
-| Type de cellules | Taille en μm ($10^{-6}m$) |
-| ---------------- | ------------------------- |
-| Végétale         | 100                       |
-| Animale          | 10                        |
-| Bactérienne      | 1                         |
-| Virus            | 0,25                      |
-| Noyau            | 5                         |
-| Microtubule      | 0,024                     |
+

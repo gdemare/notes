@@ -1,5 +1,4 @@
-[[cellule_végétale]]
-
+[[cellule végétale]]
 # Les plastes
 
 ## Structure du chloroplaste

@@ -1,6 +1,5 @@
-## Les reins
 
-[[osmorégulation et excrétion]]
+Les reins sont les organes impliqués dans l'[[osmorégulation et excrétion]].
 # Le maintien du milieu interne
 
 La régulation se fait autour d'une valeur de référence qui peut varier au cours du temps. Des récepteurs permettent à l'organisme de mesurer la valeur de la variable. En cas de dépassement de l'intervalle, l'organisme peut alors déclencher des mécanismes de rétro inhibition. La diversité des environnements dans lesquels vivent les organismes à adaptation des réponses qu'imposent les différents environnements.
@@ -22,7 +21,6 @@ Le système urinaire est composé de :
 * Deux uretères qui sont les canaux qui acheminent l'urine à la vessie.
 * D'une vessie. Le lieu de stockage de l'urine.
 * D'un urètre. Le canal excréteur qui permet le rejet de l'urine de la vessie vers l'extérieur de l'organisme.
-
 ### Les déchets azotés
 
 L'urine doit son nom à sa composition : l'urée. L'activité métabolique (de synthèse et de dégradation des molécules) conduit à la formation d'ammoniac $NH_3$, une molécule toxique pour l'organisme. Il perturbe la production d'ATP en inhibant la phosphorylation oxydative. En tant que déchet métabolique, l'organisme doit éviter son accumulation dans l'organisme.
@@ -35,7 +33,6 @@ L'urée est :
 
 * Faible toxicité.
 * Peut-être plus concentrée c'est à dire qu'il nécessite moins d'eau pour être excrété. Cela constitue un avantage important pour les espèces terrestres dont l'accès à l'eau est limité (en moyenne 10x moins).
-
 ## Les reins
 
 Les reins sont le lieu de la filtration du sang. Ils ont pour principales fonctions :
@@ -45,7 +42,6 @@ Les reins sont le lieu de la filtration du sang. Ils ont pour principales foncti
 
 L'unité fonctionnelle du rein est appelée néphron. Chacun rein en
 contient plusieurs milliers.
-
 ### Le néphron
 
 Le néphron permet la filtration du sang. Le sang arrive par une artère et est distribué dans des capillaires avec un structure particulière.

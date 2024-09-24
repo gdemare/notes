@@ -26,7 +26,7 @@ Les organes qui permettent l'homéostasie du corps :
 
 | Organes          | Rôles de régulation        |
 | ---------------- | -------------------------- |
-| [[Reins]]        | Eau et sels minéraux       |
+| [[reins]]        | Eau et sels minéraux       |
 | Peau             | Température                |
 | Foie et pancréas | Glycémie (glucose)         |
 | Poumon           | Pression partielle des gaz |
