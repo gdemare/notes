@@ -211,13 +211,13 @@ Le risque d'erreur augmente avec le nombre de test. Le risque de faire une erreu
 deux approches :
 
 * Controle le risque alpha global de se tromper au moins une fois ; on l’appelle le “Family-wise error rate” (FEWR) en anglais
-* Controler le risque alpha global de se tromper au moins une fois, mais en ne considérant que les tests qui ont rejetté H0 ; On l’apelle le “False discovery rate” (FDR) en anglais.
+* Controler le risque alpha global de se tromper au moins une fois, mais en ne considérant que les tests qui ont rejetté $H_0$ ; On l’apelle le “False discovery rate” (FDR) en anglais.
 
 L'idée serait de modifier les p-valeurs pour que le risque global chute à 0.05% mais les modification dépendent du nombre de tests.
 Ajuster les p-valeur en les augmentant.
 
 Family wise error rate 
 
-* méthode Bonferroni corrige toutes les p valeurs en une fois. est trop restrictive 
+* méthode Bonferroni corrige toutes les p valeurs en une fois. est trop restrictive.
 * méthode d’Holm qui corrige de façon séquentielle chaque p valeur.
 
