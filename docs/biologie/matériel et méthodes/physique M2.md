@@ -165,6 +165,9 @@ photon molécule
 
 résolution spatiale $\frac{1}{q}$ correspond à l'échelle d'observation
 $q = \frac{4 \cdot \Pi}{\lambda} \cdot \sin{\frac{\Theta}{2}}$
+$R = \frac{\lambda \cdot f}{D}$ avec
+
+* $D$ le diamètre de l'objectif. 
 
 !!! note
 	Echelle d'observation des petites avec les électrons et les neutrons.
@@ -351,4 +354,4 @@ $r = \frac{\alpha}{2 \cdot ON}$ résolution
 
 $ON = n \cdot \sin{\theta}$
 
-
+microscopte confocal petite limite la diffusion et spining disk plusieurs trous à la fois.
