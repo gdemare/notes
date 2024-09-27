@@ -204,20 +204,20 @@ Le test Kolmogorov-Smirnov est un test qui compare la fonction de répartition. 
 * de comparer la distribution d'un échantillon avec celui d'une loi statistique.
 ### Correction
 
-Lorsque plusieurs tests sont réalisés, il faut utiliser une correction l'erreur lié à la multication des erreurs. Les p valeur sont relevées pour éviter de se tromper lorsqu'il a de nombreux tests.
+Lorsque plusieurs tests sont réalisés, il faut utiliser une correction l'erreur liée à la multication des erreurs. Les p valeur sont relevées pour éviter de se tromper lorsqu'il a de nombreux tests.
 
-Le risque d'erreur augmente avec le nombre de test. Le risque de faire une erreur est alors de  $1-\sum{1-\alpha}^n$. le risque de se tromper dans le test est alors de 26% de risque de se tromper au moins une fois.
+Le risque d'erreur augmente avec le nombre de tests. Le risque de faire une erreur est alors de  $1-\sum{1-\alpha}^n$. Le risque de se tromper dans le test est alors de 26% de risque de se tromper au moins une fois.
 
-deux approches :
+Deux approches :
 
-* Controle le risque alpha global de se tromper au moins une fois ; on l’appelle le “Family-wise error rate” (FEWR) en anglais
+* Controle le risque alpha global de se tromper au moins une fois ; on l’appelle le “Family-wise error rate” (FEWR) en anglais.
 * Controler le risque alpha global de se tromper au moins une fois, mais en ne considérant que les tests qui ont rejetté $H_0$ ; On l’apelle le “False discovery rate” (FDR) en anglais.
 
 L'idée serait de modifier les p-valeurs pour que le risque global chute à 0.05% mais les modification dépendent du nombre de tests.
 Ajuster les p-valeur en les augmentant.
 
-Family wise error rate 
+Family wise error rate :
 
-* méthode Bonferroni corrige toutes les p valeurs en une fois. est trop restrictive.
+* méthode Bonferroni corrige toutes les p valeurs en une fois (méhtode très restrictive).
 * méthode d’Holm qui corrige de façon séquentielle chaque p valeur.
 
