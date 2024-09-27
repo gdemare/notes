@@ -87,7 +87,7 @@ Les tests statistiques servent à vérifier si les données obtenues sont comp
 | Choix/Réalité | $H_0$        | $H_1$    |
 | ------------- | ------------ | -------- |
 | $H_0$         | $1 − \alpha$ | $\alpha$ |
-|  $H_1$        | $\beta$      | $1 - \beta$ (appelé puissance du test)
+| $H_1$        	| $\beta$      | $1 - \beta$ (appelé puissance du test) |
 Interprétation : Au risque $\alpha$ est accepté $H_1$ alors que c'est faux. Cela correspond au rejet à tort de l'hypothèse nulle.
 
 !!! note
