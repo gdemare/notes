@@ -39,6 +39,7 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 | H0         | Condition | Test                          |
 | ---------- | --------- | ----------------------------- |
 | Moyenne    | 4         | student (appelé aussi test t) |
+| Médiane    |           | Wilcoxon 			 |
 | Proportion |           | Khi2                          |
 | Variance   |           | Khi2                          |
 ## Paramètre de plusieurs échantillons
