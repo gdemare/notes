@@ -180,7 +180,7 @@ Degré de liberté : ${(modalité}_{ligne} - 1)({modalité}_{colonne} - 1)$
 Il faut faire :
 
 1. Tableau de contingence (appelé aussi effectif).
-2. Tableau des effectifs théoriques : $p\left( A \middle| B \right)*p\left( B \middle| A \right)*eff\ tot$ ou directement $\frac{N_{ligne\ total} \times N_{colonne\ total}}{N_{total}}$.
+2. Tableau des effectifs théoriques : $p\left( A \middle| B \right) \cdot p\left( B \middle| A \right) \cdot eff\ tot$ ou directement $\frac{N_{ligne\ total} \times N_{colonne\ total}}{N_{total}}$.
 3. Calcul du khi2 théorique pour chaque croissement de modalité : $\frac{{(n}_{obs} - n_{theo})²}{n_{theo}}$.
 4. Somme des valeurs pour chaque modalité et calcul de la statistique :
     1. LOI.KHIDEUX.INVERSE.DROITE(proba; degré de liberté)
