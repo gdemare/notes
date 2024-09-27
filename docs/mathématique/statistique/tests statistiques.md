@@ -183,7 +183,7 @@ Il faut faire :
 
 1. Tableau de contingence (appelé aussi effectif).
 2. Tableau des effectifs théoriques : $p\left( A \middle| B \right) \cdot p\left( B \middle| A \right) \cdot eff\ tot$ ou directement $\frac{N_{ligne\ total} \times N_{colonne\ total}}{N_{total}}$.
-3. Calcul du khi2 théorique pour chaque croissement de modalité : $\frac{{(n}_{obs} - n_{theo})²}{n_{theo}}$.
+3. Calcul du khi2 théorique pour chaque croissement de modalité : $\frac{{(n}_{obs} - n_{theo})^2}{n_{theo}}$.
 4. Somme des valeurs pour chaque modalité et calcul de la statistique :
     1. LOI.KHIDEUX.INVERSE.DROITE(proba; degré de liberté)
     2. P-value : LOI.KHIDEUX.DROITE(valeur; degré de liberté)
@@ -206,7 +206,10 @@ Le test Kolmogorov-Smirnov est un test qui compare la fonction de répartition. 
 
 Lorsque plusieurs tests sont réalisés, il faut utiliser une correction l'erreur liée à la multication des erreurs. Les p valeur sont relevées pour éviter de se tromper lorsqu'il a de nombreux tests.
 
-Le risque d'erreur augmente avec le nombre de tests. Le risque de faire une erreur est alors de  $1-\sum{1-\alpha}^n$. Le risque de se tromper dans le test est alors de 26% de risque de se tromper au moins une fois.
+Le risque d'erreur augmente avec le nombre de tests. Le risque de faire une erreur est alors de  $1-\prod{1-\alpha}$. 
+
+!!! example
+	Le risque de se tromper pour 4 tests est de $1-(1-0,05)^6 = 26%$ de risque de se tromper au moins une fois.
 
 Deux approches :
 
