@@ -26,6 +26,7 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 
 !!! note
 		Il est possible d'estimer la p-valeur d'un test en générant un grand nombre (au moins 1000) d'expériences aléatoires.
+  
 ## Une distribution
 
 |  H0                        | Test		|
