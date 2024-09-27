@@ -28,11 +28,11 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 		Il est possible d'estimer la p-valeur d'un test en générant un grand nombre (au moins 1000) d'expériences aléatoires.
 ## Une distribution
 
-H0                        | Test
---------------------------|---------------------
-Normalité                 | Shapiro-Wilk
-Pas de valeurs extrêmes   | Dixon
-Pas de valeurs extrêmes   | Grubbs
+|  H0                        | Test		|
+|--------------------------|--------------------|
+| Normalité                 | Shapiro-Wilk	|
+| Pas de valeurs extrêmes   | Dixon		|
+| Pas de valeurs extrêmes   | Grubbs		|
 ## Un échantillon et une valeur théorique
 
 | H0         | Condition | Test                          |
@@ -69,10 +69,10 @@ h0 : indépendance des deux variables
 | -------- | ----------- | --------- | -------- |
 | Linéaire | 2 var quant |           | Pearson  |
 | Rang     | 2 var quant | 3,4       | Spearman |
-            | 2 var quali                   | 1,5       | d’association du Khi2
-            | 2 var quali                   |           | exact de Fisher
-            | 2 var quali                   |           | Méthode de Monte Carlo
-            | 1 var quali et 1 var quanti   |           | ANOVA
+|            | 2 var quali                   | 1,5       | d’association du Khi2
+|            | 2 var quali                   |           | exact de Fisher
+|            | 2 var quali                   |           | Méthode de Monte Carlo
+|            | 1 var quali et 1 var quanti   |           | ANOVA
 
 ## Cours tests statistiques et interprétation
 
