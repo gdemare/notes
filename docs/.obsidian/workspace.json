@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/évolution/évolution des génomes.md",
+                "file": "mathématique/statistique/tests statistiques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfa5b2380a0d7c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes non ajoutées.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 280.5
   },
   "right": {
     "id": "031eeb3483bdd80a",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie/évolution/évolution des génomes.md",
+                "file": "notes non ajoutées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologie/évolution/évolution des génomes.md",
+                "file": "notes non ajoutées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologie/évolution/évolution des génomes.md"
+                "file": "notes non ajoutées.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e899eaed5bfcd13e",
+  "active": "dfa5b2380a0d7c24",
   "lastOpenFiles": [
+    "mathématique/statistique/tests statistiques.md",
+    "notes non ajoutées.md",
+    "biologie/évolution/évolution des génomes.md",
     "biologie/eucaryote/plante/cellule végétale/cellule végétale.md",
     "biologie/eucaryote/plante/cellule végétale/paroi.md",
     "biologie/eucaryote/plante/cellule végétale/plastes.md",
@@ -164,16 +180,13 @@
     "index.md",
     "Plan diaporama sujet alternance.md",
     "biologie/matériel et méthodes/physique M2.md",
-    "biologie/évolution/évolution des génomes.md",
     "biologie/matériel et méthodes/méthodes/Spectromètre de Masse.md",
     "informatique/markdown.md",
-    "mathématique/statistique/tests statistiques.md",
     "mathématique/statistique/probabilité et statistique.md",
     "mathématique/statistique/probabilité.md",
     "mathématique/arithmétique.md",
     "physique chimie/unités.md",
     "physique chimie/physique classique.md",
-    "physique chimie/physique/optique.md",
     "biologie/matériel et méthodes",
     "biologie/eucaryote",
     "biologie/biochimie/biochimie",

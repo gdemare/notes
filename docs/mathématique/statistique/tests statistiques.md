@@ -2,7 +2,6 @@ Notation :
 
 * Moyenne $X$ barre ou $m$ , $\nu$ théorique
 * écart type $s$, $\sigma$ théorique
-
 ## Résumé des tests
 
 Calcul de p-value directement en ligne [BiostaTGV](https://biostatgv.sentiweb.fr/?module=tests)
@@ -25,6 +24,8 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 * **(4)** normalité.
 * **(5)** effectifs théoriques $\gt 5$.
 
+!!! note
+		Il est possible d'estimer la p-valeur d'un test en générant un grand nombre (au moins 1000) d'expériences aléatoires.
 ## Une distribution
 
 H0                        | Test
@@ -32,15 +33,13 @@ H0                        | Test
 Normalité                 | Shapiro-Wilk
 Pas de valeurs extrêmes   | Dixon
 Pas de valeurs extrêmes   | Grubbs
-
 ## Un échantillon et une valeur théorique
 
-H0          | Condition | Test
-------------|-----------|------------------
-Moyenne     | 4         | student (appelé aussi test t)
-Proportion  |           | Khi2
-Variance    |           | Khi2
-
+| H0         | Condition | Test                          |
+| ---------- | --------- | ----------------------------- |
+| Moyenne    | 4         | student (appelé aussi test t) |
+| Proportion |           | Khi2                          |
+| Variance   |           | Khi2                          |
 ## Paramètre de plusieurs échantillons
 
 H0                      | Taille    | Condition     | Test
@@ -53,24 +52,23 @@ Egalité des proportions | k         | 4             | Khi2
 Egalité des variances   | 2         |               | Fisher
 _____________________   | k         | 4             | Bartlett
 _____________________   | k         |               | Test de Levene
-
 ## Deux distributions
 
-H0                                                | Condition   | Test
---------------------------------------------------|-------------|-----------------------
-Même distribution entre une loi et un échantillon |             | Kolmogorov-Smirnov
-__________________                                | 1,2,3 ou 4  | Test t
-__________________ entre deux échantillons        |             | Wilcoxon-Mann-Whitney
-Egalités des positions (séries binaires)          |             | Q de Cochran
-
+| H0                                                | Condition  | Test                  |
+| ------------------------------------------------- | ---------- | --------------------- |
+| Même distribution entre une loi et un échantillon |            | Kolmogorov-Smirnov    |
+| __________________                                | 1,2,3 ou 4 | Test t                |
+| __________________ entre deux échantillons        |            | Wilcoxon-Mann-Whitney |
+| Egalités des positions (séries binaires)          |            | Q de Cochran          |
+|                                                   |            |                       |
 ## Corrélation
 
 h0 : indépendance des deux variables
 
-Type        | var                           | Condition | Test
-------------|-------------------------------|-----------|-------------
-Linéaire    | 2 var quant                   |           | Pearson
-Rang        | 2 var quant                   | 3,4       | Spearman
+| Type     | var         | Condition | Test     |
+| -------- | ----------- | --------- | -------- |
+| Linéaire | 2 var quant |           | Pearson  |
+| Rang     | 2 var quant | 3,4       | Spearman |
             | 2 var quali                   | 1,5       | d’association du Khi2
             | 2 var quali                   |           | exact de Fisher
             | 2 var quali                   |           | Méthode de Monte Carlo
@@ -84,12 +82,10 @@ Les tests statistiques servent à vérifier si les données obtenues sont comp
 * $H_0$ la différence vient de l'échantillonnage.
 * $H_1$ différence entre l'échantillon et la population.
 
-Choix/Réalité | $H_0$      | $H_1$
---------------|--------------|-------------- 
-$H_0$       | $1 − \alpha$ | $\alpha$ 
-$H_1$       | $\beta$      | $1 - \beta$ (appelé puissance du test)
-
-
+| Choix/Réalité | $H_0$        | $H_1$    |
+| ------------- | ------------ | -------- |
+| $H_0$         | $1 − \alpha$ | $\alpha$ |
+|  $H_1$        | $\beta$      | $1 - \beta$ (appelé puissance du test)
 Interprétation : Au risque $\alpha$ est accepté $H_1$ alors que c'est faux. Cela correspond au rejet à tort de l'hypothèse nulle.
 
 !!! note
@@ -104,7 +100,6 @@ Deux types de tests :
 
 * Unilatéral (example, à gauche), $H_0$ : $\mu = \mu_0$, $H_a$ : $\mu \lt µ_0$
 * Bilatéral $H_0$ : $µ = µ_{0}$,  $H_a$ : $\mu \neq \mu_0$
-
 ### Intervalle de confiance
 
 Exemple de comparaison d'une moyenne observée avec une moyenne de référence :
@@ -118,10 +113,10 @@ Pour comparer la valeur de deux échantillons, il suffit de vérifier si les int
 
 ### Présentation des différents types de tests
 
-Hypothèse                                             | Seuil                       | P-value</th>
-------------------------------------------------------|-----------------------------|-----------
-On ne rejete pas $H_0$ au risque $\beta$ inconnu    | $E_{obs} \leq E_{\alpha}$   | p-value $\gt \alpha$
-On accepte $H_1$ au risque $\alpha$                 | $E_{obs} \gt E_{\alpha}$    | p-value $\leq \alpha$
+| Hypothèse                                        | Seuil                     | P-value</th>          |
+| ------------------------------------------------ | ------------------------- | --------------------- |
+| On ne rejete pas $H_0$ au risque $\beta$ inconnu | $E_{obs} \leq E_{\alpha}$ | p-value $\gt \alpha$  |
+| On accepte $H_1$ au risque $\alpha$              | $E_{obs} \gt E_{\alpha}$  | p-value $\leq \alpha$ |
 
 Par exemple, au risque alpha de 5%, $E_{\alpha} = 1,96$
 
@@ -144,22 +139,19 @@ Les types de tests principaux :
 
 ## Test d'homogénéité
 
-Test                                             | Formule          | Degré de liberté
--------------------------------------------------|------------------|-----------------
-Moyenne observée et moyenne théorique            | $E_{obs} = \vert{\frac{\hat{x} - \mu}{\sqrt{\frac{s^2}{n}}}}\vert$   | 
-Distribution de deux échantillons (test Student) | $E_{obs} = \vert \frac{\hat{x_1} - \hat{x_2} }{\sqrt{(\frac{s_1^2}{n} + \frac{s_2^2}{n})}}\vert$  | $df = n_A + n_B − 2$
-Un échantillon et une loi de probabilité         | Test du Xhi2 |
-
+| Test                                             | Formule                                                                                          | Degré de liberté     |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------- |
+| Moyenne observée et moyenne théorique            | $E_{obs} = \vert{\frac{\hat{x} - \mu}{\sqrt{\frac{s^2}{n}}}}\vert$                               |                      |
+| Distribution de deux échantillons (test Student) | $E_{obs} = \vert \frac{\hat{x_1} - \hat{x_2} }{\sqrt{(\frac{s_1^2}{n} + \frac{s_2^2}{n})}}\vert$ | $df = n_A + n_B − 2$ |
+| Un échantillon et une loi de probabilité         | Test du Xhi2                                                                                     |                      |
 #### Test pour comparer deux moyennes
 
 * Si $n \ge 30$, loi normale.
 * Si $n \lt 30$, loi de Student.
-
 ## Test indépendance (et corrélation) entre deux variables
 
 * $H_0$ : les variables sont indépendantes
 * $H_1$ : les variables sont liées.
-
 ### Une variable quantitative et une qualitative (ANOVA)
 
 L'ANalysis Of Variance (ANOVA) sert à savoir si une variable qualitative
@@ -181,7 +173,6 @@ Avec :
 
 !!! note
     Lorsqu'il n'y a que deux modalités, il est possible d'utiliser un test de student.
-
 ### Deux variables qualitatives
 
 Degré de liberté : ${(modalité}_{ligne} - 1)({modalité}_{colonne} - 1)$
@@ -194,7 +185,6 @@ Il faut faire :
 4. Somme des valeurs pour chaque modalité et calcul de la statistique :
     1. LOI.KHIDEUX.INVERSE.DROITE(proba; degré de liberté)
     2. P-value : LOI.KHIDEUX.DROITE(valeur; degré de liberté)
-
 ### Deux variables numériques (quantitatives)
 
 Degré de liberté :
@@ -204,19 +194,17 @@ Degré de liberté :
 
     1.  $\left| \frac{R \times \sqrt{Eff - 2}}{\sqrt{1 - R^{2}}} \right|$
     2.  P-value : LOI.STUDENT.BILATERALE()
-  
 ### Kolmogorov-Smirnov
 
 Le test Kolmogorov-Smirnov est un test qui compare la fonction de répartition. Il permet :
 
 * de comparer la distribution de deux échantillons.
 * de comparer la distribution d'un échantillon avec celui d'une loi statistique.
-
 ### Correction
 
 Lorsque plusieurs tests sont réalisés, il faut utiliser une correction l'erreur lié à la multication des erreurs. Les p valeur sont relevées pour éviter de se tromper lorsqu'il a de nombreux tests.
 
-Le risque d'erreur augmente avec le nombre de test. Le risque de faire une erreur est alors de  1-somme(1-alpha)^n. le risque de se tromper dans le test est alors de 26% de risque de se tromper au moins une fois.
+Le risque d'erreur augmente avec le nombre de test. Le risque de faire une erreur est alors de  $1-\sum{1-\alpha}^n$. le risque de se tromper dans le test est alors de 26% de risque de se tromper au moins une fois.
 
 deux approches :
 
@@ -229,5 +217,5 @@ Ajuster les p-valeur en les augmentant.
 Family wise error rate 
 
 * méthode Bonferroni corrige toutes les p valeurs en une fois. est trop restrictive 
-* méthode d’Holm qui corrige de facon séquentielle chaque p valeur.
+* méthode d’Holm qui corrige de façon séquentielle chaque p valeur.
 
