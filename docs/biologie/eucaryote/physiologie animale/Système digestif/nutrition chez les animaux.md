@@ -7,7 +7,6 @@ La nutrition doit permettre d'apporter :
 Les êtres vivants doivent s'assurer de l'équilibre entre l'énergie dépensée et celle emmagasinée au risque de mettre en danger leur santé.
 
 Les protéines animales sont dites complètes car elles contiennent les acides aminés en proportion adéquate aux besoins humains (par opposition à celles végétales dites incomplètes).
-
 ## Les nutriments
 
 On classe les nutriments essentiels pour les Animaux en quatre catégories :
@@ -21,7 +20,6 @@ __Cofacteur__ substance non protéique nécessaire au fonctionnement d'une
 enzyme.
 
 Les cellules animales utilisent 20 types d'acides aminés différents mais elles sont incapables de tous les synthétiser. Environ la moitié doivent être apportée par l'alimentation.
-
 ### Les vitamines
 
 Les vitamines sont des molécules qui remplissent diverses fonctions. Elles sont la plupart du temps des coenzymes.
@@ -36,7 +34,6 @@ L'être humain a besoin de 13 vitamines. Une carence provoque des maladies. Les 
 
 !!! note
     Seul la vitamine D peut être produite par le corps humain grâce au soleil.
-
 ### Les minéraux
 
 Les minéraux agissent la plupart du temps comme cofacteurs.
@@ -79,7 +76,6 @@ __Légumineuse__ légume dont les fruits sont contenus dans des gousses. Elles s
 __Épidémiologie__ étude de la santé et des maladies chez les populations humaines.
 
 Une sous-alimentation dégrade les réserves de glucide, graisse puis les propres protéines.
-
 ## L'alimentation
 
 On définit les modes d'alimentation chez les animaux en fonction du type des aliments principaux qui compose le régime alimentaire :
@@ -97,7 +93,6 @@ L'alimentation se fait en quatre étapes :
 2. Digestion.
 3. Absorption.
 4. Élimination.
-
 ### L'ingestion
 
 __Ingestion__ acte d'introduire la nourriture dans l'organisme.
@@ -108,7 +103,6 @@ Il existe plusieurs modes d'ingestion :
 * Ingestion du substrat : animaux qui vivent sur le substrat qu'ils consomment (exemple : chenille sur sa feuille)
 * Par aspiration : aspire les liquides riches en nutriment d'une autre être vivant.
 * En vrac.
-
 ### La digestion
 
 La digestion est l'étape de décomposition des aliments en molécules suffisamment petites pour être absorbées. Elles servent ensuite à fabriquer de nouveaux composés dont a besoin l'organisme.
@@ -122,13 +116,11 @@ Pour éviter que les êtres vivants se digèrent eux même la digestion a lieu d
 
 * Dans la cellule (digestion intracellulaire).
 * À l'extérieur de la cellule (digestion extracellulaire).
-
 ### La digestion intracellulaire
 
 La digestion intracellulaire a lieu dans un organite spécialisé appelé vacuole digestive. Les aliments sont incorporés soit par phagocytose (« ose » destruction ou mort).
 
 Pinocytose
-
 ### La digestion extracellulaire
 
 La digestion extracellulaire peut se faire soit dans :
@@ -167,7 +159,6 @@ Pharynx partie de la gorge située à l'intersection entre les poumons et l'œso
 __Épiglotte__ organe qui abaisse pour empêcher l'entrée des aliments vers les poumons.
 
 L'estomac se situe sous le diaphragme. Il est formé de tissu élastique pouvant contenir jusqu'à 2L de nourriture. Les sucs gastriques sont le mélange de chyme et d'acide chlorhydrique (HCl). Le pH de 2 contribue à dénaturer les protéines et à l'activation des protéases.
-
 ## Les vitamines
 
 ### La vitamine D

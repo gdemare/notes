@@ -6,8 +6,6 @@ Généralement lorsqu'elles sont énoncées les théories économiques, sociales
 
 !!! example
     Les gouvernements ont pris des mesures pour éviter la révolution des prolétères prédite par Karl Max.
-
-
 ### Humanisme
 
 Nous vivons une époque construite autour du concept d'humanisme. Elle prend pour base la déclaration des droits de l'Homme formalisée durant la révolution française et qui a peu a peu été adoptée par tous les pays du monde. Elle place l'être humain au centre de ces préoccupations et considère que : 

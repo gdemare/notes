@@ -8,7 +8,7 @@ La sélection naturelle a favorisé l'apparition et la perpétuation de formes q
 
 * lutter contre les infections.
 * se reproduire [[reproduction]].
-* se procurer les nutriments [[nutrition-animaux]].
+* se procurer les nutriments [[nutrition chez les animaux]].
 ## Plan d'organisation
 
 La diversité des plans d'organisation corporelle est limitée par les lois de la physique. Dans certains cas, les contraintes du milieu ont imposé à la sélection naturelle a adopté la même la forme comme c'est le cas pour l'apparence fusiforme des animaux aquatiques.

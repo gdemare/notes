@@ -1,4 +1,4 @@
-Neurogenèse formation d'un [[Neurone]] à partir d'une cellule souche neurale.
+Neurogenèse formation d'un [[neurone]] à partir d'une cellule souche neurale.
 
 Les neurones sont issus de la multiplication de cellules souches pro
 génitrices puis de leur différenciation. 

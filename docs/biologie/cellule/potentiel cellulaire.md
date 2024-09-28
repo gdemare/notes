@@ -1,52 +1,31 @@
 La cellule est composée de :
 
-* Noyau
-* Cytosol
-* Membrane plasmique
+* [[noyau]]
+* cytosol
+* [[membrane plasmique]]
 
 __Organites__ compartiments isolés dans le cytosol.
 
 Le cytosol contient :
 
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Organites à membrane (5)</th>
-<th>Inclusions (10)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Mitochondries</p>
-<p>Réticulum endoplasmique</p>
-<p>Appareil de Golgi</p>
-<p>Lysosomes</p>
-<p>Peroxysomes</p></td>
-<td><p>Gouttelettes lipides</p>
-<p>Granules de glycogène</p>
-<p>Ribosomes</p>
-<p>Particules de Vault</p>
-<p>Protéasomes</p>
-<p>Cytosquelettes</p>
-<p>Centrioles</p>
-<p>Centrosome</p>
-<p>Cils</p>
-<p>Flagelles</p></td>
-</tr>
-</tbody>
-</table>
-
+| Organites à membrane (5) | Inclusions (10)          |
+| ------------------------ | ------------------------ |
+| [[Mitochondries]]        | Gouttelettes [[lipides]] |
+| [[réticulum]]            | Granules de glycogène    |
+| Appareil de Golgi        | Ribosome                 |
+|                          | Particules de Vault      |
+|                          | Protéasomes              |
+|                          | [[cytosquelette]]        |
+|                          | Centrioles               |
+|                          | Centrosome               |
+|                          | Cils                     |
+|                          | Flagelles                |
 ### La composition du cytosol
 
 Le milieu intra et extra cellulaire n'ont pas la même composition. La concentration est plus élevée dans le milieu :
 
 * Extracellulaire en $Na^+$ , $Ca^{2+}$, $Mg^{2+}$, $Cl^-$, $HCO_3^-$.
 * Intracellulaire en $K^+$, $HPO_4^{2-}$, les protéines.
-
 # La membrane plasmique 
 
 La membrane plasmique est soutenue par le cytosquelette. Elle permet notamment :
@@ -54,7 +33,6 @@ La membrane plasmique est soutenue par le cytosquelette. Elle permet notamment 
 * D'assurer la communication avec l'environnement.
 * De réguler les échanges avec l'extérieur.
 * D'assurer la jonction avec les autres cellules.
-
 ### Les échanges 
 
 La cellule échange avec son environnement des :
@@ -64,20 +42,17 @@ La cellule échange avec son environnement des :
 * Déchets métaboliques.
 * Produits de synthèse.
 * Nutriments.
-
 ### La communication
 
 * Récepteurs de messagers chimiques (hormones, neurotransmetteurs)
 * Récepteurs à l'environnement pH, MEC (matrice extracellulaire), pression, lumière, champs électriques...
-
 ### Jonction cellulaire
 
-Trois types de jonctions
+Trois types de jonctions :
 
 * Serré
 * Trou
 * Adhésion
-
 ## Composition et structure de la membrane plasmique
 
 En moyenne, la membrane plasmique des cellules est composée de
@@ -150,30 +125,10 @@ Les lipides sont de types :
 
 Il y a deux types de protéines membranaires :
 
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Transmembranaires</th>
-<th>Périphériques</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li><p>Récepteur</p></li>
-<li><p>Protéine de transport</p></li>
-</ul></td>
-<td><ul>
-<li><p>Enzyme</p></li>
-<li><p>Protéine de structure</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+| Transmembranaires     | Périphériques         |
+| --------------------- | --------------------- |
+| récepteur             | [[enzyme]]            |
+| protéine de transport | Protéine de structure |
 ## Mouvement 
 
 Lorsque des molécules sont mises en solution, elles vont spontanément vers un état d'équilibre qui tend à diminuer le :
@@ -206,18 +161,12 @@ Ainsi en fonction du type de molécules, le transport est assuré par :
 
 !!! note
     Ce sont des protéines membranaires qui assurent la diffusion facilitée et le transport actif.
-
 ## L'entropie en solution
 
 __Potentiel__ quantité d'énergie accumulée à disposition. L'univers étant soumis au principe de l'entropie c'est-à-dire à la dispersion de l'énergie, elle se dispersera du compartiment avec le potentiel le plus élevé vers le moins ce qui se traduira par une sortie de molécules.
-
-
-
-
 ### Conductance unitaire du canal (loi d'Ohm)
 
 $$I_{ion} = g \cdot FEM = \frac{1}{r} \cdot FEM$$
-
 Avec :
 
 * $S$ conductance unitaire du canal $\Omega ^{-1}$.
@@ -228,14 +177,12 @@ Au repos, les charges entre les deux compartiments ne varient pas. La somme des 
 
 Loi d'Ohm
 
-$$U = R \cdot I$$ 
-
+$$U = R \cdot I$$
 Avec :
 
 * $I$ intensité en A.
 * $U$ charge du courant en sortie en V.
 * $R$ résistance.
-
 ## Transport membranaire
 
 Pour pouvoir réaliser les activités métaboliques et éliminer ses déchets, la cellule a besoin d'échanger des molécules avec son environnement. Certaines diffusent facilement à travers la membrane mais pour d'autre, elle forme une barrière :
@@ -255,7 +202,6 @@ Cette difficulté a été résolue par l'utilisation de protéines membranaires 
 ### Diffusion simple
 
 La diffusion simple de la bicouche lipidique est permise à certaines molécules comme les gaz $CO_2$, $N_2$, $O_2$ ou les petites molécules (éthanol, urée).
-
 ### Diffusion facilitée
 
 La diffusion facilitée est le moyen de transport des molécules pour qui la membrane plasmique ne permet pas une diffusion suffisamment rapide comme pour le glucose.
@@ -272,7 +218,6 @@ Il existe trois types de protéines en fonction de l'échange de molécules :
 	* Canaux ioniques.
 	* Les aquaporines qui sont des canaux ouverts permettent à l'eau de se répartir entre le milieu extra et intra cellulaire suivant l'osmose.
 	* Transporteurs (Glut).
-
 ### Transport actif
 
 Le transport actif doit maintenir des différences de concentration entre le milieu intra et extra. Comme il lutte contre le gradient, il nécessite l'utilisation d'énergie.
@@ -297,8 +242,8 @@ Pour les (symport ou antiport).
 
 La différence de charges entre les deux milieux est à l'origine de :
 
-* La contraction musculaire
-* Le courant électrique des neurones
+* La contraction musculaire.
+* Le courant électrique des neurones.
 
 La dissymétrie entre les deux milieux est générée par des transporteurs actifs.
 
@@ -322,14 +267,13 @@ Le passage des ions se fait suivant le principe du gradient électrochimique. Le
 
 On note $E_m - E_{ion}$
 
-___Potentiel d'équilibre__ (noté $E_k$) c'est le potentiel pour lequel le flux net de l'ion étudié est nul.
+__Potentiel d'équilibre__ (noté $E_k$) c'est le potentiel pour lequel le flux net de l'ion étudié est nul.
 
 __Potentiel de repos__ noté (noté $E_r$) potentiel généré par l'activité de pompes (transport actif).
 
 La résistance des canaux dépend de :
 
 $$R = \frac{1}{n \cdot g \cdot P_0}$$
-
 Avec : 
 
 * $n$ nombre de canaux

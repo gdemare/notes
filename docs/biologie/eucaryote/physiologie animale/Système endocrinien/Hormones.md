@@ -1,4 +1,4 @@
-[[systeme-endocrinien]]
+[[système endocrinien]]
 ### Les types d'hormones
 
 Il existe trois types d'hormones classées en fonction de leur précurseur :

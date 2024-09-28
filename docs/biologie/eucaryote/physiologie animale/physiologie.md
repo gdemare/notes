@@ -8,11 +8,11 @@ Les cellules sont organisés :
 
 Il existe 11 systèmes majeurs dans le corps humain :
 
-* [[Système nerveux]]
+* [[système nerveux]]
 * musculaire [[muscle]]
 * cardio-vasculaire [[circulation et échanges gazeux]]
 * respiratoire :
-* [[systeme-endocrinien]] (glandes) : les systèmes hormonaux du corps (sexuel, glycémique, de la croissance).
+* [[système endocrinien]] (glandes) : les systèmes hormonaux du corps (sexuel, glycémique, de la croissance).
 * osseux
 * tégumentaire (ongles, cheveux, peau) : protection des tissus internes.
 * lymphatique et immunitaire :

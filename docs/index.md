@@ -6,7 +6,6 @@
 * [edX](https://www.edx.org/learn/)
 * [MIT open courseware](https://ocw.mit.edu/search/), cours en ligne du MIT.
 * Sci-hub, moteur de recherche pour les articles scientifiques en violation du droit d'auteur.
-
 ## Inclassable
 
 * [Site de Yann Ollivier](http://www.yann-ollivier.org/) pas mal de ressources et d'idées intéressantes. Je pense qu'il s'agit de son bloc note.
@@ -37,12 +36,15 @@ __Organe vestigial__ organe qui ont perdu leur fonction mais qui sont présent d
 
 !!! example
 	Chez l'Homme, l'appendice est un organe vestigial.
-
 ### Neuro
 
 GABA a active des transporteurs qui font entrer des $Cl^-$ ce qui diminue la tension du milieu intracellulaire (par rapport au milieu extracellulaire). La différence pour attendre le seuil d'excitation est alors plus élevée.
 Lorsque GABA est activé, les neurones sont moins suceptibles d'être activés. Les transporteurs ioniques font entrer du $Cl^-$ pour diminuer le potentiel cellulaire ($ \lt -70mV$) ou sortir du $K^+$ ce qui diminue (la réserve de $K^+$). L'atteindre le seuil d'excitation devient alors plus compliqué.
 
-
 !!! note 
 	La tension correspond au potentiel du milieu. Pour l'interpréter, il faut imaginer une charge positive toujours va du potentiel le plus élevé vers le plus faible.
+## Protéines recombinantes
+
+corrélation entre la durée de vie de l'ARN et de la longueur de la queue poly-A.
+ORI origine de réplication ne fonctionne que chez les Bactéries.
+Ajout d'un tag à la protéine (exemple six histidines)

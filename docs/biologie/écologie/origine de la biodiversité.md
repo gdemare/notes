@@ -15,8 +15,8 @@ __Habitat__ portion où une espèce vit. Les espèces peuvent être classées en
 
 Les espèces peuvent être distinguées en deux groupes :
 
-* Endémique.
-* Cosmopolite.
+* endémique.
+* cosmopolite.
 ## Écosystème
 
 __Écosystème__ ensemble des interactions qu'entretient un organisme.
@@ -28,7 +28,6 @@ Un organisme cherche à capter les ressources pour notamment de produire l'éner
 * Se reproduire
 
 L'écologie en tant que science consiste à construction une base des connaissances en adoptant une approche dite holistique 1+1\>2 (par opporition à l'approche réductionniste 1+1=2).
-
 ## L'écologie à différentes échelles spatiales et temporelles écosystémiques
 
 ### Organisation du vivant 
@@ -88,7 +87,6 @@ Une autre classification des facteurs
 
 * Indépendants de la densité.
 * Dépendants de la densité.
-
 ## Facteurs abiotiques
 
 <table>
@@ -119,10 +117,6 @@ Une autre classification des facteurs
 
 La performance des organismes est directement liée l'intensité d'un
 facteur.
-
-![](media/image1.jpeg){width="2.5286931321084865in"
-height="2.808510498687664in"}
-
 ### Pour un organisme
 
 Sa présence et sa performance en un endroit donné sont strictement liées à sa compatibilité avec les conditions du milieu.
@@ -131,7 +125,6 @@ Sa présence et sa performance en un endroit donné sont strictement liées à s
 Conditions optimales lorsque les valeurs des facteurs permettent à un individu d'atteindre le fitness maximum.
 
 __Aire de répartition biogéographique__ zone délimitant la réparation géographique d'une espèce. Elle est directement liée aux conditions du milieu.
-
 ### Valence
 
 Valence capacité à tolérer les variations d'un facteur.
@@ -149,7 +142,6 @@ Le facteur le proche d'un extremum est appelé facteur limitant.
 * Loi de Bartholomew : une espèce est contrôlée par ses plus petites limites de tolérance.
 
 Élimination lorsque les facteurs écologiques s'approchent ou déplacent des limites de tolérance et que cela entraine une diminution importante de l'effectif.
-
 ## Les interactions entre les facteurs
 
 La présence et la performance d'un organisme dans un lieu donné dépend :
@@ -175,11 +167,8 @@ Homéotherme organisme qui conserve une température interne constante
 c'est-à-dire indépendante du milieu extérieur (vs poïkilothermes).
 
 Les règles de la température
-
-|         |                                                                                                                                                             |
-|------------|------------------------------------------------------------|
-| Bergman | Pour les groupes taxinomiques homéotherme, les animaux les + grands vivent dans les régions froides (surface/volume).                                       |
-| Allen   | Les mammifères des régions froides montrent une réduction importante de la surface des oreilles, de la queue et des pattes, ainsi qu'une forme plus trapue. |
+* Bergman : Pour les groupes taxinomiques homéotherme, les animaux les + grands vivent dans les régions froides (surface/volume).
+* Allen : Les mammifères des régions froides montrent une réduction importante de la surface des oreilles, de la queue et des pattes, ainsi qu'une forme plus trapue.
 
 Adaptation physiologique
 
@@ -190,71 +179,57 @@ Adaptation physiologique
 Les stratégies pour conserver la chaleur : l'homéostasie thermique.
 
 Elles peuvent être classées en trois groupes :
-
-|                     |               |                      |
-|---------------------|---------------|----------------------|
-| Isolation thermique | Vie de groupe | Exposition au soleil |
-
+* Isolation thermique.
+* Vie de groupe.
+* Exposition au soleil.
 # Les organismes et les ressources
 
 Ressources composantes d'un milieu dont les quantités peuvent être
 réduites, épuisées ou consommées par les organismes.
 
 Les ressources sont distribuées (souvent de manière hétérogène) :
+* temps
+* espace
+* en quantité
+* en qualité
 
-|       |        |             |            |
-|-------|--------|-------------|------------|
-| Temps | Espace | En quantité | En qualité |
-
-[NB :]{.underline} Chaque espèce exploite une gamme spécifique de
-ressources.
-
-Exemples de ressources : cachettes, territoires, femelles, ... Une
-ressource universelle l'eau.
-
+!!! note
+	Chaque espèce exploite une gamme spécifique de ressources. Exemples de ressources : cachettes, territoires, femelles, … Une ressource universelle l'eau.
 ## Les stratégies d'exploitation des ressources
 
 Le caractère limité des ressources contraint les individus à adopter des
 stratégies c'est-à-dire un ensemble de règles de décisions appelées
 aussi choix. Elles sont le résultat du processus évolutif.
-
 ### Théorie de l'approvisionnement optimal
 
 Deux exemples de stratégies présentes dans le monde vivant :
 
--   Les préférences alimentaires.
-
--   Le ratio entre développement du réseau racinaire et aérien chez les
+-   les préférences alimentaires.
+-   le ratio entre développement du réseau racinaire et aérien chez les
     plantes.
 
-Stratégie optimale la stratégie qui maximise le rapport entre
+__Stratégie optimale__ la stratégie qui maximise le rapport entre
 acquisition des ressources et dépense énergétique.
-
 ### Les besoins en eaux
 
 | Hygrophile                       | Mésophiles                            | Xérophile                                 |
 |------------------------|------------------------|------------------------|
 | Qui vit dans des milieux humides | Dont les besoins en eau sont modérés. | Qui vit dans des lieux secs en permanence |
-
 ## Compétition
 
-Compétition rivalité entre des organismes pour accaparer l'accès aux
+__Compétition__ rivalité entre des organismes pour accaparer l'accès aux
 ressources (partagées et limitées).
 
 La compétition se traduit par des adaptations :
-
-|                              |                              |
-|------------------------------|------------------------------|
-| Comportement et de stratégie | Physiologie et morphologique |
-
+* Comportement et de stratégie
+* Physiologie et morphologique
 ## Habitat
 
-Habitat ensemble des caractéristiques du milieu où les individus d'une
+__Habitat__ ensemble des caractéristiques du milieu où les individus d'une
 espèce peuvent se développer et se reproduire.
-
 ## Niche écologique
 
-Niche écologique ensembles des intervalles de variations des facteurs
+__Niche écologique__ ensembles des intervalles de variations des facteurs
 écologiques (contraintes, ressources et interactions) dans lequel un
 organisme vit et se perpétue.
 
@@ -265,54 +240,31 @@ Mathématiquement c'est un hypervolume.
 
 Les variables peuvent être classées :
 
-<table>
-<colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Milieu</th>
-<th>Relations avec les autres espèces</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Variables physico chimiques</p>
-<p>Ressources</p></td>
-<td><p>Variables biologiques</p>
-<p>Ressources</p></td>
-</tr>
-</tbody>
-</table>
-
+| Milieu                      | Relations avec les autres espèces |
+| --------------------------- | --------------------------------- |
+| Variables physico chimiques | Variables biologiques             |
+| Ressources                  | Ressources                        |
 Une autre classification possible :
+* ressources
+* Conditions
+* Interactions biotiques
 
-|            |            |                        |
-|------------|------------|------------------------|
-| Ressources | Conditions | Interactions biotiques |
-
-Guilde écologique ensemble d'espèces qui exploitent une ressource
+__Guilde écologique__ ensemble d'espèces qui exploitent une ressource
 commune.
 
-Équivalent écologique lorsque 2 espèces exploitent la même gamme de
+__Équivalent écologique__ lorsque 2 espèces exploitent la même gamme de
 ressources dans des endroits ou à des moments différents.
-
 ### L'amplitude de la niche trophique
 
 Amplitude de la niche permet de déterminer le niveau de spécialisation
 d'un organisme.
-
-|             |            |
-|-------------|------------|
-| Généraliste | Spécialisé |
-
+Généraliste
+Spécialisé
 ### Partager une niche écologie
 
 Coexiste/compétition c'est lorsque deux espèces exploitent les mêmes
 ressources dans des conditions équivalentes (i.e. dans le même habitat
 et au même moment).
-
 ### Exclusion compétitive (Principe de Gause)
 
 Deux espèces ayant des exigences écologiques identiques ne peuvent
@@ -325,21 +277,16 @@ supérieure la niche potentielle de l'autre espèce.
 Le corollaire : si deux espèces écologiquement semblables coexistent,
 c\'est qu\'elles ont nécessairement réalisé une différenciation de
 niches (au moins sur un axe).
-
 # Les facteurs biotiques
 
 Les facteurs biotiques peuvent être classés en deux catégories :
-
-|                               |                 |
-|-------------------------------|-----------------|
-| Intraspécifique (même espèce) | Interspécifique |
-
-## ![](media/image3.jpeg){width="4.385925196850394in" height="1.47872375328084in"}
+* Intraspécifique (même espèce)
+* Interspécique
 
 ## Type de relations interspécifiques
 
 |               |                                                                             |            |              |                    |
-|------------------|------------------------|----|--|--------------------------|
+| ------------- | --------------------------------------------------------------------------- | ---------- | ------------ | ------------------ |
 | Neutralisme   | Cohabite sans relation évidente                                             |            |              |                    |
 | Amensalisme   | Espèce a un effet négatif une autre espèce sans en retirer un avantage.     |            |              |                    |
 |               | Phorésie=transport                                                          |            |              | Inquilinisme=abris |
@@ -355,17 +302,13 @@ Les facteurs biotiques peuvent être classés en deux catégories :
 | Prédation     | Met à mort des proies                                                       |            |              |                    |
 | Parasitisme   | Organisme qui vit au dépend d'un autre en diminuant le fitness de son hôte. |            |              |                    |
 | Altruisme     | Avantage sans contre parti (marmottes)                                      |            |              |                    |
-
 ## Prédation
 
-Les types de prédateurs
+Les types de prédateurs :
+* généraliste
+* spécialistes
 
-|             |              |
-|-------------|--------------|
-| Généraliste | Spécialistes |
-
-Super-prédateurs prédateurs qui ne sont la proie d'aucune espèce.
-
+__Super-prédateurs__ prédateurs qui ne sont la proie d'aucune espèce.
 ### Cannibalisme
 
 Cannibalisme prédation intraspécifique.
@@ -389,7 +332,6 @@ Les principales adaptations des proies :
 * Développement de comportement de défense (et des organes de défenses)
 
 __Aposématisme__ avertissement visuel, sonore ou chimique pour prévenir que le prédateur présente un danger de toxicité
-
 ## Adaptation des prédateurs et des proies
 
 ### Mimétisme
@@ -401,7 +343,6 @@ Les types de mimétisme :
 * Automimétisme imite seulement une partie d'un prédateur ou de son propre corps.
 * Camouflage imite les objets inanimés de l'environnement.
 * Mimétisme batésien une proie inoffensive prend l'apparence d'un aposématisme.
-
 ## Parasitismes
 
 Parasite organisme qui tire profit d'un autre en se nourrissant, s'abritant ou se reproduisant aux dépends de son hôte et ceci sans le tuer. On distingue deux types de parasitismes :
@@ -415,25 +356,14 @@ Les parasites sont classés en fonction de :
 
 -   Leur position sur l'hôte : Ectoparasite à extérieur (vs
     Endoparasite).
-
 -   Leur dimension et de leur vitesse de croissance.
 
 | Micro parasites                  | Macro parasites                   |
 |----------------------------------|-----------------------------------|
 | Bactéries et protozoaire, rapide | Grande taille et croissance lente |
-
-Classification des parasitismes chez les plantes :
-
-|       |                         |
-|-------|-------------------------|
-| Total | Partiel ou hémiparasite |
-
+Classification des parasitismes chez les plantes : total/partiel ou hémiparasite.
 ## Dentition des herbivores chez les mammifères
-
-|           |          |
-|-----------|----------|
-| Brouteurs | Rongeurs |
-
+BrouteursRongeurs
 # Population
 
 ## Les caractéristiques d'une population
@@ -448,7 +378,6 @@ Classification des parasitismes chez les plantes :
 | Démographie = +natalité/immigration -mortalité/émigration |                                  |
 | Indicateur                                                | Effectif                         |
 | Statistiques descriptives                                 | Par âge, par sexe                |
-
 ## Les mécanismes des populations
 
 Les mécanismes qui impactent directement et indirectement
@@ -520,7 +449,6 @@ L'étude des communautés se consacre à la compréhension des interactions inte
 * Structure
 * Dynamique
 
-
 L'étude des communautés s'intéresse particulièrement à :
 
 * Aux interactions entre les populations
@@ -549,7 +477,6 @@ Il  existe deux types de stratégie pour contrôler les communautés :
 | Bottom-up                           | Top down                                           |
 |------------------------------------|------------------------------------|
 | En modifiant la base de la pyramide | Modifier la pyramide par la présence de prédateurs |
-
 ## Décrire une communauté
 
 ### Structure
@@ -559,7 +486,6 @@ Les espèces présentes ainsi que l'abondance et la biomasse relative.
 ### Distribution dans l'espace et dynamique au cours du temps
 
 Forme de relations entre les espèces notamment par la structure trophique.
-
 ### Richesse spécifique
 
 Richesse totale nbre d'espèces total pour une aire géographiques données.
@@ -570,7 +496,6 @@ Richesse moyenne moyenne du nombre d'espèces dans les échantillons.
 
 * Caractériser un milieu ou une communauté.
 * Comparer deux communautés.
-
 ### Diversité
 
 __Indice de diversité__ mesure qualitative qui quantifie l'équipartition des espèces. L'indice augmente lorsque les espèces sont présentes dans les mêmes proportions. Il atteint un maximum lorsque les espèces autant abondantes.
@@ -578,19 +503,16 @@ __Indice de diversité__ mesure qualitative qui quantifie l'équipartition des e
 Par exemple, l'indice de Shannon $H' = - \sum{p_i \cdot \log p_i}$
 
 Avec $p_i$ correspond à l'effectif d'une espèce.
-
 ### La distribution des communautés dans l'espace
 
 | Analyse du gradient | Théorie communautaire | Théorie individualiste |
 |---------------------|-----------------------|------------------------|
-
 ## L'apparition et l'établissement des communautés
 
 __Successions écologiques__ changements que subissent les communautés au cours du temps.
 
 La succession écologique est un processus naturel de développement d'une
 communauté qui aboutit à un état de stable appelé climacique (climax).
-
 ### Établissement des communautés
 
 On distingue deux cas de succession :
@@ -603,7 +525,6 @@ Une succession se déroule en 3 phases :
 1. Installation généralement par des espèces dites pionnières adoptent souvent une stratégie R avec une croissance rapide.
 2. Facilitation | Phase de transition                                                             |
 3. Inhibition   | Espèces dominantes à croissance lente et descendance peu nombreuse Stratégie K. |
-
 ### Climax état d'équilibre
 
 __Intermediate Disturbance Hypothesis__ (IDH) hypothèse selon laquelle la diversité des espèces locales est maximale quand les perturbations ne sont pas trop rares, ni trop fréquentes.
@@ -613,18 +534,15 @@ __Perturbation__ détérioration souvent provisoire du milieu ou d'un écosystè
 | Trop de perturbations | Pas de perturbation                                           |
 |------------------------------------|------------------------------------|
 |                       | Les espèces sont menacées d'extinction dominance compétitive. |
-
 Les perturbations peuvent être d'origine : 
 
 * Naturelle.
 * Non-naturelle.
-
 ## Stabilité d'une communauté
 
 __Resistance__ capacité d'un système à l'opposer au changement.
 
 __Résilience__ capacitée d'un système de revenir aux conditions initiales.
-
 # Biodiversité, espèces et espace
 
 ## Mesurer la biodiversité
@@ -640,7 +558,6 @@ Indicateur de biodiversité :
 * Équipartition niveau d'uniformité des abondances dans une communauté.
 
 La méthode utilisée sur le terrain est l'échantillonnage.
-
 ## Biodiversité et espace
 
 Diversité ponctuelle nombre d'espèces présent dans les échantillons récoltés d'habitats homogènes.
@@ -673,10 +590,10 @@ __Interacteurs__ espèces qui ont un impact fort dans une communauté.
 
 Deux types :
 
-Espèces clefs affecte la communauté en fonction de son abondance ou de
+__Espèces clefs__ affecte la communauté en fonction de son abondance ou de
 sa biomasse.
 
-Espèces clefs de voute espèce qui a un effet disproportionné sur les
+__Espèces clefs de voute__ espèce qui a un effet disproportionné sur les
 communautés par rapport à son effectif ou sa biomasse.
 
 La disparition d'une espèce considérée comme clé de voûte entraine une
@@ -691,7 +608,6 @@ Le nombre d'espèces est le résultat d'un processus évolutif c'est-à-dire la 
 | Apparition     | Migration, spécialisation        |
 | Disparition    | Compétitions, perturbations éco. |
 | Spécialisation | Sélection naturelle              |
-
 ## Modes de spéciation
 
 ### Spéciation allopatrique
@@ -714,12 +630,10 @@ une nouvelle population en marge de l'aire de répartition.
 ### Spéciation parapatrique
 
 Les populations ne sont pas totalement isolées géographiquement mais la zone de contacte est étroite. On y trouve fréquemment des hybrides.
-
 ### Spéciation sympatrique
 
 Deux populations non isolées qui évoluent en espèces distinctes. Ce
 phénomène est plutôt rare.
-
 ## La Terre, la biosphère et la biodiversité au cours du temps (long terme)
 
 Les grands événements qui modifient la distribution des espèces 
@@ -741,7 +655,6 @@ Les effets des grands événements sur les espèces :
 |-----------------------------|-------------------------------------------|
 | Glaciations et autres changements climatiques | Séparation, extinction ou sélection, spécialisation jusqu'à la spéciation. |
 | Catastrophes majeures                         | Extinctions sans sélection naturelle.                                      |
-
 ## Type d'évolution
 
 __Évolution convergente__ plusieurs espèces développent séparément une adaptation analogue càd une même réponse fonctionnelle à un problème adaptif.
@@ -752,7 +665,6 @@ __Évolution parallèle__ deux espèces développent en même temps dans des ré
 
 __Coévolution__ transformations qui se produisent entre plusieurs espèces
 suites à leurs influences réciproques.
-
 # Les écosystèmes
 
 La Terre est un système : 
@@ -767,13 +679,11 @@ Les interactions peuvent être classées en :
 | Biotope                      | Biocénose            |
 |------------------------------|----------------------|
 | Conditions physico-chimiques | Entre les organismes |
-
 ## La matière cycle biogéochimique
 
 ### Cycle du Carbone et de l'Eau
 
 __Évapotranspiration__ l'évaporation des végétaux participe aux cycles de l'eau.
-
 ### Cycle de l'azote
 
 L'azote est un composant essentiel pour fabriquer les protéines et les acides nucléiques.
@@ -785,11 +695,9 @@ On parle de :
 | Fixation de l'azote                  | Nitrification                     |
 |--------------------------------------|-----------------------------------|
 | $N_2$ transformé en $NH_3^+$ | $NH_4^+$ vers $NO_3^-$ |
-
 ### Cycle du phosphate
 
 __Consommateur__ organisme qui prélève les molécules dont il a besoin en consommant d'autre organismes.
-
 ### Energie
 
 L'énergie est présente sous différentes formes comme par exemple :
@@ -812,7 +720,6 @@ par deux processus :
 * phimiosynthèse
 
 Photosynthèse :
-
 $$6 CO_2 + 6 H_2O + soleil \rightarrow C_6H_{12}O_6(glucose) + 6 O_2$
 
 Les consommateurs décomposent notamment la matière pour produire de l'énergie sous la forme d'ATP.
@@ -820,24 +727,22 @@ Les consommateurs décomposent notamment la matière pour produire de l'énergie
 Dans les milieux oxygénés, les consommateurs dégradent les molécules organiques par oxydation :
 
 $$C_6H_{12}O_6 + 6 O_6 \rightarrow 6 HO_2 + 6 CO_2 + energie\ accumulé\ dans\ 36\ molé\ d'ATP
-$$
 
-NB : L'énergie diminue à chaque transfert. Une partie d'elle étant
-dissipée sous forme de chaleur.
+!!! note
+	L'énergie diminue à chaque transfert. Une partie d'elle étant dissipée sous forme de chaleur.
 
 ## Energie disponible
 
 L'énergie disponible à chaque niveau trophique est liée notamment à
 
-* Production primaire nette
-* Rendement
+* production primaire nette
+* rendement
 
 Typiquement entre 5 et 20%, on estime qu'environ 10% du niveau inférieur
 est présent à celui supérieur.
 
 Temps moyen de résidence de l'énergie
-$$\frac{\mathbf{biomasse\ (g/m²)}}{\mathbf{productivité\ nette\ }\mathbf{\ (g/m²/an)\ }}$$ |
-
+$$\frac{\mathbf{biomasse\ (g/m²)}}{\mathbf{productivité\ nette\ }\mathbf{\ (g/m²/an)\ }}$$ 
 # Les biomes aquatiques
 
 Pour les biomes aquatiques, les facteurs abiotiques sont extrêmement importants : lumière température, salinité, la concentration, d'oxygène, le trophisme (sels nutritif azote et phosphore)
@@ -848,7 +753,6 @@ On distingue les biomes aquatiques en fonction de la salinité :
 * Eaux marines (71%)
 
 En eau douce, les macro-organismes primaires dépendent des matières organiques terrestres.
-
 ## Concentration d'oxygène
 
 Au maximum 5% de la concentration en oxygène de l'air peut se dissoudre dans l'eau. Ainsi, l'oxygène présent dans l'eau est essentiellement dû à la photosynthèse et aux échanges avec la surface
@@ -859,7 +763,6 @@ Au maximum 5% de la concentration en oxygène de l'air peut se dissoudre dans l'
 D'autres facteurs dépendent de la profondeur comme la lumière. Cela donne lieu à une stratification thermique plus ou moins
 
 __Zone euphotique__ profondeur à laquelle la lumière ne pénètre plus.
-
 ## Eaux douces
 
 Généralement les eaux douces sont de type :
@@ -869,13 +772,11 @@ Généralement les eaux douces sont de type :
 | Biomasse végétale | Faible      | Abondante |
 | Nutriments        | Pauvre      | Riche     |
 | Oxygène           | Élevé       | Faible    |
-
 ## Eaux marines
 
 __Milieu paralique__ zone de transition entre eaux marines et eaux douces. Elle vari dans le temps et l'espace.
 
 __Région d'upwelling__ zone de remontée des eaux profondes chargées en éléments nutritifs.
-
 # Les biomes terrestres
 
 __Biome__ ensemble d'écosystèmes caractéristiques d'une aire biogéographique.
@@ -918,7 +819,9 @@ Insecte transporter un symbionte comme un champignon pour aider à attaque un ar
 Symbiose impliquée dans la protection nutrition
 Endosymbiose symbiose où l’un des partenaires est enfermé dans l’autre
 Chez les insectes, 20% des bactéries sont héréditaires.
+
 Les symbioses sont classées en deux catégories :
 •	Primaire tous les individus les possèdent
 •	Secondaire seul quelques possibilité d’échange entre les espèces.
+
 Différents avantages divers en fonction du type mais également des désavantages exemple perte de facilité.

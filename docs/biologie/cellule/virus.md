@@ -20,9 +20,9 @@ __Virion__ forme extracellulaire du virus.
 
 On classe les virus en fonction :
 
-* Du type d'acides nucléiques (ARN, ADN).
-* Du nombre de brins (bicaténaire, monocaténaire).
-* De la forme des brins (linéaire, circulaire).
+* du type d'acides nucléiques (ARN, ADN).
+* du nombre de brins (bicaténaire, monocaténaire).
+* de la forme des brins (linéaire, circulaire).
 
 !!! note
     Les Virus qui contaminent les animaux sont souvent constitués d'ARN entourés d'une capside, elle-même entourée d'une enveloppe virale constitué de glycoprotéines. Ces dernières facilitent la liaison avec les cellules de l'hôte.
@@ -30,54 +30,49 @@ On classe les virus en fonction :
 __Bactériophage__ virus qui infecte les bactéries.
 
 __Spectre d'hôtes__ ensemble des cellules qu'un virus est capable d'infecter.
-
 ## Évolution des virus
 
 ### L'héritage des virus
 
-8% de la longueur total de l'ADN humain aurait des origines virales mais ils ne s'expriements plus. Une protéine virale a été identifiée comme une protéine d'enveloppe virale applé syncitine, exprimé dans le placenta permet les échanges entre le sang de la mère et l'enfant. Elle diminue la réponse immunitaire et permet la fusion des cellules de la mère et de l'enfance nécesaire à la formation du placenta.
+8% de la longueur total de l'ADN humain aurait des origines virales mais ils ne s'expriements plus. Une protéine virale a été identifiée comme une protéine d'enveloppe virale applé syncitine, exprimé dans le placenta permet les échanges entre le sang de la mère et l'enfant. Elle diminue la réponse immunitaire et permet la fusion des cellules de la mère et de l'enfance nécessaire à la formation du placenta.
 
 La diversité de syncitines et des placenta suggèrent que cette protéine virale a été domestiqué plusieurs fois au cours de l'évolution.
 
 !!! note
-    Les guêpes parasitoides ont domestiqué qui permettent à leur progéniture de survivrent et de se développer sans éveiller le système immunitaire de leur hôte.
-
+    Les guêpes parasitoïdes ont domestiqué qui permettent à leur progéniture de survivent et de se développer sans éveiller le système immunitaire de leur hôte.
 ###
 
 Le taux de mutation des virus est extrêmement plus élevé que chez les êtres vivants à cause de l'absence de mécanismes de vérification du génome. Dès qu'un mutant résistant apparaît, il sera favorisé par la sélection naturel et tendra à envahir la population.
 
 Les activités humaines à travers la mondialisation ont facilité la circulation des virus en :
 
-* Multipliant les brassages de population.
-* Popularisant certaines pratiques qui favorisent les cas de transmission (l'utilisation de seringues pour s'injecter de la drogue, de pratiques sexuelles).
-* Augmentant les rencontres entre les virus et ainsi les risques de recombinaison virale.
-
+* multipliant les brassages de population.
+* popularisant certaines pratiques qui favorisent les cas de transmission (l'utilisation de seringues pour s'injecter de la drogue, de pratiques sexuelles).
+* augmentant les rencontres entre les virus et ainsi les risques de recombinaison virale.
 ## L'activité virale
 
 Pour se répliquer, un virus procède en deux phases :
 
-1. L'infection.
-2. La réplication.
-
+1. l'infection.
+2. la réplication.
 ### L'infection
 
 L'infection correspond au moment où le génome viral pénètre dans la cellule. Le virus peut entrer dans la cellule par :
 
-* Endocytose.
-* Injection.
-* Fusion des membranes.
+* endocytose.
+* injection.
+* fusion des membranes.
 
 L'infection peut être facilité grâce à la présence de glycoprotéines qui vont se lier aux récepteurs membranaires de la cellule hôte.
 
 !!! note
     Chez les végétaux, les virus profitent de la présence des plasmodesmes pour se propager rapidement dans l'ensemble de la plante.
-
 ### La réplication
 
 Une fois que le virus est entré dans la cellule, il détourne les composants de son hôte pour synthétiser les siens. Il libère son génome dans le cytosol où débute généralement sa réplication qui sera soit :
 
-* Transcrit en protéines virales.
-* Qui deviendra le génome de nouveaux virus.
+* transcrit en protéines virales.
+* qui deviendra le génome de nouveaux virus.
 
 Certains virus sont capables d'insérer leur ADN dans le génome de la cellule hôte et de modifier l'utilisation générale des gènes. Lorsque la cellule se divise, l'ADN viral sera transmis aux cellules filles. Ce phénomène peut conduire à la présence virale dans un grand nombre cellules.
 
@@ -90,7 +85,6 @@ Les rétrovirus à ARN sont capables de réaliser une transcription inverse càd
 __Plasmide__ ADN circulaire qui peut se répliquer indépendamment de la cellule et dans certains cas, être donné.
 
 __Transposon__ segment mobile du génome.
-
 ### La sortie de la cellule hôte
 
 Une fois produit, les composants viraux s'assemblent spontanément et sortent de la cellule par bourgeonnement, parfois en conservant l'enveloppe plasmique ce qui facilite l'infection futur d'une cellule. C'est notamment au moment de la sortie des virus que la cellule peut être endommagée.
@@ -103,7 +97,6 @@ Chez les Virus à ADN bicaténaire, il existe principalement deux mécanismes :
 __Virus tempéré__ virus à la fois lytique et lysogénique en des conditions particulières.
 
 Certains virus codent pour des protéines qui éliminent les sites de reconnaissance des cellules utilisées par le virus pour éviter que la cellule puisse être réinfecter.
-
 ### Toxicité des virus
 
 La toxicité d'un virus pour l'organisme infecté peut être dû à :
@@ -113,7 +106,6 @@ La toxicité d'un virus pour l'organisme infecté peut être dû à :
 * La toxicité des composants viraux comme l'enveloppe protéique.
 
 Les dégâts à long terme de l'infection d'un virus dépendent du type de cellules infectées. Par exemple, les cellules nerveuses qui persistent durant toute la vie de l'individu ne seront pas remplacées, les conséquences sont alors irréversibles.
-
 ## Protection et remède curatif contre les virus
 
 Les êtres vivants ont développé des mécanismes de protection pour lutter contre l'infection virale. Les bactéries fabriquent des enzymes de restriction qui identifient et détruisent l'ADN viral.
@@ -149,7 +141,6 @@ et enveloppe.
 6. Transcription de l'ARN positif en protéines et réplication des ARN négatifs.
 7. Formation spontanées des nouveaux virions.
 8. Sortie par bourgeonnement.
-
 ### Papillomavirus
 
 Caractéristiques : ADN viral bicaténaire, circulaire avec des histones,

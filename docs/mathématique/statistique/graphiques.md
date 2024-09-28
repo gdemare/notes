@@ -8,7 +8,6 @@ Qualitative     | Numérique (quantitative)
 ----------------|-----------------------------
 Nominale        | discrète
 ordinale        | continue
-
 ## Une variable
 
 Ordonnée : Effectif/fréquence
@@ -33,10 +32,9 @@ nominale            | histogramme*      |           | Diagramme de Kiviat   | Di
 ordinale            | histogramme*      |           |                       | 
 discrete            | courbes empilées  |           |                       | nuage de points; boxplot
 continue            | box plot          | boxplot   |                       | nuage de points
-
 #### Deux quantitatives
 
 * Histrogramme empilé
 * Histogramme.
 
-Avec deux variantes effectifs ou fréquences normalisées..
+Avec deux variantes effectifs ou fréquences normalisées.

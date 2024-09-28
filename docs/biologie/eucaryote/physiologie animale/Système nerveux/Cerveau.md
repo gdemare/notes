@@ -3,7 +3,6 @@ Le cerveau pèse en moyenne 1,4 Kg. Il est composé à 72% d'eau. Sa masse sèc
 |                |                  |                |
 |----------------|------------------|----------------|
 | 50% de lipides | 40% de protéines | 1% de glucides |
-
 Les replis du cerveau sont appelées circonvolutions, elles augmentent la surface.
 
 Le cerveau s'organise en quatre parties principales appelées lobe :
@@ -12,7 +11,6 @@ Le cerveau s'organise en quatre parties principales appelées lobe :
 * Pariétal
 * Occipital
 * Temporal
-
 ## Les lobes
 
 ### Le lobe frontal
@@ -35,11 +33,9 @@ Ils sont impliqués dans :
 * Conscience de soi
 * Perception sensorielle
 * Langage
-
 ### Le lobe occipital
 
 Le lobe occipital est essentiellement utilisé par la vision.
-
 ### Le lope temporal
 
 Il est impliqué dans :
@@ -54,7 +50,6 @@ On trouve également
 | Hippocampe | Mémoire                           |
 | Amygdale   | Réaction de peur et d'agressivité |
 | Wernicke   | Reconnaissance des mots           |
-
 ## Diencéphale
 
 <table>
@@ -95,7 +90,6 @@ sexuel)</p></td>
 </tr>
 </tbody>
 </table>
-
 ## Diencéphale et télencéphale
 
 Les noyaux centraux entre le télencéphale motricité
@@ -106,11 +100,9 @@ Les noyaux centraux entre le télencéphale motricité
 | Striatum ventral | Qui contient le noyau accumbens |
 | Pallidum         |                                 |
 | Putamen          |                                 |
-
-Striatum ensemble formé par les noyaux lenticulaires (pallidum + putamen) et le noyau caudé. Il possède une région de voies de communication avec un aspect strié appelé nigro-strié.
+__Striatum__ ensemble formé par les noyaux lenticulaires (pallidum + putamen) et le noyau caudé. Il possède une région de voies de communication avec un aspect strié appelé nigro-strié.
 
 __Lenticulaire__ région comprenant le pallidum et le putamen.
-
 ## Télencéphale
 
 ### Le système limbique
@@ -183,7 +175,6 @@ Il est composé de :
 -   Thalamus antérieur
 -   Cortex cingulaire
 -   Aire entorhinale
-
 ## Le cortex ou néo cortex
 
 Le cortex ou néo cortex est la substance grise qui entoure le cerveau.

@@ -65,17 +65,15 @@ _____________________   | k         |               | Test de Levene
 
 h0 : indépendance des deux variables
 
-| Type     | var         | Condition | Test     |
-| -------- | ----------- | --------- | -------- |
-| Linéaire | 2 var quant |           | Pearson  |
-| Rang     | 2 var quant | 3,4       | Spearman |
-            | 2 var quali                   | 1,5       | d’association du Khi2
-            | 2 var quali                   |           | exact de Fisher
-            | 2 var quali                   |           | Méthode de Monte Carlo
-            | 1 var quali et 1 var quanti   |           | ANOVA
-
+| Type     | var                         | Condition | Test                   |
+| -------- | --------------------------- | --------- | ---------------------- |
+| Linéaire | 2 var quant                 |           | Pearson                |
+| Rang     | 2 var quant                 | 3,4       | Spearman               |
+|          | 2 var quali                 | 1,5       | d’association du Khi2  |
+|          | 2 var quali                 |           | exact de Fisher        |
+|          | 2 var quali                 |           | Méthode de Monte Carlo |
+|          | 1 var quali et 1 var quanti |           | ANOVA                  |
 ## Cours tests statistiques et interprétation
-
 
 Les tests statistiques servent à vérifier si les données obtenues sont compatibles avec une propriété (par exemple, une moyenne théorique) et les différences observées dû au hasard de l'échantillonnage.
 

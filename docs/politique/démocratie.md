@@ -14,7 +14,6 @@ __Suffrage universelle__ tous les citoyens adultes disposent du droit de vote.
 
 !!! note
     Il existe des systèmes alternatifs au suffrage universel comme le vote par classement, appelé également vote préférentiel ou vote alternatif. Il s'agit d'une méthode de vote dans laquelle les électeurs classent les candidats par ordre de préférence.
-
 ## La démocratie en France
 
 * Le gouvernement qui est chargé de :
@@ -28,7 +27,6 @@ __Suffrage universelle__ tous les citoyens adultes disposent du droit de vote.
     * du contrôle de l'action gouvernementale.
 
 * Le conseil constitutionnel qui veille à la conformité des lois avec la constitution française.
-
 ### Adoption d'une loi
 
 __Projet de loi__ proposition de loi.
@@ -39,7 +37,6 @@ __Projet de loi__ proposition de loi.
 __Amendement__ proposition de modifications accompagnée par une discussion. Les amendements doivent ensuite être votés pour être adoptés. 
 
 __49.3__ article de loi qui permet d'adopter une loi sans le vote du parlement. 
-
 ### Structure
 
 #### Le gouvernement

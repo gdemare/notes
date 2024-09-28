@@ -1,4 +1,4 @@
-Le [[Système nerveux]] est constitué d'un réseau de cellules spécialisées appelées neurones soutenu, protégé, et nourrit par des cellules gliales.
+Le [[système nerveux]] est constitué d'un réseau de cellules spécialisées appelées neurones soutenu, protégé, et nourrit par des cellules gliales.
 
 Il permet le recueil de données du milieu intérieur et extérieur et, leur traitement conscient ou inconscient pour adapter le soi à l'environnement.
 
@@ -7,8 +7,7 @@ Chez certaines branches du vivant, la complexification du réseau a donné lieu 
 * ganglion (simple).
 * encéphale (complexe).
 
-Le [[Cerveau]] fait partie de la catégories des systèmes complexes càd des systèmes qui se modifient en réponse aux interactions passées, de son histoire. Autrement dit l'environnement fait partie intégrante de la structure qu'il adopte. Cela s'oppose à la notion de systèmes compliqués ou simples, pour lesquels l'étude des parties indépendamment permet de comprendre comment ils fonctionnent.
-
+Le [[cerveau]] fait partie de la catégories des systèmes complexes càd des systèmes qui se modifient en réponse aux interactions passées, de son histoire. Autrement dit l'environnement fait partie intégrante de la structure qu'il adopte. Cela s'oppose à la notion de systèmes compliqués ou simples, pour lesquels l'étude des parties indépendamment permet de comprendre comment ils fonctionnent.
 ## Le message nerveux
 
 Les neurones forment un réseau destiné au recueil et aux traitements de l'information qui circule sous forme de signaux :
@@ -22,7 +21,6 @@ Les neurones forment un réseau destiné au recueil et aux traitements de l'info
 L'intensité d'un stimulus est traduite électriquement en fréquence. Plus le signal sera fort plus la fréquence sera élevée.
 
 __Période réfractaire__ période minimale entre deux potentiels d'action dû à l'inactivation des canaux $Na^+$. C'est la fréquence maximale possible. Elle est de l'ordre de 1 à 2 millisecondes.
-
 ## La transmission du message nerveux au sein d'un neurone
 
 Le signal nerveux se déplace au sein d'un neurone des dendrites vers l'axone prend la forme d'une modification locale, temporelle et réversible de la différence de potentiels électrochimiques entre le milieu intracellulaire et le milieu extracellulaire.
@@ -36,11 +34,9 @@ Cette différence de charge est appelée potentiel. Elle est dû à des concentr
 * -70 mV Potentiel de repos.
 
 __Potentiel gradué__ amplitude de la variation.
-
 ## Potentiels électrique du neurone
 
 Le potentiel électrique du neurone est lié à la différence de concentrations des ions du cytosol et du milieu extracellulaire. Le signal nerveux est généré par un changement des concentrations ioniques. Il y aura une modification de charges entre les deux compartiments c'est-à-dire l'apparition d'un courant électrique.
-
 ## Concentration ioniques
 
 Chaque espèce chimique aura tendance à se répartir de manière homogène entre les deux compartiments c'est-à-dire à avoir la même concentration. Ors la perméabilité de la membrane plasmique varie en fonction du type d'ions (on parle de perméabilité sélective).
@@ -57,30 +53,16 @@ La cellule maintient une différence de concentration grâce aux pompes à sodiu
 
 Comme la membrane est perméable aux ions $K^+$ et que la concentration du milieu intracellulaire est supérieure à celle du milieu extracellulaire, les ions $K^+$ vont sortir de la cellule sous l'action de la diffusion. Cela va générer une charge négative dans le cytosol qui va alors s'opposer à leur sortie. L'équilibre est atteint lorsque les deux forces s'annulent.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>L’équation de Nernst donne la tension d’équilibre pour un ion
-c’est-à-dire la tension générée par la différence de concentration entre
-les deux compartiments (appelé potentiel électrochimique) :<span
-class="math inline"></span><span class="math display">$$E_{ion} = 62
-\times log\frac{{\lbrack ion\rbrack}_{ext}}{\lbrack
-ion\rbrack_{int}}$$</span></p>
-<p>Exemple : pour les cellules, il est de l’ordre de -70mV.</p></td>
-</tr>
-</tbody>
-</table>
+L’équation de Nernst donne la tension d’équilibre pour un ion c’est-à-dire la tension générée par la différence de concentration entre les deux compartiments (appelé potentiel électrochimique) :$$E_{ion} = 62 \times log\frac{{\lbrack ion\rbrack}_{ext}}{\lbrack ion\rbrack_{int}}$$
 
+!!! example
+	Pour les cellules, il est de l’ordre de -70mV.
 ### Potentiel de repos
 
 Au repos, un neurone a un potentiel de $-70 mV$ avec le milieu extracellulaire càd que l'intérieur de la cellule est chargée négativement par rapport au milieu extracellulaire.
 
 !!! note
     Les pompes à sodium et potassium consomment 40% de l'ATP produit par la cellule pour maintenir ces différences.
-
 ## Naissance et propagation du signal nerveux
 
 La propagation débute par la fixation de neurotransmetteurs aux récepteurs dendritiques.
@@ -101,7 +83,6 @@ La propagation débute par la fixation de neurotransmetteurs aux récepteurs den
 __Tétrodotoxine__ molécule qui bloque les canaux sodiums.
 
 __Dépolarisation__ passage du potentiel électrique de -70mV à 62mV.
-
 ### Seuil d'excitation
 
 Seuil d'excitation (ou d'activation) (-55mv) dépolarisation minimale pour laquelle le neurone déclenche la propagation du potentiel électrique.
@@ -110,13 +91,11 @@ La propagation du signal se fera uniquement si la dépolarisation atteint au min
 région voisine.
 
 L'apparition du potentiel d'action est un phénomène de tout ou rien. Si la seuil d'excitation est atteint, un potentiel d'action est généré et se propagera dans le neurone.
-
 ## Vitesse de propagation du potentiel
 
 Le diamètre de l'axone influe sur la vitesse de propagation du potentiel d'action. Plus il est large, plus vite il se propage. Par analogie avec un tuyau, l'augmentation du diamètre diminue les frottements.
 
 Chez les Mollusques, le diamètre des axones peut atteindre 1mm mais le signal ne se propage pas plus vite que chez les Vertébrés chez qui ils mesurent $20 \nu m$.
-
 ### L'isolation par la gaine de myéline
 
 En fait, l'évolution a fait émerger une solution différente pour augmenter la vitesse de propagation du potentiel électrique qui a consisté à isoler les axones avec un matériau qui possède une faible conductance appelé gaine de myéline. Les cellules qui produisent la gaine de myéline mesurent entre 1 à 2mm et sont enroulées autour de l'axone. Leur taille constitue la distance limite pour laquelle le potentiel d'action, en propageant, ne passe jamais en dessous du seuil d'activation. Entre les gaines de myéline se trouvent les nœuds de Ranvier où le potentiel d'action est régénéré.
@@ -129,7 +108,6 @@ Conduction saltatoire l'axone myéline permet au potentiel de se propager par sa
 
 !!! note
     Les parties protégées par la gaine de myéline ne contiennent pas de canaux ioniques.
-
 ## Propriété électrique du neurone
 
 __Capacitance__ capacité d'un milieu à accumuler des éléments chargés.
@@ -150,20 +128,17 @@ Le neurone a une conductance :
         * intracellulaire.
 
 * active très forte lorsque le seuil d'excitation est atteint car le potentiel d'action, les canaux ioniques s'ouvrent et dépolarisent la membrane. Le neurone devient un très bon conducteur.
-
 ### Conduction passive
 
 Le potentiel électrotonique (la propagation du courant) sans l'utilisation des canaux ioniques est quasiment instantanée mais elle décroit de façon exponentielle. La diminution de la tension en fonction de la distance parcourue : *\
-* $V_x = V_0 \cdot e^{\frac{- x}{\lambda}}
-$La distance de constance d'espace correspond à $\frac{1}{e} \cdot A$
+* $V_x = V_0 \cdot e^{\frac{- x}{\lambda}}$
+La distance de constance d'espace correspond à $\frac{1}{e} \cdot A$
 avec $A$ l'amplitude du potentiel. Elle dépend :
 
-$\lambda = \sqrt{\frac{R_m}{R_i} +
-R_e}$
+$\lambda = \sqrt{\frac{R_m}{R_i} + R_e}$
 
 $R_m$ résistance membranaire intracellulaire et extracellulaire en $\Ohm$.
 Constance d’espace $R_e$ résistance du milieu extracellulaire. Elle est négligeable.
-
 ### Caractériser l'excitabilité d'un neurone 
 
 Rhéobase potentiel minimale pour produire un PA. Quelle que soit la durée en dessous de celle-ci, il est impossible de produire un potentiel d'action.
@@ -171,21 +146,18 @@ Rhéobase potentiel minimale pour produire un PA. Quelle que soit la durée en d
 __Chronaxie__ durée minimale pour produire un courant électrique. Il correspond la durée qui permet de produire un courant de tension deux fois supérieur à la rhéobase.
 
 La charge minimale qui déclenche un potentiel correspond à la chronaxie.
-
 ### Période réfractaire
 
 La période réfractaire totale est la durée minimale pour avoir deux potentiels d'action produit par la même intensité. Elle est la somme de la période réfractaire : 
 
 * absolue :  durée durant laquelle toute stimulation quelques soit son intensité ne produit pas dépolarisation.
 * relative : durée durant laquelle l'intensité de la stimulation produira une différence de potentiel inférieure à la valeur habituelle.
-
 # La transmission du message nerveux entre les neurones
 
 Le passage du signal d'un neurone à un autre se faire dans les zones de contact appelées synapses. Les synapses peuvent connecter deux neurones au niveau de :
 
 * Souvent : axodendentritique, (axone-dendrite), axosynaptique (axone-synapse), axoaxonique (axone-axone).
 * Parfois : dendrodentrique, axoextracellulaire, axosécrétice.
-
 ## Les types de synapses
 
 Il existe deux types de synapses en fonction du type du message :
@@ -200,11 +172,9 @@ On distingue les synapses :
 
 * excitateurs.
 * inhibiteurs.
-
 ### Les synapses électriques
 
 Les synapses électriques sont des canaux qui relient directement deux neurones. La transmission est plus rapide que celle des synapses chimiques et peut se faire de manière bi directionnelle. Contrairement aux neurones chimiques, ils offrent moins de souplesse dans la réponse cellulaire au signal.
-
 ### Les synapses chimiques
 
 Une synapse est formée par un bouton pré synaptique et d'un autre post synaptique séparés par une fente. Le signal nerveux se fait par la libération d'agents chimiques, les neuromédiateurs (ou neurotransmetteurs) d'un pré neurone vers les récepteurs d'un post-neurone.
@@ -215,14 +185,12 @@ Chez les synapses chimiques, les neurotransmetteurs permettent :
 * à modulation précise de la réponse.
 
 __Plasticité synaptique__ capacité des neurones à modifier leur connexions en fonction de leur utilisation et de l'environnement. Cette propriété constitue la base de la plasticité cérébrale. comme les boutons synaptiques ne sont pas soudés, 
-
 ## Libération des neurotransmetteurs
 
 1. L'arrivée du potentiel électrique au niveau du pré synapse provoque l'ouverture des canaux $Ca^{2+}$ tension-dépendant.
 2. Le calcium entre dans le pré neurone.
 3. Son entrée provoque la libération des neurotransmetteurs dans la fente synaptique. Les vésicules contenant les neurotransmetteurs fusionnent avec la membrane plasmique et libèrent les neurotransmetteurs dans la fente synaptique.
 4. Ils se fixent sur les récepteurs du neurone postsynaptique provoquant soit l'ouverture ou soit la fermeture des canaux ioniques.
-
 ## Potentiel postsynaptique (PPS)
 
 L'ouverture des canaux ioniques créée un potentiel postsynaptique (PPS) qui modifie la probabilité que le neurone produise un potentiel d'action. Un PPS est dit :
@@ -249,7 +217,6 @@ Ors $Cl^-$ est chargé négativement donc $10 \gt 0$, Cl va sortir de la cellule
 __Potentiel d'inversion__ valeur pour laquelle le flux ionique est nul. Le franchissement de cette valeur change le sens du flux.
 
 __Différence de potentiel__ (noté ddp) différence de potentiel électrochimique entre le milieu intra et extracellulaire. Elle se mesure en Volt.
-
 ## Poids synaptique
 
 La valeur des poids synaptiques augmente en fonction de l'utilisation du réseau. Il dépend de :
@@ -258,7 +225,6 @@ La valeur des poids synaptiques augmente en fonction de l'utilisation du réseau
 * l'activation simultanée de plusieurs neurones pré synaptique.
 * la quantité de neurotransmetteurs libérée.
 * le nombre de récepteurs activés.
-
 ### Théorie des assemblées de neurones
 
 Des neurones excités ensembles renforceront le lien qui les unissent c'est-à-dire que le poids synaptique des neurones augmentera. Ainsi, les réseaux les plus sollicités se renforceront au cours du temps.
@@ -267,21 +233,12 @@ Cependant, si le poids synaptique descend en dessous d'un certain seuil, la conn
 
 !!! note
     Ce principe constitue la base de l'apprentissage associatif.
-
 ### Sommation des potentiels
 
 Pour atteindre le potentiel d'activation, un neurone peut se faire par sommation des PPS de :
 
 * plusieurs neurones présynaptiques activés quasi simultanément.
 * d'un seul neurone mais que les potentiels soient suffisamment rapprochés pour s'additionner.
-
-#
-
-
-## Neurogénèse
-
-lte.
-
 ## Oncologie et phylogénie du système nerveux
 
 La structure du système nerveux est le reflet de l'origine commune des êtres vivants.
@@ -379,11 +336,8 @@ Il comprend également les réseaux de vaisseaux sanguins et
 le liquide céphalo-rachidien localisé dans les cavités cérébrales.
 
 Le système nerveux se divise en deux entités :
-
-|                  |                       |
-|------------------|-----------------------|
-| SN Central (SNC) | SN Périphérique (SNP) |
-
+* SN Central (SNC)
+* SN Périphérique (SNP
 ### Les cellules gliales
 
 Les cellules gliales ont pour rôle d'assurer le bon fonctionnement des
@@ -403,8 +357,6 @@ Il existe cinq principaux types de cellules gliales :
 | Microglie          | Petit       | Défend                                    |
 | Oligodendrocyte    | Asymétrique | Forme la gaine de myéline (SNC)           |
 | Cellule de Schwann | Asymétrique | Forme la gaine de myéline (SNP)           |
-
-
 ## Le système nerveux central
 
 Dans le système nerveux central contient : 
@@ -415,7 +367,6 @@ Dans le système nerveux central contient :
 Le SNC est entouré d'un ensemble d'enveloppes appelées méninges.
 
 __Acéphalie__ sans tête.
-
 ### Les méninges
 
 Les méninges entourent tout le SNC. Ils sont composés de trois couches :
@@ -426,26 +377,22 @@ Les méninges entourent tout le SNC. Ils sont composés de trois couches :
 4. La pi mère collée au SNC. Elle pénètre dans les replis du SNC.
 
 Le faux cerveau est une extension de la dur mère qui sépare les hémisphères cérébraux.
-
 ### Le cerveau
 
 Le cerveau est composé d'une parties :
 
 * blanche au niveau des axones dû à la gaine de myéline.
 * grise corps cellulaire.
-
 ### Mise en place du SNC
 
 Le SNC est issu de la transformation de l'ectoderme (feuillet externe).
 
 Durant la phase embryonnaire, l'ectoderme va former un tube creux qui se subdiviser pour former le tronc cérébral.
-
 ## Le système nerveux périphérique (SNP)
 
 __Afférent__ qui apporte.
 
 __Efférent__ conduisant vers.
-
 ## La structure du cerveau
 
 Les mots utilisés pour décrire les formes du cerveau sont circonvolutions et scissures.
@@ -461,11 +408,9 @@ Le cerveau est séparé par
 Les quatre lobes du cerveau :
 
 La scissure de Rolando (sillon central) et latéral sépare le lobe frontal du reste du cerveau.
-
 ### Le cortex
 !!! note
     Cortex Il est protégé par le cortex cérébral (dont l'étymologie signifie « écorce »)
-
 ### Le liquide céphalorachidien (LCR)
 
 Le liquide céphalorachidien est sécrété par les épendymaires situés dans les ventricules dans des zones appelées plexus choroïdes. Il participe à :
@@ -478,15 +423,12 @@ Chez l'Homme, il y en a environ 150 ml.
 __Plexus choroïdes__ ensemble d'épendymaires qui sécrètent le LCR.
 
 Sa circulation et sa sécrétion se font au niveau de quatre cavités qui constituent les cavités ventriculaires. Le liquide sort par le quatrième ventricule.
-
 ### La barrière hémato-encéphalique (BHE)
 
 La barrière hémato-encéphalique est assurée par les cellules endothéliale (un type de cellules gliales) qui filtrent les éléments du sang. Elle se trouve à la jonction des capillaires sanguins.
-
 ### La circulation sanguine du SNC
 
 Chez l'Homme, le SNC consomme 20% de l'oxygène.
-
 ## La moelle épinière
 
 La moelle épinière se compose en partie d'un cordon de tissus nerveux protégé par 31 vertèbres.
@@ -513,14 +455,12 @@ Les informations :
 
 * sensorielles rentrent par la racine dorsale.
 * motrices quittent la moelle épinière par la ventrale.
-
 ### La circulation sanguine
 
 La circulation sanguine est assurée par deux systèmes complémentaires :
 
 * spinal longitudinal (le long des vertèbres)
 * Radiculaire (horizontal)
-
 ## Système Nerveux Périphérique
 
 Le SNP est un ensemble de 43 nerfs rattachés au SNC :
@@ -568,8 +508,8 @@ complémentaires :
 * Sympathique =\> excite
 * Parasympathique (« para » étym autour) =\> Régule (ralentie)
 
-[NB :]{.underline} Tous les organes disposant de nerf parasympathique
-possèdent un nerf sympathique (la réciproque est fausse).
+!!! note
+	Tous les organes disposant de nerf parasympathique possèdent un nerf sympathique (la réciproque est fausse).
 
 Le système sympathique est notamment composé d'un système d'alerte responsable des réactions au stress.
 
@@ -591,6 +531,8 @@ Le système sympathique est notamment composé d'un système d'alerte responsabl
 Il permet de contrôle les muscles intestinaux. 80% des communications avec le SNC circulent via le nerf vague.
 
 Le tube digestif est entouré de 2 couches de neurones (soit environ 100 millions de neurones) appelées plexus :
+Sous-muqueux
+Myentérique
 
 |              |             |
 |--------------|-------------|
@@ -643,7 +585,8 @@ paradoxal</p></td>
 </tbody>
 </table>
 
-[Rmq :]{.underline} c'est à partir du cervelet que l'on peut faire la distinction entre substance blanche et grise.
+!!! note
+	c'est à partir du cervelet que l'on peut faire la distinction entre substance blanche et grise.
 
 ### Parties issues du mésencéphale
 
@@ -692,54 +635,19 @@ C'est le lieu également du contrôle de :
 | La ventilation (respiration) | Du système cardiaque |
 
 La ventilation est commandée par deux systèmes :
-
-|             |              |
-|-------------|--------------|
-| Automatique | Émotionnelle |
+Automatique
+Émotionnelle
 
 La respiration est assurée par deux types de neurones :
+* inspiration
+* expiration
 
 |             |            |
 |-------------|------------|
 | Inspiration | Expiration |
-
 # Cerveau
 
 
-## Le neurone
-
-Schéma d'un neurone
-
-![](media/image8.png){width="3.3269225721784776in"
-height="1.7890485564304461in"}
-
-L'influe nerveux arrive par les dendrites puis est transmis par l'axone.
-
-### Le potentiel d'action d'un neurone
-
-Un neurone possède une charge négative de -70mv (potentiel de repos) qui s'explique par la présence plus nombreuse d'anion (ions -) dans le milieu intracellulaire.
-
-Dans un neurone, l'influx nerveux est la modification de la charge électrique :
-
-* Temporaire càd durant une courte période.
-* Locale càd d'une toute petite partie du cytosol du neurone
-
-Cette perturbation va se propager dans tout le neurone. La charge électrique dans le cytosol passe de -70mV à 35mV grâce à l'activation de pompes à sodium qui font entrer très rapidement une grande quantité de Na^+^ dans le neurone. L'augmentation du potentiel électrique active :
-
-* Les pompes à potassium (K^+^) locales qui viennent inhiber la charge en faisant sortir des ions K^+^ du neurone.
-* Les pompes à sodium voisines qui font entrer à leur tour des ions Na^+^
-
-L'activation et la désactivation des pompes ressemblent au déplacement d'une vague des dendrites vers l'axone.
-
-!!! note
-    Le sel (Na^+^) est une molécule importante pour le fonctionnement du cerveau. Une carence provoque un sous-développement des capacités cognitives de la personne qui est alors considérée idiote. Ce fut notamment le cas dans les régions pauvres en sel, comme chez les habitants des montagnes qui ont longtemps manqué de sel. On les qualifiait alors de « crétins des montagnes ».
-
-L'évènement qui provoque l'activation des premières pompes à sodium est l'activation de récepteurs par des neurotransmetteurs soit depuis :
-
-* la synapse d'un autre neurone.
-* le stimulus d'un récepteur.
-
-L'intensité d'un signal est proportionnelle à la fréquence des impulsions électriques qui se propagent dans les neurones.
 
 ----
 

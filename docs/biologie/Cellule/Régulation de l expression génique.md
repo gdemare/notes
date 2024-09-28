@@ -10,7 +10,6 @@ Les organismes unicellulaires s'adaptent aux conditions du milieu en modulant la
 
 !!! note
     Les mécanismes de régulation de l'expression génique chez les organismes unicellulaires sont également présents chez les Eucaryotes.
-
 ### L'opéron
 
 __Opéron__ groupe de gènes transcrit qui contient la majorité du temps toutes les instructions de fabrication des enzymes nécessaires à l'accomplissement d'une activité métabolique.
@@ -21,14 +20,13 @@ __Promoteur__ site de fixation de l'ARN polymérase à l'ADN. Cette interaction 
 
 Il existe deux types d'opérons en fonction de l'état par défaut dans lequel ils sont :
 
-* Inductibles (actif) la transcription est l'état par défaut.
-* Répressibles (inactif).
+* inductibles (actif) la transcription est l'état par défaut.
+* répressibles (inactif).
 
 La régulation est dite :
 
-* Négative lorsque les opérons peuvent être inactivés.
-* Positive lorsqu'une protéine de régulation déclenche la transcription.
-
+* négative lorsque les opérons peuvent être inactivés.
+* positive lorsqu'une protéine de régulation déclenche la transcription.
 ### Opérateur inductible
 
 Un gène avec un opérateur actif est naturellement transcrit en ARNm. Il peut être inactivé par une protéine appelée répresseur qui vient se fixer sur : 
@@ -36,7 +34,7 @@ Un gène avec un opérateur actif est naturellement transcrit en ARNm. Il peut �
 * l'opéron.
 * l'ARN polymérase.
 
-Le répresseur est codé par un autre séquence d'ADN avec un promoteur généralement moins strict. Souvent, il s'active lorsqu'il se lie avec le produit du gène qu'il bloque. Il va alors se fixer sur le ARN polymérase et empêcher la transcription.
+Le répresseur est codé par un autre séquence d'ADN avec un promoteur généralement moins strict. Souvent, il s'active lorsqu'il se lie avec le produit du gène qu'il bloque. Il va alors se fixer sur l'ARN polymérase et empêcher la transcription.
 
 Le répresseur peut être inactivé par une molécule appelé inducteur.
 
@@ -51,7 +49,6 @@ __Activateur__ protéine qui se lie à l'ADN et qui stimule la transcription.
 
 !!! note
     L'action conjuguée d'activateurs et de répresseurs permet à la cellule de régler précisément la vitesse de production des enzymes.
-
 ## Les Eucaryotes
 
 Chez les organismes pluricellulaires, toutes les cellules d'un individu partagent le même génome mais elles ont une utilisation très différentes de leurs gènes en fonction de leur rôle.
@@ -78,7 +75,6 @@ Tous l'ADN n'est pas accessible à la transcription par la cellule notamment lo
 
 * il est condensé càd sous forme d'hétérochromatine.
 * il est méthylé.
-
 ### Hétérochromatine
 
 Une partie de l'ADN est présent sous forme d'hétérochromatine, une forme condensée qui n'est que rarement utilisée. Elle peut être décondensée par la cellule par l'acétylation (ajout d'un groupement $-COCH_3$) des histones.
@@ -90,7 +86,7 @@ Une partie de l'ADN est présent sous forme d'hétérochromatine, une forme cond
 
 L'ADN peut être rendu inactif par l'ajout de groupements méthyles (-CH3) sur la chromatide par une enzyme. Cet état est réversible mais la méthylation n'est que rarement supprimée. En cas de division cellulaire, la méthylation sera transmise aux cellules filles.
 
-Ainsi, l'ensemble des cellules issues d'une cellule mère partageront une utilisation communes des gènes.
+Ainsi, l'ensemble des cellules issue d'une cellule mère partageront une utilisation communes des gènes.
 
 !!! note
     Cette propriété permet notamment l'émergence de tissus spécialisés.
@@ -141,7 +137,6 @@ Les facteurs de transcriptions agissent soit comme :
 
 La permet à la cellule de régler précisément la vitesse de transcription
 Le contrôle combinatoire
-
 ### Les amplificateurs
 
 __Amplificateur__ séquence d'ADN située en amont aval ou à l'intérieur d'un intron constitué d'une combinaison unique pour chaque gène d'environ une dizaine d'éléments de contrôle.
@@ -158,18 +153,15 @@ Chaque élément de contrôle est une séquence qui contient environ 10 nucléot
 La transcription de gènes qui codent pour des protéines impliquées dans une même voie métabolique est coordonné grâce à l'utilisation d'un ensemble commun d'éléments de contrôle spécifique.
 
 Généralement l'activations des gènes se fait en réponse à un message extracellulaire.
-
 ### Les répresseurs
 
 Les répresseur agissent soit :
 
 * En se liant au site de liaison des activateur ce qui empêche la liaisons avec les composantes ou avec les protéines régulatrices.
 * En désactivant le complexe de transcription.
-
-### les activateurs
+### Les activateurs
 
 Les activateurs disponibles diffèrent en fonction du type de cellules permet l'activation des différents amplificateurs.
-
 ## Les mécanismes de régulation post transcriptionnel
 
 La transcription n'est qu'une étape dans la production des protéines. La régulation peut avoir lieu après la transcription de l'ADN en ARNm. Elle permet notamment à la cellule de pouvoir adapter rapidement sont métabolisme sans modifier son expression génique.
@@ -189,17 +181,14 @@ La régulation peut s'exercer
 
 !!! note
     Chez les bactéries, la dégradation de l'ARNm survient quelques minutes après leur fabrication.
-
 ### L'épissage
 
 Le nombre de façon permet de générer une grande diversité de protéines à partir d'un seul gène en fonction de protéines.
-
 ### Régulation de la traduction
 
 La traduction peut être régulée par des protéines qui viennent se fixer aux extrémités de l'ARNm et qui empêchent l'appareillage des ribosomes.
 
 Dans les ovules, un certain nombre d'ARN n'ont pas de queue poly A suffisamment longue pour que débute la traduction. Une enzyme vient ajouter des nucléotides au moment où débute le développement embryonnaire.
-
 ## Régulation post traductionnelle
 
 La régulation post traductionnelle peut avoir lieu avant que la protéine devienne fonctionnelle notamment :
@@ -210,14 +199,12 @@ La régulation post traductionnelle peut avoir lieu avant que la protéine devi
 
 !!! note 
     Certaines modifications fonctionnelles sont nécessaires à l'activation des protéines pour comme pour les glucides membranaires qui ne deviennent actifs qu'une fois qu'ils ont atteint leur site de destination.
-
 ## La régulation génique et le développement 
 
 La régulation génique est primordiale à la fois :
 
 * Pour coordonner le développement chez les Animaux afin de permettre à un individu d'émerger d'une seule cellule.
 * Pour que chaque cellule puisse réaliser le rôle qui lui est destiné notamment car toutes les cellules partagent le même génome.
-
 ### Le développement
 
 Le développement animal résulte de trois processus interdépendants et simultanés :
@@ -244,10 +231,7 @@ Les facteurs de croissances
 Deviennent plus important au fur et à mesure du développement
 
 Induction changements du comportement cellulaire provoqués par les stimulus de l'environnement.
-
-## Dérégulation de l'expression génétiques
-
-Les cancers
+## Dérégulation de l'expression génétiques : les cancers
 
 Les cancers sont dû un dérèglement du cycle cellulaire d'une cellule provoquer par l'accumulation de modifications de l'ADN. La cellule se multiplie anormalement vite et de façon anarchique.
 
@@ -257,8 +241,8 @@ __Oncogène__ gène mutant à l'origine du cancer. Le gène dans sa version non 
 
 Par rapport à une cellule normale, la protéine produite par l'oncogène :
 
-* Est soit en quantité anormalement élevée.
-* Soit à une activité anormalement élevé.
+* est soit en quantité anormalement élevée.
+* soit à une activité anormalement élevé.
 
 !!! note
     L'augmentation de l'activité de la protéine est uniquement dû une modification de la séquence d'ADN de l'oncogène c'est-à-dire à un changement dans la structure de la protéine.
@@ -268,7 +252,6 @@ L'augmentation de la quantité de la protéine a principalement comme origine :
 * Une mutation du code de l'oncogène qui modifie la structure de la protéine ce qui provoque un ralentissement de son élimination.
 * Une multiplication des copies de l'oncogène.
 * Une mutation dans les séquences régulatrices liés à l'oncogène.
-
 ### Les causes de l'apparition des oncogènes
 
 Les trois principales causes à l'origine de la transformation d'un gène en oncogène sont :
@@ -281,7 +264,6 @@ Elles principalement attribuablent à des facteurs :
 
 * Biologique (mutation aléatoire, virus...)
 * Environnement (pollution, UV...)
-
 ### Les gènes suppresseurs de tumeurs
 
 Il existe des gènes suppresseurs de tumeurs

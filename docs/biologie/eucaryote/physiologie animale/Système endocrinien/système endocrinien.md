@@ -21,7 +21,7 @@ Le système endocrinien est principalement impliqué dans la régulation de :
 * la croissance.
 * le comportement.
 
-Chaque [[Hormones]] est reconnue par un récepteur spécifique que possède les cellules dites cibles. L'activation du récepteur par l'hormone déclenche des réactions au sein de la cellule.
+Chaque [[hormones]] est reconnue par un récepteur spécifique que possède les cellules dites cibles. L'activation du récepteur par l'hormone déclenche des réactions au sein de la cellule.
 
 Les modes de transmission entre les cellules animales sont classés en fonction :
 

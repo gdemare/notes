@@ -32,7 +32,6 @@ La génétique des populations s'intéresse à l'histoire des populations. En co
 
 !!! example
     C'est utile pour anticiper les pertes de diversité génétique et prévenir les risques liés à la consanguinité en organisant par exemple des réintroductions pour maintenir un certain niveau de diversité génétique dans la population.
-
 ### Les indicateurs de diversité
 
 * Taux d'allèles hétérozygotes.
@@ -96,18 +95,18 @@ Cela stipule que la recombinaison allélique et la ségrégation mendélienne so
 
 Dans la réalité, il existe de multiples causes qui peuvent modifier les fréquences alléliques d'une génération à l'autre :
 
-* Les mutations dans les cellules germinales (gamètes).
-* La dérive génétique. Cela correspond au « tirage au sort » lors de la formation des gamètes qui peut ne pas être représentatif de la population.
-* Lorsque la rencontre entre les deux gamètes n'est pas aléatoire.
-* Des différences de taux de survie et de fécondité en fonction des allèles. C'est ce que l'on appelle la valeur sélective.
-* Les migrations avec des fréquences alléliques différentes de la population étudiée.
+* les mutations dans les cellules germinales (gamètes).
+* la dérive génétique. Cela correspond au « tirage au sort » lors de la formation des gamètes qui peut ne pas être représentatif de la population.
+* lorsque la rencontre entre les deux gamètes n'est pas aléatoire.
+* des différences de taux de survie et de fécondité en fonction des allèles. C'est ce que l'on appelle la valeur sélective.
+* les migrations avec des fréquences alléliques différentes de la population étudiée.
 
 __Distorsion de ségrégation miotique__ groupe de gènes souvent situé sur le même chromosome transmis ensemble qui confère un avantage sélectif. Par exemple, l'absence de ce groupe entraine la mortalité du gamète.
 
 En fonction du nombre d'allèles, on qualifiera l'équilibre de :
 
-* Polymorphe (plusieurs allèles)
-* Monomorphe (1 seul allèles).
+* polymorphe (plusieurs allèles)
+* monomorphe (1 seul allèles).
 
 Pour vérifier si une population est à l'équilibre :
 
@@ -128,21 +127,17 @@ Si $X^2 \lt X^2(\alpha)$, on dira alors que l'on ne rejette pas $H_0$. La popula
 
 !!! note
     Généralement, on calcul à partir des fréquences alléliques observées les phénotypes théoriques à obtenir si la population est à l'équilibre. On vérifie ensuite que la conformité des résultats en utilisant le test du Khi-2.
-
 ### Mutation
 
 On parle notamment du taux de mutation par gamète et par génération.
 
-Pour un allèle A de fréquence $P_n$ avec un taux de mutation $u$, sa fréquence à la génération suivante est
-
+Pour un allèle A de fréquence $P_n$ avec un taux de mutation $u$, sa fréquence à la génération suivante est :
 $$P_{n + 1} = P_n - u \cdot P_n$$
-
 Les mutations récurrentes influencent peu les fréquences alléliques seules. Combinées avec d'autres facteurs évolutifs (environnement...), elles permettent de créer la variabilité initiale.
 
 __Taux mutation reverse__ taux de mutation qui annule la mutation.
 
 Le taux de mutation chez les Végétaux et les Animaux est d'environ 1 pour 100 000 gènes.
-
 ### Dérive génétique
 
 __Dérive génétique__ fluctuation aléatoire des fréquences alléliques d'une
@@ -169,7 +164,6 @@ On cherche à déterminer pour un individu quelqu'une à quelle fréquence il y 
     La dérive génétique entraine une diminution des allèles et donc de la variabilité génétique.
 
 Elle est d'autant plus rapide pour les populations de faibles effectifs.
-
 ### Les rencontres non aléatoires entre les gamètes 
 
 On parlera de pangamie lorsque les gamètes se rencontrent au hasard (et de panmixie pour les rencontres entre les individus).
@@ -179,7 +173,6 @@ Les causes de croisements non-panmixie peuvent être dû à :
 * Autofécondation
 * Consanguinité (de choix, de position ou dû au faible effectif)
 * Homogamie (et hétérogamie) c'est lorsqu'un individu a tendance à se reproduire avec un partenaire avec qui, il partage le même phénotype.
-
 #### Autofécondation
 
 À l'équilibre, on aura uniquement des homozygotes car même si l'individu est hétérozygote (Aa), ces descendants auront 50% de chance de conserver l'hétérozygote : $1 = \frac{1}{4} \cdot AA + \frac{1}{2} \cdot Aa + \frac{1}{4} \cdot aa$
@@ -189,7 +182,6 @@ La probabilité d'hétérozygote diminue de moitié à chaque génération : $H
 La perte des hétérozygotes est extrêmement rapide et tout le génome est concerné.
 
 $$A_n = A_0 + H_0 \cdot (1 − 0, 5)^n \cdot 0,5$$
-
 Avec : 
 
 * $A_0$ la fréquence d’homozygotes AA dans la population.
@@ -198,7 +190,6 @@ Avec :
 Ainsi, sur le long terme (c'est-à-dire quand $n$ tend vers $+ \infty$), les fréquences alléliques ne changent pas.
 
 Dans la Nature et notamment chez les plantes, il existe des mécanismes d'auto-incompatibilité qui permettent de prévenir en partie l'autofécondation.
-
 #### Consanguinité
 
 Les principales causes de consanguinité sont :
@@ -225,7 +216,6 @@ Quelle est la probabilité de trouver des gènes identiques entre C et B ?
 
 La proportions de gènes communs entre B et C est
 $\frac{1}{2} \cdot (1 - F_a) + F_a = \frac{1}{2} \cdot (1 + F_a)$
-
 ### La sélection
 
 !!! note
@@ -264,14 +254,12 @@ Pour un caractère donné, la sélection naturelle conduit soit à favoriser :
 * un extrême. On parle de sélection directionnelle.
 * les extrêmes sont avantagés par rapport au phénotype intermédiaire. On parle de sélection divergente ou disruptive.
 * Le phénotype intermédiaire est favorisé. Toutes déviations sont désavantagées. On parle de sélection stabilisante ou normalisante.
-
 ## Sélection sexuelle
 
 La sélection sexuelle peut donner lieu à un dimorphisme :
 
 * Intrasexuelle (entre les individus du même sexe). Cela donne souvent lieu à un mâle dominant qui dispose d'un groupe de femelles. La dominance s'établie souvent au cours de parade ou de lutte entre les individus du même sexe.
 * Sélection intersexuelle : sélection par un des sexes sur l'autre. C'est généralement la femelle qui choisit le partenaire qui maximise le nombre de caractères indicateurs de « bons gènes ».
-
 ## Migration
 
 __Flux génétique__ échange d'allèles entre des populations.

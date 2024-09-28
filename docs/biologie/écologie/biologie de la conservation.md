@@ -30,7 +30,7 @@ La diversité à trois niveaux :
 
 Quelles sont les raisons qui justifieraient de protéger la biodiversité ?
 
-* Un devoir de morale nous sommes le principal responsable de la situation.
+* Un devoir de morale nous sommes les principaux responsables de la situation.
 * Une source d'inspiration et une réserve de connaissance où l'on peut puiser pour améliorer nos vies. Par exemple gènes de résistances, propriétés de nouvelle substances actives utile pour élaborer de nouveaux médicaments. L'ARN polymérase utilisé dans la PCR découverte chez des Bactéries thermophiles.
 
 La perte et le nombre d'espèces menacées sont tellement important qu'il sera impossible de toutes les sauver. Nous devons choisir les espèces que l'on souhaite conserver.

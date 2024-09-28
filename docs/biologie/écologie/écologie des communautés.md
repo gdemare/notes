@@ -1,10 +1,8 @@
-__Communauté__ ensemble des espèces qui vivent proches les unes des autres.
+__Communauté__ ensemble des espèces qui vive proche les unes des autres.
 
-Interaction entre les espèces
+L'écologie des communautés s'intéresse aux interactions entre les espèces. Plusieurs facteurs influent l'abondance (le nombre) et les types d'espèces.
 
-Facteurs qui influent sur l'abondance (le nombre) et les types d'espèces.
-
-Le classement des interactions interspécifiques :
+Les interactions interspécifiques peuvent être :
 
 * nuisible.
 * utile.
