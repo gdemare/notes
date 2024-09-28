@@ -26,18 +26,20 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 
 !!! note
 		Il est possible d'estimer la p-valeur d'un test en générant un grand nombre (au moins 1000) d'expériences aléatoires.
+  
 ## Une distribution
 
-H0                        | Test
---------------------------|---------------------
-Normalité                 | Shapiro-Wilk
-Pas de valeurs extrêmes   | Dixon
-Pas de valeurs extrêmes   | Grubbs
+|  H0                        | Test		|
+|--------------------------|--------------------|
+| Normalité                 | Shapiro-Wilk	|
+| Pas de valeurs extrêmes   | Dixon		|
+| Pas de valeurs extrêmes   | Grubbs		|
 ## Un échantillon et une valeur théorique
 
 | H0         | Condition | Test                          |
 | ---------- | --------- | ----------------------------- |
 | Moyenne    | 4         | student (appelé aussi test t) |
+| Médiane    |           | Wilcoxon 			 |
 | Proportion |           | Khi2                          |
 | Variance   |           | Khi2                          |
 ## Paramètre de plusieurs échantillons
@@ -83,7 +85,7 @@ Les tests statistiques servent à vérifier si les données obtenues sont comp
 | Choix/Réalité | $H_0$        | $H_1$    |
 | ------------- | ------------ | -------- |
 | $H_0$         | $1 − \alpha$ | $\alpha$ |
-|  $H_1$        | $\beta$      | $1 - \beta$ (appelé puissance du test)
+| $H_1$        	| $\beta$      | $1 - \beta$ (appelé puissance du test) |
 Interprétation : Au risque $\alpha$ est accepté $H_1$ alors que c'est faux. Cela correspond au rejet à tort de l'hypothèse nulle.
 
 !!! note
@@ -178,8 +180,8 @@ Degré de liberté : ${(modalité}_{ligne} - 1)({modalité}_{colonne} - 1)$
 Il faut faire :
 
 1. Tableau de contingence (appelé aussi effectif).
-2. Tableau des effectifs théoriques : $p\left( A \middle| B \right)*p\left( B \middle| A \right)*eff\ tot$ ou directement $\frac{N_{ligne\ total} \times N_{colonne\ total}}{N_{total}}$.
-3. Calcul du khi2 théorique pour chaque croissement de modalité : $\frac{{(n}_{obs} - n_{theo})²}{n_{theo}}$.
+2. Tableau des effectifs théoriques : $p\left( A \middle| B \right) \cdot p\left( B \middle| A \right) \cdot eff\ tot$ ou directement $\frac{N_{ligne\ total} \times N_{colonne\ total}}{N_{total}}$.
+3. Calcul du khi2 théorique pour chaque croissement de modalité : $\frac{{(n}_{obs} - n_{theo})^2}{n_{theo}}$.
 4. Somme des valeurs pour chaque modalité et calcul de la statistique :
     1. LOI.KHIDEUX.INVERSE.DROITE(proba; degré de liberté)
     2. P-value : LOI.KHIDEUX.DROITE(valeur; degré de liberté)
@@ -200,20 +202,23 @@ Le test Kolmogorov-Smirnov est un test qui compare la fonction de répartition. 
 * de comparer la distribution d'un échantillon avec celui d'une loi statistique.
 ### Correction
 
-Lorsque plusieurs tests sont réalisés, il faut utiliser une correction l'erreur lié à la multication des erreurs. Les p valeur sont relevées pour éviter de se tromper lorsqu'il a de nombreux tests.
+Lorsque plusieurs tests sont réalisés, il faut utiliser une correction l'erreur liée à la multication des erreurs. Les p valeur sont relevées pour éviter de se tromper lorsqu'il a de nombreux tests.
 
-Le risque d'erreur augmente avec le nombre de test. Le risque de faire une erreur est alors de  $1-\sum{1-\alpha}^n$. le risque de se tromper dans le test est alors de 26% de risque de se tromper au moins une fois.
+Le risque d'erreur augmente avec le nombre de tests. Le risque de faire une erreur est alors de  $1-\prod{1-\alpha}$. 
 
-deux approches :
+!!! example
+	Le risque de se tromper pour 4 tests est de $1-(1-0,05)^6 = 26%$ de risque de se tromper au moins une fois.
 
-* Controle le risque alpha global de se tromper au moins une fois ; on l’appelle le “Family-wise error rate” (FEWR) en anglais
-* Controler le risque alpha global de se tromper au moins une fois, mais en ne considérant que les tests qui ont rejetté H0 ; On l’apelle le “False discovery rate” (FDR) en anglais.
+Deux approches :
+
+* Controle le risque alpha global de se tromper au moins une fois ; on l’appelle le “Family-wise error rate” (FEWR) en anglais.
+* Controler le risque alpha global de se tromper au moins une fois, mais en ne considérant que les tests qui ont rejetté $H_0$ ; On l’apelle le “False discovery rate” (FDR) en anglais.
 
 L'idée serait de modifier les p-valeurs pour que le risque global chute à 0.05% mais les modification dépendent du nombre de tests.
 Ajuster les p-valeur en les augmentant.
 
-Family wise error rate 
+Family wise error rate :
 
-* méthode Bonferroni corrige toutes les p valeurs en une fois. est trop restrictive 
+* méthode Bonferroni corrige toutes les p valeurs en une fois (méhtode très restrictive).
 * méthode d’Holm qui corrige de façon séquentielle chaque p valeur.
 
