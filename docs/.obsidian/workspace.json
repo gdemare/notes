@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "biologie/cellule/microtubule.md"
+              }
             }
           }
         ]
@@ -138,7 +140,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "fe31ab5bb25642ed",
+  "active": "87dc442f218cc64f",
   "lastOpenFiles": [
     "biologie/écologie/génétique des populations.md",
     "biologie/cellule/cycle cellulaire/cycle cellulaire.md",
@@ -154,7 +156,7 @@
     "biologie/cellule/organisation cellulaire/jonctions cellulaires.md",
     "biologie/cellule/organisation cellulaire/organites/organites.md",
     "biologie/cellule/organisation cellulaire/organites/mitochondries.md",
-    "microtubule.md",
+    "biologie/cellule/microtubule.md",
     "mathématique/mathématique.md",
     "data science/statistique dictionnaire.md",
     "biologie/eucaryote/plante/transport hydrique.md",
