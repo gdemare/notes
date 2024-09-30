@@ -4,7 +4,6 @@ Elle forme une bicouche qui sépare deux espaces aqueux :
 * cytoplasme
 
 C'est à la fois la barrière et la zone d'échanges de la cellule.
-
 ## Composition de la membrane plasmique
 
 La membrane plasmique est constituée de trois types de molécules.

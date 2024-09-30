@@ -1,10 +1,8 @@
-# Les adaptations des plantes à leur environnement
+L'adaptations des plantes à leur environnement càd la spéciation des plantes a leur environnement a lieu généralement en trois étapes :
 
-La spéciation des plantes à lieu généralement en trois étapes :
-
-1. Acclimatation la plante à son environnement.
-2. Adaptation par la sélection naturelle des caractères les plus avantageux à l'environnement.
-3. Spéciation. Les différences conduisent à l'incapacité de fécondation avec l'espèce d'origine.
+1. acclimatation la plante à son environnement.
+2. adaptation par la sélection naturelle des caractères les plus avantageux à l'environnement.
+3. spéciation. Les différences conduisent à l'incapacité de fécondation avec l'espèce d'origine.
 
 __Écotype__ phénotype dans un environnement donné.
 
@@ -13,13 +11,11 @@ __Acclimatation__ plusieurs phénotypes possibles en fonction de l'environnement
 Adaptation un seul phénotype, appelé écotype, est sélectionné par les contraintes environnementales
 
 Les végétaux font preuve d'une grande plasticité dans leur développement.
-
 ## Aux milieux aquatiques
 
 __Hélophyte__ (amphibie) une partie de la plante se dresse au-dessus de la surface de l'eau.
 
 __Hydrophyte__ (aquatique) plante qui vie totalement dans l'eau.
-
 ### Hydrophytes
 
 Les plantes hydrophytes peuvent être immergé ou à feuilles flottantes avec un mode vie libre ou fixé.
@@ -30,46 +26,43 @@ Les plantes aquatiques doivent faire face à d'autres contraintes par
 rapport à celles terrestres.
 
 * Structure moins rigide à cause de la portance de l'eau et
-* Port érigé besoin de flotter
+* Port érigé besoin de flotter.
 * aérenchyme parenchyme modifier qui contient des poches de gaz permettant de flotter.
 
 __Sclérite__ structure de renforcement et de stockage minéral
 
-Par exemple, chez les nénuphars, il existe des différentes structres entre les feuilles jeunes et matures pour faire circuler les gazs dans toute la plante. La partie dorsale de la feuille ne possède pas de stomates. Les échanges gazeux ont lieu directement avec l'eau.
-
+!!! example
+	Chez les nénuphars, il existe des différentes structres entre les feuilles jeunes et matures pour faire circuler les gazs dans toute la plante. La partie dorsale de la feuille ne possède pas de stomates. Les échanges gazeux ont lieu directement avec l'eau.
 ### Le cas particulier des mangroves
 
 Les mangroves sont des végétaux hélophytes.
 
 __Hélophyte__ plante qui vit dans des substrats gorgés d'eau comme les marais. Elle peut avoir des racines qui émergent du substrat pour capter l'oxygène appelé pneumatophore.
-
 ## Milieux oligotrophes
 
 __Milieu oligotrophe__ (par opposition à eutrophe) milieu particulièrement pauvre en éléments nutritifs.
-
 ### Les plantes carnivores
 
 Les plantes carnivores se nourrissent pour partie d'animaux qu'elles capturent grâce à des pièges qui peuvent être de trois types.
 
-* Passif
-* Piège semi actif
-* Piège actif
+* passif.
+* piège semi actif.
+* piège actif.
 
 La digestion peut se faire par :
 
-* Des interactions symbiotiques
-* Des enzymes sécrétés par la plante
+* des interactions symbiotiques.
+* des enzymes sécrétées par la plante.
 
 !!! note
-    La digestion passive par symbiose peut avoir lieunotamment grâce à des bactéries ou des animaux.
-
+    La digestion passive par symbiose peut avoir lieu notamment grâce à des bactéries ou des animaux.
 ### Plantes symbiotiques
 
-Les Myrmécophytes sont des plantes épiphytes qui ont noué une relation symbiotique avec les fourmis pour compenser le manque d'éléments nutritifs de leur environnement. La forme de leur racine constitue un abri pour les fourmis. La plante récupère les déchets et débris organiques en échange d'une protection et d'un gîte aux fourmis dans une urne avec des racines adventives.
-
+!!! example
+	Les Myrmécophytes sont des plantes épiphytes qui ont noué une relation symbiotique avec les fourmis pour compenser le manque d'éléments nutritifs de leur environnement. La forme de leur racine constitue un abri pour les fourmis. La plante récupère les déchets et débris organiques en échange d'une protection et d'un gîte aux fourmis dans une urne avec des racines adventives.
 ## Aux milieux chauds et secs (xérophyte)
 
-Xérophyte plante adaptée aux climats chauds et secs.
+__Xérophyte__ plante adaptée aux climats chauds et secs.
 
 Les stratégies principales que les plantes ont mis en place pour répondre aux climats chaud et secs (stress hydrique) sont :
 
@@ -126,26 +119,23 @@ Malacophyte :
 
 * Parenchyme aquifère qui sert au stockage de l'eau. Face abaxiales lisse vers l'extérieur adaxiales sillons
 
-Aphyllie plante qui caractérisée par l'absence de feuille, la photosynthèse a lieu sur la tige.
-
+__Aphyllie__ plante caractérisée par l'absence de feuille, la photosynthèse a lieu sur la tige.
 ## Aux milieux froids et soumis au gel
 
 __Phénologie__ étude de l'apparition des événements périodiques.
 
-Orophyte plantes dont la répartition se limite aux collines et aux montagnes.
+__Orophyte__ plantes dont la répartition se limite aux collines et aux montagnes.
 
 Les trois principales stratégies de survie au gel développées par les végétaux sont :
 
-* La prévention, par exemple, en augmentant la concentration de minéraux diminuer la température de solidification.
-* Survie
-* Survie aux effets secondaires du gels
+* la prévention, par exemple, en augmentant la concentration de minéraux diminuer la température de solidification.
+* la survie
+* la survie aux effets secondaires du gels
 
 __Hydathode__ ouverture qui permettent d'évacuer l'eau.
-
 ## Plantes avec des modes de vie particuliers
 
 __Pyrophyte__ plante adaptée au feu.
-
 ### Les épiphytes
 
 __Épiphyte__ plante qui pousse sur la partie aérienne d'une autre espèce. L'hôte est appelé phorophyte.
@@ -154,7 +144,6 @@ Les épyphytes sont soumises à de nouvelles contraintes qui les ont poussé à 
 
 * velamen couche celluaire qui recouvre les racines. Elle absorbe l'humidité présente dans l'air à la manière d'une éponge.
 * des racines photosynthétiques.
-
 ### Les plantes parasites
 
 On distingue deux types de parasitisme chez les plantes :
@@ -166,7 +155,6 @@ On distingue deux types de parasitisme chez les plantes :
     Les holoparasites sont des plantes qui ont perdu lacapacité de photosynthèse.
 
 __Épirhize__ plante qui utilise les racines d'une autre espèce.
-
 ## Les adaptations au stress biotiques
 
 Les plantes ont développé des organes qui leur permettent de se protéger des prédateurs que constituent notamment les animaux :

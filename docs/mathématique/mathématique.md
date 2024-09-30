@@ -1,10 +1,13 @@
 ## Domaines
 
-* __Algébre__
-* __Géométrie__ 
-* __Probabilité__
-* __Statistique__ études des phénomènes à travers la collecte de données, leur traitement, leur analyse, et l'interprétation des résultats. Elle comprend également la présentation des données et des résultats. La statistique appartient à l'ensemble de la science de la donnée.
-
+* __algèbre__
+* [[algorithmie]]
+* __[[arithmétique]]__
+* __[[géométrie]]__ 
+* [[matrice]]
+* [[vecteur]]
+* __[[probabilité]]__
+* __[[statistique]]__ études des phénomènes à travers la collecte de données, leur traitement, leur analyse, et l'interprétation des résultats. Elle comprend également la présentation des données et des résultats. La statistique appartient à l'ensemble de la science de la donnée.
 ## Les connecteurs logiques
 
 Pas clair à revoir
@@ -14,7 +17,6 @@ Pas clair à revoir
 * $A et non(B)$
 * $non (B) \Rightarrow non(A)$ contraposée est vrai seulement si $A \Rightarrow B$ l'est aussi.
 * $\Rightarrow A$ réciproque
-
 ## Lettres grecques
 
 Majuscule	| Minuscule	| Nom 
@@ -39,14 +41,12 @@ Majuscule	| Minuscule	| Nom
 Χ 		| χ 		| Xi
 Ψ 		| ψ 		| Psi
 Ω 		| ω 		| Oméga
-
 ## Identités remarquables
 
 Factoriser et développer
 
-...pour les polyn. (appelé forme canonique).
+...pour les [[polynôme]]s. (appelé forme canonique).
 Connaitre les variations de $f(x)$.
-
 ## Identités remarquables
 
 * $(x - a)^2 = x^2 -2ax + a^2$
@@ -54,7 +54,7 @@ Connaitre les variations de $f(x)$.
 * $x^2 - y^2 = (x - y)(x + y)$
 
 !!! note
-	Les identifés remarquables sont notammet utilisées dans la factorisaiton d'un polynome de second degré d'abord (1) ou (2) puis (3).
+	Les identités remarquables sont notamment utilisées dans la factorisation d'un polynôme de second degré d'abord (1) ou (2) puis (3).
 
-* Déviré premier sens de variation
+* Dérivé premier sens de variation
 * Dérivé second permet de détecter les plateaux.

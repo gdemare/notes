@@ -26,7 +26,7 @@ Il comprend 3 types de composante :
 * La substance fondamentale amorphe.
 
 !!! note
-    La substance fondamentale et les fibres forment la [[Matrice Extracellulaire]] (MEC).
+    La substance fondamentale et les fibres forment la [[matrice extracellulaire]] (MEC).
 
 Les membranes basales sont des feuillets de protéines de la MEC jouant un rôle d'interface entre les tissus de soutien et les cellules parenchymateuses.
 
@@ -37,8 +37,8 @@ Il existe 3 classes principales de tissu conjonctif :
 * Spécialisés :
 
     * Adipeux
-    * Cartilagineux [[Cartilage]]
-    * Osseux [[Os]]
+    * Cartilagineux [[cartilage]]
+    * Osseux [[os]]
     * Hématopoïétique (moelle osseuse).
 
 Il est :
@@ -110,7 +110,6 @@ Pas de membre entourant la vacuole lipidique, mais une simple couche phospholipi
 Chondroblaste (ou chondrocyte) cellule qui produit la matrice du cartilage.
 
 Les ostéoblastes/cytes Les ostéoblastes recouvrent les sites de formation active de l'os où ils déposent la matrice organique de l'os non-minéralisée, l'ostéoïde et initient et contrôlent sa minéralisation.
-
 ### Les macrophages
 
 Les cellules macrophages sont
@@ -135,14 +134,12 @@ Les leucocytes (ou les globules blancs) sont les cellules qui composent le plasm
 * Éosinophiles en grand nombre dans les tissus.
 * Plasmocytes, synthétisant les anticorps.
 * Neutrophiles : peu nombreux dans les tissus sauf cas d'inflammation aigüe ou chronique.
-* Lymphocytes.
-
+* [[lymphocyte]]s.
 ## La matrice extracellulaire (MEC)
 
 La matrice est composée principalement de :
 
 * Fibres.
-
 ### Les fibres
 
 Les principales fibres qui composent la MEC sont :

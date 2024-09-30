@@ -20,8 +20,8 @@ Le point de restriction G1 est le plus important. Il sert à vérifier de l'int�
 
 L'horloge cellulaire est principalement régie par les fluctuations de la quantité et de l'activité de deux types de protéines :
 
-* Les kinases qui activent ou inhibent des protéines par phosphorisation. Elles sont la plupart du temps inactives et en quantité constantes.
-* Les cyclines sont des protéines dont la quantité varie au cours du cycle cellulaire.
+* les kinases qui activent ou inhibent des protéines par phosphorisation. Elles sont la plupart du temps inactives et en quantité constantes.
+* les cyclines sont des protéines dont la quantité varie au cours du cycle cellulaire.
 
 !!! note
     Les cellules en phase G0 ne contiennent pas de cyclines.
@@ -30,7 +30,6 @@ Généralement, la kinase est rendue active par l'interaction avec les cyclines.
 
 !!! note
     Certains types de CdK et de cyclines sont impliquées dans des mécanismes autres que la division cellulaire.
-
 #### Déclenchement du cycle cellulaire
 
 Le déclenchement de la division est provoqué par la liaison d'un facteur de croissance à son récepteur cellulaire qui va faire entrer la cellule en phase G1 :
@@ -40,7 +39,6 @@ Le déclenchement de la division est provoqué par la liaison d'un facteur de cr
 3. Le complexe phosphoryle la protéine du rétinoblastome (pRB) qui devient alors active. C'est la fin de la phase G1.
 
 4. pRB libère E2F du complexe E2F/DP. E2F est un facteur de transcription responsables de l'avancement du cycle cellulaire.
-
 ### Déclenchement de la mitose
 
 Il y a ensuite la synthèse de cycline B qui s'associe à la kinase Cdk1 pour former CdK1 (ou facteur promoteur de la mitose). Le complexe est :
@@ -61,13 +59,11 @@ détruite par les protéasomes.
 
 !!! note
     La phosphorisation des lamines provoque la disparition de l'enveloppe nucléaire.
-
 ### Déclenchement de l'anaphase
 
 Tant que les chromosomes ne sont pas appareillés, la protéine mad2 bloque l'action de la protéine APC. C'est lorsque les kinétochores sont tous attachés que Anaphase Promoting Complex (abrégé en APC) est activé par la séparase. APC provoque la dégradation de la sécurine par ubiquitination et ainsi la libération de la séparase.
 
 Une fois activée, la séparase hydrolyse la cohésine qui est alors dégradée et les chromosomes se dissocient.
-
 ## Les facteurs de division cellulaire
 
 Plusieurs facteurs externes influencent sur la division cellulaire :
@@ -90,7 +86,6 @@ Les cellules cancéreuses sont plus susceptibles d'avoir des anomalies :
 
 !!! note
     En radiothérapie, les cellules majoritairement tuées sont cancéreuses plus que les cellules saines car s'est dernière possède un mécanisme de réparation fonctionnelle
-
 
 ## La méiose
 

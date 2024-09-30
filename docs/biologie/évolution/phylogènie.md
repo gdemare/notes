@@ -18,15 +18,15 @@ Les arbres phylogénétiques sont une représentation des relations de parentés
 
 L'arbre retenu est celui qui minimise le nombre de changements génotypiques et le nombre de caractères dérivés.
 
-Cela s'appuie sur l'hypothèse que, comme les êtres vivants sont apparentés, il est plus probable qu'un caractère présent chez plusieurs espèces soit apparu une seul fois chez un ancêtre commun et est été transmis à la descendance.
+Cela s'appuie sur l'hypothèse que de la  comme les êtres vivants sont apparentés, il est plus probable qu'un caractère présent chez plusieurs espèces soit apparu une seule fois chez un ancêtre commun et est été transmis à la descendance.
 
 !!! note
     Tous les caractères ne sont pas soumis au même rythme d'évolution.
 
-Le séquençage de l'ADN a fourni un nouveau moyen pour établir les arbres phylogénétiques. La comparaison des génomes a permis de :
+Le séquençage de l'[[ADN]] a fourni un nouveau moyen pour établir les arbres phylogénétiques. La comparaison des génomes a permis de :
 
-* Corroborer et de redéfinir ma parenté entre certains groupes d'êtres vivants
-* D'élargir l'étude de la parenté à :
+* corroborer et de redéfinir ma parenté entre certains groupes d'êtres vivants
+* d'élargir l'étude de la parenté à :
 
 |                        | Des individus de la même espèce | Des espèces ayant divergées très tôt dans l'évolution |
 |--------------------|---------------------|-------------------------------|
@@ -35,7 +35,6 @@ Le séquençage de l'ADN a fourni un nouveau moyen pour établir les arbres phyl
 
 __Famille de gènes__ groupe de gènes ayant une origine commune à l'intérieur
 d'un génome.
-
 ## Les gènes homologues
 
 Il existe de 2 types de gènes homologues :
@@ -58,8 +57,7 @@ Le nombre de gènes produit par duplication n'est pas suffisant pour expliquer l
     L'Homme ne possède que 4 fois plus de gènes que les levures. La différence Un gène est capable de coder de multiples protéines.
 
 __Polyvalence génomique__ capacité d'un gène a codé plusieurs protéines.
-
-### Horloge molécule
+### Horloge moléculaire
 
 L'horloge moléculaire est une méthode permettant de dater les ancêtres communs disparus dont aucun fossile n'a été retrouvé.
 
@@ -67,7 +65,6 @@ Pour déterminer la date du dernier ancêtre commun c'est-à-dire celle de la s�
 
 !!! note
     Lorsque cela est possible, on vérifie que les résultats obtenus corroborent aux relevés géologiques.
-
 ### Théorie de la neutralité 
 
 La régularité de l'apparition des mutations serait dû au fait que la majorité des changements de bases n'ont eu que peu d'effets sur la valeur adaptative des individus qui les possèdent c'est-à-dire qu'elles ne procureraient pas d'avantages ou désavantage. Elle se seraient alors répandu par dérive génétique dans la population.

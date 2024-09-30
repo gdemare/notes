@@ -1,4 +1,4 @@
-L'azote est un macroélément et un composant essentiel pour les êtres vivants. Chez les plantes, son absorption se fait au niveau de la racine par un transport actif. La concentration dans la plante étant plus forte que dans le sol. Les plantes sont capables d'assimiler l'azote sous deux formes :
+L'azote est un macroélément essentiel qui entre dans la [[composition des êtres vivants]]. Chez les plantes, son absorption se fait au niveau de la racine par un transport actif. La concentration dans la plante étant plus forte que dans le sol. Les plantes sont capables d'assimiler l'azote sous deux formes :
 
 * Ion nitrate $NO_3^-$
 * Ion ammonium $NH_4^+$ ou Ammoniac $NH_3$
@@ -28,7 +28,6 @@ pie title Pets adopted by volunteers
 La fixation du diazote par les bactéries est faite en utilisant la nitrogénase, une enzyme. Elle réalise la réaction suivante
 
 $$N_2 + 8H^+ + 8é \rightarrow 2NH_3 + H_2 + 16ATP$$
-
 Les électrons sont apportés par huit molécules de ferrédoxine.
 
 !!! note
@@ -55,13 +54,11 @@ Ces réactions se réalisent sur la membrane :
     La nitrification est réalisée par des bactéries du groupe de protéobactéries. Elles sont de type Gram négatif.
 
 __Lithotrophe__ assimile les minéraux organiques.
-
 ### Dénitrification dissimilatrice
 
 La dénitrification dissimilatrice est le processus de réduction du nitrate en nitrite. Elle est réalisée par certaines bactéries en condition anaérobie. Le nitrate est utilisé comme l'accepteur terminal d'électrons.
 
 D'importantes quantités de $N_2O$ présents dans les sols sont issues de la dénitrification dissimilatrice bactérienne.
-
 ## Assimilation de l'azotes par les plantes
 
 L'absorption du nitrate se fait par un système de symport $2H^+/NO_3^-$.
@@ -75,14 +72,12 @@ La transformation de l'azote en composé organique a lieu le jour dans les parti
     $NH_4^+$ est toxique à forte dose, il provoque la destruction des systèmes photosynthétiques.
 
 Les nitrates sont assimilés càd transformé en composés organiques, le jour dans les parties aériennes. Comme le nitrate est une molécule très oxydés, la plante a besoin de couplé la transformation avec des molécules énergiques essentiellement produite par l'activité de photosynthèse. Sinon ils sont stockés dans la vacuole.
-
 ### Le transport dans les cellules végétales
 
 Le transport du nitrate et de l'ammonium se fait grâce à des transporteurs de type II qui utilise le gradient de protons car la concentration d'azote est plus élevée dans la plante que dans le sol. Ainsi, il est plus facilement assimilé l'azote lorsque le pH du sol est acide. Les transporteurs sont :
 
 * Nitrite avec NRT 1 (à faible affinité) et 2 (à forte affinité) sont des transporteurs secondaires de type symport qui fonctionne avec le gradient proton. Ils sont produits systématiquement et leur activité est réguler par phosphorylation.
 * Ammonium avec AMT.
-
 ### La réduction des nitrates et nitrites en ammonium
 
 $$NO_3^- \rightarrow NO_2^- \rightarrow NH_4^+$$

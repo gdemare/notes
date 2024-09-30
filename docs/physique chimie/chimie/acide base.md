@@ -1,6 +1,4 @@
-## Ph Potentiel Hydrogène
-
-### Notion acide/base
+__Ph__ Potentiel Hydrogène
 
 !!! warning
     La notion d'acide/base n'a rien à voir avec une solution acide/basique qui quantifie le nombre de protons présent dans une solution.

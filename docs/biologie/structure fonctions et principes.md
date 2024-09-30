@@ -18,8 +18,8 @@ En tenant compte des contraintes physique ont peu estimer les limites biologique
 
 Pour tous les êtres vivants, la capacité à pouvoir réaliser des échanges avec l'environnement constituent la principale limite à la taille d'un organisme car les cellules ont besoins :
 
-* De recevoir les nutriments nécessaire à leur survie.
-* De se débarrasser des déchets métaboliques.
+* de recevoir les nutriments nécessaire à leur survie.
+* de se débarrasser des déchets métaboliques.
 
 Beaucoup d'animaux avec un plan d'organisation simples où toutes les cellules sont en contactent avec le milieu.
 
@@ -32,11 +32,9 @@ Les zones d'échanges sont souvent des tissus fragiles qui sont protégés à l'
 L'être humain possèdent 25 surfaces d'échanges différentes notamment la peau, les poumons et le système digestif.
 
 Chez les plus gros organismes, l'utilisation de liquides circulatoires et interstitiels permet de distribuer des ressources et de traiter des déchets.
-
 ## Stabilité du milieu
 
 L'apparition de systèmes complexes ont permis de maintenir un milieu intercellulaire stable ([[osmorégulation et excrétion]])notamment dans des milieux où les paramètres physico-chimique varient énormément comme sur la terre ferme.
-
 ## La coordination des activités des différentes parties du corps
 
 La coordination des activités du corps est assurée par deux systèmes :
@@ -86,10 +84,10 @@ La coordination des activités du corps est assurée par deux systèmes :
 
 Les cellules de même structure et de même fonction sont regroupées en tissus. Il en existe quatre types chez les animaux :
 
-* Épithélial.
-* Conjonctif.
-* Nerveux.
-* Musculaire.
+* [[tissu épithelial]].
+* [[tissu conjonctif]].
+* [[tissu nerveux]].
+* [[tissu nerveux]].
 ### Epithélial
 
 Les tissus épithéliaux sont constitués de cellules jointives serrées. Elles forment des barrières. L'épithélium est polarisé, une face :
@@ -141,7 +139,6 @@ et poussent celles du dessus.</td>
 
 !!! note
     On trouve souvent sur l'épiderme de la kératine.
-
 ### Conjonctif
 
 Les tissus conjonctifs ont pour fonction de fixer et soutenir. Ils sont constitués d'une matrice extracellulaire contenant des fibres et une faible densité de cellules.
@@ -165,11 +162,9 @@ Dense       | Tendons et ligaments
 Osseux      | Tissu s'est minéralisé. Le collagène a durci en s'imprégnant de phosphate, magnésium et calcium.
 Cartilageux | Contient un mélange de fibres de collagènes et de chondroïtine sulfate qui confère résistance et souplesse.
 Sanguin     | matrice liquide composée d'eau, de sel et de protéines solubles
-
 __Tendon__ tissu conjonctif qui relie un muscle aux os. L'inflammation des tendons est appelée tendinite.
 
 __Ligaments__ tissu conjonctif qui relie les os entre eux au niveau des articulations.
-
 ### Musculaires
 
 Les tissus musculaires permettent le mouvement grâce aux glissement de filaments de protéines d'actines par les myosines.
@@ -184,7 +179,6 @@ Il existe trois types de tissus musculaires chez les vertébrés :
     A l'âge adulte les nombre de cellules musculaires n'évoluent plus, seul leur volume change.
 
 Les cellules musculaires sont issues de plusieurs cellules qui ont fusionnées. Il y a   plusieurs noyaux à l'intérieur.
-
 ## Maintien du milieu interne
 
 __Régulateur__ organisme qui maintient une variable interne autour d'une valeur constante notamment lors l'environnement externe fluctue.

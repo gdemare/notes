@@ -20,7 +20,7 @@ Organisation structurale :
 
 Composition cellulaire :
 
-* Neurones
-* Cellules gliales (névroglie) (transmission)
+* [[neurone]]s
+* [[cellules gliales]] (névroglie) (transmission)
 
 Tout objet de taille inférieure à la moitié de la longueur d'onde de la source d'éclairage n'est pas visible sous ce microscope

@@ -29,14 +29,13 @@ Atome     | Masse molaire ($g \cdot mol^{-1}$)
 Hydrogène | 1
 Carbone   | 14
 Oxygène   | 16
-
 ##  Conservation de l'énergie
 
 1er principe de la thermodynamique :
 L'énergie interne d'un système est notée U. Elle est dû à :
 
-* L'énergie cinétique (mouvement).
-* Interactions entre les particules.
+* l'énergie [[cinétique]] (mouvement).
+* aux interactions entre les particules.
 
 Il n'est pas possible de déterminer l'énergie d'un système. En revanche, il est possible de connaitre la différence d'énergie entre deux états.
 
@@ -59,7 +58,6 @@ Isotherme               | Pas de changement de T°      | $T = cste$
 Isochore                | Volume constant              | $V = cste$
 Adiabatique             | Pas d'échanges de chaleur    | $Q = 0$
 Isobare                 | Pression constante           | $P = cste$
-
 ### Le travail
 
 (uniquement pour les gaz)
@@ -68,14 +66,12 @@ La notion de travail s'applique uniquement aux gaz car ils sont les seuls à sub
 
 !!! example 
     Pour une réaction isobare, on aura $\Delta W = - P \cdot dV = - P \cdot \frac{n \cdot R \cdot T}{P} = - n \cdot R \cdot T$
-
 ### La chaleur
 
 La chaleur est une énergie. C'est une notion différente de la température.
 
 !!! note
     Un changement de T° implique nécessairement un échange de chaleur.
-
 
 !!! info 
     Point méthode : Pour chaque réaction, il faut d'abord noter sa nature (isotherme...).
@@ -99,7 +95,6 @@ Avec :
 
 !!! note
     On a également $R = C_p - C_v$
-
 ### Enthalpie
 
 La plupart des réactions se font à pression constante (transformation isobare).
@@ -147,7 +142,6 @@ Lorsqu'il y a un changement de température, il faut ajouter l'énergie nécessa
 $$\Delta _r H_0^{T_2} = \Delta _r H_0^T + [\sum{\nu_i \cdot C_p ( \mathbf{produits})} - \sum{\nu _i \cdot C_p ( \mathbf{réactifs} )}] \cdot (T_2 - T_1)$$
 
 avec $C_p$ capacité calorifique en $mol^{-1}$.
-
 ### Énergie de liaisons
 
 L'idée c'est de déterminer l'énergie de formation à partir de celle nécessaire pour créer ou détruire des liaisons moléculaires. Cette méthode nécessite de connaitre la structure des molécules c'est-à-dire les liaisons électroniques entre les atomes.
@@ -181,7 +175,6 @@ Pour les gaz, à pression constante, on a :
 
 * $\Delta H_r = \Delta U + \Delta n \cdot R \cdot T$
 * $\Delta n$ différence de quantité de matière.
-
 ## L'entropie
 2ème principe de la thermodynamique : l'
 Sans apport d'énergie extérieur, la matière se tend vers un état de désordre :
@@ -212,7 +205,6 @@ Si l'on considère que le milieu externe est stable et qu'il n'y a pas d'échang
     On peut déterminer l'entropie à partir des entropies :
         * Standards mesurées.
         * De réactions intermédiaires.
-
 ### Entropie standard
 
 Pour une réaction à température et à pression constante :
@@ -226,7 +218,6 @@ $\Delta _{r}S_{T2}^{0} = {\mathrm{\Delta}_{r}S}_{T1}^{0} + [ \sum{\nu_ i \cdot C
 ### Réactions intermédiaires
 
 Par la combinaison linéaire de réactions. Cela revient à passer par des réactions intermédiaires.
-
 ## Enthalpie libre
 
 À pression et à température constante, lorsqu'une réaction se déroule dans un milieu stable, la différence d'entropie du milieu extérieur égale à l'énergie reçue du système étudié c'est-à-dire $\Delta S_{\mathbf{ext}} = - \frac{\Delta H}{T}$
@@ -273,7 +264,6 @@ $a_i$ correspond à l'activité de l'espèce chimique. Il vaut si c'est :
 
 !!! note 
     $C_0$ et $P_0$ permettent d'obtenir une valeur sans unité.
-
 #### La pression partielle
 
 La pression partielle d'un gaz se calcule de la manière suivante :

@@ -1,3 +1,4 @@
+[[statistique]]
 Quelques liens vers des sites avec des palettes de couleurs :
 
 * [paternFly Color For Charts](https://www.patternfly.org/charts/colors-for-charts/) palette de couleurs jolies et sobres pour les graphiques.

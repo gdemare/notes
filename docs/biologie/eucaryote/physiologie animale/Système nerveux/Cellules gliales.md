@@ -1,5 +1,4 @@
-
-Les types de cellules gliales et leur système nerveux associé :
+Les types de cellules gliales et leur [[système nerveux]] associé :
 
 | SNC                                                | SNP                                            |
 | -------------------------------------------------- | ---------------------------------------------- |

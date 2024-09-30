@@ -20,7 +20,6 @@ Propriétés exponentielle :
 
 * $e^{a + b} = e^{a} \cdot e^b$
 * $e^{a^n} = e^{n \cdot a}$
-
 ### Logarithme
 
 Le logarithme népérien a été inventé pour simplifier le produit. Il donne une correspondance entre deux opérations élémentaires : le produit et la somme.
@@ -66,11 +65,11 @@ Déterminer les valeurs pour lesquels $f(x) = 0$. Ces méthodes sont également 
     1. Calculer le delta : $\Delta = b^2 - 4 \cdot a \cdot c$
     2. Si delta est :
 
-Delta 			| Nb de solutions reels
-----------------|----------------
-$\Delta \lt 0$	| 0 (des solutions dans le plan des complexes)
-$\Delta = 0$	| 1
-$\Delta \gt 0$	| 2
+| Delta          | Nb de solutions reels                        |
+| -------------- | -------------------------------------------- |
+| $\Delta \lt 0$ | 0 (des solutions dans le plan des complexes) |
+| $\Delta = 0$   | 1                                            |
+| $\Delta \gt 0$ | 2                                            |
 
 Solution donnée par $x_i = \frac{- b \pm \sqrt{\Delta}}{2 \cdot a}$
 

@@ -18,8 +18,8 @@ Le potentiel électrique des cellules est généré par le gradient de $H^+$ con
 
 Le transport des produits de la photosynthèse est appelé translocation. Il va des organes producteurs vers les organes consommateurs (ou cibles) les plus proches. Ces derniers varient en fonction de la saison et sont notamment :
 
-* Les parties qui ont besoin d'énergie notamment les zones de croissances (méristèmes).
-* Les régions de stockage.
+* les parties qui ont besoin d'énergie notamment les zones de croissances (méristèmes).
+* les régions de stockage.
 
 Le transport se fait dans le phloème par la sève élaborée qui contient les sucres mais également des aa, des hormones et des sels minéraux.
 
@@ -30,7 +30,6 @@ La concentration des osmolites diminue au fur et à mesure qu'ils sont captés p
 Les vaisseaux du xylème et du phloème étant à proximité, l'eau entre fortement au niveau des organes sources et ressort au niveau des organes cibles au fur et à mesure que la concentration des nutriments diminue. La sève élaborée peut circuler jusqu'à 1,6km/h. Cette vitesse est possible grâce au courant de masse
 
 À la fin l'eau repart dans le xylème. Environ 5% de l'eau captée passera par le phloème.
-
 ### Photosynthèse
 
 Les plantes
@@ -52,7 +51,6 @@ Taux de $O_2 \lt 15%$, il a atteint 30% actuellement 21%.
 
 !!! note
     L'augmentation de la concentration de $O_2$ a notamment permis aux animaux de devenir plus grand.
-
 ## Symbiose
 
 Les ectomycorhizes sont des [[champignons]] qui se vivent autour de la racine. Ils permettent :

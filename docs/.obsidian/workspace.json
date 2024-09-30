@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b57985e7646b4e06",
+        "id": "5ca7758410918f96",
         "type": "tabs",
         "children": [
           {
-            "id": "defb176242fe7911",
+            "id": "fe31ab5bb25642ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "politique/démocratie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "politique/démocratie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "politique/démocratie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "politique/démocratie.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,34 +138,34 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "defb176242fe7911",
+  "active": "fe31ab5bb25642ed",
   "lastOpenFiles": [
-    "notes non ajoutées.md",
-    "politique/énergie en France.md",
-    "politique/magasins discount.md",
-    "politique/pesticides.md",
-    "politique/politique.md",
-    "physique chimie/physique classique.md",
-    "physique chimie/unités.md",
-    "physique chimie/physique/physique quantique.md",
-    "data science/clustering/clustering de variables.md",
-    "histoire/anticipation.md",
-    "histoire/écriture.md",
-    "histoire/chronologie.md",
-    "index.md",
-    "biologie/eucaryote/physiologie animale/Système nerveux/système nerveux.md",
-    "biologie/eucaryote/physiologie animale/Système nerveux/cellules gliales.md",
-    "biologie/eucaryote/physiologie animale/Système nerveux/neurotransmetteur.md",
-    "biologie/eucaryote/physiologie animale/Système nerveux/neurogénèse.md",
-    "biologie/eucaryote/physiologie animale/Système nerveux/neurone.md",
-    "biologie/eucaryote/physiologie animale/Système nerveux/neurobiologie.md",
-    "biologie/eucaryote/physiologie animale/Système nerveux/cerveau.md",
-    "biologie/eucaryote/physiologie animale/Système immunitaire/système immunitaire inné.md",
-    "biologie/eucaryote/physiologie animale/Système immunitaire/système immunitaire acquis.md",
-    "biologie/eucaryote/physiologie animale/Système immunitaire/lymphocyte.md",
-    "biologie/eucaryote/physiologie animale/Système immunitaire/immunologie.md",
-    "biologie/eucaryote/physiologie animale/Système immunitaire/anticorps.md",
-    "biologie/eucaryote/physiologie animale/Système endocrinien/hormones.md",
+    "biologie/écologie/génétique des populations.md",
+    "biologie/cellule/cycle cellulaire/cycle cellulaire.md",
+    "biologie/cellule/cycle cellulaire/régulation du cycle cellulaire.md",
+    "biologie/cellule/cycle cellulaire/réorganisation du cytosquelette.md",
+    "biologie/matériel et méthodes/méthodes et techniques/méthodes.md",
+    "biologie/cellule/organisation cellulaire/matrice Extracellulaire et jonctions cellulaires.md",
+    "biologie/cellule/organisation cellulaire/membrane plasmique.md",
+    "biologie/cellule/organisation cellulaire/noyau.md",
+    "biologie/cellule/organisation cellulaire/organisation cellulaire.md",
+    "biologie/cellule/organisation cellulaire/système endomembranaire.md",
+    "biologie/cellule/organisation cellulaire/transport cellulaire.md",
+    "biologie/cellule/organisation cellulaire/jonctions cellulaires.md",
+    "biologie/cellule/organisation cellulaire/organites/organites.md",
+    "biologie/cellule/organisation cellulaire/organites/mitochondries.md",
+    "microtubule.md",
+    "mathématique/mathématique.md",
+    "data science/statistique dictionnaire.md",
+    "biologie/eucaryote/plante/transport hydrique.md",
+    "biologie/eucaryote/plante/nutrition végétale.md",
+    "biologie/eucaryote/plante/organisation végétale.md",
+    "biologie/eucaryote/plante/réponses des végétaux aux stimuli.md",
+    "biologie/eucaryote/plante/régulation de l'hydrotranspiration.md",
+    "biologie/eucaryote/plante/organe/feuille.md",
+    "biologie/eucaryote/plante/organe/racine.md",
+    "autres/communication/communication.md",
+    "autres/communication/entretien d embauche.md",
     "biologie/matériel et méthodes",
     "biologie/eucaryote",
     "biologie/biochimie/biochimie",

@@ -6,11 +6,9 @@ Cela permet de connaitre la proximité entre les textes et peut servir notamment
 __Corpus__ ensemble de textes.
 
 __Termes communs__ mots utilisé un corpus (ensemble de document) spécifique à un document
-
 ## Projet
 
 1. Eliminer les termes communs (le, la, pour, si).
-
 ## Indicateurs
 
 Inverse Document Frequency (IDF) $\log \frac{N}{n}$

@@ -25,7 +25,6 @@ Lorsqu'un seul allèle est présent dans une population on dit que l'allèle est
 
 !!! note
     Un allèle dominant ne s'exprime pas toujours. Il peut être caractérisé par l'absence d'expression.
-
 ## Objectifs
 
 La génétique des populations s'intéresse à l'histoire des populations. En comprenant leur dynamique passée, on peut prévoir leur évolution future.
@@ -246,7 +245,6 @@ $$\Delta p = p_{n + 1} - p_n = \frac{p \cdot q}{w} \cdot [(w_1 - w_2) \cdot p + 
     La formule se démontre facilement. Il faut penser à $p = 1 - q$.
 
 __Superdominance__ la valeur sélective de l'hétérozygote est supérieure à celles des homozygotes. Elle prend la valeur de référence càd 1.
-
 ## Sélection naturelle
 
 Pour un caractère donné, la sélection naturelle conduit soit à favoriser :

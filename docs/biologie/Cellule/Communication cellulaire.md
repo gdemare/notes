@@ -2,7 +2,7 @@ __Transduction__ processus par lequel un signal est converti en une réponse cel
 
 __Voie de transduction__ série d'étapes qui aboutit à la transduction.
 
-La communication cellulaire est apparue chez les organismes unicellulaires comme chez les Bactéries. Elles peuvent se coordonner pour accomplir des comportements qui n'ont de sens qu'à l'échelle collective. Les avantages retirés sont alors plus importants que ce qui aurait pu être obtenu à l'échelle individuelle.
+La communication cellulaire est apparue chez les organismes unicellulaires comme les Bactéries. Elles peuvent se coordonner pour accomplir des comportements qui n'ont de sens qu'à l'échelle collective. Les avantages retirés sont alors plus importants que ce qui aurait pu être obtenu à l'échelle individuelle.
 
 !!! example 
 	La fabrication de biofilm.
@@ -23,19 +23,18 @@ Les signaux cellulaires sont majoritairement de type chimique mais ils peuvent a
 
 !!! note 
 	Les récepteurs sont souvent des protéines.
-
 ### Signal chimique
 
 Le signal est une molécule qui interagit avec un site récepteur complémentaire à la molécule du signal. Généralement, la fixation du ligan au récepteur se fait par une liaison et provoque un changement de conformation du récepteur. Par exemple, les récepteurs transmembranaires liés :
 
-* Change de forme.
-* S'agrège.
+* changent de forme.
+* s'agrègent.
 
 Les récepteurs les plus répandus sont :
 
-* Les récepteurs couplés à un protéine G (RCPG). Il en existe 2 000 types.
-* Les récepteurs à activité tyrosine (tyrosine : acide aminé polaire composé d'un groupement alcool fixé sur un cycle carboné).
-* Les récepteurs couplés à un canal ionique.
+* les récepteurs couplés à un protéine G (RCPG). Il en existe 2 000 types.
+* les récepteurs à activité tyrosine (tyrosine : acide aminé polaire composé d'un groupement alcool fixé sur un cycle carboné).
+* les récepteurs couplés à un canal ionique.
 
 En fonction du type de médiateur, les récepteurs se situent
 majoritairement :

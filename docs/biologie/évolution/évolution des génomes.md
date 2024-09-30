@@ -2,7 +2,7 @@ L'étude et la comparaison des génomes doivent pouvoir rendre compte en partie 
 
 __Caryotype__ ensemble des chromosomes d'une cellule disposé par pair et classe.
 
-Le séquençage de l'ADN est réalisé par :
+Le séquençage de l'[[ADN]] est réalisé par :
 
 1. le clonage des séquences d'ADN.
 2. la fragmentation de l'ADN.
@@ -49,7 +49,6 @@ Les séquences apparentées aux éléments transposables comprennent :
 
 * les éléments transposables.
 * les éléments transposables qui ont perdu la capacité de se déplacer.
-
 ## Les éléments transposables
 
 Il existe deux types de séquences transposables chez les Eucaryotes :
@@ -59,7 +58,6 @@ Il existe deux types de séquences transposables chez les Eucaryotes :
 
 !!! note
     Chez les eucaryotes, la majorité des éléments transposables sont des rétrotransposons.
-
 ### Les transposons
 
 Les transposons peuvent réaliser deux types de couper/coller ou la duplication.
@@ -73,7 +71,6 @@ Les rétrotransposons ne peuvent réaliser que des duplications. L'ADN est trans
 
 !!! note
     Il est possible qu'a l'origine les rétrovirus fussent des rétrotransposons.
-
 ### Les éléments transposables devenus non mobile
 
 Les éléments transposables devenus non mobile sont des éléments transposables qui ont perdu la capacité de se déplacer.
@@ -121,7 +118,6 @@ Il se pourrait que le génome des premiers organismes fût plus petit que ceux d
 __Polyploïdie__ accident à la méiose qui donne à un jeux de chromosome supplémentaire de chromosome.
 
 Il existe le phénomène inverse où certains jeux de chromosomes peuvent fusionner. Ce type de réarrangement chromosomique
-
 ### Réarrangement chromosomique
 
 Comme c'est le cas chez l'Homme, l'ancêtre Homme chimpanzé possédait 24 paire de chromosomes. La paire 12 et 13 ont fusionné chez l'Homme pour former un seul chromosome.

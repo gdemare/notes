@@ -7,7 +7,6 @@ Antécédent
 
 !!! Note
 	Si $f$ est bijective alors il existe une fonction $f^{-1}(y) = x$
-
 ## Dérivé et primitive
 
 La dérivée correspond à la fonction qui donne l'évolution de la pente. C'est le coefficent de la droite qui par passe par un point $x_{0}$ : 
@@ -26,31 +25,30 @@ Le signe de la dérivé permet de connaitre la variation de $f(x)$ grâce au sig
 
 Calculer l'aire sous la courbe (primitive) : $\int_{}^{}{f(x) \cdot dx} = F(x) + C$
 
-$\mathbf{f(x)}$					| $\mathbf{f'(x)}$
---------------------------------|---
-$u + v$ 				| $u' + v'$
-$u^n$		| $n \cdot u' \cdot u^{n - 1}$
-$u \cdot v$			| $u' \cdot v + u \cdot v'$
-$\frac{u}{v}$	| $\frac{u' \cdot v - u \cdot v'}{v^2}$
+| $\mathbf{f(x)}$ | $\mathbf{f'(x)}$ |
+|--------------------------------|---|
+| $u + v$         | $u' + v'$
+| $u^n$           | $n \cdot u' \cdot u^{n - 1}$
+|$u \cdot v$			| $u' \cdot v + u \cdot v'$
+|$\frac{u}{v}$	| $\frac{u' \cdot v - u \cdot v'}{v^2}$
 
-$f(x)$ 			| $f'(x)$
-----------------------------|---
-$e^u$	| $u' \cdot e^{u}$
-$\ln u$	| $\frac{u'}{u}$
-$\cos u$	| $- u' \cdot \sin u$
-$\sin u$ | $u' \cdot \cos u$
-$\tan u$ | $u' \cdot (1+ \tan u)^2$
+| $f(x)$   | $f'(x)$             |
+| -------- | ------------------- |
+| $e^u$    | $u' \cdot e^{u}$    |
+| $\ln u$  | $\frac{u'}{u}$      |
+| $\cos u$ | $- u' \cdot \sin u$ |
+| $\sin u$ | $u' \cdot \cos u$   |
+|$\tan u$ | $u' \cdot (1+ \tan u)^2$
+Intégration par partie :
 
-Intégration par partie
-
-$\int u(x) \cdot v'(x) dx = \lbrack u \cdot v \rbrack + \int u'(x) \cdot v(x) dx$
-
+$$\int u(x) \cdot v'(x) dx = \lbrack u \cdot v \rbrack + \int u'(x) \cdot v(x) dx$$
 ### Équation différentielle
 
-Equation différentielle	| Solution 			| Description
-------------------------|-------------------|---
-$y' + A \cdot y = 0$ 		| $y = k \cdot e^{- a \cdot x}$	| Equation différentielle d'ordre 2
+[[équation différentielle]]
 
+ Equation différentielle	| Solution 			| Description
+------------------------|-------------------|---
+|  $y' + A \cdot y = 0$   | $y = k \cdot e^{- a \cdot x}$	| Equation différentielle d'ordre 2
 ## Limites
 
 Quatres formes indéterminées $- \infty + \infty$, $\frac{\infty}{\infty}$, $\frac{0}{0}$.
@@ -59,8 +57,6 @@ Méthodes pour sortir d'une forme indéterminer :
 
 * factoriser, par exemple en passant par me conjugué $(a + \sqrt{b})(a - \sqrt{b})$.
 * Pour les polynômes, cela revient à déterminer la limite du terme de plus haut degré.
-
-
 ## Sens de variation
 
 Un fonction est convexe (puit) si $f''(x) \ge 0$

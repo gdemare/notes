@@ -1,4 +1,4 @@
-[[Matrice Extracellulaire]]
+[[matrice extracellulaire]]
 ### Le cartilage 
 
 Le cartilage est une matrice constituée principalement de collagène de type II. Elle contient des cellules spécialisées appelées chondrocytes.

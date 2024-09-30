@@ -7,7 +7,7 @@ Un réseau de vaisseaux sanguins d'une longueur de 100 000km (deux fois la circ
 * les veines qui vont des organes vers le cœurs. Les veinules situés après les capillaires convergent vers les veines.
 
 !!! note
-    Il existe quelques exceptions de veines qui acheminent le sang de capillaires vers d'autres organes comme la veine porte hépatique de l'intestin au foie.
+    Il existe quelques exceptions de veines qui acheminent le [[sang]] de capillaires vers d'autres organes comme la veine porte hépatique de l'intestin au foie.
 
 Le sang irrigue entre 5 et 10% des capillaires du corps à chaque instant.
 
@@ -40,7 +40,6 @@ Des anneaux de muscles appelés sphincter précapillaire se trouvent à l'entré
     Certains facteurs chimiques, comme l'histamine, provoquent l'ouverture et la dilatation des capillaires pour permettre, par exemple, aux leucocytes, les cellules immunitaires du sang, de se rendre sur les lieux d'infections.
 
 __Nœuds lymphatiques__ organe qui filtre la lymphe. Ils détruisent les Bactéries et les virus qui peuvent être présent.
-
 ### Le cœur
 
 Le cœur qui joue le rôle d'une pompe est composé de deux types de cavités :
@@ -50,7 +49,6 @@ Le cœur qui joue le rôle d'une pompe est composé de deux types de cavités :
 
 !!! note
     Le cœur des vertébrés est composé d'au moins deux cavités musculaires.
-
 ### Les artères et les veines
 
 Les veines et les artères sont entourés de couches :
@@ -67,10 +65,9 @@ Les artères possèdent une paroi épaisse et résistante pour résister au fort
 La constriction et la dilatation sont assurées par des muscles lisses régulés par :
 
 * les influx nerveux.
-* des hormones.
+* des [[hormone]]s.
 
 Les veines possèdent des valvules qui permettent de maintenir une circulation unidirectionnelle même lors de basse pression.
-
 ### La vitesse et la pression sanguine
 
 Pour rappel, le flux se fait de la pression la plus forte vers la plus faible.

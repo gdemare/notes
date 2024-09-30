@@ -17,10 +17,9 @@ Les éptihéliums sont caractérisés par être :
 * la cohésion du tissu est assurée par des molécules d'adhésion.
 * la polarité cellulaire avec deux cotés une au contact du milieu externe et l'autre avec le milieu interne.
 * l'expression de filaments intermédiaires de cytokératine. (20 aine de protéines marquage de kératine permet de mettre en évidence le tissu épithéliale).
-
 ## La cohésion du tissu
 
-Les molécules d'adhérence assurent l'union des cellules ([[biologie/eucaryote/histologie/Tissu épithélial/Jonctions cellulaires|Jonctions cellulaires]]). Elles sont classées en deux grandes catégories en fonction de leur dépendance au calcium :
+Les molécules d'adhérence assurent l'union des cellules ([[jonction cellulaire|jonction cellulaire]]). Elles sont classées en deux grandes catégories en fonction de leur dépendance au calcium :
 
 * Les molécules calcium dépendantes incluant les cadhérines, les sélectines et les intégrines.
 * Les molécules calcium indépendantes incluant les immunoglobulines.
@@ -33,7 +32,6 @@ Interaction homophilique (interaction avec la même protéine en face) avec les 
 Établissement des liaisons entre le cytosquelette interne de la cellule, microfilaments d'actine et l'extérieur d'une autre cellule en présence de calcium.
 
 LE CALCIUM PERMET DE REDIRE LES CADHERINE POUR FAVORISER LA JONCTION.
-
 ### Selectine
 
 Elles se lient aux hydrates de carbone.
@@ -45,7 +43,6 @@ Elles se lient aux hydrates de carbone.
 * L dans les leucocytes.
 
 Elles participent au mouvement des leucocytes du sang vers les tissus par extravasation pour rejoindre les sites d'inflammation.
-
 ### Les Immunoglobulines CAM
 
 Les immunoglobulines sont des glycoprotéines.
@@ -53,7 +50,6 @@ Les immunoglobulines sont des glycoprotéines.
 Interactions homophiles et hétérophiles avec les protéoglycanes & les intégrines.
 
 ICAM & VCAM jouent un rôle important dans les interaction entre lymphocytes T et dans la liaison des leucocytes aux cellules endothéliales des vaisseaux.
-
 ### Intégrines
 
 Liées à la fois au cytosquelette et à la MEC

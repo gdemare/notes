@@ -1,6 +1,4 @@
-## Le sang
-
-Le sang est un [[Tissu conjonctif]]. Il contient divers types de cellules (qui représente 45% de son volume) qui baignent dans un milieu, le plasma composé de protéines, de ions. Un humaine contient en moyenne 5L de sang.
+Le sang est un [[tissu conjonctif]]. Il contient divers types de cellules (qui représente 45% de son volume) qui baignent dans un milieu, le plasma composé de protéines, de ions. Un humaine contient en moyenne 5L de sang.
 
 Le sang possède des propriétés des viscosités. Son pH. Il contient des molécules tampons qui stabilise son pH à 7,4. Une hausse ou une diminution de 0,4 est fatale.
 

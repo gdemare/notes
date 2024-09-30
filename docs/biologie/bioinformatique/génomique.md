@@ -33,21 +33,18 @@ Principales utilisations :
 
 * Séquençage De novo : déterminer la séquence sans information préalable.
 * Transcriptomique (ou ARN quantificition) quantifier le niveau d'expression des protéines.
-* Métagénomique : lister les espèces et quantifier l'ADN d'un échantillon.
-
+* Métagénomique : lister les espèces et quantifier l'[[ADN]] d'un échantillon.
 ## Prétraitement des données
 
 Les principaux programmes permettant le prétraitement des séquences sont :
 
 * trimmomatic
-
 ## Séquencage de novo
 
 Déterminer la génome d'un organisme.
 
 !!! warning
     Chez les Eucaryotes, les séquences répétés sont souvent plus grandes que celles des reads.
-
 ### Alogrithmes d'assemblage
 
 Deux types :
@@ -63,16 +60,13 @@ Deux types :
 Listes d'algorithmes :
 
 * ABySS "Assembly By Short Sequences," programme de séquençage de novo conçu pour assembler des données de séquençage provenant de courtes lectures.​
-
 ### Graph de de Bruijn
 
 1. On créé un graph de tous les combinaisons de chevauchements possibles pour les k-mer (théorique). 
 2. comparaison avec les séquences obtenues durant le séquençage.
-
 ## Métagénomique
 
 Lister les espèces présentes dans un échantillon.
-
 ## Transcriptomique
 
-La transcriptomique doit permettre de lister et quantifier l'ARN exprimer dans un tissu à un moment donnée.
+La transcriptomique doit permettre de lister et quantifier l'[[ARN]] exprimer dans un tissu à un moment donnée.

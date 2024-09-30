@@ -11,7 +11,6 @@ Certaines protéines transmembranaires facilitent leur passage ces échanges. Ce
 
 * Canaux.
 * Perméases.
-
 ### Le transport actif
 
 Le transport actif consomme de l'ATP. Il est notamment utilisé pour les molécules dont la concentration est différente entre le milieu intérieur et extérieur de la cellule.

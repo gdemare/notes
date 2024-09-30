@@ -1,3 +1,26 @@
+## Les atomes
+
+Les [[atome]]s sont composés de :
+
+Particule   | Charge                        | Masse
+------------|-------------------------------|------
+Proton      | $+e = 1.60 \cdot 10^{−19} C$  | $1,67 \cdot 10^{−27} kg$
+Neutron     | $0$                           | $1,67 \cdot 10^{−27} kg$
+Électron    | $−e$                          | $9,11 \cdot 10^{−31} kg$
+
+$^A_Z X$ avec :
+
+* $A$ nbre de nucléons (protons + neutrons).
+* $Z$ numéro atomique (nombre de protons).
+
+Si le nombre d'électrons est différence du nombre de protons alors
+l'atome est chargé :
+
+__Cation__ (opposition à anion) molécule avec une charge positive.
+
+__Valence__ nbre d'électrons libres n'appartenant pas à des doublets.
+
+Hypervalence même nombre quantique principal pour partager ses électrons (par exemple : C, P, Na.)
 ## Les électrons qui n'appartiennent pas à des doublets (case)
 
 __Valence__ nbre d'électrons libres n'appartenant pas à des doublets.

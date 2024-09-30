@@ -30,7 +30,6 @@ __Caryocinèse__ séparation des chromosomes en deux lots identiques.
 Chez les Eucaryotes multicellulaire, la cellule se divise à la perception d'un signal externe qui contraint la cellule à entrer en division cellulaire.
 
 En moyenne, la durée minimale entre deux division est de 24h.
-
 ## Le cycle cellulaire
 
 Le cycle de division cellulaire est une suite de période en deux phases :
@@ -40,7 +39,6 @@ Le cycle de division cellulaire est une suite de période en deux phases :
 
 !!! note
     C'est seulement durant l'interphase que la cellule synthétise des protéines et les organistes cellulaire
-
 ### L'interphase
 
 L'interphase se compose de trois phases :
@@ -48,7 +46,6 @@ L'interphase se compose de trois phases :
 * G1 (phase de croissance) ou G0 phase de quiescence.
 * S où a lieu la réplication de l'ADN. Elle dure entre 10 à 12h.
 * G2 qui dure entre 4 à 6 h qui est une phase de contrôle de la réplication de l'ADN et de la quantité des réserves énergétiques.
-
 #### Phase G1
 
 Pour les cellules qui ne se divisent plus, la phase G1 est renommée G0. Elle comprend à la croissance et à la spécialisation de la cellule et l'exercice de ses fonctions.
@@ -56,7 +53,6 @@ Pour les cellules qui ne se divisent plus, la phase G1 est renommée G0. Elle co
 La phase G1 se déclenche par l'activation d'une voie de signalisation par exemple par un facteur de croissance.
 
 À la fin de la phase G1, les centrioles se séparent et s'éloignent.
-
 #### Phase S
 
 Une fois la phase S débutée, le processus de division cellulaire devient irréversible.
@@ -69,16 +65,14 @@ L'ADN est organisé dans le noyau en chromosome (étymologie corps coloré). Le 
 
 Les deux chromatides sœurs sont unies sur leur longueur par un complexe protéine appelé cohésine. Une zone d'attache plus étroites appelée centromère. La cohésine est dégradée par la séparase qui est alors inhibée par la sécurine.
 
-Chaque chromosome à deux chromatides possède un kinétochore. Il prend la forme d'un disque composé de protéines au niveau du centromère où les microtubules peuvent s'attacher.
+Chaque chromosome à deux chromatides possède un kinétochore. Il prend la forme d'un disque composé de protéines au niveau du centromère où les [[microtubules]] peuvent s'attacher.
 
 __Kinétochore__ complexe protéiques au niveau des centromères ou s'accroche les microtubules. Il y en a deux par chromosome, un sur chaque chromatide.
 
 Dès qu'un microtubule entre en contact avec le kinétochore, il se dépolymérise et tire le chromosome vers son centrosome. C'est lorsqu'un microtubule du centrosome opposé que sera Contré lorsque d'un autre microtubule capture de l'autre côté. À l'équateur les forces s'équilibrent.
-
 #### Phase G2
 
 La réplication des centrosomes.
-
 ## Phase M
 
 Les trois principales changements qui ont lieu lors de la phase M sont :

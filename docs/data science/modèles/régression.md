@@ -1,6 +1,7 @@
 Le principe des régressions linéaires, logistiques,... est de créer une équation de type  $z(x) = \sum{a_i \cdot x_i} + b = \hat{y}$ avec $y$ la variable à prédire et $x_i$ les variables explicatives (appelées aussi descripteurs).
 
-Les variables explicatives doivent être quantitatives. 
+!!! note
+	Les variables explicatives doivent être quantitatives. 
 
 !!! note
     Il est possible d'utiliser des variables qualitatives en les transformant en variables binéaires.
@@ -20,7 +21,6 @@ Les principales types de régression sont :
 
 * linéaires pour prédire une variable quantitative.
 * logistiques pour prédire une variable qualitative.
-
 ### Préparation des données
 
 Il faut éviter le tri dans les variables à utiliser dans le modèle. Il faut éliminer :
@@ -34,7 +34,6 @@ Il faut éviter le tri dans les variables à utiliser dans le modèle. Il faut �
 
 !!! warning
     Il faut plus d'individus que de variables sinon le modèle ne converge pas.
-
 ### Sélection des variables
 
 La sélection des variables peut se faire en minisant un indicateur comme :
@@ -43,7 +42,6 @@ La sélection des variables peut se faire en minisant un indicateur comme :
 * BIC.
 
 Les algorithmes permettent d'ajouter ou de supprimer des variables dans le cadre de la recherche du meilleur modèle (méthode descente, ascendante, les deux).
-
 ### Interprétation 
 
 Pour l'interprétation du modèle, il y a deux types de tests : 
@@ -54,7 +52,6 @@ Pour l'interprétation du modèle, il y a deux types de tests :
 Pour les variables binaires, le rapport de cote (odd) est utilisé. Il 
 
 -----
-
 ## Linéaire
 
 ### Validité
@@ -66,7 +63,6 @@ Les résidus doivent être :
 * de même variance (homoscédasticité). La variance des résidus est constante pour toutes les valeurs.
 
 ------------------
-
 ## Logistique
 
 La régression logistique est un classificateur binaire (0 ou 1). Elle utilise la formule de la régression linéaire en lui appliquant la fonction $\mathrm{logit}$ pour ramener la valeur à une probabilité $[0;1]$.

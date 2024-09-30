@@ -9,7 +9,6 @@ La division cellulaire est le résultat de deux événements distincts qui about
 Durant la télophase, les filaments d'actines vont entourer la cellule et former l'anneau contractile, un faisceau de filaments, avec une orientation antiparallèle.
 
 Sous l'action de protéines myosines, le diamètre de l'anneau va progressivement se réduire jusqu'à provoquer la séparation
-
 ### Interphase
 
 __Nucléation__ phénomène d'apparition d'une structure ordonnée.
@@ -18,11 +17,9 @@ Grâce à une stabilisation sélective, elles peuvent former le fuseau mitotique
 
 !!! note
     Ils sont plus nombreux que durant la division cellulaire que pendant l'interphase.
-
 ## Le centrosome
 
-Le centrosome est un organite situé notamment près du noyau. Il est composé de deux centrioles orientés en angle droit et il est responsable de la nucléation des microtubules et de l'ancrage.
-
+Le centrosome est un organite situé notamment près du noyau. Il est composé de deux centrioles orientés en angle droit et il est responsable de la nucléation des [[microtubules]] et de l'ancrage.
 ### Les centrioles
 
 Les cellules eucaryotes animales contiennent 2 centrioles constitués de neuf triades de microtubules.

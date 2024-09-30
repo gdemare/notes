@@ -1,8 +1,7 @@
 Les indicateurs servent comme :
 
 * des indicateurs pour comparer les modèles.
-* des fonctions coûts à  miniser pour ajuster le modèle.
-
+* des fonctions coûts à  minimiser pour ajuster le modèle.
 ## Entropie 
 
 Nombre de "questions" de type oui/non nécessaire pour connaitre la réponse. Chaque question porte sur une des modalités de la variable à prédire.
@@ -13,8 +12,7 @@ Plus petite quantité d'information nécessaire pour lever l'incertitude. Elle e
 
 Entropie de Shannon : $H(P) = -\sum_i p_i \log _2 (p_i)$
 
-avec $P$ le noeud
-
+avec $P$ le nœud.
 ### Critère de Gini
 
 Le critère de Gini est un indice qui mesure l’impureté. 
@@ -26,7 +24,6 @@ avec :
 * $p_k$ la proportion d'observation de la classe $k$.
 
 Il est $G \in [0;0.5]$ et égal à 0 si tous les individus sont de la même classe et égale à 0.5 si les observations sont réparties de façon équiprobable.
-
 ## Indicateurs
 
 Pred quanti | Pred quali | Critère de mesure de l'erreur           | Formule      
@@ -35,7 +32,6 @@ _           | X          | Entropie croisée pour les catégories    | $- \sum y
 X           | _          | Erreur quadratique moyenne (MSE)        | $E[(y_i - \hat{y}_i)^2]$
 X           | _          | Racine carré de l'erreur moyenne (RMSE) | $\sqrt{E[(y_i - \hat{y}_i)^2]}$
 X           | _          | Erreur absolue moyenne (MAE)            | $E[ \vert{y_i - \hat{y}_i} ]$
-
 ### Qualitatif
 
 Indicateur 						| Définition | Formule
@@ -57,7 +53,6 @@ Indicateur 						| Définition | Formule
 `sparse_categorical_crossentropy` 	| the sparse categorical crossentropy loss.
 `sparse_top_k_categorical_accuracy` | how often integer targets are in the top K predictions.
 `top_k_categorical_accuracy` 		| how often targets are in the top K predictions
-
 ### Quantitatifs
 
 Indicateur 						| Définition
@@ -76,7 +71,6 @@ Indicateur 						| Définition
 `msle` 							| the mean squared logarithmic error between y_true and y_pred.
 `poisson` 						| the Poisson loss between y_true and y_pred.
 `squared_hinge` 				| the squared hinge loss between y_true and y_pred.
-
 ## Critères 
 
 Liste de paramètres à minimiser :

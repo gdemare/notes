@@ -2,7 +2,6 @@
 * FFT
 * Change point
 * Tracking
-
 ### Moyenne mobile
 
 Méthode de lissage du signal. 
@@ -28,7 +27,6 @@ Utiliser :
 ## Fonction d'Allan 
 
 La fonction d'Allan permet de déterminer le bruit à un certain taux de moyennage (taille de la fenêtre).
-
 ### Signaux périodiques
 
 __Amplitude__ force
@@ -36,13 +34,11 @@ __Amplitude__ force
 __Fréquence__ nbre d’ondulations par seconde.
 
 __Phase__ façon dont l’onde sinusoïdale est décalée dans le temps,
-
 #### Transformation de Fourrier 
 
 Le graphique est l'amplitude en fonction de la fréquence de chaque signau élémentaire.
 
 Le graphique associé est l'amplitude (la valeur absolue de la valeur réélle de la transformation de Fourrier) en fonction de la fréquence.
-
 ### Changing points
 
 Fenêtre décalé

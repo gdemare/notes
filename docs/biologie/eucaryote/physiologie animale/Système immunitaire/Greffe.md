@@ -4,10 +4,10 @@ Il existe 3 types de greffes :
 * allogreffe, le donneur et le receveur sont de la même espèce.
 * aénogreffe, le donneur et receveur appartiennent à des espèces différentes.
 
-__Allo-immunité__ réponse immunitaire dirigée contre les antigènes du greffon (allo-antigènes) qui aboutit à la mort du greffon c'est-à-dire au rejet de la greffe. Les antigènes des allogreffes (=allo antigènes) qui constituent les cibles principales du rejet sont les protéines du CMH (complexe majeur d'histocompatibilité).
+__Allo-immunité__ réponse du [[système immunitaire acquis]] dirigée contre les antigènes du greffon (allo-antigènes) qui aboutit à la mort du greffon c'est-à-dire au rejet de la greffe. Les antigènes des allogreffes (=allo antigènes) qui constituent les cibles principales du rejet sont les protéines du CMH (complexe majeur d'histocompatibilité).
 #### Allogreffe
 
-La reconnaissance des allo antigènes par les lymphocytes T allo réactifs peut être :
+La reconnaissance des allo antigènes par les [[lymphocyte]]s allo réactifs peut être :
 
 * directe (CPA du donneur).
 * indirecte (CPA du receveur qui présente des antigènes du donneur).

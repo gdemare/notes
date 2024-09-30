@@ -13,8 +13,6 @@ Micro 				| μ 				| $10^6$
 Nano  				| n 				| $10^9$
 Pico  				| p 				| $10^{12}$
 Femto  				| f 				| $10^{15}$
-
-
 ## Les unités
 
 * Relation surface : $1km^2 = {(10^3)}^2 \cdot m^2$.

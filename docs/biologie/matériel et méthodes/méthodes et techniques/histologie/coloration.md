@@ -1,6 +1,6 @@
 ### Coloration
 
-Coloration les plus fréquentes utilisées en [[Histologie]] sont :
+Coloration les plus fréquentes utilisées en [[tissu]] sont :
 
 * HES ou trichrome de Masson (noyau : Hématoxyline de Gill (eau), cytoplasme : Éosine (alcool), MEC : Safran (alcool) ou Bleu d’aniline
 * Picro-Indigo-Carmin (noyau : Rouge nucléaire, cytoplasme et MEC : picro-Indigo-Carmin

@@ -21,7 +21,6 @@ cytosol de chaque cellule et traversé par des filaments.
 
 !!! note
     Les déchirures musculaires sont liées à une rupture des desmosomes.
-
 ### Jonctions ouvertes
 
 Jonction ouverte (ou jonction communicante) composée de protéines membranaires qui forment un canal. Elles permettent le passage de petites molécules comme les ions, aa, glucides. Elles sont impliquées dans les voies de communication cellulaire.

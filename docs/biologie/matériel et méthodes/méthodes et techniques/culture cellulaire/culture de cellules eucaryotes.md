@@ -1,5 +1,4 @@
 Les éléments dont ont besoins une cellule pour survivre dépendent de son type. La sélection de types cellulaires se fait par la composition du milieu.
-
 ## Milieu de culture
 
 Le milieu est composé :
@@ -12,7 +11,7 @@ Rappel : Osmolarité des cellules animales 300mOsmol/L.
 
 __Lignée cellulaire__ cellule rendue immortelle.
 
-__Coat__ substrat qui facilite l'adhésion composant de la MEC appelé.
+__Coat__ substrat qui facilite l'adhésion composant de la [[matrice extracellulaire]].
 
 !!! note
     La glutamine est impliquée dans de nombreux processus notamment dans la fabrication des pyrimidines et de la purine (les précurseurs des nucléosides). Mais elle est extrêmement labile. Son temps de demi-vie est très faible et trop délétère car il se transforme en ammoniac.
@@ -20,7 +19,6 @@ __Coat__ substrat qui facilite l'adhésion composant de la MEC appelé.
 __Confluence__ proportion de cellules ayant adhérée au support. % de l'espace occupé par les cellules.
 
 pH tendance à basique en division importante pensez à acidifier le milieu. Dans les incubateurs, le pH est maintenu par la présence de $CO_2$.
-
 ## Isoler les cellules
 
 Pour isoler un type cellulaire, il existe deux techniques :
@@ -35,7 +33,6 @@ L'amplification de la culture d'un type passe par la composition du milieu.
 
 !!! note
     Pour décrocher les cellules du tissu ou de leur support, on utilise généralement la trypsine (endopeptidase) qui présente l'avantage d'avoir une efficacité élevée.
-
 ## Conservation des cellules
 
 Pour conserver les cellules, elles sont congelées. Les paramètres à surveiller sont :

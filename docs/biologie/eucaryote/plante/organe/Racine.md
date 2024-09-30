@@ -1,5 +1,3 @@
-## Les racines
-
 Les racines servent :
 
 * fixer la plante au sol.
@@ -15,7 +13,6 @@ Il existe deux types de racines :
 
 * une racine pivotante principale verticale d'où émerge des racines latérales.
 * racines adventives se développent sur les feuilles ou la tige.
-
 ### Physionomie longitudinale de la racine
 
 Les racines sont organisées en trois zones (de bas en haut) :
@@ -52,7 +49,6 @@ racines latérales.</p></td>
 </table>
 
 __Gravitropisme__ sensible à la gravité.
-
 ### Physionomie transverse de la racine
 
 La racine se compose d'un cylindre central (appelé stèle) entouré d'un cortex (ou zone corticale).

@@ -1,11 +1,10 @@
+[[cytosquelette]]
 Les filaments intermédiaires sont les plus stables et dépendent du type cellulaire.
-
 ### Fonctions principales
 
 * Maintien de la forme cellulaire (éléments supportant la tension).
 * Fixation du noyau et de certains organites
 * Formation de la lamina nucléaire
-
 ### Structure
 
 Diverses protéines fibreuses de forme allongées qui s'enroulent pour former un gros câble (ou une superhélice). Les principales protéines de filaments intermédiaires sont : la kératine, la vimentine, le neurofilament et les lamines.
@@ -48,11 +47,9 @@ Les protéines qui composent les filaments intermédiaires les plus notables :
 * Nestine qui constitue les neurofilaments.
 * Lamine qui constitue l'enveloppe nucléaire.
 * Vimentime
-
 ### La régulation des filaments intermédiaires
 
 La régulation des filaments intermédiaires se fait par des modifications post traductionnelles de type acétylation, ubiquitination et phosphorylation. La phosphorisation induit une dépolymérisation.
-
 ### Protéines associées aux filaments intermédiaires
 
 Les principales types de protéines associées aux filaments intermédiaires sont :

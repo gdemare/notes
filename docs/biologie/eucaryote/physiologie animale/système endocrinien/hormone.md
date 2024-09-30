@@ -8,14 +8,12 @@ Type	 	 | Précurseur 				| Solubilité
 Polypeptides | Acides aminées 			| Hydrosoluble
 Stéroïdes 	 | Cholestérol 				| Hydrophobe
 Amine 		 | Tyrosine ou tryptophane 	| Hydrosoluble/hydrophobe
-
 #### Hydrophobes
 
 1. Les hormones hydrophobes sont sécrétées dans le milieu extracellulaire par exocytose.
 2. Elles sont acheminées par des protéines de transport qui les rendent solubles et leur permet d'être acheminées par voie sanguine dans la région où se trouvent les cellules cibles.
 3. Le complexe se désolidarise et les hormones traversent les membranes pour aller se fixer sur des récepteurs situés soit dans le noyau ou dans le cytosol.
 4. Transcription génétique.
-
 #### Solubles
 
 Les hormones solubles ne peuvent pas traverser les membranes. Elles se fixent sur des récepteurs de la membrane plasmique.
@@ -49,7 +47,6 @@ l’activités sexuelles</p></td>
 </table>
 
 Les hormones sont acheminées dans le neurohypophyse par des axones.
-
 ### Les hormones adénohypophysaires
 
 L'hypothalamus libère des hormones par un réseau de veines qui va directement vers l'adénohypophyse. Les hormones produites sont de deux types en fonction de l'activité métabolique :

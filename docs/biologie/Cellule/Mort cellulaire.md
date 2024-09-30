@@ -11,12 +11,11 @@ __Apoptose__ mort cellulaire programmé. Elle Réponse cellulaire qui conduit à
 
 !!! note
     Le type de mort cellulaire conduit à une fragmentation différente des noyaux.
-
 ## Apoptose
 
 L'apoptose conduit à :
 
-* L'ADN est découpé par Le clivage a lieu en deux histones (nucléosomes). L'ADN est fragmenté en séquence de 120 paires de bases (ou multiple de 120).
+* L'[[ADN]] est découpé entre deux histones (nucléosomes). L'ADN est fragmenté en séquence de 120 paires de bases (ou multiple de 120).
 * La translocation des phosphodylsérines passent du feuillet interne au feuillet externe. Elles sont utilisées comme signal pour les macrophages et les biologistes de mort cellulaire.
 * La conservation de l'intégrité cellulaire ce qui évite qu'une réponse immunitaire se produise.
 * Une perte de l'adhésion cellulaire.

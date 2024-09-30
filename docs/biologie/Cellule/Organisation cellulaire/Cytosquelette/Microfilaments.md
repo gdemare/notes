@@ -1,5 +1,5 @@
+[[cytosquelette]]
 L'actine représente 10% des protéines des cellules.
-
 ### Fonctions principales
 
 * Maintien de la forme cellulaire (éléments supportant la tension).

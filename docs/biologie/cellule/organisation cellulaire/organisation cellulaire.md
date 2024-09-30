@@ -20,9 +20,6 @@ Les cellules ont une petite taille pour faciliter le renouvellement de leurs con
 
 Il existe deux types de cellules :
 
-*
-* 
-
 <table>
 <colgroup>
 <col style="width: 49%" />
@@ -43,13 +40,12 @@ Il existe deux types de cellules :
 </tr>
 </tbody>
 </table>
-
 ## Chronologie de la vie
 
 Hypothèse : Pour se protéger, certaines cellules se sont regroupées et ont développé des mécanismes de coopération qui ont favorisé leur survie. Avec le temps, elles sont devenues dépendantes les unes des autres. Ce fût le début des premiers organismes multicellulaires.
 ## La compartimentation de la cellule eucaryote
 
-L'apparition de compartiments a été cruciale dans l'évolution des cellules eucaryotes. Elle a permis à des réactions chimiques incompatibles de se réaliser simultanément. Au cours du temps, les compartiments que l'on appelle organites se sont spécialisés dans une ou plusieurs fonctions comme le noyau, le [[système endomembranaire]], [[Mitochondries]] ou les lysosomes.
+L'apparition de compartiments a été cruciale dans l'évolution des cellules eucaryotes. Elle a permis à des réactions chimiques incompatibles de se réaliser simultanément. Au cours du temps, les compartiments que l'on appelle organites se sont spécialisés dans une ou plusieurs fonctions comme le noyau, le [[système endomembranaire]], [[mitochondries]] ou les lysosomes.
 
 Phagocytose capacité propre aux Eucaryotes indigestion … à la symbiose. Décupler les possibilités notamment d’acquérir de nouvelles voies métaboliques. Les symbiontes ont co-évolué s’influencent mutuellement deviennent dépendant transfert horizontal et coévolution fusionnelle.
 mitochondries  couple fidèle presque jamais séparé.
@@ -73,4 +69,4 @@ __Cytoplasme__ totalité du volume cellulaire mise à part le noyau.
 
 __Cytosol (ou hyaloplasme)__ intérieur de la cellule à l'exception des organites.
 
-Sa masse est composé à 85% d'eau et 9% protéine.
+Sa masse est composé à 85% d'eau et 9% de protéines.

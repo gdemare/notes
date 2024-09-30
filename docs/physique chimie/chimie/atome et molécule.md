@@ -1,6 +1,5 @@
-Isotope deux atomes qui possèdent le même nombre de protons mais un nombre de neutrons différent.
+__Isotope__ deux atomes qui possèdent le même nombre de protons mais un nombre de neutrons différent.
 Chaque atome possède une signature photonique (lumineuse) unique.
-
 
 Structure des molécules
 Les liaisons entre les atomes pour former des molécules se matérialisent par le partage des électrons. Pour comprendre comment les molécules sont fabriquées il faut étudier la configuration des électrons des atomes.
@@ -38,8 +37,6 @@ Hypervalence même nombre quantique principal pour partager ses électrons (par 
     * par une attraction faible à moyenne distance (interactions de van der Waals) résultant de :
         * fluctuations temporaires de la distribution électronique autour des atomes.
         * du nuage électronique et le noyau entre deux molécules. Mais les noyaux des deux molécules se repoussent, tout comme les nuages électroniques.
-
-
 ## Les liaison covalentes
 
 Les liaisons convalentes sont le résultat de l'hybridation des orbites atomiques.
@@ -67,7 +64,6 @@ Dans certains cas, les électrons des liaisons $\pi$ peuvent se délocaliser sur
 Mésomérie
 
 La mésomérie est la superposition des états électroniques de la molécule. On la représente par des tirés.
-
 ### Les moments dipolaires (force)
 
 À cause des différences d'électronégativité entre les atomes, les électrons ne se répartissent pas équitablement dans les liaisons. Les atomes très électronégatifs auront tendance attirer et à garder les électrons proches. Cette différence provoque des pôles de charge entre les atomes. On considère qu'elle n'est pas négligeable lorsque la différence d'électronégativité entre les deux atomes est supérieure à 0,5.

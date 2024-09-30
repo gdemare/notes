@@ -2,15 +2,14 @@ __Clonage__ obtention d'organisme génétiquement identique
 
 Il existe de trois types de clonage :
 
-* D'organisme qui consiste à substituer le génome d'un organisme par un autre notamment celle d'un zygote (cellule œuf).
-* Moléculaire (introduction d'un morceau d'ADN dans un autre organisme).
-* Cellulaire lié à la reproduction par exemple chez les Bactéries.
+* d'organisme qui consiste à substituer le génome d'un organisme par un autre notamment celle d'un zygote (cellule œuf).
+* moléculaire (introduction d'un morceau d'[[ADN]] dans un autre organisme).
+* cellulaire lié à la reproduction par exemple chez les Bactéries.
 
 __Totipotente__ cellule capable de se dédifférencier. La plupart des cellules végétales dispose de cette capacité contrairement aux cellules animales.
 
 !!! example 
     Les cellules de la moelle ne peuvent se différencier qu'en un nombre limité de type cellulaire.
-
 ## Clonage des Animaux
 
 Des recherches sur le clonage de cellules animales sont menées notamment dans le but de développer des traitements pour soigner des maladies par le clonage thérapeutique. L'objectif est de produire des cellules souches càd des cellules peu spécialisées capables de se diviser et de se différencier en d'autres types de cellules.

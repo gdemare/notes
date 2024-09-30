@@ -10,7 +10,7 @@ Le cytosol contient :
 
 | Organites à membrane (5) | Inclusions (10)          |
 | ------------------------ | ------------------------ |
-| [[Mitochondries]]        | Gouttelettes [[lipides]] |
+| [[mitochondries]]        | Gouttelettes [[lipides]] |
 | [[réticulum]]            | Granules de glycogène    |
 | Appareil de Golgi        | Ribosome                 |
 |                          | Particules de Vault      |

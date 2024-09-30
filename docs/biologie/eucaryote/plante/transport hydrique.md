@@ -1,6 +1,4 @@
-## Le transport de l'eau
-
-La diffusion d'eau à travers la membrane plasmique se fait par :
+Le transport de l'eau à travers la membrane plasmique se fait par :
 
 * diffusion.
 * les aquaporines.
@@ -22,11 +20,10 @@ Les minéraux entrent dans la racine au niveau des extrémités notamment par le
 
 L'eau est perdue par transpiration
 
-* Poussé de l'eau des racines
-* Aspirations par les feuilles
+* poussé de l'eau des racines.
+* aspirations par les feuilles.
 
 Il existe également la montée par capillarité. Elle est liée au diamètre des vaisseaux. Elle fonctionne chez les petites plantes inférieures à 1,5m.
-
 ### Potentiel hydrique
 
 Les mouvements d'eau entre l'environnement, la plante et l'intérieur de la plante dépendent du potentiel hydrique noté $\psi _w$ (unité MPa). Pour rappel, le flux se fait du potentiel le plus élevé vers le plus faible. Le potentiel hydrique est la somme du :
@@ -43,7 +40,6 @@ Les mouvements d'eau entre l'environnement, la plante et l'intérieur de la plan
     Le potentiel hydrique maximum est 0.
 
 L'état normal d'une cellule végétale est la turgescence. La vacuole est gonflée et exerce une pression sur les parois de la cellule.
-
 ## L'entrée d'eau dans la racine
 
 Pour que l'eau entre dans la plante il faut que le potentiel hydrique
@@ -64,18 +60,16 @@ Le potentiel hydrique dépend de :
 La tension exercée par une particule est :
 
 $$\psi _m = \frac{- 2 \cdot T}{r}$$
-
 * $r$ le rayon en $m$.
 * $T$ la tension superficielle en Mpa.
 
 Un sol est constitué de la combinaison de trois éléments :
 
-Constituant | Taille des particules (um) | Sol idéal
-------------|----------------------------|---
-Sable       | $\gt 50$                   | 40%
-Limon       | 2 à 50                     | 40%
-Argile      | $\lt 2$                    | 20%
-
+| Constituant | Taille des particules (um) | Sol idéal |
+| ----------- | -------------------------- | --------- |
+| Sable       | $\gt 50$                   | 40%       |
+| Limon       | 2 à 50                     | 40%       |
+| Argile      | $\lt 2$                    | 20%       |
 __Point de flétrissement__ limite de teneur en eau à partir de laquelle la plante n'est plus capable d'extraire l'eau.
 
 __Humus__ couche supérieure créée et entretenue par la décomposition de la matière organique.
@@ -92,7 +86,6 @@ Chez 80% des Angiospermes, l'absorption de l'eau et des minéraux se fait grâce
 
 !!! note
     Les plantes sont sensibles à la qualité du sol. Elles sont capables d'identifier et de développer leurs racines dans la zone qui leur est la plus favorable.
-
 ## Poussé de l'eau des racines
 
 La pression racinaire est engendrée par l'activité des cellules racinaires qui dépensent de l'énergie pour accumuler les minéraux. La taille limite est de quelques mètres.
@@ -101,7 +94,6 @@ La pression racinaire est engendrée par l'activité des cellules racinaires qui
     De nombreuses espèces utilisent cette voie uniquement lors de leur de période définie, par exemple durant leur croissance.
 
 La poussé d'eau des racines engendre un phénomène de guttation lorsque l'atmosphère est saturée en humidité. L'eau n'arrive plus à s'évaporer et des gouttelettes se forment à l'extrémité des feuilles.
-
 ## Aspirations par les feuilles
 
 L'aspiration foliaire se base sur l'hypothèse de cohésion-tension. Elle présente l'avantage de ne pas nécessité de dépense d'énergie de la part de la plante.
@@ -126,6 +118,7 @@ __Embolie__ cavitation où une bulle de gaz qui bloque la colonne d'eau.
 
 Pour éviter que les parties aériennes se retrouve de sans eau, les vaisseaux du xylème sont progressivement remplacés par de nouveaux. Les anciens alors servent uniquement au soutien de la plante.
 
+[[régulation de l'hydrotranspiration]]
 ### Taille limite d'un arbre
 
 La chaine d'eau est soumise à deux forces opposées qui limitent la taille maximum des arbres à 110m. La gravité tire la chaîne d'eau vers le bas tandis que la transpiration la tire vers le haut. Il en résulte une dépression qui a un certain peut briser la chaîne et entrainer une cavitation qui conduira à la mort de l'arbre.

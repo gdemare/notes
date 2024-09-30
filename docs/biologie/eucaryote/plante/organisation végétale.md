@@ -3,13 +3,12 @@ Les Végétaux peuvent être classés en fonction de leur durée de leur cycle d
 * annuelle : d'un an ou moins annuelles.
 * bisannuelles : de deux ans avec généralement la production des graines la deuxièmes années.
 * pérennes (ou vivaces) de plus de deux ans à plusieurs milliers d'années.
-
 ## Structure des végétaux
 
 Pour pouvoir prélever les ressources nécessaire à leur survie, leur développement et leur reproduction, les plantes sont composées de deux systèmes :
 
-* racinaire, qui permet de puiser dans le sol, l'eau et les minéraux. Il est formé par les racines.
-* caulinaire, qui permet de capter dans l'air, la lumière et le $CO_2$. Il est formé par les tiges et les (feuilles)[[Feuille]].
+* racinaire, qui permet de puiser dans le sol, l'eau et les minéraux. Il est formé par les [[racine]]s.
+* caulinaire, qui permet de capter dans l'air, la lumière et le $CO_2$. Il est formé par les tiges et les [[feuille]]s.
 
 !!! note
     Les deux systèmes ont besoins d'échanger mutuellement leurs ressources.
@@ -22,7 +21,6 @@ Les feuilles, les tiges et les racines forment les trois principaux organes des 
 
 !!! note
     Chaque catégorie de tissus forme un corps continu mais leurs caractéristiques varient en fonction de leur position au sein de la plante.
-
 ## Les tissus
 
 ### De revêtement
@@ -39,7 +37,6 @@ Il existe des excroissances épidermiques des tiges appelé trichome qui servent
 
 * des insectes et autres prédateurs. Ils peuvent parfois sécréter des liquides visqueux ou toxiques.
 * de l'évaporation en réfléchissant la lumière.
-
 ### Conducteurs
 
 Il existe deux types de tissus conducteurs qui servent au transport des substance chez les plantes, ceux du :
@@ -72,7 +69,6 @@ Les étapes de la mise en place du métaxylème. Ce processus conduit à la mort
 
 !!! note
     Seule la paroi secondaire subsiste.
-
 #### Phloème
 
 Les cellules conductrices de la sève élaborée sont allongées et étroites. Elles sont appelées cellules du tube criblé.
@@ -84,13 +80,12 @@ Les étapes de la mise en place de vaisseaux du phloème :
 1. Division cellulaire qui donne naissance à deux cellules : une petite et une grande.
 2. Agrandissement des plasmodesmes pour permettre le passage de la sève élaborée. La nouvelle structure s'appelle crible.
 3. Dégradation des organiques de la grande cellule mais conservation de la petite qui se charge de produire les molécules nécessaire sa survie de sa grande sœur.
-
 ### Les tissus fondamentaux
 
 Les tissus fondamentaux sont des tissus de remplissage. Certaines parties peuvent être spécialisées notamment dans :
 
 * le stockage.
-* la photosynthèse.
+* la [[photosynthèse]].
 * le soutien.
 
 On trouve principalement trois tissus fondamentaux qui sont :
@@ -160,7 +155,6 @@ En fonction de leur position dans la plante, on distingue :
 
 * la moelle qui se situe à l'intérieur du cylindre vasculaire.
 * le cortex qui se situe à l'extérieur du cylindre vasculaire.
-
 ### Tissus sécréteurs
 
 Les tissus capables de sécréter des substances chez les plantes sont :
@@ -187,8 +181,7 @@ Les tissus capables de sécréter des substances chez les plantes sont :
 </tr>
 </tbody>
 </table>
-
-## Les tiges
+## La tige
 
 La tige permet d'élever :
 
@@ -215,7 +208,6 @@ Sous l'épiderme, les tissus sont composés de l'extérieur vers l'intérieur:
 * La stéle :
 
     * Un parenchyme medullaire (ou lacune pour les Eudicotylédones) avec des pôles vasculaires répartis en cercle. Ils contiennent les vaisseaux : vers l'extérieur le phloème et l'intérieur le xylème.
-
 ### Les vaisseaux (pôles vasculaires)
 
 Les faisceaux criblo-vasculaires sont produits à plusieurs endroits autour du parenchyme médullaire dans les poles vasculaires. Orienté :
@@ -226,8 +218,7 @@ Les faisceaux criblo-vasculaires sont produits à plusieurs endroits autour du p
 __Centripète__ (opposition centrifuge) force diriger vers l'intérieur (extérieur).
 
 Chez les Eudicotyléons, les faisceaux sont séparés par le cambium fasciculaire.
-
-### Tige modifiés
+### Tige modifiée
 
 Il existe des tiges modifiés comme :
 
@@ -235,14 +226,12 @@ Il existe des tiges modifiés comme :
 * Rhizome organe de réseve avec un diamètre supérieur à 1cm.
 * Tubercule tige souterraine de réserve.
 * Bulbe zone de réserve entourée de feuilles mortes.
-
-
 ## Cotylédon
 
 Les angiospermes se distinguent en deux groupes :
 
-* monocotylédones
-* eudicotylédones
+* monocotylédones.
+* eudicotylédones.
 
 Les différences entre les Eucotylédones et les monocotylédones
 
@@ -335,9 +324,6 @@ style="width:5.08958in;height:2.35972in" /></td>
 
 !!! note
     Les stomates ne se trouvent que sur le parenchyme lacuneux.
-
-
-
 ### Le cambium
 
 Le cambium est un cylindre monocouche de cellules méristèmiques qui sépare et produit d'un côté :
@@ -357,7 +343,6 @@ __Dendrochronologie__ étude des anneaux de croissance des arbres.
 
 !!! note
     Au fur et à mesure que l'arbre vieilli les plus anciennes parties du xylème cessent de conduire la sève. Cette région forme le duramen.
-
 ### Le phellogène
 
 Le phellogène produit deux tissus :
@@ -369,16 +354,13 @@ Avec le temps, le phellogène se fend puis tombe avec l'écorce.
 
 On trouve par endroits des fentes horizontales, appelés lenticelles, où les cellules sont moins tassées pour permettre les échanges gazeux.
 
-Rhytidome ensemble des péridermes accumulés.
-
-
-# Organisation générale des plantes à fleur
+__Rhytidome__ ensemble des péridermes accumulés.
+## Organisation générale des plantes à fleur
 
 On distingue deux grands moments dans la vie des plantes à fleur caractérisées par la présence ou l'absence de fleurs, les phases :
 
-* végétative (absence)
-* reproductives (présence)
-
+* végétative (absence).
+* reproductives (présence).
 ## La floraison
 
 L'apparition des fleurs et des feuilles a lieu sur les méristèmes apicaux caulinaires :
@@ -421,7 +403,6 @@ La floraison peut être contrôler par d'autres facteurs comme :
 </table>
 
 __Vernalisation__ exposition au froid indispensable à la floraison.
-
 ## Structure de la fleur
 
 La fleur est un organe de reproduction des plantes à fleur. Elle est attachée à la tige, appelé pédoncule, par un réceptacle floral. On trouve parfois sous le pédoncule une petite feuille appelée bractée.
@@ -448,7 +429,6 @@ Les fleurs :
 * Achlamyde pas de pétales et pas de sépales.
 
 __Pluriloculaire__ (opposition à uniloculaire) plusieurs ovules par carpelles (un seul).
-
 ## Vocabulaire
 
 Les types de plantes :
@@ -480,7 +460,6 @@ Les types de plantes :
 </table>
 
 __Éperon__ corolle ou calice en forme de tube qui contient le nectar.
-
 ### Androcée (les étamines)
 
 Position des anthères par rapport à la position du connectif :
@@ -491,7 +470,6 @@ Position des anthères par rapport à la position du connectif :
 | Médifixe          | Milieu bas   |
 | Épifixe           | Milieu haut  |
 | Dorsifixe         | Tout en haut |
-
 L'orientation des fentes de déhiscences
 
 * Extrorses vers l'extérieur

@@ -1,10 +1,7 @@
-## Les feuilles 
-
 Les feuilles sont le principale organe de la [[biologie/eucaryote/plante/photosynthèse]] de la plante. Le processus requière du $CO_2$ et libère de l'$O_2$. Les molécules circulent par des ouvertures appelées ostioles. Elles sont formées par deux cellules, le stomate.
 
 !!! note
     Lorsque la chaleur est trop importante, les stomates se ferment pour limiter l'évaporation.
-
 ### Les tissus foliaires
 
 Chez les Eucotylédons, le mésophylle est le tissu qui constitue les feuilles. Il est composé de haut en bas :
@@ -18,7 +15,6 @@ Le mésophylle est parcouru par un réseau ramifié de tissus conducteurs qui pe
 * la circulation des nutriments.
 
 Chaque nervure est entourée d'une gaine péri fasciculaire càd un renforcement de collenchyme et sclérenchyme. Le xylème se trouve en haut et le phloème en bas.
-
 ### Structure
 
 La feuille est formée de trois parties :

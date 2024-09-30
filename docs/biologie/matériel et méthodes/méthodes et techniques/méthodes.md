@@ -1,6 +1,6 @@
-__réplica biologique__ plusieurs échantillons avec les mêmes conditions expérimentales.
+__Réplica biologique__ plusieurs échantillons avec les mêmes conditions expérimentales.
 
-__réplica technique__ plusieurs mesures du même échantillon.
+__Réplica technique__ plusieurs mesures du même échantillon.
 
 __Dialyse__ technique consistant à diminuer la concentration de molécules en créant un gradient chimique.
 

@@ -1,6 +1,4 @@
-## K-means
-
-Appelé aussi centroïdes
+Les centres mobiles sont appelés aussi k-means, centroïdes.
 
 k points (appelés centres) sont initialisés aléatoirement. L'algorithme attribut les points les plus proches à chaque centre. Les centres sont recalculés. Le résultat dépend de l'initialisation des points. 
 
@@ -15,4 +13,3 @@ Avantages	| Inconvénients
 ------------|---
 Rapide		| Non robuste
 
-## Moyennes mobiles

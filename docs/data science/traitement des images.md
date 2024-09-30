@@ -1,11 +1,9 @@
 L'histogramme d'une image représente la distribution des couleurs.
 Généralement, une image plaisante aura un histogramme de proche d'une fonction plate. Les couleurs seront réparties de façon égale.
-
 ### Transformation d'histogramme
 
 en pré-traitement pour normaliser l’image
 post-traitement pour améliorer la visualisation
-
 ## Morphologie mathématique
 
 La morphologie en traitement d'images sert à filtrer,  segmenter et quantifier.

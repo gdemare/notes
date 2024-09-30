@@ -1,12 +1,11 @@
 L'apparition du fruit a lieu après la fécondation des ovules. Elle doit permettre la dispersion et la protection de la graine :
 
-* L'ovule se transforme en graine : embryone, albumen (réserve nutritive) et tégument (tissu enveloppe) .
+* L'ovule se transforme en graine : embryon, albumen (réserve nutritive) et tégument (tissu enveloppe) .
 * L'ovaire se transforme en péricarpe : endocarpe (noyau, coque de lignine), mésocarpe (chair) et épicarpe (généralement la peau du fruit). 
 
-Chez certains fruits, la métamorphose de l'ovaire en péricarpe peut s'accompagner du remplissage de l'espace des ovaires et enserrer les graines. On parle alors de drupe comme pour la pêche (par opposition à akène où la graine est libre comme chez la noisette).  
+Pour certains fruits, la métamorphose de l'ovaire en péricarpe peut s'accompagner du remplissage de l'espace des ovaires et enserrer les graines. On parle alors de drupe comme pour la pêche (par opposition à akène où la graine est libre comme chez la noisette).  
 
 On distingue les fruits en fonction de leur capacité à s'ouvrir et libérer la graine lorsque cette dernière est arrivée à maturité appelée déhiscent (par opposition à indéhiscent). 
-
 ### Diversité des formes et des structures chez les fruits 
 
 On qualifie les fruits qui ne sont pas issus de la transformation de l'ovaire de faux-fruit :

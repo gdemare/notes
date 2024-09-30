@@ -1,4 +1,3 @@
-
 Les végétaux peuvent croitre durant toute leur vie mais tous les organes ne sont pas concernés. La naissance de nouvelles cellules a lieu dans des parties localisées appelées méristèmes. Il en existe de deux types, chacun étant associé à un type de croissance :
 
 * Apicaux associé à un allongement dite croissance primaire.
@@ -22,8 +21,6 @@ Il existe deux types de divisons cellulaires :
 * Péricline division en épaisseur (les unes au dessus des autres).
 
 Pour aider à maintenir la structure, une partie du parenchyme peut se transformer en sclérenchyme.
-
-
 
 La croissance végétale débute dans deux zones localisées aux extrémités appelé méristèmes apicaux :
 
@@ -73,7 +70,6 @@ L'épiderme doit laisser par l'eau et les minéraux.
 Des racines latérales peuvent émerger du péricycle. Elles devront briser cortex et l'épiderme.
 
 Les tissus conducteurs sont produits par des cellules vers l'extérieur comme sous l'action d'une force centripète.
-
 ### Croissance primaire des tiges et des feuilles
 
 La croissance primaire des tiges a lieu au niveau des méristèmes apicaux caulinaire (MAC).

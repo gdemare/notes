@@ -1,16 +1,16 @@
 Le cerveau pèse en moyenne 1,4 Kg. Il est composé à 72% d'eau. Sa masse sèche contient :
+* 50% de lipides.
+* 40% de protéines.
+* 1% de glucides
 
-|                |                  |                |
-|----------------|------------------|----------------|
-| 50% de lipides | 40% de protéines | 1% de glucides |
 Les replis du cerveau sont appelées circonvolutions, elles augmentent la surface.
 
 Le cerveau s'organise en quatre parties principales appelées lobe :
 
-* Frontal
-* Pariétal
-* Occipital
-* Temporal
+* frontal
+* pariétal
+* occipital
+* temporal
 ## Les lobes
 
 ### Le lobe frontal

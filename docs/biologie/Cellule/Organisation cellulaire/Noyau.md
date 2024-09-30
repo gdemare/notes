@@ -12,7 +12,6 @@ Les molécules peuvent rentrer et sortir du noyau soit par :
 
 * Diffusion simple comme pour les petites molécules et les ions.
 * Pore nucléique (entre 3000 à 4000) notamment les molécules de masse supérieure à 50 000 Da.
-
 ## Contenu du noyau
 
 Le noyau contient l'ADN et un mélange de protéines appelés chromatine.
@@ -23,7 +22,6 @@ On trouve deux types de chromatines :
 
 * 10% d'hétérochromatine en périphérie.
 * 90% d'euchromatine au centre.
-
 ### Hétérochromatine
 
 L'hétérochromatine est la forme de l'ADN condensé. Comme la cellule n'utilise pas simultanément tous leurs gènes. Elle compact ceux qu'elles n'utilisent pas pour qu'ils prennent moins de volume.
@@ -40,14 +38,12 @@ facultative, gène non utilisé pour le moment mais qui pourront devenir de l'eu
     Le taux d'ADN empaqueté dans la cellule atteint son paroxysme lors de la division cellulaire durant la métaphase.
 
 L'empaquetage est réalisé par des protéines appelées histones qui enroulent ou déroulent l'ADN suivant le besoin de la cellule.
-
 ### La condensation de l'ADN
 
 Il y a deux protéines responsables de la condensation de l'ADN :
 
 * histones (en interphase).
 * condensine (en mitose et méiose).
-
 #### Les histones
 
 __Histone__ protéines qui protègent et permettent la compaction des chromosomes via des modifications chimiques réversibles. Les histones sont composées essentiellement d'arginines et de lysines, des acides aminés chargés positivement à pH physiologique (7,4) qui auront une affinité avec les charges négatives de l'ADN. 
@@ -63,19 +59,16 @@ Les histones H1 sont responsables de la formation de la fibre de 30 nm.
 Le nucléosome est un complexe comportant un segment d'ADN de 146 ou 147 paires de nucléotides, enroulé autour d'un cœur d'un octamère d'histones qui donnent l'apparence d'un « collier de perles » à l'ADN.
 
 Leurs extrémités allongées (N-terminale) sont particulièrement riches en résidus de lysines et d'arginines.
-
 #### Les condensines
 
 __Condensine__ complexe de protéines impliquées dans la condensation des chromosomes avant la mitose.
 
 La condensation est provoquée par phosphorisation.
-
 ### Nucléole
 
 Le nucléole est une zone d'euchromatine dont la taille dépend de l'activité métabolique de la cellule. Elle peut atteindre jusqu'à 23% du volume du noyau. C'est le lieu de la synthèse des ribosomes.
 
 Il est formé de partie de 10 chromosomes qui contiennent l'information nécessaire à la production de l'ARN R.
-
 ## L'enveloppe nucléaire
 
 Le noyau est protégé par une enveloppe nucléaire composée de trois couches :
@@ -83,20 +76,17 @@ Le noyau est protégé par une enveloppe nucléaire composée de trois couches 
 * lamina (membrane interne).
 * Lumen du RE (l'espace intermembranaire) qui se trouve entre deux bicouches lipidiques.
 * Couche lipidique (membrane externe) souvent parsemée de ribosomes.
-
 ### Lamina
 
 Le lamina permet à l'hétérochromatine d'adhérer à la paroi. Il est constitué de lamines, une protéine structurelle produite dans le cytosol. À l'exception d'elle, toutes les protéines qui composent le cytosquelette se trouvent dans le cytosol.
 
 La phosphorisation désagrège les lamines par dépolymérisation ce qui entraine la désintégration de l'enveloppe nucléaire. Cet évènement a lieu lors de la méiose.
-
 ## Les rôles du noyau
 
 Les deux réactions chimiques qui se produisent dans le noyau sont :
 
 * La réplication de l'ADN
 * La transcription de l'ADN en ARN dont fait partie la synthèse des ribosomes
-
 ### Transcription de l'ADN en Acide ribonucléique (ARN)
 
 On distingue quatre types d'ARN :
@@ -105,7 +95,6 @@ On distingue quatre types d'ARN :
 * de **T**ransfert
 * **R**ibosomale
 * régulatrice
-
 #### ARN Messager
 
 L'ARN M transcrit n'est pas directement utilisable par la cellule. Il a besoin de subir préalablement un processus de maturation qui comprend notamment une étape d'épissage où les introns (parties non utiles) sont retirés par excisions et les exons sont conservés et liés entre eux. On distingue l'ARN M primaire (ou précoce) et l'ARN secondaire (ou mature).
@@ -186,7 +175,6 @@ Le pore nucléaire est délimité par deux anneaux de même diamètre :
 Chaque anneau est relié par 8 bras radiaires au transporteur central.
 
 L'anneau nucléoplasmique est relié à un autre anneau plus petit par huit filaments formant une « cage ».
-
 ### Récepteur d'importation nucléaire
 
 Le récepteur d'importation nucléaire se lit aux grosses molécules et aux protéines nucléaires grâce à une séquence signal de localisation nucléaire. Il les dirige ensuite vers un pore nucléaire.

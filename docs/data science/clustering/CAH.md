@@ -1,8 +1,7 @@
-# Classification Ascendantes Hiéarchiques
-
+CAH ou  Classification Ascendantes Hiérarchiques
 ## Concept
 
-Les individus sont regroupés deux à deux en fonction d'un critère (similarité des données) jusqu'a obtenir une seule classe.
+Les individus sont regroupés deux à deux en fonction d'un critère (similarité des données) jusqu'à obtenir une seule classe.
 
 L'inertie :
 
@@ -12,11 +11,10 @@ L'inertie :
 
 Avec 
 
-* `g` le centre de gravité de tous les points.
-* `g_i` le centre de gravité de chaque groupe.
-* `x_k` les coordonnées des individus.
-* `n_i` l'effectif de groupes
-
+* $g$ le centre de gravité de tous les points.
+* $g_i$ le centre de gravité de chaque groupe.
+* $x_k$ les coordonnées des individus.
+* $n_i$ l'effectif de groupes
 ## Les méthodes
 
 ### Ward 
@@ -30,15 +28,13 @@ La méthode de Ward cherche à maximiser l'inertie interclasse et minimiser intr
 	C'est la méthode la plus utilisée.
 
 Coefficient de Gini
-
 ## Type de variables
 
 * quantitatives
 * (qualitatives avec un tableau disjonctif)
-
 ## Utilité
 
-* Clustering
+* [[clustering]]
 
 ## Attribut
 

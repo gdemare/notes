@@ -2,7 +2,6 @@
 
 Inspiré du système visuel chez les Animaux. 
 Aggrégation de données.
-
 ## Extracteur de caractéristiques
 
 L'extraction se fait par l'application de trois opérations :

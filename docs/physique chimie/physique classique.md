@@ -2,8 +2,8 @@ La physique classique :
 
 * mécanique newtonienne.
 * l'électromagnétisme.
-* thermodynamique.
-* théorie des quantan (quantum qui signifie quantité discontinue).
+* [[thermodynamique]].
+* théorie des quantan (quantum qui signifie quantité discontinue) ou [[physique quantique]].
 
 $h = 6,626 \cdot 10^{-34} J \cdot s$ constante de Plank.
 

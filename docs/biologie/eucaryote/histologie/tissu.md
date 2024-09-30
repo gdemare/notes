@@ -1,12 +1,12 @@
-
+Histologie
 # Le derme ou la peau
 
 Quatre catégories de tissus :
 
-* [[Tissu musculaire]]
-* [[Tissu nerveux]]
-* [[Tissu conjonctif]]
-* [[Tissu épithelial]]
+* [[tissu musculaire]]
+* [[tissu nerveux]]
+* [[tissu conjonctif]]
+* [[tissu épithelial]]
 
 La peau extérieure est composée de trois couches :
 
@@ -70,10 +70,10 @@ Anatomie (organisme, systèmes et appareil composition de plusieurs organes) MET
 
 Il existe quatre types de tissus :
 
-* [[Tissu conjonctif]]. Le sang est consiédéré comme un tissus conjonctif liquide.
-* [[Tissu épithelial]].
-* [[Tissu musculaire]].
-* [[Tissu nerveux]].
+* [[tissu conjonctif]]. Le sang est consiédéré comme un tissus conjonctif liquide.
+* [[tissu épithelial]].
+* [[tissu musculaire]].
+* [[tissu nerveux]].
 
 !!! note
     les cellules souches et cellules germinales n'appartiennent à aucun de ces types.

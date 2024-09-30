@@ -1,43 +1,20 @@
-## Les atomes
-
-Particule   | Charge                        | Masse
-------------|-------------------------------|------
-Proton      | $+e = 1.60 \cdot 10^{−19} C$  | $1,67 \cdot 10^{−27} kg$
-Neutron     | $0$                           | $1,67 \cdot 10^{−27} kg$
-Électron    | $−e$                          | $9,11 \cdot 10^{−31} kg$
-
-$^A_Z X$ avec :
-
-* $A$ nbre de nucléons (protons + neutrons).
-* $Z$ n° atomique (nbre de protons).
-
-Si le nombre d'électrons est différence du nombre de protons alors
-l'atome est chargé :
-
-__Cation__ (opposition à anion) molécule avec une charge positive.
-
-
-__Valence__ nbre d'électrons libres n'appartenant pas à des doublets.
-
-Hypervalence même nombre quantique principal pour partager ses électrons (par exemple : C, P, Na.)
-
-## Les molécules
+Les molécules sont des associations d'[[atome]]s.
 
 Exemple des différentes représentation pour le glucose :
 (2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanal
 
 Les principaux types de représentations sont :
 
-Représentation ou description               | Type de formule
+ Représentation ou description | Type de formule
 --------------------------------------------|----
-$C_6H_{12}O_6$                              | Brute
-Représentation de tous les atomes           | Développé plane
-Formule développée + doublets non liant     | Lewis
-Squelette carboné + formule semi développé  | 
-Squelette carboné sous la forme de ligne    | Topologique
-Cram                                        |
-Utilisé pour représenter notamment les carbones asymétriques| Newman
-X                                           | Fischer
+|  $C_6H_{12}O_6$               | Brute
+| Représentation de tous les atomes           | Développé plane
+| Formule développée + doublets non liant     | Lewis
+| Squelette carboné + formule semi développé  | 
+| Squelette carboné sous la forme de ligne    | Topologique
+| Cram                                        |
+| Utilisé pour représenter notamment les carbones asymétriques| Newman
+| X                                           | Fischer
 
 !!! note
     La représentation de Fischer est particulièrement utilisée en biochimie pour les sucres et les acides alpha aminées.
@@ -53,7 +30,6 @@ X                                           | Fischer
 Le nombre d'insaturations correspond à la différence du nombre de paires d'hydrogènes entre la molécule étudiées et celle maximise le nombre d'hydrogènes.
 
 Un cycle ou une liaison $\pi$ valent une insaturation.
-
 ## Insaturation
 
 $\frac{2 \cdot n_{IV} + n_I - n_{III}}{2}$
@@ -62,7 +38,6 @@ Avec :
 
 * $n$ le nombre d'atomes.
 * $I, III, IV$ le nombre de liaisons.
-
 ### Cycle aromatique
 
 Il existe une catégorie mésomère appelés aromatiques. Ceux sont des molécules qui possèdent une partie qui respecte les propriétés suivantes :
@@ -185,7 +160,6 @@ Nbre d'atomes   | Pré
 8               | Oct-
 9               | Non-
 10              | Dec-
-
 ### Les principaux groupements fonctionnels
 
 <table>
@@ -337,7 +311,6 @@ Deux types de stéréoisomères :
 
 !!! note
     Une molécule possède au maximum $2^n$ stéréoisomères.
-
 ## Conformation 
 
 Comme il y a plusieurs conformations possibles pour une même molécule. Il est important de pouvoir déterminer celles qui sont les plus stables càd qui minimisent la répulsion électronique entre les atomes.

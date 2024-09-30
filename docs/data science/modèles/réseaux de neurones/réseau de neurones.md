@@ -16,9 +16,9 @@ Les connexions entre les neurones sont appelées synapses. Il en existe de deux 
 * Inhibiteur.
 * Excitateur.
 
-Si un neurone pré et post synaptique s'excitent ensemble alors ils renforceront le lien qui les uni càd le poid synaptique de la synapse qui les relie.
+Si un neurone pré et post synaptique s'excitent ensemble alors ils renforceront le lien qui les uni càd le poids synaptique de la synapse qui les relie.
 
-Chaque neurone applique une fonction à la donnée qu'il recoit en entrée. On utilise principalement trois fonctions :
+Chaque neurone applique une fonction à la donnée qu'il reçoit en entrée. On utilise principalement trois fonctions :
 
 * Sigmoïde $f(x) = \frac{1}{1 + e^{-x}}$
 * Unité de rectification linéaire douce. $f(x)= \ln (1+e^{x})$
@@ -33,46 +33,41 @@ Chaque neurone applique une fonction à la donnée qu'il recoit en entrée. On u
     * tanh fonction qui ressemble à la sigmoid en plus "typée" sur un intervalle de -1 à 1. 
 
 !!! note
-    Il existe la fonction softmax qui renvoie la classe avec la plus grande valeur (càd avec la plus grande probabilité). Elle sert notamment à renvoyer avec plus grande valeur dans le cas d'une classifciation avec plus de deux classes.
+    Il existe la fonction softmax qui renvoie la classe avec la plus grande valeur (càd avec la plus grande probabilité). Elle sert notamment à renvoyer avec plus grande valeur dans le cas d'une classification avec plus de deux classes.
 
 Pour faciliter les opérations, les données sont manipulées et transformées dans un objet mathématique appelé matrice.
 En général, cnn puis activation puis pooling.
 
 La fonction max pooling réduit la dimension de la matrice d'activation (activation map) en conservant la valeur maximum sur les régions. Cela permet de réduire l'impact de petits changements qui pourrait se produire dans l'image.
-
 #### Rétropropagation et modification des coefficients
 
 Les coefficients sont ajustés par la descente de gradients stochastiques. Les coefficients sont choisis aléatoirement (stochastiques) et ajustés lorsque le modèle se trompe. L'ajustement se fait en étudiant le sens de variation de chaque neurone qui est déterminé par le calcul de la dérivé partielle.
 
 !!! note
     D'où l'utilité d'avoir des fonctions dérivables.
-
 ## Paramètres
 
-Avantages                       | Inconvénients
---------------------------------|-------------------
-Pas de paramètres à vérifier    | surapprentissage
-Demande beaucoup de ressources  |
-
+| Avantages                      | Inconvénients    |
+| ------------------------------ | ---------------- |
+| Pas de paramètres à vérifier   | surapprentissage |
+| Demande beaucoup de ressources |                  |
 ## Echantillonage 
 
 Pour limiter le surapprentissage, il faut essayer d'avoir autant d'individus de chaque classe pour la prédiction.
-
 ## Agrégation de réseaux de neurones
 
 L'agrégation de réseaux de neurones (boosting ou bagging) n'apporte pas un gain significatif de pouvoir prédicteur. La manière même d'élaborer des réseaux de neurones conduit souvent à des poids et des réseaux quasi identiques.
 
-## le réseau de neurones
+## Réseau de neurones
 
 Un réseau de neurones est un empilement de couches. Ils en existent plusieurs notamment les couches :
 
 * Base.
 * Convulsives inspirées de la vision chez les mammifères.
-* Pooling qui compresse l'information. Elle est souvent utilisée après une couches convulsives pour ne garder que l'information pertinente. Il en existe deux types : max et moyenne.
+* Pooling qui compresse l'information. Elle est souvent utilisée après une [[couche convulsive]] pour ne garder que l'information pertinente. Il en existe deux types : max et moyenne.
 * récurrentes adaptées au traitement textuel. Elle garde en mémoire l'ordre notamment celui des mots. 
 * Normalisation.
 * Régularisation complexifie le modèle en créant un bruit aléatoire (Dropout qui met des 0). Contribue a rendre le modèle plus performant et moins sensible au bruit.
-
 ### Convergeance des poids vers les valeurs optimum 
 
 * L'initialisation des poids peut avoir des répercussions importantes sur le modèle.
@@ -81,11 +76,9 @@ Un réseau de neurones est un empilement de couches. Ils en existent plusieurs n
 Méthodes qui permettent aux poids de converger plus rapidement vers les optimum :
 
 * Mommentum des poids d'apprentissage permet d'éviter certains minimums locaux trop petit.
-
 ### Entrainement du réseau de neurones
 
 Créer des lots de fichiers (batch) qui seront soumis plusieurs fois au modèle.
-
 ## Les images : Augmenter le nombre de données et la polyvalence du modèle
 
 Générer un jeu de données d'apprentissage à partir d'un dosssier. Les images créées par des transformations sont ajoutées aux jeux de données (training, validation) tels que :
@@ -95,22 +88,19 @@ Générer un jeu de données d'apprentissage à partir d'un dosssier. Les images
 * Changements d'échelle.
 * Rotation de l'image.
 * Zoom.
-
 ## Bibliothèques
 
 Il existe principalement deux bibliothéques pour faire de l'apprentissage profond.
 
-Library             | Développer    | Avantages
---------------------|---------------|---------------
-`torch` pytorch     | Méta          | Beaucoup plus flexible et personalisable
-`tensorflow`        | Google        | Plus simple à utiliser
-
+| Library         | Développer | Avantages                                |
+| --------------- | ---------- | ---------------------------------------- |
+| `torch` pytorch | Méta       | Beaucoup plus flexible et personalisable |
+| `tensorflow`    | Google     | Plus simple à utiliser                   |
 ## Créer un modèle
 
 1. Créer le modèle avec les couches.
 2. Compiler le modèle et définir les indicateurs à minimiser.
 3. Entrainer le modèle.
-
 ## Considération mathématique d'un neurone et d'un réseau
 
 ### Un neurone (ou perceptron)
@@ -120,7 +110,6 @@ $z = w_1 \cdot x_1 + w_2 \cdot x_2 + b$ avec $w_i$ les poids pour chaque variabl
 On applique ensuite la fonction qui renvoie une valeur sur $[0 ;1]$
 
 $a(z) = \frac{1}{1 + e^{- z}}$
-
 #### Performance du modèle
 
 On compare la probabilité d'appartenance de la classe avec la réalisation. Ainsi, la qualité de prédiction du modèle avec la classe réelle pouvant être $y={0 ;1}$ : $p(Y = y) = a(z)^y \cdot {(1 - a(z))}^{1 - y}$
@@ -138,7 +127,6 @@ On applique :
 
 * une pondération m (nbre de données) pour que la qualité ne dépende pas du nombre de données.
 * un signe --.
-
 #### Calcul des poids
 
 L'optimisation du modèle passe par l'ajustement des poids. On cherche à minimiser le log L

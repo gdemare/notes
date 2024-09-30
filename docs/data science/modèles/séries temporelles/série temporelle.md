@@ -3,16 +3,13 @@ Les séries temporels se décomposent en trois composantes :
 * Tendance. 
 * Saisonalité (phénoméne périodique).
 * Résidus (variation exceptionnelle).
-
 ## Objectif
 
 * Décrire, expliquer un phénomène evoluant au cours du temps.
 * Prévoir des valeurs futures.
-
 # Modéle additif ou multiplicatif
 
 Ramener à un modèle additif avec la fonction $\log$.
-
 ## Tendance 
 
 * Estimation avec méthodes paramétriques.

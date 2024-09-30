@@ -11,7 +11,6 @@ Généralement, les fonctions sont trop complexes pour que l'on puisse détermin
 * Méthodes quasi Newton (deux méthodes principales : Powell et DFP). Nhésité d'approximer la matrice hessienne mais complexe notamment à inverser.
 * BFGS approche.
 * méthode stochastique (Métropolis).
-
 ### Algorithme du recuit stimulé
 
 1. Un point initial $p_0$ est pris aléatoirement.
@@ -24,11 +23,9 @@ Généralement, les fonctions sont trop complexes pour que l'on puisse détermin
 Au début on choisi une température élevée pour permettre au système d'accepter à tous points. Au cours de l'algorithme, la température $T$ diminue, et la probabilité d'acceptation diminue.
 
 En pratique, on réalise plusieurs fois l'algorithme en conservant les valeurs obtenues pour ne garder que la plus basse.
-
 ## Utilité
 
 Recherche d'un maximum ou d'un minimum revient à trouver la solution pour laquelle la dérivé est nul $f'(x) = 0$.
-
 ### Ajustement
 
 Trouver l'équation d'une droite qui minimise la distance avec les points. La méthode est généralisable notamment pour trouver de la fonction pour :

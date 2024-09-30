@@ -1,4 +1,4 @@
-Dans les synapses chimiques, la transmission du message nerveux d'un neurone afférent vers un efférent a lieu par l'intermédiaire de molécules appelées neurotransmetteurs (ou neuromédiateurs). Ils sont libérés en réponse à un potentiel d'action.
+Dans les synapses chimiques, la transmission du message nerveux d'un [[neurone]] afférent vers un efférent a lieu par l'intermédiaire de molécules appelées neurotransmetteurs (ou neuromédiateurs). Ils sont libérés en réponse à un potentiel d'action.
 
 __Neurotransmetteur__ (ou neuromédiateur) molécule chimique synthétisée et stockée par les neurones qui sert à transmettre le message nerveux aux autres neurones.
 

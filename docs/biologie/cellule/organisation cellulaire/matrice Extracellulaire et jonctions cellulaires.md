@@ -34,7 +34,7 @@ __Cytokine__ famille de récepteurs membranaires la plus répandue. Elle compren
 
 ### La membrane de basale
 
-De nombreux tissus sont séparés de la MEC par une membrane de basale, un assemblage de protéines et glycoprotéines extracellulaires fabriqué par les cellules épithéliales et les cellules du [[Tissu conjonctif]].
+De nombreux tissus sont séparés de la MEC par une membrane de basale, un assemblage de protéines et glycoprotéines extracellulaires fabriqué par les cellules épithéliales et les cellules du [[tissu conjonctif]].
 
 La membrane basale est composée de :
 

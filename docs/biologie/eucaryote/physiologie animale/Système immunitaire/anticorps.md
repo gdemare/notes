@@ -1,6 +1,4 @@
-#### Les anticorps
-
-Les anticorps se lient aux pathogènes pour :
+Les anticorps sont les récepteurs solubles produits par les [[lymphocyte]]s B. Ils se lient aux pathogènes pour :
 
 * favoriser la reconnaissance des pathogènes et l'opsonisation, aide à la phagocytose.
 * aider à contenir les pathogènes en les agglomérant. Chaque récepteur est capable de se lier à deux antigènes.
@@ -8,8 +6,7 @@ Les anticorps se lient aux pathogènes pour :
 * provoquer la destruction du pathogène grâce à l'association de protéines (ce processus est appelé système du complément). Certaines protéines viennent s'associer aux anticorps pour former un complexe d'attaque membranaire qui perce la membrane du pathogène et provoque sa mort.
 
 __Anticorps__ (ou immunoglobuline Ig ou BCR) version du récepteur membranaire soluble (libre dans le milieu extracellulaire). Il est capable de réagir avec un antigène.
-
-##### Structure
+## Structure
 
 Les récepteurs d'antigènes des lymphocytes B sont en forme de Y appelé motifs immunoglobulines G (Ig G). On trouve deux sites de reconnaissance identiques à chaque extrémité.
 

@@ -7,11 +7,9 @@ L'hyperplan cherché est celui qui maximise la marge entre deux classes ou minim
 
 !!! note
     Les points dont dépendent l'hyperplan sont appelés "points supports". Ils sont ceux le plus proche de l'hyperplan.
-
 ## Type de variables
 
 * Quantitative
-
 
 Avantages                               | Inconvénients
 ----------------------------------------|---

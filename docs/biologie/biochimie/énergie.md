@@ -1,5 +1,3 @@
-## L'énergie
-
 ### L'énergie dans la cellule
 
 Pour que les réactions puissent avoir lieu mais de manière contrôler, la cellule contrôlent les activités métaboliques par l'intermédiaire des enzymes.

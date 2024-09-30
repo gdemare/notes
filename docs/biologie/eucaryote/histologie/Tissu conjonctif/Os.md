@@ -1,4 +1,4 @@
-[[Tissu conjonctif]]
+[[tissu conjonctif]]
 ### L'os
 
 Fonctions :
