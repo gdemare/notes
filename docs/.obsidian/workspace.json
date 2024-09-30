@@ -11,7 +11,7 @@
             "id": "fe31ab5bb25642ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "biologie/cellule/microtubule.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,8 +138,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "87dc442f218cc64f",
+  "active": "fe31ab5bb25642ed",
   "lastOpenFiles": [
+    "physique chimie/physique/optique.md",
+    "mathématique/statistique/probabilité et statistique.md",
     "biologie/écologie/génétique des populations.md",
     "biologie/cellule/cycle cellulaire/cycle cellulaire.md",
     "biologie/cellule/cycle cellulaire/régulation du cycle cellulaire.md",
@@ -166,8 +166,6 @@
     "biologie/eucaryote/plante/régulation de l'hydrotranspiration.md",
     "biologie/eucaryote/plante/organe/feuille.md",
     "biologie/eucaryote/plante/organe/racine.md",
-    "autres/communication/communication.md",
-    "autres/communication/entretien d embauche.md",
     "biologie/matériel et méthodes",
     "biologie/eucaryote",
     "biologie/biochimie/biochimie",

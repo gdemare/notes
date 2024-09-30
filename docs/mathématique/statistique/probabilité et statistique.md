@@ -1,3 +1,4 @@
+[[probabilité]] et [[statistique]]
 ### Corrélation
 
 !!! note
