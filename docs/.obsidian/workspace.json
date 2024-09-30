@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5ca7758410918f96",
+        "id": "b1ce21f497b20903",
         "type": "tabs",
         "children": [
           {
-            "id": "fe31ab5bb25642ed",
+            "id": "df0e902a8a64ce93",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,7 +138,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "fe31ab5bb25642ed",
+  "active": "df0e902a8a64ce93",
   "lastOpenFiles": [
     "physique chimie/physique/optique.md",
     "mathématique/statistique/probabilité et statistique.md",
