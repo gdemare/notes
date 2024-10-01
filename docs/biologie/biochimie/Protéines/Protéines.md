@@ -28,7 +28,7 @@ Les propriétés physico-chimiques des protéines dépendent de :
 * la structure chimique càd des 20 acides aminés différents qui composent la séquence peptidique.
 * la séquence d’acides aminés càd l’ordre des acides aminés. L’ordre est donné par la séquence d’ADN.
  
-!!! note Le code génétique est extrêmement conservé dans la nature (trois nucélotides pour un codon, codon stop,…). La significiation de certains codons a évoluée.
+!!! note Le code génétique est extrêmement conservé dans la nature (trois nucléotides pour un codon, codon stop,…). La signification de certains codons a évoluée.
 C’est la structure 3D qui confère la fonction de la protéine.
 
 !!! note

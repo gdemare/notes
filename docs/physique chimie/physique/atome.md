@@ -76,34 +76,22 @@ Il existe un cas particulier où un atome change de structure VSEPR pour augment
 Et qui sont dans la situation suivante (𝑛 𝜎 𝜋) c'est-à-dire liés à un atome par une liaison simple et l'atome est lui-même lié par une liaison double.
 
 L'atome passe alors de ${sp}^{3} \rightarrow {sp}^{2}$ et le doublet non liant se transforme en liaison de type 𝜋 sur la liaison simple.
-
 ### Délocalisation électronique
 
 Dans certains cas, les électrons des liaisons 𝜋 peuvent se délocaliser sur un groupe d'atomes c'est-à-dire que les électrons se mettent à passer d'un atome à un autre. C'est le cas lorsqu'il y a un enchainement de liaisons sont 𝜋 𝜎 𝜋.
 
-[Remarque :]{.underline} les changements d'hybridation sont toujours concernés par cette situation.
+!!! note
+	Les changements d'hybridation sont toujours concernés par cette situation.
 
 Mésomérie
 
 La mésomérie est la superposition des états électroniques de la
 molécule. On la représente par des tirés.
-
-Par exemple,
-
-| ![](media/image9.jpeg){width="0.994919072615923in" height="0.7403849518810148in"} | ![](media/image10.jpeg){width="2.153846237970254in" height="0.7314501312335958in"} |
-|----------------------------|--------------------------------------------|
-
-Quelques exemples plus complexes de mésomères :
-
-| ![](media/image11.jpeg){width="2.4230774278215224in" height="1.7588396762904637in"} | ![](media/image12.jpeg){width="2.3448840769903763in" height="0.8864140419947506in"} |
-|------------------------------------|------------------------------------|
-
 ### Insaturation
 
 Le nombre d'insaturations correspond à la différence du nombre de paires d'hydrogènes entre la molécule étudiées et celle maximise le nombre d'hydrogènes.
 
 Un cycle ou une liaison 𝜋 valent une insaturation.
-
 ### Cycle aromatique
 
 Il existe une catégorie mésomère appelés aromatiques. Ceux sont des molécules qui possèdent une partie qui respecte les propriétés suivantes :
@@ -112,7 +100,6 @@ Il existe une catégorie mésomère appelés aromatiques. Ceux sont des molécul
 
 * (Règle de Huckel) Il existe un N tel que le nombre d'électrons
  conjugués = 4N+2 (par exemple : 6 = 4xN+2)
-
 ### Les moments dipolaires (force)
 
 À cause des différences d'électronégativité entre les atomes, les
@@ -128,7 +115,6 @@ La somme des moments est équivalent à une force que l'on représente par une f
 
 !!! note
     Les dipôles sont à l'origine des liaisons d'hydrogènes.
-
 ### Acide et base
 
 Un acide est une molécule qui capable de :
@@ -140,14 +126,12 @@ Un acide est une molécule qui capable de :
     C'est deux définitions sont équivalentes.
 
 Une base est une molécules avec un doublet libre qui peut se lier à un proton (H^+^).
-
 ## Les interactions intermoléculaires
 
 Des forces contradictoires agissent simultanément entre les molécules :
 
 * de Pauli (orbitale) : lorsque deux molécules se rapprochent, il apparaît une force répulsive liée au recouvrement de ces orbitales \"pleines\".
 * Électrostatique (charge) Il y a attraction entre le nuage électronique d\'une molécule et le noyau de l\'autre molécule. Mais les noyaux des deux molécules se repoussent, tout comme les nuages électroniques. Cela se traduit par une attraction à moyenne distance et une répulsion à courte distance.
-
 # Nomenclature et stéréochimie
 
 On cherche la chaine carbonée qui porte :
@@ -166,7 +150,6 @@ La numérotation des substituants de la chaine principale se fait en minimisant 
 
 !!! note
     Il faut compter le carbone de la fonction dans la chaine principale.
-
 ### Nomenclature des hydrocarbures
 
 Type de chaîne carbonée
@@ -205,10 +188,10 @@ Type de chaîne carbonée
 </tbody>
 </table>
 
-Remarque : on parle d'hydrocarbure insaturé lorsqu'il y a carbone avec une double ou triple liaison.
+!!! note
+	On parle d'hydrocarbure insaturé lorsqu'il y a carbone avec une double ou triple liaison.
 
 Pour les cycles, on écrit : cyclo-
-
 ### Préfixes multiplicatifs
 
 Lorsqu'il y a plusieurs groupements du même type on utilise un préfixe
@@ -373,29 +356,25 @@ Fonction chimique atomes ou groupements d'atomes qui contiennent des hétéroato
 
 Isomère deux molécules qui ont la même formule brute.
 
-Il existe deux types d'isomère
+Il existe deux types d'isomère :
 
-Constitution                       | Stéréoisomère                      |
-|------------------------------------|------------------------------------|
-| Enchainement des atomes différents | Représentation spatiale différente |
-
+* Constitution enchainement des atomes différents.
+* stéréoisomère Représentation spatiale différente
 ## Isomère de constitution
 
 Il existe trois types d'isomérie de constitution :
 
-* Fonction
-* Squelette
-* Position des groupements fonctionnels
+* fonction
+* squelette
+* position des groupements fonctionnels
 
-Tautomérie (isomérie de fonction) passage d'un hydrogène et apparition d'une liaison C=C.
-
+__Tautomérie__ (isomérie de fonction) passage d'un hydrogène et apparition d'une liaison C=C.
 ## Stéréoisomère
 
 Deux types de stéréoisomères :
 
-* Conformation Il s'agit de la même molécule mais représentée différemment à cause des rotations possibles autour des liaisons simples.
-* Configuration Molécule différente par exemple lorsque les doubles liaisons bloquent les rotations.
-
+* conformation Il s'agit de la même molécule mais représentée différemment à cause des rotations possibles autour des liaisons simples.
+* configuration Molécule différente par exemple lorsque les doubles liaisons bloquent les rotations.
 ## Conformation 
 
 Comme il y a plusieurs conformations possibles pour une même molécule. Il est important de pouvoir déterminer celles qui sont les plus stables càd qui minimisent la répulsion électronique entre les atomes.
@@ -406,7 +385,6 @@ Pour les molécules avec des cycles, il existe deux positions :
 * Horizontale
 
 Les groupements les plus énergétiques se situent en positon horizontale
-
 ### Configuration
 
 Les stéréoisomères de configuration n'ont pas la même configuration spatiale. Ce sont deux molécules différentes. Pour pouvoir les distinguer lors du nommage, on utiliser des stéréodescripteurs.
@@ -430,7 +408,6 @@ Double liaison avec les priorités sur les groupes A et A 
 | Pour les doubles liaisons                                                           | Pour les cycles                                                          |
 |------------------------------------|------------------------------------|
 | ![](media/image31.jpeg){width="2.3638681102362207in" height="1.6145833333333333in"} | ![](media/image32.jpeg){width="2.21875in" height="1.0118219597550306in"} |
-
 ### Carbone C
 
 Stéréoisomérie R/S
@@ -445,7 +422,6 @@ Méthode pour déterminer le type de position spatiale :
 1. Classer les substituants selon CIP
 2. Projection de Newman en représentant le groupe de plus faible priorité derrière.
 3. Si a -\>b- \> c alors ils sont Rectus sinon Sinister
-
 ## Chirale
 
 Lorsque deux molécules sont symétriques par rapport à un plan et qu'elles ne peuvent pas se superposer.
@@ -491,7 +467,6 @@ Une molécule peut être chirale si elle :
 </tr>
 </tbody>
 </table>
-
 ### Énantiomère
 
 Deux énantiomères ont toujours :
@@ -512,22 +487,21 @@ __Épimère__ deux molécules qui ne diffèrent que par un C\*.
 Exemple des différentes représentation pour le glucose :
 (2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanal
 
-Représentation ou description                                                       | Type de formule |
-|------------------------------------------|------------------------------|
-| C~6~H~12~O~6~                                                                       | Brute           |
-| Représentation de tous les atomes                                                   | Développé plane |
-| Formule développée + doublets non liant                                             | Lewis           |
-| Squelette carboné + formule semi développé                                          |                 |
-| Squelette carboné sous la forme de ligne                                            | Topologique     |
-| ![](media/image33.jpeg){width="1.78125in" height="0.8778762029746282in"}            | Cram            |
-| ![](media/image34.jpeg){width="1.5833333333333333in" height="0.8839468503937008in"} | Newman          |
-| ![](media/image35.jpeg){width="1.96875in" height="0.5315223097112861in"}            | Fischer         |
+| Représentation ou description              | Type de formule |
+| ------------------------------------------ | --------------- |
+| $C_6H_{12}O_6$                             | Brute           |
+| Représentation de tous les atomes          | Développé plane |
+| Formule développée + doublets non liant    | Lewis           |
+| Squelette carboné + formule semi développé |                 |
+| Squelette carboné sous la forme de ligne   | Topologique     |
+|                                            | Cram            |
+|                                            | Newman          |
+|                                            | Fischer         |
+ 
+!!! note
+	La représentation de Fischer est particulièrement utilisée en biochimie pour les sucres et les acides alpha aminées.
 
-[Rmq :]{.underline} La représentation de Fischer est particulièrement
-utilisée en biochimie pour les sucres et les acides alpha aminées.
-
-Une molécule possède au maximum 2^n^ stéréoisomères.
-
+Une molécule possède au maximum $2^n$ stéréoisomères.
 ## Passage d'une représentation de topologique à celle de Fischer
 
 Un personnage regarde vers la fonction la plus prioritaire. Pour lui,
@@ -535,5 +509,3 @@ Un personnage regarde vers la fonction la plus prioritaire. Pour lui,
 « La vérité est dans les montagnes et l'inverse de la réalité dans les vallées ».
 
 En représentation de Fisher les stéréodescripteurs sont triviaux : à droite les R et à gauche les S.
-
-![](media/image36.jpeg){width="5.09375in" height="1.21875in"}

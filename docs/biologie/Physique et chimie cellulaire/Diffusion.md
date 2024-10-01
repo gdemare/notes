@@ -1,5 +1,3 @@
-### La diffusion
-
 Dans une solution, chaque molécule se déplace de manière indépendante. À chaque fois, qu'elle percute une autre molécule, le choc modifie sa trajectoire.
 
 Lorsque l'on regarde ce phénomène à plus grande échelle c'est-à-dire au niveau d'un groupe de molécules, les mouvements désordonnés suivent une direction globale qui tend à répartir les molécules d'une même espèce uniformément dans l'espace et ce indépendamment des autres composés.

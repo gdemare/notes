@@ -1,4 +1,4 @@
-Chez les plante et les animaux, la division cellulaire est contrôlée pour avoir lieu aux moments judicieux. Les conditions de déclenchements varient de façon importante en fonction du type cellulaire les événements.
+Chez les plante et les animaux, la division cellulaire est contrôlée pour avoir lieu aux moments judicieux et donc une régulation fine du [[cycle cellulaire]]. Les conditions de déclenchements varient de façon importante en fonction du type cellulaire les événements.
 
 !!! note
     Chez l'adultes, 25 millions de cellules se divisent chaque seconde.
@@ -15,7 +15,6 @@ Il en existe trois principaux :
 * entre la métaphase et l'anaphase.
 
 Le point de restriction G1 est le plus important. Il sert à vérifier de l'intégrité de l'ADN. Si une anomalie est détectée, par l'intermédiaire de p53, l'ADN va être réparé ou s'il est trop endommagé, la cellule a son apoptose. En temps, les complexes cyclines/Cdk (CKI) sont inhibés ce qui empêche l'avancement du cycle cellulaire.
-
 ### L'horloge du cycle cellulaire
 
 L'horloge cellulaire est principalement régie par les fluctuations de la quantité et de l'activité de deux types de protéines :
@@ -86,7 +85,6 @@ Les cellules cancéreuses sont plus susceptibles d'avoir des anomalies :
 
 !!! note
     En radiothérapie, les cellules majoritairement tuées sont cancéreuses plus que les cellules saines car s'est dernière possède un mécanisme de réparation fonctionnelle
-
 ## La méiose
 
 Il existe trois cycles de développement :

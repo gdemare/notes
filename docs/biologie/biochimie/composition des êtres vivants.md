@@ -17,7 +17,7 @@ Les êtres vivants sont constitués de deux grands types de molécules de :
     
     * l'[[ADN et ARN]] constitutés par les acides nucléiques.
     * les [[sucres]].
-    * les [[protéines]] constituées par les acides aminés. 
+    * les [[biologie/biochimie/protéines/protéines]] constituées par les acides aminés. 
 
 * [[lipides]].
 

@@ -12,7 +12,7 @@ Plus de 200 000 métabolites associés au métabolisme secondaire ont été rec
 
 Il existe trois types de métabolites secondaires :
 
-* Composés phénoliques ou les polyphénols issus de la voie de l'acide shikimique et acétate/malonate sont synthétisés en réponse au stress.
-* Les alcaloïdes ou les composés azotés qui dérivent des acides aminés, sont généralement des molécules toxiques.
-* Les terpènes dérivés de l'isopentényl pyrophosphate (IPP), une molécule à 5C, sont de nature volatile et dégage une forte odeur qui sert notamment dans la protection.
-* Les glycosides qui contiennent une molécule de sucres.
+* composés phénoliques ou les polyphénols issus de la voie de l'acide shikimique et acétate/malonate sont synthétisés en réponse au stress.
+* les alcaloïdes ou les composés azotés qui dérivent des acides aminés, sont généralement des molécules toxiques.
+* les terpènes dérivés de l'isopentényl pyrophosphate (IPP), une molécule à 5C, sont de nature volatile et dégage une forte odeur qui sert notamment dans la protection.
+* les glycosides qui contiennent une molécule de sucre.

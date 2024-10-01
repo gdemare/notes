@@ -17,7 +17,6 @@ Force motrice étape irréversible qui permet de favoriser la réaction dans un 
 
 Électronégativité entre deux atomes :
 $\left| |u| \right| = \delta \times d$
-
 ### Réaction d'oxydo-réduction
 
 __Réducteur__ (par opposition à l'oxydant) atome capable de céder un ou plusieurs électrons.
@@ -33,14 +32,12 @@ Tautomérie réaction acide base intra-intramoléculaire. Elle a lieu uniquement
 Prototrophie réaction acido-basique intra moléculaire qui fait intervenir un intermédiaire réactionnel. Elle est souvent représentée comme une réaction de tautomérie (le mécanisme ne fait pas apparaitre l'intermédiaire).
 
 Transposition déplacement d'une partie de la molécule.
-
 ### La dissolution
 
 La dissolution dépend de deux phénomènes :
 
 * La solvatation de l'espèce chimique
 * La stabilisation des espèces formées. Le nombre de molécules autour des ions dépend de leur taille et de leur charge.
-
 ### Les types de catalyseurs
 
 Les catalyseurs sont classés en fonction de la solubilité :

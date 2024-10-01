@@ -21,7 +21,7 @@ Pour tous les êtres vivants, la capacité à pouvoir réaliser des échanges av
 * de recevoir les nutriments nécessaire à leur survie.
 * de se débarrasser des déchets métaboliques.
 
-Beaucoup d'animaux avec un plan d'organisation simples où toutes les cellules sont en contactent avec le milieu.
+Beaucoup d'animaux avec un plan d'organisation simple où toutes les cellules sont en contactent avec le milieu.
 
 Comme la vitesse des échanges est proportionnelle à la surface le volume d'un organisme est limité.
 

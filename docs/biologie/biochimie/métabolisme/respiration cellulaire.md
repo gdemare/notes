@@ -9,22 +9,18 @@ Lors de la réaction, des enzymes appelées déshydrogénases retirent deux hydr
 À cause de la différence de charges, les protons présents dans l'espace intermembranaire vont vouloir regagner la matrice mitochondriale. Ils devront passer par une protéine appelée l'ATP synthase. À la manière d'un barrage, le proton va passer dans un interstice entre les deux parties de la protéine et entrainer la rotation d'un rotor. Ce mouvement va modifier la configuration du stator et provoquer la phosphorisation de l'ATD en ATP. Il faut entre 3 à 4 protons pour former une molécule ATP. Chaque protéine ATP synthétise en moyenne 100 ATP/sec.
 
 En conclusion, l'énergie est transférée en passant d'un état chimique à celui de gradient mécanique puis chimique.
-
 #### Transformation de l'ATD en ATP
 
 Le passage de la membrane externe se fait par les porines.
 
 Une protéine spécifique est chargée du passage de la membrane interne des molécules d'ATD en APT pour se faire, elle utilise la différence de gradient électronique. Elles échangent une molécule d'ATD qui contient 3 charges négatives avec une molécules d'ATP qui en contient 4.
-
 #### Production de chaleur, la thermogénèse
 
 Thermogénines protéines qui dissipent le gradient électronique sous forme de chaleur.
 
 Elles se concentrent dans les cellules proches des vaisseaux sanguins qui sont utilisés pour être répartir la chaleur dans tout le corps.
 
-
 ------------
-
 ## Respiration cellulaire
 
 La respiration cellulaire consiste à extraire l'énergie du acétyl-CoA en utilisant du dioxygène pour recharger le stock d'ATP : $ADP + P \rightarrow  ATP$. Cette réaction a lieu dans les mitochondries et est composée :

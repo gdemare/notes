@@ -7,7 +7,7 @@ Les Végétaux peuvent être classés en fonction de leur durée de leur cycle d
 
 Pour pouvoir prélever les ressources nécessaire à leur survie, leur développement et leur reproduction, les plantes sont composées de deux systèmes :
 
-* racinaire, qui permet de puiser dans le sol, l'eau et les minéraux. Il est formé par les [[racine]]s.
+* racinaire, qui permet de puiser dans le sol, l'eau et les minéraux et qui constitue la principale source de [[nutrition végétale]]. Il est formé par les [[racine]]s.
 * caulinaire, qui permet de capter dans l'air, la lumière et le $CO_2$. Il est formé par les tiges et les [[feuille]]s.
 
 !!! note

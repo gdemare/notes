@@ -34,7 +34,7 @@ Les vaisseaux du xylème et du phloème étant à proximité, l'eau entre fortem
 
 Les plantes
 
-Le rendement de la [[biologie/eucaryote/plante/photosynthèse|photosynthèse]] n’est pas suffisant pour permettre le mouvement notamment quand l’organisme est gros.
+Le rendement de la [[photosynthèse]] n’est pas suffisant pour permettre le mouvement notamment quand l’organisme est gros.
 
 La paroi qui entoure les cellules végétales est un caractère hérité des plastes qui assure la protection de la cellule.
 La vacuole est un espace de stockage qui est les déchets  

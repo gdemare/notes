@@ -23,7 +23,6 @@ __Glycogénolyse__ processus qui sert à fabriquer des glucose-6-phosphate à
 partir du glycogène.
 
 __Gluconéogenèse__ production de glucose à partir de précurseurs comme le glycérol, le lactate, les acides aminés.
-
 ### Néoglucogénèse
 
 La glycogénèse est une voie métabolique qui permet la production de glucose à partir de deux pyruvates pour maintenir la glycémie constante. Elle sert notamment aux globules rouges ou à certaines cellules du cerveau qui ne sont pas capables de produire leur énergie à partir de molécules autres que le glucose.
@@ -44,7 +43,6 @@ Plusieurs précurseurs peuvent servir de substrats :
 * le pyruvate.
 
 Trois organes sont capables de réaliser la glycogenèse : le foie (principalement), les reins et l'intestin.
-
 ### La glycolyse
 
 La glycolyse est l'ensemble des réactions qui permet de transformer le glucose-6-phosphate en deux pyruvates : $C_6H_{12}O_6 \longrightarrow 2 C_3H_3O_3^-$
@@ -66,10 +64,9 @@ Les deux pyruvates peuvent ensuite servir dans :
 
 * un prolongement de la glycolyse appelé fermentation.
 * la respiration cellulaire
-
 ### La respiration cellulaire
 
-Le pyruvate est ensuite converti en actétyl-CoA dans les mitochondries pour être utilisé pour la respiration :
+Le pyruvate est ensuite converti en actétyl-CoA dans les mitochondries pour être utilisé pour la [[respiration cellulaire]] :
 
 $$Pyruvate + CoA - SH + NAD^+ \rightarrow Acétyl - CoA + NADH + H^+$$
 

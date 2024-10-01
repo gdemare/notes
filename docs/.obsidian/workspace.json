@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b1ce21f497b20903",
+        "id": "a610641455d96950",
         "type": "tabs",
         "children": [
           {
-            "id": "df0e902a8a64ce93",
+            "id": "644d2e5596a4d716",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "biologie/méthodes/histologie/coloration.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "biologie/méthodes/histologie/coloration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "biologie/méthodes/histologie/coloration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "biologie/méthodes/histologie/coloration.md"
+              }
             }
           }
         ]
@@ -138,35 +146,41 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "df0e902a8a64ce93",
+  "active": "644d2e5596a4d716",
   "lastOpenFiles": [
-    "physique chimie/physique/optique.md",
-    "mathématique/statistique/probabilité et statistique.md",
-    "biologie/écologie/génétique des populations.md",
-    "biologie/cellule/cycle cellulaire/cycle cellulaire.md",
-    "biologie/cellule/cycle cellulaire/régulation du cycle cellulaire.md",
-    "biologie/cellule/cycle cellulaire/réorganisation du cytosquelette.md",
-    "biologie/matériel et méthodes/méthodes et techniques/méthodes.md",
-    "biologie/cellule/organisation cellulaire/matrice Extracellulaire et jonctions cellulaires.md",
-    "biologie/cellule/organisation cellulaire/membrane plasmique.md",
-    "biologie/cellule/organisation cellulaire/noyau.md",
-    "biologie/cellule/organisation cellulaire/organisation cellulaire.md",
-    "biologie/cellule/organisation cellulaire/système endomembranaire.md",
-    "biologie/cellule/organisation cellulaire/transport cellulaire.md",
-    "biologie/cellule/organisation cellulaire/jonctions cellulaires.md",
-    "biologie/cellule/organisation cellulaire/organites/organites.md",
-    "biologie/cellule/organisation cellulaire/organites/mitochondries.md",
-    "biologie/cellule/microtubule.md",
-    "mathématique/mathématique.md",
-    "data science/statistique dictionnaire.md",
-    "biologie/eucaryote/plante/transport hydrique.md",
-    "biologie/eucaryote/plante/nutrition végétale.md",
-    "biologie/eucaryote/plante/organisation végétale.md",
-    "biologie/eucaryote/plante/réponses des végétaux aux stimuli.md",
-    "biologie/eucaryote/plante/régulation de l'hydrotranspiration.md",
-    "biologie/eucaryote/plante/organe/feuille.md",
-    "biologie/eucaryote/plante/organe/racine.md",
-    "biologie/matériel et méthodes",
+    "biologie/méthodes/histologie/protocole.md",
+    "biologie/méthodes/ordres de grandeur.md",
+    "biologie/méthodes/méthodes.md",
+    "biologie/méthodes/étude en biologie.md",
+    "biologie/méthodes/protéines/purifier et séparer les protéines.md",
+    "biologie/méthodes/protéines/étude des protéines.md",
+    "biologie/méthodes/protéines/mesurer l'activité enzymatique.md",
+    "biologie/méthodes/protéines/dénaturer les protéines.md",
+    "biologie/méthodes/protéines/quantifier les protéines.md",
+    "biologie/méthodes/protéines/protéomique.md",
+    "biologie/méthodes/protéines/localiser des protéines.md",
+    "biologie/méthodes/protéines/protéines.md",
+    "biologie/méthodes/protéines/découper des protéines en peptides.md",
+    "biologie/méthodes/histologie/coloration.md",
+    "biologie/technique/imagerie/fluorescence.md",
+    "biologie/technique/imagerie/absorbance.md",
+    "biologie/technique/imagerie/microscopie.md",
+    "biologie/ressources.md",
+    "biologie/structure fonctions et principes.md",
+    "biologie/méthodes/analyse des résultats/étude de documents.md",
+    "biologie/méthodes/analyse des résultats",
+    "biologie/méthodes/ADN et ARN/génie génétique.md",
+    "biologie/méthodes/protéines",
+    "biologie/méthodes/ADN et ARN/étude des acides nucléiques.md",
+    "biologie/technique/immunomarquage.md",
+    "biologie/technique/dilution.md",
+    "biologie/technique/imagerie/imagerie.md",
+    "biologie/méthodes/clonage/clonage cellulaire.md",
+    "biologie/méthodes/clonage",
+    "biologie/technique/imagerie",
+    "biologie/technique/séparation",
+    "biologie/technique",
+    "biologie/méthodes",
     "biologie/eucaryote",
     "biologie/biochimie/biochimie",
     "biologie/biochimie/acides nuclétiques"

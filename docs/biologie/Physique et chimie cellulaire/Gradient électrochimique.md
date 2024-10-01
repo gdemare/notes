@@ -1,5 +1,3 @@
-### Le
-
 Le gradient chimique est la différence du potentiel électrochimique entre deux milieux en $J \cdot mol ^{-1}$ :
 
 $$\mu _i = \mu _0 + R \cdot T \cdot \ln [S] + z \cdot F \cdot E$$
