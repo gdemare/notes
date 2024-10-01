@@ -21,4 +21,4 @@ Méthylation possible de l'ADN sur les couples CG méthylation sur la cytosine.
 
 Inactivation d'un chromosome X chez les femelles.
 
-Organsation trouve les séquences avec les mêmes strucutre souvent colocalisées.
+Organisation trouve les séquences avec les mêmes structures souvent colocalisées.

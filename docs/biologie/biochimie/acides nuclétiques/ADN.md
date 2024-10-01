@@ -1,4 +1,3 @@
-
 Malgré de petites différences, les individus d'une même espèce possèdent un plan d'organisation similaire. Leur plan de développement est donc :
 
 * suffisamment souple pour expliquer la diversité des structures.
@@ -66,3 +65,15 @@ L'ADN hybridé peut adopter naturellement trois conformations :
 * Hélice-Beta. C'est la structure la plus présente car la plus stable. Un tour d'hélice est formé par 10 bases d'ADN et mesure 3.4nm de hauteur et à un diamètre de 20A.
 * A.
 * Z.
+## Différence entre Procaryotes et Eucaryotes
+
+Comparaison de l'ADN entre les procaryotes et les Eucaryotes :
+
+| Type de cellules    | Bactéries               | Eucaryotes            |
+|---------------------|-------------------------|-----------------------|
+| Type d'ADN          | circulaire, bicaténaire | Linéaire, bicaténaire |
+| Nbre de chromosomes | Unique                  | Plusieurs             |
+| ADN annexe          | Plasmides               |                       |
+
+* [[génomes des eucaryotes]]
+* [[génomes des procaryotes]]

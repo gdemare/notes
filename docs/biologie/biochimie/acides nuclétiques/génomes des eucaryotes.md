@@ -6,8 +6,6 @@ La réplication de l'ADN diffère entre :
 |-----------------------|------------|-----------|
 | Région de réplication | ORS        | ARS       |
 | Nbre de régions       | 1          | Plusieurs |
-
-
 Généralement le substrat d'une fonction métabolique est un facteur de transcription conduisant traduction de l'ARN polycistronique (codant pour plusieurs protéines).
 ### Différences entre les organismes
 
@@ -49,7 +47,6 @@ Il existe deux types de transpositions :
 
 * conservative (transfert à autre endroit).
 * réplicative (réplique l'exemplaire).
-
 ### Satellite structuraux
 
 __Centromère__ centre du chromosome (50 à 200 bases).

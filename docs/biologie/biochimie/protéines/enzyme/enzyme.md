@@ -1,8 +1,7 @@
 ## cours 2023
 
-constante de vitesse 
 
-$k$
+$k$ constante de vitesse 
 
 facteur sphériques lorsque la taille de la molécule augmente, il y a moins de chance que la collision se fasse au bonne endroit (0< grosse molécules - <1 petites )
 Correspond à l'efficacité de collision.

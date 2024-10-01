@@ -1,0 +1,1 @@
+La traduction est l'étape de passage d'un gène vers un ARNm.

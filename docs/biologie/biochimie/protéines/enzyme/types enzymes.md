@@ -1,4 +1,4 @@
-[[enzymes]]
+[[enzyme]]
 ### Les catégories d'enzymes
 
 Les enzymes sont classés en fonction du type de réactions qu'elles sont capables de catalyser :

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/méthodes/histologie/coloration.md",
+                "file": "biologie/biochimie/acides nuclétiques/domaine de liaison ADN protéines.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie/méthodes/histologie/coloration.md",
+                "file": "biologie/biochimie/acides nuclétiques/domaine de liaison ADN protéines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologie/méthodes/histologie/coloration.md",
+                "file": "biologie/biochimie/acides nuclétiques/domaine de liaison ADN protéines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologie/méthodes/histologie/coloration.md"
+                "file": "biologie/biochimie/acides nuclétiques/domaine de liaison ADN protéines.md"
               }
             }
           }
@@ -148,34 +148,34 @@
   },
   "active": "644d2e5596a4d716",
   "lastOpenFiles": [
+    "biologie/biochimie/protéines/protéine.md",
+    "biologie/biochimie/protéines/conformation.md",
+    "biologie/biochimie/protéines/étude des protéines.md",
+    "biologie/biochimie/composition des êtres vivants.md",
+    "biologie/biochimie/protéines/acides aminés.md",
+    "biologie/biochimie/énergie.md",
+    "biologie/biochimie/acides nuclétiques/ADN.md",
+    "biologie/biochimie/acides nuclétiques/domaine de liaison ADN protéines.md",
+    "biologie/biochimie/acides nuclétiques/réparation de l'ADN.md",
+    "biologie/biochimie/acides nuclétiques/ADN et ARN.md",
+    "biologie/biochimie/acides nuclétiques/génomes des procaryotes.md",
+    "biologie/biochimie/acides nuclétiques/génomes des eucaryotes.md",
+    "biologie/biochimie/acides nuclétiques/mutation de l'ADN.md",
+    "biologie/biochimie/acides nuclétiques/ARN.md",
+    "biologie/biochimie/acides nuclétiques/traduction.md",
+    "biologie/biochimie/acides nuclétiques/réplication de l ADN.md",
+    "biologie/biochimie/acides nuclétiques/transcription.md",
+    "biologie/biochimie/protéines/enzyme/ligands et récepteurs.md",
+    "biologie/biochimie/protéines/enzyme/enzyme.md",
+    "biologie/biochimie/protéines/enzyme/régulation enzymatique.md",
+    "notes non ajoutées.md",
+    "biologie/méthodes/histologie/coloration.md",
     "biologie/méthodes/histologie/protocole.md",
     "biologie/méthodes/ordres de grandeur.md",
     "biologie/méthodes/méthodes.md",
     "biologie/méthodes/étude en biologie.md",
-    "biologie/méthodes/protéines/purifier et séparer les protéines.md",
-    "biologie/méthodes/protéines/étude des protéines.md",
-    "biologie/méthodes/protéines/mesurer l'activité enzymatique.md",
-    "biologie/méthodes/protéines/dénaturer les protéines.md",
-    "biologie/méthodes/protéines/quantifier les protéines.md",
-    "biologie/méthodes/protéines/protéomique.md",
-    "biologie/méthodes/protéines/localiser des protéines.md",
-    "biologie/méthodes/protéines/protéines.md",
-    "biologie/méthodes/protéines/découper des protéines en peptides.md",
-    "biologie/méthodes/histologie/coloration.md",
-    "biologie/technique/imagerie/fluorescence.md",
-    "biologie/technique/imagerie/absorbance.md",
-    "biologie/technique/imagerie/microscopie.md",
-    "biologie/ressources.md",
-    "biologie/structure fonctions et principes.md",
-    "biologie/méthodes/analyse des résultats/étude de documents.md",
     "biologie/méthodes/analyse des résultats",
-    "biologie/méthodes/ADN et ARN/génie génétique.md",
     "biologie/méthodes/protéines",
-    "biologie/méthodes/ADN et ARN/étude des acides nucléiques.md",
-    "biologie/technique/immunomarquage.md",
-    "biologie/technique/dilution.md",
-    "biologie/technique/imagerie/imagerie.md",
-    "biologie/méthodes/clonage/clonage cellulaire.md",
     "biologie/méthodes/clonage",
     "biologie/technique/imagerie",
     "biologie/technique/séparation",

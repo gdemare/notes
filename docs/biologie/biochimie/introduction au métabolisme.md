@@ -83,7 +83,7 @@ Groupement acyle (ex : cétone) | Coenzyme A
 Énergie                        | ATP
 ### Les enzymes
 
-Les [[enzymes]] sont des protéines qui jouent le rôle de catalyseur. Elles servent à faciliter la réaction càd à augmenter sa vitesse en :
+Les [[enzyme]] sont des protéines qui jouent le rôle de catalyseur. Elles servent à faciliter la réaction càd à augmenter sa vitesse en :
 
 * Diminuant la barrière énergétique de la réaction.
 * Facilitant la rencontre et le positionnement des groupements réactionnels.

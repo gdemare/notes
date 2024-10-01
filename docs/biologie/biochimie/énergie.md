@@ -2,7 +2,7 @@
 
 Pour que les réactions puissent avoir lieu mais de manière contrôler, la cellule contrôlent les activités métaboliques par l'intermédiaire des enzymes.
 
-Les [[enzymes]] abaissent l'énergie d'activation de certaines réactions substrat réactifs sur lequel agit l'enzyme.
+Les [[enzyme]] abaissent l'énergie d'activation de certaines réactions substrat réactifs sur lequel agit l'enzyme.
 
 __Catalyseur__ molécule qui augmente la vitesse de réaction.
 ### Le stockage de l'énergie

@@ -1,9 +1,8 @@
-[[enzymes]]
-On considère le ligand comme la molécule qui se déplace et qui interagit avec une autre molécule, appelée récepteur. Le recepteur se trouve souvent à l'intérieur de la cellule.
-
+[[enzyme]]
+On considère le ligand comme la molécule qui se déplace et qui interagit avec une autre molécule, appelée récepteur. Le récepteur se trouve souvent à l'intérieur de la cellule.
 #### Type de ligands
 
-En biologie, la position du recpteur dépend du type de ligands. Ils sont situés :
+En biologie, la position du récepteur dépend du type de ligands. Ils sont situés :
 
 * à l'extérieur de la cellule si le ligand est hydrosoluble.
 * à l'intérieur de la cellule si le ligand est liposoluble.
@@ -21,10 +20,9 @@ En fonction du type d'action que provoque le ligand, on dit qu'il est :
 
 * agoniste lorsqu'il active/déclenche.
 * antagoniste lorsqu'il bloque l'activité.
-
 #### Formalisation de l'interaction ligand récepteur 
 
-$R + L \rightleftharpoons RL$
+$$R + L \rightleftharpoons RL$$
 
 On note pour :
 
@@ -68,11 +66,9 @@ __Dialyse__ méthode de purification pour isoler certains composés en fonction 
 
 !!! note 
 	Point méthode : dans le TD, on utilise les deux points les plus éloignés pour déterminer les coefficients de la droite.
-
 #### Protocole expérimental
 
 La quantité de ligands et de récepteurs initiale est connue. Pour mesurer les nombres l'association des deux composées, on fait interagir les deux composés en solution. Pour connaitre la quantité de ligands récepteurs, on utilise un filtre qui es imperméable au récepteur et perméable au ligand non lié. On peut alors mesurer la concentration de ce dernier et déduire les autres.
-
 ##### Ligand non spécifique
 
 Certains ligands ne sont pas spécifiques c'est-à-dire qu'en plus d'être d'interagir avec les parties spécifiques du récepteur, ils sont capables de se lier avec des régions non spécifiques du récepteur ou d'autres molécules. Dans le cas, il faut réaliser une seconde expérience pour connaitre le nombre de liants non spécifiques.

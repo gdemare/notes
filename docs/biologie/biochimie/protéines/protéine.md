@@ -1,4 +1,4 @@
-[[enzymes]]
+[[enzyme]]
 A ajouter
 Certains codons sont priviligiés pour coder pour un aa. Ces préférences se retrouvent dans la fréquence des ARNt présent dans les cellules. avantage économique et augmente l'efficacité et la rapidité de la traduction.
 Cette information est à prendre en compte lorsque l’on cherche à exprimer une protéine dans un organisme differents de celui d'origine en remplacant les codons peu favorisés par ce qui le sont.
@@ -15,21 +15,14 @@ ________________________________________
 Les protéines (étymologie “au premier rang”) sont des polymères d’acides aminés (aa) qui jouent de nombreux rôles notamment dans :
 	La structure.
 	La réalisation et la régulation de processus biologiques (la défense, la signalisation, le transport, le mouvement).
-Les acides aminés sont structurés autour d’un atome de carbone appelé alpha entouré par :
-* un groupe aminé (-NH2)
-* un groupe acide carboxylique (-COOH), un atome d’hydrogène
-* d’une chaîne latérale qui différe en fonction du type d’acides aminés. La conformation des aa est de type L (par opposition à D) probablement car la forme L est plus présente naturellement.
-amphotère molécule à la fois donneuse et receveuse d’électrons.
 
-!!! note
-   Certains acides aminés sont modifiés sont utilisés autrement que dans les protéines. Par exemple, la desmosine est une molécule non protéiques constituées de quatre lysines qui confère à l’élastine des propriétés élastiques. D’autres aa modifiées peuvent servir d’hormones, etc.
 
 Les propriétés physico-chimiques des protéines dépendent de :
 * la structure chimique càd des 20 acides aminés différents qui composent la séquence peptidique.
 * la séquence d’acides aminés càd l’ordre des acides aminés. L’ordre est donné par la séquence d’ADN.
  
-!!! note Le code génétique est extrêmement conservé dans la nature (trois nucléotides pour un codon, codon stop,…). La signification de certains codons a évoluée.
-C’est la structure 3D qui confère la fonction de la protéine.
+!!! note
+	Le code génétique est extrêmement conservé dans la nature (trois nucléotides pour un codon, codon stop,…). La signification de certains codons a évoluée. C’est la structure 3D qui confère la fonction de la protéine.
 
 !!! note
    Les protéines sont partout. Nous nous en vêtissons lorsque nous portons de la laine, du cuir ou de la soie. Ils sont certains médicaments et de nombreuses recherches cherchent à imiter certaines fibres protéiques.
@@ -138,8 +131,10 @@ Trois types de chromatographies :
 * d’échange d’ions qui consiste à filtrer par la charge.
 * d’affinité qui consiste à filtrer par le substrat.
 #### La chromatographie sur gel (ou d’exclusion sur gel)
+
 On fait circuler la solution dans une colonne échangeuse contenant des billes poreuses. Les grosses molécules sortent rapidement tandis que les plus petites mettront beaucoup plus de temps.
 #### La chromatographie d’échange d’ions
+
 L’idée est de faire adhérer les protéines chargées aux billes puis de les détacher en modifiant le pH jusqu’à atteindre le point isoélectrique de la protéine étudiée.
 Les billes sont fabriquées en résine avec un groupement
 Charge des billes	-	+
@@ -317,43 +312,6 @@ Méthode pour séparer les acides aminés de la protéine.
 On utilise notamment de l’acide chlorhydrique.
 
 -------
-
-### Les domaines de liaisons ADN protéines
-
-Trois types de domaines de liaison entre l'ADN et les protéines :
-
-* Doigt de zinc
-* Hélicoïdale (la protéine est hélice - boucle - hélice).
-* feuillet $\beta$ x2 antiparrlèles
-
-La liaison a lieu au niveau des grands sillions et le domaine d'intéraction est composé essentiellement d'aa chargé positif et d'arginine
-40 à 80aa en dimère 
-
-### Doigt de zinc
-
-* motif d'une trentaine de résidus.
-* enzyme chélatrice (capte un atome de $Zn^{+2}$  dans une structure en forme de pince composé de deux histidines et de deux cystéines).
-
-### Hélicoïdale
-
-* Hélice boucle hélice
-* Basique hélicoïdale
-
-#### Motif leucine zipper
-
-Dimère formé par deux hélices qui intéragissent au niveau d'une zone riche en leucine (hydrophobe). 
-
-### les types d'intéractions
-
-LEs deux types d'interaction :
-
-Spécifique localisation au niveau des chaines latérales et avec les bases de l'ADN. Il est possible que l'interaction passe par l'intermédiaire d'une molècule d'eau.
-Le reste est considéré comme non spécifique (exemple, liaison peptidique, ribos, phosphate).
-
-Méthode :
-
-1. Déterminer le type d'interaction.
-2. 
 
 --------------------------------
 

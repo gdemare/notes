@@ -15,7 +15,6 @@ La synthèse d'une protéine se fait en deux étapes :
 ## Synthèse d'ARN
 
 __Brin codant__ (ou sens) brin d'ADN qui contient la même séquence que celle transcrite en [[ARN]] par opposition au brin non codant.
-
 ## Du code génétique à la protéine
 
 __Élongation__ progression du ribosome le long du brin d'ARNm

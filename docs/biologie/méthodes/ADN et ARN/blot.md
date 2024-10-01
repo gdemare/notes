@@ -3,7 +3,7 @@
 Il permet de détecter et d'identifier les protéines et leur
 concentration. Il faut préalablement dénaturer les protéines.
 
-1. Séparation : Les [[biologie/biochimie/protéines/protéines]] sont séparées par taille par électrophorèse.
+1. Séparation : Les [[protéine]] sont séparées par taille par électrophorèse.
 2. Transfert : Elles sont ensuite transférées sur un gel en appliquant un courant électrique.
 3. Révélation : On ajoute un anticorps spécifique à la protéine étudiée puis d'un anticorps secondaire capable d'émettre de la lumière en présence d'un substrat.
 

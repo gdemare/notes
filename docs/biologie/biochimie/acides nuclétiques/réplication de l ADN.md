@@ -1,8 +1,8 @@
 La réplication de l'[[ADN]] se fait en plusieurs étapes :
 
-1. Ouverture de la double hélice et positionnement de ADN polymérase.
-2. Positionnement des enzymes de réplications aux quatre coins de l'œil de réplication.
-3. Ajout des bases complémentaires
+1. ouverture de la double hélice et positionnement de ADN polymérase.
+2. positionnement des enzymes de réplications aux quatre coins de l'œil de réplication.
+3. ajout des bases complémentaires
 
 La réplication de l'ADN implique deux catégories d'enzymes :
 
@@ -13,15 +13,13 @@ Durant l'ensemble du processus des protéines vont agirent simultanément :
 
 * topoisomérase va réguler les tensions exercées par la formation des yeux de réplication. Un des brins est cassé et déroulé avant d'être reformé.
 * lorsque les brins sont séparés, ils ont tendance à créer des apparaimments locaux. La Protéine Single Strand Bingling empêche leurs formations.
-
-## Ouverture de l
+## Ouverture de l'oeil de réplication
 
 La réplication de l'ADN débute par la séparation des deux brins d'ADN par un complexe enzymatique. Cela a lieu dans des zones riches en paire de bases AT qui sont plus faciles à séparés.
 
 La séparation des brins forme un œil de réplication.
 
 __Hélicase__ enzyme spécialisée dans l'ouverture de la double hélice. Elle hydrolyse de l'ATP pour rompre les liaisons d'hydrogènes.
-
 ## Zones de réplication
 
 __Régions de réplication__ zone où débute la réplication de l'ADN.
@@ -38,7 +36,6 @@ Comme la polymérisation se fait toujours de l'extrémité 5' vers le 3' de mani
 
 !!! note
     Dans le cas du brin tardif, l'ADN polymérase doit se repositionner environ toutes les dix bases.
-
 ## Réplication de l'ADN
 
 La réplication de l'ADN fait intervenir l'ADN polymérase. Pour pouvoir ajouter des bases, l'ADN polymérase a besoin d'une extrémité 5'. Il y a deux cas où celle-ci est manquante :
@@ -72,7 +69,6 @@ __AND primase__ type d'ARN polymérase qui synthétise l'amorce d'ARN nécessair
 Le brin obtenu est un mélange d'ARN et d'ADN appelé brin néo-synthétique. L'enzyme RNHASE H coupe les liaisons des amorces des fragments d'Okazaki et les enlèvent pour permettre à l'ADN polymérase de venir ajouter la base correspondante. Ensuite une ligase relira les morceaux d'ADN entre eux.
 
 __Ligase__ protéine qui relie les morceaux d'ADN entre eux.
-
 ### L'extrémité 5'
 
 L'ADN polymérase est incapable de répliquer l'extrémité 5'. C'est une télomérase qui viendra ajouter une séquence ARN complémentaire. La séquence est connue à l'avance car elle est de type répliqué en tandem.
@@ -83,7 +79,6 @@ __Télomérase__ enzyme qui contient un brin d'ARN contient un brin complémenta
     Pour les eucaryotes, l'extrémité 5' au niveau du télomère subira un raccourcissement à chaque réplication.
 
 Ce mécanisme a été identifié comme un de ceux lié au vieillissement.
-
 ## Erreur de réplication
 
 Lorsqu'une erreur de réplication se produit, l'ajout des bases s'arrête à cause du mésappariement des bases.
