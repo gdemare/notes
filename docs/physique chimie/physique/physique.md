@@ -6,7 +6,8 @@ Indépendamment de leur poids, deux objets tombent à la même vitesse.
 ### Relativité restreinte
 
 $$E = m \cdot c^2$$
-Avec :
+
+avec :
 
 * $E$ l'énergie en $J$.
 * $m$ la masse en [kg].
@@ -62,6 +63,8 @@ Les principes de la [[physique quantique]] :
 La mécanique quantique décrit comment interagit mais pas comment évolue le système.
 ## Radioactivité
 
+Vallée de la stabilité : 
+
 La radioactivité est la transformation du noyau au bout d'un certain temps soit par émission de rayonnement ou de particules.
 
 Elle est le résultat d'un état d'instabilité.
@@ -83,7 +86,9 @@ Radioactivité :
 * $\alpha$ conduit à l'émission d'un noyau constitué de deux protons et de deux neutrons (hélium).
 * $\beta$ résultat d'une instabilité causée par un trop grand nombre de neutrons. Un neutron est transformé en un proton et en un électron.
 
-L'uranium est un cas particulier fission le noyau de 92 protons en deux nouveaux de 36 et 56 en libérant une grande quantité d'énergie.
+L'uranium est un cas particulier fission le noyau de 92 protons en deux nouveaux de 36 et 56 en libérant une grande quantité d'énergie. Dans l'uranium utilisé dans les centrales nucléaires est enrichi en 235 (par rapport à l'uranium 238 présent majoritairement) car seul l'uranium 235 est fissible.
+
+L'enrichissement est une étape qui consiste à augmenter la concentration en uraninum 235 en utilisant des procédés qui séparent par la masse. La méthode la plus utilisé est la centrifugation. Par l'utilisation d'un champ électromagnétique (même principe que la spectrométrie de masse) ou phénoméne de diffusion.
 
 Deux $\frac{1}{2}$ neutrons sont émis.
 
