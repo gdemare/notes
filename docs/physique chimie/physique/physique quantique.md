@@ -13,3 +13,5 @@ Les principes de la [[physique quantique]] :
 La mécanique quantique décrit comment interagit mais pas comment évolue le système.
 
 __Effet tunnel__ franchir une barrière énergitque même si l'énergie est inférieure requise est inférieure à la barrière.
+
+c'est parce que les particules ne peuvent avoir que certains niveaux d'energie que la matiere ne s'effondre pas sur elle meme.
