@@ -50,17 +50,7 @@ Ce que dit la théorie :
 * Le contenant est de même nature que le contenu.
 * L'expansion de l'Univers. L'espace se dilate non pas parce que les corps se déplacent les uns par rapport aux autres mais parce la distance qui sépare deux objets augmente à cause de la dilatation de l'espace par la gravité.
 * La lune avance en ligne droite vers la Terre dans un espace courbé par la gravité terrestre.
-## Physique quantique
 
-Les principes de la [[physique quantique]] :
-
-* Dualité onde particule.
-* Quantification : la granularité de la matière et de l'énergie. Le monde est discontinu.
-* Superposition : la particule possède deux états. C'est lorsque l'on interagit avec elle que l'on fixe un de ces états.
-* Intrication deux particules échangent de l'information à distance. L'interaction avec l'une modifie l'état de la seconde.
-* Incertitude (ou indétermination) pour avoir l'information sur la vitesse ou la position de la particule, il faut la contraindre à adopter un état. Il en résulte une imprécision constante.
-
-La mécanique quantique décrit comment interagit mais pas comment évolue le système.
 ## Radioactivité
 
 Vallée de la stabilité : 
