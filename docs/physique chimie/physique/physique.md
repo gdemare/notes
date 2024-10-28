@@ -147,3 +147,17 @@ La sphère est la forme la plus compacte. Elle maximise le volume pour une surfa
 La densité = masse par le volume.
 
 Généralement un liquide qui se solidifie devient plus dense à l'exception de la glace.
+
+### Théorie de l'infiniment petit : le modèle standard
+
+La théorie de l'infiiniment petit a été mise au point dans les 1970 à partir des théoires proposées dans les années. Elle permet d'expliquer toutes les observations à ce jour réalisées.
+Elle propose que  tous les objets sont faits de deux types de corpuscules :
+les quarks (électrons, neutrinos et les leptons.
+6 +6 en trois générations de deux membres.
+
+La premère génération tous ce qui est stables et présent autour de nous.
+
+Décrit les quatres forces fondammentales qui 
+
+3 premieres explique par le modèle du bosonintermédiaire
+Bosons de higgs fait l'intermédiaire entre les masses.
