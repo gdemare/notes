@@ -36,19 +36,18 @@ Les deux modèles principaux pour modéliser la vitesse de réaction en présenc
 * Michealis-Menten qui suppose un état d'équilibre entre le substrat et l'enzyme.
 * Briggs-Haldane qui suppose l'existence d'un état stationnaire au complexe ES.
 
-#### Modéle de Michaelis-Menten
+#### Modèle de Michaelis-Menten
 
-Le modèle de Michealis-Menten suppose l'existence d'un état d'équilibre réactionnel entre le substrat et l'enzyme. Il existe ainsi un $k_{cat} \ll k_{-1}$.
+Le modèle de Michealis-Menten suppose un l’état stationnaire. La proportion du complexe lié reste constante au cours de la réaction, c’est-à-dire que le taux de formation du complexe $[ES]$ est égal à son taux de dissociation.
+On considère $k_{cat} \ll k_{-1}$ tel que $K_m = \frac{[E] \cdot [S]}{[ES]} = \frac{k_{- 1} + k_{cat}}{k_1}$ avec $K_m$ constante d'état stationnaire en $mol \cdot L^{-1}$
 
-* $K_m = \frac{[E] \cdot [S]}{[ES]} = \frac{k_{- 1} + k_{cat}}{k_1}$ avec $K_m$ constante d'état stationnaire en $mol \cdot L^{-1}$
-
-Pour déterminer la vitesse, car on est incapable de mesurer la concentration de $[ES]$. L'astuce de Michaelis-Menten consiste à écrire $v = k_2 \cdot [ES] \frac{[E_0]}{[E_0]}$ et d'exprimer $[E_0]$ en fonction de $[ES]$ :
+Pour déterminer la vitesse, car on est incapable de mesurer la concentration de $[ES]$. L'astuce de Michaelis-Menten consiste à écrire $v = k_2 \cdot [ES] \cdot \frac{[E_0]}{[E_0]}$ et d'exprimer $[E_0]$ en fonction de $[ES]$ :
 
 * $[E_0] = [E] + [ES]$
-* $[E] = K_m \frac{[ES]}{[S]}$
+* $[E] = K_m \cdot \frac{[ES]}{[S]}$
 
-On obtient alors pour la vitesse (équation de) $v = \frac{k_{cat}[E_0][S]}{K_m + [S]}$
-
+On obtient alors pour la vitesse (équation de)
+$$v = \frac{k_{cat} \cdot [E_0] \cdot [S]}{K_m + [S]}$$
 On peut déduire de l'équation :
 
 * La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_m \ll [S]$ d’où $v_{\max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$ ainsi l'équation de Micheal-Menden peut s'écrire $v = \frac{v_{\max}[S]}{K_m + [S]}$.
@@ -80,7 +79,7 @@ On a remarque que :
 
 Le modèle de Briggs-Haldane suppose que $[ES] = c$ avec $c$ une constante.
 
-$v = \frac{k_{cat} \cdot [E_0] \cdot [S]}{K_m + [S]}$
+$$v = \frac{k_{cat} \cdot [E_0] \cdot [S]}{K_m + [S]}$$
 ### Inhibiteur
 
 Les inhibiteurs permettent à la cellule de contrôler la vitesse de réaction pour s'adapter à ses besoins métaboliques en modulant l'activité enzymatique.
@@ -88,20 +87,20 @@ Les inhibiteurs permettent à la cellule de contrôler la vitesse de réaction p
 Les inhibiteurs peuvent se lier à l'enzyme :
 
 * fortement ou faiblement (niveaux d'affinité).
-* temporairement ou irréversibelemnt.
+* temporairement ou irréversiblement.
 
 !!! note
 	Une partie des toxines et des poisons agissent comme des inhibiteurs.
 
 Il existe deux grands types d'inhibition :
 
-|                                                                  | Compétitive                                                            | Non compétitive                                                                                                                       |
---------------------|-----------------------|-----------------------------|
-| Site bloqué par l'inhibiteur                                     | Reconnaissance                                                         | Catalyse                                                                                                                              |
-| Modifie                                                          | Équilibre entre enzyme et substrat                                     | Efficacité de l'enzyme                                                                                                                |
-| Affinité enzyme-inhibiteur                                       | $K_i = \frac{[E] \cdot [I]}{[EI]}$ | $K_{i} = \frac{[E] \cdot [I]}{[EI]} = \frac{[ES] \cdot [I]}{[ESI]}$ |
-| $E_{0} =$ | $[E] + [EI] + [ES]$           | $[E] + [EI] + [EIS] + [ES]$                                                     |
-| Rmq                                                              | $v_{\max}$ ne change pas                                               | $K_m$ ne change pas                                                                                                                 |
+|                              | Compétitive                        | Non compétitive                                                     |
+| ---------------------------- | ---------------------------------- | ------------------------------------------------------------------- |
+| Site bloqué par l'inhibiteur | Reconnaissance                     | Catalyse                                                            |
+| Modifie                      | Équilibre entre enzyme et substrat | Efficacité de l'enzyme                                              |
+| Affinité enzyme-inhibiteur   | $K_i = \frac{[E] \cdot [I]}{[EI]}$ | $K_{i} = \frac{[E] \cdot [I]}{[EI]} = \frac{[ES] \cdot [I]}{[ESI]}$ |
+| $E_{0} =$                    | $[E] + [EI] + [ES]$                | $[E] + [EI] + [EIS] + [ES]$                                         |
+| Remarque                     | $v_{\max}$ ne change pas           | $K_m$ ne change pas                                                 |
 
 !!! note
 	Il existe d'autres inhibiteurs hybrides.
@@ -109,7 +108,7 @@ Il existe deux grands types d'inhibition :
 
 L'inhibiteur compétitif se lie sur le site réactionnel de l'enzyme à la place d'un substrat. Cela se traduit par une diminution de l'affinité du substrat avec l'enzyme.
 
-$v_i = \frac{v_{\max} \cdot [S]}{K_m \cdot (1 + \frac{[i]}{K_i}) + [S]} = \frac{v_{\max} \cdot [S]}{K_{mI} + [S]}$
+$$v_i = \frac{v_{\max} \cdot [S]}{K_m \cdot (1 + \frac{[i]}{K_i}) + [S]} = \frac{v_{\max} \cdot [S]}{K_{mI} + [S]}$$
 
 !!! note
 	On modifie la reconnaissance $K_m \lt K'_m = K_m \cdot (1 + \frac{[i]}{K_i})$
@@ -124,6 +123,6 @@ $v_{maxI} = \frac{v_{\max}}{1 + \frac{[i]}{K_i}}$
 !!! note
 	L'inhibiteur rend l'enzyme moins efficace (efficacité catalytique) ($v_{\max}$ plus petit).
 
-$v_i = \frac{v_{\max}}{1 + \frac{[i]}{K_i}} \cdot \frac{[S]}{K_m + [S]} = \frac{v_{\max I}[S]}{K_m + [S]}$
+$v_i = \frac{v_{\max}}{1 + \frac{[i]}{K_i}} \cdot \frac{[S]}{K_m + [S]} = \frac{v_{\max I} \cdot [S]}{K_m + [S]}$
 
 $K_i = \frac{v_{\max I} \cdot [I]}{v_{\max} - v_{\max I}}$
