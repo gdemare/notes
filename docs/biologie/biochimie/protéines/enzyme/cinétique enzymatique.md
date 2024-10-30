@@ -16,8 +16,7 @@ L'enzyme forme un complexe avec le substrat avec des liaisons :
 
 * hydrogène
 * Van der Val
-
-$[E] + [S] \rightleftarrows [ES] \rightarrow [E] + [P]$
+$$[E] + [S] \rightleftarrows [ES] \rightarrow [E] + [P]$$
 
 Ainsi, la réaction a pour vitesse : $v = k_{cat} \cdot [ES]$.
 

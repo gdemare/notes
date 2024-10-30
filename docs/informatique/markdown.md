@@ -27,21 +27,22 @@ import tensorflow as tf
 
 Pour les majuscules, il faut mettre la première lettre en majuscule.
 
-| Mascule   | Minuscule  | Fonction   | Lettre |
-| --------- | ---------- | ---------- | ------ |
-| .         | $\partial$ | `\partial` | d rond |
-| $\Delta$  | $\delta$   | `\delta`   | delta  |
-| $\Lambda$ | $\lambda$  | `\lambda`  | lambda |
-| .         | $\mu$      | `\mu`      | mu     |
-| .         | $\nabla$   | `\nabla`   | nabla  |
-| .         | $\nu$      | `\nu`      | nu     |
-| .         | $\phi$     | `\phi`     | phi    |
-| $\Pi$     | $\pi$      | `\pi`      | pi     |
-| $\Psi$    | $\psi$     | `\psi`     | psi    |
-| $\Omega$  | $\omega$   | `\omega`   | omega  |
-| .         | $\rho$     | `\rho`     | rho    |
-| $\Sigma$  | $\sigma$   | `\sigma`   | sigma  |
-| $\Theta$  | $\theta$   | `\theta`   | theta  |
+| Mascule   | Minuscule  | Fonction   | Lettre  |
+| --------- | ---------- | ---------- | ------- |
+| .         | $\partial$ | `\partial` | d rond  |
+| $\Delta$  | $\delta$   | `\delta`   | delta   |
+|           | $\epsilon$ | `\epsilon` | epsilon |
+| $\Lambda$ | $\lambda$  | `\lambda`  | lambda  |
+| .         | $\mu$      | `\mu`      | mu      |
+| .         | $\nabla$   | `\nabla`   | nabla   |
+| .         | $\nu$      | `\nu`      | nu      |
+| .         | $\phi$     | `\phi`     | phi     |
+| $\Pi$     | $\pi$      | `\pi`      | pi      |
+| $\Psi$    | $\psi$     | `\psi`     | psi     |
+| $\Omega$  | $\omega$   | `\omega`   | omega   |
+| .         | $\rho$     | `\rho`     | rho     |
+| $\Sigma$  | $\sigma$   | `\sigma`   | sigma   |
+| $\Theta$  | $\theta$   | `\theta`   | theta   |
 ## Symbole
 
 Markdown    | Fonction      | Lettre
@@ -72,17 +73,17 @@ Markdown  | Symbole   | Définition
 `\approx` | $\approx$ | approximation
 ### Opérateurs
 
-Markdown			| Opérateur			| Définition
---------------------|-------------------|-------
-`\cdot`       		| $\cdot$			| fois (avec le point)
-`\times` 			| $\times$			| multiplié
-`\frac{a}{b}`       | $\frac{a}{b}$       | fraction
-`^{val}`            | $^{val}$	        | puissance
-`\sqrt{}`           | $\sqrt{}$         | racine carré
-`\sqrt[n]{x}`       | $\sqrt[n]{x}$     | racine n 
-`\vert{x}\vert`     | $\vert{x}\vert$   | valeur absolue
-`\Vert x \Vert`     | $\Vert{x}\Vert$ | norme
-`\pm`               | $\pm$             | plus et moins
+| Markdown        | Opérateur       | Définition           |
+| --------------- | --------------- | -------------------- |
+| `\cdot`         | $\cdot$         | fois (avec le point) |
+| `\times`        | $\times$        | multiplié            |
+| `\frac{a}{b}`   | $\frac{a}{b}$   | fraction             |
+| `^{val}`        | $^{val}$        | puissance            |
+| `\sqrt{}`       | $\sqrt{}$       | racine carré         |
+| `\sqrt[n]{x}`   | $\sqrt[n]{x}$   | racine n             |
+| `\vert{x}\vert` | $\vert{x}\vert$ | valeur absolue       |
+| `\Vert x \Vert` | $\Vert{x}\Vert$ | norme                |
+| `\pm`           | $\pm$           | plus et moins        |
 
 Markdown			| Opérateur			| Définition
 --------------------|-------------------|-------
@@ -113,7 +114,6 @@ Markdown			| Opérateur			| Définition
 | `\prod_{n=1} ^{N}`                             | $\prod_{n=1} ^{N}$                             | produit            |
 | `\begin{bmatrix} a & b \\ c & d \end{bmatrix}` | $\begin{bmatrix} a & b \\ c & d \end{bmatrix}$ | matrice            |
 | `\int_0^1{x dx}`                               | $\int_0^1{  x \cdot dx}$                       | intégrale de 0 à 1 |
-
 Markdown 							                    | Math ajax								| Définition
 --------------------------------------------------------|---------------------------------------|----------------
 `\begin{aligned}ligne 1 \\ ligne 2 \end{aligned}`       | $\begin{aligned}ligne 1 \\ ligne 2 \end{aligned}$ | répartir sur plusieurs lignes

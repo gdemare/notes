@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/biochimie/protéines/enzyme/cinétique enzymatique.md",
+                "file": "informatique/markdown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cinétique enzymatique"
+              "title": "markdown"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "644d2e5596a4d716",
   "lastOpenFiles": [
+    "biologie/biochimie/protéines/enzyme/cinétique enzymatique.md",
     "biologie/biochimie/protéines/enzyme/enzyme.md",
     "physique chimie/physique/physique.md",
     "informatique/markdown.md",
@@ -189,7 +190,6 @@
     "notes non ajoutées.md",
     "biologie/méthodes/histologie/coloration.md",
     "biologie/méthodes/histologie/protocole.md",
-    "biologie/méthodes/ordres de grandeur.md",
     "biologie/méthodes/analyse des résultats",
     "biologie/méthodes/protéines",
     "biologie/méthodes/clonage",
