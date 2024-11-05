@@ -1,6 +1,6 @@
 ## Domaines
 
-* __algèbre__
+* __[[algèbre]]__
 * [[algorithmie]]
 * __[[arithmétique]]__
 * __[[géométrie]]__ 
@@ -56,5 +56,5 @@ Connaitre les variations de $f(x)$.
 !!! note
 	Les identités remarquables sont notamment utilisées dans la factorisation d'un polynôme de second degré d'abord (1) ou (2) puis (3).
 
-* Dérivé premier sens de variation
+* Dérivé premier sens de variation.
 * Dérivé second permet de détecter les plateaux.

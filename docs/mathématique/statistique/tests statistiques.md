@@ -17,7 +17,7 @@ En fonction du seuil fixé, il n'est pas possible d'accepter $H_0$ car le risque
 * On ne peut pas rejeté $H_0$.
 * On rejette $H_0$.
 
-On parle de tests paramétriques lorsque les observations suivent une loi statistique et non paramètrique lorsque la loi de répartition n'est pas connue.
+On parle de tests paramétriques lorsque les observations suivent une loi statistique et non paramétrique lorsque la loi de répartition n'est pas connue.
 
 * **(1)** indépendance.
 * **(2)** égalité des variances (homoscédasticité).
@@ -45,16 +45,16 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 | Variance   |           | Khi2                          |
 ## Paramètre de plusieurs échantillons
 
-H0                      | Taille    | Condition     | Test
-------------------------|-----------|---------------|---
-Egalité des moyennes    | 2         | 1,2,3         | Test t
-____________________    | 2         |               | Mann-Whitney
-____________________    | n         | 1,2,4 ou 3    | ANOVA
-____________________    | n         |               | Kruskal-Wallis
-Egalité des proportions | k         | 4             | Khi2
-Egalité des variances   | 2         |               | Fisher
-_____________________   | k         | 4             | Bartlett
-_____________________   | k         |               | Test de Levene
+| H0                      | Taille | Condition  | Test           |
+| ----------------------- | ------ | ---------- | -------------- |
+| Egalité des moyennes    | 2      | 1,2,3      | Test t         |
+| ____________________    | 2      |            | Mann-Whitney   |
+| ____________________    | n      | 1,2,4 ou 3 | ANOVA          |
+| ______________médianes  | n      |            | Kruskal-Wallis |
+| Egalité des proportions | k      | 4          | Khi2           |
+| Egalité des variances   | 2      |            | Fisher         |
+| _____________________   | k      | 4          | Bartlett       |
+| _____________________   | k      |            | Test de Levene |
 ## Deux distributions
 
 | H0                                                | Condition  | Test                  |
@@ -63,7 +63,6 @@ _____________________   | k         |               | Test de Levene
 | __________________                                | 1,2,3 ou 4 | Test t                |
 | __________________ entre deux échantillons        |            | Wilcoxon-Mann-Whitney |
 | Egalités des positions (séries binaires)          |            | Q de Cochran          |
-|                                                   |            |                       |
 ## Corrélation
 
 h0 : indépendance des deux variables
@@ -76,6 +75,12 @@ h0 : indépendance des deux variables
 |          | 2 var quali                 |           | exact de Fisher        |
 |          | 2 var quali                 |           | Méthode de Monte Carlo |
 |          | 1 var quali et 1 var quanti |           | [[ANOVA]]              |
+#### Autres tests
+
+- **Test de Tukey HSD** (Honest Significant Difference), test post-hoc (analyse après avoir l'hypothèse) utilisé en statistique pour comparer toutes les paires de moyennes après une ANOVA. Il compare les paires de groupes pour savoir s'il existe une différence.
+- Homogénéité des variances test des Levene 
+
+* __Test de Games Howell__ pour comparer les 
 ## Cours tests statistiques et interprétation
 
 Les tests statistiques servent à vérifier si les données obtenues sont compatibles avec une propriété (par exemple, une moyenne théorique) et les différences observées dû au hasard de l'échantillonnage.
@@ -118,6 +123,8 @@ Pour comparer la valeur de deux échantillons, il suffit de vérifier si les int
 | ------------------------------------------------ | ------------------------- | --------------------- |
 | On ne rejete pas $H_0$ au risque $\beta$ inconnu | $E_{obs} \leq E_{\alpha}$ | p-value $\gt \alpha$  |
 | On accepte $H_1$ au risque $\alpha$              | $E_{obs} \gt E_{\alpha}$  | p-value $\leq \alpha$ |
+!!! note
+	I y a 5 % de chances de rejeter l'hypothèse nulle par hasard.
 
 Par exemple, au risque alpha de 5%, $E_{\alpha} = 1,96$
 
@@ -207,12 +214,12 @@ Lorsque plusieurs tests sont réalisés, il faut utiliser une correction l'erreu
 Le risque d'erreur augmente avec le nombre de tests. Le risque de faire une erreur est alors de  $1-\prod{1-\alpha}$. 
 
 !!! example
-	Le risque de se tromper pour 4 tests est de $1-(1-0,05)^6 = 26%$ de risque de se tromper au moins une fois.
+	Le risque de se tromper pour 4 tests est de $1-(1-0,05)^6 = 26\%$ de risque de se tromper au moins une fois.
 
 Deux approches :
 
-* Controle le risque alpha global de se tromper au moins une fois ; on l’appelle le “Family-wise error rate” (FEWR) en anglais.
-* Controler le risque alpha global de se tromper au moins une fois, mais en ne considérant que les tests qui ont rejetté $H_0$ ; On l’apelle le “False discovery rate” (FDR) en anglais.
+* Contrôle le risque alpha global de se tromper au moins une fois ; on l’appelle le “Family-wise error rate” (FEWR) en anglais.
+* Contrôle du risque alpha global de se tromper au moins une fois, mais en ne considérant que les tests qui ont rejeté $H_0$ ; On l’appelle le “False discovery rate” (FDR) en anglais.
 
 L'idée serait de modifier les p-valeurs pour que le risque global chute à 0.05% mais les modification dépendent du nombre de tests.
 Ajuster les p-valeur en les augmentant.
@@ -221,4 +228,52 @@ Family wise error rate :
 
 * méthode Bonferroni corrige toutes les p valeurs en une fois (méhtode très restrictive).
 * méthode d’Holm qui corrige de façon séquentielle chaque p valeur.
+# Facteur de Bayes
 
+Le **facteur de Bayes** est une mesure utilisée dans le cadre des statistiques bayésiennes pour comparer deux hypothèses : l'hypothèse nulle ($H_0$) et l'hypothèse alternative ($H_1$​). Contrairement aux tests classiques qui reposent sur les p-valeurs, le facteur de Bayes quantifie directement les preuves en faveur de l'une ou l'autre hypothèse, en indiquant combien de fois les données sont plus probables sous une hypothèse que sous l'autre.
+### Interprétation du facteur de Bayes
+
+Le facteur de Bayes, noté $BF_{10}$​, représente le rapport de vraisemblance entre $H_1$​ (hypothèse alternative) et $H_0$​ (hypothèse nulle) :
+
+$$BF_{10} = \frac{P(\text{Données} | H_1)}{P(\text{Données} | H_0)}$$
+
+- $BF_{10} > 1$ : Les données fournissent plus de preuves en faveur de l’hypothèse alternative $H_1$​.
+- **BF10<1BF_{10} < 1BF10​<1** : Les données soutiennent davantage l’hypothèse nulle H0H_0H0​.
+- **BF10≈1BF_{10} \approx 1BF10​≈1** : Les données ne favorisent aucune hypothèse.
+
+On peut aussi utiliser $BF_{01} = \frac{1}{BF_{10}}$ pour exprimer la probabilité des données sous $H_0$ par rapport à $H_1$​.
+### Guide d'interprétation du facteur de Bayes
+
+Jeffreys (1961) a proposé une interprétation de la force des preuves fournies par le facteur de Bayes :
+
+|BF10BF_{10}BF10​|Interprétation des preuves en faveur de H1H_1H1​|
+|---|---|
+|1 à 3|Évidence faible|
+|3 à 10|Évidence modérée|
+|10 à 30|Évidence forte|
+|30 à 100|Évidence très forte|
+|> 100|Évidence extrêmement forte|
+
+Inversement, des valeurs de BF10BF_{10}BF10​ inférieures à 1 (par exemple, entre 0,1 et 0,33) indiquent un soutien croissant pour H0H_0H0​.
+
+### Avantages du facteur de Bayes
+
+1. **Quantification de l’évidence** : Il donne une mesure continue du soutien des données pour H0H_0H0​ ou H1H_1H1​, contrairement aux p-valeurs qui n'indiquent que la probabilité de voir des données aussi extrêmes si H0H_0H0​ est vraie.
+2. **Comparaison d'hypothèses** : Le facteur de Bayes permet une comparaison directe entre hypothèses, utile dans des contextes où on veut des preuves pour ou contre H0H_0H0​.
+3. **Incorporation de l’information a priori** : En utilisant des distributions a priori, le facteur de Bayes permet de prendre en compte des connaissances préalables ou des hypothèses initiales.
+
+### Exemple de calcul du facteur de Bayes avec R
+
+Pour calculer le facteur de Bayes dans R, vous pouvez utiliser le package `BayesFactor`. Voici un exemple de comparaison de moyennes de deux groupes :
+
+R
+
+Copy code
+
+`# Installer et charger le package install.packages("BayesFactor") library(BayesFactor)  # Exemples de données pour deux groupes set.seed(42) group_A <- rnorm(30, mean = 100, sd = 15) group_B <- rnorm(30, mean = 110, sd = 15)  # Calculer le facteur de Bayes pour une comparaison de moyennes bf <- ttestBF(x = group_A, y = group_B) print(bf)`
+
+Le résultat fournira le facteur de Bayes BF10BF_{10}BF10​ pour le test, que vous pouvez interpréter pour déterminer le soutien en faveur de l'une des hypothèses.
+
+### Résumé
+
+Le facteur de Bayes est une approche bayésienne qui permet de comparer des hypothèses avec une quantification directe des preuves. Plus intuitif dans certaines situations que les p-valeurs, il est utile pour évaluer et interpréter la force de l’évidence fournie par les données pour ou contre une hypothèse.

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a610641455d96950",
+        "id": "d1d0b62baf1e0170",
         "type": "tabs",
         "children": [
           {
-            "id": "644d2e5596a4d716",
+            "id": "d65b2951c7d00281",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "politique/politique.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "politique"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -162,18 +158,21 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "644d2e5596a4d716",
+  "active": "d65b2951c7d00281",
   "lastOpenFiles": [
+    "data science/modèles/classification/ANOVA.md",
+    "mathématique/statistique/tests statistiques.md",
+    "mathématique/mathématique.md",
+    "mathématique/géométrie.md",
+    "politique/politique.md",
     "politique/pesticides.md",
     "politique/magasins discount.md",
     "politique/énergie en France.md",
     "physique chimie/physique classique.md",
-    "mathématique/mathématique.md",
     "mathématique/arithmétique.md",
-    "mathématique/algébre.md",
+    "mathématique/algèbre.md",
     "biologie/écologie/génétique des populations.md",
     "biologie/méthodes/protéines/mesurer l'activité enzymatique.md",
-    "mathématique/statistique/tests statistiques.md",
     "mathématique/analyse/modèle.md",
     "mathématique/analyse/fonctions remarquables.md",
     "mathématique/analyse/optimisation.md",
@@ -187,9 +186,6 @@
     "biologie/biochimie/protéines/étude des protéines.md",
     "biologie/biochimie/composition des êtres vivants.md",
     "biologie/biochimie/protéines/acides aminés.md",
-    "biologie/biochimie/énergie.md",
-    "biologie/biochimie/acides nuclétiques/ADN.md",
-    "biologie/biochimie/acides nuclétiques/réparation de l'ADN.md",
     "biologie/méthodes/analyse des résultats",
     "biologie/méthodes/protéines",
     "biologie/méthodes/clonage",
