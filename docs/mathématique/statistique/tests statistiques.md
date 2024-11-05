@@ -30,11 +30,11 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
   
 ## Une distribution
 
-|  H0                        | Test		|
-|--------------------------|--------------------|
-| Normalité                 | Shapiro-Wilk	|
-| Pas de valeurs extrêmes   | Dixon		|
-| Pas de valeurs extrêmes   | Grubbs		|
+| H0                      | Test         |
+| ----------------------- | ------------ |
+| Normalité               | Shapiro-Wilk |
+| Pas de valeurs extrêmes | Dixon        |
+| Pas de valeurs extrêmes | Grubbs       |
 ## Un échantillon et une valeur théorique
 
 | H0         | Condition | Test                          |
@@ -137,7 +137,6 @@ Les types de tests principaux :
 * Indépendance, exemple : la couleur des cheveux est-elle indépendante du sexe ?
 * Homogénéité : deux séries de données sont-elles identiquement distribuées.
 * Adéquation à une loi ou une famille de lois définies à priori, par exemple : la taille d'une population suit-elle une loi normale ?
-
 ## Test d'homogénéité
 
 | Test                                             | Formule                                                                                          | Degré de liberté     |
