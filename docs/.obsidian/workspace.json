@@ -11,13 +11,30 @@
             "id": "d65b2951c7d00281",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "biologie/biochimie/protéines/protéine.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "protéine"
+            }
+          },
+          {
+            "id": "8b889b42d196e6af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mich",
+                "query": "protéine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +86,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,8 +176,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "d65b2951c7d00281",
+  "active": "8b889b42d196e6af",
   "lastOpenFiles": [
+    "biologie/méthodes/ADN et ARN/chromatographie.md",
+    "biologie/biochimie/protéines/protéine.md",
     "data science/modèles/classification/ANOVA.md",
     "mathématique/statistique/tests statistiques.md",
     "mathématique/mathématique.md",
@@ -181,11 +201,9 @@
     "biologie/biochimie/protéines/enzyme/enzyme.md",
     "physique chimie/physique/physique.md",
     "biologie/biochimie/acides nuclétiques/domaine de liaison ADN protéines.md",
-    "biologie/biochimie/protéines/protéine.md",
     "biologie/biochimie/protéines/conformation.md",
     "biologie/biochimie/protéines/étude des protéines.md",
     "biologie/biochimie/composition des êtres vivants.md",
-    "biologie/biochimie/protéines/acides aminés.md",
     "biologie/méthodes/analyse des résultats",
     "biologie/méthodes/protéines",
     "biologie/méthodes/clonage",

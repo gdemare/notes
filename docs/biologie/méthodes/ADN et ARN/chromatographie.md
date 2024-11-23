@@ -1,15 +1,17 @@
 La chromatographie est un ensemble de méthodes qui permet de séparer les protéines en fonction de leurs propriétés chimiques. Il existe quatre types de chromatographie :
 
-* d'exclusion qui sépare en fonction de la taille et de la forme appelé poids moléculaire en kDa.
-* d'affinité qui filtre par affinité avec un ligand. Les composés se détachent progressivement (élués).
-* d'échange d'ions. Des billes chargées retiennent les molécules par leur charge. Elles sont ensuite éluées progressivement par leur charge.
+* d'exclusion qui sépare en fonction de la taille et de la forme appelé poids moléculaire en kDa. Elle se fait sur gel.
+* d'affinité qui filtre par affinité avec un ligand. Les composés se détachent progressivement (élués). Pour les protéines qui consiste à filtrer par le substrat.
+* d'échange d'ions qui sépare en fonction de la charge. Des billes chargées retiennent les molécules par leur charge. Elles sont ensuite éluées progressivement par leur charge.
 * Sur couche mince.
 
 !!! note
     Il existe une chromatographie qui utilise des anticorps à la place des ions.
 ### Exclusion
 
-Les molécules passent dans des billes percées. Plus la molécule est grosse plus vite elle sortira. On a une relation linéaire entre log de la taille en fonction du volume élué.
+La chromatographie d'exclusion ou chromatographie sur gel 
+
+Les molécules passent dans des billes percées. Plus la molécule est grosse plus vite elle sortira tandis que les plus petites mettront beaucoup plus de temps à sortir de la colonne. On a une relation linéaire entre $\log$ de la taille en fonction du volume élué.
 
 $v_{mort}$ volume d'élution des plus grosses molécules, celles qui ne peuvent pas entrer dans les billes.
 
@@ -21,6 +23,59 @@ Les protéines sont mises dans une colonne échangeuse avec des billes qui poss�
 
 * Hydrogènes.
 * Van Deer Val.
+#### La chromatographie d’échange d’ions
+
+L’idée est de faire adhérer les protéines chargées aux billes puis de les détacher en modifiant le pH jusqu’à atteindre le point isoélectrique de la protéine étudiée.
+
+Les billes sont fabriquées en résine avec un groupement
+
+Charge des billes   -   +
+
+Exemple de groupement   Carboxymethyl   diethylaminoethyl
+
+Chromatographie par affinité
+
+Électrophorèse
+
+Séparer les protéines en fonction de la
+
+Taille (dénaturée)  Charge (non dénaturée)
+
+Gel Papier
+
+Chargé
+
+On dépose les protéines en ligne au milieu d’une feuille de papier et on applique un courant électrique sur les deux extrémités de la feuille. Les protéines se trouveront plus ou moins proche des bornes en fonction de leur charge.
+
+Borne chargée   Anode + Cathode -
+
+Attire les protéines chargées   Anion (chargé -)    Cation (chargé +)
+
+Taille
+
+Pour comparer la taille des protéines, on doit d’abord les dénaturer.
+
+On applique un courant électrique qui va provoquer la migration des protéines. Plus elles seront proches du ? sont petites.
+
+La taille des protéines est déterminée par une gamme étalon.
+
+Western Blot ou buvard de western
+
+Il permet de détecter et d’identifier les protéines et leur concentration. Il faut préalablement dénaturer les protéines.
+
+    Séparation : Les protéines sont séparées par taille par électrophorèse.
+
+    Transfert : Elles sont ensuite transférées sur un gel en appliquant un courant électrique.
+
+    Révélation : On ajoute un anticorps spécifique à la protéine étudiée puis d’un anticorps secondaire capable d’émettre de la lumière en présence d’un substrat.
+
+L’intensité lumineuse permet de connaitre la concentration.
+
+Hydrolyse acide
+
+Méthode pour séparer les acides aminés de la protéine.
+
+On utilise notamment de l’acide chlorhydrique.
 ### Chromatographie
 
 Trois types de chromatographies :
