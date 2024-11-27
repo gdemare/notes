@@ -48,11 +48,11 @@ Pour déterminer la vitesse, car on est incapable de mesurer la concentration de
 On obtient alors pour la vitesse (équation de)
 $$v = \frac{k_{cat} \cdot [E_0] \cdot [S]}{K_m + [S]}$$
 Avec :
-- $K_m$ la concentration de substrat pour laquelle v0v_0v0​ atteint la moitié de $V_{\text{max}}$​.
+- $K_m$ la concentration de substrat pour laquelle $v_0$ atteint la moitié de $V_{max}$​.
 
 On peut déduire de l'équation :
 
-* La vitesse maximum $v_{\max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_m \ll [S]$ d’où $v_{\max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{\max}}{[E_0]}$ ainsi l'équation de Micheal-Menden peut s'écrire $v = \frac{v_{\max}[S]}{K_m + [S]}$.
+* La vitesse maximum $v_{max}$. La quantité de substrat qui tend vers l’infini. On a alors $K_m \ll [S]$ d’où $v_{max} = \lim_{x \to \infty} {v} = k_{cat} \cdot [E_0]$. On a alors $k_{cat} = \frac{v_{max}}{[E_0]}$ ainsi l'équation de Micheal-Menden peut s'écrire $v = \frac{v_{max}[S]}{K_m + [S]}$.
 * Efficacité de l’enzyme. Plus la vitesse est grande, plus $k_{cat}$ est grand.
 * L'affinité (reconnaissance entre l'enzyme et le substrat) correspond à la proportion $\frac{[E]}{[ES]}$. Plus elle est élevée et plus $\frac{[E]}{[ES]}$ est petit d’où $K_m = \frac{[E]}{[ES]} \cdot [S]$ est petit.
 
