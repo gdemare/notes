@@ -10,10 +10,10 @@ Il existe des différences entre importantes entre les deux types de cellule. Un
 
 Quatre types d'ARN sont produits par les cellules :
 
-* R pour ribosomal (95%).
-* M pour messager (1,5%). Ils contiennent l'information sur la séquence peptidique de la protéine.
-* T pour transfert. Ils servent de clé pour traduire l'ARN en acides aminées.
-* I pour interférent. Ce sont de petites amorces d'ARN capable de s'hybrider avec un brin d'ARN.
+* R pour ribosomal (80%).
+* M pour messager (5%). Ils contiennent l'information sur la séquence peptidique de la protéine.
+* T pour transfert (15%). Ils servent de clé pour traduire l'ARN en acides aminées.
+* I pour interférent. Ce sont de petites amorces d'ARN capables de s'hybrider avec un brin d'ARN.
 #### ARN Interférent 
 
 __Endogène__ méthode de régulation de l'expression génétique. infèrent rend la séquence inactive 22 nucleotides.

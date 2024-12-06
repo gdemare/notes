@@ -2,11 +2,11 @@
 
 A ajouter
 
-Certains codons sont priviligiés pour coder pour un aa. Ces préférences se retrouvent dans la fréquence des ARNt présent dans les cellules. avantage économique et augmente l'efficacité et la rapidité de la traduction.
+Certains codons sont privilégiés pour coder pour un aa. Ces préférences se retrouvent dans la fréquence des ARNt présent dans les cellules. avantage économique et augmente l'efficacité et la rapidité de la traduction.
 
   
 
-Cette information est à prendre en compte lorsque l’on cherche à exprimer une protéine dans un autre organisme de celui d'origine en remplacant les codons peu favorisés par ce qui le sont.
+Cette information est à prendre en compte lorsque l’on cherche à exprimer une protéine dans un autre organisme de celui d'origine en remplaçant les codons peu favorisés par ce qui le sont.
 
   
 
@@ -88,11 +88,9 @@ Méthodes pour l’étude des protéines
 
 Trois grandes catégories de méthodes pour sélectionner les protéines à étudier :
 
-* Chromatographie
-
-* Gel-filtration
-
-* Électrophorèse
+* chromatographie.
+* gel-filtration.
+* électrophorèse.
 
 __Dénaturation__ perte de la conformation initiale d’une molécule biologique. Les protéines dénaturées perdent souvent leur fonction.
 
@@ -216,7 +214,7 @@ Les protéines (étymologie “au premier rang”) sont des polymères d’acide
 
 Les acides aminés sont structurés autour d’un atome de carbone appelé alpha entouré par : * un groupe aminé (-NH2) * un groupe acide carboxylique (-COOH), un atome d’hydrogène * d’une chaîne latérale qui différe en fonction du type d’acides aminés. La conformation des aa est de type L (par opposition à D) probablement car la forme L est plus présente naturellement.
 
-amphotère molécule à la fois donneuse et receveuse d’électrons.
+__amphotère molécule à la fois donneuse et receveuse d’électrons.
 
 !!! note Certains acides aminés sont modifiés sont utilisés autrement que dans les protéines. Par exemple, la desmosine est une molécule non protéiques constituées de quatre lysines qui confère à l’élastine des propriétés élastiques. D’autres aa modifiées peuvent servir d’hormones, etc.
 
@@ -626,97 +624,15 @@ enrichir purification d'une protéine. Augmenter la proportion d'une portéine p
 
   
 
-### Dichoïsme circulaire
 
   
 
-180 et 240 nm strucutre secondaire
 
   
 
-L'utilisation d'une lumière polarisé de type UV lointain entre 190 nm et 250 nm et la mesure la transformation de la lumière transmise à l'issu après avoir traverser les protéines révélent la strcuture secondaire :
-
   
 
-* Hélice $\alpha$ décroissant avec deux minimums à  210 et 220nm
 
-* Feuillet $\beta$ positif décroissant avec un minimum 195nm
-
-* Aléatoire croissant négatif.
-
-  
-
-Entre 250 et 320 nm structure tertiaire
-
-  
-
-Transitions vibrationnelles des noyaux aromatiques (F phénylalaline, Y tyrosine, W tryptophane)
-
-  
-
-Les aa et leur absorption :
-
-  
-
-* 250-270 nm → phenylalanine (F)
-
-* 270-290 nm → tyrosine (Y)
-
-* 280-300 nm → tryptophane (W)
-
-  
-
-!!! note
-
-    Les aa aromatiques sont rigides grâce aux cycles aromatiques ce qui augmente l'intensité de la fluorescence.
-
-  
-
-La longueur d'onde d'émission donne une information :
-
-  
-
-* sur l'environnement :
-
-  
-
-    * Blue shift vers des conditions plus apolaire.
-
-    * Red shift vers des conditions plus apolaire.
-
-  
-
-* L'intensité sur les contraintes exercées sur le fluophore. Plus elles sont importantes càd plus l'intensité est importante car l'énergie ne peut pas être dissiper par du mouvement.
-
-  
-
-Aa                  | Longueur d'onde d'exicitation (nm)   | Longueur d'onde d'émission (nm)
-
---------------------|-------|--------------
-
-Tryptophane (W)     | 295   | 330 (apolaire) - 360 (polaire)
-
-Tyrosine (Y)        | 280   | 300 (apolaire) - 330 (polaire)
-
-W + Y               | 280   |
-
-  
-
-__Pharmacothérapie__ domaine d'étude les interactions moléculaires.
-
-  
-
-La microcalorimétrie pour mesurer la l'enthalpie et les changements de capacité thermique lors des réactions :
-
-  
-
-Deux techniques :
-
-  
-
-* calorimètres à balayage différentiel Differential Scanning Calorimetry (DSC) structure et interactions specifiques et non specifique. Le principe repose sur la comparaison des échanges de chaleur entre d'un échantillon et un milieu de référence en faisant varier la température.
-
-* calorimétrie à titrage isotherme (ITC) caractériser des intéractions. Le principe repose sur la mesure chaleur nécessaire au maintient de la température à une valeur constante.
 
   
 
@@ -728,221 +644,25 @@ Deux techniques :
 
     Le génome humain permet d'exprimé environ 100 000 protéines différentes.
 
-  
-
 La taille moyenne d'une protéine est de 200 aa.
-
-  
 
 __Interactome__ ensemble des interactions protéines protéines qui ont lieu dans la cellule à un moment donnée.
 
-  
-
 __Transloquer__ déplacer d'un endroit à un autre.
 
-  
-
 Les protéines peuvent être classées en trois types :
-
   
-
 * fibreuse. Elles sont en forme de filament et ne sont généralement pas solubles. Elles jouent un rôle structurel. Par exemple, le collagène, kératines ...
-
 * globuleuse ou sphéroprotéines. Elles sont sphériques et solubles. Elles servent d'enzymes, de transporteurs ou de messagers.
-
 * membranaire.
-
-  
 
 La chaîne peptidique est suffisante pour donner la formation active aux protéines. Dans certain cas, la conformation est adoptée à la suite du clivage d'une partie de la séquence des aa comme pour l'insuline.
 
-  
-
 Il existe des protéines qui facilitent la mise en conformation comme les protéines chaperonnes.
-
-  
 
 __Heat shock proteins__ (Hsp) type de protéines chaperonnes produites en condition de stress cellulaire thermique.
 
-  
-
-## Modification post traduction
-
-  
-
-Les modifications traductionnelles des protéines permettent :
-
-  
-
-* Réguler l'activité des protéines.
-
-* Les «étiqueter» afin qu'elles soient reconnues par d'autres molécules ou par des systèmes de dégradation.
-
-* Les ancrer dans une membrane.
-
-* Les intégrer à une cascade de signalisation.
-
-* Les «adresser» à un compartiment cellulaire.
-
-* Définir une identité immunologique (groupes sanguins).
-
-* Conférer de nouvelles propriétés.
-
-  
-
-## L'adressage des protéines
-
-  
-
-Les protéines sont adressées au compartiment de destination grâce à une séquence de leur chaine peptidique appelée séquence signale ou facteur d'adressage qui se situe généralement en N-term.
-
-  
-
-| Destination             | Séquence signale |
-
-|-------------------------|------------------|
-
-| Réticulum endoplasmique | SRF              |
-
-| Mitochondrie            | MSF              |
-
-| Noyau                   | NLS              |
-
-  
-
-### L'adressage au noyau
-
-  
-
-Pour qu'une protéine puisse intégrer le noyau, il faut qu'elle possède une séquence signal appelée NLS (Nuclear localization signal).
-
-  
-
-1. Une protéine appelée importine vient se fixer sur la protéine à destination du noyau.
-
-2. Le complexe est transloqué par le pore nucléaire appelé nucléoporines.
-
-  
-
-### Adressage aux mitochondries
-
-  
-
-Les membranes des mitochondries sont imperméables. Pour être transloquer dans la mitochondrie, une protéine est maintenue sous forme d'une chaine
-
-de polypeptides déroulée grâce à des protéines chaperonnes qui reconnaissent le motif terminal.
-
-  
-
-Ensuite le passage des membrane se fait par deux systèmes de transport
-
-  
-
-* Membrane interne TIM (In).
-
-* Membrane externe TOM (Out).
-
-  
-
-### Adressage au réticulum endoplasmique
-
-  
-
-L'adressage des protéines au RE est appelé voie de sécrétion. La translocation peut se faire :
-
-  
-
-* post traductionnelle
-
-* co traductionnelle (en même temps que la synthèse).
-
-  
-
-!!! note
-
-    La translocation co-traductionnelle est présente essentiellement chez les eucaryotes complexes.
-
-  
-
-L'entrée se faire par un complexe protéique appelé sec 61 ou translocon. Il est inséré dans la membrane du RE et il possède des plusieurs sites pouvant servir à :
-
-  
-
-* Cliver la séquence signale, une fois que la chaine peptidique a pénétré dans la lumière du RE.
-
-* Réaliser une modification post traductionnelle.
-
-  
-
-Le translocon est toujours obstrué pour maintenir des concentrations différentes de petites molécules entre le cytosol et le lumen du RE par exemple, de protons ou de $Ca^{2+}$. Il l'est soit par :
-
-  
-
-* Par le ribosome lors de la translocation.
-
-* Une protéine BIP par défaut.
-
-  
-
-La protéine peut subir des modification post traductionnelle au niveau du transposon comme l'ajout de :
-
-  
-
-* Ponts disulfure.
-
-* Polysaccharide. Elle a lieu lors de la présence d'un séquence particulière dans la chaine peptidique.
-
-  
-
-L'ajout d'un motif de N-glycolisation permet d'ajouter un site de :
-
-  
-
-* de reconnaissance qui servira à recruter des protéines qui aideront la séquence peptidiques à acquérir sa conformation.
-
-* avec une information d'adressage.
-
-* une protection notamment contre les protéolyses.
-
-* d'adhésion cellulaire.
-
-  
-
-Le sucre subit ensuite un processus de maturation 2 grands types :
-
-  
-
-* Oligosaccharides.
-
-* Complexes qui sont riches en mannose et sont adresser aux lysosomes.
-
-  
-
-Les protéines du RE sont :
-
-  
-
-* transportées vers l'appareil de Golgi.
-
-* résidantes du RE si elles possèdent la séquence KDEL.
-
-  
-
-!!! note
-
-    KDEL interagit avec des récepteurs KDER.
-
-  
-
-L'exocytose du RE se fait par un système protéines type clé-serrure.
-
-  
-
-L'adressage des protéines au RE se fait dans des vésicules possédant des clathrine.
-
-  
-
-## A ajouter
+  ## A ajouter
 
   
 
@@ -974,65 +694,6 @@ Ces peptides sont synthétisés par des synthétases massives organisées en cha
 
   
 
-Certains codons sont priviligiés pour coder pour un aa. On retrouve ces préférences dans la fréquence de ARNt présent dans les cellules.
-
-avantage économique et augmente la efficacité et rapidité de la traduction.
-
-  
-
-Cette information est a prendre en compte lorsque l'on cherche a exprimer dans un autre organisme en remplacant les codons peu favorisé par ce qui le sont.
-
-  
-
-Généralement, les protéines sont synthétisé
-
-  
-
-es peptides sont synthétisés par des synthétases massives organisées en chaînes de montage
-
-Des polypeptides assemblés sans que les ribosomes ne soient solicités??? Et oui, ça existe. Les peptides issus de la NRPS (non-ribosomal peptide synthesis) sont généralement assez courts, de deux à environ 50 acides aminés. Ces peptides ne sont pas codés par un gène, et ils ne sont pas limités aux vingt acides aminés de base. On y retrouve parfois des acides aminés de forme D, des variantes méthylées des acides habituels, des résidus hydroxylés ou glycosylés, des résidus jamais retrouvés dans les protéines, etc. Il arrive que la chaîne peptidique y soit cyclique, ou même branchée.
-
-  
-
-Ces peptides sont synthétisés par des synthétases massives organisées en chaînes de montage; certaines sont des complexes multimériques, d'autres de grandes protéines. Ces enzymes sont modulaires et contiennent une série d'unités fonctionnelles qui peuvent lier un acide aminé libre, l'activer sous forme de thioester, et le coupler au polypeptide grandissant. Chaque module a une taille de 1000-1200 acides aminés, rendant certains de ces enzymes vraiment énormes: une unique protéine de 15 281 résidus (pour une masse de 1,7 MDal!!!) est responsable de la synthèse de la cyclosporine, un immunorépresseur qui ne contient que... 11 résidus!
-
-  
-
-----------------------------
-
-  
-
-Les protéines (étymologie "au premier rang") sont des polymères d'acides aminés (aa) qui jouent de nombreux rôles notamment dans :
-
-  
-
-* La structure.
-
-* La réalisation et la régulation de processus biologiques (la défense, la signalisation, le transport, le mouvement).
-
-  
-
-Les acides aminés sont structurés autour d'un atome de carbone appelé alpha entouré par :
-
-  
-
-* un groupe aminé (-NH2)
-
-* un groupe acide carboxylique (-COOH), un atome d'hydrogène
-
-* d'une chaîne latérale qui différe en fonction du type d'acides aminés.
-
-La conformation des aa est de type L (par opposition à D) probablement car la forme L est plus présente naturellement.
-
-  
-
-__amphotère__ molécule à la fois donneuse et receveuse d'électrons.
-
-  
-
-!!! note
-
-    Certains acides aminés sont modifiés sont utilisés autrement que dans les protéines. Par exemple, la desmosine est une molécule non protéiques constituées de quatre lysines qui confère à l'élastine des propriétés élastiques. D'autres aa modifiées peuvent servir d'hormones, etc.
 
   
 
@@ -1118,205 +779,17 @@ Le repliement des protéines se fait en plusieurs étapes :
 
 * Quaternaire certaines protéines sont composées de plusieurs chaînes peptidiques.
 
-  
-
 !!! note
 
     La séquence d'AA est nécessaire et suffisante pour donner la forme de la protéine.
-
-  
-
-### Stéréochimie
-
-  
-
-!!! note
-
-    Le carbone asymétrique des aa utilisé par le vivant sont de type L et non pas de type D car le type L est plus répandu.
-
-  
-
-La création de la liaison peptidiques entre les acides aminés demande de l'énergie produite par hydrolyse du GDT : $GDT \rightarrow GDP + Pi$.
-
-  
-
-### Structure secondaire
-
-  
-
-Hélice alpha :
-
-  
-
-Deux feuillets Béta avec un agencement :
-
-  
-
-* Antiparallèle est stabilisée par des liaison H.
-
-* Parallèle génère des torsions au niveau des liaisons d'hydrogènes qui la rend moins stable que l'organisation antiparallèle.
-
-  
-
-L'angle se fait par rappor Angle :
-
-  
-
-* $\phi$ phi entre le $HN - \alpha C$
-
-* $\psi$ psi entre $C \alpha - COO^-$
-
-* $\omega$ angle entre NH-CO
-
-  
-
-#### Hélice alpha
-
-  
-
-Les caractéristiques des hélices $\alpha$ :
-
-  
-
-*  $\phi \approx -60°$ et $\psi \approx -60°$
-
-* Au moins 6 aa.
-
-  
-
-## Modifications post traductionnelles
-
-  
-
-Les protéines subissent des modifications chimiques de type covalente pendant et après leur synthèse de deux types :
-
-  
-
-* Protéolyse contrôlée.
-
-* L'ajout de groupements.
-
-  
-
-Ces modifications peuvent servir :
-
-  
-
-1. réguler de l'activité.
-
-2. à les rendre reconnaissable par l'ajout d'une étiquette par des partenaires ou à dégrader.
-
-3. à les ancrer dans une membrane.
-
-4. à les faire participer à des cascades de signalisation
-
-5. à leur adressage pour qu'elles se rendent au bon endroit dans la cellule
-
-6. à définir une identité immunologique (comme les groupes sanguins) etc, etc.
-
-  
-
-## Les fonctions des protéines
-
-  
 
 ### Les enzymes
 
   
 
-Les enzymes sont des catalyseurs qui permettent d'augmenter la vitesse de réaction jsuqu'a pluieurs millairds de fois. Substrat Peuvent être modulé.
-
-  
+Les enzymes sont des catalyseurs qui permettent d'augmenter la vitesse de réaction jsuqu'a plusieurs milliards de fois. Substrat Peuvent être modulé.
 
 enrichir purification d'une protéine. Augmenter la proportion d'une portéine particulière dans un échantillon.
-
-  
-
-### Dichoïsme circulaire
-
-  
-
-180 et 240 nm strucutre secondaire
-
-  
-
-L'utilisation d'une lumière polarisé de type UV lointain entre 180 nm et 250 nm et la mesure la transformation de la lumière transmise après avoir traverser les protéines révélent la strcuture secondaire :
-
-  
-
-* Hélice $\alpha$ décroissant avec deux minimums à 210 et 220nm.
-
-* Feuillet $\beta$ positif décroissant avec un minimum 195nm.
-
-* Aléatoire croissant négatif.
-
-  
-
-Entre 250 et 320 nm structure tertiaire
-
-  
-
-Transitions vibrationnelles des noyaux aromatiques (F phénylalaline, Y tyrosine, W tryptophane)
-
-  
-
-Les aa et leur absorption :
-
-  
-
-* 250-270 nm → phenylalanine (F)
-
-* 270-290 nm → tyrosine (Y)
-
-* 280-300 nm → tryptophane (W)
-
-  
-
-La longueur d'onde d'émission donne une information :
-
-  
-
-* sur l'environnement :
-
-  
-
-    * Blue shift vers des conditions plus polaire.
-
-    * Red shift vers des conditions plus apolaire.
-
-  
-
-* L'intensité sur les contraintes exercées sur le fluophore. Plus elles sont importantes càd plus l'intensité est importante car l'énergie ne peut pas être dissiper par du mouvement.
-
-  
-
-Aa                  | Longueur d'onde d'exicitation (nm)   | Longueur d'onde d'émission (nm)
-
---------------------|-------|--------------
-
-Tryptophane (W)     | 295   | 330 (apolaire) -> 360 (polaire)
-
-Tyrosine (Y)        | 280   | 300 (apolaire) -> 330 (polaire)
-
-W + Y               | 280   |
-
-  
-
-__Pharmacothérapie__ étudie les interactions moléculaires
-
-  
-
-La microcalorimétrie pour mesurer la l'enthalpie et les changements de capacité thermique lors des réactions :
-
-  
-
-Deux techniques :
-
-  
-
-* calorimètres à balayage différentiel Differential Scanning Calorimetry (DSC) structure et interactions specifique et non specifique
-
-* calorimétrie à titrage isotherme (ITC) caractériser des intéractions.
 
   
 
@@ -1324,63 +797,3 @@ Deux techniques :
 
   
 
-## Méthodes pour l'étude des protéines
-
-  
-
-Trois grandes catégories de méthodes pour sélectionner les protéines à
-
-étudier :
-
-  
-
-* Chromatographie
-
-* Gel-filtration
-
-* Électrophorèse
-
-  
-
-__Dénaturation__ perte de la conformation initiale d'une molécule biologique. Les protéines dénaturées perdent souvent leur fonction.
-
-  
-
-__Dialyse__ méthode de purification.
-
-  
-
-### Dénaturation des protéines
-
-  
-
-La dénaturation pour les protéines consiste notamment à briser les liaisons disulfures (cystéine).
-
-  
-
-La dénaturation peut être effectuée en :
-
-  
-
-* Modifiant le pH.
-
-* Augmentant la température.
-
-  
-
-La modification du pH aura pour conséquence de modifier les charges des aa chargés mais pas celles du cœur apolaire de l'enzyme.
-
-  
-  
-  
-  
-
-### Hydrolyse acide
-
-  
-
-Méthode pour séparer les acides aminés de la protéine.
-
-  
-
-On utilise notamment de l'acide chlorhydrique.

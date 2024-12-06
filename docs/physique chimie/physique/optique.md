@@ -113,3 +113,10 @@ Dans les conditions de Gauss, on obtient : $G_c \approx \frac{f'}{f'_{oeil}}$
 ## Deux lentilles minces accolées
 
 Deux lentilles minces accolées se comportent comme une seule : $\frac{1}{OA'} - \frac{1}{OA} = V_1 + V_2$
+
+## Couleur d'un objet
+
+La couleur d'un objet est celle de toutes les longueurs d'ondes non absorbées.
+
+!!! example
+    Les carottes absorbent la partie de lumière entre le violet et le vert. Elles apparaissent donc orangées.

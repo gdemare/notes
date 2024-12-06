@@ -12,7 +12,6 @@ $X$ de la loi $f(x)$ et de fonction de répartition $F(x)$ on note
     Dans un étude il faut commencer par se demander :
     * quel est l'indicateur mesuré ?
     * que sont les individus ?
-
 ## Indicateurs statistiques
 
 De positions et de distribution :
@@ -27,7 +26,6 @@ De dispersions :
 
 * covariance $cov(X,Y) = E((X - E(X)(Y -E(Y))$ dispersion de deux variables, l'un par rapport à l'autre.
 * variance (un cas particulier de la covariance) $var(X) = E(X-E(X))$.
-
 ## Estimateurs des indicateurs et théorie des grands nombres
 
 La moyenne empirique convergent vers l'espérance de la loi lorsque l'échantillon augmente.
@@ -43,17 +41,15 @@ L'application directe de la loi permet de déduire un intervalle de confiance po
 
 Avec $m$ la moyenne et $s$ l'écart type de l'échantillon.
 
-
 ## Décrire les individus
 
 Indicateurs :
 
-Tendance    | Dispersion    | Corrélation
-------------|---------------|----------------
-Moyenne     | Variance      | Coeff de Pearson
-Médiane     | Écart type    | Coeff de Spearman
-            |               | Covariance
-
+| Tendance | Dispersion | Corrélation       |
+| -------- | ---------- | ----------------- |
+| Moyenne  | Variance   | Coeff de Pearson  |
+| Médiane  | Écart type | Coeff de Spearman |
+|          |               | Covariance
 ## Autres 
 
 * Centroïde
