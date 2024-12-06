@@ -9,3 +9,6 @@ $2 \cdot \sigma^2$ à $\frac{1}{4} \cdot 2 \cdot \sigma ^ 2$
 tester si une methode permet une bonne estimation. il faut simuler une grand nombre de données puis s'assurer que les paramètres suivent une loi normale avec pour moyenne la valeur theorique.
 
 Dans le cas d'un nombre de donnnées limité, pour estimer les paramètres il est conseillé de faire du re-échanitllionnage (bootstrap). Multiplier le nombre d'échantillons généré. 
+
+$parametre -/+ loi normale \cdot \sigma}/ \sqrt{n}$
+
