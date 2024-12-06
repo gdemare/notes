@@ -92,10 +92,14 @@ Les tests statistiques servent à vérifier si les données obtenues sont comp
 | ------------- | ------------ | -------- |
 | $H_0$         | $1 − \alpha$ | $\alpha$ |
 | $H_1$        	| $\beta$      | $1 - \beta$ (appelé puissance du test) |
-Interprétation : Au risque $\alpha$ est accepté $H_1$ alors que c'est faux. Cela correspond au rejet à tort de l'hypothèse nulle.
+
+Interprétation : Au risque $\alpha$ est accepté $H_1$ alors que c'est faux cad que $H_0$ est vraie ou encore au rejet à tort de l'hypothèse nulle.
 
 !!! note
     Le risque $\alpha$ est généralement fixé à 5%.
+
+!!! note
+   Danse cas de tests multiples, il faut corriger p-valeurs pour limiter le risque $\alpha$.
 
 Règle de décision :
 
