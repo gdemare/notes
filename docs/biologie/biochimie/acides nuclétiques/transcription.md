@@ -45,7 +45,6 @@ Il existe moins d'anticodons que de codons. Plusieurs codons codent pour un acid
 Ce type d'appariement est dit bancal. Il permet de restreindre le nombre d'ARNt nécessaire pour traduire les codons et ainsi augmenter l'efficacité de la traduction.
 
 __Phase ouverte de lecture__ (ORF en anglais) séquence de codon traduite en acide aminé. Elle contient le codon initiateur et stop.
-
 ## Polymérisation des ribonucléotides
 
 La polymérisation des ribonucléotides nécessite :
@@ -70,7 +69,6 @@ __ARN polymérase__ enzyme qui ajoute les nucléotides.
 
 !!! note
     Il existe 4 ARN polymérase en fonction du type d'ARN qu'elles synthétisent.
-
 ### Initiation ou appareillage
 
 L'ADN possède des séquences signales qui indiquent à l'ARN polymérase où elle doit se positionner pour commencer la transcription. Ces séquences sont appelées promoteurs.
@@ -87,7 +85,6 @@ __Nucléotide+1__ premier nucléotide de la séquence codante.
 __Brin codant__ (par opposition au brin transcrit ou non codant) brin d'ADN qui contient la même séquence que celle transcrite en ARN. Par opposition au brin non codant ou transcrit.
 
 __ARN codant__ les séquences à l'intérieur de l'ARN qui seront traduites en protéines.
-
 ## Production de l'ARN chez les procaryotes
 
 Chez les procaryotes, des portions d'ARN dites intercistroniques séparent chaque région traduite en protéine. Un seul promoteur permet de générer un brin d'ARN traduisant plusieurs protéines. La séquence d'ADN qui regroupe l'ensemble des gènes est appelé opéron.
@@ -118,15 +115,12 @@ terminaison. Il en existe deux types terminaison :
 
 * intrinsèque.
 * rho dépendante.
-
 ### Terminaison intrinsèque
 
 À la fin, l'ADN possède une séquence traduite en ARN qui forme une épingle à cheveux suivit d'une queue en UUUUUUU. Cette séquence s'appelle séquence terminateur de transcription. La faiblesse des liaisons hydrogène provoque le décrochement de l'ADN polymérase du brin d'ADN et l'arrêt de la transcription.
-
 ### Terminaison Rho indépendante
 
 Une séquence d'ARN va provoquer l'appariement d'une protéine Rho. Celle-ci va remonter le brin d'ARN et le couper provoquant à désolidarisation du complexe polymérase.
-
 ## Production de l'ARN chez les eucaryotes
 
 Les cellules eucaryotes produisent trois types d'ARN polymérases :

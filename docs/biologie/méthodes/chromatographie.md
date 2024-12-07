@@ -7,7 +7,7 @@ La chromatographie est un ensemble de méthodes qui permet de séparer les prot�
 
 !!! note
     Il existe une chromatographie qui utilise des anticorps à la place des ions.
-### Exclusion
+## Exclusion
 
 La chromatographie d'exclusion ou chromatographie sur gel 
 
@@ -15,9 +15,8 @@ Les molécules passent dans des billes percées. Plus la molécule est grosse pl
 
 $v_{mort}$ volume d'élution des plus grosses molécules, celles qui ne peuvent pas entrer dans les billes.
 
-K_a coefficient de partage : $K_{a} = \frac{v_{élué} - v_{mort}}{v_{total} - v_{mort}}$.
-
-### Echanges d'ions 
+$K_a$ coefficient de partage : $K_{a} = \frac{v_{élué} - v_{mort}}{v_{total} - v_{mort}}$.
+## Echanges d'ions 
 
 Les protéines sont mises dans une colonne échangeuse avec des billes qui possèdent une charge opposée à la protéine d'intérêt. Les protéines sont détachées progressivement par plusieurs lavages (le solvant est appelé analyte). Il casse les interactions faibles càd de type :
 
@@ -84,7 +83,7 @@ Trois types de chromatographies :
 * D'échange d'ions qui consiste à filtrer par la charge.
 * D'affinité qui consiste à filtrer par le substrat.
 
-#### La chromatographie sur gel (ou d'exclusion sur gel)
+### La chromatographie sur gel ou d'exclusion sur gel
 
 On fait circuler la solution dans une colonne échangeuse contenant des
 billes poreuses. Les grosses molécules sortiront rapidement tandis que
@@ -115,12 +114,6 @@ Propriété physique des molécules
 
 Par ce pourrait servir à identifier une erreur
 
-Affinité
-
-* Biotine (vitamine B8) avec le strept.
-* Du nickel avec l'histidine.
-* Hydrophobe avec des chaines carbonées. De grande taille pour les petites molécules et petite avec les grandes molécules pour
-* grandes molécules non polaire avec de petites chaines carbonées (sinon les molécules restent collées).
 
 Baisse pH et solvant.
 
