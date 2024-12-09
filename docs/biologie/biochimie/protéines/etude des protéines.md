@@ -15,7 +15,7 @@ Méthodes pour sélectionner les protéines à étudier :
 
 Etude des protéines avec la lumière :
 
-* dichoïsme circulaire
+* dichroïsme circulaire
 
 Les aa et leur absorption :
 
@@ -23,7 +23,7 @@ Les aa et leur absorption :
 * 270-290 nm → tyrosine (Y)
 * 280-300 nm → tryptophane (W)
 
-Les intéractions par [[calorimetrie]]
+Les interactions par [[calorimetrie]]
 
 ## Chromatographie 
 
@@ -83,15 +83,14 @@ Aa                  | Longueur d'onde d'exicitation (nm)   | Longueur 
 Tryptophane (W)     | 295   | 330 (apolaire) - 360 (polaire)
 Tyrosine (Y)        | 280   | 300 (apolaire) - 330 (polaire)
 W + Y               | 280   |
-
 ### Western Blot
 
 ou buvard de western
 
 Il permet de détecter et d’identifier les protéines et leur concentration. Il faut préalablement dénaturer les protéines.
 
-    Séparation : Les protéines sont séparées par taille par électrophorèse.
+Séparation : Les protéines sont séparées par taille par électrophorèse.
 
-    Transfert : Elles sont ensuite transférées sur un gel en appliquant un courant électrique.
+Transfert : Elles sont ensuite transférées sur un gel en appliquant un courant électrique.
 
-    Révélation : On ajoute un anticorps spécifique à la protéine étudiée puis d’un anticorps secondaire capable d’émettre de la lumière en présence d’un substrat.
+Révélation : On ajoute un anticorps spécifique à la protéine étudiée puis d’un anticorps secondaire capable d’émettre de la lumière en présence d’un substrat.
