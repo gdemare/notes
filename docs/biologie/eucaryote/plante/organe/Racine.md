@@ -4,7 +4,7 @@ Les racines servent :
 * absorber l'eau et les minéraux.
 * stocker les glucides (souvent).
 
-L'absorption est effectuée par des poils absorbants qui se trouvent au niveau des apex (extrémités) des racines. Les poils absorbants sont des extensions cellulaires des cellules épidermiques. Il existe deux formes principales de système racinaire :
+L'absorption est effectuée par des poils absorbants qui se trouvent au niveau des apex (extrémités) des racines. Les poils absorbants sont des extensions cellulaires des cellules épidermiques. Il existe deux formes principales de système racinaires :
 
 * pivotant qui s'enfonce profondément dans le sol.
 * fasciculé qui se répand à la surface du sol.
@@ -55,15 +55,15 @@ La racine se compose d'un cylindre central (appelé stèle) entouré d'un cortex
 
 Le cortex est composé (de l'extérieur vers l'intérieur) :
 
-* Assise pilifère qui produit le rhizoderme.
-* Exoderme la couche qui deviendra subérisées
-* Parenchyme cortical tissu de remplissage.
+* d'une assise pilifère qui produit le rhizoderme.
+* d'un exoderme la couche qui deviendra subérisées
+* du parenchyme cortical tissu de remplissage.
 
 La stèle est composée :
 
-* Couche de cellules jointives libéro-subérines qui forme une barrière imperméable qui empêche la circulation des molécules.
-* Péricycle
-* Xylèmes et phloèmes, on peut y trouver également de la moelle au milieu.
+* d'une couche de cellules jointives libéro-subérines qui forme une barrière imperméable qui empêche la circulation des molécules.
+* du péricycle.
+* du xylèmes et phloèmes, on peut y trouver également de la moelle au milieu.
 
 !!! note
     Lorsque la stèle est plus petite que le cortex on se situe généralement dans une racine.

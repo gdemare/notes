@@ -1,14 +1,17 @@
-L'azote est un macroélément essentiel qui entre dans la [[composition des êtres vivants]]. Chez les plantes, son absorption se fait au niveau de la racine par un transport actif. La concentration dans la plante étant plus forte que dans le sol. Les plantes sont capables d'assimiler l'azote sous deux formes :
+L'azote est un macroélément essentiel qui entre dans la [[composition des êtres vivants]]. Chez les plantes, son absorption se fait au niveau de la racine par un transport actif. La concentration dans la plante étant plus forte que celle dans le sol.
 
-* Ion nitrate $NO_3^-$
-* Ion ammonium $NH_4^+$ ou Ammoniac $NH_3$
+Les plantes sont capables d'assimiler l'azote sous deux formes :
 
-Pour l'ion nitrate, la plante a besoin de réaliser une réduction en $NH_4^+$ en avant de pouvoir l'utiliser.
+* Ion nitrate $NO_3^-$.
+* Ion ammonium $NH_4^+$ ou ammoniac $NH_3$.
+
+!!! note
+	Pour l'ion nitrate, la plante a besoin de réaliser une réduction en $NH_4^+$ en avant de pouvoir l'utiliser.
 
 Un manque d'azote se traduit par :
 
-* Apparition d'une chlorose des feuilles.
-* Des plantes de petites tailles.
+* apparition d'une chlorose des feuilles.
+* des plantes de petites tailles.
 
 Trois processus rendent l'azote disponible pour les plantes :
 

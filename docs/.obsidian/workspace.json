@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/biochimie/acides nuclétiques/traduction.md",
+                "file": "biologie/eucaryote/physiologie animale/circulation et échanges gazeux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "traduction"
+              "title": "circulation et échanges gazeux"
             }
           }
         ]
@@ -162,8 +162,26 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "87dc442f218cc64f",
+  "active": "d65b2951c7d00281",
   "lastOpenFiles": [
+    "biologie/eucaryote/physiologie animale/système urinaire/reins.md",
+    "biologie/eucaryote/physiologie animale/circulation et échanges gazeux.md",
+    "biologie/eucaryote/physiologie animale/comportement.md",
+    "biologie/eucaryote/physiologie animale/muscle.md",
+    "biologie/eucaryote/physiologie animale/osmorégulation et excrétion.md",
+    "biologie/eucaryote/plante/azote.md",
+    "biologie/eucaryote/plante/nutrition végétale.md",
+    "biologie/eucaryote/plante/régulation de l'hydrotranspiration.md",
+    "biologie/eucaryote/plante/organisation végétale.md",
+    "biologie/eucaryote/plante/adaptation des végétaux.md",
+    "biologie/eucaryote/plante/organe/fleur et fruit.md",
+    "biologie/eucaryote/plante/réponses des végétaux aux stimuli.md",
+    "biologie/eucaryote/plante/transport hydrique.md",
+    "biologie/eucaryote/plante/organe/racine.md",
+    "biologie/eucaryote/plante/organe/feuille.md",
+    "biologie/eucaryote/plante/croissance/croissance.md",
+    "biologie/eucaryote/plante/croissance/Embryogénèse.md",
+    "biologie/biochimie/acides nuclétiques/traduction.md",
     "biologie/biochimie/protéines/etude des protéines.md",
     "biologie/biochimie/protéines/étude des protéines.md",
     "biologie/méthodes/chromatographie.md",
@@ -172,24 +190,6 @@
     "biologie/biochimie/protéines/stereochimie.md",
     "biologie/biochimie/protéines/proteine.md",
     "biologie/biochimie/protéines/projet_transcriptomique.md",
-    "biologie/méthodes/calorimetrie.md",
-    "biologie/méthodes/electrophorèse.md",
-    "biologie/biochimie/acides nuclétiques/traduction.md",
-    "biologie/biochimie/protéines/protéine.md",
-    "biologie/biochimie/acides nuclétiques/transcription.md",
-    "biologie/cellule/bactéries/Bactéries.md",
-    "biologie/méthodes/ADN et ARN/transcriptomique spatiale.md",
-    "biologie/méthodes/ordres de grandeur.md",
-    "biologie/biochimie/acides nuclétiques/ARN.md",
-    "biologie/technique/cytométrie de flux.md",
-    "physique chimie/physique/optique.md",
-    "physique chimie/physique classique.md",
-    "mathématique/statistique/statistique.md",
-    "mathématique/statistique/probabilité.md",
-    "mathématique/statistique/probabilité et statistique.md",
-    "biologie/biochimie/protéines/enzyme/cinétique enzymatique.md",
-    "data science/modèles/classification/ANOVA.md",
-    "mathématique/statistique/tests statistiques.md",
     "biologie/méthodes/analyse des résultats",
     "biologie/méthodes/protéines",
     "biologie/méthodes/clonage",

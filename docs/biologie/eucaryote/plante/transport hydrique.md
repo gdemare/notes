@@ -16,9 +16,9 @@ Les minéraux entrent dans la racine au niveau des extrémités notamment par le
 * bloquer les substances toxiques.
 
 !!! note
-    Dans les arbres avec de larges vaisseaux l'eau peut monter entre 24km/h à 72 km/h.
+    Dans les arbres avec de larges vaisseaux, l'eau peut monter entre 24km/h à 72 km/h.
 
-L'eau est perdue par transpiration
+L'eau est perdue par transpiration :
 
 * poussé de l'eau des racines.
 * aspirations par les feuilles.
@@ -42,9 +42,7 @@ Les mouvements d'eau entre l'environnement, la plante et l'intérieur de la plan
 L'état normal d'une cellule végétale est la turgescence. La vacuole est gonflée et exerce une pression sur les parois de la cellule.
 ## L'entrée d'eau dans la racine
 
-Pour que l'eau entre dans la plante il faut que le potentiel hydrique
-des racines soit inférieur à celui du sol
-$\psi _{plante} \lt \psi _{environnement}$. Les plantes doivent créer les conditions adéquates pour permettre à l'eau et aux minéraux de rentrer dans la racine.
+Pour que l'eau entre dans la plante il faut que le potentiel hydrique des racines soit inférieur à celui du sol $\psi _{plante} \lt \psi _{environnement}$. Les plantes doivent créer les conditions adéquates pour permettre à l'eau et aux minéraux de rentrer dans la racine.
 
 !!! note 
     Les plantes peuvent être classées dans trois catégories en fonction de leur tolérance à la concentration de molécules osmotiquement actives dans le sol car pour pouvoir attirer l'eau, elles doivent être capables d'accumuler une forte concentration d'osmolites : Halophyte > Glycophyte résistante > Glycophyte sensible.
@@ -61,7 +59,7 @@ La tension exercée par une particule est :
 
 $$\psi _m = \frac{- 2 \cdot T}{r}$$
 * $r$ le rayon en $m$.
-* $T$ la tension superficielle en Mpa.
+* $T$ la tension superficielle en $Mpa$.
 
 Un sol est constitué de la combinaison de trois éléments :
 
@@ -122,5 +120,3 @@ Pour éviter que les parties aériennes se retrouve de sans eau, les vaisseaux d
 ### Taille limite d'un arbre
 
 La chaine d'eau est soumise à deux forces opposées qui limitent la taille maximum des arbres à 110m. La gravité tire la chaîne d'eau vers le bas tandis que la transpiration la tire vers le haut. Il en résulte une dépression qui a un certain peut briser la chaîne et entrainer une cavitation qui conduira à la mort de l'arbre.
-
-

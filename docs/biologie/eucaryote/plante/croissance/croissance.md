@@ -107,7 +107,6 @@ __Dominance apicale__ inhibition de la croissance des bourgeons axillaires par l
 
 !!! note
     Chez les certains monocotylédones, le méristème se situe à la base des tiges et des feuilles. Il est qualifié d'intercalaire et permet à la plante de continuer à pousser lorsque ces parties les plus exposées ont été détruites notamment par les herbivores comme le gazon.
-
 ## La croissance secondaire
 
 Les méristèmes latéraux sont à l'origine de la croissance secondaire. Ils sont composés de deux structures :

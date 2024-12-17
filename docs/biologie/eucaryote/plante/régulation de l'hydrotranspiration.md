@@ -9,7 +9,7 @@ Ils doivent permettre d'équilibrer les besoins en eau avec ceux de la photosynt
 
 __Hydathode__ stomate aquifère. 
 
-L'importante surface et le faible volume des feuilles facilitent les échanges gazeux de la photosynthèse (libérer du $O_2$ et absorber du $CO_2$). Les importants besoins en eau sont une conséquence des échanges gazeux. 95% de l'eau est perdue
+L'importante surface et le faible volume des feuilles facilitent les échanges gazeux de la photosynthèse (libérer du $O_2$ et absorber du $CO_2$). Les importants besoins en eau sont une conséquence des échanges gazeux. Il représente 95% de l'eau est perdue par la plante.
 
 !!! note
     La transpiration a un effet de refroidissement qui permet d'éviter la dénaturation de protéines.
@@ -21,42 +21,41 @@ Les stomates possèdent des chloroplastes contrairement aux cellules annexes.
 
 Le nombre, la taille et les caractéristiques des stomates dépendent de :
 
-* De l'espèces
-* Des conditions de vie
+* de l'espèces.
+* des conditions de vie.
 
-En moyenne, la densité des stomates est de 20 000 par $cm^2$.
+En moyenne, la densité des stomates est de $20 000\ cm^{-2}$.
 
 !!! note
     La densité de stomates semble avoir diminuée depuis que la quantité de $CO_2$ dans l'atmosphère augmente.
 
 Il existe 2 grands types de stomates :
 
-* Eudicotylédone
-* Stomates en T chez les graminées (Monocotylédone)
+* Eudicotylédone.
+* Stomates en T chez les graminées (Monocotylédone).
 
 L'ouverture ou la fermeture dépend de la pression osmotique. Le stomate s'ouvre lorsque la cellule devient turgescente.
 
 L'entrée d'eau est créée notamment par l'augmentation de la concentration de $K^+$ dans le cytosol :
 
-1. La sortie $H^+$ modifie le potentiel d'équilibre de $K^+$.
-2. Le $K^+$ entre dans la cellule.
+1. la sortie $H^+$ modifie le potentiel d'équilibre de $K^+$.
+2. le $K^+$ entre dans la cellule.
 
 !!! note
-    d'autres molécules sont également utilisées comme l'entrée du $Cl^-$ par des transporteurs symport avec $H^+$ ou l'entrée de hexoses dans la vacuole.
-
+    D'autres molécules sont également utilisées pour réguler l'osmose comme l'entrée du $Cl^-$ par des transporteurs symport avec $H^+$ ou l'entrée de hexoses dans la vacuole.
 ### Régulation de l'ouverture et de la fermeture des stomates
 
-La régulation de l'ouverture et de la fermeture des stomates peut être dû à plusieurs facteurs :
+La régulation de l'ouverture et de la fermeture des stomates dépend de plusieurs facteurs :
 
-* La lumière par l'intermédiaire de récepteurs sensibles à la lumière bleue.
-* Les horloges circadiennes.
-* La température.
-* Le taux de $CO_2$.
+* la lumière par l'intermédiaire de récepteurs sensibles à la lumière bleue.
+* les horloges circadiennes.
+* la température.
+* le taux de $CO_2$.
 
-Des stress environnementaux peuvent induire une fermeture des stomates.
+!!! note
+	Des stress environnementaux peuvent induire une fermeture des stomates.
 
 Par exemple, en cas de manque d'eau, les cellules de la racine sécrètent une hormone de stress appelée l'acide abscissique. Elle rejoint les stomates en passant par le xylème et déclenche une voie de signalisation impliquant des canaux calciques. L'entrée de $Ca^{2+}$ déclenche l'arrêt des pompes à protons et la sortie de $K^+$ des cellules de garde.
-
 ### Adaptation au stress hydrique
 
 Certaines plantes ont un métabolisme particulier appelé métabolisme d'acide des Crassulacées (CAM). Elles ouvrent leurs stomates la nuit et emmagasinent le $CO_2$ sous forme d'acide organique qu'elles utilisent la journée pour la photosynthèse. Elles évitent ainsi la perte d'eau lorsqu'il fait trop chaud.

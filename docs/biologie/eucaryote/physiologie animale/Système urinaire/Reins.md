@@ -12,7 +12,6 @@ Réguler l'apport et la perte pour que les cellules ne meurent pas en éclatant 
 
 !!! example 
     Le maintien des concentrations de solutés se fait au sein de structures spécialisés comme les reins chez les vertébrés.
-
 # Le système urinaire
 
 Le système urinaire est composé de :
@@ -98,7 +97,6 @@ L'osmolarité du sang est régulé par des hormones (exemple l'aldostérone) qui
 | Na, Cl | Distal et collecteur |         |
 
 Les reins maintiennent aussi l\'équilibre acide-base par l'excrétion d'ions H+ dans l'urine et en réabsorbant du bicarbonate (JICO3-).
-
 ### La structure du rein
 
 Le rein est divisé en deux parties : cortex et médullaire.
@@ -117,7 +115,6 @@ Une organisation particulière entre les cellules
 Forme de particulière des cellules.
 
 l'élimination des déchets et le maintien de la compostion du milieu interne.
-
 ## La stabilité du milieu
 
 Le maintien de la composition du milieu cellulaire est vital pour les organismes. Il se l'apport en nutriment et se débarrasser des molécules toxiques Cela est matérialisé par l'apparition de systèmes complexes dédier à chacune de ces activités. Il doit également pouvoir se débarrasser des déchets métaboliques potentiellement toxiques.

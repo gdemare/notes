@@ -1,4 +1,4 @@
-L'adaptations des plantes à leur environnement càd la spéciation des plantes a leur environnement a lieu généralement en trois étapes :
+L'adaptations des plantes à leur environnement càd la spéciation des plantes à leur environnement a lieu généralement en trois étapes :
 
 1. acclimatation la plante à son environnement.
 2. adaptation par la sélection naturelle des caractères les plus avantageux à l'environnement.
@@ -72,8 +72,7 @@ Les stratégies principales que les plantes ont mis en place pour répondre aux 
 |                   | Évitement  | plantes caduques et reviviscentes |
 | Métabolisme actif | Endurance  | Sclérophyte (ex : laurier rose)   |
 |                   | Résistance | Malacophyte (plante grasse)       |
-
-__Bloom explosion__ subite de la végétation.
+__Bloom__ explosion subite de la végétation.
 
 __Plante décidue__ (ou caduque ou caducifoliée) plante qui perd ses feuilles. Cette stratégie est de type évitement et dormance. Elle est présente à la fois chez des plantes de milieux arides ou soumis au froid et au gel.
 

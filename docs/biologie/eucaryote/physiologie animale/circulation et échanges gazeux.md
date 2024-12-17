@@ -1,8 +1,8 @@
-Une des fonctions vitales pour les organismes est de pouvoir échanger des substances avec le milieu extérieur. Ces échanges ont lieu au niveau des cellules par la diffusion. La diffusion est un phénomène physique qui dépend de plusieurs variables. Elle est suffisamment efficace pour les organismes unicellulaires pour avoir lieu au niveau de la membrane plasmique pour permettre, par exemple l'acheminement du $O_2$ et des nutriments et, l'expulsion du $CO_2$.
+Une des fonctions vitales pour les organismes est de pouvoir échanger des substances avec le milieu extérieur. Ces échanges ont lieu au niveau des cellules par la diffusion. La diffusion est un phénomène physique qui dépend de plusieurs variables. Elle est suffisamment efficace pour les organismes unicellulaires pour avoir lieu au niveau de la membrane plasmique et permettre, par exemple, l'acheminement du $O_2$ et des nutriments et l'expulsion du $CO_2$.
 
 Pour les organismes multicellulaires, le temps de diffusion des substances n'est pas assez rapide. Cela constitue une contrainte que l'on retrouve dans les plans d'organisation :
 
-* soit toutes les cellules en contact avec le milieu. Cavité gastro vasculaire chez les organismes aquatiques 2 couches de cellules. Une interne qui tapisse la cavité gastro vasculaire. Toutes les cellules en contact avec le milieu les nutriments digérés dans la cavité vers les cellules externes.
+* soit toutes les cellules sont en contact avec le milieu. Cavité gastro vasculaire chez les organismes aquatiques 2 couches de cellules. Une interne qui tapisse la cavité gastro vasculaire. Toutes les cellules en contact avec le milieu les nutriments digérés dans la cavité vers les cellules externes.
 * lorsqu'il y a plusieurs couches de cellules la diffusion est trop lentes. Ils ont généralement recours à deux systèmes :
 
     * de transport.
@@ -33,7 +33,6 @@ Par rapport au système ouvert le système clos est :
 * plus efficace car il permet de maintenir une pression hydrostatique forte ce qui permet aux animaux d'être plus gros et actif.
 * consomme plus d'énergie.
 * adapter pour réguler la distribution du sang aux divers parties de l'organisme en fonction des besoins.
-
 ### Ouvert
 
 L'hémolymphe est un liquide de même composition que le liquide inertiel qui entoure les cellules. Les organes sont situés dans des cavités appelées sinus où ont lieu les échanges.
@@ -45,7 +44,6 @@ Les mouvements du corps compriment les sinus ce qui aide à la circulation.
 
 !!! note
     Le système cardiovasculaire ouvert permet d'autres fonctions. Par exemple, il permet aux araignées d'étirer leur patte.
-
 ### Clos ou fermé
 
 Dans le système clos, le liquide qui circule dans un réseau de vaisseaux est le sang. Sa composition est différente du liquide interstitiel.

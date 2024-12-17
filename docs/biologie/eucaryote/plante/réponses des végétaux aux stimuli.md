@@ -3,32 +3,32 @@ Les végétaux perçoivent et réagissent aux stimulus internes et externes.
 !!! note
 	Contrairement aux Animaux, les plantes de peuvent pas réagir en s'approchant de conditions favorables et s'éloignant de celles qui sont néfastes.
 
-Pour les Plantes immobiles en modifiant leur croissance et leur développement
+Pour les Plantes immobiles en modifiant leur croissance et leur développement.
 
 Différence importante en morphologie entre les individus.
 
-__Étoilement__ tige blanche sans feuilles pour éviter endommager limiter la dépense d'énergie sans produire de la chrolophyle.
+__Étoilement__ tige blanche sans feuilles pour éviter endommager limiter la dépense d'énergie sans produire de la chlorophylle.
 
 Peu évaporation racine
 
-Lumière importante dans les changements biochimiques
+La lumière joue un rôle important dans les changements biochimiques comm dans :
+- le verdissement.
+- la réaction de croissance orientée.
+- le tropisme.
 
-Verdissement
-
-Réaction de croissance orientée tropisme
-
-Différence de croissance de taille de cellules élongation
+!!! note
+	La croissance est orienté par différentes tailles d'élongation des cellules 
 
 Rapport entre les hormones qui détermine les réponse cellulaires Hormones :
 
-* L'auxine horme de croissance herbicide et bouture.
-* L'éthylène qui est un gaz provoque le vieiellessement des cellules végétales. Il provoque notamment la perte de feuilles et le murissement des fruits.
+* L'auxine hormone de croissance herbicide et bouture.
+* L'éthylène qui est un gaz provoque le vieillissement des cellules végétales. Il provoque notamment la perte de feuilles et le murissement des fruits.
 
 !!! note
 	A l'époque, les arbres situés à proximité des lampadaires à gaz perdaient leurs feuilles.
 
 !!! note
-	Le murrissement des fruits est décidé en controlant la présence d'éthylène ce qui agit sur l'inexpression du gène et permet de choisir quand le fruit doit murir. Cela permet par exemple d'avoir des pommes toute  l'annéee en les stockant dans des engards sous vides. 
+	Le mûrissement des fruits est décidé en contrôlant la présence d'éthylène ce qui agit sur l'inexpression du gène et permet de choisir quand le fruit doit murir. Cela permet par exemple d'avoir des pommes toute  l'annéee en les stockant dans des hangars sous vides. 
 
 Lumière facteur particulièrement important pour la survie la croissance plante qui sont sensible :
 
@@ -36,24 +36,22 @@ Lumière facteur particulièrement important pour la survie la croissance plante
 * son intensité.
 * sa longueur d'onde. C'est le facteur le plus important.
 
-2 groupes de phorécepteurs plus
+Il existe deux groupes de photorécepteurs sensibles à la lumière :
+- bleue, les cytochromes.
+- rouge, les phytochromes.
 
-2 groupes de photorécepteurs
+!!! note
+	Durant le jour, les processus biochimiques varient en réaction aux changements de températures,  d'humidité, et de luminosité.
 
-Phtorécepteur sensible à la lumière blueue crytochrome
-
-Phytochrome rouge
-
-Oscillation des processus subissent des variation au cours du jour en réaction au changement de température et d'humidité luminiosité
-
-Cycle physiologique 24h rythme circadien entre 21h et 26h qui se synchronise grâce à des événements externes.
+Le rythme physiologique des êtres vivants est compris entre 21h et 26h. Il se synchronise sur 24h (circadien) grâce à des événements externes.
 
 __Photopériodisme__ longueur d'onde de la nuit.
 
-Équilibre entre deux formes d'un même récepteur.
+L'ajustement et l'enchainement des processus biochimiques se fait par la lumière se fait par l'équilibre entre deux formes d'un même récepteur qui réagit à la lumière située dans le rouge ou le rouge lointain.
 
-Réversible rouge et rouge lointain.
+D'autres organes permettent de détecter et réagir à d'autres aspects de leur environnement, par exemple :
 
-Gravité statolithe plaste spécialisé coiffe
+- la gravité. La gravité est détecté grâce à des statolithe, des plastes spécialisés qui se situent généralement dans la coiffe.
+- le touché.
 
-Trouché thigmomorphogenèse réaction au touché.
+**Thigmomorphogenèse** réaction au touché.

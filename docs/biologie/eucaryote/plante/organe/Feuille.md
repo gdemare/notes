@@ -19,8 +19,8 @@ Chaque nervure est entourée d'une gaine péri fasciculaire càd un renforcement
 
 La feuille est formée de trois parties :
 
-* limbe partie large et peu épaisse spécialisée dans la photosynthèse.
-* pétiole l'extension qui relie la limbe à la tige.
-* gaine point d'ancrage du pétiole à la tige. On y trouve parfois des stipules, des pseudo feuilles.
+* la limbe, une partie large et peu épaisse spécialisée dans la photosynthèse.
+* le pétiole l'extension qui relie la limbe à la tige.
+* la gaine qui est le point d'ancrage du pétiole à la tige. On y trouve parfois des stipules, des pseudo feuilles.
 
 L'emplacement des feuilles sur la tige permet d'optimiser la quantité de lumière reçue sur chaque feuille.
