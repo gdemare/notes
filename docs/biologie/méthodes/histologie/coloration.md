@@ -14,16 +14,14 @@ On ajoute ensuite des produits pour prévenir conservation et de la déshydratat
 Les tissus sont colorés grâce aux réactions acido-basiques. Il existe
 deux types de coloration :
 
-* Bleue colore les acides (exemple : le bleu de méthyle).
-* Rouge colore les bases.
+* bleue colore les acides (exemple : le bleu de méthyle).
+* rouge colore les bases (comme l'ADN, le collagène).
 
-ADN, collagène
+!!! note
+    Il existe des mélanges de ces deux solutions appelés trichrome de Masson.
 
-Il existe des mélanges de ces deux solutions appelés trichrome de Masson.
-
-Mettre en évidence des propriétés de réducteur
-
-Réaction avec la liqueur de Fehling (bleu passa au rouge).
+- Pour mettre en évidence des propriétés de réducteur, il est possible d'utiliser la réaction avec la liqueur de Fehling (bleu passa au rouge).
+- Pour colorer les noyaux, DAPI qui est un intercalant d'ADN.
 ## Estimation de la mort cellulaire 
 
 ### Marqueur des cellules vivantes
