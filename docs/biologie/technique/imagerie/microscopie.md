@@ -1,10 +1,11 @@
 [[ordres de grandeur]]
 Source photons ou électron.
 
-Il existe deux grands types de microscopie :
+Les principaux types de microscopie sont :
 
 - optique (ou photonique)
 - électronique.
+- à force atomique.
 
 ### Calcul du grossissement 
 
