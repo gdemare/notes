@@ -57,26 +57,26 @@ La limite de résolution correspond à la mesure de la diffraction du système o
 
 La résolution peut se mesurer comme :
 
-* La distance minimale qui permet de distinguer deux points.
-* Le rayon d'un point appelé resel (plus il est grand, moins bonne est la résolution).
-
-Ouverture numérique qui correspond à la taille de l'objet :
-
-($ON = \ n.\sin(\theta)$)
-
-$$R_{latérale} = \frac{\lambda}{2.ON}$$
-
-Mesurer le rayon du disque de l'image.
-
-$$R_{latérale} = \frac{2\lambda}{ON²} =$$
+* la distance minimale qui permet de distinguer deux points.
+* le rayon d'un point appelé resel (plus il est grand, moins bonne est la résolution).
 
 La résolution dépend :
 
-* Du diamètre de l'objectif. Plus il est grand, moins il y a de diffraction et plus la résolution est basse.
+* Du diamètre de l'objectif appelé également ouverture numérique. Elle correspond à l'angle de collecte de la lumière : $ON = n \cdot \sin(\theta)$. Plus il est grand, moins il y a de diffraction et plus la résolution est basse.
 * Des longueurs d'ondes utilisées.
 
 !!! note
     La microscopie électronique permet une meilleure résolution car la longueur d'onde des électrons est beaucoup plus faible que celle de la lumière.
+
+!!! note
+    La limite de résolution dépend de l'ouverture numérique est $R_{latérale} = \frac{\lambda}{2 \cdot ON}$.
+
+!!! note
+    La mesure d'u rayon du disque de l'image est $R_{latérale} = \frac{2 \cdot \lambda}{{ON}^2}$
+
+!!! note
+    L'ouverture numérique des meilleurs microscopes photoniques se situe au alentour de 1,4.
+
 ### Enregistrement d'une image
 
 Dans le cas d'une image numérique, il faut déterminer la résolution optimale pour enregistrer une image. Il faut à la fois conserver le plus d'information limitant la taille du fichier.
