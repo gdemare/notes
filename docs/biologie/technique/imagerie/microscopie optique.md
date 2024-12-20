@@ -1,6 +1,8 @@
 !!! note
   L'infrarouge pénètre mieux les tissus (phénomène de diffusion plus faible).
 
+- confocal ouverture au niveau de l'optique qui obstrue les rayons qui ne sont pas dans le champs. Par exemple, les microscopes a spinningdisk possèdent un disques avec de nombreuses petites ouvertures.
+
 ### Microscopie à fluorescence
 
 La fluorescence permet de diminuer la résolution théoriquement à 10nm (généralement 40nm).
@@ -13,7 +15,7 @@ Microscopie moléculaire :
   - FRET l'émission de fluorescence se fait par l'interation entre deux molécules. Elle dépend de la distance entre elles.
   - FSC évolution de l'intensité de la fluorescence dans une zone d'intérêt.
 - localisation :
-  - PALM/STORM faire clignoter les molécules aléatoirement puis de reconstruire une  
+  - PALM/STORM faire clignoter les molécules aléatoirement puis de reconstruire l'image après avoir reconstuit le centre de chaque point càd éliminer la tâche d'Aery.  
   - STED Le principe est d'éteindre la zone autour d'un point d'intérêt avec un laser (donus).
  
 !!! note
@@ -30,7 +32,6 @@ Microscopie cellulaire :
 
 !!! note
   Les caractèristiques de la feuille détermine la qualité de l'image.
-
 
 ### Microscopie optique
 
@@ -82,7 +83,7 @@ Microscopie confocale
 
 L'échantillon est éclairé de façon graduelle.
 
-Photoblanchiment perte de la faculté d'une molécule à être fluorescente. Elle se produit pour donner suite à la l'oxydation.
+__Photoblanchiment__ perte de la faculté d'une molécule à être fluorescente. Elle se produit pour donner suite à l'oxydation.
 
 Utilisé pour suivre la cinétique en créant une zone bleacher comme référence.
 
