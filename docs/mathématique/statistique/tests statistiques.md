@@ -173,7 +173,8 @@ L'ANalysis Of Variance (ANOVA) sert à savoir si une variable qualitative
 
 Degré de liberté : $Effectif - 2$
 
-MANOVA : dans le cas où il existe plusieurs variables quantitatives à expliquer on utilise MANOVA (Multivariate analysis of variance).
+!!! note
+	Dans le cas où il existe plusieurs variables quantitatives à expliquer on utilise MANOVA (Multivariate analysis of variance).
 
 $y = \mu + f\left( x_{1},\ \ldots,x_{i} \right) + \varepsilon$
 
@@ -184,6 +185,8 @@ Avec :
 
 !!! note
     Lorsqu'il n'y a que deux modalités, il est possible d'utiliser un test de student.
+
+Pour comparer les groupes deux à deux, il faut utiliser un test de Tuckey.
 ### Deux variables qualitatives
 
 Degré de liberté : ${(modalité}_{ligne} - 1)({modalité}_{colonne} - 1)$
@@ -194,8 +197,8 @@ Il faut faire :
 2. Tableau des effectifs théoriques : $p\left( A \middle| B \right) \cdot p\left( B \middle| A \right) \cdot eff\ tot$ ou directement $\frac{N_{ligne\ total} \times N_{colonne\ total}}{N_{total}}$.
 3. Calcul du khi2 théorique pour chaque croissement de modalité : $\frac{{(n}_{obs} - n_{theo})^2}{n_{theo}}$.
 4. Somme des valeurs pour chaque modalité et calcul de la statistique :
-    1. LOI.KHIDEUX.INVERSE.DROITE(proba; degré de liberté)
-    2. P-value : LOI.KHIDEUX.DROITE(valeur; degré de liberté)
+    1. `LOI.KHIDEUX.INVERSE.DROITE(proba; degré de liberté)`
+    2. P-value : `LOI.KHIDEUX.DROITE(valeur; degré de liberté)`
 ### Deux variables numériques (quantitatives)
 
 Degré de liberté :
@@ -250,7 +253,7 @@ On peut aussi utiliser $BF_{01} = \frac{1}{BF_{10}}$ pour exprimer la probabilit
 
 Jeffreys (1961) a proposé une interprétation de la force des preuves fournies par le facteur de Bayes :
 
-|BF10BF_{10}BF10​|Interprétation des preuves en faveur de H1H_1H1​|
+|$BF_{10}$ ​|Interprétation des preuves en faveur de $H_1$​|
 |---|---|
 |1 à 3|Évidence faible|
 |3 à 10|Évidence modérée|
@@ -258,11 +261,11 @@ Jeffreys (1961) a proposé une interprétation de la force des preuves fournies 
 |30 à 100|Évidence très forte|
 |> 100|Évidence extrêmement forte|
 
-Inversement, des valeurs de BF10BF_{10}BF10​ inférieures à 1 (par exemple, entre 0,1 et 0,33) indiquent un soutien croissant pour H0H_0H0​.
+Inversement, des valeurs de $BF_{10}$​ inférieures à 1 (par exemple, entre 0,1 et 0,33) indiquent un soutien croissant pour H0H_0H0​.
 
 ### Avantages du facteur de Bayes
 
-1. **Quantification de l’évidence** : Il donne une mesure continue du soutien des données pour H0H_0H0​ ou H1H_1H1​, contrairement aux p-valeurs qui n'indiquent que la probabilité de voir des données aussi extrêmes si H0H_0H0​ est vraie.
+1. **Quantification de l’évidence** : Il donne une mesure continue du soutien des données pour H0H_0H0​ ou H1H_1H1​, contrairement aux p-valeurs qui n'indiquent que la probabilité de voir des données aussi extrêmes si $H_0$​ est vraie.
 2. **Comparaison d'hypothèses** : Le facteur de Bayes permet une comparaison directe entre hypothèses, utile dans des contextes où on veut des preuves pour ou contre H0H_0H0​.
 3. **Incorporation de l’information a priori** : En utilisant des distributions a priori, le facteur de Bayes permet de prendre en compte des connaissances préalables ou des hypothèses initiales.
 
