@@ -26,7 +26,7 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 * **(5)** effectifs théoriques $\gt 5$.
 
 !!! note
-		Il est possible d'estimer la p-valeur d'un test en générant un grand nombre (au moins 1000) d'expériences aléatoires.
+	Il est possible d'estimer la p-valeur d'un test en générant un grand nombre (au moins 1000) d'expériences aléatoires.
   
 ## Une distribution
 
@@ -99,7 +99,7 @@ Interprétation : Au risque $\alpha$ est accepté $H_1$ alors que c'est faux ca
     Le risque $\alpha$ est généralement fixé à 5%.
 
 !!! note
-   Danse cas de tests multiples, il faut corriger p-valeurs pour limiter le risque $\alpha$.
+	Danse cas de tests multiples, il faut corriger p-valeurs pour limiter le risque $\alpha$.
 
 Règle de décision :
 
@@ -261,25 +261,30 @@ Jeffreys (1961) a proposé une interprétation de la force des preuves fournies 
 |30 à 100|Évidence très forte|
 |> 100|Évidence extrêmement forte|
 
-Inversement, des valeurs de $BF_{10}$​ inférieures à 1 (par exemple, entre 0,1 et 0,33) indiquent un soutien croissant pour H0H_0H0​.
-
+Inversement, des valeurs de $BF_{10}$​ inférieures à 1 (par exemple, entre 0,1 et 0,33) indiquent un soutien croissant pour $H_0$​.
 ### Avantages du facteur de Bayes
 
 1. **Quantification de l’évidence** : Il donne une mesure continue du soutien des données pour H0H_0H0​ ou H1H_1H1​, contrairement aux p-valeurs qui n'indiquent que la probabilité de voir des données aussi extrêmes si $H_0$​ est vraie.
-2. **Comparaison d'hypothèses** : Le facteur de Bayes permet une comparaison directe entre hypothèses, utile dans des contextes où on veut des preuves pour ou contre H0H_0H0​.
+2. **Comparaison d'hypothèses** : Le facteur de Bayes permet une comparaison directe entre hypothèses, utile dans des contextes où on veut des preuves pour ou contre $H_0$​.
 3. **Incorporation de l’information a priori** : En utilisant des distributions a priori, le facteur de Bayes permet de prendre en compte des connaissances préalables ou des hypothèses initiales.
 
 ### Exemple de calcul du facteur de Bayes avec R
 
 Pour calculer le facteur de Bayes dans R, vous pouvez utiliser le package `BayesFactor`. Voici un exemple de comparaison de moyennes de deux groupes :
 
-R
+``` r
+# Installer et charger le package install.packages("BayesFactor")
+library(BayesFactor)
+# Exemples de données pour deux groupes
+set.seed(42)
+group_A <- rnorm(30, mean = 100, sd = 15)
+group_B <- rnorm(30, mean = 110, sd = 15)
+# Calculer le facteur de Bayes pour une comparaison de moyennes
+bf <- ttestBF(x = group_A, y = group_B)
+print(bf)`
+```
 
-Copy code
-
-`# Installer et charger le package install.packages("BayesFactor") library(BayesFactor)  # Exemples de données pour deux groupes set.seed(42) group_A <- rnorm(30, mean = 100, sd = 15) group_B <- rnorm(30, mean = 110, sd = 15)  # Calculer le facteur de Bayes pour une comparaison de moyennes bf <- ttestBF(x = group_A, y = group_B) print(bf)`
-
-Le résultat fournira le facteur de Bayes BF10BF_{10}BF10​ pour le test, que vous pouvez interpréter pour déterminer le soutien en faveur de l'une des hypothèses.
+Le résultat fournira le facteur de Bayes $BF_{10}$​ pour le test, que vous pouvez interpréter pour déterminer le soutien en faveur de l'une des hypothèses.
 
 ### Résumé
 
