@@ -75,12 +75,12 @@ h0 : indépendance des deux variables
 |          | 2 var quali                 |           | exact de Fisher        |
 |          | 2 var quali                 |           | Méthode de Monte Carlo |
 |          | 1 var quali et 1 var quanti |           | [[ANOVA]]              |
+
 #### Autres tests
 
 - **Test de Tukey HSD** (Honest Significant Difference), test post-hoc (analyse après avoir l'hypothèse) utilisé en statistique pour comparer toutes les paires de moyennes après une ANOVA. Il compare les paires de groupes pour savoir s'il existe une différence.
-- Homogénéité des variances test des Levene 
-
-* __Test de Games Howell__ pour comparer les 
+- **Test de Levene** pour vérifier l'homogénéité des variances.
+- **Test de Games Howell** pour comparer les
 ## Cours tests statistiques et interprétation
 
 Les tests statistiques servent à vérifier si les données obtenues sont compatibles avec une propriété (par exemple, une moyenne théorique) et les différences observées dû au hasard de l'échantillonnage.
@@ -127,6 +127,7 @@ Pour comparer la valeur de deux échantillons, il suffit de vérifier si les int
 | ------------------------------------------------ | ------------------------- | --------------------- |
 | On ne rejete pas $H_0$ au risque $\beta$ inconnu | $E_{obs} \leq E_{\alpha}$ | p-value $\gt \alpha$  |
 | On accepte $H_1$ au risque $\alpha$              | $E_{obs} \gt E_{\alpha}$  | p-value $\leq \alpha$ |
+
 !!! note
 	I y a 5 % de chances de rejeter l'hypothèse nulle par hasard.
 
