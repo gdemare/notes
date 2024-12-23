@@ -35,6 +35,7 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 | Normalité               | Shapiro-Wilk |
 | Pas de valeurs extrêmes | Dixon        |
 | Pas de valeurs extrêmes | Grubbs       |
+
 ## Un échantillon et une valeur théorique
 
 | H0         | Condition | Test                          |
@@ -43,6 +44,7 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 | Médiane    |           | Wilcoxon 			 |
 | Proportion |           | Khi2                          |
 | Variance   |           | Khi2                          |
+
 ## Paramètre de plusieurs échantillons
 
 | H0                      | Taille | Condition  | Test           |
@@ -55,6 +57,7 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 | Egalité des variances   | 2      |            | Fisher         |
 | _____________________   | k      | 4          | Bartlett       |
 | _____________________   | k      |            | Test de Levene |
+
 ## Deux distributions
 
 | H0                                                | Condition  | Test                  |
@@ -63,9 +66,10 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 | __________________                                | 1,2,3 ou 4 | Test t                |
 | __________________ entre deux échantillons        |            | Wilcoxon-Mann-Whitney |
 | Egalités des positions (séries binaires)          |            | Q de Cochran          |
+
 ## Corrélation
 
-h0 : indépendance des deux variables
+$H_0$ indépendance des deux variables
 
 | Type     | var                         | Condition | Test                   |
 | -------- | --------------------------- | --------- | ---------------------- |
