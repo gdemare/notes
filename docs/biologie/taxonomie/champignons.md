@@ -56,7 +56,6 @@ La croissance des hyphes se passe dans une zone appelée apex.
 Les champignons se nourrissent en digérant grâce à des enzymes le substrat situés aux extrémités des hyphes. La zone d'érosion est appelée mucilage.
 
 __Mucilage__ zone située autour des hyphes remplies de substances permettant la nutrition des champignons.
-
 # Les modes de vie des champignons
 
 Il existe quatre modes de vie différents chez les champignons :
@@ -70,7 +69,6 @@ __Saprophyte__ organisme qui dégrade la matière organique morte notamment le b
 
 !!! note
     Certaines espèces cumulent plusieurs modes de vie.
-
 ## Symbiose 
 
 __Mycosymbionte__ (ou mycobionte) nom donné aux champignons symbiotiques.
@@ -81,7 +79,6 @@ Il existe deux grands types d'interactions :
 
 * lichen où des plantes poussent à l'intérieur du champignon
 * les mycorhizes où les interactions se situent au niveau des racines.
-
 ### Le lichen
 
 Le lichen est un organisme symbiotique composé au moins d'un champignon (appelé mycobionte) et d'un organisme photosynthétique (appelé photosymbionte).
@@ -133,7 +130,6 @@ __Rhizine__ ensemble de hyphes qui assurent l'ancrage et, qui récupère l'eau e
 Les hyphes entourent et rentrent à l'intérieur du photosymbionte.
 
 __Haustorie__ partie de l'hyphe qui rentre à l'intérieur de la cellule.
-
 ## Les mycorhizes
 
 Les champignons mycorhizes se développent aux niveaux des racines des plantes et forment une zone d'échanges.
@@ -166,7 +162,6 @@ racines :
 
 * ectomycorhizes (extérieur)
 * endomycorhizes (intérieur)
-
 ### Ectomycorhizes 
 
 Les ectomycorhizes se développent :
@@ -177,7 +172,6 @@ Les ectomycorhizes se développent :
 Les ectomycorhizes sont généralement des Ascomycètes ou des Basidiomycètes.
 
 Les photosymbiontes sont généralement des arbres.
-
 ### Endomycorhizes
 
 Il existe trois type d'endomycorhizes :
@@ -194,7 +188,6 @@ Leurs hyphes se mettent en place dans les cellules végétales
 * vésicule stockage.
 
 Ce type de symbiose a été observé avec toutes les plantes terrestres.
-
 ## Prédation
 
 Généralement, la prédation est utilisée en complément à un autre type d'alimentation. Il existe deux types de chasse :
