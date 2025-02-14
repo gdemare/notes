@@ -11,3 +11,5 @@ en diagonale, la variance des paramètres (incertitude aux carrés des paramètr
 les autres, les covariances entre les paramètres. Une valeur proche de 0 signifie qu'ils sont peu corrélés.
 
 $a∈[2.0−1.96×0.1,2.0+1.96×0.1]=[1.804,2.196]$
+
+$$\sqrt{\frac{\sum{\epsilon^2}}{\sqrt{n-2}}} \cdot \sqrt{\frac{1}{n} \cdot \frac{(val-\mu)^2}{\sum{(x-\mu)^2}} }$$
