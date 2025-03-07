@@ -32,6 +32,7 @@ _           | X          | Entropie croisée pour les catégories    | $- \sum y
 X           | _          | Erreur quadratique moyenne (MSE)        | $E[(y_i - \hat{y}_i)^2]$
 X           | _          | Racine carré de l'erreur moyenne (RMSE) | $\sqrt{E[(y_i - \hat{y}_i)^2]}$
 X           | _          | Erreur absolue moyenne (MAE)            | $E[ \vert{y_i - \hat{y}_i} ]$
+
 ### Qualitatif
 
 Indicateur 						| Définition | Formule
