@@ -10,7 +10,7 @@ $2^{bits} = N \Leftrightarrow bits = \log _2 (N) \Leftrightarrow bits = - \log _
 
 Plus petite quantité d'information nécessaire pour lever l'incertitude. Elle est maximale lorsque les possibilités sont équiprobables.
 
-Entropie de Shannon : $H(P) = -\sum_i p_i \log _2 (p_i)$
+Entropie de Shannon : $H(P) = -\sum_i p_i \cdot \log _2 (p_i)$
 
 avec $P$ le nœud.
 ### Critère de Gini
