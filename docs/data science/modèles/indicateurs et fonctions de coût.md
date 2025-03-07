@@ -37,23 +37,23 @@ X           | _          | Erreur absolue moyenne (MAE)            | $E[ \vert{y
 
 Indicateur 						| Définition | Formule
 --------------------------------|---|---
-`binary_accuracy`      			| Calculates how often predictions match binary labels.
-`binary_crossentropy` 			| the binary crossentropy loss.
-`binary_focal_crossentropy`		| the binary focal crossentropy loss.
-`categorical_accuracy` 			| Calculates how often predictions match one-hot labels.
-
-`deserialize` 					| Deserializes a serialized metric class/function instance.
-`get` 							| Retrieves a Keras metric as a function/Metric class instance.
-`logcosh` 						| Logarithm of the hyperbolic cosine of the prediction error.
-`mae` 							| the mean absolute error between labels and predictions.
+`binary_accuracy`      			| Calculates how often predictions match binary labels. |
+`binary_crossentropy` 			| the binary crossentropy loss. |
+`binary_focal_crossentropy`		| the binary focal crossentropy loss. |
+`categorical_accuracy` 			| Calculates how often predictions match one-hot labels. |
+`deserialize` 					| Deserializes a serialized metric class/function instance. |
+`get` 							| Retrieves a Keras metric as a function/Metric class instance. |
+`logcosh` 						| Logarithm of the hyperbolic cosine of the prediction error. | 
+`mae` 							| the mean absolute error between labels and predictions. |
 `MSE`                          	| the mean squared error between labels  | 
-`mean_absolute_error` 			| the mean absolute error between labels and predictions.
-`mean_squared_error`			| the mean squared error between labels and predictions.
-`serialize` 					| Serializes metric function or Metric instance.
-`sparse_categorical_accuracy` 	| Calculates how often predictions match integer labels.
-`sparse_categorical_crossentropy` 	| the sparse categorical crossentropy loss.
-`sparse_top_k_categorical_accuracy` | how often integer targets are in the top K predictions.
-`top_k_categorical_accuracy` 		| how often targets are in the top K predictions
+`mean_absolute_error` 			| the mean absolute error between labels and predictions. |
+`mean_squared_error`			| the mean squared error between labels and predictions. |
+`serialize` 					| Serializes metric function or Metric instance. |
+`sparse_categorical_accuracy` 	| Calculates how often predictions match integer labels. |
+`sparse_categorical_crossentropy` 	| the sparse categorical crossentropy loss. |
+`sparse_top_k_categorical_accuracy` | how often integer targets are in the top K predictions. |
+`top_k_categorical_accuracy` 		| how often targets are in the top K predictions |
+
 ### Quantitatifs
 
 Indicateur 						| Définition
@@ -72,6 +72,7 @@ Indicateur 						| Définition
 `msle` 							| the mean squared logarithmic error between y_true and y_pred.
 `poisson` 						| the Poisson loss between y_true and y_pred.
 `squared_hinge` 				| the squared hinge loss between y_true and y_pred.
+
 ## Critères 
 
 Liste de paramètres à minimiser :
