@@ -31,6 +31,7 @@ Chez les eucaryotes, l'épissage complique l'extraction du gène lorsque l'on so
 !!! note
     La transcriptase synthétise le brin non codant et l'ADN polymérase le brin codé appelé ADN complémentaire.
 
+__Exome__ partie des gènes du génome.
 ## Concentration et pureté
 
 La concentration d'ARN ou d'ADN peut être mesurer par deux méthodes :

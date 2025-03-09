@@ -86,15 +86,15 @@ On trouve les séquences répétitives essentiellement dans :
 
 Plusieurs hypothèses suggèrent que les séquences d'ADN simples répétitives ont une fonction structurale importante :
 
-* Les télomères qui sont les extrémités des chromosomes sont reconnus par des enzymes qui viennent s'y fixer pour prévenir des fusion entre les chromosomes.
-* Les centromères forment la région de contact et répartition de chromatides un rôle important dans l'interphase et la
+* les télomères qui sont les extrémités des chromosomes sont reconnus par des enzymes qui viennent s'y fixer pour prévenir des fusion entre les chromosomes.
+* les centromères forment la région de contact et répartition de chromatides un rôle important dans l'interphase et la
 # Les gènes et les séquences apparentées
 
 Les gènes et les séquences apparentées forment environ 25% du génome et sont constituées des :
 
-* Exons.
-* Introns.
-* Séquences régulatrices.
+* exons.
+* introns.
+* séquences régulatrices.
 
 Environ 25% du génome humain est codé en ARNm. Après épissage, seulement 6% des bases sont traduites en acides aminés.
 
