@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/évolution/évolution des génomes.md",
+                "file": "autres/utile/vélo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "évolution des génomes"
+              "title": "vélo"
             }
           }
         ]
@@ -163,8 +163,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "87dc442f218cc64f",
+  "active": "d65b2951c7d00281",
   "lastOpenFiles": [
+    "biologie/évolution/évolution des génomes.md",
+    "autres/utile/vélo.md",
     "biologie/méthodes/ADN et ARN/étude des acides nucléiques.md",
     "biologie/taxonomie/animaux.md",
     "biologie/taxonomie/champignons.md",
@@ -189,8 +191,6 @@
     "biologie/biochimie/protéines/etude des protéines.md",
     "biologie/biochimie/protéines/étude des protéines.md",
     "biologie/méthodes/chromatographie.md",
-    "biologie/biochimie/protéines/modification post traductionelle.md",
-    "biologie/biochimie/protéines/adressage des proteines.md",
     "biologie/méthodes/analyse des résultats",
     "biologie/méthodes/protéines",
     "biologie/méthodes/clonage",
