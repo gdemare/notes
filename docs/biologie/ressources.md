@@ -10,6 +10,10 @@
 ## Ecologie
 
 * [Infoclimat](https://www.infoclimat.fr/climatologie/annee/2023/nice-cote-d-azur/valeurs/07690.html) comparaison des conditions climatologiques avant et maintenant.
+* [La carte des luttes contre les grands projets inutiles](https://reporterre.net/La-carte-des-luttes-contre-les-grands-projets-inutiles) de reporterre.
 ## Bioinformatique
 
 * [Institut Francais de Bioinformatique](https://www.france-bioinformatique.fr/) site de la bioinformatique en France. Des outils de bioinformatique sont mis à disposition.
+### Icon & poster biology congress
+
+* [bioicon](https://bioicons.com/) plus de 2 000 icones de chimie et de biologie.

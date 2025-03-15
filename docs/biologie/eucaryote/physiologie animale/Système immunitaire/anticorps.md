@@ -1,3 +1,4 @@
+**Anticorps** conjugué type de médicament qui utilise un anticorps associé à une molécule active utilisé dans les thérapies ciblés
 Les anticorps sont les récepteurs solubles produits par les [[lymphocyte]]s B. Ils se lient aux pathogènes pour :
 
 * favoriser la reconnaissance des pathogènes et l'opsonisation, aide à la phagocytose.
