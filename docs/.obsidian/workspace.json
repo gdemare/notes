@@ -11,10 +11,14 @@
             "id": "304391e9562dc720",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "biologie/technique/Risque biologique et expérimentation animale.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Risque biologique et expérimentation animale"
             }
           }
         ]
@@ -161,6 +165,8 @@
   },
   "active": "304391e9562dc720",
   "lastOpenFiles": [
+    "biologie/technique/RMN résonance magnétique nucléaire.md",
+    "biologie/technique/Risque biologique et expérimentation animale.md",
     "biologie/eucaryote/physiologie animale/Système immunitaire/anticorps.md",
     "Sans titre.md",
     "biologie/ressources.md",
@@ -185,8 +191,6 @@
     "biologie/eucaryote/plante/organe/racine.md",
     "biologie/eucaryote/plante/organe/feuille.md",
     "biologie/eucaryote/plante/croissance/croissance.md",
-    "biologie/eucaryote/plante/croissance/Embryogénèse.md",
-    "biologie/biochimie/acides nuclétiques/traduction.md",
     "biologie/méthodes/analyse des résultats",
     "biologie/méthodes/protéines",
     "biologie/méthodes/clonage",
