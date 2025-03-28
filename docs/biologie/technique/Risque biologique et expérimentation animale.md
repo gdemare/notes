@@ -59,6 +59,11 @@ Effet Doppler changement de fréquence information sur la vitesse d'un fluide.
 
 ### Espèces modèles
 
+1. Remplacer essayer autant sue possible de se passer d'especes animales
+2. Reduire utiliser le nombre minimal d'individus.
+3. Raffiner limiter la souffrance.
+
+
 ### Souris
 
 - 20g 
