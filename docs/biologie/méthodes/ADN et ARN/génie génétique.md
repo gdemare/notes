@@ -117,6 +117,13 @@ compétence. Il peut être obtenu :
 !!! note
     Dans le cas d'un choc thermique ou de l'utilisation de produits chimique un seul plasmide peut entrer par bactérie. Le mécanisme qui permet cela est encore inconnu.
 
+Après une transfection d'ADN dans des cellules eucaryotes, plusieurs destins sont possibles selon la méthode de tranfectuon et le type d'ADN introduit :
+
+- Dégradation : Une partie de l'ADN peut être dégradée par les nucléases présentes dans la cellule, notamment si l'ADN est nu et non protégé.
+- Expression transitoire : Si l'ADN est sous forme de plasmide et reste dans le cytoplasme ou le noyau sans intégration, il peut être transcrit et traduit temporairement. Cependant, il sera progressivement perdu au fil des divisions cellulaires ou dégradé.
+- Intégration dans le génome : Dans certains cas, notamment avec des plasmides contenant des séquences favorisant la recombinaison ou avec des méthodes spécifiques (comme la transfection avec CRISPR/Cas9 ou des vecteurs viraux), l'ADN peut s'intégrer dans le génome de la cellule. Cela permet une expression stable et durable du gène d'intérêt.
+- Épisome : Certains plasmides possédant des origines de réplication spécifiques peuvent persister sous forme d'épisomes (petites molécules d'ADN circulaires indépendantes du génome) dans le noyau, permettant une expression prolongée sans intégration.
+
 Deux contrôles sont à réaliser :
 
 * Positif uniquement le vecteur recombinant.
