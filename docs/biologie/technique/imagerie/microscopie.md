@@ -6,7 +6,6 @@ Les principaux types de microscopie sont :
 - optique (ou photonique)
 - électronique.
 - à force atomique.
-
 ### Calcul du grossissement 
 
 Sur un microscope, on trouve
@@ -48,7 +47,6 @@ Taille du sujet observé : Taille= diamètre du champ ×proportion sujet
 L'échelle est la correspondance entre 1 centimètre sur le dessin et la taille réel du sujet.
 
 $Échelle = \frac{1 cm}{taille du dessin} \ times taille réel du sujet$
-
 ### Résolution
 
 La limite de résolution correspond à la mesure de la diffraction du système optique.

@@ -6,7 +6,6 @@ Les différents niveaux de risque :
 - 2 contagieux pour les humains et les élevages de rente. Par exemple, nécessaire pour manipuler les échantillon humain ou des animaux greffés avec des cellules humaines.
 - 3 maladies sans traitement curatif ou dommageable pour l'environnement.
 
-
 !!! note
 	La greffe de cellules humaines sur des animaux est faite sur des animaux immunodéficients.
 

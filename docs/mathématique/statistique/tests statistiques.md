@@ -26,8 +26,7 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 * **(5)** effectifs théoriques $\gt 5$.
 
 !!! note
-	Il est possible d'estimer la p-valeur d'un test en générant un grand nombre (au moins 1000) d'expériences aléatoires.
-  
+	Il est possible d'estimer la p-valeur d'un test en générant un grand nombre (au moins 1000) d'expériences aléatoires. 
 ## Une distribution
 
 | H0                      | Test         |
@@ -35,7 +34,6 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 | Normalité               | Shapiro-Wilk |
 | Pas de valeurs extrêmes | Dixon        |
 | Pas de valeurs extrêmes | Grubbs       |
-
 ## Un échantillon et une valeur théorique
 
 | H0         | Condition | Test                          |
@@ -44,7 +42,6 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 | Médiane    |           | Wilcoxon 			 |
 | Proportion |           | Khi2                          |
 | Variance   |           | Khi2                          |
-
 ## Paramètre de plusieurs échantillons
 
 | H0                      | Taille | Condition  | Test           |
@@ -57,7 +54,6 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 | Egalité des variances   | 2      |            | Fisher         |
 | _____________________   | k      | 4          | Bartlett       |
 | _____________________   | k      |            | Test de Levene |
-
 ## Deux distributions
 
 | H0                                                | Condition  | Test                  |
@@ -66,7 +62,6 @@ On parle de tests paramétriques lorsque les observations suivent une loi statis
 | __________________                                | 1,2,3 ou 4 | Test t                |
 | __________________ entre deux échantillons        |            | Wilcoxon-Mann-Whitney |
 | Egalités des positions (séries binaires)          |            | Q de Cochran          |
-
 ## Corrélation
 
 $H_0$ indépendance des deux variables
@@ -98,6 +93,9 @@ Les tests statistiques servent à vérifier si les données obtenues sont comp
 | $H_1$        	| $\beta$      | $1 - \beta$ (appelé puissance du test) |
 
 Interprétation : Au risque $\alpha$ est accepté $H_1$ alors que c'est faux cad que $H_0$ est vraie ou encore au rejet à tort de l'hypothèse nulle.
+
+!!! note
+	Pour estimer la distribution des p-valeurs. si loi est uniforme alors pas de différences. Appelé taux de faux positif. Les p valeurs qui dépasse le seuil sont liées à alpha.
 
 !!! note
     Le risque $\alpha$ est généralement fixé à 5%.
