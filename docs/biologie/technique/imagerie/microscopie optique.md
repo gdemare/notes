@@ -24,7 +24,7 @@ __Diffraction__ phénomène d'étalement de la lumière.
 
 __Ouverture numérique__ l'angle d'écart et la quantité de réfraction.
 
-L'indice de réfraction est une mesure l'atténuation de l'onde dans le milieu.
+L'indice de réfraction est une mesure l'atténuation de la vitesse de l'onde dans le milieu. Lorsque l'onde entre dans un  milieu est dense alors son traget se rapproche de la normale.
 
 La microscopie :
 - basse résolution jusqu'à 120nm.
