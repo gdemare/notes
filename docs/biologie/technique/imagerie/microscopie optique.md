@@ -26,6 +26,9 @@ __Ouverture numérique__ l'angle d'écart et la quantité de réfraction.
 
 L'indice de réfraction est une mesure l'atténuation de la vitesse de l'onde dans le milieu. Lorsque l'onde entre dans un  milieu est dense alors son traget se rapproche de la normale.
 
+!!! note
+   L'indice de diffraction dépend de la longueur d'onde.
+
 La microscopie :
 - basse résolution jusqu'à 120nm.
 - haute résolution de 50nm à 20nm.
@@ -36,24 +39,25 @@ Dispersion dépend de l'indice de réfraction du milieu. Caractérise la dispers
 	Les tissus biologiques sont peu absorbants mais les irrégularités présentes à la surface vont créer un halot.
 ## Champs sombre et contraste de phase
 
-diaphragme d'ouverture change le cône de couleur.
-diaphragme de champs. limite la lumière.
+Le diaphragme d'ouverture et de champs servent à modifier la quantité de lumiere qui entre dans le système.
 
-contraste de phase interférence destructive pour la lumière qui n'a pas interagit.
 
-Le principe est de modifier la façon dont on éclaire l'échantillon pour visualiser les détails.
 
-Contraste augmenter utilisation de la réfraction différente en fonction de la composition de l'échantillon.
+Il est possible de distinguer deux types d'ameliorations pour augmenter la resolution ou le contraste de l'image en agissant sur :
 
-Phase propriété d'addition et de soustraction des longueurs d'onde.
+- en filtrant les photons recus.
+- la qualité de la lumiere (feuille de lumiere).
 
-Un anneau lumineux éclaire l'échantillon.
+!!! note
+  L'infrarouge pénètre mieux les tissus (phénomène de diffusion plus faible).
 
-Fonction d'un microscope spectre d'absorbance
+#### Filtrer les photons
 
-Peu fluorescence + exemple critère du choix
+- le contraste de phase qui consitet à assenturr le contraste de l'échantillon. Il permet d'accentué les differentes les dephasages entre photons en creant des interférences destructive avec la lumière qui n'a pas interagit et constructive le reste. Cette mehtode necessite l'utilisation de polariseurs. 
+- avec anneau de lumière
+- confocal. Le av c dz multiple pineho'es Spinning disk.
 
-Technique micro
+### Avec fluorescence
 
 Microscopie a fluorescence à champ large
 
@@ -62,20 +66,12 @@ Réponse au problème d'une nombre trop faible d'émission de fluorochromes.
 Eclair et capte la lumière sur une épaisseur de l'échantillons.
 
 Déconvolution pour rendre l'image net. Traitement numérique.
-
-#### Microscopie confocale
-
-L'échantillon est éclairé de façon graduelle.
+graduelle.
 
 __Photoblanchiment__ perte de la faculté d'une molécule à être fluorescente. Elle se produit pour donner suite à l'oxydation.
 
 Utilisé pour suivre la cinétique en créant une zone bleacher comme référence.
-### Sans fluorescence
-!!! note
-  L'infrarouge pénètre mieux les tissus (phénomène de diffusion plus faible).
 
-- confocal ouverture au niveau de l'optique qui obstrue les rayons qui ne sont pas dans le champs. Par exemple, les microscopes spinning disk possèdent un disques avec de nombreuses petites ouvertures.
-### Avec fluorescence
 
 La fluorescence permet de diminuer la résolution théoriquement à 10nm (généralement 40nm).
 
