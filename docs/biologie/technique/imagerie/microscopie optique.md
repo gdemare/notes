@@ -72,7 +72,6 @@ __Photoblanchiment__ perte de la faculté d'une molécule à être fluorescente.
 
 Utilisé pour suivre la cinétique en créant une zone bleacher comme référence.
 
-
 La fluorescence permet de diminuer la résolution théoriquement à 10nm (généralement 40nm).
 
 Microscopie moléculaire : 
