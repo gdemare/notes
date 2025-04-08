@@ -22,3 +22,18 @@ Méthylation possible de l'ADN sur les couples CG méthylation sur la cytosine.
 Inactivation d'un chromosome X chez les femelles.
 
 Organisation trouve les séquences avec les mêmes structures souvent colocalisées.
+
+
+#### Transformation de Fourrier d'une image
+
+Les fonctions sinuosidales sont définies par trois paramètres :
+
+- amplitude
+- phase (décalage en abscisse)
+- fréquence.
+
+La représentation d'une image arpès la transformation de Fourrier donne une image avec :
+
+- r période.
+- $\theta$ angle de la fréquence par rapport à l'axe horizontal.
+- value l'amplitude (plus c'est blanc plus la valeur est importante.
