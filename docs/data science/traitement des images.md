@@ -56,6 +56,8 @@ fermer les espaces plus petits que l'élément structurant.
 
 Ouverture érosion puis dilation supprime les éléments plus petits que l'élément structurant. supprimer clair
 
+s'applique sur les elements clairs.
+
 #### Transformation 
 
 ###### Fourrier
