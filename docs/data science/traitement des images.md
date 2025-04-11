@@ -17,11 +17,13 @@ Déconvolution couleur séparer les canaux des différentes couleurs
 ### Filtres
 
 Les filtres peremttent de modifier l'image en fonction de certains critères pour :
+
 * améliorer les détails
 * réduire le bruit.
 * extraire des caractéristiques. 
 
 Les principaux filtres sont :
+
 * passe-bas fréquentiel atténuer les hautes fréquences de l'image (brouillard, détails fins, bruit) tout en préservant les basses fréquences (grandes structures).
 * passe-bas (lissage) ou flou gaussien :
  * réduction du bruit : Les pixels bruités sont atténués en prenant la moyenne avec leurs voisins.
