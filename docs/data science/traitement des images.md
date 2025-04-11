@@ -24,16 +24,16 @@ Les filtres peremttent de modifier l'image en fonction de certains critères pou
 Les principaux filtres sont :
 * passe-bas fréquentiel atténuer les hautes fréquences de l'image (brouillard, détails fins, bruit) tout en préservant les basses fréquences (grandes structures).
 * passe-bas (lissage) ou flou gaussien :
- * Réduction du bruit : Les pixels bruités sont atténués en prenant la moyenne avec leurs voisins.
- * Lissage des images : Utilisé pour éliminer les détails fins et les textures.
+ * réduction du bruit : Les pixels bruités sont atténués en prenant la moyenne avec leurs voisins.
+ * lissage des images : utilisé pour éliminer les détails fins et les textures.
 * passe-haut (Accentuation des bords)  Mettre en évidence les contours et les transitions de l'image.
 * de moyenne (moyenne mobile) :
- * Réduction du bruit (bruit aléatoire ou "sel et poivre").
- * Simplification d'image pour une analyse ultérieure.
+ * réduction du bruit (bruit aléatoire ou "sel et poivre").
+ * simplification d'image pour une analyse ultérieure.
 
 #### Morphologie mathématique
 
-La morphologie en traitement d'images sert à filtrer,  segmenter et quantifier.
+La morphologie en traitement d'images sert à filtrer, segmenter et quantifier.
 
 * filtre médian : une fenêtre glissante avec l'application d'une fonction. Il attribue au pixel central la valeur médianne des pixels de la fenêtre.
 * érosion réduire la taille des objets.
@@ -52,7 +52,7 @@ Fermeture dilation puis une érosion
 fermer les espaces plus petits que l'élément structurant.
 éclaisir petite zone sombres
 
-Ouverture érosion puis dilation supprime les éléments plus petit que l'élément structurant.surppimer clair
+Ouverture érosion puis dilation supprime les éléments plus petits que l'élément structurant. supprimer clair
 
 #### Transformation 
 
