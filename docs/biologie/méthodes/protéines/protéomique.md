@@ -3,6 +3,14 @@ La spectrométrie permet de :
 * quantifier une protéine.
 * inventaire des protéines présentes.
 
+### Identification d'une protéine$
+
+Une disgestion avec la trypsine permet d'obtenir des peptides entre 7 et 20aa.
+
+L'identification d'une protéine nécessite au moins 2 peptides.
+
+
+
 ### Exemples
 
 Identification de
