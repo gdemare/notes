@@ -260,3 +260,17 @@ Les protéines sont marquées par un groupement chimique isobarrique (de même m
 
 La quantification absolue passe par une gamme étalon avec un marquage à l'isotope. Les échantillons d'intérêts sont reportés sur une courbe étalon.
 
+DIA indépent la sélection des ions est faites par chauqe intervalle de masse pour la MS2. Permet d'augmenter le nombre d'identification d'environ 25%.
+
+Bottom down chaque niveau de charge de 1. souvent pas la possibilité de déterminer le massif isotopique. Le niveau de charge est déterminer par la distribution des charges (1 entre chaque pic).
+
+!!! note
+    Les différences de charges sont souvent liés à des différences dans les PTM non uniforme.
+
+glutamine terminal sont souvent cyclisée.
+
+multi attibut monitoring intégration des modificaitions 
+
+
+
+
