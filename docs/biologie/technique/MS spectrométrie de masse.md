@@ -74,7 +74,9 @@ Deux électrodes en
 
 La fragmentation permet de déterminer la structure chimique des ions.
 
-$f = \frac{1}{2 \cdot \pi \cdot \sqrt{k \cdot \frac{m}{z}}}$ avec k la courbure de champs de l'électrode et f la fréquence de rotation de l'ion.
+$$f = \frac{1}{2 \cdot \pi \cdot \sqrt{k \cdot \frac{m}{z}}}$$ 
+
+avec k la courbure de champs de l'électrode et f la fréquence de rotation de l'ion.
 
 La forme centrifuge est compensée par la force électrostatique.
 
@@ -113,9 +115,9 @@ La quantification absolue passe par une gamme étalon avec un marquage à l'isot
 
 ## Protéomique en MS
 
-Vocabulaire
+Glossaire
 
-* __PTM__ post traductionnel Modifications
+* __PTM__ post traductionnel Modifications.
 * __Nano LC (ou HPLC)__ nano-chromatographie en phase liquide.
 * __PSM__ spectre assimilé à un peptide (Peptid Spectrum Match)
 
@@ -185,6 +187,8 @@ Acide Aminé | Poids moléculaires (Da)
 Glycine | 57,02
 Tryptophane | 186,08
 __Moyenne__ | 110
+
+[PeptideMass](https://web.expasy.org/peptide_mass/) caluler la masse théorique d'une peptide.
 
 Propriétés sur les spectres :
 
