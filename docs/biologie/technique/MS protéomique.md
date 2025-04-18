@@ -111,3 +111,8 @@ glutamine terminal sont souvent cyclisée.
 
 multi attibut monitoring intégration des modificaitions 
 
+transformation en loi normale racine ou log avec transformation de 0 en 1.
+
+Correction avec Benjamini-Hochberg.
+
+
