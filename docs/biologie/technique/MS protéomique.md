@@ -17,7 +17,7 @@ Glycine | 57,02
 Tryptophane | 186,08
 __Moyenne__ | 110
 
-[PeptideMass](https://web.expasy.org/peptide_mass/) caluler la masse théorique d'une peptide.
+[PeptideMass](https://web.expasy.org/peptide_mass/) caluler la masse théorique d'une peptide et digestion _in sillico_.
 
 Propriétés sur les spectres :
 

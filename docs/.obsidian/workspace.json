@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autres/utile/Flouze.md",
+                "file": "biologie/technique/MS protéomique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flouze"
+              "title": "MS protéomique"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "expa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,8 +166,13 @@
   },
   "active": "304391e9562dc720",
   "lastOpenFiles": [
-    "biologie/technique/imagerie/microscopie optique.md",
+    "biologie/ressources.md",
+    "biologie/technique/MS protéomique.md",
+    "biologie/biochimie/protéines/enzyme/types enzymes.md",
+    "biologie/eucaryote/physiologie animale/physiologie.md",
+    "biologie/biochimie/biochimie/lipides.md",
     "autres/utile/Flouze.md",
+    "biologie/technique/imagerie/microscopie optique.md",
     "biologie/cellule/organisation cellulaire/organisation cellulaire.md",
     "biologie/technique/imagerie/microscopie électronique.md",
     "mathématique/statistique/tests statistiques.md",
@@ -179,7 +185,6 @@
     "biologie/technique/Risque biologique et expérimentation animale.md",
     "biologie/technique/RMN résonance magnétique nucléaire.md",
     "biologie/eucaryote/physiologie animale/Système immunitaire/anticorps.md",
-    "biologie/ressources.md",
     "autres/utile/vélo.md",
     "biologie/évolution/évolution des génomes.md",
     "biologie/méthodes/ADN et ARN/étude des acides nucléiques.md",
@@ -187,10 +192,6 @@
     "biologie/taxonomie/champignons.md",
     "biologie/eucaryote/physiologie animale/circulation et échanges gazeux.md",
     "biologie/eucaryote/physiologie animale/système urinaire/reins.md",
-    "biologie/eucaryote/physiologie animale/comportement.md",
-    "biologie/eucaryote/physiologie animale/muscle.md",
-    "biologie/eucaryote/physiologie animale/osmorégulation et excrétion.md",
-    "biologie/eucaryote/plante/azote.md",
     "biologie/méthodes/analyse des résultats",
     "biologie/méthodes/protéines",
     "biologie/méthodes/clonage",

@@ -40,11 +40,9 @@ Spécificité de...          | Aminopeptidase | Carboxypeptidase
 ...reconnaissance          | N-term         | Carboxyle
 ...position de la réaction | N-term         | C-term
 Stéréospécificité          | L              | L
-
-
 ### Albumine
 
-L'albumine est une protiéne sanguine produite par le foie qui permet :
+L'albumine est une protéine sanguine produite par le foie qui permet :
 
 - la régulation de la pression osmotique dans les vaisseaux sanguins.
 - de transporter de nombreuses molécules (acides gras libres, hormones, ions,...)
@@ -52,7 +50,6 @@ L'albumine est une protiéne sanguine produite par le foie qui permet :
 - effet antioxydant càd de neutraliser les radicaux libres.
 
 __Oedème__ accumulation d'eau dans les tissus.
-
 
 !!! note 
 	L'albumine représente 60 % des protéines plasmatiques.
