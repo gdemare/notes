@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/technique/MS protéomique.md",
+                "file": "biologie/cellule/organisation cellulaire/cytosquelette/microtubules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MS protéomique"
+              "title": "microtubules"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "304391e9562dc720",
   "lastOpenFiles": [
-    "biologie/ressources.md",
     "biologie/technique/MS protéomique.md",
+    "biologie/ressources.md",
     "biologie/biochimie/protéines/enzyme/types enzymes.md",
     "biologie/eucaryote/physiologie animale/physiologie.md",
     "biologie/biochimie/biochimie/lipides.md",
