@@ -4,9 +4,9 @@
 
 | Catégorie                        | Brut mensuel | Net mensuel | Brut annuel | Cout total employeur |
 | -------------------------------- | ------------ | ----------- | ----------- | -------------------- |
-| Ingénieur de recherche (IR)      | 2 970        |             | 36 000€     |                      |
-| Ingénieur d'études (IE)          | 2 388        |             |             |                      |
-| Assistant ingénieur (AI)         | 2 226        |             |             |                      |
+| Ingénieur de recherche (IR)      | 2 970        | 2 465       | 36 000      |                      |
+| Ingénieur d'études (IE)          | 2 388        | 1 982       | 28 000      |                      |
+| Assistant ingénieur (AI)         | 2 226        | 1 848       | 26 000      |                      |
 | SMIC                             | 1 800        | 1 400       | 21 500      | 22 500               |
 | 3 000€/mois                      | 3800         | 3 000       | 45 000      | 62 000               |
 | 4 000€/mois                      | 5000         | 4 000       | 60 000      | 86 000               |
