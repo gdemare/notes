@@ -9,15 +9,15 @@ Couleur primaire :
 - (jaune cyan et magenta) permet d'obtenir des couleurs plus vive.
 - rouge bleu jaune
 !!! note
-   le mélange de c'est trois couleurs permet d'obtenir toutes les autres.
+  	le mélange de c'est trois couleurs permet d'obtenir toutes les autres.
 
-!!! Note
-Utiliser des colonnes complémentaire pour renforcer les éléments.
+!!! note
+	Utiliser des colonnes complémentaire pour renforcer les éléments.
 
 Cercle chromatique selon Itten pour connaître le résultat des mélange.
 
 !!! note
-   Pour le noir, utiliser un mélange des trois couleurs primaires.
+	Pour le noir, utiliser un mélange des trois couleurs primaires.
 
 Couleur complémentaire coupe de couleurs qui produisent du gris lorsqu'elles sont mélangées.
 
