@@ -23,7 +23,7 @@ avec :
 * $K$ le nombre de modalité.
 * $p_k$ la proportion d'observation de la classe $k$.
 
-Il est $G \in [0;0.5]$ et égal à 0 si tous les individus sont de la même classe et égale à 0.5 si les observations sont réparties de façon équiprobable.
+Il est $G \in [0;0.5]$. Il est égal à 0 si tous les individus sont de la même classe et égale à 0.5 si les observations sont réparties de façon équiprobable.
 ## Indicateurs
 
 Pred quanti | Pred quali | Critère de mesure de l'erreur           | Formule      
