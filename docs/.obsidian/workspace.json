@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vélo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a44b5d22a3bd8c9d",
+  "active": "baa682fbcad162f3",
   "lastOpenFiles": [
     "autres/couleur.md",
     "autres/électronique.md",
