@@ -23,6 +23,9 @@ initialement évolutif moyen de défense contre les virus. ARN interférant
 endogènes
 
 Hybridation puis prise en charge complexe protéique clive d'ARNm/ ARN
+
+Les ARN i font en moyenne une vingtaine de bases.
+
 ### Structure
 
 L'ARN adopte une structure dans l'espace en plusieurs étapes :
