@@ -1,6 +1,8 @@
-# Les glucides
+# Glucides
 
 Les termes sucre, glucide et carbohydrate sont équivalents.
+
+__Edulcorant__ produit ou substance ayant un goût sucré.
 
 Les sucres sont classés par complexité. On distingue 2 types de sucres :
 
@@ -150,10 +152,11 @@ On ajoute le suffixe -syl pour les molécules en début et milieu de chaine et -
 
 Les polymères de sucres peuvent être dissocier par l'utilisation d'une solution acide ou d'enzymes.
 
-
 Pour nommer une enzyme, substrat (la molécule) + ase (exemple : Alpha glucosidase)
 
-__Pouvoir sucrant__ capacité d'une molécule à donner le goût sucré. La référence est le saccharose. Par exemple le fructose a un pouvoir sucrant de  114% et l'aspartame de 200%.
+__Pouvoir sucrant__ capacité d'une molécule à donner le goût sucré. La référence est le saccharose. P 
+
+Le pouvoir sucrant de l'aspartame de 200 fois de plus que le glucose et de 1,7 pour le fructose.
 
 ## Les polyosides du vivant
 
