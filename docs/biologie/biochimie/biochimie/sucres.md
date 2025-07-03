@@ -172,3 +172,10 @@ Pour l'amylopectine, les glucoses sont reliés 1→4 ou en 1→5.
 | Amidon     | Amylopectine         | Glycogènes           |
 
 La seule différence entre l'amylopectine et le glycogène est que le second est plus dense c'est-à-dire qu'il possède plus de ramification.
+
+### Perception du sucre
+
+La perception du sucre par l'organisme se fait au niveau de la langue au niveau de recepteurs presents sur des cellules spécialisées situées sur la langue. La sensation de sucre se produit suite a l'activation d'une protéine G qui declenche une cascade sginalisation menant à la perception sucrée.
+
+!!! note
+   Certains édulcorants se lient sur des sites differents des recepteurs.
