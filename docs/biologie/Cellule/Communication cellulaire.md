@@ -25,14 +25,14 @@ Les signaux cellulaires sont majoritairement de type chimique mais ils peuvent a
 	Les récepteurs sont souvent des protéines.
 ### Signal chimique
 
-Le signal est une molécule qui interagit avec un site récepteur complémentaire à la molécule du signal. Généralement, la fixation du ligan au récepteur se fait par une liaison et provoque un changement de conformation du récepteur. Par exemple, les récepteurs transmembranaires liés :
+Le signal est une molécule qui interagit avec un site récepteur complémentaire à la molécule du signal. Généralement, la fixation du ligand au récepteur se fait par une liaison et provoque un changement de conformation du récepteur. Par exemple, les récepteurs transmembranaires liés :
 
 * changent de forme.
 * s'agrègent.
 
 Les récepteurs les plus répandus sont :
 
-* les récepteurs couplés à un protéine G (RCPG). Il en existe 2 000 types.
+* les récepteurs couplés à une protéine G (RCPG). Il en existe 2 000 types.
 * les récepteurs à activité tyrosine (tyrosine : acide aminé polaire composé d'un groupement alcool fixé sur un cycle carboné).
 * les récepteurs couplés à un canal ionique.
 
@@ -46,3 +46,17 @@ Petites molécules hydrophobes | Cytosol, Noyau | hormones thyroïdiennes, stér
 
 !!! note 
 	Les molécules liposolubles pénètrent dans toutes les cellules mais une réponse cellulaire ne se produira que si la cellule est dotée des récepteurs adéquates.
+
+ ### Protéines G
+
+ Les protéines G sont impliqués dans des voies de signalisation régulant des fonctions essentielles telles que la croissance cellulaire, la perception sensorielle, le métabolisme ou la réponse immunitaire.
+
+ Les protéines G partagent un domaine récepteur qui change de conformation par l'interaction avec GTP ou GDP dont dépend l'état d'activation. L'inactivation de la protéine G par l'hydrolyse de GTP en GDP se fait par l'intéraction avec des prtoéines régulatrices.
+
+Il existe deux types principaux de protéines G : 
+
+- hétérotrimériques (composé de trois sous unités).
+- monomériques comme la famille Ras.
+
+ !!! note
+ 	Un tiers des médicaments actuellement sur le marché ciblent directement ou indirectement des RCPG ou des protéines G.
