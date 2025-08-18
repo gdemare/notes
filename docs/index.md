@@ -39,7 +39,7 @@ __Organe vestigial__ organe qui ont perdu leur fonction mais qui sont présent d
 ### Neuro
 
 GABA a active des transporteurs qui font entrer des $Cl^-$ ce qui diminue la tension du milieu intracellulaire (par rapport au milieu extracellulaire). La différence pour attendre le seuil d'excitation est alors plus élevée.
-Lorsque GABA est activé, les neurones sont moins suceptibles d'être activés. Les transporteurs ioniques font entrer du $Cl^-$ pour diminuer le potentiel cellulaire ($ \lt -70mV$) ou sortir du $K^+$ ce qui diminue (la réserve de $K^+$). L'atteindre le seuil d'excitation devient alors plus compliqué.
+Lorsque GABA est activé, les neurones sont moins suceptibles d'être activés. Les transporteurs ioniques font entrer du $Cl^-$ pour diminuer le potentiel cellulaire ($\lt -70mV$) ou sortir du $K^+$ ce qui diminue (la réserve de $K^+$). L'atteindre le seuil d'excitation devient alors plus compliqué.
 
 !!! note 
 	La tension correspond au potentiel du milieu. Pour l'interpréter, il faut imaginer une charge positive toujours va du potentiel le plus élevé vers le plus faible.
