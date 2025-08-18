@@ -10,6 +10,7 @@
 
 * [Site de Yann Ollivier](http://www.yann-ollivier.org/) pas mal de ressources et d'idées intéressantes. Je pense qu'il s'agit de son bloc note.
 * [Sur les épaules de Darwin](http://www.clementgrimal.fr/darwin/) site avec toutes les émissions de Sur les Epaules de Darwin.
+* [](http://1libertaire.free.fr/GAnders20.html) site internet sur la phisolophie.
 
 ## Notes intéressantes
 
