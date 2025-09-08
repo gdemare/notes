@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autres/électronique.md",
+                "file": "informatique/DOT-diagramme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "électronique"
+              "title": "DOT-diagramme"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vélo",
+                "query": "dns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +75,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -171,18 +170,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "baa682fbcad162f3",
+  "active": "304391e9562dc720",
   "lastOpenFiles": [
-    "autres/couleur.md",
+    "informatique/DOT-diagramme.md",
     "autres/électronique.md",
+    "autres/couleur.md",
     "biologie/technique/imagerie/absorbance.md",
     "autres/utile/vélo.md",
     "autres/utile/flouze.md",
@@ -206,7 +207,6 @@
     "biologie/technique/Risque biologique et expérimentation animale.md",
     "biologie/technique/RMN résonance magnétique nucléaire.md",
     "biologie/eucaryote/physiologie animale/Système immunitaire/anticorps.md",
-    "biologie/évolution/évolution des génomes.md",
     "biologie/méthodes/analyse des résultats",
     "biologie/méthodes/protéines",
     "biologie/méthodes/clonage",
