@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "4edb130496cb47df",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "a44b5d22a3bd8c9d",
             "type": "leaf",
             "state": {
@@ -35,7 +45,8 @@
               "title": "DOT-diagramme"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dns",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +99,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,11 +189,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "304391e9562dc720",
+  "active": "87dc442f218cc64f",
   "lastOpenFiles": [
+    "biologie/Cellule/Organisation cellulaire/Cytosquelette/Microtubules.md",
+    "Musique.md",
+    "autres/couleur.md",
     "informatique/DOT-diagramme.md",
     "autres/électronique.md",
-    "autres/couleur.md",
     "biologie/technique/imagerie/absorbance.md",
     "autres/utile/vélo.md",
     "autres/utile/flouze.md",
@@ -205,8 +217,6 @@
     "mathématique/statistique/statistique.md",
     "biologie/technique/imagerie/microscopie.md",
     "biologie/technique/Risque biologique et expérimentation animale.md",
-    "biologie/technique/RMN résonance magnétique nucléaire.md",
-    "biologie/eucaryote/physiologie animale/Système immunitaire/anticorps.md",
     "biologie/méthodes/analyse des résultats",
     "biologie/méthodes/protéines",
     "biologie/méthodes/clonage",
