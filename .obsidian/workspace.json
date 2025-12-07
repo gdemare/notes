@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,6 +163,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "2dca7c69c716f3e7",
+  "active": "0ad5be82b2354dd4",
   "lastOpenFiles": []
 }
