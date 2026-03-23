@@ -2,7 +2,7 @@ L'objectif de l'étude du métabolisme est de comprendre comment l'énergie et l
 
 Le métabolisme se compose de deux types d'activité :
 
-* anabolisme qui correspond à la synthèse de molécules
+* anabolisme qui correspond à la synthèse de molécules.
 * catabolisme qui correspond à la dégradation de molécules.
 
 L'activité anabolique consiste à additionner de petites molécules simples pour en former des plus complexes. Cette opération nécessite de l'énergie.
@@ -20,7 +20,7 @@ __Voie métabolique__ séquence  est modifiée.
 La cellule a besoin de gérer les ressources :
 
 * matérielles.
-* énrrgétiques.
+* énergétiques.
 
 __Bioénergétique__ étude de la gestion de l'énergie dans la cellule.
 
@@ -65,7 +65,6 @@ Pour qu'une réaction chimique est lieu, il faut que les molécules atteignent u
 
 * l'hydrolyse (hydrolase).
 * l'addition et l'élimination.
-
 * Isomérisation (isomérase) transfert d'un groupement au sein d'une molécule.
 * Transfert de groupe (transférase) transfert d'un groupement entre deux molécules.
 * Oxydo-réduction (oxydoréductase). Elle utilise deux sortes de co-enzymes NADH et $FADH_2$.
