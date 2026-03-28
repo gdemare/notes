@@ -1,80 +1,37 @@
 {
   "main": {
-    "id": "38abad9bc66411e5",
+    "id": "b48bc37ad52833f1",
     "type": "split",
     "children": [
       {
-        "id": "f00cb2e15e6cf8ef",
+        "id": "da1a767f1411b48e",
         "type": "tabs",
         "children": [
           {
-            "id": "304391e9562dc720",
+            "id": "4e412083fe337bc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "autres/couleur.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "couleur"
-            }
-          },
-          {
-            "id": "4edb130496cb47df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "biologie/eucaryote/physiologie animale/Système cardiovasculaire/Sang.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sang"
-            }
-          },
-          {
-            "id": "dec38f4b03b25493",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "a44b5d22a3bd8c9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "informatique/DOT-diagramme.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "DOT-diagramme"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b858b79709e635ed",
+    "id": "8f1f3efe1886aa57",
     "type": "split",
     "children": [
       {
-        "id": "72f56705fe01a927",
+        "id": "05c6abf60dc1a386",
         "type": "tabs",
         "children": [
           {
-            "id": "87dc442f218cc64f",
+            "id": "d711fa21d3c56635",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,12 +44,12 @@
             }
           },
           {
-            "id": "baa682fbcad162f3",
+            "id": "69050b324dcbe8c7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "mac",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,37 +61,35 @@
             }
           },
           {
-            "id": "1d9f3beeef93b784",
+            "id": "612f96eb2986db7d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Signet"
+              "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 300
   },
   "right": {
-    "id": "031eeb3483bdd80a",
+    "id": "f8f989f55bbc13ec",
     "type": "split",
     "children": [
       {
-        "id": "b5805350c73abe31",
+        "id": "9f94612363392f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "b472c197e5e2a1dd",
+            "id": "1ee92dcfd37d081e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "informatique/markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,46 +99,49 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour markdown"
+              "title": "Rétroliens"
             }
           },
           {
-            "id": "224e644576bfb1cb",
+            "id": "5c428b3a83f12c2a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "informatique/markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de markdown"
+              "title": "Liens sortants"
             }
           },
           {
-            "id": "5a6058e3d574b58c",
+            "id": "f1c71e7df37255c6",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Mots-clés"
             }
           },
           {
-            "id": "1fa708595174969f",
+            "id": "d9eb4c82ccefe4fa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "informatique/markdown.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de markdown"
+              "title": "Plan"
             }
           }
         ]
@@ -204,43 +162,6 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "baa682fbcad162f3",
-  "lastOpenFiles": [
-    "biologie/eucaryote/histologie/Tissu conjonctif/Tissu conjonctif.md",
-    "biologie/eucaryote/physiologie animale/Système cardiovasculaire/Sang.md",
-    "biologie/Cellule/Organisation cellulaire/Cytosquelette/Microtubules.md",
-    "Musique.md",
-    "autres/couleur.md",
-    "informatique/DOT-diagramme.md",
-    "autres/électronique.md",
-    "biologie/technique/imagerie/absorbance.md",
-    "autres/utile/vélo.md",
-    "autres/utile/flouze.md",
-    "autres/propriété intellectuelle.md",
-    "biologie/cellule/organisation cellulaire/cytosquelette/microtubules.md",
-    "biologie/technique/MS protéomique.md",
-    "biologie/ressources.md",
-    "biologie/biochimie/protéines/enzyme/types enzymes.md",
-    "biologie/eucaryote/physiologie animale/physiologie.md",
-    "biologie/biochimie/biochimie/lipides.md",
-    "biologie/technique/imagerie/microscopie optique.md",
-    "biologie/cellule/organisation cellulaire/organisation cellulaire.md",
-    "biologie/technique/imagerie/microscopie électronique.md",
-    "mathématique/statistique/tests statistiques.md",
-    "notes non ajoutées.md",
-    "Sans titre.md",
-    "mathématique/statistique/probabilité.md",
-    "mathématique/statistique/probabilité et statistique.md",
-    "mathématique/statistique/statistique.md",
-    "biologie/méthodes/analyse des résultats",
-    "biologie/méthodes/protéines",
-    "biologie/méthodes/clonage",
-    "biologie/technique/imagerie",
-    "biologie/technique/séparation",
-    "biologie/technique",
-    "biologie/méthodes",
-    "biologie/eucaryote",
-    "biologie/biochimie/biochimie",
-    "biologie/biochimie/acides nuclétiques"
-  ]
+  "active": "4e412083fe337bc3",
+  "lastOpenFiles": []
 }
