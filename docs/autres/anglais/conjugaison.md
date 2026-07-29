@@ -7,7 +7,7 @@ Simple | Vérité permanente, habitude | Verbe (prétérit)
 Progressif | Action qui se déroule au moment où | be + ing
 Perfect | Action passée qui exerce une influence passé (ou gotta au sur le moment) | To have + participe
 
-Les modaux : will/would, can/could, must, might, ....
+Modaux : will/would, can/could, must, might, ....
 
 ## Le présent
 
@@ -15,10 +15,10 @@ Les modaux : will/would, can/could, must, might, ....
 
 Informations objectives et faits :
 
-* état (feel, love, think, believe)
-* habitude 
-* futur très proche (I go in 10 minutes)
-* succession d'événements
+* état (feel, love, think, believe).
+* habitude.
+* futur très proche (I go in 10 minutes).
+* succession d'événements.
 
 ### Le présent be+v-ing
 
@@ -32,7 +32,7 @@ Commentaire, interprétation :
 !!! warning
     Be n'est pas répété : She is sitting, reading a book.
 
-## Le passé (appelé préterit)
+## Le passé (appelé prétérit)
 
 ### Perfect
 
@@ -75,9 +75,9 @@ will/shall + verbe
 
 Le conditionnel permet d'exprimer :
 
-* Conditionnel
-* Habitude passée
-* Volonté
+* conditionnel
+* habitude passée
+* volonté
 
 Il se construit :
 
