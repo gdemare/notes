@@ -7,17 +7,18 @@ Les types de variables :
 
 Qualitative     | Numérique (quantitative)
 ----------------|-----------------------------
-Nominale        | discrète
+nominale        | discrète
 ordinale        | continue
+
 ## Une variable
 
 Ordonnée : Effectif/fréquence
 
 Variable | Graphique                                        | A faire
 ---------|--------------------------------------------------|-----------------------------------
-nominale | diagramme en barre, diagramme circulaire         | Décroissant ordonnee par eff/freq
-ordinale | diagramme en barre                               | Classee par la var
-discrete | diagramme en baton                               | 
+nominale | diagramme en barre, diagramme circulaire         | Décroissant ordonné par eff/freq
+ordinale | diagramme en barre                               | Classé par la var
+discrète | diagramme en bâton                               | 
 continu  | histogramme, courbe, densité cumulée, box plot   |
 
 Les valeurs d'un boxplot sont :
@@ -31,11 +32,12 @@ Abscisse/ordonné    | Nominale          | Ordinale  | Discrète              | 
 --------------------|-------------------|-----------|-----------------------|---
 nominale            | histogramme*      |           | Diagramme de Kiviat   | Diagramme de Kiviat
 ordinale            | histogramme*      |           |                       | 
-discrete            | courbes empilées  |           |                       | nuage de points; boxplot
+discrète            | courbes empilées  |           |                       | nuage de points; boxplot
 continue            | box plot          | boxplot   |                       | nuage de points
+
 #### Deux quantitatives
 
-* Histrogramme empilé
+* Histogramme empilé
 * Histogramme.
 
 Avec deux variantes effectifs ou fréquences normalisées.
