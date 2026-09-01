@@ -3,7 +3,7 @@ Pour rappel, la lumière est un phénomène électrique et magnétique.
 La limite de résolution d'un microscope de l'ordre :
 
 - $\lambda$ en profondeur '.
-- $\frac{\lambda}{2}$ lateralement.
+- $\frac{\lambda}{2}$ latéralement.
 
 !!! note
 	Les objets inférieurs à la limite de résolution ont un signal égal à la limite de diffraction.
@@ -18,7 +18,7 @@ Microscope est un appareil composé :
 * d'un objectif.
 * d'un oculaire qui sert à corriger les aberrations.
 
-Les aberrations sont dû a des difference d'angles de diffraction qui varit en fonction de la fréquence des ondes lumineuses lors d'un changement de milieu. C'est le phénomène de diffraction.
+Les aberrations sont dû a des différences d'angle de diffraction qui varie en fonction de la fréquence des ondes lumineuses lors d'un changement de milieu. C'est le phénomène de diffraction.
 
 __Diffraction__ phénomène d'étalement de la lumière.
 
@@ -30,28 +30,30 @@ L'indice de réfraction est une mesure l'atténuation de la vitesse de l'onde da
    L'indice de diffraction dépend de la longueur d'onde.
 
 La microscopie :
+
 - basse résolution jusqu'à 120nm.
 - haute résolution de 50nm à 20nm.
 
 La dispersion dépend de l'indice de réfraction du milieu. Caractérise la dispersion et la vitesse de lumière dans le milieu.
 
 !!! note
-	Les tissus biologiques sont peu absorbants mais les irrégularités présentes à la surface vont créer un halot.
+	Les tissus biologiques sont peu absorbants mais les irrégularités présentes à la surface vont créer un halo.
+	
 ## Champs sombre et contraste de phase
 
-Le diaphragme d'ouverture et de champs servent à modifier la quantité de lumiere qui entre dans le système.
+Le diaphragme d'ouverture et de champs servent à modifier la quantité de lumière qui entre dans le système.
 
-Il est possible de distinguer deux types d'améliorations pour augmenter la resolution ou le contraste de l'image en :
+Il est possible de distinguer deux types d'améliorations pour augmenter la résolution ou le contraste de l'image en :
 
-- en filtrant les photons recus.
-- modifiant la qualité de la lumiere (feuille de lumiere).
+- en filtrant les photons reçus.
+- modifiant la qualité de la lumière (feuille de lumière).
 
 !!! note
   L'infrarouge pénètre mieux les tissus (phénomène de diffusion plus faible).
 
 #### Filtrer les photons
 
-- le contraste de phase consiste à assentuer le contraste de l'échantillon. Il permet d'augmenter les differences les dephasages entre photons en créant des interférences destructive avec la lumière qui n'a pas interagit et constructive le reste. Cette mehtode necessite l'utilisation de polariseurs. 
+- le contraste de phase consiste à accentuer le contraste de l'échantillon. Il permet d'augmenter les différences les déphasages entre photons en créant des interférences destructive avec la lumière qui n'a pas interagit et constructive le reste. Cette méthode nécessite l'utilisation de polariseurs. 
 - avec anneau de lumière
 - confocal. Le av c dz multiple pineho'es Spinning disk.
 
@@ -59,23 +61,24 @@ Il est possible de distinguer deux types d'améliorations pour augmenter la reso
 
 Microscopie a fluorescence à champ large
 
-Réponse au problème d'une nombre trop faible d'émission de fluorochromes.
+Réponse au problème d'une nombre trop faible d'émission de fluorochrome.
 
-Eclair et capte la lumière sur une épaisseur de l'échantillons.
+Éclair et capte la lumière sur une épaisseur de l'échantillon.
 
 Déconvolution pour rendre l'image net. Traitement numérique.
 graduelle.
 
-- quenching extinction reversible ou irreverisble de la fluorescence du a des interactions physiques avec leur environement.
-- photoblanchiment (bleaching) perte irreversible de la faculté d'une molécule à être fluorescente. Elle se produit pour donner suite à l'oxydation.
+- quenching extinction réversible ou irréversible de la fluorescence du a des interactions physiques avec leur environnement.
+- photoblanchiment (bleaching) perte irréversible de la faculté d'une molécule à être fluorescente. Elle se produit pour donner suite à l'oxydation.
 
-Technique	Utilise le bleaching	Utilise le quenching	Objectif principal
-FRAP	Oui	Non	Étude de mobilité
-FLIP	Oui	Non	Connectivité cellulaire
-FRET	Non	Oui	Interaction moléculaire
-PAINT	Oui (indirectement)	Par effet d’échange	Super-résolution
-STED	Oui (contrôlé)	Oui (émission stimulée)	Super-résolution
-TIRF	Réduction du bleaching	Non	Observation proche membrane
+| Technique | Utilise le bleaching   | Utilise le quenching    | Objectif principal          |
+| --------- | ---------------------- | ----------------------- | --------------------------- |
+| FRAP      | Oui                    | Non                     | Étude de mobilité           |
+| FLIP      | Oui                    | Non                     | Connectivité cellulaire     |
+| FRET      | Non                    | Oui                     | Interaction moléculaire     |
+| PAINT     | Oui (indirectement)    | Par effet d’échange     | Super-résolution            |
+| STED      | Oui (contrôlé)         | Oui (émission stimulée) | Super-résolution            |
+| TIRF      | Réduction du bleaching | Non                     | Observation proche membrane |
 
 Utilisé pour suivre la cinétique en créant une zone bleacher comme référence.
 
@@ -88,7 +91,7 @@ Microscopie moléculaire :
 - dynamique
   - FRAP : il permet de mesurer la vitesse de diffusion dans une région d'intérêt. La région d'intérêt est éteinte (bleaching) puis on observe la vitesse de repeuplement. Cela permet également de déterminer la fraction mobile et immobile en comparant le signal avec l'image avec le bleaching.
 - Intéraction moléculaire :
-  - FRET l'émission de fluorescence se fait par l'intération entre deux molécules. Elle dépend de la distance et de l'orientation des molécules entre elles.
+  - FRET l'émission de fluorescence se fait par l'intéraction entre deux molécules. Elle dépend de la distance et de l'orientation des molécules entre elles.
   - FSC évolution de l'intensité de la fluorescence dans une zone d'intérêt.
   - FLIM (Life Time Imaging Microscopy) durée de fluorescence du donneur. Plus vite élément dans l'environnement = alors fret. Indépendance des concentrations des fluorochromes et .
 - localisation :
@@ -133,7 +136,7 @@ En augmentant la viscosité, on limite la dégradation du fluorochrome.
 
 Fonction d'étalement du point correction informatique.
 
-Confocal illumination de l'échantillon par laser. Précision de la zone éclairée. Modifie la façon dont l'échantillon est éclairé.
+__Confocal__ illumination de l'échantillon par laser. Précision de la zone éclairée. Modifie la façon dont l'échantillon est éclairé.
 
 Déterminer la bonne dimension d'une image pour limiter la perte de donner lorsqu'il y a une conversion en binaire (enregistrer en format informatique).
 
