@@ -55,7 +55,7 @@ Il est possible de distinguer deux types d'améliorations pour augmenter la rés
 
 - le contraste de phase consiste à accentuer le contraste de l'échantillon. Il permet d'augmenter les différences les déphasages entre photons en créant des interférences destructive avec la lumière qui n'a pas interagit et constructive le reste. Cette méthode nécessite l'utilisation de polariseurs. 
 - avec anneau de lumière
-- confocal. Le av c dz multiple pineho'es Spinning disk.
+- confocae multiple photonique, à force piézoélectrique(PFM), spinning disk.
 
 ### Avec fluorescence
 
