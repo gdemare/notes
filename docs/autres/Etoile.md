@@ -1,9 +1,7 @@
-
 ### La Terre et la lune
 
-
-
 Les forces de Marée sont les forces de gravité exercées par la Lune (et dans une moindre mesure par le Soleil)  sur la Terre. Elles sont responsables :
+
 - des marées océaniques
 - des déformations du globe terrestre (reste faible). Elle tend à étirer la Terre selon l’axe Terre–Lune et à la comprimer perpendiculairement à cet axe.
 
@@ -13,6 +11,7 @@ Les forces de Marée sont les forces de gravité exercées par la Lune (et dans 
 La Terre tourne plus vite que la Lune ne tourne autour de la Terre ainsi
 - La lune s'éloigne de la Terre de 4cm par an.
 - Les jours sur Terre deviennent légèrement plus long.
+
 # Supernova
 
 Une supernova est l’explosion cataclysmique d’une étoile massive en fin de vie, libérant en quelques secondes autant d’énergie que le Soleil pendant toute son existence. Ces événements extrêmement lumineux peuvent momentanément éclipser une galaxie entière. Ils sont essentiels à la formation des éléments lourds dans l’Univers.
