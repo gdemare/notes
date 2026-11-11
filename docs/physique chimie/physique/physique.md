@@ -3,6 +3,7 @@
 ### Newton
 
 Indépendamment de leur poids, deux objets tombent à la même vitesse.
+
 ### Relativité restreinte
 
 $$E = m \cdot c^2$$
