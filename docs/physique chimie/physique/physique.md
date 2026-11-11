@@ -65,9 +65,10 @@ Les protons du noyau se repoussent à cause de leur charge positive.
 
 Force nucléaire attractive
 
-Noyau est stable si la force nucléaire est égale à la force de répulsion.
+!!! note 
+	Un noyau est stable si la force nucléaire est égale à la force de répulsion.
 
-Un déséquilibre conduit à une transmutation
+Un déséquilibre conduit à une transmutation.
 
 Radioactivité :
 
@@ -77,7 +78,7 @@ Radioactivité :
 
 L'uranium est un cas particulier fission le noyau de 92 protons en deux nouveaux de 36 et 56 en libérant une grande quantité d'énergie. Dans l'uranium utilisé dans les centrales nucléaires est enrichi en 235 (par rapport à l'uranium 238 présent majoritairement) car seul l'uranium 235 est fissible.
 
-L'enrichissement est une étape qui consiste à augmenter la concentration en uraninum 235 en utilisant des procédés qui séparent par la masse. La méthode la plus utilisé est la centrifugation. Par l'utilisation d'un champ électromagnétique (même principe que la spectrométrie de masse) ou phénoméne de diffusion.
+L'enrichissement est une étape qui consiste à augmenter la concentration en uraninum 235 en utilisant des procédés qui séparent par la masse. La méthode la plus utilisé est la centrifugation. Par l'utilisation d'un champ électromagnétique (même principe que la spectrométrie de masse) ou phénomène de diffusion.
 
 Deux $\frac{1}{2}$ neutrons sont émis.
 
@@ -93,7 +94,7 @@ La masse peut être convertie en énergie et inversement.
 
 Plus une particule est massive plus elle contient d'énergie.
 
-Les lois de gravitation de Newton qui énoncent que deux masses s'attire est un cas particulier. Deux objets énergétiques s'attirent.
+Les lois de gravitation de Newton qui énoncent que deux masses s'attirent est un cas particulier. Deux objets énergétiques s'attirent.
 
 2 particules 1 force de champ interaction passe par l'entremise d'une
 particule nommé quantum.
@@ -102,8 +103,8 @@ La portée dépend de la masse de la particule. Plus elle est massive et plus so
 
 4 types d'interactions :
 
-* Électromagnétique attractive et répulsive infini cumulative
-* Nucléaire faible très courte distance $\beta$ réaction de fsion des noyaux d'hydrogène dans le soleil. 3 particules appelé boson $W+$, $W-$ et $Z_0$.
+* Électromagnétique attractive et répulsive, infini cumulative.
+* Nucléaire faible très courte distance $\beta$ réaction de fusion des noyaux d'hydrogène dans le soleil. 3 particules appelé boson $W+$, $W-$ et $Z_0$.
 * Nucléaire forte intense contribue à maintenir les charges positives gluons.
 * Gravité attractive porté infini cumulative. Graviton
 
@@ -122,13 +123,15 @@ Vient du fait que la chaleur, l'agitation atomique se transmet d'un endroit plus
 
 La rencontre entre une particule de matière et son équivalent d'antimatière provoque une annihilation libérant une grande quantité d'énergie.
 
-L'antimatière a disparu de notre univers mais les scientifiques ont été
-capable de la synthétiser en laboratoire.
+L'antimatière a disparu de notre univers mais les scientifiques ont été capable de la synthétiser en laboratoire.
 
 Son absence est probablement dû à des différences entre les lois qui la régissent et celle de la matière. L'Univers actuel serait fait du reste de matière qui ne fut pas annihiler par l'antimatière.
 ## Électricité
 
-Watt $kJ.h^{-1}$
+- Watt $kJ.h^{-1}$
+- Ampère (A) $C \cdot s^{-1}$ nombre de coulomb (charge) par seconde.
+- $\ohm$ résistance différence de potentiel entre deux points. $\frac{V}{I}$ 
+
 ## Forme et conformation
 
 La sphère est la forme la plus compacte. Elle maximise le volume pour une surface petite.
@@ -139,14 +142,14 @@ Généralement un liquide qui se solidifie devient plus dense à l'exception de 
 
 ### Théorie de l'infiniment petit : le modèle standard
 
-La théorie de l'infiiniment petit a été mise au point dans les 1970 à partir des théoires proposées dans les années. Elle permet d'expliquer toutes les observations à ce jour réalisées.
+La théorie de l'infiniment petit a été mise au point dans les 1970 à partir des théories proposées dans les années. Elle permet d'expliquer toutes les observations à ce jour réalisées.
 Elle propose que  tous les objets sont faits de deux types de corpuscules :
-les quarks (électrons, neutrinos et les leptons.
-6 +6 en trois générations de deux membres.
+- les quarks (électrons, neutrinos et les leptons).
+- 6 +6 en trois générations de deux membres.
 
-La premère génération tous ce qui est stables et présent autour de nous.
+La première génération tous ce qui est stables et présent autour de nous.
 
-Décrit les quatres forces fondammentales qui 
+Décrit les quatre forces fondamentales qui 
 
-3 premieres explique par le modèle du bosonintermédiaire
+3 premières explique par le modèle du boson intermédiaire
 Bosons de higgs fait l'intermédiaire entre les masses.
